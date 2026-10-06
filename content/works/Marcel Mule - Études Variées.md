@@ -4,12 +4,13 @@ slug: marcel-mule-etudes-variees
 composer:
   - "[[Marcel Mule]]"
 instruments:
-  - "Etude"
   - "Soprano Saxophone"
   - "Alto Saxophone"
   - "Tenor Saxophone"
   - "Baritone Saxophone"
   - "Unaccompanied"
+tags:
+  - "Etude"
 year-of-study: "Third Year"
 streaming: 
 purchase:

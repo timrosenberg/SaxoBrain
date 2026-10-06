@@ -11,7 +11,7 @@
   const esc = s => String(s).replace(/[&<>"]/g, ch => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[ch]));
   const nf = new Intl.NumberFormat("en-US");
   const $ = id => document.getElementById(id);
-  const state = { q: "", sax: new Set(), lvl: new Set(), with: new Set(), rec: false, women: false, jazz: false, limit: 60 };
+  const state = { q: "", sax: new Set(), lvl: new Set(), with: new Set(), rec: false, women: false, jazz: false, etude: false, limit: 60 };
   let W = [];
 
   function readUrl() {
@@ -21,6 +21,7 @@
     state.rec = p.get("rec") === "1";
     state.women = p.get("women") === "1";
     state.jazz = p.get("jazz") === "1";
+    state.etude = p.get("etude") === "1";
   }
   function writeUrl() {
     const p = new URLSearchParams();
@@ -29,6 +30,7 @@
     if (state.rec) p.set("rec", "1");
     if (state.women) p.set("women", "1");
     if (state.jazz) p.set("jazz", "1");
+    if (state.etude) p.set("etude", "1");
     const qs = p.toString();
     try { history.replaceState(null, "", location.pathname + (qs ? "?" + qs : "") + location.hash); } catch (e) {}
   }
@@ -55,7 +57,7 @@
     const extra = document.createElement("div");
     extra.className = "group";
     extra.innerHTML = `<span class="label-sm">Only show</span>`;
-    [["rec", "Has a recording"], ["women", "Women composers"], ["jazz", "Jazz"]].forEach(([key, lab]) => {
+    [["rec", "Has a recording"], ["women", "Women composers"], ["jazz", "Jazz"], ["etude", "Etudes"]].forEach(([key, lab]) => {
       const b = document.createElement("button");
       b.type = "button"; b.className = "chip"; b.dataset.flag = key; b.textContent = lab;
       b.setAttribute("aria-pressed", "false");
@@ -71,7 +73,7 @@
     });
     $("q").value = state.q;
   }
-  function reset() { state.q = ""; state.sax.clear(); state.lvl.clear(); state.with.clear(); state.rec = false; state.women = false; state.jazz = false; state.limit = 60; }
+  function reset() { state.q = ""; state.sax.clear(); state.lvl.clear(); state.with.clear(); state.rec = false; state.women = false; state.jazz = false; state.etude = false; state.limit = 60; }
 
   function matches(w) {
     if (state.q) { const terms = fold(state.q).split(/\s+/).filter(Boolean); if (!terms.every(t => w.hay.includes(t))) return false; }
@@ -81,6 +83,7 @@
     if (state.rec && !w.s) return false;
     if (state.women && !w.w) return false;
     if (state.jazz && !w.j) return false;
+    if (state.etude && !w.e) return false;
     return true;
   }
   function instLine(w) {
@@ -94,7 +97,7 @@
 
   function render() {
     const hits = W.filter(matches);
-    const active = state.q || state.sax.size || state.lvl.size || state.with.size || state.rec || state.women || state.jazz;
+    const active = state.q || state.sax.size || state.lvl.size || state.with.size || state.rec || state.women || state.jazz || state.etude;
     $("count").textContent = active ? `${nf.format(hits.length)} of ${nf.format(W.length)} works` : `All ${nf.format(W.length)} works, by composer`;
     $("clear").hidden = !active;
     const list = $("list");

@@ -4,12 +4,13 @@ slug: sigfrid-karg-elert-25-capricen
 composer:
   - "[[Sigfrid Karg-Elert]]"
 instruments:
-  - "Etude"
   - "Soprano Saxophone"
   - "Alto Saxophone"
   - "Tenor Saxophone"
   - "Baritone Saxophone"
   - "Unaccompanied"
+tags:
+  - "Etude"
 year-of-study: "Third Year"
 arranger-edition:
   - "Jeffrey Lerner"

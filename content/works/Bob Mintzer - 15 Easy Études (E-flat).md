@@ -6,9 +6,9 @@ composer:
 instruments:
   - "Soprano Saxophone"
   - "Tenor Saxophone"
-  - "Etude"
 tags:
   - "Jazz"
+  - "Etude"
 year-of-study: "First Year"
 streaming: 
 purchase:

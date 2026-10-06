@@ -4,12 +4,13 @@ slug: guy-lacour-28-etudes-sur-les-modes-a-transpositions-limitees-d-olivier-mes
 composer:
   - "[[Guy Lacour]]"
 instruments:
-  - "Etude"
   - "Soprano Saxophone"
   - "Alto Saxophone"
   - "Tenor Saxophone"
   - "Baritone Saxophone"
   - "Unaccompanied"
+tags:
+  - "Etude"
 year-of-study: "Third Year"
 streaming: 
 purchase:

@@ -4,11 +4,12 @@ slug: jean-marie-londiex-exercices-d-intonation
 composer:
   - "[[Jean-Marie Londiex]]"
 instruments:
-  - "Etude"
   - "Soprano Saxophone"
   - "Alto Saxophone"
   - "Tenor Saxophone"
   - "Baritone Saxophone"
+tags:
+  - "Etude"
 year-of-study: "Second-Year"
 streaming: 
 purchase:

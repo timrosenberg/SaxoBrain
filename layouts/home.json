@@ -1,5 +1,5 @@
 {{- /* Catalog data for the searchable Repertoire page. t title, u address, c composer names, w any composer is a woman,
-       j tagged Jazz, i instruments, y year of study, s has a recording, p has a score link. */ -}}
+       j tagged Jazz, e tagged Etude, i instruments, y year of study, s has a recording, p has a score link. */ -}}
 {{- $rows := slice -}}
 {{- range where site.RegularPages "Section" "works" -}}
   {{- $names := slice -}}
@@ -14,6 +14,7 @@
       "c" $names
       "w" $w
       "j" (in (.Params.tags | default slice) "Jazz")
+      "e" (in (.Params.tags | default slice) "Etude")
       "i" (.Params.instruments | default slice)
       "y" (index .Params "year-of-study" | default "")
       "s" (ne (.Params.streaming | default "") "")

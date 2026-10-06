@@ -5,8 +5,9 @@ composer:
   - "[[Larry Teal]]"
 instruments:
   - "Alto Saxophone"
-  - "Etude"
   - "Unaccompanied"
+tags:
+  - "Etude"
 year-of-study: "Pre-college"
 streaming: 
 purchase:

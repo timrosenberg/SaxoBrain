@@ -8,6 +8,7 @@ instruments:
   - "Alto Saxophone"
   - "Tenor Saxophone"
   - "Baritone Saxophone"
+tags:
   - "Etude"
 year-of-study: "First Year"
 arranger-edition:
