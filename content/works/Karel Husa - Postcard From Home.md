@@ -14,3 +14,5 @@ studied-performed: true
 added: 2020-07-23
 aliases: []
 ---
+
+[https://www.youtube.com/watch?v=TCp1WKdUYIg](https://www.youtube.com/watch?v=TCp1WKdUYIg)

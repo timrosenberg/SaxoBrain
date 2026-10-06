@@ -2,7 +2,7 @@
 title: "Sonata No. 12"
 slug: niccolo-paganini-sonata-no-12
 composer:
-  - "[[Niccolo Paganini]]"
+  - "[[Niccolò Paganini]]"
 instruments:
   - "Alto Saxophone"
   - "Piano"

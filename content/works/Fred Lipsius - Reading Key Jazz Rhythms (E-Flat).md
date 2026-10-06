@@ -4,9 +4,10 @@ slug: fred-lipsius-reading-key-jazz-rhythms-e-flat
 composer:
   - "[[Fred Lipsius]]"
 instruments:
-  - "Jazz"
   - "Soprano Saxophone"
   - "Tenor Saxophone"
+tags:
+  - "Jazz"
 year-of-study: "First Year"
 streaming: 
 purchase:

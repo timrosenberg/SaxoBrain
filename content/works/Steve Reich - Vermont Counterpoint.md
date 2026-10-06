@@ -17,3 +17,5 @@ want-to-play: true
 added: 2025-04-19
 aliases: []
 ---
+
+[https://jeffreyheisler.bandcamp.com/track/vermont-counterpoint](https://jeffreyheisler.bandcamp.com/track/vermont-counterpoint)

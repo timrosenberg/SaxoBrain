@@ -6,6 +6,7 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Baritone Saxophone"
+tags:
   - "Jazz"
 year-of-study: "Second-Year"
 arranger-edition:

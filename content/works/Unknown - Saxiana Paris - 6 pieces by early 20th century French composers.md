@@ -14,3 +14,10 @@ purchase:
 added: 2024-02-23
 aliases: []
 ---
+
+- [[Jules Massenet - Méditation de Thaïs (As)|Méditation de Thaïs (As)]]
+- [[Gabriel Fauré - Élégie, Op. 24|Élégie, Op. 24 (Fauré)]] by 
+- [[Georges Migot - Prélude—lamento|Prélude—lamento]] by 
+- [[Maurice Ravel - Vocalise—étude|Vocalise—étude (Ravel)]] by 
+- [[Claude Debussy - Syrinx|Syrinx]] by 
+- [[Ernest Chausson - Le temps des lilas|Le temps des lilas]] by 

@@ -14,3 +14,5 @@ want-to-play: true
 added: 2019-08-28
 aliases: []
 ---
+
+[Rousseau: Music of Jindrich Feld](https://jeanne-inc.com/products/rousseau-music-jindrich-feld)

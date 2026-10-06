@@ -6,5 +6,6 @@ nationality:
 gender: "Male"
 race:
   - "White"
-aliases: []
+aliases:
+  - "/composers/pierre-max-dubois-2/"
 ---

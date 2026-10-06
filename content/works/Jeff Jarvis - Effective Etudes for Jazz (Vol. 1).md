@@ -4,11 +4,12 @@ slug: jeff-jarvis-effective-etudes-for-jazz-vol-1
 composer:
   - "[[Jeff Jarvis]]"
 instruments:
-  - "Jazz"
   - "Soprano Saxophone"
   - "Alto Saxophone"
   - "Tenor Saxophone"
   - "Baritone Saxophone"
+tags:
+  - "Jazz"
 year-of-study: "First Year"
 streaming: 
 purchase:

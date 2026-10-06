@@ -4,9 +4,10 @@ slug: charlie-parker-charlie-parker-omnibook-b-flat
 composer:
   - "[[Charlie Parker]]"
 instruments:
-  - "Jazz"
   - "Tenor Saxophone"
   - "Soprano Saxophone"
+tags:
+  - "Jazz"
 year-of-study: "Second-Year"
 arranger-edition:
   - "Jamey Aebersold"

@@ -16,3 +16,7 @@ purchase:
 added: 2024-02-22
 aliases: []
 ---
+
+[Syrinx (Debussy, Claude) - IMSLP](https://imslp.org/wiki/Syrinx_(Debussy,_Claude))
+
+[https://www.youtube.com/watch?v=RNjroFNi7mA](https://www.youtube.com/watch?v=RNjroFNi7mA)

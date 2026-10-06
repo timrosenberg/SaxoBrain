@@ -14,3 +14,5 @@ purchase:
 added: 2024-03-08
 aliases: []
 ---
+
+"Respectfully dedicated to Lieut. Commander John Philip Sousa.”

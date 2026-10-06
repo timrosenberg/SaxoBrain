@@ -2,7 +2,7 @@
 title: "Tarantella"
 slug: niccolo-paganini-tarantella
 composer:
-  - "[[Niccolo Paganini]]"
+  - "[[Niccolò Paganini]]"
 instruments:
   - "Alto Saxophone"
   - "Piano"

@@ -1,8 +1,11 @@
 ---
 title: "Niccolò Paganini"
-slug: niccolo-paganini-2
-nationality: []
-gender: 
-race: []
-aliases: []
+slug: niccolo-paganini
+nationality:
+  - "🇮🇹 Italian"
+gender: "Male"
+race:
+  - "White"
+aliases:
+  - "/composers/niccolo-paganini-2/"
 ---

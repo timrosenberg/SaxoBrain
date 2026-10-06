@@ -13,3 +13,6 @@ purchase:
 added: 2024-03-06
 aliases: []
 ---
+
+> Written in 1987 for Joe Lulloff and inspired by jazz saxophonist Rahsaan Roland Kirk's composition *BLACKNUSS*, which utilizes only the black keys of the piano.
+>

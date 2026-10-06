@@ -15,3 +15,7 @@ purchase:
 added: 2024-02-22
 aliases: []
 ---
+
+[Elegy, Op.24 (Fauré, Gabriel) - IMSLP](https://imslp.org/wiki/Elegy,_Op.24_(Fauré,_Gabriel))
+
+[https://www.youtube.com/watch?v=m84iLSh56KU](https://www.youtube.com/watch?v=m84iLSh56KU)

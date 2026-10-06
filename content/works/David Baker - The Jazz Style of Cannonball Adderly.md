@@ -8,6 +8,7 @@ instruments:
   - "Alto Saxophone"
   - "Tenor Saxophone"
   - "Baritone Saxophone"
+tags:
   - "Jazz"
 year-of-study: "Second-Year"
 streaming: 

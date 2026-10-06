@@ -13,3 +13,9 @@ purchase:
 added: 2025-04-16
 aliases: []
 ---
+
+> Written for Paul Wehage's 1998 tour of Japan with Moyuru Maeda, to whom the work is dedicated, this work in three movements explores the sound of traditional Japanese music in a contrapunctal style.
+1. Printemps
+2. Ballade
+3. Pavillon d'Or
+>

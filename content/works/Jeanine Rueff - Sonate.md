@@ -13,3 +13,9 @@ purchase:
 added: 2024-02-26
 aliases: []
 ---
+
+[https://www.youtube.com/watch?v=VxjEQFp_i9A](https://www.youtube.com/watch?v=VxjEQFp_i9A)
+
+[https://www.youtube.com/watch?v=9cmDsPvhGyU](https://www.youtube.com/watch?v=9cmDsPvhGyU)
+
+[https://www.youtube.com/watch?v=TWD9p9wkOGY](https://www.youtube.com/watch?v=TWD9p9wkOGY)

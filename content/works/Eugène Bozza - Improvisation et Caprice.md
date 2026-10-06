@@ -13,4 +13,7 @@ purchase:
 studied-performed: true
 added: 2019-08-25
 aliases: []
+third-party-files: true
 ---
+
+[Master Lesson by Steve Mauk on Bozza's Improvisation et Caprice](/media/works/eugene-bozza-improvisation-et-caprice/bozzaIC.pdf)

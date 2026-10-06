@@ -4,11 +4,12 @@ slug: charles-pillow-13-jazz-etudes-for-saxophone
 composer:
   - "[[Charles Pillow]]"
 instruments:
-  - "Jazz"
   - "Soprano Saxophone"
   - "Alto Saxophone"
   - "Tenor Saxophone"
   - "Baritone Saxophone"
+tags:
+  - "Jazz"
 year-of-study: "First Year"
 streaming: 
 purchase:

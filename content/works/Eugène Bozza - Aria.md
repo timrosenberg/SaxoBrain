@@ -15,4 +15,7 @@ purchase:
 studied-performed: true
 added: 2019-08-25
 aliases: []
+third-party-files: true
 ---
+
+[Mauk - Bozza’s Aria Masterclass.pdf](/media/works/eugene-bozza-aria/Aria_Masterclass.pdf)

@@ -12,3 +12,6 @@ purchase:
 added: 2024-03-12
 aliases: []
 ---
+
+> [I]nspired by the sight of her father walking with a cane.
+>

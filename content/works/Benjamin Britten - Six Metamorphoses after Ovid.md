@@ -13,3 +13,5 @@ purchase:
 added: 2019-08-25
 aliases: []
 ---
+
+Played off the score originally for solo oboe.

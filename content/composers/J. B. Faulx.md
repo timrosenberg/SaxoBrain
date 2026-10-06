@@ -4,5 +4,6 @@ slug: j-b-faulx
 nationality: []
 gender: 
 race: []
-aliases: []
+aliases:
+  - "/composers/j-b-faulx-2/"
 ---

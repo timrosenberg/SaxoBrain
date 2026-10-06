@@ -2,7 +2,7 @@
 title: "Piece de Concert"
 slug: j-b-faulx-piece-de-concert
 composer:
-  - "[[J.B. Faulx]]"
+  - "[[J. B. Faulx]]"
 instruments:
   - "Alto Saxophone"
   - "Piano"

@@ -2,7 +2,7 @@
 title: "Cantabile"
 slug: niccolo-paganini-cantabile
 composer:
-  - "[[Niccolo Paganini]]"
+  - "[[Niccolò Paganini]]"
 instruments:
   - "Alto Saxophone"
   - "Piano"

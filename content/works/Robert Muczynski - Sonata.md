@@ -13,4 +13,7 @@ purchase:
 studied-performed: true
 added: 2019-08-28
 aliases: []
+third-party-files: true
 ---
+
+[Mauk - Master Lesson on Muczynski’s Sonata.pdf](/media/works/robert-muczynski-sonata/muczynski.pdf)

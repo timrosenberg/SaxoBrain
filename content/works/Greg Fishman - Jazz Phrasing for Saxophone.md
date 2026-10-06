@@ -4,12 +4,13 @@ slug: greg-fishman-jazz-phrasing-for-saxophone
 composer:
   - "[[Greg Fishman]]"
 instruments:
-  - "Jazz"
   - "Soprano Saxophone"
   - "Alto Saxophone"
   - "Tenor Saxophone"
   - "Baritone Saxophone"
   - "Etude"
+tags:
+  - "Jazz"
 year-of-study: "First Year"
 streaming: 
 purchase:

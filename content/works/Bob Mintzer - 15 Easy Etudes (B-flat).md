@@ -4,10 +4,11 @@ slug: bob-mintzer-15-easy-etudes-b-flat
 composer:
   - "[[Bob Mintzer]]"
 instruments:
-  - "Jazz"
   - "Soprano Saxophone"
   - "Tenor Saxophone"
   - "Etude"
+tags:
+  - "Jazz"
 year-of-study: "First Year"
 streaming: 
 purchase:

@@ -14,4 +14,7 @@ studied-performed: true
 want-to-play: true
 added: 2019-08-28
 aliases: []
+third-party-files: true
 ---
+
+[Mauk - **Master Lesson on Paul Creston’s Sonata**](/media/works/paul-creston-sonata/Creston_Sonata_Masterclass.pdf)

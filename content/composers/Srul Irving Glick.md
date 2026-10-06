@@ -6,5 +6,6 @@ nationality:
 gender: "Male"
 race:
   - "White"
-aliases: []
+aliases:
+  - "/composers/srul-irving-glick-2/"
 ---

@@ -13,4 +13,7 @@ purchase:
 studied-performed: true
 added: 2019-08-25
 aliases: []
+third-party-files: true
 ---
+
+[Mauk - Lawson Lune’s Sonata Masterclass.pdf](/media/works/lawson-lunde-sonata/Sonata_Masterclass.pdf)

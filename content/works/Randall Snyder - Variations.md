@@ -14,3 +14,5 @@ download:
 added: 2025-04-16
 aliases: []
 ---
+
+["Variations for solo saxophone" by Randall Snyder](https://works.bepress.com/randall_snyder/293/)

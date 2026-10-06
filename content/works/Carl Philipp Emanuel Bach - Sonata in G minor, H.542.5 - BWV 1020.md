@@ -15,3 +15,7 @@ purchase:
 added: 2024-03-10
 aliases: []
 ---
+
+This piece was originally attributed to [[Johann Sebastian Bach]]; but, it was later discovered that it was written by [[Carl Philipp Emanuel Bach]].
+
+[https://vmirror.imslp.org/files/imglnks/usimg/1/1d/IMSLP851069-PMLP5990-BACH_CPE_Sonate_sol_m_BWV_1_020-H_542.5_(Vl_&_cla).pdf](https://vmirror.imslp.org/files/imglnks/usimg/1/1d/IMSLP851069-PMLP5990-BACH_CPE_Sonate_sol_m_BWV_1_020-H_542.5_(Vl_&_cla).pdf)

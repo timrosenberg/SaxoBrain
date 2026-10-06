@@ -2,7 +2,7 @@
 title: "Moto Perpetuo"
 slug: niccolo-paganini-moto-perpetuo
 composer:
-  - "[[Niccolo Paganini]]"
+  - "[[Niccolò Paganini]]"
 instruments:
   - "Alto Saxophone"
   - "Piano"

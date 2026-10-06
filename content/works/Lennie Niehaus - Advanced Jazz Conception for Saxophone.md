@@ -4,11 +4,12 @@ slug: lennie-niehaus-advanced-jazz-conception-for-saxophone
 composer:
   - "[[Lennie Niehaus]]"
 instruments:
-  - "Jazz"
   - "Soprano Saxophone"
   - "Alto Saxophone"
   - "Tenor Saxophone"
   - "Baritone Saxophone"
+tags:
+  - "Jazz"
 year-of-study: "Second-Year"
 streaming: 
 purchase: []

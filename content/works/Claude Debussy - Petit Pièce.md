@@ -15,3 +15,5 @@ purchase:
 added: 2019-09-09
 aliases: []
 ---
+
+Must be transposed from the original clarinet version

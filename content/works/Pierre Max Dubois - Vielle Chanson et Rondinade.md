@@ -2,7 +2,7 @@
 title: "Vielle Chanson et Rondinade"
 slug: pierre-max-dubois-vielle-chanson-et-rondinade
 composer:
-  - "[[Pierre Max Dubois 2|Pierre Max Dubois]]"
+  - "[[Pierre-Max DuBois|Pierre Max Dubois]]"
 instruments:
   - "Soprano Saxophone"
 year-of-study: 

@@ -15,3 +15,7 @@ purchase:
 added: 2024-02-22
 aliases: []
 ---
+
+[Thaïs (Massenet, Jules) - IMSLP](https://imslp.org/wiki/Thaïs_(Massenet,_Jules))
+
+[https://www.youtube.com/watch?v=-dlrqNo-DrA](https://www.youtube.com/watch?v=-dlrqNo-DrA)

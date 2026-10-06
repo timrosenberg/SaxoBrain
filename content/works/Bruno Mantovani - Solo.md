@@ -13,3 +13,5 @@ want-to-play: true
 added: 2026-03-23
 aliases: []
 ---
+
+[Solo by Sandro Compagnon](https://song.link/i/1686994980)

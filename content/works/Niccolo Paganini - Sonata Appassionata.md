@@ -2,7 +2,7 @@
 title: "Sonata Appassionata"
 slug: niccolo-paganini-sonata-appassionata-2
 composer:
-  - "[[Niccolo Paganini]]"
+  - "[[Niccolò Paganini]]"
 instruments:
   - "Alto Saxophone"
   - "Piano"

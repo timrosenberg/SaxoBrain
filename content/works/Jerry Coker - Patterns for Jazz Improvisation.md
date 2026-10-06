@@ -4,11 +4,12 @@ slug: jerry-coker-patterns-for-jazz-improvisation
 composer:
   - "[[Jerry Coker]]"
 instruments:
-  - "Jazz"
   - "Soprano Saxophone"
   - "Alto Saxophone"
   - "Tenor Saxophone"
   - "Baritone Saxophone"
+tags:
+  - "Jazz"
 year-of-study: "Third Year"
 streaming: 
 purchase:

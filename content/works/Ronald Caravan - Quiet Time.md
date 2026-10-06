@@ -13,3 +13,5 @@ purchase:
 added: 2022-03-27
 aliases: []
 ---
+
+Note: Recording is on soprano; but it can be played on tenor as well.

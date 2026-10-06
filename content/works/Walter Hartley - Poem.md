@@ -13,4 +13,7 @@ purchase:
 studied-performed: true
 added: 2019-08-28
 aliases: []
+third-party-files: true
 ---
+
+[Master Lesson by Steven Mauk on Walter Hartley's Poem for Tenor Saxophone](/media/works/walter-hartley-poem/hartley.pdf)

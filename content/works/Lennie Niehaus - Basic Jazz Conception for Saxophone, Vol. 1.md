@@ -4,11 +4,12 @@ slug: lennie-niehaus-basic-jazz-conception-for-saxophone-vol-1
 composer:
   - "[[Lennie Niehaus]]"
 instruments:
-  - "Jazz"
   - "Soprano Saxophone"
   - "Alto Saxophone"
   - "Tenor Saxophone"
   - "Baritone Saxophone"
+tags:
+  - "Jazz"
 year-of-study: "First Year"
 streaming: 
 purchase:

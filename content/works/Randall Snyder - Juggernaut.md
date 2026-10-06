@@ -12,4 +12,7 @@ streaming:
 purchase: []
 added: 2025-04-16
 aliases: []
+third-party-files: true
 ---
+
+[Snyder - Juggernaut](/media/works/randall-snyder-juggernaut/fulltext.pdf)

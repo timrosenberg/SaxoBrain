@@ -13,3 +13,5 @@ purchase: []
 added: 2024-02-26
 aliases: []
 ---
+
+Published by Éditions Hody: [emmanuelhody@gmail.com](mailto:emmanuelhody@gmail.com)

@@ -21,3 +21,5 @@ studied-performed: true
 added: 2019-08-25
 aliases: []
 ---
+
+Go to the [[The Ferling Project]] page to find play-along accompaniments and recordings by Jean-Denis Michat.

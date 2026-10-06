@@ -2,7 +2,7 @@
 title: "Suite Hebraique No. 4"
 slug: srul-irving-glick-suite-hebraique-no-4
 composer:
-  - "[[Srul Irving Glick 2|Srul Irving Glick]]"
+  - "[[Srul Irving Glick|Srul Irving Glick]]"
 instruments:
   - "Alto Saxophone"
   - "Piano"

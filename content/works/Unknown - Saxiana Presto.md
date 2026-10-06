@@ -15,3 +15,11 @@ purchase:
 added: 2024-02-23
 aliases: []
 ---
+
+- [[Jun Nagao - L'oiseau enfermé|L'oiseau enfermé]]
+- [[Michael Lysight - Seti|Seti]]
+- [[Philippe Geiss - Sax Hero|Sax Hero]]
+- [[Gabriela Ortiz - Estudio Tongolele|Estudio Tongolele]]
+- [[Polina Medyulyanova - Hallucination|Hallucination]]
+- [[Luis Naón - Target|Target]]
+- [[Vache Sharafyan - Opus Brevis|Opus Brevis]]
