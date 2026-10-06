@@ -1,9 +1,20 @@
 {{ define "main" }}
+<div class="section-list">
 <h1>{{ .Title }}</h1>
-{{ .Content }}
-<ul class="worklist">
-{{ range .RegularPages }}
-<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-{{ end }}
+{{ if eq .Section "curriculum" }}{{ partial "curriculum-nav.html" . }}{{ end }}
+{{ partial "notice.html" . }}
+{{ with partial "body.html" . }}<div class="prose">{{ . }}</div>{{ end }}
+{{ with .Sections }}
+<ul class="alist">
+{{ range .ByTitle }}<li><a href="{{ .RelPermalink }}"><span>{{ .Title }}</span></a></li>{{ end }}
 </ul>
+{{ end }}
+{{ if not (eq .Section "curriculum") }}
+{{ with .RegularPages.ByTitle }}
+<ul class="alist">
+{{ range . }}<li><a href="{{ .RelPermalink }}"><span>{{ .Title }}</span>{{ with .Params.saxophonists }}<span class="who">{{ . }}</span>{{ end }}</a></li>{{ end }}
+</ul>
+{{ end }}
+{{ end }}
+</div>
 {{ end }}

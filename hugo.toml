@@ -1,4 +1,4 @@
-baseURL = "https://timrosenberg.github.io/SaxoBrain/"
+baseURL = "https://saxobrain.timothyrosenberg.com/"
 locale = "en-US"
 title = "SaxoBrain"
 disableKinds = ["taxonomy", "term", "rss"]

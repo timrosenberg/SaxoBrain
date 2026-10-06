@@ -1,0 +1,12 @@
+{{- /* Map of lowercased file name -> page, for every page, used to resolve [[links]] in page bodies.
+       Keys use straight quotes. Lowercased because macOS file names ignore case. Two pages with the
+       same file name would make a link ambiguous, so that stops the build. */ -}}
+{{- $m := dict -}}
+{{- range site.RegularPages -}}
+  {{- $k := lower (replace (replace .File.ContentBaseName "’" "'") "‘" "'") -}}
+  {{- if index $m $k -}}
+    {{- errorf "Two pages share the file name %q: %s and %s. Rename one so [[links]] stay unambiguous." $k (index $m $k).File.Path .File.Path -}}
+  {{- end -}}
+  {{- $m = merge $m (dict $k .) -}}
+{{- end -}}
+{{- return $m -}}

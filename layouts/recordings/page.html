@@ -1,0 +1,23 @@
+{{ define "main" }}
+{{ $idx := partialCached "page-index.html" "all" }}
+<article class="recording">
+<p class="eyebrow">Recording</p>
+<h1>{{ .Title }}</h1>
+{{ with .Params.saxophonists }}<p class="byline">{{ . }}</p>{{ end }}
+{{ with .Params.cover }}<img class="cover" src="{{ if hasPrefix . "/" }}{{ relURL (strings.TrimPrefix "/" .) }}{{ else }}{{ . }}{{ end }}" alt="Cover of {{ $.Title }}" loading="lazy">{{ end }}
+<p class="actions">{{ with .Params.streaming }}<a class="btn primary" href="{{ . }}" rel="noopener">Listen</a>{{ end }}</p>
+<dl class="facts">{{ with index .Params "year-released" }}<dt>Released</dt><dd>{{ . }}</dd>{{ end }}</dl>
+{{ partial "notice.html" . }}
+{{ with partial "body.html" . }}<div class="prose">{{ . }}</div>{{ end }}
+{{ with .Params.works }}
+<h2>Works on this recording</h2>
+<ul class="worklist">
+{{ range . }}
+  {{ $name := replaceRE `^\[\[([^|\]]+)(\|[^\]]*)?\]\]$` "$1" . }}
+  {{ with index $idx (lower $name) }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+  {{ else }}{{ errorf "Recording %s lists work %q, which matches no page file." $.File.Path $name }}{{ end }}
+{{ end }}
+</ul>
+{{ end }}
+</article>
+{{ end }}

@@ -1,12 +1,13 @@
 {{ define "main" }}
 {{ $composers := partial "composers-of.html" . }}
+{{ $level := index .Params "year-of-study" }}
 <article class="work">
-<p class="eyebrow">{{ with index .Params "year-of-study" }}{{ . }}{{ else }}Not yet levelled{{ end }}</p>
+<p class="eyebrow"><span class="lvl pill c-lv-{{ partial "level.html" $level }}"><span class="dot lv-{{ partial "level.html" $level }}"></span>{{ partial "level-name.html" $level }}</span></p>
 <h1>{{ .Title }}</h1>
 <p class="byline">{{ range $i, $c := $composers }}{{ if $i }}, {{ end }}<a href="{{ $c.RelPermalink }}">{{ $c.Title }}</a>{{ else }}Composer unknown{{ end }}</p>
 
 <p class="actions">
-{{ with .Params.streaming }}<a class="btn primary" href="{{ . }}" rel="noopener">Listen</a>{{ end }}
+{{ with .Params.streaming }}<a class="btn primary" href="{{ . }}" rel="noopener">Listen</a>{{ else }}<span class="btn missing">No recording linked yet</span>{{ end }}
 {{ range .Params.purchase }}<a class="btn" href="{{ . }}" rel="noopener">Buy the score</a>{{ end }}
 {{ range .Params.download }}<a class="btn" href="{{ . }}" rel="noopener">Free score</a>{{ end }}
 </p>
@@ -17,6 +18,19 @@
 {{ with .Params.publisher }}<dt>Publisher</dt><dd>{{ delimit . ", " }}</dd>{{ end }}
 </dl>
 
-{{ with .Content }}<div class="notes">{{ . }}</div>{{ end }}
+{{ partial "notice.html" . }}
+{{ with partial "body.html" . }}<div class="notes">{{ . }}</div>{{ end }}
+
+{{ $self := . }}
+{{ with $composers }}
+{{ $c := index . 0 }}
+{{ $others := where (partial "works-by.html" $c) "Permalink" "ne" $self.Permalink }}
+{{ with $others }}
+<h2>More by {{ $c.Title }}</h2>
+<ul class="worklist">
+{{ range sort . "Title" }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a><span class="lvl pill c-lv-{{ partial "level.html" (index .Params "year-of-study") }}"><span class="dot lv-{{ partial "level.html" (index .Params "year-of-study") }}"></span>{{ partial "level-name.html" (index .Params "year-of-study") }}</span></li>{{ end }}
+</ul>
+{{ end }}
+{{ end }}
 </article>
 {{ end }}

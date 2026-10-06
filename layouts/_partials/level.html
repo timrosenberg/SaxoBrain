@@ -1,0 +1,4 @@
+{{- /* Year of study -> color class suffix used by .dot and .c-lv-* (see site.css). No year gives "none". */ -}}
+{{- $m := dict "pre-college" "pre" "first year" "1" "second-year" "2" "third year" "3" "fourth year" "4" "advanced" "adv" -}}
+{{- $k := index $m (lower (. | default "")) -}}
+{{- return ($k | default "none") -}}

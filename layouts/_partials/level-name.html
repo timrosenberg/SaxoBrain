@@ -1,0 +1,4 @@
+{{- /* Display name for a year of study; matches the names in static/js/catalog.js. */ -}}
+{{- $m := dict "pre-college" "Pre-college" "first year" "First year" "second-year" "Second year" "third year" "Third year" "fourth year" "Fourth year" "advanced" "Advanced" -}}
+{{- $k := lower (. | default "") -}}
+{{- return (index $m $k | default "No year assigned") -}}

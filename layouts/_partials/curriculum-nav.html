@@ -1,0 +1,16 @@
+{{- /* Year pills across the curriculum pages. Order follows the four years, then the instrument. */ -}}
+{{- $rank := dict "first" 1 "second" 2 "junior" 3 "senior" 4 -}}
+{{- $cur := . -}}
+{{- $pages := slice -}}
+{{- range (site.GetPage "/curriculum").RegularPages -}}{{- $pages = $pages | append . -}}{{- end -}}
+{{- $sorted := sort $pages "Title" -}}
+{{- $keyed := slice -}}
+{{- range $sorted -}}
+  {{- $y := index $rank (lower (index (split .Title " ") 0)) | default 9 -}}
+  {{- $keyed = $keyed | append (dict "k" (printf "%d %s" $y .Title) "p" .) -}}
+{{- end -}}
+<div class="years" role="navigation" aria-label="Curriculum pages">
+{{- range sort $keyed "k" -}}
+  {{- with .p }}<a class="year" href="{{ .RelPermalink }}"{{ if eq .Permalink $cur.Permalink }} aria-current="page"{{ end }}>{{ .Title }}</a>{{ end -}}
+{{- end -}}
+</div>

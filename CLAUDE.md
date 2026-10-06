@@ -26,14 +26,30 @@ SaxoBrain: Tim Rosenberg's public saxophone knowledge base, migrating from Notio
 ## Scripts
 
 - `scripts/import_from_notion.py`: pre-launch import from the public Notion API. Overwrites `content/works` and `content/composers`. Do not run after launch.
+- `scripts/import_notes_from_export.py`: copies piece notes (197 pages) from the official Notion Markdown export into works that have no body yet. Never overwrites a body. Notes link to other pages with `[[File Name]]`, resolved by `layouts/_partials/body.html`; an unresolved link fails the build.
+- `scripts/migration/build_page_map.py` → `page-map.csv`: where every non-catalog Notion page goes (status import / view / private / ask). Private and "ask" pages are never published.
+- `scripts/import_pages_from_export.py <export folder> <zip>`: imports the `import` rows (curriculum, reading, recordings, lists, resources) and copies attached files into `static/media/`. Refuses to overwrite a page that has `notion-id:` unless `--force`. `--work-attachments` links attached files in piece notes. Files over 30 MB are not copied (need separate hosting).
+- `scripts/migration/wayback_lookup.py` → `wayback.json`: verified Wayback snapshots for each `original-url`; the importer adds them as `wayback-url`.
 - `scripts/migration/notion-ids.json`: Notion page ID → file name map, plus each work's Recordings relation IDs (recordings not yet imported).
 
+## Design
+
+Ported from the 2026-10-06 prototype. Tokens, light/dark (follows the visitor's system setting) and all component styles are in `static/css/site.css`; fonts load from Google Fonts in `layouts/baseof.html`. The home page is a client-side catalog: `layouts/home.json` builds `/index.json`, `static/js/catalog.js` filters it, and filters live in the query string (`/?sax=Alto+Saxophone&lvl=First+Year&rec=1`), which the "Start here" tiles use. Level colors come from `layouts/_partials/level.html`. Site paths in Markdown (`/media/...`) get the base path from `layouts/_markup/render-link.html` and `render-image.html`; always use `relURL` in templates so the site works under any base path.
+
+## Custom domain (planned: saxobrain.timothyrosenberg.com)
+
+`hugo.toml` already has the new baseURL and the workflow builds with the base URL GitHub reports, so no code change is needed at cutover. Steps for Tim: (1) add a DNS CNAME record `saxobrain` pointing to `timrosenberg.github.io`; (2) in the repo's Settings > Pages, set the custom domain and tick "Enforce HTTPS" once it is available; (3) push, or re-run the Publish workflow. `scripts/check_addresses.py` compares against both the new domain and the old github.io list, ignores a domain that does not resolve yet, and strips the `/SaxoBrain` prefix so the move does not look like lost pages. Old github.io links redirect to the new domain on their own. Update links in the Fall 2026 syllabi at the next semester break.
+
+## Third-party content
+
+Pages with `third-party: true` (articles by others) or `third-party-files: true` (pages hosting others' PDFs) show a notice that they are outside Tim's CC BY-SA license (`layouts/_partials/notice.html`). Tim approved publishing these on 2026-10-06. Keep the notice on any new page that reproduces others' work.
+
 ## Build
+
+The repo sits in iCloud-synced `~/Documents`. On 2026-10-06 macOS made 1,415 conflict copies ("Name 2.md", and numbered names like "Op. 101" becoming "Op. 102"); Tim approved deleting them. If untracked files named like existing pages reappear, they share a slug with the real page and override it in the build.
 
 `hugo --minify` locally. Publishing: `.github/workflows/publish.yml` on push to `main`.
 
 ## Known data issues (fix in content, then delete from this list)
 
-- Duplicate composers to merge: Pierre-Max DuBois / Pierre Max Dubois 2; Niccolò Paganini / Niccolo Paganini; J. B. Faulx / J.B. Faulx; Srul Irving Glick / Srul Irving Glick 2.
 - 8 works have no composer.
-- Bodies of 226 work pages (notes) not imported yet: take them from Tim's official Notion export.

@@ -1,0 +1,12 @@
+{{- /* Content by other people is outside the site's CC BY-SA license; say so on the page. */ -}}
+{{- $orig := index .Params "original-url" -}}
+{{- if index .Params "third-party" -}}
+<aside class="notice">
+<p>This page reproduces or summarizes work by others. It is not covered by the CC BY-SA license that applies to Timothy Rosenberg's own material.
+{{- with $orig }} <a href="{{ . }}" rel="noopener">Original</a>{{ with index $.Params "wayback-url" }}, <a href="{{ . }}" rel="noopener">archived copy on the Wayback Machine</a>{{ end }}.{{ end }}</p>
+</aside>
+{{- else if index .Params "third-party-files" -}}
+<aside class="notice">
+<p>Scores, documents and articles by others that are linked from this page are not covered by the CC BY-SA license that applies to Timothy Rosenberg's own material.</p>
+</aside>
+{{- end -}}

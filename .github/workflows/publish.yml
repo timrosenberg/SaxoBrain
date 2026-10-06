@@ -37,7 +37,10 @@ jobs:
         run: hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
 
       - name: Check that no existing address disappears
-        run: python3 scripts/check_addresses.py public/addresses.txt "${{ steps.pages.outputs.base_url }}/addresses.txt"
+        run: |
+          python3 scripts/check_addresses.py public/addresses.txt "${{ steps.pages.outputs.base_url }}/" \
+            "${{ steps.pages.outputs.base_url }}/addresses.txt" \
+            "https://timrosenberg.github.io/SaxoBrain/addresses.txt"
 
       - name: Package the site
         uses: actions/upload-pages-artifact@v3

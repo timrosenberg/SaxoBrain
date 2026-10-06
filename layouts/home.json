@@ -1,16 +1,23 @@
-{{- /* Catalog data for the searchable Repertoire page. */ -}}
+{{- /* Catalog data for the searchable Repertoire page. t title, u address, c composer names, w any composer is a woman,
+       j tagged Jazz, i instruments, y year of study, s has a recording, p has a score link. */ -}}
 {{- $rows := slice -}}
 {{- range where site.RegularPages "Section" "works" -}}
   {{- $names := slice -}}
-  {{- range partial "composers-of.html" . -}}{{- $names = $names | append .Title -}}{{- end -}}
+  {{- $w := false -}}
+  {{- range partial "composers-of.html" . -}}
+    {{- $names = $names | append .Title -}}
+    {{- if eq .Params.gender "Female" }}{{ $w = true }}{{ end -}}
+  {{- end -}}
   {{- $rows = $rows | append (dict
       "t" .Title
       "u" .RelPermalink
       "c" $names
+      "w" $w
+      "j" (in (.Params.tags | default slice) "Jazz")
       "i" (.Params.instruments | default slice)
       "y" (index .Params "year-of-study" | default "")
-      "s" (.Params.streaming | default "")
-      "p" (index (.Params.purchase | default slice) 0 | default "")
+      "s" (ne (.Params.streaming | default "") "")
+      "p" (or (gt (len (.Params.purchase | default slice)) 0) (gt (len (.Params.download | default slice)) 0))
   ) -}}
 {{- end -}}
 {{- jsonify $rows -}}

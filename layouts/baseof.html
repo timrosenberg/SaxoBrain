@@ -3,25 +3,33 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} · {{ site.Title }}{{ end }}</title>
+<title>{{ if .IsHome }}{{ site.Title }}: saxophone repertoire, curriculum and reading{{ else }}{{ .Title }} · {{ site.Title }}{{ end }}</title>
 <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
 <link rel="canonical" href="{{ .Permalink }}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Public+Sans:wght@400;500;600&display=swap">
 <link rel="stylesheet" href="{{ "css/site.css" | relURL }}">
 </head>
 <body>
+<a class="skip" href="#main">Skip to content</a>
+{{- $sec := .Section -}}
 <header class="site-head">
 <a class="brand" href="{{ "/" | relURL }}">Saxo<span>Brain</span></a>
-<nav>
-<a href="{{ "/" | relURL }}">Repertoire</a>
-<a href="{{ "curriculum/" | relURL }}">Curriculum</a>
-<a href="{{ "reading/" | relURL }}">Reading</a>
+<nav aria-label="Sections">
+<a href="{{ "/" | relURL }}"{{ if or .IsHome (eq $sec "works") (eq $sec "composers") }} aria-current="page"{{ end }}>Repertoire</a>
+<a href="{{ "curriculum/" | relURL }}"{{ if eq $sec "curriculum" }} aria-current="page"{{ end }}>Curriculum</a>
+<a href="{{ "reading/" | relURL }}"{{ if eq $sec "reading" }} aria-current="page"{{ end }}>Reading</a>
+<a href="{{ "recordings/" | relURL }}"{{ if eq $sec "recordings" }} aria-current="page"{{ end }}>Recordings</a>
+<a href="{{ "lists/" | relURL }}"{{ if eq $sec "lists" }} aria-current="page"{{ end }}>Lists</a>
+<a href="{{ "resources/" | relURL }}"{{ if eq $sec "resources" }} aria-current="page"{{ end }}>Resources</a>
 </nav>
 </header>
-<main>
+<main id="main">
 {{ block "main" . }}{{ end }}
 </main>
 <footer class="site-foot">
-<p>Built and maintained by Timothy Rosenberg. Licensed {{ site.Params.license }}.</p>
+<p>Built and maintained by Timothy Rosenberg. Licensed {{ site.Params.license }}. Links may contain affiliate codes.</p>
 </footer>
 </body>
 </html>
