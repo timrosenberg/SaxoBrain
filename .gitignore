@@ -1,0 +1,8 @@
+public/
+resources/_gen/
+.hugo_build.lock
+.DS_Store
+# Obsidian's per-device window state
+content/.obsidian/workspace*.json
+content/.obsidian/cache
+content/.trash/

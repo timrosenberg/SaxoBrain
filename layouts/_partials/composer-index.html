@@ -1,0 +1,7 @@
+{{- /* Map of lowercased composer file name -> composer page. Keys are lowercased because
+       macOS file names ignore case and Hugo map keys are not reliably case-preserving. */ -}}
+{{- $m := dict -}}
+{{- range where site.RegularPages "Section" "composers" -}}
+  {{- $m = merge $m (dict (lower .File.ContentBaseName) .) -}}
+{{- end -}}
+{{- return $m -}}

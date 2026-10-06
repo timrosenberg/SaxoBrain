@@ -1,0 +1,16 @@
+{{- /* Catalog data for the searchable Repertoire page. */ -}}
+{{- $rows := slice -}}
+{{- range where site.RegularPages "Section" "works" -}}
+  {{- $names := slice -}}
+  {{- range partial "composers-of.html" . -}}{{- $names = $names | append .Title -}}{{- end -}}
+  {{- $rows = $rows | append (dict
+      "t" .Title
+      "u" .RelPermalink
+      "c" $names
+      "i" (.Params.instruments | default slice)
+      "y" (index .Params "year-of-study" | default "")
+      "s" (.Params.streaming | default "")
+      "p" (index (.Params.purchase | default slice) 0 | default "")
+  ) -}}
+{{- end -}}
+{{- jsonify $rows -}}

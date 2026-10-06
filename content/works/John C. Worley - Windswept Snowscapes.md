@@ -1,0 +1,14 @@
+---
+title: "Windswept Snowscapes"
+slug: john-c-worley-windswept-snowscapes
+composer:
+  - "[[John C. Worley]]"
+instruments:
+  - "Alto Saxophone"
+  - "Piano"
+year-of-study: 
+streaming: 
+purchase: []
+added: 2024-03-08
+aliases: []
+---

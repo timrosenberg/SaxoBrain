@@ -1,0 +1,96 @@
+properties:
+  note.year-of-study:
+    displayName: Year of Study
+  note.arranger-edition:
+    displayName: Arranger / Edition
+  note.studied-performed:
+    displayName: Studied / Performed
+  note.want-to-play:
+    displayName: Want to Play
+
+views:
+  - type: table
+    name: All works
+    filters:
+      and:
+        - file.inFolder("works")
+    order:
+      - file.name
+      - composer
+      - instruments
+      - year-of-study
+      - streaming
+      - purchase
+
+  - type: table
+    name: By year of study
+    filters:
+      and:
+        - file.inFolder("works")
+    groupBy:
+      property: note.year-of-study
+      direction: ASC
+    order:
+      - file.name
+      - instruments
+      - streaming
+      - purchase
+
+  - type: table
+    name: Levelled, no recording
+    filters:
+      and:
+        - file.inFolder("works")
+        - '!note["year-of-study"].isEmpty()'
+        - 'note["streaming"].isEmpty()'
+    order:
+      - file.name
+      - year-of-study
+      - instruments
+      - streaming
+
+  - type: table
+    name: Levelled, no purchase link
+    filters:
+      and:
+        - file.inFolder("works")
+        - '!note["year-of-study"].isEmpty()'
+        - 'note["purchase"].isEmpty()'
+    order:
+      - file.name
+      - year-of-study
+      - purchase
+
+  - type: table
+    name: Not yet levelled
+    filters:
+      and:
+        - file.inFolder("works")
+        - 'note["year-of-study"].isEmpty()'
+    order:
+      - file.name
+      - composer
+      - instruments
+      - year-of-study
+
+  - type: table
+    name: My repertoire
+    filters:
+      and:
+        - file.inFolder("works")
+        - 'note["studied-performed"] == true'
+    order:
+      - file.name
+      - year-of-study
+      - want-to-play
+
+  - type: table
+    name: Composers
+    filters:
+      and:
+        - file.inFolder("composers")
+    order:
+      - file.name
+      - nationality
+      - gender
+      - race

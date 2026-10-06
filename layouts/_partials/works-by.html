@@ -1,0 +1,6 @@
+{{- /* All works whose composer field links to this composer page. Built once per site build. */ -}}
+{{- $out := slice -}}
+{{- with index (partialCached "works-by-composer.html" "all") (lower .File.ContentBaseName) -}}
+  {{- $out = . -}}
+{{- end -}}
+{{- return $out -}}

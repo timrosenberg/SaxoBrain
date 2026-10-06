@@ -1,0 +1,27 @@
+/* Temporary base styles. The prototype's full design gets ported here next. */
+:root {
+--bg: #f5f6f8; --surface: #ffffff; --fg: #1b2029; --muted: #5d6676; --line: #dde1e8; --accent: #9a6514;
+}
+@media (prefers-color-scheme: dark) {
+:root { --bg: #12151b; --surface: #1a1e26; --fg: #e7eaf0; --muted: #9aa3b2; --line: #2b313c; --accent: #e0a64a; color-scheme: dark; }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--fg); font: 15px/1.5 -apple-system, "Segoe UI", Roboto, sans-serif; }
+a { color: var(--accent); }
+.site-head, main, .site-foot { max-width: 980px; margin: 0 auto; padding-inline: 20px; }
+.site-head { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 12px; padding-block: 24px 12px; border-bottom: 1px solid var(--line); }
+.site-head nav { display: flex; gap: 16px; }
+.brand { font-weight: 700; font-size: 28px; color: var(--fg); text-decoration: none; }
+.brand span { color: var(--accent); }
+main { padding-block: 24px 48px; }
+.eyebrow { text-transform: uppercase; letter-spacing: .08em; font-size: 12px; color: var(--muted); margin: 0; }
+h1 { margin: 6px 0; line-height: 1.15; }
+.byline, .muted, .lede { color: var(--muted); }
+.actions { display: flex; flex-wrap: wrap; gap: 10px; }
+.btn { padding: 9px 15px; border: 1px solid var(--line); border-radius: 10px; text-decoration: none; color: var(--fg); background: var(--surface); font-weight: 600; }
+.btn.primary { background: var(--accent); border-color: var(--accent); color: var(--surface); }
+.facts { display: grid; grid-template-columns: auto 1fr; gap: 6px 16px; }
+.facts dt { color: var(--muted); }
+.facts dd { margin: 0; }
+.worklist { padding-left: 18px; }
+.site-foot { color: var(--muted); font-size: 13px; padding-block: 24px; border-top: 1px solid var(--line); }

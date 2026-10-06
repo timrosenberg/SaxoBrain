@@ -1,0 +1,22 @@
+{{ define "main" }}
+{{ $composers := partial "composers-of.html" . }}
+<article class="work">
+<p class="eyebrow">{{ with index .Params "year-of-study" }}{{ . }}{{ else }}Not yet levelled{{ end }}</p>
+<h1>{{ .Title }}</h1>
+<p class="byline">{{ range $i, $c := $composers }}{{ if $i }}, {{ end }}<a href="{{ $c.RelPermalink }}">{{ $c.Title }}</a>{{ else }}Composer unknown{{ end }}</p>
+
+<p class="actions">
+{{ with .Params.streaming }}<a class="btn primary" href="{{ . }}" rel="noopener">Listen</a>{{ end }}
+{{ range .Params.purchase }}<a class="btn" href="{{ . }}" rel="noopener">Buy the score</a>{{ end }}
+{{ range .Params.download }}<a class="btn" href="{{ . }}" rel="noopener">Free score</a>{{ end }}
+</p>
+
+<dl class="facts">
+<dt>Instrumentation</dt><dd>{{ delimit .Params.instruments ", " }}</dd>
+{{ with index .Params "arranger-edition" }}<dt>Edition</dt><dd>{{ delimit . ", " }}</dd>{{ end }}
+{{ with .Params.publisher }}<dt>Publisher</dt><dd>{{ delimit . ", " }}</dd>{{ end }}
+</dl>
+
+{{ with .Content }}<div class="notes">{{ . }}</div>{{ end }}
+</article>
+{{ end }}

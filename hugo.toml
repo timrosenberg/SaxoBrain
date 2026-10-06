@@ -1,0 +1,27 @@
+baseURL = "https://timrosenberg.github.io/SaxoBrain/"
+locale = "en-US"
+title = "SaxoBrain"
+disableKinds = ["taxonomy", "term", "rss"]
+# Obsidian files that live alongside the content
+ignoreFiles = ['\.base$', '\.obsidian']
+
+[params]
+  description = "Repertoire, curriculum and reading for saxophonists, maintained by Timothy Rosenberg."
+  license = "CC BY-SA 4.0 (Timothy Rosenberg's own material; articles by other authors remain theirs)"
+
+# Every page's address comes from its slug field, never from the file name
+[permalinks.page]
+  works = "/works/:slug/"
+  composers = "/composers/:slug/"
+
+[outputFormats.addresses]
+  mediaType = "text/plain"
+  baseName = "addresses"
+  isPlainText = true
+  notAlternative = true
+
+[outputs]
+  home = ["html", "json", "addresses"]
+
+[markup.goldmark.renderer]
+  unsafe = false

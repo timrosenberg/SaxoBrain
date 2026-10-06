@@ -1,0 +1,13 @@
+{{- /* Resolve a work's composer links ([[File Name]] or [[File Name|Display]]) to composer pages.
+       A link that matches no composer file stops the build, so typos never publish. */ -}}
+{{- $idx := partialCached "composer-index.html" "all" -}}
+{{- $out := slice -}}
+{{- range .Params.composer -}}
+  {{- $target := replaceRE `^\[\[([^|\]]+)(\|[^\]]*)?\]\]$` "$1" . -}}
+  {{- with index $idx (lower $target) -}}
+    {{- $out = $out | append . -}}
+  {{- else -}}
+    {{- errorf "Composer link %q in %s does not match any file in composers/. Check the spelling or create the composer file." $target $.File.Path -}}
+  {{- end -}}
+{{- end -}}
+{{- return $out -}}

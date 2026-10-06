@@ -1,0 +1,18 @@
+{{ define "main" }}
+{{ $works := partial "works-by.html" . }}
+{{ $n := 0 }}{{ with $works }}{{ $n = len . }}{{ end }}
+<article class="composer">
+<p class="eyebrow">Composer</p>
+<h1>{{ .Title }}</h1>
+{{ with .Params.nationality }}<p class="byline">{{ delimit . ", " }}</p>{{ end }}
+{{ with .Content }}<div class="notes">{{ . }}</div>{{ end }}
+<h2>Works in SaxoBrain ({{ $n }})</h2>
+{{ with $works }}
+<ul class="worklist">
+{{ range sort . "Title" }}
+<li><a href="{{ .RelPermalink }}">{{ .Title }}</a> <span class="muted">{{ with index .Params "year-of-study" }}{{ . }}{{ else }}Not yet levelled{{ end }}</span></li>
+{{ end }}
+</ul>
+{{ end }}
+</article>
+{{ end }}

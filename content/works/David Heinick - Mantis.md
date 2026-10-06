@@ -1,0 +1,15 @@
+---
+title: "Mantis"
+slug: david-heinick-mantis
+composer:
+  - "[[David Heinick]]"
+instruments:
+  - "Soprano Saxophone"
+  - "Piano"
+year-of-study: "Advanced"
+streaming: "https://song.link/us/i/458218950"
+purchase:
+  - "http://www.davidheinick.com/mantis.html"
+added: 2019-11-13
+aliases: []
+---

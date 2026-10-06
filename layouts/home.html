@@ -1,0 +1,12 @@
+{{ define "main" }}
+{{ $works := where site.RegularPages "Section" "works" }}
+{{ $composers := where site.RegularPages "Section" "composers" }}
+<h1>SaxoBrain</h1>
+<p class="lede">{{ len $works }} works for saxophone by {{ len $composers }} composers.</p>
+{{/* Placeholder list. The searchable catalog from the prototype replaces this and reads index.json. */}}
+<ul class="worklist">
+{{ range sort $works "Title" }}
+<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+{{ end }}
+</ul>
+{{ end }}

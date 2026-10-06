@@ -1,0 +1,15 @@
+---
+title: "As in Stained Light"
+slug: leonard-mark-lewis-as-in-stained-light
+composer:
+  - "[[Leonard Mark Lewis]]"
+instruments:
+  - "Alto Saxophone"
+  - "Piano"
+year-of-study: 
+streaming: 
+purchase:
+  - "https://www.leonardmarklewis.com/as-in-stained-light-1"
+added: 2024-03-08
+aliases: []
+---

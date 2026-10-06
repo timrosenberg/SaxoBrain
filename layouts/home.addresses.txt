@@ -1,0 +1,8 @@
+{{- /* Every address the site answers to: each page plus its redirect aliases.
+       scripts/check_addresses.py compares this list with the live site before publishing. */ -}}
+{{- range site.Pages }}
+{{ .RelPermalink }}
+{{- range .Aliases }}
+{{ strings.TrimPrefix "/" . | relURL }}
+{{- end }}
+{{- end }}

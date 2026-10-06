@@ -1,0 +1,14 @@
+---
+title: "Grotesque Dance"
+slug: ivan-shishov-grotesque-dance
+composer:
+  - "[[Ivan Shishov]]"
+instruments:
+  - "Alto Saxophone"
+  - "Piano"
+year-of-study: 
+streaming: 
+purchase: []
+added: 2024-03-08
+aliases: []
+---

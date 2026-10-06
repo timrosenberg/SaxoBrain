@@ -1,0 +1,14 @@
+---
+title: "Three Pieces"
+slug: leo-kraft-three-pieces
+composer:
+  - "[[Leo Kraft]]"
+instruments:
+  - "Alto Saxophone"
+  - "Piano"
+year-of-study: 
+streaming: 
+purchase: []
+added: 2024-03-08
+aliases: []
+---

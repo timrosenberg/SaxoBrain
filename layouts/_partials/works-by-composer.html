@@ -1,0 +1,9 @@
+{{- /* Map of lowercased composer file name -> works that link to it. */ -}}
+{{- $s := newScratch -}}
+{{- range where site.RegularPages "Section" "works" -}}
+  {{- $w := . -}}
+  {{- range .Params.composer -}}
+    {{- $s.Add (lower (replaceRE `^\[\[([^|\]]+)(\|[^\]]*)?\]\]$` "$1" .)) (slice $w) -}}
+  {{- end -}}
+{{- end -}}
+{{- return $s.Values -}}
