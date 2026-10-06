@@ -1,0 +1,17 @@
+---
+title: "Classical Bouquet"
+slug: classical-bouquet
+saxophonists: "Steven Mauk"
+works:
+  - "[[Giovanni Benedetto Platti - Sonata in G Major]]"
+  - "[[Johann Sebastian Bach - Sonata in E-flat Major, BWV 1031]]"
+  - "[[Maurice Ravel - Piece en Forme de Habanera (B♭ inst.)]]"
+  - "[[Charles Rochester Young - Sonata]]"
+  - "[[Hector Villa-Lobos - Fantasia]]"
+  - "[[Wolfgang Amadeus Mozart - Concerto K. 314]]"
+year-released: "1991"
+cover: "/media/recordings/classical-bouquet/image.jpeg"
+notion-id: 1d95a3ec532180d19201ec2dca901b4f
+---
+
+

@@ -1,0 +1,127 @@
+---
+title: "Senior Year: Jazz Studies"
+slug: senior-year-jazz-studies
+notion-id: 1edfb6af62754c288137d8b0eb9b853f
+---
+
+# Jazz Études
+
+- Fishman Book 2
+
+# Jazz Tunes with Improvisation
+
+- All The Things You Are
+    - E-flat Lead Sheet
+    - B-flat Lead Sheet
+    - Play-a-long
+    - Recording
+- Blue in Green
+    - E-flat Lead Sheet
+    - B-flat Lead Sheet
+    - Play-a-long
+    - Recording
+- Bye Bye Blackbird
+    - E-flat Lead Sheet
+    - B-flat Lead Sheet
+    - Play-a-long
+    - Recording
+- Cherokee
+    - E-flat Lead Sheet
+    - B-flat Lead Sheet
+    - Play-a-long
+    - Recording
+- Countdown
+    - E-flat Lead Sheet
+    - B-flat Lead Sheet
+    - Play-a-long
+    - Recording
+- Desafinado
+    - E-flat Lead Sheet
+    - B-flat Lead Sheet
+    - Play-a-long
+    - Recording
+- Donna Lee
+    - E-flat Lead Sheet
+    - B-flat Lead Sheet
+    - Play-a-long
+    - Recording
+- Eternal Triangle
+    - E-flat Lead Sheet
+    - B-flat Lead Sheet
+    - Play-a-long
+    - Recording
+- Freedom Jazz Dance
+    - E-flat Lead Sheet
+    - B-flat Lead Sheet
+    - Play-a-long
+    - Recording
+- Giant Steps
+    - E-flat Lead Sheet
+    - B-flat Lead Sheet
+    - Play-a-long
+    - Recording
+- It’s Only a Paper Moon
+    - E-flat Lead Sheet
+    - B-flat Lead Sheet
+    - Play-a-long
+    - Recording
+- Lucky Southern
+    - E-flat Lead Sheet
+    - B-flat Lead Sheet
+    - Play-a-long
+    - Recording
+- Lush Life
+    - E-flat Lead Sheet
+    - B-flat Lead Sheet
+    - Play-a-long
+    - Recording
+- Mack The Knife
+    - E-flat Lead Sheet
+    - B-flat Lead Sheet
+    - Play-a-long
+    - Recording
+- Moment’s Notice
+    - E-flat Lead Sheet
+    - B-flat Lead Sheet
+    - Play-a-long
+    - Recording
+- Ornithology
+    - E-flat Lead Sheet
+    - B-flat Lead Sheet
+    - Play-a-long
+    - Recording
+- Stella By Starlight
+    - E-flat Lead Sheet
+    - B-flat Lead Sheet
+    - Play-a-long
+    - Recording
+- Stolen Moments
+    - E-flat Lead Sheet
+    - B-flat Lead Sheet
+    - Play-a-long
+    - Recording
+- There Will Never Be Another You
+    - E-flat Lead Sheet
+    - B-flat Lead Sheet
+    - Play-a-long
+    - Recording
+- Wave
+    - E-flat Lead Sheet
+    - B-flat Lead Sheet
+    - Play-a-long
+    - Recording
+- The Way You Look Tonight
+    - E-flat Lead Sheet
+    - B-flat Lead Sheet
+    - Play-a-long
+    - Recording
+- Worksong
+    - E-flat Lead Sheet
+    - B-flat Lead Sheet
+    - Play-a-long
+    - Recording
+- Yesterdays
+    - E-flat Lead Sheet
+    - B-flat Lead Sheet
+    - Play-a-long
+    - Recording
