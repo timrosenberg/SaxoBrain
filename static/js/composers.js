@@ -1,5 +1,5 @@
 /* Filters for the Composers page. The list is already on the page; this hides rows that do not match
-   and keeps the filters in the address bar (/composers/?nat=French&lvl=First+Year&born=1900&women=1&living=1). */
+   and keeps the filters in the address bar (/composers/?nat=French&lvl=First+Year&born=1900&women=1&poc=1&living=1). */
 (function () {
   const LEVELS = [["Pre-college", "pre"], ["First Year", "1"], ["Second-Year", "2"], ["Third Year", "3"], ["Fourth Year", "4"], ["Advanced", "adv"]];
   const LV_NAME = { "Pre-college": "Pre-college", "First Year": "First year", "Second-Year": "Second year", "Third Year": "Third year", "Fourth Year": "Fourth year", "Advanced": "Advanced" };
@@ -10,7 +10,7 @@
   const fold = s => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
   const nf = new Intl.NumberFormat("en-US");
   const $ = id => document.getElementById(id);
-  const state = { q: "", nat: new Set(), lvl: new Set(), born: new Set(), women: false, living: false };
+  const state = { q: "", nat: new Set(), lvl: new Set(), born: new Set(), women: false, poc: false, living: false };
 
   const rows = [...document.querySelectorAll(".clist li")].map(li => ({
     li,
@@ -19,7 +19,8 @@
     lv: li.dataset.lv.split(" "),
     born: li.dataset.born ? +li.dataset.born : null,
     living: li.dataset.living === "1",
-    w: li.dataset.w === "1"
+    w: li.dataset.w === "1",
+    o: li.dataset.o === "1"
   }));
   const groups = [...document.querySelectorAll(".letter-group")];
   const letterLinks = [...document.querySelectorAll(".letters a")];
@@ -38,6 +39,7 @@
     state.q = p.get("q") || "";
     ["nat", "lvl", "born"].forEach(k => p.getAll(k).forEach(v => state[k].add(v)));
     state.women = p.get("women") === "1";
+    state.poc = p.get("poc") === "1";
     state.living = p.get("living") === "1";
   }
   function writeUrl() {
@@ -45,6 +47,7 @@
     if (state.q) p.set("q", state.q);
     ["nat", "lvl", "born"].forEach(k => state[k].forEach(v => p.append(k, v)));
     if (state.women) p.set("women", "1");
+    if (state.poc) p.set("poc", "1");
     if (state.living) p.set("living", "1");
     const qs = p.toString();
     try { history.replaceState(null, "", location.pathname + (qs ? "?" + qs : "") + location.hash); } catch (e) {}
@@ -74,6 +77,7 @@
     box.appendChild(group("Born", Object.entries(ERAS).map(([v, [lab]]) => chip(lab, () => state.born.has(v), toggle("born", v)))));
     box.appendChild(group("Only show", [
       chip("Women composers", () => state.women, () => { state.women = !state.women; update(); }),
+      chip("Composers of color", () => state.poc, () => { state.poc = !state.poc; update(); }),
       chip("Living composers", () => state.living, () => { state.living = !state.living; update(); })
     ]));
   }
@@ -88,6 +92,7 @@
     if (state.lvl.size && ![...state.lvl].some(v => r.lv.includes(lvCode(v)))) return false;
     if (state.born.size && ![...state.born].some(v => ERAS[v] && r.born !== null && r.born >= ERAS[v][1] && r.born <= ERAS[v][2])) return false;
     if (state.women && !r.w) return false;
+    if (state.poc && !r.o) return false;
     if (state.living && !r.living) return false;
     return true;
   }
@@ -101,7 +106,7 @@
       a.classList.toggle("off", off);
       if (off) a.setAttribute("aria-disabled", "true"); else a.removeAttribute("aria-disabled");
     });
-    const active = state.q || state.nat.size || state.lvl.size || state.born.size || state.women || state.living;
+    const active = state.q || state.nat.size || state.lvl.size || state.born.size || state.women || state.poc || state.living;
     $("ccount").textContent = active ? `${nf.format(n)} of ${nf.format(rows.length)} composers` : `${nf.format(rows.length)} composers`;
     $("cclear").hidden = !active;
     $("cempty").hidden = n > 0;
@@ -113,7 +118,7 @@
   $("cq").hidden = false;
   let tmr;
   $("cq").addEventListener("input", e => { clearTimeout(tmr); tmr = setTimeout(() => { state.q = e.target.value.trim(); writeUrl(); render(); }, 100); });
-  $("cclear").onclick = () => { state.q = ""; state.nat.clear(); state.lvl.clear(); state.born.clear(); state.women = false; state.living = false; update(); };
+  $("cclear").onclick = () => { state.q = ""; state.nat.clear(); state.lvl.clear(); state.born.clear(); state.women = false; state.poc = false; state.living = false; update(); };
   letterLinks.forEach(a => a.addEventListener("click", e => { if (a.classList.contains("off")) e.preventDefault(); }));
 
   // Highlight the letter of the section at the top of the screen.

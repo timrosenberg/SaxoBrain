@@ -2,7 +2,7 @@
    and keeps the filters in the address bar so a search can be shared. */
 (function () {
   const LEVELS = [["Pre-college", "pre"], ["First Year", "1"], ["Second-Year", "2"], ["Third Year", "3"], ["Fourth Year", "4"], ["Advanced", "adv"]];
-  const LV_NAME = { "Pre-college": "Pre-college", "First Year": "First year", "Second-Year": "Second year", "Third Year": "Third year", "Fourth Year": "Fourth year", "Advanced": "Advanced", "": "No year assigned" };
+  const LV_NAME = { "Pre-college": "Pre-college", "First Year": "First year", "Second-Year": "Second year", "Third Year": "Third year", "Fourth Year": "Fourth year", "Advanced": "Advanced", "": "Unassigned" };
   const lvClass = y => "lv-" + ((LEVELS.find(l => l[0] === y) || [0, "none"])[1]);
   const SAX = ["Soprano Saxophone", "Alto Saxophone", "Tenor Saxophone", "Baritone Saxophone", "Bass Saxophone"];
   const WITH = ["Piano", "Unaccompanied", "Orchestra", "Band", "Electronics", "Percussion"];
@@ -13,7 +13,7 @@
   const esc = s => String(s).replace(/[&<>"]/g, ch => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[ch]));
   const nf = new Intl.NumberFormat("en-US");
   const $ = id => document.getElementById(id);
-  const state = { q: "", sax: new Set(), lvl: new Set(), with: new Set(), rec: false, women: false, jazz: false, etude: false, sort: "composer", limit: 60 };
+  const state = { q: "", sax: new Set(), lvl: new Set(), with: new Set(), rec: false, women: false, poc: false, jazz: false, etude: false, sort: "composer", limit: 60 };
   let W = [];
 
   function readUrl() {
@@ -22,6 +22,7 @@
     ["sax", "lvl", "with"].forEach(k => p.getAll(k).forEach(v => state[k].add(v)));
     state.rec = p.get("rec") === "1";
     state.women = p.get("women") === "1";
+    state.poc = p.get("poc") === "1";
     state.jazz = p.get("jazz") === "1";
     state.etude = p.get("etude") === "1";
     state.sort = SORTS[p.get("sort")] ? p.get("sort") : "composer";
@@ -32,6 +33,7 @@
     ["sax", "lvl", "with"].forEach(k => state[k].forEach(v => p.append(k, v)));
     if (state.rec) p.set("rec", "1");
     if (state.women) p.set("women", "1");
+    if (state.poc) p.set("poc", "1");
     if (state.jazz) p.set("jazz", "1");
     if (state.etude) p.set("etude", "1");
     if (state.sort !== "composer") p.set("sort", state.sort);
@@ -61,7 +63,7 @@
     const extra = document.createElement("div");
     extra.className = "group";
     extra.innerHTML = `<span class="label-sm">Only show</span>`;
-    [["rec", "Has a recording"], ["women", "Women composers"], ["jazz", "Jazz"], ["etude", "Etudes"]].forEach(([key, lab]) => {
+    [["rec", "Has a recording"], ["women", "Women composers"], ["poc", "Composers of color"], ["jazz", "Jazz"], ["etude", "Etudes"]].forEach(([key, lab]) => {
       const b = document.createElement("button");
       b.type = "button"; b.className = "chip"; b.dataset.flag = key; b.textContent = lab;
       b.setAttribute("aria-pressed", "false");
@@ -78,7 +80,7 @@
     $("q").value = state.q;
     $("sort").value = state.sort;
   }
-  function reset() { state.q = ""; state.sax.clear(); state.lvl.clear(); state.with.clear(); state.rec = false; state.women = false; state.jazz = false; state.etude = false; state.limit = 60; }
+  function reset() { state.q = ""; state.sax.clear(); state.lvl.clear(); state.with.clear(); state.rec = false; state.women = false; state.poc = false; state.jazz = false; state.etude = false; state.limit = 60; }
 
   function matches(w) {
     if (state.q) { const terms = fold(state.q).split(/\s+/).filter(Boolean); if (!terms.every(t => w.hay.includes(t))) return false; }
@@ -87,6 +89,7 @@
     if (state.with.size && ![...state.with].some(s => w.i.includes(s))) return false;
     if (state.rec && !w.s) return false;
     if (state.women && !w.w) return false;
+    if (state.poc && !w.o) return false;
     if (state.jazz && !w.j) return false;
     if (state.etude && !w.e) return false;
     return true;
@@ -96,13 +99,13 @@
     const rest = w.i.filter(t => !SAX.includes(t) && t !== "Unaccompanied");
     let s = sax.length ? sax.join(" or ") + " saxophone" : "";
     if (w.i.includes("Unaccompanied")) s += (s ? ", " : "") + "unaccompanied";
-    if (rest.length) s += (s ? " with " : "") + rest.join(", ").toLowerCase();
-    return s;
+    if (rest.length) s += (s ? " with " : "") + rest.join(", ").toLowerCase().replace(/\(([a-z]+)\)/g, (m, g) => "(" + g.toUpperCase() + ")");
+    return s.charAt(0).toUpperCase() + s.slice(1);
   }
 
   function render() {
     const hits = W.filter(matches);
-    const active = state.q || state.sax.size || state.lvl.size || state.with.size || state.rec || state.women || state.jazz || state.etude;
+    const active = state.q || state.sax.size || state.lvl.size || state.with.size || state.rec || state.women || state.poc || state.jazz || state.etude;
     $("count").textContent = active ? `${nf.format(hits.length)} of ${nf.format(W.length)} works` : `All ${nf.format(W.length)} works, by ${SORTS[state.sort].label}`;
     $("clear").hidden = !active;
     const list = $("list");

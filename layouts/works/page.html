@@ -13,7 +13,8 @@
 </p>
 
 {{- /* A YouTube recording link also plays on the page (youtube.com/watch?v=, youtu.be/, shorts/; a t= start time is kept),
-       and so does a SoundCloud track or playlist. */ -}}
+       and so does a SoundCloud track or playlist, a Spotify track, album, playlist, show or episode,
+       or a Bandcamp track or album (Bandcamp's player needs a numeric ID, read from the page at build time; no embed if the lookup fails). */ -}}
 {{ with .Params.streaming }}{{ $url := . }}
 {{ with findRESubmatch `(?:youtu\.be/|youtube\.com/(?:watch\?(?:[^#]*&)?v=|shorts/|embed/))([A-Za-z0-9_-]{11})` $url 1 }}
 {{ $src := printf "https://www.youtube-nocookie.com/embed/%s" (index (index . 0) 1) }}
@@ -22,6 +23,20 @@
 {{ end }}
 {{ if findRE `^https://(www\.|m\.)?soundcloud\.com/[^/?#]+/[^?#]+` $url }}
 <div class="audio"><iframe src="https://w.soundcloud.com/player/?url={{ index (split $url "?") 0 | urlquery }}&amp;color=%239a6514&amp;visual=false&amp;show_comments=false" title="Recording of {{ $.Title }}" loading="lazy" allow="autoplay"></iframe></div>
+{{ end }}
+{{ with findRESubmatch `^https://open\.spotify\.com/(?:intl-[a-z]+/)?(track|album|playlist|episode|show)/([A-Za-z0-9]+)` $url 1 }}
+{{ $kind := index (index . 0) 1 }}
+<div class="audio spotify {{ $kind }}"><iframe src="https://open.spotify.com/embed/{{ $kind }}/{{ index (index . 0) 2 }}" title="Recording of {{ $.Title }} on Spotify" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></div>
+{{ end }}
+{{ if findRE `^https://[a-z0-9-]+\.bandcamp\.com/(?:track|album)/[^/?#]+` $url }}
+{{ $page := index (split (index (split $url "?") 0) "#") 0 }}
+{{ with try (resources.GetRemote $page (dict "headers" (dict "User-Agent" "Mozilla/5.0 (compatible; SaxoBrain build)"))) }}
+{{ with .Value }}
+{{ with findRESubmatch `EmbeddedPlayer/v=2/(album|track)=(\d+)` .Content 1 }}
+<div class="audio bandcamp"><iframe src="https://bandcamp.com/EmbeddedPlayer/{{ index (index . 0) 1 }}={{ index (index . 0) 2 }}/size=large/bgcol=ffffff/linkcol=9a6514/tracklist=false/artwork=small/transparent=true/" title="Recording of {{ $.Title }} on Bandcamp" loading="lazy" seamless></iframe></div>
+{{ end }}
+{{ else }}{{ warnf "Bandcamp lookup failed for %s" $page }}{{ end }}
+{{ end }}
 {{ end }}
 {{ end }}
 

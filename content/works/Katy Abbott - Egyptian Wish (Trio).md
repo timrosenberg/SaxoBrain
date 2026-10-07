@@ -4,7 +4,7 @@ slug: katy-abbott-egyptian-wish-trio
 composer:
   - "[[Katy Abbott]]"
 instruments:
-  - Trio
+  - Saxophone Trio
 composed: 2001
 year-of-study: Third Year
 streaming: https://soundcloud.com/reedmusic-com/rm750-egyptian-wish-by-katy-abbott

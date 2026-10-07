@@ -44,7 +44,7 @@
 {{- $p := .p -}}
 {{- $nat := $p.Params.nationality | default slice -}}
 {{- $life := partial "life.html" $p -}}
-<li data-nat="{{ delimit $nat "|" }}" data-lv="{{ delimit .lv " " }}"{{ with $p.Params.born }} data-born="{{ . }}"{{ end }}{{ if eq $p.Params.gender "Female" }} data-w="1"{{ end }}{{ if partial "living.html" $p }} data-living="1"{{ end }}><a href="{{ $p.RelPermalink }}"><span class="name">{{ $p.Title }}</span><span class="who">{{ with $nat }}{{ delimit . ", " }} · {{ end }}{{ with $life }}{{ . }} · {{ end }}{{ .n }} {{ cond (eq .n 1) "work" "works" }}<span class="dots" aria-hidden="true">{{ $lv := .lv }}{{ range $order }}{{ if in $lv . }}<span class="dot lv-{{ . }}"></span>{{ end }}{{ end }}</span></span></a></li>
+<li data-nat="{{ delimit $nat "|" }}" data-lv="{{ delimit .lv " " }}"{{ with $p.Params.born }} data-born="{{ . }}"{{ end }}{{ if eq $p.Params.gender "Female" }} data-w="1"{{ end }}{{ if partial "poc.html" $p }} data-o="1"{{ end }}{{ if partial "living.html" $p }} data-living="1"{{ end }}><a href="{{ $p.RelPermalink }}"><span class="name">{{ $p.Title }}</span><span class="who">{{ range $nat }}<span class="pill nat">{{ . }}</span>{{ end }}{{ with $life }}{{ . }} · {{ end }}{{ .n }} {{ cond (eq .n 1) "work" "works" }}<span class="dots" aria-hidden="true">{{ $lv := .lv }}{{ range $order }}{{ if in $lv . }}<span class="dot lv-{{ . }}"></span>{{ end }}{{ end }}</span></span></a></li>
 {{ end }}
 </ul>
 </section>

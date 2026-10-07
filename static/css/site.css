@@ -85,6 +85,9 @@ article.page { max-width: 68ch; }
 .video iframe { width: 100%; height: 100%; border: 0; display: block; }
 .audio { max-width: 680px; margin: 4px 0 18px; }
 .audio iframe { width: 100%; height: 166px; border: 0; display: block; border-radius: 10px; }
+.audio.bandcamp iframe { height: 120px; }
+.audio.spotify iframe { height: 152px; }
+.audio.spotify:is(.album, .playlist, .show) iframe { height: 352px; }
 .facts { display: grid; grid-template-columns: auto 1fr; gap: 6px 16px; margin: 14px 0; }
 .facts dt { color: var(--muted); font-size: 13.5px; }
 .facts dd { margin: 0; min-width: 0; }
@@ -127,6 +130,7 @@ article.page { max-width: 68ch; }
 .letter-group { margin-top: 28px; }
 .letter-group h2 { margin: 0; }
 .clist .who { display: inline-flex; align-items: center; gap: 8px; text-align: right; }
+.pill.nat { background: color-mix(in srgb, var(--muted) 16%, var(--surface)); color: var(--fg); border-radius: 999px; padding: 1px 10px; font-size: 13px; white-space: nowrap; }
 .clist .dots { display: inline-flex; gap: 3px; }
 
 /* curriculum pills */
@@ -178,7 +182,7 @@ article.page { max-width: 68ch; }
 .has { display: flex; gap: 6px; }
 .showmore { margin: 18px auto 0; display: block; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 10px 18px; cursor: pointer; }
 .empty { padding: 40px 0; text-align: center; color: var(--muted); }
-.site-foot { color: var(--muted); font-size: 13px; padding-block: 24px 40px; border-top: 1px solid var(--line); }
+.site-foot { color: var(--muted); font-size: 13px; padding-block: 24px 40px; border-top: 1px solid var(--line); text-align: center; }
 .site-foot a { color: var(--muted); }
 
 @media (max-width: 560px) {

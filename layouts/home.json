@@ -1,18 +1,21 @@
-{{- /* Catalog data for the searchable Repertoire page. t title, u address, c composer names, w any composer is a woman,
+{{- /* Catalog data for the searchable Repertoire page. t title, u address, c composer names, w any composer is a woman, o any composer is a person of color,
        j tagged Jazz, e tagged Etude, i instruments, y year of study, d year composed, s has a recording, p has a score link. */ -}}
 {{- $rows := slice -}}
 {{- range where site.RegularPages "Section" "works" -}}
   {{- $names := slice -}}
   {{- $w := false -}}
+  {{- $o := false -}}
   {{- range partial "composers-of.html" . -}}
     {{- $names = $names | append .Title -}}
     {{- if eq .Params.gender "Female" }}{{ $w = true }}{{ end -}}
+    {{- if partial "poc.html" . }}{{ $o = true }}{{ end -}}
   {{- end -}}
   {{- $rows = $rows | append (dict
       "t" .Title
       "u" .RelPermalink
       "c" $names
       "w" $w
+      "o" $o
       "j" (in (.Params.tags | default slice) "Jazz")
       "e" (in (.Params.tags | default slice) "Etude")
       "i" (.Params.instruments | default slice)

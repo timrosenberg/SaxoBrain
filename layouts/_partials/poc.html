@@ -1,0 +1,3 @@
+{{- /* True for a composer whose race list has any value other than White. Used only for the
+       "Composers of color" filter; race is never printed on a page. Untagged composers count as false. */ -}}
+{{- return (gt (len (complement (slice "White") (.Params.race | default slice))) 0) -}}
