@@ -1,0 +1,21 @@
+{{- /* Resolve Obsidian links in rendered HTML: [[File Name]] or [[File Name|Display]] points to the page with that file name.
+       A work link without its own display text shows the year: "Syrinx (1913)". A link that matches no file stops the build, so typos never publish.
+       Hugo has already turned straight quotes and & into entities by the time this runs, so names are compared after
+       unescaping and with curly quotes flattened. Input: dict "html" (string) "page" (the page, for the error message). */ -}}
+{{- $idx := partialCached "page-index.html" "all" -}}
+{{- $html := .html -}}
+{{- $page := .page -}}
+{{- range findRE `\[\[[^\]]+\]\]` $html -}}
+  {{- $match := . -}}
+  {{- $parts := split (strings.TrimSuffix "]]" (strings.TrimPrefix "[[" $match)) "|" -}}
+  {{- $name := index $parts 0 -}}
+  {{- $key := lower (replace (replace (replace (htmlUnescape $name) "’" "'") "‘" "'") " " " ") -}}
+  {{- with index $idx $key -}}
+    {{- $label := cond (eq .Section "works") (partial "work-title.html" .) .Title | htmlEscape -}}
+    {{- if gt (len $parts) 1 }}{{ $label = index $parts 1 }}{{ end -}}
+    {{- $html = replace $html $match (printf `<a href="%s">%s</a>` .RelPermalink $label) -}}
+  {{- else -}}
+    {{- errorf "Link [[%s]] in %s does not match any page file. Check the spelling." $name $page.File.Path -}}
+  {{- end -}}
+{{- end -}}
+{{- return $html -}}

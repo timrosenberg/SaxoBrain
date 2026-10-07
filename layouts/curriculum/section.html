@@ -1,0 +1,47 @@
+{{ define "main" }}
+{{- /* Curriculum overview: a grid with the four years across and the strands down, built from the year files.
+       On a phone each year becomes its own card. Each cell links to that part of the year page. */ -}}
+{{- $years := sort .RegularPages "Params.year" -}}
+{{- $strands := slice (slice "technique" "Technique") (slice "etudes" "Études") (slice "repertoire" "Solo repertoire") (slice "reading" "Reading") (slice "listening" "Listening") -}}
+<div class="cur cur-overview">
+<h1>{{ .Title }}</h1>
+{{ with partial "body.html" . }}<div class="lede">{{ . }}</div>{{ end }}
+<div class="matrix">
+{{- range $r, $s := $strands }}<div class="m-label m-c1 m-r{{ add $r 2 }}"><span class="label-sm">{{ index $s 1 }}</span></div>{{ end -}}
+{{- range $i, $y := $years -}}
+{{- $b := partialCached "curriculum/parse.html" $y $y.Path -}}
+{{- $n := $y.Params.year -}}
+<a class="m-yhead c-lv-{{ $n }} m-c{{ add $i 2 }} m-r1" href="{{ $y.RelPermalink }}"><span class="n label-sm"><span class="dot lv-{{ $n }}"></span>Year {{ $n }}</span><b>{{ $y.Title }}</b><span class="go">Open this year →</span></a>
+{{- range $r, $s := $strands -}}
+{{- $key := index $s 0 -}}
+<a class="m-cell c-lv-{{ $n }} m-c{{ add $i 2 }} m-r{{ add $r 2 }}{{ if eq $r 4 }} last{{ end }}" href="{{ $y.RelPermalink }}#{{ $key }}"><span class="k">{{ index $s 1 }}</span>
+{{- if eq $key "technique" -}}
+<ul>{{ range where (where $b "h2" "Technique") "kind" "item" }}<li>{{ partial "resolve-links.html" (dict "html" (.first | markdownify | string) "page" $y) | plainify }}
+{{- with .rest }}{{ $subs := slice }}{{ range split . "\n" }}{{ with trim (strings.TrimPrefix "- " .) " " }}{{ $subs = $subs | append (lower .) }}{{ end }}{{ end }} <span class="sub">({{ delimit $subs ", " }})</span>{{ end }}</li>{{ end }}</ul>
+{{- else if eq $key "etudes" -}}
+<ul>{{ range where (where $b "h2" "Études") "kind" "item" }}{{ with partial "curriculum/find.html" (dict "line" .first "page" $y) }}<li><i>{{ .Title }}</i> <span class="sub">{{ with partial "composers-of.html" . }}{{ index (last 1 (split (index . 0).Title " ")) 0 }}{{ end }}</span></li>{{ end }}{{ end }}</ul>
+{{- else if eq $key "repertoire" -}}
+{{- $rep := where (where $b "h2" "Solo Repertoire") "kind" "item" -}}
+{{- $cats := slice -}}{{- range $rep }}{{ if not (in $cats .h3) }}{{ $cats = $cats | append .h3 }}{{ end }}{{ end -}}
+{{- $alto := slice -}}{{- range where $rep "h4" "" }}{{ $alto = $alto | append (printf "%s|%s" .h3 .first) }}{{ end -}}
+{{- $tenor := 0 -}}{{- range where $rep "h4" "Tenor" }}{{ if not (in $alto (printf "%s|%s" .h3 .first)) }}{{ $tenor = add $tenor 1 }}{{ end }}{{ end -}}
+<span class="line">{{ len $alto }} alto pieces, {{ $tenor }} more for tenor</span><span class="chips">{{ range $cats }}<span class="chip">{{ . }}</span>{{ end }}</span>
+{{- else if eq $key "reading" -}}
+{{- $read := where (where $b "h2" "Reading") "kind" "item" -}}
+{{- $terms := slice -}}{{- range $read }}{{ if not (in $terms .h3) }}{{ $terms = $terms | append .h3 }}{{ end }}{{ end -}}
+{{ with index $y.Params "reading-focus" }}<span class="line theme">{{ . }}</span>{{ end }}<span class="line sub">{{ range $j, $t := $terms }}{{ if $j }}, {{ end }}{{ len (where $read "h3" $t) }} in {{ lower $t }}{{ end }}</span>
+{{- else -}}
+{{- $lis := where (where $b "h2" "Listening") "kind" "item" -}}
+{{- $groups := slice -}}{{- range $lis }}{{ if not (in $groups .h3) }}{{ $groups = $groups | append .h3 }}{{ end }}{{ end -}}
+<span class="line">{{ len $lis }} albums</span><span class="line sub">{{ delimit $groups ", " }}</span>
+{{- end -}}
+</a>
+{{- end -}}
+{{- end }}
+</div>
+<div class="how">
+<div><h3>Solo repertoire</h3><p>Each category is a menu: choose one piece per category each semester. Alto pieces come first; tenor options follow in each category.</p></div>
+<div><h3>Beyond these lists</h3><p>Every year links to the full catalog, filtered to that year of study.</p></div>
+</div>
+</div>
+{{ end }}

@@ -1,0 +1,64 @@
+{{- /* One solo repertoire line from a curriculum year file, as a row with Listen and Score buttons.
+       Two kinds of line:
+         - [[Work File]] (note)                      a catalog work; title, composer, recording and score come from the work's file.
+           [[Work A]] and [[Work B]]                 two works played together; the first one supplies composer and score.
+         - **Title**, Composer, from [[Collection]], No. 3 [Listen](url)
+                                                     a piece inside a collection; the score link comes from the collection.
+       [Listen](url) on any line replaces the work's own recording link.
+       Input: dict "line" "page" "also" (true when the same line is also in the tenor list). */ -}}
+{{- $idx := partialCached "page-index.html" "all" -}}
+{{- $page := .page -}}
+{{- $line := .line -}}
+{{- $listen := "" -}}
+{{- with findRESubmatch `\[Listen\]\(([^)\s]+)\)` $line 1 }}{{ $listen = index (index . 0) 1 }}{{ end -}}
+{{- $line = trim (replaceRE `\s*\[Listen\]\([^)\s]+\)` "" $line) " " -}}
+{{- $works := slice -}}
+{{- range findRESubmatch `\[\[([^\]|]+)(?:\|[^\]]*)?\]\]` $line -1 -}}
+  {{- $name := index . 1 -}}
+  {{- with index $idx (lower (replace (replace (replace $name "’" "'") "‘" "'") " " " ")) -}}
+    {{- $works = $works | append . -}}
+  {{- else -}}
+    {{- errorf "Link [[%s]] in %s does not match any page file. Check the spelling." $name $page.File.Path -}}
+  {{- end -}}
+{{- end -}}
+{{- $w := false -}}{{- with $works }}{{ $w = index . 0 }}{{ end -}}
+{{- $titleHTML := "" -}}{{- $who := "" -}}{{- $note := "" -}}
+{{- with findRESubmatch `^\*\*(.+?)\*\*,?\s*(.*)$` $line 1 -}}
+  {{- $m := index . 0 -}}
+  {{- $titleHTML = index $m 1 | markdownify | string -}}
+  {{- if $w }}{{ $titleHTML = printf `<a class="t" href="%s">%s</a>` $w.RelPermalink $titleHTML }}{{ else }}{{ $titleHTML = printf `<span class="t">%s</span>` $titleHTML }}{{ end -}}
+  {{- $who = partial "resolve-links.html" (dict "html" (index $m 2 | markdownify | string) "page" $page) -}}
+{{- else -}}
+  {{- if $w -}}
+    {{- $head := $line -}}
+    {{- with findRESubmatch `^(.*\]\])\s*(.*)$` $line 1 }}{{ $head = index (index . 0) 1 }}{{ $note = index (index . 0) 2 }}{{ end -}}
+    {{- $i := 0 -}}
+    {{- range findRE `\[\[[^\]]+\]\]|[^\[]+` $head -}}
+      {{- if hasPrefix . "[[" -}}
+        {{- $x := index $works $i -}}{{- $i = add $i 1 -}}
+        {{- $titleHTML = printf `%s<a class="t" href="%s">%s</a>` $titleHTML $x.RelPermalink (partial "work-title.html" $x | htmlEscape) -}}
+      {{- else -}}
+        {{- $titleHTML = printf `%s<span class="join">%s</span>` $titleHTML (htmlEscape .) -}}
+      {{- end -}}
+    {{- end -}}
+    {{- $names := slice -}}
+    {{- range partial "composers-of.html" $w }}{{ $names = $names | append .Title }}{{ end -}}
+    {{- $who = delimit $names ", " | htmlEscape -}}
+    {{- $note = replaceRE `^\((.*)\)$` "$1" (trim $note " ") -}}
+  {{- else -}}
+    {{- $titleHTML = printf `<span class="t">%s</span>` ($line | markdownify | string) -}}
+  {{- end -}}
+{{- end -}}
+{{- $score := "" -}}{{- $free := false -}}{{- $solo := false -}}
+{{- with $w -}}
+  {{- with .Params.download }}{{ $score = index . 0 }}{{ $free = true }}{{ else }}{{ with .Params.purchase }}{{ $score = index . 0 }}{{ end }}{{ end -}}
+{{- end -}}
+{{- range $works -}}
+  {{- if not $listen }}{{ with .Params.streaming }}{{ $listen = . }}{{ end }}{{ end -}}
+  {{- if in (.Params.instruments | default slice) "Unaccompanied" }}{{ $solo = true }}{{ end -}}
+{{- end -}}
+<li class="piece">
+<div class="main">{{ $titleHTML | safeHTML }}{{ if .also }} <span class="tag tenor">Also tenor</span>{{ end }}{{ if $solo }} <span class="tag">Unaccompanied</span>{{ end }}
+<div class="who">{{ $who | safeHTML }}{{ with $note }}<span class="note">{{ partial "resolve-links.html" (dict "html" (. | markdownify | string) "page" $page) | safeHTML }}</span>{{ end }}</div></div>
+<div class="acts">{{ with $listen }}<a class="act listen" href="{{ . }}" rel="noopener"><svg viewBox="0 0 10 10" aria-hidden="true"><path d="M2 1l7 4-7 4z"/></svg>Listen</a>{{ end }}{{ with $score }}<a class="act" href="{{ . }}" rel="noopener">{{ if $free }}Free score{{ else }}Score{{ end }}</a>{{ end }}</div>
+</li>

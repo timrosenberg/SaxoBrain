@@ -1,0 +1,15 @@
+{{- /* One listening line from a curriculum year file:
+         - [*Album*](streaming link) by Performer [[Album File|Album page]] [Free download](url)
+       The link on the title becomes the Listen button; any other links after the performer become buttons too.
+       Indented lines under it show as a note. Input: dict "line" "rest" "page". */ -}}
+{{- $page := .page -}}
+{{- with findRESubmatch `^(?:\[\*([^*]+)\*\]\(([^)\s]+)\)|\*([^*]+)\*)\s+by\s+([^\[]+?)\s*(\[.*)?$` .line 1 -}}
+{{- $m := index . 0 -}}
+{{- $extras := "" -}}
+{{- with index $m 5 }}{{ $extras = replace (partial "resolve-links.html" (dict "html" (. | markdownify | string) "page" $page)) "<a " `<a class="act" ` }}{{ end -}}
+<li><span class="main"><span class="t">{{ index $m 1 | default (index $m 3) | markdownify }}</span><span class="a">{{ index $m 4 }}</span>
+{{- with $.rest }}<span class="note">{{ partial "resolve-links.html" (dict "html" (. | markdownify | string) "page" $page) | safeHTML }}</span>{{ end }}</span>
+<span class="acts">{{ with index $m 2 }}<a class="act listen" href="{{ . }}" rel="noopener"><svg viewBox="0 0 10 10" aria-hidden="true"><path d="M2 1l7 4-7 4z"/></svg>Listen</a>{{ end }}{{ $extras | safeHTML }}</span></li>
+{{- else -}}
+<li><span class="main">{{ partial "resolve-links.html" (dict "html" (.line | markdownify | string) "page" $page) | safeHTML }}</span><span class="acts"></span></li>
+{{- end -}}

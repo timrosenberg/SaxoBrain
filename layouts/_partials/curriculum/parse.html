@@ -1,0 +1,28 @@
+{{- /* Split a curriculum year file into blocks, one per list item or paragraph line, each tagged with the
+       headings it sits under: h2 (Technique, Études, Solo Repertoire, Reading, Listening), h3 (a repertoire
+       category, Fall/Spring, a listening group) and h4 ("Tenor" inside a category).
+       Indented lines under a list item (sub-bullets, notes) are kept with that item in "rest", un-indented once.
+       Returns a slice of dict "h2" "h3" "h4" "kind" ("item" or "p") "first" (the line, without "- ") "rest". */ -}}
+{{- $out := slice -}}
+{{- $h2 := "" -}}{{- $h3 := "" -}}{{- $h4 := "" -}}
+{{- $cur := dict -}}{{- $rest := slice -}}
+{{- range split (replace .RawContent "\r" "") "\n" -}}
+  {{- $line := . -}}
+  {{- $blank := eq (trim $line " \t") "" -}}
+  {{- $indented := and (not $blank) (or (hasPrefix $line " ") (hasPrefix $line "\t")) -}}
+  {{- if and $cur (not $blank) (not $indented) -}}
+    {{- $out = $out | append (merge $cur (dict "rest" (delimit $rest "\n"))) -}}
+    {{- $cur = dict -}}{{- $rest = slice -}}
+  {{- end -}}
+  {{- if $blank -}}
+  {{- else if $indented -}}
+    {{- if $cur }}{{ $rest = $rest | append (replaceRE `^(\t| {4}| {2})` "" $line) }}{{ end -}}
+  {{- else if hasPrefix $line "#### " -}}{{ $h4 = trim (strings.TrimPrefix "#### " $line) " " -}}
+  {{- else if hasPrefix $line "### " -}}{{ $h3 = trim (strings.TrimPrefix "### " $line) " " }}{{ $h4 = "" -}}
+  {{- else if hasPrefix $line "## " -}}{{ $h2 = trim (strings.TrimPrefix "## " $line) " " }}{{ $h3 = "" }}{{ $h4 = "" -}}
+  {{- else if hasPrefix $line "- " -}}{{ $cur = dict "h2" $h2 "h3" $h3 "h4" $h4 "kind" "item" "first" (trim (strings.TrimPrefix "- " $line) " ") -}}
+  {{- else -}}{{ $out = $out | append (dict "h2" $h2 "h3" $h3 "h4" $h4 "kind" "p" "first" $line "rest" "") -}}
+  {{- end -}}
+{{- end -}}
+{{- if $cur }}{{ $out = $out | append (merge $cur (dict "rest" (delimit $rest "\n"))) }}{{ end -}}
+{{- return $out -}}

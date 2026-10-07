@@ -1,0 +1,7 @@
+{{- /* The four year buttons at the top of a year page, each with its year-of-study color. */ -}}
+{{- $cur := . -}}
+<nav class="ysteps" aria-label="Years">
+{{- range sort .CurrentSection.RegularPages "Params.year" -}}
+<a class="ystep c-lv-{{ .Params.year }}" href="{{ .RelPermalink }}"{{ if eq .Permalink $cur.Permalink }} aria-current="page"{{ end }}><span class="dot lv-{{ .Params.year }}"></span>{{ .Title }}</a>
+{{- end -}}
+</nav>

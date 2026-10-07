@@ -1,5 +1,5 @@
 {{- /* Catalog data for the searchable Repertoire page. t title, u address, c composer names, w any composer is a woman, o any composer is a person of color,
-       j tagged Jazz, e tagged Etude, i instruments, y year of study, d year composed, s has a recording, p has a score link. */ -}}
+       j tagged Jazz, e tagged Etude, i instruments, y year of study, d year composed, s has a recording (streaming link or on an album), p has a score link. */ -}}
 {{- $rows := slice -}}
 {{- range where site.RegularPages "Section" "works" -}}
   {{- $names := slice -}}
@@ -21,7 +21,7 @@
       "i" (.Params.instruments | default slice)
       "y" (index .Params "year-of-study" | default "")
       "d" (.Params.composed | default "")
-      "s" (ne (.Params.streaming | default "") "")
+      "s" (or (ne (.Params.streaming | default "") "") (isset (partialCached "recordings-index.html" "all") .Path))
       "p" (or (gt (len (.Params.purchase | default slice)) 0) (gt (len (.Params.download | default slice)) 0))
   ) -}}
 {{- end -}}

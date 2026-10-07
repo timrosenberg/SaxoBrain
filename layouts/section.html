@@ -1,7 +1,6 @@
 {{ define "main" }}
 <div class="section-list">
 <h1>{{ .Title }}</h1>
-{{ if eq .Section "curriculum" }}{{ partial "curriculum-nav.html" . }}{{ end }}
 {{ partial "notice.html" . }}
 {{ with partial "body.html" . }}<div class="prose">{{ . }}</div>{{ end }}
 {{ with .Sections }}
@@ -9,12 +8,10 @@
 {{ range .ByTitle }}<li><a href="{{ .RelPermalink }}"><span>{{ .Title }}</span></a></li>{{ end }}
 </ul>
 {{ end }}
-{{ if not (eq .Section "curriculum") }}
 {{ with .RegularPages.ByTitle }}
 <ul class="alist">
 {{ range . }}<li><a href="{{ .RelPermalink }}"><span>{{ cond (eq .Section "works") (partial "work-title.html" .) .Title }}</span>{{ with .Params.saxophonists }}<span class="who">{{ . }}</span>{{ end }}</a></li>{{ end }}
 </ul>
-{{ end }}
 {{ end }}
 </div>
 {{ end }}

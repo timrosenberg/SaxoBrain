@@ -1,0 +1,12 @@
+{{- /* The page named by the first [[link]] in a line, or false when the line has no link. An unknown name stops the build.
+       Input: dict "line" "page". */ -}}
+{{- $out := false -}}
+{{- with findRESubmatch `\[\[([^\]|]+)(?:\|[^\]]*)?\]\]` .line 1 -}}
+  {{- $name := index (index . 0) 1 -}}
+  {{- with index (partialCached "page-index.html" "all") (lower (replace (replace (replace $name "’" "'") "‘" "'") " " " ")) -}}
+    {{- $out = . -}}
+  {{- else -}}
+    {{- errorf "Link [[%s]] in %s does not match any page file. Check the spelling." $name $.page.File.Path -}}
+  {{- end -}}
+{{- end -}}
+{{- return $out -}}

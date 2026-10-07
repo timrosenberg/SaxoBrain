@@ -1,0 +1,15 @@
+{{- /* Map of work page path -> album pages that list it in `works:`. Albums are the only place the link
+       is entered; piece pages read it from here. Albums sort newest first. */ -}}
+{{- $idx := partialCached "page-index.html" "all" -}}
+{{- $m := dict -}}
+{{- range sort (where site.RegularPages "Section" "recordings") "Params.year-released" "desc" -}}
+  {{- $album := . -}}
+  {{- range .Params.works -}}
+    {{- $name := replaceRE `^\[\[([^|\]]+)(\|[^\]]*)?\]\]$` "$1" . -}}
+    {{- with index $idx (lower $name) -}}
+      {{- $k := .Path -}}
+      {{- $m = merge $m (dict $k ((index $m $k | default slice) | append $album)) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $m -}}

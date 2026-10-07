@@ -1,0 +1,572 @@
+<title>SaxoBrain Repertoire Planner</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Public+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+/* Layout: the live site's single 980px column. Overview = a four-year grid (strands down, years across);
+   year page = everything for one year; planner = semesters across, slots down, with a search sheet over the whole catalog.
+   Tokens are copied from static/css/site.css. */
+:root {
+  --bg: #f5f6f8; --surface: #ffffff; --fg: #1b2029; --muted: #5d6676; --line: #dde1e8;
+  --accent: #9a6514; --accent-soft: #f3e7d2; --chip: #eceff3;
+  --lv-pre: #7c8594; --lv-1: #2f8a4c; --lv-2: #b58a0e; --lv-3: #2f6fb8; --lv-4: #c0453a; --lv-adv: #7a4fb5; --lv-none: #a3abb8;
+  --sx-tenor: #7a4fb5; --warn: #c0453a;
+  --shadow: 0 10px 40px rgba(20, 26, 36, .16); --scrim: rgba(10, 12, 16, .35);
+  --mock: #1b2029; --mock-fg: #f5f6f8;
+  --font-display: "Bricolage Grotesque", "Avenir Next", "Segoe UI", sans-serif;
+  --font-body: "Public Sans", -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #12151b; --surface: #1a1e26; --fg: #e7eaf0; --muted: #9aa3b2; --line: #2b313c;
+    --accent: #e0a64a; --accent-soft: #3a2e1c; --chip: #242a34;
+    --lv-pre: #9aa3b2; --lv-1: #5cc27c; --lv-2: #e3bb45; --lv-3: #6aa6ea; --lv-4: #ee7b70; --lv-adv: #ad8ae6; --lv-none: #6b7382;
+    --sx-tenor: #ad8ae6; --warn: #ee7b70;
+    --shadow: 0 10px 40px rgba(0, 0, 0, .5); --scrim: rgba(0, 0, 0, .55);
+    --mock: #e7eaf0; --mock-fg: #12151b;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #12151b; --surface: #1a1e26; --fg: #e7eaf0; --muted: #9aa3b2; --line: #2b313c;
+  --accent: #e0a64a; --accent-soft: #3a2e1c; --chip: #242a34;
+  --lv-pre: #9aa3b2; --lv-1: #5cc27c; --lv-2: #e3bb45; --lv-3: #6aa6ea; --lv-4: #ee7b70; --lv-adv: #ad8ae6; --lv-none: #6b7382;
+  --sx-tenor: #ad8ae6; --warn: #ee7b70;
+  --shadow: 0 10px 40px rgba(0, 0, 0, .5); --scrim: rgba(0, 0, 0, .55);
+  --mock: #e7eaf0; --mock-fg: #12151b;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+html { scroll-padding-top: 64px; }
+body { margin: 0; background: var(--bg); color: var(--fg); font-family: var(--font-body); font-size: 15px; line-height: 1.5; }
+body.panel-open { overflow: hidden; }
+a { color: var(--accent); text-underline-offset: 3px; }
+button, input, select { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+h1, h2, h3 { font-family: var(--font-display); text-wrap: balance; }
+h1 { font-weight: 700; font-size: 34px; line-height: 1.12; letter-spacing: -.01em; margin: 4px 0 6px; }
+h2 { font-weight: 700; font-size: 23px; margin: 0; }
+h3 { font-weight: 500; font-size: 18px; margin: 0; }
+.label-sm { font-size: 11px; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); font-weight: 600; }
+.muted { color: var(--muted); }
+
+.mockbar { background: var(--mock); color: var(--mock-fg); font-size: 12.5px; padding: 7px 16px; text-align: center; }
+.mockbar b { font-weight: 600; }
+
+/* site header, as on the live site, plus a "My plan" link */
+.site-head, main, .site-foot { max-width: 980px; margin: 0 auto; padding-inline: 20px; }
+.site-head { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 8px 16px; padding-block: 28px 0; }
+.brand { font-family: var(--font-display); font-weight: 700; font-size: 34px; letter-spacing: -.02em; line-height: 1.1; color: var(--fg); text-decoration: none; }
+.brand span { color: var(--accent); }
+.myplan { display: inline-flex; align-items: center; gap: 8px; text-decoration: none; color: var(--fg); font-weight: 600; font-size: 14px; border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 6px 8px 6px 14px; }
+.myplan:hover, .myplan[aria-current="page"] { border-color: var(--accent); }
+.myplan .count { background: var(--accent); color: var(--surface); border-radius: 999px; min-width: 22px; height: 22px; display: inline-grid; place-items: center; font-size: 12px; padding: 0 6px; }
+.site-head nav { flex-basis: 100%; display: flex; gap: 4px; flex-wrap: wrap; border-bottom: 1px solid var(--line); }
+.site-head nav a { text-decoration: none; color: var(--muted); padding: 10px 14px; border-bottom: 2px solid transparent; font-weight: 600; margin-bottom: -1px; }
+.site-head nav a[aria-current="page"] { color: var(--fg); border-bottom-color: var(--accent); }
+main { padding-block: 18px 64px; }
+.site-foot { color: var(--muted); font-size: 13px; padding-block: 24px 40px; border-top: 1px solid var(--line); text-align: center; }
+
+/* shared bits */
+.dot { width: 10px; height: 10px; border-radius: 50%; display: inline-block; flex-shrink: 0; background: var(--c); }
+.y1 { --c: var(--lv-1); } .y2 { --c: var(--lv-2); } .y3 { --c: var(--lv-3); } .y4 { --c: var(--lv-4); }
+.lv-pre { --c: var(--lv-pre); } .lv-1 { --c: var(--lv-1); } .lv-2 { --c: var(--lv-2); } .lv-3 { --c: var(--lv-3); } .lv-4 { --c: var(--lv-4); } .lv-adv { --c: var(--lv-adv); } .lv-none { --c: var(--lv-none); }
+.lvl { display: inline-flex; align-items: center; gap: 6px; background: color-mix(in srgb, var(--c) 20%, var(--surface)); border-radius: 999px; padding: 0 9px 0 7px; font-size: 12px; font-weight: 500; white-space: nowrap; }
+.lvl .dot { width: 8px; height: 8px; }
+.crumbs { font-size: 13.5px; color: var(--muted); display: flex; gap: 6px; align-items: center; }
+.crumbs a { color: var(--muted); }
+.lede { color: var(--muted); max-width: 62ch; margin: 4px 0 0; font-size: 16px; }
+.tag { font-size: 11.5px; border: 1px solid var(--line); border-radius: 6px; padding: 1px 6px; color: var(--muted); white-space: nowrap; font-weight: 500; }
+.tag.tenor { border-color: color-mix(in srgb, var(--sx-tenor) 50%, var(--line)); color: var(--sx-tenor); }
+.go { font-weight: 600; text-decoration: none; }
+.go:hover { text-decoration: underline; }
+.acts { display: flex; gap: 6px; align-items: center; flex-wrap: wrap; }
+.act { display: inline-flex; align-items: center; gap: 4px; font-size: 12.5px; font-weight: 600; text-decoration: none; border: 1px solid var(--line); border-radius: 999px; padding: 2px 9px; color: var(--fg); white-space: nowrap; background: var(--surface); cursor: pointer; }
+.act:hover { border-color: var(--accent); color: var(--accent); }
+.act.listen { background: var(--accent-soft); border-color: transparent; color: var(--accent); }
+.act svg { width: 10px; height: 10px; fill: currentColor; }
+.save[aria-pressed="true"] { background: var(--fg); border-color: var(--fg); color: var(--bg); }
+.btn { display: inline-flex; align-items: center; gap: 8px; text-decoration: none; padding: 8px 14px; border-radius: 10px; font-weight: 600; font-size: 14px; border: 1px solid var(--line); color: var(--fg); background: var(--surface); cursor: pointer; }
+.btn:hover { border-color: var(--accent); }
+.btn.primary { background: var(--accent); border-color: var(--accent); color: var(--surface); }
+.btn.quiet { border-color: transparent; background: none; color: var(--muted); }
+.seg { display: inline-flex; background: var(--chip); border-radius: 999px; padding: 3px; gap: 2px; flex-wrap: wrap; }
+.seg button { border: 0; background: none; border-radius: 999px; padding: 5px 13px; font-weight: 600; font-size: 13.5px; cursor: pointer; color: var(--muted); display: inline-flex; align-items: center; gap: 6px; }
+.seg button[aria-pressed="true"] { background: var(--surface); color: var(--fg); box-shadow: 0 1px 3px rgba(20, 26, 36, .18); }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 16px 18px; min-width: 0; }
+.card > h3 { margin-bottom: 8px; }
+.pair { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(280px, 100%), 1fr)); gap: 12px; }
+
+/* ---------- overview ---------- */
+.matrix { margin-top: 26px; display: grid; grid-template-columns: 116px repeat(4, minmax(0, 1fr)); column-gap: 10px; }
+.matrix > * { grid-column: var(--x); grid-row: var(--y); min-width: 0; }
+.m-label { padding: 14px 0; border-top: 1px solid var(--line); }
+.m-yhead { background: var(--surface); border: 1px solid var(--line); border-bottom: 0; border-radius: 12px 12px 0 0; padding: 14px 14px 12px; text-decoration: none; color: var(--fg); position: relative; overflow: hidden; display: grid; gap: 2px; }
+.m-yhead::before { content: ""; position: absolute; inset: 0 0 auto; height: 4px; background: var(--c); }
+.m-yhead .n { display: flex; align-items: center; gap: 7px; }
+.m-yhead b { font-family: var(--font-display); font-weight: 700; font-size: 19px; }
+.m-yhead .go { font-size: 13.5px; color: var(--accent); }
+.m-yhead:hover { border-color: var(--c); }
+.m-cell { background: var(--surface); border-inline: 1px solid var(--line); border-top: 1px solid var(--line); padding: 12px 14px; font-size: 13.5px; line-height: 1.45; cursor: pointer; }
+.m-cell:hover { background: color-mix(in srgb, var(--c) 7%, var(--surface)); }
+.m-cell.last { border-bottom: 1px solid var(--line); border-radius: 0 0 12px 12px; }
+.m-cell ul { margin: 0; padding: 0; list-style: none; display: grid; gap: 3px; }
+.m-cell .k { display: none; }
+.m-cell .sub { color: var(--muted); }
+.m-cell .chips { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 4px; }
+.m-cell .chip { background: color-mix(in srgb, var(--c) 16%, var(--surface)); border-radius: 999px; padding: 0 8px; font-size: 12.5px; }
+.m-cell .theme { font-weight: 600; }
+.how { margin-top: 30px; display: grid; grid-template-columns: repeat(auto-fit, minmax(min(240px, 100%), 1fr)); gap: 12px; }
+.how div { border-top: 2px solid var(--fg); padding-top: 10px; }
+.how p { margin: 4px 0 0; color: var(--muted); font-size: 14px; }
+.how h3 { font-size: 16px; font-weight: 700; }
+
+/* ---------- year page ---------- */
+.y-head .eyebrow { display: flex; align-items: center; gap: 8px; font-size: 13.5px; font-weight: 600; color: var(--muted); margin-top: 6px; }
+.y-head h1 { margin: 2px 0 0; }
+.ysteps { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 14px; }
+.ystep { display: inline-flex; align-items: center; gap: 7px; border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 5px 13px 5px 10px; font-weight: 600; font-size: 13.5px; color: var(--fg); text-decoration: none; }
+.ystep:hover { border-color: var(--c); }
+.ystep[aria-current="page"] { background: color-mix(in srgb, var(--c) 22%, var(--surface)); border-color: var(--c); }
+.secbar { position: sticky; top: 0; z-index: 5; background: var(--bg); border-bottom: 1px solid var(--line); margin-top: 18px; display: flex; gap: 2px; overflow-x: auto; scrollbar-width: none; }
+.secbar a { white-space: nowrap; padding: 10px 12px; text-decoration: none; color: var(--muted); font-weight: 600; font-size: 14px; border-bottom: 2px solid transparent; margin-bottom: -1px; }
+.secbar a:hover { color: var(--fg); border-bottom-color: var(--c); }
+.sec { padding-top: 30px; }
+.sec-h { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap; margin-bottom: 12px; }
+.goals { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+.goals li { display: grid; grid-template-columns: 18px 1fr; gap: 8px; }
+.goals li::before { content: ""; width: 12px; height: 12px; margin-top: 5px; border: 2px solid var(--c); border-radius: 3px; }
+.goals .detail { display: block; color: var(--muted); font-size: 14px; }
+.goals .sublist { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 5px; }
+.goals .sublist span { background: var(--chip); border-radius: 999px; padding: 1px 9px; font-size: 13px; }
+.book { display: grid; gap: 1px; padding: 8px 0; border-top: 1px solid var(--line); }
+.book:first-of-type { border-top: 0; padding-top: 0; }
+.book .t { font-weight: 600; }
+.book .links { display: flex; gap: 12px; font-size: 13.5px; margin-top: 3px; }
+.rule { display: flex; gap: 14px; align-items: center; justify-content: space-between; flex-wrap: wrap; background: var(--accent-soft); border-radius: 12px; padding: 12px 16px; margin-bottom: 14px; }
+.rule p { margin: 0; max-width: 62ch; font-size: 14.5px; }
+.catgrid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; align-items: start; }
+.catcard { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; min-width: 0; }
+.catcard header { display: flex; justify-content: space-between; align-items: baseline; padding: 12px 16px 8px; gap: 10px; }
+.catcard header .label-sm { white-space: nowrap; }
+.pieces { list-style: none; margin: 0; padding: 0; }
+.piece { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 2px 12px; padding: 9px 16px; border-top: 1px solid var(--line); align-items: center; }
+.piece .t { font-weight: 600; color: var(--fg); text-decoration: none; }
+.piece .t:hover { color: var(--accent); text-decoration: underline; }
+.piece .who { color: var(--muted); font-size: 13.5px; }
+.piece .who .note::before { content: " · "; }
+.piece .who a { color: var(--muted); }
+.tenor-h { display: flex; align-items: center; gap: 8px; padding: 10px 16px 4px; border-top: 1px solid var(--line); background: color-mix(in srgb, var(--sx-tenor) 6%, var(--surface)); }
+.tenor-h .label-sm { color: var(--sx-tenor); }
+.tenor-h + .pieces .piece { background: color-mix(in srgb, var(--sx-tenor) 6%, var(--surface)); }
+.tenor-h + .pieces .piece:first-child { border-top: 0; }
+.more { margin-top: 14px; display: flex; justify-content: space-between; align-items: center; gap: 8px 16px; flex-wrap: wrap; border: 1px dashed var(--line); border-radius: 12px; padding: 12px 16px; font-size: 14.5px; }
+.more .links { display: flex; gap: 16px; flex-wrap: wrap; }
+.term { display: grid; gap: 8px; align-content: start; }
+.read { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 12px 16px; text-decoration: none; color: var(--fg); display: grid; gap: 2px; }
+.read:hover { border-color: var(--accent); }
+.read .t { font-weight: 600; font-family: var(--font-display); font-size: 16.5px; line-height: 1.25; }
+.read .in { font-style: italic; color: var(--muted); font-size: 13.5px; }
+.read .by { color: var(--muted); font-size: 13.5px; }
+.read .note { font-size: 13.5px; margin-top: 4px; }
+.read .kind { justify-self: start; margin-top: 4px; }
+.focus { font-size: 14px; color: var(--muted); }
+.focus b { color: var(--fg); }
+.albums { list-style: none; margin: 0; padding: 0; counter-reset: a; columns: 2 300px; column-gap: 28px; }
+.albums li { display: grid; grid-template-columns: 22px minmax(0, 1fr) auto; gap: 2px 8px; padding: 9px 0; border-bottom: 1px solid var(--line); align-items: baseline; counter-increment: a; break-inside: avoid; }
+.albums li::before { content: counter(a); font-family: var(--font-mono); font-size: 12px; color: var(--muted); }
+.albums .t { font-style: italic; font-weight: 600; }
+.albums .a { display: block; color: var(--muted); font-size: 13.5px; }
+.albums .nolink { font-size: 12.5px; color: var(--muted); font-style: italic; }
+.yfoot { margin-top: 40px; display: flex; justify-content: space-between; gap: 12px; border-top: 1px solid var(--line); padding-top: 16px; }
+.yfoot a { text-decoration: none; display: grid; }
+.yfoot a small { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: .08em; font-weight: 600; }
+.yfoot a b { font-family: var(--font-display); font-size: 18px; color: var(--fg); }
+.yfoot a:last-child { text-align: right; }
+
+/* ---------- planner ---------- */
+.pl-head { display: flex; justify-content: space-between; align-items: flex-end; gap: 16px; flex-wrap: wrap; }
+.pl-tools { display: flex; gap: 8px; flex-wrap: wrap; }
+.pl-year { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; margin-top: 18px; }
+.example { margin-top: 14px; background: var(--accent-soft); border-radius: 10px; padding: 8px 14px; font-size: 14px; display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; align-items: center; }
+.example button { background: none; border: 0; color: var(--accent); font-weight: 600; cursor: pointer; padding: 0; }
+.board { margin-top: 18px; display: grid; grid-template-columns: 150px repeat(2, minmax(0, 1fr)); gap: 8px 12px; align-items: stretch; }
+.board .colh { display: flex; justify-content: space-between; align-items: baseline; padding: 0 2px 2px; }
+.board .colh h2 { font-size: 20px; }
+.board .colh small { color: var(--muted); font-size: 13px; }
+.slotname { display: flex; align-items: center; justify-content: space-between; gap: 6px; padding: 10px 0; border-top: 1px solid var(--line); font-weight: 600; font-size: 14.5px; }
+.slotname .x { border: 0; background: none; color: var(--muted); cursor: pointer; font-size: 16px; line-height: 1; padding: 2px 4px; }
+.slot { min-width: 0; }
+.slot .k { display: none; }
+.empty-slot { width: 100%; height: 100%; min-height: 58px; border: 1.5px dashed var(--line); border-radius: 12px; background: none; color: var(--muted); cursor: pointer; font-weight: 600; font-size: 14px; text-align: left; padding: 10px 14px; }
+.empty-slot:hover { border-color: var(--accent); color: var(--accent); }
+.filled { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 10px 14px; display: grid; gap: 4px; height: 100%; }
+.filled.dup { border-color: var(--warn); }
+.filled .top { display: flex; justify-content: space-between; gap: 8px; align-items: flex-start; }
+.filled .t { font-weight: 600; color: var(--fg); text-decoration: none; }
+.filled .t:hover { color: var(--accent); }
+.filled .c { color: var(--muted); font-size: 13.5px; }
+.filled .x { border: 0; background: none; color: var(--muted); cursor: pointer; font-size: 17px; line-height: 1; padding: 0 2px; }
+.filled .warn { color: var(--warn); font-size: 12.5px; font-weight: 600; }
+.addslot { grid-column: 1 / -1; display: flex; gap: 8px; align-items: center; border-top: 1px solid var(--line); padding-top: 10px; flex-wrap: wrap; }
+.addslot input { border: 1px solid var(--line); border-radius: 10px; padding: 7px 12px; background: var(--surface); min-width: 0; flex: 0 1 240px; }
+.saved { margin-top: 30px; }
+.saved .row { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 4px 12px; align-items: center; padding: 10px 0; border-top: 1px solid var(--line); }
+.saved .row:first-of-type { border-top: 0; }
+.saved select { border: 1px solid var(--line); border-radius: 8px; padding: 4px 8px; background: var(--surface); max-width: 100%; }
+.copybox { margin-top: 10px; }
+.copybox textarea { width: 100%; min-height: 150px; font-family: var(--font-mono); font-size: 12.5px; border: 1px solid var(--line); border-radius: 10px; padding: 10px; background: var(--surface); color: var(--fg); }
+.copybox p { margin: 6px 0 0; font-size: 13px; color: var(--muted); }
+.toast { position: fixed; left: 50%; bottom: 24px; transform: translateX(-50%); background: var(--fg); color: var(--bg); padding: 8px 16px; border-radius: 999px; font-weight: 600; font-size: 14px; z-index: 40; box-shadow: var(--shadow); }
+
+/* search sheet (same pattern as the catalog's side panel) */
+.scrim { position: fixed; inset: 0; background: var(--scrim); z-index: 20; }
+.panel { position: fixed; top: 0; right: 0; bottom: 0; width: min(560px, 100%); background: var(--bg); z-index: 21; box-shadow: var(--shadow); display: flex; flex-direction: column; }
+.panel-top { padding: 18px 20px 12px; border-bottom: 1px solid var(--line); background: var(--surface); display: grid; gap: 10px; }
+.panel-top .row1 { display: flex; justify-content: space-between; align-items: center; gap: 10px; }
+.panel-top h2 { font-size: 20px; }
+.close { background: var(--chip); border: 0; border-radius: 999px; width: 34px; height: 34px; cursor: pointer; font-size: 20px; line-height: 1; flex-shrink: 0; }
+.search { width: 100%; font-size: 16px; padding: 10px 12px; border-radius: 10px; border: 1px solid var(--line); background: var(--bg); color: var(--fg); }
+.filters { display: flex; gap: 8px 14px; flex-wrap: wrap; align-items: center; }
+.filters .label-sm { margin-right: -6px; }
+.panel-body { overflow-y: auto; padding: 4px 20px 24px; flex: 1; }
+.panel-body h4 { margin: 16px 0 4px; font-size: 11px; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); }
+.res { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 2px 12px; padding: 9px 0; border-bottom: 1px solid var(--line); align-items: center; }
+.res .t { font-weight: 600; }
+.res .meta { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; color: var(--muted); font-size: 13px; }
+.res .inst { font-size: 12px; color: var(--muted); }
+.res-count { color: var(--muted); font-size: 13px; margin: 14px 0 0; }
+
+@media (max-width: 820px) {
+  .matrix { grid-template-columns: 1fr; }
+  .matrix > * { grid-column: auto; grid-row: auto; }
+  .m-label { display: none; }
+  .m-yhead { margin-top: 16px; }
+  .m-cell .k { display: block; font-size: 10.5px; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); font-weight: 600; margin-bottom: 2px; }
+  .catgrid { grid-template-columns: 1fr; }
+  .board { grid-template-columns: 1fr; gap: 6px; }
+  .board .colh { display: none; }
+  .slotname { margin-top: 10px; }
+  .slot .k { display: block; font-size: 10.5px; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); font-weight: 600; margin-bottom: 3px; }
+}
+@media (max-width: 560px) {
+  .brand { font-size: 28px; }
+  h1 { font-size: 28px; }
+  .piece, .res, .saved .row { grid-template-columns: 1fr; }
+  .acts { margin-top: 4px; }
+}
+@media (prefers-reduced-motion: no-preference) { html { scroll-behavior: smooth; } }
+</style>
+
+<div class="mockbar"><b>Prototype</b> · Repertoire planner for SaxoBrain (separate dev cycle) · curriculum pages shown as of round 2 · links open the live site</div>
+<header class="site-head">
+  <a class="brand" href="#overview">Saxo<span>Brain</span></a>
+  <a class="myplan" id="myplan" href="#planner">My plan <span class="count" id="plancount">0</span></a>
+  <nav aria-label="Sections">
+    <a href="#">Repertoire</a><a href="#">Composers</a><a href="#overview" id="nav-cur">Curriculum</a><a href="#">Reading</a><a href="#">Recordings</a><a href="#">Lists</a><a href="#">Resources</a>
+  </nav>
+</header>
+<main id="app"></main>
+<div class="scrim" id="scrim" hidden></div>
+<div class="panel" id="panel" role="dialog" aria-modal="true" aria-labelledby="panel-title" hidden></div>
+<footer class="site-foot">Built and maintained by Timothy Rosenberg. Licensed CC BY-SA 4.0. Links may contain affiliate codes.</footer>
+
+<script>
+const DATA = /*DATA*/;
+const YEARS = DATA.years, CAT = DATA.catalog, SITE = DATA.site;
+const BY_SLUG = Object.fromEntries(CAT.map(w => [w.s, w]));
+const LV_NAME = { pre: "Pre-college", 1: "First year", 2: "Second year", 3: "Third year", 4: "Fourth year", adv: "Advanced", "": "Unassigned" };
+const LV_PARAM = { 1: "First Year", 2: "Second-Year", 3: "Third Year", 4: "Fourth Year", adv: "Advanced" };
+const SAXN = { S: "Soprano", A: "Alto", T: "Tenor", B: "Baritone", Bs: "Bass", Any: "Any sax" };
+const STRANDS = [["technique", "Technique"], ["etudes", "Études"], ["rep", "Solo repertoire"], ["reading", "Reading"], ["listening", "Listening"]];
+const app = document.getElementById("app"), panel = document.getElementById("panel"), scrim = document.getElementById("scrim");
+
+const store = {
+  get(k, d) { try { const v = localStorage.getItem("sb-plan-" + k); return v ? JSON.parse(v) : d; } catch (e) { return d; } },
+  set(k, v) { try { localStorage.setItem("sb-plan-" + k, JSON.stringify(v)); } catch (e) {} },
+};
+
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const fold = s => String(s).normalize("NFD").replace(/\p{Diacritic}/gu, "").toLowerCase();
+const ext = (u, label, cls = "act") => u ? `<a class="${cls}" href="${esc(u)}" target="_blank" rel="noopener">${label}</a>` : "";
+const PLAY = `<svg viewBox="0 0 10 10" aria-hidden="true"><path d="M2 1l7 4-7 4z"/></svg>`;
+const shortTitle = t => t.replace(/ \((Alto|Tenor)\)$/, "");
+const lastName = c => (c || "").split(",")[0].trim().split(" ").slice(-1)[0];
+const lvPill = l => `<span class="lvl lv-${l || "none"}"><span class="dot"></span>${LV_NAME[l || ""]}</span>`;
+const workURL = s => `${SITE}/works/${s}/`;
+
+/* A plan entry is a snapshot, so excerpts from collections (Teal, Bach) keep their own title. */
+const entry = p => ({ s: p.s, t: shortTitle(p.title || p.t), c: p.composer ?? p.c, l: p.l || "", li: p.listen ?? p.li ?? "", b: p.buy ?? p.b ?? "" });
+const eKey = e => e.s + "#" + e.t;
+
+/* ---------- plan state ---------- */
+const EXAMPLE = () => {
+  const y = YEARS[0], pick = (ci, i) => entry(y.cats[ci].alto[i]);
+  return { example: true, year: 1, custom: [], fall: { Virtuosic: pick(0, 0), Lyrical: pick(2, 1) }, spring: { Virtuosic: pick(0, 1), French: pick(1, 0), Lyrical: pick(2, 1) },
+    saved: [entry(y.cats[3].alto[4]), ...(BY_SLUG["paul-creston-sonata"] ? [entry(BY_SLUG["paul-creston-sonata"])] : [])] };
+};
+let plan = store.get("v2", null) || EXAMPLE();
+const savePlan = () => { store.set("v2", plan); updateCount(); };
+const touch = () => { plan.example = false; savePlan(); };
+function slotNames() {
+  const y = YEARS.find(o => o.n === plan.year);
+  const names = y ? y.cats.map(c => c.name) : [];
+  for (const n of [...plan.custom, ...Object.keys(plan.fall), ...Object.keys(plan.spring)]) if (!names.includes(n)) names.push(n);
+  return names.length ? names : ["Piece 1", "Piece 2", "Piece 3"];
+}
+function updateCount() {
+  const n = Object.keys(plan.fall).length + Object.keys(plan.spring).length + plan.saved.length;
+  document.getElementById("plancount").textContent = n;
+}
+const isSaved = e => plan.saved.some(x => eKey(x) === eKey(e));
+
+/* ---------- overview ---------- */
+function cellHTML(y, key) {
+  switch (key) {
+    case "technique":
+      return `<ul>${y.technique.map(t => `<li>${esc(t.text)}${t.detail ? `<span class="sub">: ${esc(t.detail.replace(/^./, c => c.toLowerCase()))}</span>` : ""}${t.list ? `<span class="sub"> (${esc(t.list.join(", ").toLowerCase())})</span>` : ""}</li>`).join("")}</ul>`;
+    case "etudes":
+      return `<ul>${y.etudes.map(e => `<li><i>${esc(e.title)}</i> <span class="sub">${esc(lastName(e.composer))}</span></li>`).join("")}</ul>`;
+    case "rep": {
+      const a = y.cats.reduce((n, c) => n + c.alto.length, 0), t = y.cats.reduce((n, c) => n + c.tenor.length, 0);
+      return `<div>${a} alto pieces, ${t} more for tenor</div><div class="chips">${y.cats.map(c => `<span class="chip">${esc(c.name)}</span>`).join("")}</div>`;
+    }
+    case "reading":
+      return `<div class="theme">${esc(y.readingTheme)}</div><div class="sub">${y.reading.filter(r => r.term === "Fall").length} in fall, ${y.reading.filter(r => r.term === "Spring").length} in spring</div>`;
+    case "listening": {
+      const n = y.listening.reduce((a, g) => a + g.albums.length, 0);
+      return `<div>${n} albums</div><div class="sub">${esc(y.listening[0].group.replace(/^./, c => c.toUpperCase()))}</div>`;
+    }
+  }
+}
+function overview() {
+  let cells = STRANDS.map(([k, label], r) => `<div class="m-label" style="--x:1;--y:${r + 2}"><span class="label-sm">${label}</span></div>`).join("");
+  YEARS.forEach((y, i) => {
+    cells += `<a class="m-yhead y${y.n}" style="--x:${i + 2};--y:1" href="#${y.id}"><span class="n label-sm"><span class="dot"></span>Year ${y.n}</span><b>${esc(y.name)}</b><span class="go">Open this year →</span></a>`;
+    STRANDS.forEach(([k, label], r) => {
+      cells += `<div class="m-cell y${y.n}${r === STRANDS.length - 1 ? " last" : ""}" role="link" tabindex="0" data-go="${y.id}" data-sec="${k}" style="--x:${i + 2};--y:${r + 2}"><span class="k">${label}</span>${cellHTML(y, k)}</div>`;
+    });
+  });
+  app.innerHTML = `
+  <h1>Curriculum</h1>
+  <p class="lede">Four years of study for college saxophonists, centered on alto saxophone with tenor options every year. Each year has technique goals, études, solo repertoire to choose from, reading and listening. Read across a row to see how a skill builds; open a year to see everything for that year on one page.</p>
+  <div class="matrix">${cells}</div>
+  <div class="how">
+    <div><h3>Solo repertoire</h3><p>Each category is a menu: choose one piece per category each semester. Alto pieces come first; tenor options follow in each category.</p></div>
+    <div><h3>Plan your semesters</h3><p>Save pieces from the curriculum or anywhere in the catalog, then lay out your fall and spring in <a href="#planner">My plan</a>.</p></div>
+    <div><h3>Beyond these lists</h3><p>Every year links to the full catalog, filtered to that year of study.</p></div>
+  </div>`;
+}
+
+/* ---------- year page ---------- */
+function pieceHTML(p, tenorList) {
+  const e = entry(p), saved = isSaved(e);
+  const from = p.from ? `<span class="note">from <a href="${esc(p.from.url)}" target="_blank" rel="noopener"><i>${esc(p.from.title)}</i></a> (${esc(p.from.where)})</span>` : "";
+  return `<li class="piece">
+    <div><a class="t" href="${esc(p.url)}" target="_blank" rel="noopener">${esc(shortTitle(p.title))}</a>${p.both && !tenorList ? ` <span class="tag tenor">Also tenor</span>` : ""}${p.solo ? ` <span class="tag">Unaccompanied</span>` : ""}
+      <div class="who"><span>${esc(p.composer)}</span>${p.note ? `<span class="note">${esc(p.note)}</span>` : ""}${from}</div></div>
+    <div class="acts">${ext(p.listen, PLAY + "Listen", "act listen")}${ext(p.free, "Free score")}${p.free ? "" : ext(p.buy, "Score")}
+      <button type="button" class="act save" data-save='${esc(JSON.stringify(e))}' aria-pressed="${saved}">${saved ? "Saved" : "+ Save"}</button></div></li>`;
+}
+function yearPage(y) {
+  const i = YEARS.indexOf(y), prev = YEARS[i - 1], next = YEARS[i + 1];
+  const a = y.cats.reduce((n, c) => n + c.alto.length, 0), t = y.cats.reduce((n, c) => n + c.tenor.length, 0);
+  const ruleText = y.intro.some(s => /semester 2/i.test(s))
+    ? "Each semester, choose one piece from each category. In the spring, choose a different piece in each category than you played in the fall."
+    : y.n === 4 ? "By the time a student reaches their fourth year of study they should have advanced enough in their technique to play most of the saxophone repertoire. The pieces below are suggestions."
+    : "Choose one piece from each category.";
+  const cat = (lv, sax) => `${SITE}/?sax=${sax}+Saxophone&lvl=${encodeURIComponent(lv).replace(/%20/g, "+")}`;
+  const ord = y.name.split(" ")[0].toLowerCase();
+  const terms = ["Fall", "Spring"].map(tm => `<div class="term"><span class="label-sm">${tm}</span>${y.reading.filter(r => r.term === tm).map(r => `
+      <a class="read" href="${esc(r.url)}" target="_blank" rel="noopener"><span class="t">${esc(r.title)}</span>${r.in ? `<span class="in">${esc(r.in)}</span>` : ""}<span class="by">${esc(r.by)}</span>${r.note ? `<span class="note">${esc(r.note)}</span>` : ""}<span class="tag kind">${r.kind === "PDF" ? "PDF" : "Read on SaxoBrain"}</span></a>`).join("")}</div>`).join("");
+  const g = y.listening[0];
+  app.innerHTML = `
+  <div class="y${y.n}">
+  <div class="crumbs"><a href="#overview">Curriculum</a><span>/</span><span>${esc(y.name)}</span></div>
+  <div class="y-head"><div class="eyebrow"><span class="dot"></span>Year ${y.n} of 4</div><h1>${esc(y.name)}</h1></div>
+  <div class="ysteps">${YEARS.map(o => `<a class="ystep y${o.n}" href="#${o.id}" ${o === y ? 'aria-current="page"' : ""}><span class="dot"></span>${esc(o.name)}</a>`).join("")}</div>
+  <nav class="secbar" aria-label="On this page">${STRANDS.map(([k, l]) => `<a href="#" data-sec="${k}">${l}</a>`).join("")}</nav>
+
+  <section class="sec" id="s-technique"><div class="pair">
+    <div class="card"><h3>Technique</h3><ul class="goals">${y.technique.map(t => `<li><div>${t.url ? `<a href="${esc(t.url)}" target="_blank" rel="noopener">${esc(t.text)}</a>` : esc(t.text)}${t.detail ? `<span class="detail">${esc(t.detail)}</span>` : ""}${t.list ? `<div class="sublist">${t.list.map(s => `<span>${esc(s)}</span>`).join("")}</div>` : ""}</div></li>`).join("")}</ul></div>
+    <div class="card" id="s-etudes"><h3>Études</h3>${y.etudes.map(e => `<div class="book"><a class="t" href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.title)}</a><span class="muted">${esc(e.composer)}</span><span class="links">${e.buy ? `<a href="${esc(e.buy)}" target="_blank" rel="noopener">Buy the book</a>` : ""}${e.also ? `<a href="${esc(e.also.u)}" target="_blank" rel="noopener">${esc(e.also.t)}</a>` : ""}</span></div>`).join("")}</div>
+  </div></section>
+
+  <section class="sec" id="s-rep">
+    <div class="sec-h"><h2>Solo repertoire</h2><span class="label-sm">${a} alto · ${t} tenor</span></div>
+    <div class="rule"><p>${esc(ruleText)}</p><a class="btn" href="#planner" data-planyear="${y.n}">Plan your semesters →</a></div>
+    <div class="catgrid">${y.cats.map(c => `<div class="catcard"><header><h3>${esc(c.name)}</h3><span class="label-sm">Choose one</span></header>
+      <ul class="pieces">${c.alto.map(p => pieceHTML(p, false)).join("")}</ul>
+      ${c.tenor.length ? `<div class="tenor-h"><span class="label-sm">For tenor</span></div><ul class="pieces">${c.tenor.map(p => pieceHTML(p, true)).join("")}</ul>` : ""}</div>`).join("")}</div>
+    <div class="more"><span>Looking for something else? The catalog lists <b>${y.more.alto}</b> ${ord}-year pieces for alto and <b>${y.more.tenor}</b> for tenor${y.n === 4 ? `, plus <b>${y.more.adv.alto}</b> advanced pieces for alto` : ""}.</span>
+      <span class="links"><a class="go" href="${cat(LV_PARAM[y.n], "Alto")}" target="_blank" rel="noopener">Alto →</a><a class="go" href="${cat(LV_PARAM[y.n], "Tenor")}" target="_blank" rel="noopener">Tenor →</a>${y.n === 4 ? `<a class="go" href="${cat("Advanced", "Alto")}" target="_blank" rel="noopener">Advanced →</a>` : ""}</span></div>
+  </section>
+
+  <section class="sec" id="s-reading"><div class="sec-h"><h2>Reading</h2><span class="focus">This year’s focus: <b>${esc(y.readingTheme)}</b></span></div><div class="pair">${terms}</div></section>
+
+  <section class="sec" id="s-listening"><div class="sec-h"><h2>Listening</h2><span class="focus">${esc(g.group.replace(/^./, c => c.toUpperCase()))}</span></div>
+    <div class="card"><ol class="albums">${g.albums.map(al => `
+      <li><span><span class="t">${esc(al.t)}</span><span class="a">${esc(al.a)}${al.note ? ` · ${esc(al.note)}` : ""}</span></span>
+      <span class="acts">${al.u ? ext(al.u, al.free ? "Free download" : PLAY + "Listen", al.free ? "act" : "act listen") : `<span class="nolink">No public link yet</span>`}${ext(al.page, "Notes")}</span></li>`).join("")}</ol></div></section>
+
+  <div class="yfoot">${prev ? `<a href="#${prev.id}"><small>← Previous year</small><b>${esc(prev.name)}</b></a>` : `<a href="#overview"><small>← Back to</small><b>All four years</b></a>`}${next ? `<a href="#${next.id}"><small>Next year →</small><b>${esc(next.name)}</b></a>` : `<a href="#overview"><small>Back to →</small><b>All four years</b></a>`}</div>
+  </div>`;
+}
+
+/* ---------- planner ---------- */
+function filledHTML(e, term, name) {
+  const other = plan[term === "fall" ? "spring" : "fall"];
+  const dup = Object.values(other).some(x => eKey(x) === eKey(e));
+  return `<div class="filled${dup ? " dup" : ""}"><div class="top"><div><a class="t" href="${workURL(e.s)}" target="_blank" rel="noopener">${esc(e.t)}</a><div class="c">${esc(e.c)}</div></div>
+    <button type="button" class="x" data-clearslot="${term}" data-name="${esc(name)}" aria-label="Remove ${esc(e.t)}">×</button></div>
+    <div class="acts">${lvPill(e.l)}${ext(e.li, PLAY + "Listen", "act listen")}${ext(e.b, "Score")}<button type="button" class="act" data-choose="${term}" data-name="${esc(name)}">Change</button></div>
+    ${dup ? `<span class="warn">Also in ${term === "fall" ? "spring" : "fall"}. Choose a different piece for one semester.</span>` : ""}</div>`;
+}
+function plannerText() {
+  const names = slotNames(), y = YEARS.find(o => o.n === plan.year);
+  const line = e => `${e.t}, ${e.c}`;
+  let s = `My repertoire plan${y ? ` (${y.name})` : ""}\n`;
+  for (const [term, label] of [["fall", "Fall"], ["spring", "Spring"]]) {
+    s += `\n${label}\n` + names.map(n => `- ${n}: ${plan[term][n] ? line(plan[term][n]) : "not chosen yet"}`).join("\n") + "\n";
+  }
+  if (plan.saved.length) s += `\nAlso considering\n` + plan.saved.map(e => `- ${line(e)}`).join("\n") + "\n";
+  const slugs = term => names.map(n => plan[term][n]?.s || "").join(",");
+  s += `\nOpen this plan: https://saxobrain.timothyrosenberg.com/plan/?y=${plan.year || ""}&fall=${slugs("fall")}&spring=${slugs("spring")}`;
+  return s;
+}
+function planner() {
+  const names = slotNames();
+  const count = term => names.filter(n => plan[term][n]).length;
+  const slot = (term, n) => `<div class="slot"><span class="k">${term === "fall" ? "Fall" : "Spring"}</span>${plan[term][n] ? filledHTML(plan[term][n], term, n)
+    : `<button type="button" class="empty-slot" data-choose="${term}" data-name="${esc(n)}">+ Choose a piece</button>`}</div>`;
+  const yearCats = YEARS.find(o => o.n === plan.year)?.cats.map(c => c.name) || [];
+  const options = names.flatMap(n => [["fall", n], ["spring", n]]);
+  app.innerHTML = `
+  <div class="pl-head">
+    <div><h1>My plan</h1><p class="lede">Plan your solo repertoire for the year with any piece in the SaxoBrain catalog. Your plan stays in this browser; copy it to send to your teacher.</p></div>
+    <div class="pl-tools"><button type="button" class="btn" data-copy>Copy plan</button><button type="button" class="btn quiet" data-reset>Start over</button></div>
+  </div>
+  ${plan.example ? `<div class="example"><span>This is an example plan, so you can see how it works.</span><button type="button" data-reset>Clear it and start my own</button></div>` : ""}
+  <div class="pl-year"><span class="label-sm">Year of study</span><div class="seg" role="group" aria-label="Year of study">${YEARS.map(o => `<button type="button" class="y${o.n}" data-year="${o.n}" aria-pressed="${plan.year === o.n}"><span class="dot"></span>${esc(o.name)}</button>`).join("")}<button type="button" data-year="0" aria-pressed="${!plan.year}">Not in the curriculum</button></div></div>
+  <div class="board">
+    <div></div><div class="colh"><h2>Fall</h2><small>${count("fall")} of ${names.length}</small></div><div class="colh"><h2>Spring</h2><small>${count("spring")} of ${names.length}</small></div>
+    ${names.map(n => `<div class="slotname"><span>${esc(n)}</span>${yearCats.includes(n) ? "" : `<button type="button" class="x" data-dropslot="${esc(n)}" aria-label="Remove slot ${esc(n)}">×</button>`}</div>${slot("fall", n)}${slot("spring", n)}`).join("")}
+    <form class="addslot" data-addslot><input id="newslot" placeholder="Add a slot, e.g. Recital piece" aria-label="New slot name"><button class="btn" type="submit">Add slot</button></form>
+  </div>
+  <div class="saved card"><h3>Saved pieces <span class="muted" style="font-size:14px">${plan.saved.length}</span></h3>
+    ${plan.saved.length ? plan.saved.map((e, i) => `<div class="row"><div><a class="t" href="${workURL(e.s)}" target="_blank" rel="noopener"><b>${esc(e.t)}</b></a> <span class="muted">${esc(e.c)}</span><div class="acts" style="margin-top:4px">${lvPill(e.l)}${ext(e.li, PLAY + "Listen", "act listen")}</div></div>
+      <div class="acts"><select data-place="${i}" aria-label="Put ${esc(e.t)} in a slot"><option value="">Put in…</option>${options.map(([tm, n]) => `<option value="${tm}|${esc(n)}">${tm === "fall" ? "Fall" : "Spring"} · ${esc(n)}</option>`).join("")}</select><button type="button" class="act" data-unsave="${i}">Remove</button></div></div>`).join("")
+    : `<p class="muted" style="margin:0">Use <b>+ Save</b> on any curriculum piece, catalog row or work page to collect pieces you're considering.</p>`}</div>
+  <div class="copybox" id="copybox" hidden><textarea id="copytext" readonly></textarea><p>Select all and copy if your browser blocked the copy button.</p></div>`;
+}
+
+/* search sheet: the whole catalog, with curriculum suggestions and saved pieces first */
+const sheet = { term: "", name: "", q: "", lv: "", sax: "A" };
+function openSheet(term, name) {
+  Object.assign(sheet, { term, name, q: "", lv: plan.year ? String(plan.year) : "", sax: "A" });
+  panel.hidden = scrim.hidden = false; document.body.classList.add("panel-open");
+  drawSheet(true);
+}
+function closeSheet() { panel.hidden = scrim.hidden = true; document.body.classList.remove("panel-open"); }
+function resRow(e, tag = "") {
+  const w = BY_SLUG[e.s];
+  const inst = (w?.i || []).map(c => SAXN[c]).join(", ");
+  return `<div class="res"><div><div class="t">${esc(e.t)} ${tag}</div><div class="meta"><span>${esc(e.c)}</span>${lvPill(e.l)}${inst ? `<span class="inst">${esc(inst)}</span>` : ""}</div></div>
+    <div class="acts">${ext(e.li, PLAY + "Listen", "act listen")}<button type="button" class="act" data-pickres='${esc(JSON.stringify(e))}'>Choose</button></div></div>`;
+}
+function drawSheet(first) {
+  const y = YEARS.find(o => o.n === plan.year);
+  const c = y?.cats.find(x => x.name === sheet.name);
+  const q = fold(sheet.q.trim()), words = q.split(/\s+/).filter(Boolean);
+  const match = e => words.every(w => fold(e.t + " " + e.c).includes(w));
+  const sugg = c ? [...c.alto, ...c.tenor].map(entry).filter(match) : [];
+  const saved = plan.saved.filter(match);
+  const pool = CAT.filter(w => (!sheet.lv || w.l === sheet.lv) && (!sheet.sax || w.i.includes(sheet.sax) || w.i.includes("Any")) && match(w));
+  const shown = pool.slice(0, 40);
+  const body = `
+    ${sugg.length ? `<h4>From the ${esc(y.name)} curriculum · ${esc(sheet.name)}</h4>${sugg.map(e => resRow(e)).join("")}` : ""}
+    ${saved.length ? `<h4>Saved pieces</h4>${saved.map(e => resRow(e)).join("")}` : ""}
+    <h4>Catalog</h4>${shown.map(w => resRow(entry(w))).join("") || `<p class="muted">No pieces match. Try fewer words or set Year to Any.</p>`}
+    <p class="res-count">${pool.length > shown.length ? `Showing ${shown.length} of ${pool.length}. Type to narrow it down.` : `${pool.length} catalog ${pool.length === 1 ? "piece" : "pieces"}`}</p>`;
+  if (first) {
+    panel.innerHTML = `<div class="panel-top"><div class="row1"><div><span class="label-sm">${sheet.term === "fall" ? "Fall" : "Spring"}</span><h2 id="panel-title">${esc(sheet.name)}</h2></div><button type="button" class="close" data-close aria-label="Close">×</button></div>
+      <input class="search" id="sheetq" type="search" placeholder="Search ${CAT.length.toLocaleString()} pieces by title or composer" autocomplete="off">
+      <div class="filters"><span class="label-sm">Year</span><div class="seg" id="f-lv">${[["", "Any"], ["1", "1st"], ["2", "2nd"], ["3", "3rd"], ["4", "4th"], ["adv", "Adv."]].map(([v, l]) => `<button type="button" data-lv="${v}" aria-pressed="${sheet.lv === v}">${l}</button>`).join("")}</div>
+      <span class="label-sm">Sax</span><div class="seg" id="f-sax">${[["A", "Alto"], ["T", "Tenor"], ["", "Any"]].map(([v, l]) => `<button type="button" data-sx="${v}" aria-pressed="${sheet.sax === v}">${l}</button>`).join("")}</div></div></div>
+      <div class="panel-body" id="sheetbody"></div>`;
+    setTimeout(() => document.getElementById("sheetq")?.focus(), 30);
+  } else {
+    panel.querySelectorAll("[data-lv]").forEach(b => b.setAttribute("aria-pressed", b.dataset.lv === sheet.lv));
+    panel.querySelectorAll("[data-sx]").forEach(b => b.setAttribute("aria-pressed", b.dataset.sx === sheet.sax));
+  }
+  document.getElementById("sheetbody").innerHTML = body;
+}
+panel.addEventListener("input", e => { if (e.target.id === "sheetq") { sheet.q = e.target.value; drawSheet(); } });
+panel.addEventListener("click", e => {
+  const t = e.target.closest("[data-close],[data-lv],[data-sx],[data-pickres]");
+  if (!t) return;
+  if (t.hasAttribute("data-close")) closeSheet();
+  else if (t.dataset.lv !== undefined && t.hasAttribute("data-lv")) { sheet.lv = t.dataset.lv; drawSheet(); }
+  else if (t.hasAttribute("data-sx")) { sheet.sax = t.dataset.sx; drawSheet(); }
+  else if (t.dataset.pickres) { plan[sheet.term][sheet.name] = JSON.parse(t.dataset.pickres); touch(); closeSheet(); render(true); }
+});
+scrim.addEventListener("click", closeSheet);
+document.addEventListener("keydown", e => { if (e.key === "Escape" && !panel.hidden) closeSheet(); });
+
+/* ---------- routing and events ---------- */
+function toast(msg) { const d = document.createElement("div"); d.className = "toast"; d.textContent = msg; document.body.appendChild(d); setTimeout(() => d.remove(), 1800); }
+function render(keepScroll, scrollTo) {
+  const s = window.scrollY;
+  const id = location.hash.slice(1);
+  const y = YEARS.find(o => o.id === id);
+  document.getElementById("nav-cur").toggleAttribute("aria-current", !!id && id !== "planner");
+  document.getElementById("myplan").toggleAttribute("aria-current", id === "planner" || !id);
+  (id === "planner" || !id) ? planner() : y ? yearPage(y) : overview();
+  if (keepScroll) window.scrollTo(0, s);
+  if (scrollTo) document.getElementById("s-" + scrollTo)?.scrollIntoView();
+}
+window.addEventListener("hashchange", () => { render(); window.scrollTo(0, 0); });
+window.addEventListener("popstate", () => render());
+app.addEventListener("click", e => {
+  const t = e.target.closest("[data-go],[data-sec],[data-save],[data-planyear],[data-choose],[data-clearslot],[data-dropslot],[data-year],[data-unsave],[data-copy],[data-reset]");
+  if (!t) return;
+  const d = t.dataset;
+  if (d.go) { history.pushState(null, "", "#" + d.go); render(false, d.sec); }
+  else if (d.sec) { e.preventDefault(); document.getElementById("s-" + d.sec)?.scrollIntoView(); }
+  else if (d.save) {
+    const en = JSON.parse(d.save);
+    if (isSaved(en)) plan.saved = plan.saved.filter(x => eKey(x) !== eKey(en)); else { plan.saved.push(en); toast("Saved to My plan"); }
+    touch(); render(true);
+  }
+  else if (d.planyear) { plan.year = +d.planyear; savePlan(); }
+  else if (d.choose) openSheet(d.choose, d.name);
+  else if (d.clearslot) { delete plan[d.clearslot][d.name]; touch(); render(true); }
+  else if (d.dropslot) { plan.custom = plan.custom.filter(n => n !== d.dropslot); delete plan.fall[d.dropslot]; delete plan.spring[d.dropslot]; touch(); render(true); }
+  else if (d.year !== undefined && t.hasAttribute("data-year")) { plan.year = +d.year; savePlan(); render(true); }
+  else if (d.unsave !== undefined && t.hasAttribute("data-unsave")) { plan.saved.splice(+d.unsave, 1); touch(); render(true); }
+  else if (t.hasAttribute("data-copy")) {
+    const text = plannerText();
+    const box = document.getElementById("copybox"), ta = document.getElementById("copytext");
+    ta.value = text; box.hidden = false;
+    (navigator.clipboard?.writeText(text) || Promise.reject()).then(() => toast("Plan copied"), () => { ta.focus(); ta.select(); });
+  }
+  else if (t.hasAttribute("data-reset")) { plan = { example: false, year: plan.year || 1, custom: [], fall: {}, spring: {}, saved: [] }; savePlan(); render(true); }
+});
+app.addEventListener("change", e => {
+  if (e.target.dataset.place !== undefined && e.target.value) {
+    const [term, name] = e.target.value.split("|"), i = +e.target.dataset.place;
+    plan[term][name] = plan.saved[i]; plan.saved.splice(i, 1); touch(); render(true);
+  }
+});
+app.addEventListener("submit", e => {
+  if (e.target.hasAttribute("data-addslot")) {
+    e.preventDefault(); const v = document.getElementById("newslot").value.trim();
+    if (v && !slotNames().includes(v)) { plan.custom.push(v); touch(); render(true); }
+  }
+});
+app.addEventListener("keydown", e => { if ((e.key === "Enter" || e.key === " ") && e.target.dataset.go) { e.preventDefault(); e.target.click(); } });
+updateCount();
+render();
+</script>

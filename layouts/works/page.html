@@ -50,6 +50,16 @@
 {{ partial "notice.html" . }}
 {{ with partial "body.html" . }}<div class="notes">{{ . }}</div>{{ end }}
 
+{{ with index (partialCached "recordings-index.html" "all") .Path }}
+<h2>Recordings</h2>
+<ul class="albumlist">
+{{ range uniq . }}<li><a href="{{ .RelPermalink }}">
+  {{ with .Params.cover }}<img src="{{ if hasPrefix . "/" }}{{ relURL (strings.TrimPrefix "/" .) }}{{ else }}{{ . }}{{ end }}" alt="" loading="lazy">{{ else }}<span class="nocover"></span>{{ end }}
+  <span><span class="t">{{ .Title }}</span>{{ with .Params.saxophonists }}<span class="muted">{{ . }}</span>{{ end }}{{ with index .Params "year-released" }}<span class="muted">{{ . }}</span>{{ end }}</span>
+</a></li>{{ end }}
+</ul>
+{{ end }}
+
 {{ $self := . }}
 {{ with $composers }}
 {{ $c := index . 0 }}

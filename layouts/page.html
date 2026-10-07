@@ -1,7 +1,6 @@
 {{ define "main" }}
 <article class="page">
 <h1>{{ .Title }}</h1>
-{{ if eq .Section "curriculum" }}{{ partial "curriculum-nav.html" . }}{{ end }}
 {{ partial "notice.html" . }}
 <div class="prose">{{ partial "body.html" . }}</div>
 </article>
