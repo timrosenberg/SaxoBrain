@@ -1,0 +1,4 @@
+{{- /* A work's title as shown in lists: "Come Wide Close (2020)", or the bare title when the year is unknown. */ -}}
+{{- $t := .Title -}}
+{{- with .Params.composed }}{{ $t = printf "%s (%v)" $t . }}{{ end -}}
+{{- return $t -}}

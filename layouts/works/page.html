@@ -12,7 +12,17 @@
 {{ range .Params.download }}<a class="btn" href="{{ . }}" rel="noopener">Free score</a>{{ end }}
 </p>
 
+{{- /* A YouTube recording link also plays on the page (youtube.com/watch?v=, youtu.be/, shorts/; a t= start time is kept). */ -}}
+{{ with .Params.streaming }}{{ $url := . }}
+{{ with findRESubmatch `(?:youtu\.be/|youtube\.com/(?:watch\?(?:[^#]*&)?v=|shorts/|embed/))([A-Za-z0-9_-]{11})` $url 1 }}
+{{ $src := printf "https://www.youtube-nocookie.com/embed/%s" (index (index . 0) 1) }}
+{{ with findRESubmatch `[?&]t=(\d+)` $url 1 }}{{ $src = printf "%s?start=%s" $src (index (index . 0) 1) }}{{ end }}
+<div class="video"><iframe src="{{ $src }}" title="Recording of {{ $.Title }}" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+{{ end }}
+{{ end }}
+
 <dl class="facts">
+{{ with .Params.composed }}<dt>Composed</dt><dd>{{ . }}</dd>{{ end }}
 <dt>Instrumentation</dt><dd>{{ delimit .Params.instruments ", " }}</dd>
 {{ with index .Params "arranger-edition" }}<dt>Edition</dt><dd>{{ delimit . ", " }}</dd>{{ end }}
 {{ with .Params.publisher }}<dt>Publisher</dt><dd>{{ delimit . ", " }}</dd>{{ end }}
@@ -28,7 +38,7 @@
 {{ with $others }}
 <h2>More by {{ $c.Title }}</h2>
 <ul class="worklist">
-{{ range sort . "Title" }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a><span class="lvl pill c-lv-{{ partial "level.html" (index .Params "year-of-study") }}"><span class="dot lv-{{ partial "level.html" (index .Params "year-of-study") }}"></span>{{ partial "level-name.html" (index .Params "year-of-study") }}</span></li>{{ end }}
+{{ range sort . "Title" }}<li><a href="{{ .RelPermalink }}"><span>{{ partial "work-title.html" . }}</span><span class="lvl pill c-lv-{{ partial "level.html" (index .Params "year-of-study") }}"><span class="dot lv-{{ partial "level.html" (index .Params "year-of-study") }}"></span>{{ partial "level-name.html" (index .Params "year-of-study") }}</span></a></li>{{ end }}
 </ul>
 {{ end }}
 {{ end }}

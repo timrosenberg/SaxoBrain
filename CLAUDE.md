@@ -10,8 +10,9 @@ SaxoBrain: Tim Rosenberg's public saxophone knowledge base, migrating from Notio
 
 ## Data model
 
-- `content/works/*.md`: one per piece. Fields: `title`, `slug`, `composer` (list of `[[File Name]]` or `[[File Name|Display]]`), `instruments` (list), `year-of-study`, `arranger-edition`, `publisher`, `streaming`, `purchase` (list), `download` (list), `library-recording` (Alexander Street links, not shown publicly), `studied-performed`, `want-to-play` (Tim's personal flags, never shown publicly), `added`, `aliases`.
-- `content/composers/*.md`: `title`, `slug`, `nationality`, `gender`, `race`, `aliases`. Body = bio.
+- `content/works/*.md`: one per piece. Fields: `title`, `slug`, `composer` (list of `[[File Name]]` or `[[File Name|Display]]`), `instruments` (list), `composed` (year of composition, of the original work for arrangements), `year-of-study`, `arranger-edition`, `publisher`, `streaming`, `purchase` (list), `download` (list), `library-recording` (Alexander Street links, not shown publicly), `studied-performed`, `want-to-play` (Tim's personal flags, never shown publicly), `added`, `aliases`.
+- `content/composers/*.md`: `title`, `slug`, `nationality`, `gender`, `race`, `born`, `died` (years), `wikidata` (ID, e.g. Q918509), `photo` (`/media/composers/<slug>.jpg`), `photo-credit`, `photo-source`, `aliases`. Body = bio. A composer counts as living when born within the last 100 years with no `died` (`layouts/_partials/living.html`).
+- Composer photos are always local copies in `static/media/composers/` (never hotlinked, so no link rot). Commons photos carry photographer and license in `photo-credit`; other photos link their source.
 - Year of Study is Tim's pedagogical call. Never assign or propose levels.
 - Titles never repeat the composer in parentheses (Notion-era hack, stripped from 414 titles 2026-10-06 at Tim's request). Two versions of a piece are distinguished by voice, e.g. "Ballade (Alto)" / "Ballade (Tenor)". Original Notion titles are kept in `scripts/migration/notion-ids.json`.
 
@@ -30,6 +31,9 @@ SaxoBrain: Tim Rosenberg's public saxophone knowledge base, migrating from Notio
 - `scripts/migration/build_page_map.py` → `page-map.csv`: where every non-catalog Notion page goes (status import / view / private / ask). Private and "ask" pages are never published.
 - `scripts/import_pages_from_export.py <export folder> <zip>`: imports the `import` rows (curriculum, reading, recordings, lists, resources) and copies attached files into `static/media/`. Refuses to overwrite a page that has `notion-id:` unless `--force`. `--work-attachments` links attached files in piece notes. Files over 30 MB are not copied (need separate hosting).
 - `scripts/migration/wayback_lookup.py` → `wayback.json`: verified Wayback snapshots for each `original-url`; the importer adds them as `wayback-url`.
+- `scripts/wikidata_composers.py`: fills `wikidata`, `born`, `died` for composers with no `wikidata`. Applies only an exact-name musician with matching citizenship; the rest go to `scripts/migration/wikidata-review.json`. Hand decisions live in `scripts/migration/wikidata-overrides.json` (null = ruled out). Common names produced wrong people (a rock bassist for "John Cooper"): review new matches before trusting them.
+- `scripts/composer_photos.py`: `--notion` (photos Tim set in Notion), `--wikidata` (Commons portrait), `--credits`, `--add NAME URL --credit TEXT`. Never replaces a photo; `scripts/migration/photo-skip.json` lists composers whose photo was ruled out.
+- `scripts/check_living.py` + `.github/workflows/living-composers.yml`: monthly, asks Wikidata whether any composer with no `died` has died and opens a GitHub issue. Never edits files; Tim confirms and fills in `died`.
 - `scripts/migration/notion-ids.json`: Notion page ID → file name map, plus each work's Recordings relation IDs (recordings not yet imported).
 
 ## Design

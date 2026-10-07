@@ -6,5 +6,11 @@ nationality:
 gender: "Female"
 race:
   - "White"
+born: 1930
+died: 
+wikidata: Q273031
+photo: 
+photo-credit: 
+photo-source: 
 aliases: []
 ---

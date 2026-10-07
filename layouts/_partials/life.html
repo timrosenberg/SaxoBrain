@@ -1,0 +1,8 @@
+{{- /* A composer's years for display: "1905–1991", "born 1987", "died 1742", or "" when unknown. */ -}}
+{{- $b := .Params.born -}}
+{{- $d := .Params.died -}}
+{{- $out := "" -}}
+{{- if and $b $d }}{{ $out = printf "%v–%v" $b $d }}
+{{- else if $b }}{{ $out = printf "born %v" $b }}
+{{- else if $d }}{{ $out = printf "died %v" $d }}{{ end -}}
+{{- return $out -}}

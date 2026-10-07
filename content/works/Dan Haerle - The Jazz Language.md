@@ -10,6 +10,7 @@ instruments:
   - "Baritone Saxophone"
 tags:
   - "Jazz"
+composed: 
 year-of-study: "First Year"
 streaming: 
 purchase: []

@@ -7,6 +7,7 @@ instruments:
   - "Soprano Saxophone"
   - "Alto Saxophone"
   - "Tenor Saxophone"
+composed: 1982
 year-of-study: "Advanced"
 arranger-edition:
   - "Jeffrey Heisler"

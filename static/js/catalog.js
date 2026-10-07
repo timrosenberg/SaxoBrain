@@ -110,7 +110,7 @@
     const frag = document.createDocumentFragment();
     hits.slice(0, state.limit).forEach(w => {
       const li = document.createElement("li");
-      li.innerHTML = `<a class="row" href="${esc(w.u)}"><div class="main"><div><span class="title">${esc(w.t)}</span> <span class="composer">· ${esc(w.c.join(", ") || "Composer unknown")}</span></div>
+      li.innerHTML = `<a class="row" href="${esc(w.u)}"><div class="main"><div><span class="title">${esc(w.t)}${w.d ? ` (${esc(w.d)})` : ""}</span> <span class="composer">· ${esc(w.c.join(", ") || "Composer unknown")}</span></div>
 <div class="meta"><span class="lvl pill c-${lvClass(w.y)}"><span class="dot ${lvClass(w.y)}"></span>${esc(LV_NAME[w.y] || w.y)}</span><span>${esc(instLine(w))}</span></div></div>
 <div class="has">${w.s ? '<span class="tag on">Recording</span>' : ""}${w.p ? '<span class="tag on">Score</span>' : ""}</div></a>`;
       frag.appendChild(li);

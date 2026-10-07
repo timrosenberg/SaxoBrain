@@ -1,16 +1,33 @@
 {{ define "main" }}
 {{ $works := partial "works-by.html" . }}
 {{ $n := 0 }}{{ with $works }}{{ $n = len . }}{{ end }}
+{{ $life := partial "life.html" . }}
 <article class="composer">
+<div class="composer-head">
+{{ with .Params.photo }}<figure class="portrait">
+<img src="{{ . | relURL }}" alt="{{ $.Title }}" width="160" height="200">
+{{- $credit := index $.Params "photo-credit" -}}
+{{- $src := index $.Params "photo-source" -}}
+{{- $link := and $src (hasPrefix $src "http") -}}
+{{- if or $credit $link }}
+<figcaption>Photo: {{ if $link }}<a href="{{ $src }}" rel="noopener">{{ $credit | default (replaceRE `^https?://(www\.)?([^/]+).*$` "$2" $src) }}</a>{{ else }}{{ $credit }}{{ end }}</figcaption>
+{{- end }}
+</figure>{{ end }}
+<div>
 <p class="eyebrow">Composer</p>
 <h1>{{ .Title }}</h1>
-{{ with .Params.nationality }}<p class="byline">{{ delimit . ", " }}</p>{{ end }}
+{{ $by := slice }}
+{{ with .Params.nationality }}{{ $by = $by | append (delimit . ", ") }}{{ end }}
+{{ with $life }}{{ $by = $by | append . }}{{ end }}
+{{ with $by }}<p class="byline">{{ delimit . " · " }}</p>{{ end }}
+</div>
+</div>
 {{ with partial "body.html" . }}<div class="notes">{{ . }}</div>{{ end }}
 <h2>Works in SaxoBrain ({{ $n }})</h2>
 {{ with $works }}
 <ul class="worklist">
 {{ range sort . "Title" }}
-<li><a href="{{ .RelPermalink }}">{{ .Title }}</a><span class="lvl pill c-lv-{{ partial "level.html" (index .Params "year-of-study") }}"><span class="dot lv-{{ partial "level.html" (index .Params "year-of-study") }}"></span>{{ partial "level-name.html" (index .Params "year-of-study") }}</span></li>
+<li><a href="{{ .RelPermalink }}"><span>{{ partial "work-title.html" . }}</span><span class="lvl pill c-lv-{{ partial "level.html" (index .Params "year-of-study") }}"><span class="dot lv-{{ partial "level.html" (index .Params "year-of-study") }}"></span>{{ partial "level-name.html" (index .Params "year-of-study") }}</span></a></li>
 {{ end }}
 </ul>
 {{ end }}

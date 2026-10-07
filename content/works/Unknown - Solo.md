@@ -3,6 +3,7 @@ title: "Solo"
 slug: unknown-solo
 composer: []
 instruments: []
+composed: 
 year-of-study: 
 streaming: 
 purchase: []

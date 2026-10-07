@@ -6,6 +6,7 @@ composer:
 instruments:
   - "Baritone Saxophone"
   - "Electronics"
+composed: 
 year-of-study: "Advanced"
 streaming: "https://joshuahyde.bandcamp.com/track/hector-parra-chymisch"
 purchase:

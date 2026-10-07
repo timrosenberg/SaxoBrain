@@ -8,6 +8,7 @@ instruments:
   - "Trumpet"
   - "Orchestra"
   - "Piano"
+composed: 
 year-of-study: "Third Year"
 streaming: 
 purchase:

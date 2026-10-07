@@ -7,5 +7,11 @@ nationality:
 gender: "Male"
 race:
   - "Hispanic / Latino"
+born: 1961
+died: 
+wikidata: Q1876493
+photo: 
+photo-credit: 
+photo-source: 
 aliases: []
 ---

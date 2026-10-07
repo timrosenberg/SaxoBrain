@@ -6,5 +6,11 @@ nationality:
 gender: "Male"
 race:
   - "White"
+born: 1632
+died: 1687
+wikidata: Q1192
+photo: "/media/composers/jean-baptise-lully.jpg"
+photo-credit: "Ducarme, Public domain, via Wikimedia Commons"
+photo-source: "https://commons.wikimedia.org/wiki/File:Jean-Baptiste_Lully.jpeg"
 aliases: []
 ---

@@ -6,5 +6,11 @@ nationality:
 gender: "Male"
 race:
   - "White"
+born: 1969
+died: 
+wikidata: Q133576361
+photo: 
+photo-credit: 
+photo-source: 
 aliases: []
 ---

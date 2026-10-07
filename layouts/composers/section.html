@@ -25,14 +25,14 @@
 {{- $order := slice "pre" "1" "2" "3" "4" "adv" "none" -}}
 <div class="section-list composers-index">
 <h1>{{ .Title }}</h1>
-<p class="lede">{{ len $rows }} composers with works in SaxoBrain, by last name.</p>
 
 <div class="bar">
 <input id="cq" class="search" type="search" placeholder="Search composers" aria-label="Search composers" autocomplete="off" hidden>
 <div class="groups" id="cgroups"></div>
 </div>
-<nav class="letters" aria-label="Jump to letter">
-{{ range $letters }}<a href="#letter-{{ lower . }}" data-letter="{{ . }}">{{ . }}</a>{{ end }}
+<nav class="letters" aria-label="Jump to a last name">
+<span class="label-sm">Jump to</span>
+<span class="letter-row">{{ range $letters }}<a href="#letter-{{ lower . }}" data-letter="{{ . }}">{{ . }}</a>{{ end }}</span>
 </nav>
 <div class="status"><span id="ccount" aria-live="polite">{{ len $rows }} composers</span><button class="clear" id="cclear" type="button" hidden>Clear all</button></div>
 
@@ -43,12 +43,14 @@
 {{ range where $rows "letter" $letter }}
 {{- $p := .p -}}
 {{- $nat := $p.Params.nationality | default slice -}}
-<li data-nat="{{ delimit $nat "|" }}" data-lv="{{ delimit .lv " " }}"{{ if eq $p.Params.gender "Female" }} data-w="1"{{ end }}><a href="{{ $p.RelPermalink }}"><span class="name">{{ $p.Title }}</span><span class="who">{{ with $nat }}{{ delimit . ", " }} · {{ end }}{{ .n }} {{ cond (eq .n 1) "work" "works" }}<span class="dots" aria-hidden="true">{{ $lv := .lv }}{{ range $order }}{{ if in $lv . }}<span class="dot lv-{{ . }}"></span>{{ end }}{{ end }}</span></span></a></li>
+{{- $life := partial "life.html" $p -}}
+<li data-nat="{{ delimit $nat "|" }}" data-lv="{{ delimit .lv " " }}"{{ with $p.Params.born }} data-born="{{ . }}"{{ end }}{{ if eq $p.Params.gender "Female" }} data-w="1"{{ end }}{{ if partial "living.html" $p }} data-living="1"{{ end }}><a href="{{ $p.RelPermalink }}"><span class="name">{{ $p.Title }}</span><span class="who">{{ with $nat }}{{ delimit . ", " }} · {{ end }}{{ with $life }}{{ . }} · {{ end }}{{ .n }} {{ cond (eq .n 1) "work" "works" }}<span class="dots" aria-hidden="true">{{ $lv := .lv }}{{ range $order }}{{ if in $lv . }}<span class="dot lv-{{ . }}"></span>{{ end }}{{ end }}</span></span></a></li>
 {{ end }}
 </ul>
 </section>
 {{ end }}
 <p class="empty" id="cempty" hidden>No composers match. Try removing a filter.</p>
+<button class="totop" id="totop" type="button" hidden><span aria-hidden="true">↑</span> Back to top</button>
 </div>
 <script defer src="{{ "js/composers.js" | relURL }}"></script>
 {{ end }}

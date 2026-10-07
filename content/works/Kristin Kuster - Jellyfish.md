@@ -6,6 +6,7 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
+composed: 
 year-of-study: "Advanced"
 streaming: "http://kristinkuster.com/portfolio/jellyfish/"
 purchase: []

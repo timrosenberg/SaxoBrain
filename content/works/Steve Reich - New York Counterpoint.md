@@ -7,6 +7,7 @@ instruments:
   - "Saxophone Ensemble"
   - "Soprano Saxophone"
   - "Electronics"
+composed: 1985
 year-of-study: "Fourth Year"
 arranger-edition:
   - "Susan Fancher"

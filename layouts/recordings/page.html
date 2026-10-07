@@ -14,7 +14,7 @@
 <ul class="worklist">
 {{ range . }}
   {{ $name := replaceRE `^\[\[([^|\]]+)(\|[^\]]*)?\]\]$` "$1" . }}
-  {{ with index $idx (lower $name) }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+  {{ with index $idx (lower $name) }}<li><a href="{{ .RelPermalink }}">{{ partial "work-title.html" . }}</a></li>
   {{ else }}{{ errorf "Recording %s lists work %q, which matches no page file." $.File.Path $name }}{{ end }}
 {{ end }}
 </ul>

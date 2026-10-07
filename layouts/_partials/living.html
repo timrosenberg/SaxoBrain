@@ -1,0 +1,4 @@
+{{- /* True for a composer with a birth year in the last 100 years and no death year. The age limit keeps a
+       missing death date from making a long-dead composer look alive. scripts/check_living.py watches these. */ -}}
+{{- $b := .Params.born -}}
+{{- return (and $b (not .Params.died) (ge (int $b) (sub now.Year 100))) -}}

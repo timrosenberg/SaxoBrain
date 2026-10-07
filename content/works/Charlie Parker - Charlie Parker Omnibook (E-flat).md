@@ -8,6 +8,7 @@ instruments:
   - "Baritone Saxophone"
 tags:
   - "Jazz"
+composed: 
 year-of-study: "Second-Year"
 arranger-edition:
   - "Jamey Aebersold"

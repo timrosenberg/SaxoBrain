@@ -6,5 +6,11 @@ nationality:
 gender: "Male"
 race:
   - "African / Black"
+born: 1930
+died: 2026
+wikidata: Q299208
+photo: "/media/composers/sonny-rollins.jpg"
+photo-credit: "Brianmcmillen at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons"
+photo-source: "https://commons.wikimedia.org/wiki/File:SonnyRollins.jpg"
 aliases: []
 ---

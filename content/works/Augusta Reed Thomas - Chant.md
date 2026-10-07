@@ -6,6 +6,7 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
+composed: 
 year-of-study: "Fourth Year"
 streaming: "https://augustareadthomas.com/composition/chant.html"
 purchase: []

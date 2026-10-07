@@ -6,5 +6,11 @@ nationality:
 gender: "Male"
 race:
   - "White"
+born: 1921
+died: 2005
+wikidata: Q612855
+photo: "/media/composers/alfred-reed.jpg"
+photo-credit: "Unknown photographer, Public domain, via Wikimedia Commons"
+photo-source: "https://commons.wikimedia.org/wiki/File:Alfred_Reed_portrait.jpg"
 aliases: []
 ---

@@ -1,5 +1,5 @@
 {{- /* Page body with Obsidian links resolved: [[File Name]] or [[File Name|Display]] points to a work
-       or composer page. A link that matches no file stops the build, so typos never publish.
+       or composer page. A work link without its own display text shows the year: "Syrinx (1913)". A link that matches no file stops the build, so typos never publish.
        Hugo has already turned straight quotes and & into entities by the time this runs, so
        names are compared after unescaping and with curly quotes flattened. */ -}}
 {{- $idx := partialCached "page-index.html" "all" -}}
@@ -11,7 +11,7 @@
   {{- $name := index $parts 0 -}}
   {{- $key := lower (replace (replace (replace (htmlUnescape $name) "’" "'") "‘" "'") " " " ") -}}
   {{- with index $idx $key -}}
-    {{- $label := .Title | htmlEscape -}}
+    {{- $label := cond (eq .Section "works") (partial "work-title.html" .) .Title | htmlEscape -}}
     {{- if gt (len $parts) 1 }}{{ $label = index $parts 1 }}{{ end -}}
     {{- $html = replace $html $match (printf `<a href="%s">%s</a>` .RelPermalink $label) -}}
   {{- else -}}

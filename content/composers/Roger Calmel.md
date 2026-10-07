@@ -6,5 +6,11 @@ nationality:
 gender: "Male"
 race:
   - "White"
+born: 1920
+died: 1998
+wikidata: Q3438776
+photo: 
+photo-credit: 
+photo-source: 
 aliases: []
 ---

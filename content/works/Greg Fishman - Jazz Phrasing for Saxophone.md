@@ -11,6 +11,7 @@ instruments:
 tags:
   - "Jazz"
   - "Etude"
+composed: 
 year-of-study: "First Year"
 streaming: 
 purchase:

@@ -9,6 +9,7 @@ instruments:
   - "Tenor Saxophone"
   - "Baritone Saxophone"
   - "Electronics"
+composed: 
 year-of-study: "Advanced"
 streaming: "https://jeffreyheisler.bandcamp.com/album/gradient"
 purchase: []

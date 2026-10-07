@@ -8,6 +8,7 @@ instruments:
   - "Piano"
   - "Organ"
   - "Orchestra"
+composed: 
 year-of-study: "Advanced"
 streaming: "https://youtu.be/-4iYpRjHiZY?si=NARNJUR9W1uIVr6x"
 purchase:

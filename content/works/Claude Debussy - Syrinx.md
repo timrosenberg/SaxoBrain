@@ -7,6 +7,7 @@ instruments:
   - "Soprano Saxophone"
   - "Alto Saxophone"
   - "Unaccompanied"
+composed: 1913
 year-of-study: "Third Year"
 arranger-edition:
   - "Nicolas Prost"

@@ -17,6 +17,7 @@ views:
       - file.name
       - composer
       - instruments
+      - composed
       - year-of-study
       - streaming
       - purchase

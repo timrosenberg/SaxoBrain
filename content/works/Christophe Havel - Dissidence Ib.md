@@ -6,6 +6,7 @@ composer:
 instruments:
   - "Soprano Saxophone"
   - "Electronics"
+composed: 
 year-of-study: "Advanced"
 streaming: "https://youtu.be/E-I0j8Z3jmQ?si=4ah_w4zL8F5X-AKQ"
 purchase:

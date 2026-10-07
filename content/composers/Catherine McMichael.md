@@ -6,5 +6,11 @@ nationality:
 gender: "Female"
 race:
   - "White"
+born: 1954
+died: 
+wikidata: Q2143133
+photo: 
+photo-credit: 
+photo-source: 
 aliases: []
 ---

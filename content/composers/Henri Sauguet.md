@@ -6,5 +6,11 @@ nationality:
 gender: "Male"
 race:
   - "White"
+born: 1901
+died: 1989
+wikidata: Q708863
+photo: "/media/composers/henri-sauguet.jpg"
+photo-credit: "V. Blioh / В. Блиох, CC BY-SA 3.0, via Wikimedia Commons"
+photo-source: "https://commons.wikimedia.org/wiki/File:Henri_Sauguet.jpg"
 aliases: []
 ---

@@ -8,6 +8,7 @@ instruments:
   - "Piano"
   - "Guitar"
   - "Marimba"
+composed: 
 year-of-study: "Fourth Year"
 arranger-edition:
   - "Ken-ichiro Isoda"

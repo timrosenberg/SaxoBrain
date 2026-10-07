@@ -12,7 +12,7 @@
 {{ if not (eq .Section "curriculum") }}
 {{ with .RegularPages.ByTitle }}
 <ul class="alist">
-{{ range . }}<li><a href="{{ .RelPermalink }}"><span>{{ .Title }}</span>{{ with .Params.saxophonists }}<span class="who">{{ . }}</span>{{ end }}</a></li>{{ end }}
+{{ range . }}<li><a href="{{ .RelPermalink }}"><span>{{ cond (eq .Section "works") (partial "work-title.html" .) .Title }}</span>{{ with .Params.saxophonists }}<span class="who">{{ . }}</span>{{ end }}</a></li>{{ end }}
 </ul>
 {{ end }}
 {{ end }}

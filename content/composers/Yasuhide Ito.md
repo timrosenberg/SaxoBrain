@@ -6,5 +6,11 @@ nationality:
 gender: "Male"
 race:
   - "East-Asian"
+born: 1960
+died: 
+wikidata: Q195067
+photo: 
+photo-credit: 
+photo-source: 
 aliases: []
 ---

@@ -6,6 +6,7 @@ composer:
 instruments:
   - "Baritone Saxophone"
   - "Piano"
+composed: 
 year-of-study: 
 streaming: "http://c-alanpublications.com/fusion-suite/"
 purchase: []
