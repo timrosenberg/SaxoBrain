@@ -95,6 +95,18 @@ article.page { max-width: 68ch; }
 .alist .who { color: var(--muted); font-size: 13.5px; font-weight: 400; }
 .section-list h2 { margin-top: 28px; }
 
+/* composers index */
+.composers-index .bar { position: static; border-bottom: 0; padding-bottom: 0; }
+.letters { position: sticky; top: 0; z-index: 5; background: var(--bg); display: flex; flex-wrap: wrap; gap: 2px; padding-block: 8px; border-bottom: 1px solid var(--line); margin-top: 10px; }
+.letters a { min-width: 28px; padding: 4px 6px; text-align: center; border-radius: 6px; text-decoration: none; font-weight: 600; color: var(--fg); }
+.letters a:hover { background: var(--chip); }
+.letters a.off { color: var(--line); cursor: default; }
+.letters a.off:hover { background: none; }
+.letter-group { scroll-margin-top: 4rem; }
+.letter-group h2 { margin-bottom: 0; }
+.clist .who { display: inline-flex; align-items: center; gap: 8px; text-align: right; }
+.clist .dots { display: inline-flex; gap: 3px; }
+
 /* curriculum pills */
 .years { display: flex; gap: 8px; flex-wrap: wrap; margin-block: 14px 6px; }
 .year { border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 6px 14px; text-decoration: none; color: var(--fg); font-weight: 600; font-size: 14px; }
@@ -128,6 +140,8 @@ article.page { max-width: 68ch; }
 .c-sx-baritone { --c: var(--sx-baritone); } .c-sx-bass { --c: var(--sx-bass); }
 .chip[aria-pressed="true"] { background: var(--fg); color: var(--bg); }
 .status { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; color: var(--muted); font-size: 13.5px; padding-block: 12px 4px; }
+.status-tools { display: flex; gap: 16px; align-items: center; }
+.sort select { font: inherit; color: var(--fg); background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 3px 6px; margin-left: 4px; }
 .clear { background: none; border: 0; color: var(--accent); cursor: pointer; padding: 0; }
 .results { list-style: none; margin: 0; padding: 0; }
 .row { display: grid; grid-template-columns: 1fr auto; gap: 4px 16px; align-items: center; padding: 12px 6px; border-bottom: 1px solid var(--line); text-decoration: none; color: var(--fg); }
@@ -152,8 +166,9 @@ article.page { max-width: 68ch; }
   .row { grid-template-columns: 1fr; }
   .cover { float: none; display: block; margin: 0 0 1rem; }
   .alist a { flex-direction: column; gap: 2px; }
+  .clist .who { text-align: left; }
 }
-@media print { .site-head nav, .bar, .site-foot, .starts { display: none; } }
+@media print { .site-head nav, .bar, .letters, .site-foot, .starts { display: none; } }
 
 /* side panel on the Repertoire page (a full-width sheet on phones) */
 body.panel-open { overflow: hidden; }

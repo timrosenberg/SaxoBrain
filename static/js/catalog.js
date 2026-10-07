@@ -6,12 +6,14 @@
   const lvClass = y => "lv-" + ((LEVELS.find(l => l[0] === y) || [0, "none"])[1]);
   const SAX = ["Soprano Saxophone", "Alto Saxophone", "Tenor Saxophone", "Baritone Saxophone", "Bass Saxophone"];
   const WITH = ["Piano", "Unaccompanied", "Orchestra", "Band", "Electronics", "Percussion"];
+  // Sort orders: composer (last name), title (ignoring a leading article), year of study (then composer).
+  const SORTS = { composer: { key: "k", label: "composer" }, title: { key: "tk", label: "title" }, level: { key: "lk", label: "year of study" } };
   const short = t => t.replace(" Saxophone", "");
   const fold = s => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
   const esc = s => String(s).replace(/[&<>"]/g, ch => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[ch]));
   const nf = new Intl.NumberFormat("en-US");
   const $ = id => document.getElementById(id);
-  const state = { q: "", sax: new Set(), lvl: new Set(), with: new Set(), rec: false, women: false, jazz: false, etude: false, limit: 60 };
+  const state = { q: "", sax: new Set(), lvl: new Set(), with: new Set(), rec: false, women: false, jazz: false, etude: false, sort: "composer", limit: 60 };
   let W = [];
 
   function readUrl() {
@@ -22,6 +24,7 @@
     state.women = p.get("women") === "1";
     state.jazz = p.get("jazz") === "1";
     state.etude = p.get("etude") === "1";
+    state.sort = SORTS[p.get("sort")] ? p.get("sort") : "composer";
   }
   function writeUrl() {
     const p = new URLSearchParams();
@@ -31,6 +34,7 @@
     if (state.women) p.set("women", "1");
     if (state.jazz) p.set("jazz", "1");
     if (state.etude) p.set("etude", "1");
+    if (state.sort !== "composer") p.set("sort", state.sort);
     const qs = p.toString();
     try { history.replaceState(null, "", location.pathname + (qs ? "?" + qs : "") + location.hash); } catch (e) {}
   }
@@ -72,6 +76,7 @@
       b.setAttribute("aria-pressed", on ? "true" : "false");
     });
     $("q").value = state.q;
+    $("sort").value = state.sort;
   }
   function reset() { state.q = ""; state.sax.clear(); state.lvl.clear(); state.with.clear(); state.rec = false; state.women = false; state.jazz = false; state.etude = false; state.limit = 60; }
 
@@ -98,7 +103,7 @@
   function render() {
     const hits = W.filter(matches);
     const active = state.q || state.sax.size || state.lvl.size || state.with.size || state.rec || state.women || state.jazz || state.etude;
-    $("count").textContent = active ? `${nf.format(hits.length)} of ${nf.format(W.length)} works` : `All ${nf.format(W.length)} works, by composer`;
+    $("count").textContent = active ? `${nf.format(hits.length)} of ${nf.format(W.length)} works` : `All ${nf.format(W.length)} works, by ${SORTS[state.sort].label}`;
     $("clear").hidden = !active;
     const list = $("list");
     list.innerHTML = hits.length ? "" : `<li class="empty">No works match. Try removing a filter.</li>`;
@@ -116,6 +121,7 @@
     more.textContent = `Show more (${nf.format(Math.max(0, hits.length - state.limit))} left)`;
   }
   function update() { syncChips(); writeUrl(); render(); }
+  function applySort() { const key = SORTS[state.sort].key; W.sort((a, b) => a[key].localeCompare(b[key])); }
 
 
   /* Side panel: a click on a result opens the work in a panel (a sheet on phones). The work keeps its own page
@@ -178,9 +184,13 @@
       const n = w.c.length ? w.c[0] : "zzz", parts = n.split(/\s+/);
       w.k = fold(parts[parts.length - 1] + " " + n + " " + w.t);
       w.hay = fold(w.t + " " + w.c.join(" "));
+      w.tk = fold(w.t.replace(/^[^\p{L}\p{N}]+/u, "").replace(/^(?:(?:the|a|an|le|la|les)\s+|l['’])/i, "")) + " " + w.k;
+      const li = LEVELS.findIndex(l => l[0] === w.y);
+      w.lk = (li < 0 ? 9 : li) + " " + w.k;
     });
-    W.sort((a, b) => a.k.localeCompare(b.k));
-    buildChips(); readUrl(); syncChips(); render();
+    buildChips(); readUrl(); applySort(); syncChips(); render();
+    document.querySelector(".sort").hidden = false;
+    $("sort").onchange = e => { state.sort = e.target.value; state.limit = 60; applySort(); update(); };
     $("more").onclick = () => { state.limit += 120; render(); };
     $("clear").onclick = () => { reset(); update(); };
     let tmr;

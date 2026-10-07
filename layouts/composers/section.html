@@ -1,0 +1,54 @@
+{{ define "main" }}
+{{- /* Composer index: every composer with at least one work, grouped by the first letter of the last name.
+       The list is plain HTML so it works without JavaScript; static/js/composers.js filters it in place
+       using the data- attributes on each row. Composers with no works keep their pages but are left out here. */ -}}
+{{- $fold := dict "á" "a" "à" "a" "â" "a" "ä" "a" "å" "a" "č" "c" "ç" "c" "é" "e" "è" "e" "ê" "e" "ë" "e" "í" "i" "î" "i" "ï" "i" "ñ" "n" "ó" "o" "ô" "o" "ö" "o" "ø" "o" "š" "s" "ś" "s" "ú" "u" "ü" "u" "ž" "z" "ż" "z" "ł" "l" -}}
+{{- $rows := slice -}}
+{{- range .RegularPages -}}
+  {{- $works := partial "works-by.html" . -}}
+  {{- if $works -}}
+    {{- $parts := split .Title " " -}}
+    {{- $last := index $parts (sub (len $parts) 1) -}}
+    {{- if and (gt (len $parts) 1) (findRE `^(Jr\.?|Sr\.?|II|III|IV)$` $last) -}}{{ $last = index $parts (sub (len $parts) 2) }}{{- end -}}
+    {{- $key := replaceRE `^d'` "" (lower $last) -}}
+    {{- $first := substr $key 0 1 -}}
+    {{- $letter := upper (index $fold $first | default $first) -}}
+    {{- $lv := slice -}}
+    {{- range $works }}{{ $lv = $lv | append (partial "level.html" (index .Params "year-of-study")) }}{{ end -}}
+    {{- $rows = $rows | append (dict "p" . "n" (len $works) "letter" $letter "key" (printf "%s %s" $key (lower .Title)) "lv" (uniq $lv)) -}}
+  {{- end -}}
+{{- end -}}
+{{- $rows = sort $rows "key" -}}
+{{- $letters := slice -}}
+{{- range $rows }}{{ $letters = $letters | append .letter }}{{ end -}}
+{{- $letters = uniq $letters -}}
+{{- $order := slice "pre" "1" "2" "3" "4" "adv" "none" -}}
+<div class="section-list composers-index">
+<h1>{{ .Title }}</h1>
+<p class="lede">{{ len $rows }} composers with works in SaxoBrain, by last name.</p>
+
+<div class="bar">
+<input id="cq" class="search" type="search" placeholder="Search composers" aria-label="Search composers" autocomplete="off" hidden>
+<div class="groups" id="cgroups"></div>
+</div>
+<nav class="letters" aria-label="Jump to letter">
+{{ range $letters }}<a href="#letter-{{ lower . }}" data-letter="{{ . }}">{{ . }}</a>{{ end }}
+</nav>
+<div class="status"><span id="ccount" aria-live="polite">{{ len $rows }} composers</span><button class="clear" id="cclear" type="button" hidden>Clear all</button></div>
+
+{{ range $letter := $letters }}
+<section class="letter-group" id="letter-{{ lower $letter }}" data-letter="{{ $letter }}">
+<h2>{{ $letter }}</h2>
+<ul class="alist clist">
+{{ range where $rows "letter" $letter }}
+{{- $p := .p -}}
+{{- $nat := $p.Params.nationality | default slice -}}
+<li data-nat="{{ delimit $nat "|" }}" data-lv="{{ delimit .lv " " }}"{{ if eq $p.Params.gender "Female" }} data-w="1"{{ end }}><a href="{{ $p.RelPermalink }}"><span class="name">{{ $p.Title }}</span><span class="who">{{ with $nat }}{{ delimit . ", " }} · {{ end }}{{ .n }} {{ cond (eq .n 1) "work" "works" }}<span class="dots" aria-hidden="true">{{ $lv := .lv }}{{ range $order }}{{ if in $lv . }}<span class="dot lv-{{ . }}"></span>{{ end }}{{ end }}</span></span></a></li>
+{{ end }}
+</ul>
+</section>
+{{ end }}
+<p class="empty" id="cempty" hidden>No composers match. Try removing a filter.</p>
+</div>
+<script defer src="{{ "js/composers.js" | relURL }}"></script>
+{{ end }}
