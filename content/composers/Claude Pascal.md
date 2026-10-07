@@ -10,7 +10,7 @@ born: 1921
 died: 2017
 wikidata: Q1097031
 photo: "/media/composers/claude-pascal.jpg"
-photo-credit: "Xavier Gardette, CC BY-SA 4.0, via Wikimedia Commons"
+photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Claude_Pascal_2002.jpg"
 aliases: []
 ---

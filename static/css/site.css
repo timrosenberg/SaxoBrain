@@ -106,7 +106,7 @@ article.page { max-width: 68ch; }
 
 /* composer page */
 .composer-head { display: flex; flex-direction: row-reverse; justify-content: space-between; gap: 22px; align-items: flex-start; }
-.composer-head > div { min-width: 0; }
+.composer-head > div { flex: 1; min-width: 0; }
 .portrait { margin: 18px 0 0; width: 160px; flex-shrink: 0; }
 .portrait img { display: block; width: 160px; height: 200px; object-fit: cover; border-radius: 10px; background: var(--chip); }
 .portrait figcaption { font-size: 11.5px; color: var(--muted); margin-top: 5px; line-height: 1.35; overflow-wrap: anywhere; }

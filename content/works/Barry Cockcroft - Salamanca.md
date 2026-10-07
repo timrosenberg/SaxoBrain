@@ -1,18 +1,18 @@
 ---
-title: "Salamanca"
+title: Salamanca
 slug: barry-cockcroft-salamanca
 composer:
   - "[[Barry Cockcroft]]"
 instruments:
-  - "Alto Saxophone"
-  - "Unaccompanied"
+  - Alto Saxophone
+  - Unaccompanied
 composed: 2000
-year-of-study: 
+year-of-study: Advanced
 publisher:
-  - "Reed Music"
-streaming: "https://soundcloud.com/reedmusic-com/rm022-salamanca-by-barry-cockcroft"
+  - Reed Music
+streaming: https://soundcloud.com/reedmusic-com/rm022-salamanca-by-barry-cockcroft
 purchase:
-  - "https://www.reedmusic.com/store/woodwind/saxophone/saxophone-solo/sax-solo-alto/salamanca/"
+  - https://www.reedmusic.com/store/woodwind/saxophone/saxophone-solo/sax-solo-alto/salamanca/
 added: 2026-10-07
 aliases: []
 ---

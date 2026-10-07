@@ -10,7 +10,7 @@ born: 1976
 died: 
 wikidata: Q54932704
 photo: "/media/composers/hector-parra.jpg"
-photo-credit: "Institut Ramon Llull, CC BY 2.0, via Wikimedia Commons"
+photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Hectorparra.jpg"
 aliases: []
 ---

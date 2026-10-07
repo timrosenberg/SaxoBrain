@@ -9,7 +9,7 @@ born: 1949
 died: 
 wikidata: Q3014317
 photo: "/media/composers/daniel-lefebvre.jpg"
-photo-credit: "Da.lefebvre, CC BY-SA 4.0, via Wikimedia Commons"
+photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:DANIEL_LEFEBVRE.jpg"
 aliases: []
 ---

@@ -10,7 +10,7 @@ born: 1889
 died: 1939
 wikidata: Q3387245
 photo: "/media/composers/pierre-vellones.jpg"
-photo-credit: "Vellones, Public domain, via Wikimedia Commons"
+photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Pv28.jpg"
 aliases: []
 ---

@@ -1,18 +1,18 @@
 ---
-title: "Foreign"
+title: Foreign
 slug: barry-cockcroft-foreign
 composer:
   - "[[Barry Cockcroft]]"
 instruments:
-  - "Alto Saxophone"
-  - "Unaccompanied"
+  - Alto Saxophone
+  - Unaccompanied
 composed: 1993
-year-of-study: 
+year-of-study: Advanced
 publisher:
-  - "Reed Music"
-streaming: "https://soundcloud.com/reedmusic-com/rm001-foreign-by-barry-cockcroft"
+  - Reed Music
+streaming: https://soundcloud.com/reedmusic-com/rm001-foreign-by-barry-cockcroft
 purchase:
-  - "https://www.reedmusic.com/store/woodwind/saxophone/saxophone-solo/sax-solo/foreign/"
+  - https://www.reedmusic.com/store/woodwind/saxophone/saxophone-solo/sax-solo/foreign/
 added: 2026-10-07
 aliases: []
 ---

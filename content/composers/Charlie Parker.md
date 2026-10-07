@@ -10,7 +10,7 @@ born: 1920
 died: 1955
 wikidata: Q103767
 photo: "/media/composers/charlie-parker.jpg"
-photo-credit: "William P. Gottlieb, Public domain, via Wikimedia Commons"
+photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Portrait_of_Charlie_Parker_in_1947.jpg"
 aliases: []
 ---

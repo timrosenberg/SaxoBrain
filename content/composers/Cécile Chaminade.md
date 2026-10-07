@@ -8,7 +8,7 @@ born: 1857
 died: 1944
 wikidata: Q236438
 photo: "/media/composers/cecile-chaminade.jpg"
-photo-credit: "Unknown photographer, Public domain, via Wikimedia Commons"
+photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Cecile_chaminade.jpg"
 aliases: []
 ---

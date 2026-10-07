@@ -1,18 +1,18 @@
 ---
-title: "Gorge"
+title: Gorge
 slug: barry-cockcroft-gorge
 composer:
   - "[[Barry Cockcroft]]"
 instruments:
-  - "Alto Saxophone"
-  - "Unaccompanied"
+  - Alto Saxophone
+  - Unaccompanied
 composed: 1994
-year-of-study: 
+year-of-study: Fourth Year
 publisher:
-  - "Reed Music"
-streaming: "https://soundcloud.com/reedmusic-com/rm005-gorge-by-barry-cockcroft"
+  - Reed Music
+streaming: https://soundcloud.com/reedmusic-com/rm005-gorge-by-barry-cockcroft
 purchase:
-  - "https://www.reedmusic.com/store/woodwind/saxophone/saxophone-solo/sax-solo-alto/gorge/"
+  - https://www.reedmusic.com/store/woodwind/saxophone/saxophone-solo/sax-solo-alto/gorge/
 added: 2026-10-07
 aliases: []
 ---

@@ -1,18 +1,18 @@
 ---
-title: "Bo"
+title: Bo
 slug: barry-cockcroft-bo
 composer:
   - "[[Barry Cockcroft]]"
 instruments:
-  - "Tenor Saxophone"
-  - "Unaccompanied"
+  - Tenor Saxophone
+  - Unaccompanied
 composed: 1999
-year-of-study: 
+year-of-study: Fourth Year
 publisher:
-  - "Reed Music"
-streaming: "https://www.youtube.com/watch?v=79YQCN8oYBA"
+  - Reed Music
+streaming: https://www.youtube.com/watch?v=79YQCN8oYBA
 purchase:
-  - "https://www.reedmusic.com/store/woodwind/saxophone/saxophone-solo/sax-solo-tenor/bo/"
+  - https://www.reedmusic.com/store/woodwind/saxophone/saxophone-solo/sax-solo-tenor/bo/
 added: 2026-10-07
 aliases: []
 ---

@@ -10,7 +10,7 @@ born: 1962
 died: 
 wikidata: Q781579
 photo: "/media/composers/alex-shapiro.jpg"
-photo-credit: "Llk.grab.bag, CC BY-SA 4.0, via Wikimedia Commons"
+photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Alex_Shapiro-11-24-595.jpg"
 aliases: []
 ---

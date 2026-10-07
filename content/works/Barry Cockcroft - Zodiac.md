@@ -1,18 +1,18 @@
 ---
-title: "Zodiac"
+title: Zodiac
 slug: barry-cockcroft-zodiac
 composer:
   - "[[Barry Cockcroft]]"
 instruments:
-  - "Any Saxophone"
-  - "Unaccompanied"
+  - Any Saxophone
+  - Unaccompanied
 composed: 2006
-year-of-study: 
+year-of-study: Second-Year
 publisher:
-  - "Reed Music"
-streaming: "https://www.youtube.com/watch?v=OF05_q3QJPg"
+  - Reed Music
+streaming: https://www.youtube.com/watch?v=OF05_q3QJPg
 purchase:
-  - "https://www.reedmusic.com/store/woodwind/saxophone/saxophone-solo/sax-solo/zodiac-12-pieces/"
+  - https://www.reedmusic.com/store/woodwind/saxophone/saxophone-solo/sax-solo/zodiac-12-pieces/
 added: 2026-10-07
 aliases: []
 ---

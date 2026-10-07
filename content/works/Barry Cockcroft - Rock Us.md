@@ -1,18 +1,18 @@
 ---
-title: "Rock Us"
+title: Rock Us
 slug: barry-cockcroft-rock-us
 composer:
   - "[[Barry Cockcroft]]"
 instruments:
-  - "Soprano Saxophone"
-  - "Duo"
+  - Soprano Saxophone
+  - Duo
 composed: 2012
-year-of-study: 
+year-of-study: Advanced
 publisher:
-  - "Reed Music"
-streaming: "https://soundcloud.com/reedmusic-com/rm990-rock-us"
+  - Reed Music
+streaming: https://soundcloud.com/reedmusic-com/rm990-rock-us
 purchase:
-  - "https://www.reedmusic.com/store/woodwind/saxophone/saxophone-duets/sax-same-pitch-duets/rock-us/"
+  - https://www.reedmusic.com/store/woodwind/saxophone/saxophone-duets/sax-same-pitch-duets/rock-us/
 added: 2026-10-07
 aliases: []
 ---

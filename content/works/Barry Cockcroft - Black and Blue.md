@@ -1,18 +1,18 @@
 ---
-title: "Black & Blue"
+title: Black & Blue
 slug: barry-cockcroft-black-and-blue
 composer:
   - "[[Barry Cockcroft]]"
 instruments:
-  - "Alto Saxophone"
-  - "Unaccompanied"
+  - Alto Saxophone
+  - Unaccompanied
 composed: 1995
-year-of-study: 
+year-of-study: Fourth Year
 publisher:
-  - "Reed Music"
-streaming: "https://www.youtube.com/watch?v=sFNNlQApZ48"
+  - Reed Music
+streaming: https://www.youtube.com/watch?v=sFNNlQApZ48
 purchase:
-  - "https://www.reedmusic.com/store/woodwind/saxophone/saxophone-solo/sax-solo/black-and-blue/"
+  - https://www.reedmusic.com/store/woodwind/saxophone/saxophone-solo/sax-solo/black-and-blue/
 added: 2026-10-07
 aliases: []
 ---

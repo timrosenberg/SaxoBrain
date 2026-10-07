@@ -1,18 +1,18 @@
 ---
-title: "Melbourne Concerto"
+title: Melbourne Concerto
 slug: barry-cockcroft-melbourne-concerto
 composer:
   - "[[Barry Cockcroft]]"
 instruments:
-  - "Soprano Saxophone"
-  - "Orchestra"
+  - Soprano Saxophone
+  - Orchestra
 composed: 2017
-year-of-study: 
+year-of-study: Fourth Year
 publisher:
-  - "Reed Music"
-streaming: "https://www.youtube.com/watch?v=YPFgxWj5Z4Y"
+  - Reed Music
+streaming: https://www.youtube.com/watch?v=YPFgxWj5Z4Y
 purchase:
-  - "https://www.reedmusic.com/store/woodwind/saxophone/sax-concerto/melbourne-concerto-for-soprano-saxophone-and-chamber-orchestra/"
+  - https://www.reedmusic.com/store/woodwind/saxophone/sax-concerto/melbourne-concerto-for-soprano-saxophone-and-chamber-orchestra/
 added: 2026-10-07
 aliases: []
 ---

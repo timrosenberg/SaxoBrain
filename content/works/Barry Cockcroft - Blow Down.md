@@ -1,18 +1,18 @@
 ---
-title: "Blow Down"
+title: Blow Down
 slug: barry-cockcroft-blow-down
 composer:
   - "[[Barry Cockcroft]]"
 instruments:
-  - "Alto Saxophone"
-  - "Duo"
+  - Alto Saxophone
+  - Duo
 composed: 2017
-year-of-study: 
+year-of-study: Third Year
 publisher:
-  - "Reed Music"
-streaming: "https://www.youtube.com/watch?v=w5EhSL-QNUI"
+  - Reed Music
+streaming: https://www.youtube.com/watch?v=w5EhSL-QNUI
 purchase:
-  - "https://www.reedmusic.com/store/woodwind/saxophone/saxophone-duets/sax-alto-duets/blow-down/"
+  - https://www.reedmusic.com/store/woodwind/saxophone/saxophone-duets/sax-alto-duets/blow-down/
 added: 2026-10-07
 aliases: []
 ---

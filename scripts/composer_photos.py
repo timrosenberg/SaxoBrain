@@ -137,26 +137,14 @@ def from_notion(files):
 
 
 def commons_info(fname):
-    """Photographer and license of a Wikimedia Commons file, plus its thumbnail and description page."""
+    """Credit line for a Wikimedia Commons file, plus its thumbnail and description page."""
     info = json.load(urllib.request.urlopen(urllib.request.Request(
         "https://commons.wikimedia.org/w/api.php?" + urllib.parse.urlencode({
-            "action": "query", "titles": "File:" + fname, "prop": "imageinfo", "iiprop": "url|extmetadata",
+            "action": "query", "titles": "File:" + fname, "prop": "imageinfo", "iiprop": "url",
             "iiurlwidth": 600, "format": "json", "formatversion": 2}), headers={"User-Agent": UA}), timeout=40))
     ii = info["query"]["pages"][0].get("imageinfo", [{}])[0]
-    meta = ii.get("extmetadata", {})
-    strip = lambda k: re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", "", meta.get(k, {}).get("value", "")))).strip()
-    credit = ", ".join(x for x in (artist_name(strip("Artist")), strip("LicenseShortName")) if x)
-    return ii, (credit + ", via Wikimedia Commons") if credit else ""
-
-
-def artist_name(a):
-    """Commons artist fields often repeat themselves ("Unknown authorUnknown author") or say nobody is known."""
-    if re.search(r"unknown|anonym|unattributed", a, re.I):
-        return "Unknown photographer"
-    half = len(a) // 2
-    if len(a) % 2 == 0 and a[:half] == a[half:]:
-        a = a[:half]
-    return a[:120]
+    # The caption links to the Commons file page, which names the photographer and license in full.
+    return ii, "Wikimedia Commons" if ii.get("descriptionurl") else ""
 
 
 def credit_commons(files):

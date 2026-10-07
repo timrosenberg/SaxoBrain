@@ -11,7 +11,7 @@ born: 1819
 died: 1916
 wikidata: Q109885011
 photo: "/media/composers/leon-chic.jpg"
-photo-credit: "inconnu, Public domain, via Wikimedia Commons"
+photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:L%C3%A9on_Chic.jpg"
 aliases: []
 ---

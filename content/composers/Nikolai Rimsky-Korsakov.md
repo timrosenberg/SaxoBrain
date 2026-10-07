@@ -10,7 +10,7 @@ born: 1844
 died: 1908
 wikidata: Q93227
 photo: "/media/composers/nikolai-rimsky-korsakov.jpg"
-photo-credit: "Karl Fischer, Public domain, via Wikimedia Commons"
+photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Nikolai_A._Rimsky-Korsakov.jpg"
 aliases: []
 ---

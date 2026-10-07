@@ -10,7 +10,7 @@ born: 1910
 died: 1999
 wikidata: Q273074
 photo: "/media/composers/elsa-barraine.jpg"
-photo-credit: "Unknown photographer, Public domain, via Wikimedia Commons"
+photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Elsa_Barraine_1940.jpg"
 aliases: []
 ---

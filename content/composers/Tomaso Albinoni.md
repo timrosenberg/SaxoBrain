@@ -10,7 +10,7 @@ born: 1671
 died: 1751
 wikidata: Q174606
 photo: "/media/composers/tomaso-albinoni.jpg"
-photo-credit: "Unknown photographer, Public domain, via Wikimedia Commons"
+photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Albinoni.jpg"
 aliases: []
 ---

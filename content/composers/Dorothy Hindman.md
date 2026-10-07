@@ -10,7 +10,7 @@ born: 1966
 died: 
 wikidata: Q1250306
 photo: "/media/composers/dorothy-hindman.jpg"
-photo-credit: "Dorothymason, CC BY-SA 4.0, via Wikimedia Commons"
+photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:DorothyHindman2016.jpg"
 aliases: []
 ---

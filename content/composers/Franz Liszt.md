@@ -10,7 +10,7 @@ born: 1811
 died: 1886
 wikidata: Q41309
 photo: "/media/composers/franz-liszt.jpg"
-photo-credit: "Franz Hanfstaengl, Public domain, via Wikimedia Commons"
+photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:FLisztFXD.jpg"
 aliases: []
 ---

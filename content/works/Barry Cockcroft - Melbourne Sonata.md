@@ -1,18 +1,18 @@
 ---
-title: "Melbourne Sonata"
+title: Melbourne Sonata
 slug: barry-cockcroft-melbourne-sonata
 composer:
   - "[[Barry Cockcroft]]"
 instruments:
-  - "Soprano Saxophone"
-  - "Piano"
+  - Soprano Saxophone
+  - Piano
 composed: 2012
-year-of-study: 
+year-of-study: Fourth Year
 publisher:
-  - "Reed Music"
-streaming: "https://www.youtube.com/watch?v=eN0qeqRkrB4"
+  - Reed Music
+streaming: https://www.youtube.com/watch?v=eN0qeqRkrB4
 purchase:
-  - "https://www.reedmusic.com/store/woodwind/saxophone/saxophone-soprano/sax-soprano-piano/melbourne-sonata/"
+  - https://www.reedmusic.com/store/woodwind/saxophone/saxophone-soprano/sax-soprano-piano/melbourne-sonata/
 added: 2026-10-07
 aliases: []
 ---
