@@ -5,11 +5,12 @@ Sources, in order, for composers whose `photo:` field is empty:
   1. the photo Tim set on the composer's Notion page (page icon, else the first image in the page);
   2. the Wikidata portrait (P18) from Wikimedia Commons, with the photographer and license as `photo-credit`.
 A photo given by hand wins over both:  --add "Composer File Name" URL [--credit "Text"]
+--pending downloads photos Tim set up in Obsidian: `photo-source` holds an image address but `photo` is empty.
 
 Each photo is resized to at most 600 px and saved as /media/composers/<slug>.jpg. `photo-source` keeps the
 original address so the photo can be traced or replaced. Existing photos are never replaced.
 
-Usage: python3 scripts/composer_photos.py [--notion] [--wikidata] [--credits] [--add NAME URL [--credit TEXT]]
+Usage: python3 scripts/composer_photos.py [--pending] [--notion] [--wikidata] [--credits] [--add NAME URL [--credit TEXT]]
 """
 import html, json, re, subprocess, sys, tempfile, urllib.parse, urllib.request
 from pathlib import Path
@@ -195,6 +196,21 @@ def from_wikidata(files):
     print(f"Wikidata: {len(todo)} linked composers without a photo; saved {done}")
 
 
+def pending(files):
+    """Composers with an image address in `photo-source` and no `photo` yet: download and fill in `photo`."""
+    done = 0
+    for name, f in sorted(files.items()):
+        src = field(f, "photo-source") or ""
+        if field(f, "photo") or not src.startswith("http"):
+            continue
+        path = download(src, field(f, "slug"))
+        if path:
+            set_fields(f, {"photo": path})
+            done += 1
+            print(f"  {name}: {path}")
+    print(f"Pending photos saved: {done}")
+
+
 def main():
     files = composers()
     args = sys.argv[1:]
@@ -207,6 +223,8 @@ def main():
         if path:
             set_fields(f, {"photo": path, "photo-credit": credit, "photo-source": url})
             print(f"saved {path}")
+    if "--pending" in args:
+        pending(files)
     if "--notion" in args:
         from_notion(files)
     if "--wikidata" in args:
