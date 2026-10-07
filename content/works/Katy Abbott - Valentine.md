@@ -1,16 +1,16 @@
 ---
-title: "Valentine"
+title: Valentine
 slug: katy-abbott-valentine
 composer:
   - "[[Katy Abbott]]"
 instruments:
-  - "Tenor Saxophone"
-  - "Piano"
-composed: 
-year-of-study: 
-streaming: "https://www.youtube.com/watch?v=p8MJSI9GwKQ"
+  - Tenor Saxophone
+  - Piano
+composed: 2011
+year-of-study: Second-Year
+streaming: https://soundcloud.com/katy-abbott/chamber-valentine-excerpt-from-ameb-gr-5-listd
 purchase:
-  - "https://www.reedmusic.com/9460/saxophone/saxophone-tenor/saxophone-tenor-piano-level-c/valentine-2/"
+  - https://www.reedmusic.com/store/woodwind/saxophone/saxophone-tenor/sax-tenor-piano/valentinerm825/
 added: 2024-02-21
 aliases: []
 ---
