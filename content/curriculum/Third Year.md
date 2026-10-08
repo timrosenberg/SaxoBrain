@@ -3,7 +3,6 @@ title: "Third Year"
 slug: third-year
 year: 3
 reading-focus: "Repertoire, then and now"
-third-party-files: true
 aliases:
   - /curriculum/junior-year-alto-saxophone/
   - /curriculum/junior-year-tenor-saxophone/
@@ -101,10 +100,12 @@ Choose one piece from each category.
 ### Fall
 
 - [Ch. 4: “Repertoire Heritage”](/media/curriculum/Liley-The-Cambridge-companion-to-the-saxophone-Ch.-4.pdf), *The Cambridge Companion to the Saxophone*, by Thomas Liley
+    - A tour of the classical repertoire from the pieces Sax published himself to recent decades, and of the players, such as Elise Hall, Marcel Mule and Sigurd Rascher, who inspired its core works.
 
 ### Spring
 
 - [Ch. 14: “The Saxophone Today”](/media/curriculum/Delangle-and-Michat-The-Cambridge-companion-to-the-saxophone-Ch.-14.pdf), *The Cambridge Companion to the Saxophone*, by Delangle and Michat
+    - A survey of contemporary techniques such as multiphonics, slap-tonguing and circular breathing, plus music with electronics and ways to teach these skills.
 
 ## Listening
 

@@ -81,8 +81,55 @@ article.page { max-width: 68ch; }
 .btn.primary { background: var(--accent); border-color: var(--accent); color: var(--surface); }
 .btn.missing { color: var(--muted); border-style: dashed; font-weight: 400; cursor: default; }
 .btn.missing:hover { border-color: var(--line); }
+/* Streaming-service buttons: a pastel tint of each service's color with a full-color outline. The tint
+   mixes into --surface, so dark mode gets a dark tint; Tidal's black brand color follows --fg instead. */
+.btn.svc { background: color-mix(in srgb, var(--svc) 16%, var(--surface)); border-color: var(--svc); }
+.btn.svc:hover { background: color-mix(in srgb, var(--svc) 32%, var(--surface)); border-color: var(--svc); }
+.btn.youtube { --svc: #ff0000; }
+.btn.spotify { --svc: #1ed760; }
+.btn.apple-music { --svc: #ea4259; }
+.btn.amazon-music { --svc: #2ad5de; }
+.btn.tidal { --svc: var(--fg); }
+.btn.bandcamp { --svc: #408294; }
 .video { aspect-ratio: 16 / 9; max-width: 680px; margin: 4px 0 18px; border-radius: 10px; overflow: hidden; background: var(--chip); }
 .video iframe { width: 100%; height: 100%; border: 0; display: block; }
+/* Track list under a recording's player (layouts/_partials/recordings/tracks.html, static/js/tracks.js).
+   Player and list read as one card: the video gives up its bottom corners to the list. */
+/* .player wraps both and narrows beside the floated cover as one block, so they keep the same width. */
+.player { max-width: 680px; overflow: hidden; margin: 4px 0 18px; }
+.player .video { max-width: none; margin: 0; }
+.video.has-tracks { border-radius: 10px 10px 0 0; }
+.tracks { margin: 0; border: 1px solid var(--line); border-top: 0; border-radius: 0 0 10px 10px; background: var(--surface); overflow: hidden; }
+.tracks-head { display: flex; justify-content: space-between; margin: 0; padding: 9px 14px; border-bottom: 1px solid var(--line); font-size: 12px; font-weight: 600; letter-spacing: .04em; text-transform: uppercase; color: var(--muted); font-variant-numeric: tabular-nums; }
+.tracks ol { list-style: none; margin: 0; padding: 4px 0; }
+.tracks .tgroup { padding: 12px 14px 3px 50px; font-size: 13px; font-weight: 600; color: var(--muted); }
+.tracks .tgroup a { color: var(--fg); text-decoration: none; }
+.tracks .tgroup a:hover { color: var(--accent); text-decoration: underline; }
+.tracks .by { color: var(--muted); font-weight: 400; font-size: 12.5px; }
+.tracks .tgroup .by::before { content: "· "; }
+.track .tt .by { display: block; margin-top: 1px; }
+.track { display: grid; grid-template-columns: 24px 1fr auto; gap: 12px; align-items: baseline; width: 100%; padding: 7px 14px; border: 0; background: none; color: var(--fg); font: inherit; line-height: 1.35; text-align: left; cursor: pointer; }
+.track:hover { background: var(--chip); }
+.track:focus-visible { outline-offset: -2px; }
+.track .tn, .track .td { font-size: 12.5px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.track .tn { text-align: right; }
+.track .tt { min-width: 0; overflow-wrap: anywhere; }
+/* Movements of a grouped work hang off a thin rule under the work's name. */
+.tracks li.in .tt { padding-left: 12px; border-left: 2px solid var(--line); margin: -7px 0; padding-top: 7px; padding-bottom: 7px; }
+.track.current { background: var(--accent-soft); }
+.track.current .tt { font-weight: 600; }
+.track.current .tn { color: var(--accent); font-weight: 600; }
+/* The playing track's number becomes three level bars. */
+/* The number stays in place (transparent) so the row keeps its baseline; the bars sit over it. */
+.track.playing .tn { color: transparent; position: relative; }
+.track.playing .tn::after { content: ""; position: absolute; right: 0; bottom: .2em; width: 13px; height: 12px; background:
+  linear-gradient(var(--accent), var(--accent)) 0 100% / 3px 55% no-repeat,
+  linear-gradient(var(--accent), var(--accent)) 5px 100% / 3px 100% no-repeat,
+  linear-gradient(var(--accent), var(--accent)) 10px 100% / 3px 35% no-repeat; }
+@media (prefers-reduced-motion: no-preference) {
+  .track.playing .tn::after { animation: levels .8s ease-in-out infinite alternate; }
+}
+@keyframes levels { to { background-size: 3px 25%, 3px 60%, 3px 100%; } }
 .audio { max-width: 680px; margin: 4px 0 18px; }
 .audio iframe { width: 100%; height: 166px; border: 0; display: block; border-radius: 10px; }
 .audio.bandcamp iframe { height: 120px; }
@@ -91,6 +138,7 @@ article.page { max-width: 68ch; }
 .facts { display: grid; grid-template-columns: auto 1fr; gap: 6px 16px; margin: 14px 0; }
 .facts dt { color: var(--muted); font-size: 13.5px; }
 .facts dd { margin: 0; min-width: 0; }
+.released { margin: 14px 0; color: var(--muted); }
 .tag { font-size: 12px; border: 1px solid var(--line); border-radius: 6px; padding: 2px 7px; color: var(--muted); white-space: nowrap; }
 .tag.on { border-color: var(--accent); color: var(--accent); }
 
@@ -102,6 +150,7 @@ article.page { max-width: 68ch; }
 .worklist a:hover, .alist a:hover { color: var(--accent); }
 .worklist a:hover { background: var(--surface); }
 .worklist .muted { font-size: 13px; white-space: nowrap; }
+.worklist .by { color: var(--muted); font-weight: 400; }
 .alist a { display: flex; justify-content: space-between; gap: 12px; align-items: baseline; padding: 10px 4px; }
 .alist a:hover { background: var(--surface); }
 .alist .who { color: var(--muted); font-size: 13.5px; font-weight: 400; }
@@ -197,8 +246,6 @@ article.page { max-width: 68ch; }
 .cur .focus { font-size: 14px; color: var(--muted); }
 .cur .focus b { color: var(--fg); }
 .goals { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
-.goals > li { display: grid; grid-template-columns: 18px 1fr; gap: 8px; }
-.goals > li::before { content: ""; width: 12px; height: 12px; margin-top: 5px; border: 2px solid var(--c); border-radius: 3px; }
 .goals .sub ul { list-style: none; margin: 5px 0 0; padding: 0; display: flex; flex-wrap: wrap; gap: 4px; }
 .goals .sub li { background: var(--chip); border-radius: 999px; padding: 1px 9px; font-size: 13px; }
 .book { display: grid; gap: 1px; padding: 8px 0; border-top: 1px solid var(--line); }
@@ -206,7 +253,7 @@ article.page { max-width: 68ch; }
 .book .t { font-weight: 600; }
 .book .links { display: flex; gap: 12px; font-size: 13.5px; margin-top: 3px; }
 .cur .rule { background: var(--accent-soft); border-radius: 12px; padding: 12px 16px; margin-bottom: 14px; }
-.cur .rule p { margin: 0; max-width: 62ch; font-size: 14.5px; }
+.cur .rule p { margin: 0; font-size: 14.5px; }
 .catgrid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; align-items: start; }
 .catcard { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; min-width: 0; }
 .catcard header { display: flex; justify-content: space-between; align-items: baseline; padding: 12px 16px 8px; gap: 10px; }
@@ -228,9 +275,15 @@ a.t:hover { color: var(--accent); text-decoration: underline; text-underline-off
 .cur .more .links { display: flex; gap: 16px; flex-wrap: wrap; }
 .term { display: grid; gap: 8px; align-content: start; }
 .term > .label-sm { margin: 0; }
-.read { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 12px 16px; display: grid; gap: 2px; color: var(--muted); font-size: 13.5px; }
+.read { position: relative; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 12px 16px; display: grid; gap: 2px; color: var(--muted); font-size: 13.5px; transition: border-color .15s, background .15s; }
 .read .t a:first-child { display: block; font-family: var(--font-display); font-weight: 600; font-size: 16.5px; line-height: 1.25; color: var(--fg); text-decoration: none; margin-bottom: 2px; }
-.read .t a:first-child:hover { color: var(--accent); }
+/* The title link covers the whole box, so a click anywhere opens it. Any other link in the box sits above it. */
+.read .t a:first-child::after { content: ""; position: absolute; inset: 0; border-radius: inherit; }
+.read a:not(.t a:first-child) { position: relative; z-index: 1; }
+.read:has(.t a:first-child):hover { border-color: var(--accent); background: color-mix(in srgb, var(--accent) 5%, var(--surface)); }
+.read:hover .t a:first-child { color: var(--accent); }
+.read .t a:first-child:focus-visible { outline: none; }
+.read:has(.t a:first-child:focus-visible) { outline: 2px solid var(--accent); outline-offset: 2px; }
 .read .note { color: var(--fg); }
 .read .note ul { list-style: none; margin: 4px 0 0; padding: 0; }
 .read .tag { justify-self: start; margin-top: 4px; }
@@ -263,7 +316,10 @@ a.t:hover { color: var(--accent); text-decoration: underline; text-underline-off
 
 /* notice for content by other people */
 .notice { border-left: 4px solid var(--notice-line); background: var(--notice-bg); padding: 2px 16px; margin: 16px 0; border-radius: 0 8px 8px 0; font-size: 14.5px; max-width: 68ch; }
-.cover { float: right; max-width: 12rem; margin: 0 0 1rem 1.5rem; border-radius: 8px; }
+/* Comes first in the page so its top lines up with the top of the eyebrow's capitals. The eyebrow's
+   18px top margin collapses into the header's, the float's does not, hence 4px. */
+.cover { float: right; max-width: 12rem; margin: 4px 0 1rem 1.5rem; border-radius: 8px; }
+.cover.narrow { display: none; }
 
 /* home: start tiles, sticky search bar, chips, result rows */
 .starts { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 10px; margin-block: 8px 6px; }
@@ -313,7 +369,9 @@ a.t:hover { color: var(--accent); text-decoration: underline; text-underline-off
   .work .byline { font-size: 18px; }
   .group .label-sm { width: 100%; }
   .row { grid-template-columns: 1fr; }
-  .cover { float: none; display: block; margin: 0 0 1rem; }
+  .cover { float: none; margin: 0 0 1rem; }
+  .cover.wide { display: none; }
+  .cover.narrow { display: block; }
   .alist a { flex-direction: column; gap: 2px; }
   .clist .who { text-align: left; }
   .composer-head { flex-direction: column; align-items: flex-start; gap: 0; }

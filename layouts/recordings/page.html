@@ -1,20 +1,43 @@
 {{ define "main" }}
 {{ $idx := partialCached "page-index.html" "all" }}
 <article class="recording">
+{{- /* The cover appears twice: beside the header on wide screens (.wide, floated, first so its top meets
+       the eyebrow) and under the byline on phones (.narrow). The hidden one is lazy and never loads. */ -}}
+{{ with .Params.cover }}<img class="cover wide" src="{{ if hasPrefix . "/" }}{{ relURL (strings.TrimPrefix "/" .) }}{{ else }}{{ . }}{{ end }}" alt="Cover of {{ $.Title }}" loading="lazy">{{ end }}
 <p class="eyebrow">Recording</p>
 <h1>{{ .Title }}</h1>
 {{ with .Params.saxophonists }}<p class="byline">{{ . }}</p>{{ end }}
-{{ with .Params.cover }}<img class="cover" src="{{ if hasPrefix . "/" }}{{ relURL (strings.TrimPrefix "/" .) }}{{ else }}{{ . }}{{ end }}" alt="Cover of {{ $.Title }}" loading="lazy">{{ end }}
-<p class="actions">{{ with .Params.streaming }}<a class="btn primary" href="{{ . }}" rel="noopener">Listen</a>{{ end }}</p>
-<dl class="facts">{{ with index .Params "year-released" }}<dt>Released</dt><dd>{{ . }}</dd>{{ end }}</dl>
+{{ with .Params.cover }}<img class="cover narrow" src="{{ if hasPrefix . "/" }}{{ relURL (strings.TrimPrefix "/" .) }}{{ else }}{{ . }}{{ end }}" alt="Cover of {{ $.Title }}" loading="lazy">{{ end }}
+{{- /* One button per service that has the album (looked up once, stored in the note). The old
+       album.link `streaming:` value is kept in the file but not shown; any other `streaming:` link
+       gets a Bandcamp button (bandcamp.com), a Download button (a .zip file) or a Listen button. */ -}}
+<p class="actions">
+{{ range slice (slice "youtube" "YouTube") (slice "spotify" "Spotify") (slice "apple-music" "Apple Music") (slice "amazon-music" "Amazon Music") (slice "tidal" "Tidal") }}
+{{ $key := index . 0 }}{{ $label := index . 1 }}
+{{ with index $.Params $key }}<a class="btn svc {{ $key }}" href="{{ . }}" rel="noopener">{{ $label }}</a>{{ end }}
+{{ end }}
+{{ with .Params.streaming }}{{ if not (strings.Contains . "album.link") }}
+{{ if strings.Contains . "bandcamp.com" }}<a class="btn svc bandcamp" href="{{ . }}" rel="noopener">Bandcamp</a>
+{{ else if strings.HasSuffix (lower .) ".zip" }}<a class="btn" href="{{ . }}" rel="noopener">Download</a>
+{{ else }}<a class="btn" href="{{ . }}" rel="noopener">Listen</a>{{ end }}
+{{ end }}{{ end }}
+</p>
+{{ with .Params.youtube }}{{ with findRESubmatch `[?&]list=([A-Za-z0-9_-]+)` . 1 }}
+{{ $tracks := $.Params.tracks }}
+<div class="player">
+<div class="video{{ if $tracks }} has-tracks{{ end }}"><iframe src="https://www.youtube-nocookie.com/embed/videoseries?list={{ index (index . 0) 1 }}{{ if $tracks }}&amp;enablejsapi=1{{ end }}" title="{{ $.Title }} on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+{{ if $tracks }}{{ partial "recordings/tracks.html" $ }}{{ end }}
+</div>
+{{ end }}{{ end }}
+{{ with index .Params "year-released" }}<p class="released">Released {{ . }}</p>{{ end }}
 {{ partial "notice.html" . }}
 {{ with partial "body.html" . }}<div class="prose">{{ . }}</div>{{ end }}
 {{ with .Params.works }}
-<h2>Works on this recording</h2>
+<h2>Works on this recording in SaxoBrain</h2>
 <ul class="worklist">
 {{ range . }}
   {{ $name := replaceRE `^\[\[([^|\]]+)(\|[^\]]*)?\]\]$` "$1" . }}
-  {{ with index $idx (lower $name) }}<li><a href="{{ .RelPermalink }}">{{ partial "work-title.html" . }}</a></li>
+  {{ with index $idx (lower $name) }}{{ $names := slice }}{{ range partial "composers-of.html" . }}{{ $names = $names | append .Title }}{{ end }}<li><a href="{{ .RelPermalink }}"><span>{{ .Title }}{{ with .Params.composed }} ({{ . }}){{ end }}{{ with $names }} <span class="by">by {{ delimit . ", " " and " }}</span>{{ end }}</span></a></li>
   {{ else }}{{ errorf "Recording %s lists work %q, which matches no page file." $.File.Path $name }}{{ end }}
 {{ end }}
 </ul>

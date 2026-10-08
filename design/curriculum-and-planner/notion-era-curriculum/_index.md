@@ -185,7 +185,7 @@ notion-id: 292439ed4a7543adaa69687b24555949
 
 ## Études
 
-- [[Guy Lacour|Guy Lacour]]: [[Guy Lacour - 28 Etudes sur les Modes a Transpositions Limitees d'Olivier Messiaen|**28 Etudes sur les Modes a Transpositions Limitees d'Olivier Messiaen**]]
+- [[Guy Lacour|Guy Lacour]]: [[Guy Lacour - 228 études sur les modes à transpositions limitées d'Olivier Messiaen|**28 Etudes sur les Modes a Transpositions Limitees d'Olivier Messiaen**]]
 
 ## Solo Repertoire
 

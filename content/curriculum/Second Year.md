@@ -3,7 +3,6 @@ title: "Second Year"
 slug: second-year
 year: 2
 reading-focus: "The instrument’s history"
-third-party-files: true
 aliases:
   - /curriculum/second-year-alto-saxophone/
   - /curriculum/second-year-tenor-saxophone/
@@ -79,10 +78,12 @@ Each semester, choose one piece from each category. In the spring, choose a diff
 ### Fall
 
 - [Ch. 1: “Invention and Development”](/media/curriculum/Liley-The-Cambridge-Companion-to-the-Saxophone-Ch.-1.pdf), *The Cambridge Companion to the Saxophone*, by Thomas Liley
+    - The life of Adolphe Sax, his battles to get the saxophone accepted, and how the instrument changed in its first decades.
 
 ### Spring
 
 - [Ch. 2: “In the Twentieth Century”](/media/curriculum/Ashton-The-Cambridge-Companion-to-the-Saxophone-Ch.-2.pdf), *The Cambridge Companion to the Saxophone*, by Don Ashton
+    - How the saxophone spread through military bands, the 1920s American saxophone craze and jazz, and how instruments and mouthpieces changed along the way.
 
 ## Listening
 

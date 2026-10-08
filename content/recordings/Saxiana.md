@@ -11,6 +11,11 @@ works:
   - "[[Jean Cras - Demain 1924]]"
   - "[[Jean Cras - Danse 1924]]"
 streaming: "https://album.link/i/4685278"
+youtube: 
+spotify: 
+apple-music: "https://music.apple.com/us/album/4685278"
+amazon-music: 
+tidal: 
 year-released: "2003"
 cover: "/media/recordings/saxiana/512x512bb-5.jpg"
 notion-id: 1da5a3ec5321801a9329f8b6b2af8ed4

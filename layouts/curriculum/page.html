@@ -80,7 +80,7 @@
 {{- range where $read "h3" . }}
 <div class="read"><div class="t">{{ replaceRE `^(<a [^>]*>.*?</a>)\s*[,:;]\s*` "$1 " (partial "resolve-links.html" (dict "html" (.first | markdownify | string) "page" $p)) | safeHTML }}</div>
 {{- with .rest }}<div class="note">{{ partial "resolve-links.html" (dict "html" (. | markdownify | string) "page" $p) | safeHTML }}</div>{{ end -}}
-{{- if findRE `\.pdf\)` .first }}<span class="tag">PDF</span>{{ else if findRE `\[\[` .first }}<span class="tag">On SaxoBrain</span>{{ end }}</div>
+{{- if findRE `\.pdf\)` .first }}<span class="tag">PDF</span>{{ end }}</div>
 {{- end }}</div>{{ end }}</div>
 {{ partial "notice.html" . }}
 </section>

@@ -1,0 +1,65 @@
+{{- /* Track list under a recording's YouTube playlist, from the note's `tracks:` list in playlist order:
+       "Title · 8:42 · [[Work File]]" (or "· [[Composer File]]" when the piece has no page, or no link).
+       Titles and times came from YouTube 2026-10-08; links point into the catalog, which supplies the
+       composer. Consecutive tracks of one work are grouped under the work's catalog title; unlinked
+       tracks that share a "Work: " title prefix are grouped by that prefix. static/js/tracks.js makes
+       each row play its track in the embedded player. */ -}}
+{{ $idx := partialCached "page-index.html" "all" }}
+{{ $tracks := slice }}
+{{ $total := 0 }}
+{{ range .Params.tracks }}
+  {{ $title := . }}{{ $time := "" }}{{ $link := "" }}
+  {{ with findRESubmatch `^(.*?) · (\d+(?::\d\d){1,2})(?: · \[\[([^|\]]+)(?:\|[^\]]*)?\]\])?$` . 1 }}
+    {{ $title = index (index . 0) 1 }}{{ $time = index (index . 0) 2 }}{{ $link = index (index . 0) 3 }}
+  {{ end }}
+  {{ $work := false }}{{ $composers := slice }}
+  {{ with $link }}
+    {{ with index $idx (lower .) }}
+      {{ if eq .Section "works" }}{{ $work = . }}{{ $composers = partial "composers-of.html" . }}
+      {{ else if eq .Section "composers" }}{{ $composers = slice . }}
+      {{ else }}{{ errorf "Track link [[%s]] in %s is neither a work nor a composer." $link $.File.Path }}{{ end }}
+    {{ else }}{{ errorf "Track link [[%s]] in %s matches no page file." $link $.File.Path }}{{ end }}
+  {{ end }}
+  {{ $names := slice }}{{ range $composers }}{{ $names = $names | append .Title }}{{ end }}
+  {{ $s := 0 }}{{ range split $time ":" }}{{ $s = add (mul $s 60) (int (float .)) }}{{ end }}
+  {{ $total = add $total $s }}
+  {{ $tracks = $tracks | append (dict "title" $title "time" $time "link" (lower $link) "work" $work "by" (delimit $names ", ")) }}
+{{ end }}
+{{ $n := len $tracks }}
+{{- /* For each track: its title prefix (the longest "A: B: " start a neighbouring track shares), and its
+       group key: the work link when a neighbour has the same work, else the prefix. */ -}}
+{{ $prefixes := slice }}{{ $keys := slice }}
+{{ range $i, $t := $tracks }}
+  {{ $prev := cond (gt $i 0) (index $tracks (sub $i 1)) dict }}
+  {{ $next := cond (lt (add $i 1) $n) (index $tracks (add $i 1)) dict }}
+  {{ $parts := split $t.title ": " }}
+  {{ $prefix := "" }}
+  {{ range seq (sub (len $parts) 1) }}
+    {{ if not $prefix }}
+      {{ $p := printf "%s: " (delimit (first (sub (len $parts) .) $parts) ": ") }}
+      {{ if or (strings.HasPrefix (lower ($prev.title | default "")) (lower $p)) (strings.HasPrefix (lower ($next.title | default "")) (lower $p)) }}{{ $prefix = $p }}{{ end }}
+    {{ end }}
+  {{ end }}
+  {{ $key := "" }}
+  {{ if and $t.work (or (eq $prev.link $t.link) (eq $next.link $t.link)) }}{{ $key = printf "w:%s" $t.link }}
+  {{ else if $prefix }}{{ $key = printf "p:%s" (lower $prefix) }}{{ end }}
+  {{ $prefixes = $prefixes | append $prefix }}{{ $keys = $keys | append $key }}
+{{ end }}
+{{ $h := div $total 3600 }}{{ $m := div (mod $total 3600) 60 }}{{ $sec := mod $total 60 }}
+<section class="tracks" data-tracks aria-label="Tracks">
+<p class="tracks-head"><span>{{ $n }} tracks</span><span>{{ if $h }}{{ printf "%d:%02d:%02d" $h $m $sec }}{{ else }}{{ printf "%d:%02d" $m $sec }}{{ end }}</span></p>
+<ol>
+{{ $last := "" }}
+{{ range $i, $t := $tracks }}
+  {{ $key := index $keys $i }}{{ $prefix := index $prefixes $i }}
+  {{ if and $key (ne $key $last) }}
+    {{ if hasPrefix $key "w:" }}<li class="tgroup"><a href="{{ $t.work.RelPermalink }}">{{ partial "work-title.html" $t.work }}</a>{{ with $t.by }} <span class="by">{{ . }}</span>{{ end }}</li>
+    {{ else }}<li class="tgroup">{{ strings.TrimRight " :" $prefix }}</li>{{ end }}
+  {{ end }}
+  {{ $last = $key }}
+  {{ $label := cond (ne $prefix "") (strings.TrimLeft " :" (strings.TrimPrefix $prefix $t.title)) $t.title }}
+  <li{{ if $key }} class="in"{{ end }}><button type="button" class="track" data-i="{{ $i }}"><span class="tn">{{ add $i 1 }}</span><span class="tt">{{ $label }}{{ if and (not $key) $t.by }}<span class="by">{{ $t.by }}</span>{{ end }}</span><span class="td">{{ $t.time }}</span></button></li>
+{{ end }}
+</ol>
+</section>
+<script defer src="{{ "js/tracks.js" | relURL }}"></script>

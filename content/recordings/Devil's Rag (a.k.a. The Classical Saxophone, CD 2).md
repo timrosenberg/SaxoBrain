@@ -16,6 +16,11 @@ works:
   - "[[Pedro Iturralde - Pequeña Czarda]]"
   - "[[Jean Matitia - Devil's Rag]]"
 streaming: "https://www.arnobornkamp.nl/classical_saxophone/classical_saxophone.zip"
+youtube: 
+spotify: 
+apple-music: 
+amazon-music: 
+tidal: 
 year-released: "2002"
 cover: "/media/recordings/devils-rag-a-k-a-the-classical-saxophone-cd-2/Devils_Rag.png"
 notion-id: 3bf614acc3204bb5b9f82fa157de5ee6

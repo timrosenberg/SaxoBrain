@@ -1,7 +1,8 @@
 ---
-title: "Sonata (Poulenc)"
+title: "Sonata"
 slug: unknown-sonata-poulenc
-composer: []
+composer:
+  - "[[Francis Poulenc]]"
 instruments: []
 composed: 
 year-of-study: 

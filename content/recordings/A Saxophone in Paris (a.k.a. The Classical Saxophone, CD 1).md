@@ -10,6 +10,11 @@ works:
   - "[[Jacques Ibert - Concertino da Camera]]"
   - "[[Charles Koechlin - Études for Saxophone and Piano]]"
 streaming: "https://www.arnobornkamp.nl/classical_saxophone/classical_saxophone.zip"
+youtube: 
+spotify: 
+apple-music: 
+amazon-music: 
+tidal: 
 year-released: "2005"
 cover: "/media/recordings/a-saxophone-in-paris-a-k-a-the-classical-saxophone-cd-1/The_Classical_Saxophone.jpg"
 notion-id: 46c9838d6cba44c6a52a4639f8978091

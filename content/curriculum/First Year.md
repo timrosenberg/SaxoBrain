@@ -3,7 +3,6 @@ title: "First Year"
 slug: first-year
 year: 1
 reading-focus: "How to practice"
-third-party-files: true
 aliases:
   - /curriculum/first-year-alto-saxophone/
   - /curriculum/first-year-tenor-saxophone/
@@ -87,13 +86,16 @@ Each semester, choose one piece from each category. In the spring, choose a diff
 ### Fall
 
 - [[Teaching Students How to Practice by Steven Mauk|Teaching Students How to Practice]] by Steven Mauk
+    - A short checklist for the practice room.
 - [[8 Practice Hacks by Noa Kageyama|8 Practice Hacks]] by Noa Kageyama
+    - Eight ways to get more done in less time.
 
 ### Spring
 
 - [[Jazz Practicing Guide by Brent Vaartstra|A Jazz Guide to Practicing]] by Brent Vaartstra
-    - Not just for jazz students. The guide is great for practicing any kind of music.
+    - Not just for jazz. This guide is great for practicing any kind of music.
 - [[Quality Practice by Susan Williams|Quality Practice: A Musician’s Guide]] by Susan Williams
+    - What research says about how musicians learn.
 
 ## Listening
 

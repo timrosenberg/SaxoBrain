@@ -314,7 +314,7 @@ What does deliberate practice look like? Here’s a 6-step problem-solving model
 
 ### **Problem Solving Practice Model #2**
 
-Want an even simpler formula? Try this (from [*The Talent Code](http://www.amazon.com/exec/obidos/ASIN/055380684X/thebullmusi-20)* by Daniel Coyle).
+Want an even simpler formula? Try this (from [*The Talent Code*](http://www.amazon.com/exec/obidos/ASIN/055380684X/thebullmusi-20) by Daniel Coyle).
 
 1. **Pick** a target
 2. **Reach** for it

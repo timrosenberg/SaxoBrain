@@ -12,6 +12,11 @@ works:
 year-released: "1991"
 cover: "/media/recordings/classical-bouquet/image.jpeg"
 notion-id: 1d95a3ec532180d19201ec2dca901b4f
+youtube: 
+spotify: 
+apple-music: 
+amazon-music: 
+tidal: 
 ---
 
 

@@ -3,7 +3,6 @@ title: "Fourth Year"
 slug: fourth-year
 year: 4
 reading-focus: "Teaching"
-third-party-files: true
 aliases:
   - /curriculum/senior-year-alto-saxophone/
   - /curriculum/senior-year-tenor-saxophone/
@@ -16,7 +15,7 @@ aliases:
 
 ## Études
 
-- [[Guy Lacour - 28 Etudes sur les Modes a Transpositions Limitees d'Olivier Messiaen]]
+- [[Guy Lacour - 228 études sur les modes à transpositions limitées d'Olivier Messiaen]]
 
 ## Solo Repertoire
 
@@ -74,10 +73,12 @@ By the time a student reaches their fourth year of study they should have advanc
 ### Fall
 
 - [Ch. 11: “Teaching the Saxophone”](/media/curriculum/Horch-The-Cambridge-companion-to-the-saxophone-Ch.-11.pdf), *The Cambridge Companion to the Saxophone*, by Horch
+    - The roles of student and teacher, with hands-on ways to teach a first embouchure, vibrato and a relaxed tone.
 
 ### Spring
 
 - [Common Problems (and Solutions) for Developing Saxophonists](/media/curriculum/Blackwell-Common-Problems-and-Solutions.pdf) by Blackwell
+    - Causes and fixes for the three problems music teachers raise most with young saxophonists (tone, intonation and articulation), with simple exercises for each.
 
 ## Listening
 
