@@ -13,6 +13,7 @@ apple-music:
 amazon-music: 
 tidal: 
 year-released: "1999"
+out-of-print: true
 cover: "https://is1-ssl.mzstatic.com/image/thumb/Music/9c/ad/93/mzi.texejeis.jpg/632x632bf.webp"
 notion-id: 1d95a3ec532180e88155d98eb8f732ae
 ---

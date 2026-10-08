@@ -58,7 +58,8 @@
   {{ end }}
   {{ $last = $key }}
   {{ $label := cond (ne $prefix "") (strings.TrimLeft " :" (strings.TrimPrefix $prefix $t.title)) $t.title }}
-  <li{{ if $key }} class="in"{{ end }}><button type="button" class="track" data-i="{{ $i }}"><span class="tn">{{ add $i 1 }}</span><span class="tt">{{ $label }}{{ if and (not $key) $t.by }}<span class="by">{{ $t.by }}</span>{{ end }}</span><span class="td">{{ $t.time }}</span></button></li>
+  {{ $end := and $key (lt (add $i 1) $n) (eq (index $keys (add $i 1)) "") }}
+  <li{{ if $key }} class="in{{ if $end }} end{{ end }}"{{ end }}><button type="button" class="track" data-i="{{ $i }}"><span class="tn">{{ add $i 1 }}</span><span class="tt">{{ $label }}{{ if and (not $key) $t.by }}<span class="by">{{ $t.by }}</span>{{ end }}</span><span class="td">{{ $t.time }}</span></button></li>
 {{ end }}
 </ol>
 </section>

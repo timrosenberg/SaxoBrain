@@ -72,6 +72,8 @@ h3 { font-weight: 500; font-size: 19px; margin: 22px 0 6px; }
 .prose hr { border: 0; border-top: 1px solid var(--line); margin: 22px 0; }
 .prose a, .notes a { text-underline-offset: 3px; }
 article.page { max-width: 68ch; }
+/* Lists are scanned, not read as prose, so they use the full page width. */
+article.page.lists, article.page.lists .prose, article.page.lists .notice { max-width: none; }
 .prose { margin-top: 10px; }
 
 /* buttons and the facts list on a work */
@@ -97,6 +99,10 @@ article.page { max-width: 68ch; }
    Player and list read as one card: the video gives up its bottom corners to the list. */
 /* .player wraps both and narrows beside the floated cover as one block, so they keep the same width. */
 .player { max-width: 680px; overflow: hidden; margin: 4px 0 18px; }
+.applemusic { max-width: 680px; overflow: hidden; margin: 4px 0 18px; border-radius: 10px; border: 1px solid var(--line); }
+/* Apple's player is near-white in light mode, so it gets an outline there; in dark mode it already stands out. */
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .applemusic { border-color: transparent; } }
+.applemusic iframe { width: 100%; height: 450px; border: 0; display: block; background: transparent; }
 .player .video { max-width: none; margin: 0; }
 .video.has-tracks { border-radius: 10px 10px 0 0; }
 .tracks { margin: 0; border: 1px solid var(--line); border-top: 0; border-radius: 0 0 10px 10px; background: var(--surface); overflow: hidden; }
@@ -116,6 +122,8 @@ article.page { max-width: 68ch; }
 .track .tt { min-width: 0; overflow-wrap: anywhere; }
 /* Movements of a grouped work hang off a thin rule under the work's name. */
 .tracks li.in .tt { padding-left: 12px; border-left: 2px solid var(--line); margin: -7px 0; padding-top: 7px; padding-bottom: 7px; }
+/* The same gap below a grouped work as above its name, so the next track does not read as a movement. */
+.tracks li.in.end { margin-bottom: 12px; }
 .track.current { background: var(--accent-soft); }
 .track.current .tt { font-weight: 600; }
 .track.current .tn { color: var(--accent); font-weight: 600; }
@@ -141,6 +149,7 @@ article.page { max-width: 68ch; }
 .released { margin: 14px 0; color: var(--muted); }
 .tag { font-size: 12px; border: 1px solid var(--line); border-radius: 6px; padding: 2px 7px; color: var(--muted); white-space: nowrap; }
 .tag.on { border-color: var(--accent); color: var(--accent); }
+.pill.oop { background: color-mix(in srgb, var(--lv-4) 18%, var(--surface)); color: var(--fg); border-radius: 999px; padding: 1px 9px; font-size: 12.5px; font-weight: 500; white-space: nowrap; margin-left: 4px; }
 
 /* lists: other works, composer works, section pages */
 .worklist, .alist { list-style: none; margin: 8px 0; padding: 0; }
@@ -165,6 +174,19 @@ article.page { max-width: 68ch; }
 .albumlist a > span { display: flex; flex-direction: column; }
 .albumlist .t { font-weight: 500; }
 .albumlist .muted { color: var(--muted); font-size: 13.5px; }
+
+/* Recordings page: List / Albums switch and the cover grid */
+.views { display: flex; gap: 6px; margin: 14px 0 6px; }
+.views[hidden], [data-view-panel][hidden] { display: none; }
+.albumgrid { list-style: none; margin: 16px 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 22px 18px; }
+.albumgrid a { display: flex; flex-direction: column; gap: 2px; text-decoration: none; color: var(--fg); }
+.albumgrid img { width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 6px; background: var(--line); box-shadow: 0 1px 3px rgba(20, 26, 36, .12); margin-bottom: 8px; transition: transform .15s ease, box-shadow .15s ease; }
+.albumgrid a:hover img { transform: translateY(-2px); box-shadow: var(--shadow); }
+.albumgrid a:hover .t { color: var(--accent); }
+.albumgrid .t { font-weight: 500; line-height: 1.3; }
+.albumgrid .muted { color: var(--muted); font-size: 13.5px; }
+@media (max-width: 560px) { .albumgrid { grid-template-columns: repeat(2, 1fr); gap: 18px 12px; } }
+@media (prefers-reduced-motion: reduce) { .albumgrid img { transition: none; } }
 
 /* composer page */
 .composer-head { display: flex; flex-direction: row-reverse; justify-content: space-between; gap: 22px; align-items: flex-start; }

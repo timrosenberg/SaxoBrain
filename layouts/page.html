@@ -1,5 +1,5 @@
 {{ define "main" }}
-<article class="page">
+<article class="page {{ .Section }}">
 <h1>{{ .Title }}</h1>
 {{ partial "notice.html" . }}
 <div class="prose">{{ partial "body.html" . }}</div>

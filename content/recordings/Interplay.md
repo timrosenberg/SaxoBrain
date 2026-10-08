@@ -36,5 +36,3 @@ year-released: "1996"
 cover: "/media/recordings/interplay/Interplay.jpg"
 notion-id: 1d95a3ec5321807bb438df480761cc38
 ---
-
-[https://open.spotify.com/album/6Ikozo4tIc4u587OPSMY4p?si=NoBJ0a9xSfCh9FDfGnhUZQ](https://open.spotify.com/album/6Ikozo4tIc4u587OPSMY4p?si=NoBJ0a9xSfCh9FDfGnhUZQ)

@@ -10,6 +10,7 @@ works:
   - "[[Hector Villa-Lobos - Fantasia]]"
   - "[[Wolfgang Amadeus Mozart - Concerto K. 314]]"
 year-released: "1991"
+out-of-print: true
 cover: "/media/recordings/classical-bouquet/image.jpeg"
 notion-id: 1d95a3ec532180d19201ec2dca901b4f
 youtube: 

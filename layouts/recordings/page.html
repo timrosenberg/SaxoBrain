@@ -29,7 +29,12 @@
 {{ if $tracks }}{{ partial "recordings/tracks.html" $ }}{{ end }}
 </div>
 {{ end }}{{ end }}
-{{ with index .Params "year-released" }}<p class="released">Released {{ . }}</p>{{ end }}
+{{- /* No YouTube playlist: embed Apple Music's player instead (full album for subscribers signed in to
+       Apple Music, 30-second previews for everyone else). */ -}}
+{{ if not (findRE `[?&]list=` (.Params.youtube | default "")) }}{{ with index .Params "apple-music" }}{{ if hasPrefix . "https://music.apple.com/" }}
+<div class="applemusic"><iframe src="{{ replace . "https://music.apple.com/" "https://embed.music.apple.com/" 1 }}" title="{{ $.Title }} on Apple Music" height="450" loading="lazy" allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe></div>
+{{ end }}{{ end }}{{ end }}
+{{ with index .Params "year-released" }}<p class="released">Released {{ . }}{{ if index $.Params "out-of-print" }} <span class="pill oop">Out of print</span>{{ end }}</p>{{ end }}
 {{ partial "notice.html" . }}
 {{ with partial "body.html" . }}<div class="prose">{{ . }}</div>{{ end }}
 {{ with .Params.works }}

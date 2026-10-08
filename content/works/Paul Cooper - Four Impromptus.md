@@ -1,18 +1,17 @@
 ---
-title: "Four Impromptus"
+title: Four Impromptus
 slug: paul-cooper-four-impromptus
 composer:
   - "[[Paul Cooper]]"
 instruments:
-  - "Alto Saxophone"
-  - "Piano"
-composed: 
-year-of-study: "Fourth Year"
-streaming: "https://www.youtube.com/watch?v=S0DFEfjIvYY"
+  - Alto Saxophone
+  - Piano
+composed: 1984
+year-of-study: Fourth Year
+streaming: https://www.youtube.com/watch?v=S0DFEfjIvYY
 purchase:
-  - "https://www.wisemusicclassical.com/work/24432/Four-Impromptus--Paul-Cooper/"
+  - https://www.classicalondemand.com/products/four-impromptus-for-saxophone-and-piano
 added: 2025-04-18
 aliases: []
 ---
 
-[https://www.youtube.com/watch?v=S0DFEfjIvYY](https://www.youtube.com/watch?v=S0DFEfjIvYY)

@@ -1,0 +1,28 @@
+{{ define "main" }}
+{{- /* Two views of the same albums: a list and a grid of covers. Both are in the HTML; static/js/recordings.js
+       switches between them and keeps the choice in the address bar (/recordings/?view=list; albums are the
+       default). Without JavaScript the grid shows and the switch stays hidden. Pages with no cover
+       appear in the list only. */ -}}
+<div class="section-list recordings-index">
+<h1>{{ .Title }}</h1>
+{{ partial "notice.html" . }}
+{{ with partial "body.html" . }}<div class="prose">{{ . }}</div>{{ end }}
+<div class="views" role="group" aria-label="View" hidden>
+<button type="button" class="chip" data-view="albums" aria-pressed="true">Albums</button>
+<button type="button" class="chip" data-view="list" aria-pressed="false">List</button>
+</div>
+{{ with .RegularPages.ByTitle }}
+<ul class="alist" data-view-panel="list" hidden>
+{{ range . }}<li><a href="{{ .RelPermalink }}"><span>{{ .Title }}{{ if index .Params "out-of-print" }} <span class="pill oop">Out of print</span>{{ end }}</span>{{ with .Params.saxophonists }}<span class="who">{{ . }}</span>{{ end }}</a></li>{{ end }}
+</ul>
+<ul class="albumgrid" data-view-panel="albums">
+{{ range . }}{{ $p := . }}{{ with .Params.cover }}<li><a href="{{ $p.RelPermalink }}">
+  <img src="{{ if hasPrefix . "/" }}{{ relURL (strings.TrimPrefix "/" .) }}{{ else }}{{ . }}{{ end }}" alt="" loading="lazy">
+  <span class="t">{{ $p.Title }}</span>
+  {{ with $p.Params.saxophonists }}<span class="muted">{{ . }}</span>{{ end }}{{ with index $p.Params "year-released" }}<span class="muted yr">{{ . }}{{ if index $p.Params "out-of-print" }} <span class="pill oop">Out of print</span>{{ end }}</span>{{ end }}
+</a></li>{{ end }}{{ end }}
+</ul>
+{{ end }}
+</div>
+<script defer src="{{ "js/recordings.js" | relURL }}"></script>
+{{ end }}

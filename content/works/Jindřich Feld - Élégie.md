@@ -1,16 +1,16 @@
 ---
-title: "Élégie"
+title: Élégie
 slug: jindrich-feld-elegie
 composer:
   - "[[Jindřich Feld]]"
 instruments:
-  - "Soprano Saxophone"
-  - "Piano"
-composed: 
-year-of-study: "Advanced"
-streaming: "https://youtu.be/XfvYfVQPP-w"
+  - Soprano Saxophone
+  - Piano
+composed: 1984
+year-of-study: Advanced
+streaming: https://www.youtube.com/watch?v=XfvYfVQPP-w
 purchase:
-  - "https://www.sheetmusicplus.com/title/elegie-saxophone-soprano-piano-sheet-music/20747625?aff_id=426309&utm_medium=plg1"
+  - https://www.grothmusic.com/p-37417-elegie-soprano-sax-or-oboe-and-piano.aspx
 want-to-play: true
 added: 2019-08-28
 aliases: []

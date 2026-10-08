@@ -2,6 +2,8 @@
 title: "Required Listening for Saxophone Students"
 slug: required-listening-for-saxophone-students
 notion-id: 1825a3ec5321809ba153c478a71b73b6
+aliases:
+  - /recordings/listening-list-2019/
 ---
 
 The following list is a short, and by no means exhaustive set of saxophone-focused recordings for students to know. Students should take time with these recordings to truly know them.
@@ -48,7 +50,7 @@ The following list is a short, and by no means exhaustive set of saxophone-focus
 ## Required Listening
 
 - Advanced Classical Saxophone
-    - [The Solitary Saxophone](https://album.link/us/i/1727130438) by Claude Delangle
+    - [*The Solitary Saxophone*](https://album.link/us/i/1727130438) by Claude Delangle
     - *Hot Sonate* by Arno Bornkamp [[**Free Download**](https://www.arnobornkamp.nl/HotSonate.zip)]
     - [*The Snell Sessions*](https://album.link/us/i/458218946) by Christopher Creviston
     - [*Le Merle noir*](https://album.link/us/i/686311432) by Idit Shner
@@ -59,7 +61,7 @@ The following list is a short, and by no means exhaustive set of saxophone-focus
     - [*Inner Urge*](https://album.link/us/i/724519387) by Joe Henderson
     - [*The Shape of Jazz to Come*](https://album.link/us/i/921051612) by Ornette Coleman
     - [*Out to Lunch*](https://album.link/us/i/1455686798) by Eric Dolphy
-    - [Looking Forward](https://album.link/us/i/271250277) by Miguel Zenón
+    - [*Looking Forward*](https://album.link/us/i/271250277) by Miguel Zenón
 
 # Fourth Year
 
