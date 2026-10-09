@@ -5,7 +5,7 @@ saxophonists: "Steven Mauk"
 works:
   - "[[Giovanni Benedetto Platti - Sonata in G Major]]"
   - "[[Johann Sebastian Bach - Sonata in E-flat Major, BWV 1031]]"
-  - "[[Maurice Ravel - Piece en Forme de Habanera (B♭ inst.)]]"
+  - "[[Maurice Ravel - Piece en Forme de Habanera]]"
   - "[[Charles Rochester Young - Sonata]]"
   - "[[Hector Villa-Lobos - Fantasia]]"
   - "[[Wolfgang Amadeus Mozart - Concerto K. 314]]"

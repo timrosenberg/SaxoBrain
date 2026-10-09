@@ -44,7 +44,7 @@ Each semester, choose one piece from each category. In the spring, choose a diff
 - [[Eugène Bozza - Aria]]
 - [[William Grant Still - Romance]]
 - [[Jacques Ibert - Aria]]
-- [[Sergei Rachmaninoff - Vocalise (B♭ inst.)]]
+- [[Sergei Rachmaninoff - Vocalise]]
 - [[Florent Schmitt - Songe de Coppélius]]
 - [[Guy Lacour - Belle Époque]]
 - [[Jacques Offenbach - Barcarolle]]
@@ -52,14 +52,11 @@ Each semester, choose one piece from each category. In the spring, choose a diff
 ### Contemporary
 
 - [[Isaac Albéniz - Tango]]
-- [[Percy Grainger - Arrival Platform Humlet]]
 - [[Guy Lacour - Chanson Mondale]]
 - [[Bernhard Heiden - Diversion]]
 - [[Karel Husa - Postcard From Home]]
-- [[Thierry Escaich - Amelie's Dream]] (mvts. 1, 2 and 5)
 - [[Walter Hartley - Poem]]
 - [[Béla Bartók - Evening in the Country]]
-- [[Gerald Finzi - De l’un a l’autre]]
 - [[Sergei Prokofiev - Romance and Troika from Lieutenant Kijé]]
 
 ## Reading

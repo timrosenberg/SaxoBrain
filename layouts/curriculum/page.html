@@ -21,7 +21,7 @@
 <a class="t" href="{{ $w.RelPermalink }}">{{ partial "work-title.html" $w }}</a>
 <span class="muted">{{ range $i, $c := partial "composers-of.html" $w }}{{ if $i }}, {{ end }}{{ $c.Title }}{{ end }}</span>
 {{- $more := replaceRE `^\[\[[^\]]+\]\]\s*` "" $line -}}
-<span class="links">{{ with $w.Params.purchase }}<a href="{{ index . 0 }}" rel="noopener">Buy the book</a>{{ end }}{{ with $more }}{{ partial "resolve-links.html" (dict "html" (. | markdownify | string) "page" $p) | safeHTML }}{{ end }}</span>
+<span class="links">{{ with $w.Params.purchase }}<a href="{{ (partial "purchase-link.html" (index . 0)).url }}" rel="noopener">Buy the book</a>{{ end }}{{ with $more }}{{ partial "resolve-links.html" (dict "html" (. | markdownify | string) "page" $p) | safeHTML }}{{ end }}</span>
 {{- else -}}
 <span class="t">{{ partial "resolve-links.html" (dict "html" ($line | markdownify | string) "page" $p) | safeHTML }}</span>
 {{- end -}}
@@ -43,18 +43,15 @@
 </div>
 {{- end }}
 </div>
-{{- /* How many catalog works sit at this year of study, for alto and for tenor (the catalog's own filters). */ -}}
+{{- /* How many catalog works sit at this year of study, all instruments together (the catalog's level filter). */ -}}
 {{- $lv := index (dict "1" "First Year" "2" "Second-Year" "3" "Third Year" "4" "Fourth Year") (string $n) -}}
-{{- $alto := 0 }}{{ $tenor := 0 }}{{ $adv := 0 -}}
-{{- range where site.RegularPages "Section" "works" -}}
-  {{- $y := index .Params "year-of-study" -}}{{- $i := .Params.instruments | default slice -}}
-  {{- if eq $y $lv }}{{ if in $i "Alto Saxophone" }}{{ $alto = add $alto 1 }}{{ end }}{{ if in $i "Tenor Saxophone" }}{{ $tenor = add $tenor 1 }}{{ end }}{{ end -}}
-  {{- if and (eq $y "Advanced") (in $i "Alto Saxophone") }}{{ $adv = add $adv 1 }}{{ end -}}
-{{- end -}}
+{{- $works := where site.RegularPages "Section" "works" -}}
+{{- $all := len (where $works "Params.year-of-study" $lv) -}}
+{{- $adv := len (where $works "Params.year-of-study" "Advanced") -}}
 {{- $ord := lower (index (split .Title " ") 0) -}}
 {{- $cat := site.Home.RelPermalink -}}
-<div class="more"><span>Looking for something else? The catalog lists <b>{{ $alto }}</b> {{ $ord }}-year pieces for alto and <b>{{ $tenor }}</b> for tenor{{ if eq $n 4 }}, plus <b>{{ $adv }}</b> advanced pieces for alto{{ end }}.</span>
-<span class="links"><a class="go" href="{{ $cat }}?sax=Alto+Saxophone&lvl={{ $lv }}">Alto →</a><a class="go" href="{{ $cat }}?sax=Tenor+Saxophone&lvl={{ $lv }}">Tenor →</a>{{ if eq $n 4 }}<a class="go" href="{{ $cat }}?sax=Alto+Saxophone&lvl=Advanced">Advanced →</a>{{ end }}</span></div>
+<div class="more"><span>Looking for something else? The catalog lists <b>{{ $all }}</b> {{ $ord }}-year pieces{{ if eq $n 4 }}, plus <b>{{ $adv }}</b> advanced pieces{{ end }}.</span>
+<span class="links"><a class="go" href="{{ $cat }}?lvl={{ $lv }}">See them all →</a>{{ if eq $n 4 }}<a class="go" href="{{ $cat }}?lvl=Advanced">Advanced →</a>{{ end }}</span></div>
 </section>
 
 {{- $read := where (where $b "h2" "Reading") "kind" "item" -}}

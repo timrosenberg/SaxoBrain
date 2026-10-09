@@ -1,0 +1,5 @@
+{{- /* One `purchase` entry: a plain link, or "Label · link" when a work has several editions
+       (e.g. "B♭ edition (soprano, tenor) · https://..."). Returns dict "label" "url"; label is empty for a plain link. */ -}}
+{{- $label := "" -}}{{- $url := trim . " " -}}
+{{- with findRESubmatch `^(.+?)\s+·\s+(\S+)$` $url 1 }}{{ $label = index (index . 0) 1 }}{{ $url = index (index . 0) 2 }}{{ end -}}
+{{- return dict "label" $label "url" $url -}}

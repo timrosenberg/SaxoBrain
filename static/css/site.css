@@ -146,8 +146,8 @@ article.page.lists, article.page.lists .prose, article.page.lists .notice { max-
 .audio.bandcamp iframe { height: 120px; }
 .audio.spotify iframe { height: 152px; }
 .audio.spotify:is(.album, .playlist, .show) iframe { height: 352px; }
-.facts { display: grid; grid-template-columns: auto 1fr; gap: 6px 16px; margin: 14px 0; }
-.facts dt { color: var(--muted); font-size: 13.5px; }
+/* Labels and values share one font, size and color, matching a recording's "Released" line */
+.facts { display: grid; grid-template-columns: auto 1fr; gap: 6px 16px; margin: 14px 0; color: var(--muted); }
 .facts dd { margin: 0; min-width: 0; }
 .released { margin: 14px 0; color: var(--muted); }
 .tag { font-size: 12px; border: 1px solid var(--line); border-radius: 6px; padding: 2px 7px; color: var(--muted); white-space: nowrap; }

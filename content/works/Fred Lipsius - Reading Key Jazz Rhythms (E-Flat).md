@@ -4,8 +4,8 @@ slug: fred-lipsius-reading-key-jazz-rhythms-e-flat
 composer:
   - "[[Fred Lipsius]]"
 instruments:
-  - "Soprano Saxophone"
-  - "Tenor Saxophone"
+  - "Alto Saxophone"
+  - "Baritone Saxophone"
 tags:
   - "Jazz"
 composed: 
