@@ -12,7 +12,8 @@ views:
     name: All works
     filters:
       and:
-        - file.inFolder("works")
+        - file.folder == "content/works"
+        - '!file.name.startsWith("_")'
     order:
       - file.name
       - composer
@@ -21,6 +22,8 @@ views:
       - year-of-study
       - streaming
       - purchase
+    columnSize:
+      file.name: 353
   - type: table
     name: By year of study
     filters:
