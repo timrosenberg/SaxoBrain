@@ -105,6 +105,8 @@ article.page.lists, article.page.lists .prose, article.page.lists .notice { max-
 .player { max-width: 680px; overflow: hidden; margin: 4px 0 18px; }
 .embed { max-width: 680px; overflow: hidden; margin: 4px 0 18px; border-radius: 12px; }
 .embed iframe { width: 100%; border: 0; display: block; background: transparent; }
+.pdf { margin: 4px 0 18px; border: 1px solid var(--line); border-radius: 10px; overflow: hidden; background: var(--chip); }
+.pdf iframe { width: 100%; height: 80vh; min-height: 480px; border: 0; display: block; }
 .spotify iframe { height: 452px; }
 .applemusic { border-radius: 10px; border: 1px solid var(--line); }
 /* Apple's player is near-white in light mode, so it gets an outline there; in dark mode it already stands out. */

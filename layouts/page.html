@@ -3,5 +3,9 @@
 <h1>{{ .Title }}</h1>
 {{ partial "notice.html" . }}
 <div class="prose">{{ partial "body.html" . }}</div>
+{{- /* A page whose whole body is one link to a PDF on this site shows the PDF under the link. */ -}}
+{{ with findRESubmatch `^\[[^\]]*\]\((/[^)\s]+\.pdf)\)$` (trim .RawContent " \n\r\t") 1 }}
+<div class="pdf"><iframe src="{{ relURL (strings.TrimPrefix "/" (index (index . 0) 1)) }}#view=FitH" title="{{ $.Title }} (PDF)" loading="lazy"></iframe></div>
+{{ end }}
 </article>
 {{ end }}
