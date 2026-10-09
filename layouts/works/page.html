@@ -7,7 +7,7 @@
 <p class="byline">{{ range $i, $c := $composers }}{{ if $i }}, {{ end }}<a href="{{ $c.RelPermalink }}">{{ $c.Title }}</a>{{ else }}Composer unknown{{ end }}</p>
 
 <p class="actions">
-{{ with .Params.streaming }}<a class="btn primary" href="{{ . }}" rel="noopener">Listen</a>{{ else }}<span class="btn missing">No recording linked yet</span>{{ end }}
+{{ with partial "listen-url.html" . }}<a class="btn primary" href="{{ . }}" rel="noopener">Listen</a>{{ else }}<span class="btn missing">No recording linked yet</span>{{ end }}
 {{ range .Params.purchase }}{{ $b := partial "purchase-link.html" . }}<a class="btn" href="{{ $b.url }}" rel="noopener">{{ with $b.label }}Buy the {{ . }}{{ else }}Buy the score{{ end }}</a>{{ end }}
 {{ range .Params.download }}<a class="btn" href="{{ . }}" rel="noopener">Free score</a>{{ end }}
 </p>
@@ -51,7 +51,7 @@
 {{ with partial "body.html" . }}<div class="notes">{{ . }}</div>{{ end }}
 
 {{ with index (partialCached "recordings-index.html" "all") .Path }}
-<h2>Recordings</h2>
+<h2 id="recordings">Recordings</h2>
 <ul class="albumlist">
 {{ range uniq . }}<li><a href="{{ .RelPermalink }}">
   {{ with .Params.cover }}<img src="{{ if hasPrefix . "/" }}{{ relURL (strings.TrimPrefix "/" .) }}{{ else }}{{ . }}{{ end }}" alt="" loading="lazy">{{ else }}<span class="nocover"></span>{{ end }}

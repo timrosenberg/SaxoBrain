@@ -79,9 +79,9 @@ Each semester, choose one piece from each category. In the spring, choose a diff
 
 ### Next Steps: Classical Saxophone
 
-- [*Sonatas*](https://album.link/us/i/979557388) by Arno Bornkamp
-- [*Hybrid*](https://album.link/us/i/1348879058) by Robert Young
-- [*Notturno*](https://album.link/us/i/1520663218) by Timothy McAllister
-- [*A la Française*](https://album.link/us/i/331278809) by Claude Delangle [[A la Française|Album page]]
+- [[Sonatas for Saxophone and Piano|Sonatas]] by Arno Bornkamp
+- [[Hybrid]] by Robert Young
+- [[Notturno]] by Timothy McAllister
+- [[A la Française]] by Claude Delangle
     - Also listed as *Koechlin: Etudes for Alto Saxophone and Piano*
-- [*Grieg, Glazunov, Dvořák*](https://album.link/i/1255924858) by Quatuor Habanera
+- [[Grieg, Glazounov, Dvořák|Grieg, Glazunov, Dvořák]] by Quatuor Habanera

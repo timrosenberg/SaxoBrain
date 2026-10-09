@@ -66,7 +66,7 @@
   {{- end -}}
 {{- end -}}
 {{- range $works -}}
-  {{- if not $listen }}{{ with .Params.streaming }}{{ $listen = . }}{{ end }}{{ end -}}
+  {{- if not $listen }}{{ $listen = partial "listen-url.html" . }}{{ end -}}
 {{- end -}}
 <li class="piece">
 <div class="main">{{ $titleHTML | safeHTML }}{{ range $saxes }} <span class="tag {{ .c }}">{{ .t }}</span>{{ end }}

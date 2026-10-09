@@ -71,9 +71,9 @@ By the time a student reaches their fourth year of study they should have advanc
 
 ### Classical Saxophone
 
-- [*Hard*](https://album.link/i/393391585) by Richard Ducros
-- [*Flows*](https://album.link/us/i/1440143569) by Vincent David
-- [*Boulez/Berio*](https://album.link/i/1571966136) by Vincent David
-- [*Differential Moods*](https://album.link/us/i/1009784984) by Jeffrey Loeffert
-- [*In Lights Starkly Different*](https://album.link/us/i/1500502248) by Drew Whiting
-- [*This is ~Nois*](https://album.link/us/i/1517756296) by ~Nois
+- [[Hard]] by Richard Ducros
+- [[Flows]] by Vincent David
+- [[Berio & Boulez Dialogue, Chemins, Récit|Boulez/Berio]] by Vincent David
+- [[Differential Moods]] by Jeffrey Loeffert
+- [[In Lights Starkly Different]] by Drew Whiting
+- [[Is This Nois|This is ~Nois]] by ~Nois

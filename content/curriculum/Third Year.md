@@ -93,9 +93,9 @@ Choose one piece from each category.
 
 ### Advanced Classical Saxophone
 
-- [*The Solitary Saxophone*](https://album.link/us/i/1727130438) by Claude Delangle [[The Solitary Saxophone|Album page]]
-- *Hot Sonate* by Arno Bornkamp [Free download](https://www.arnobornkamp.nl/HotSonate.zip)
-- [*The Snell Sessions*](https://album.link/us/i/458218946) by Christopher Creviston [[The Snell Sessions|Album page]]
-- [*Le Merle noir*](https://album.link/us/i/686311432) by Idit Shner
-- [*Made in Japan*](https://album.link/us/i/1492024589) by Nobuya Sugawa
-- [*Mysterious Morning*](https://album.link/us/i/1572107100) by Quatuor Habanera
+- [[The Solitary Saxophone]] by Claude Delangle
+- [[Hot Sonate!|Hot Sonate]] by Arno Bornkamp [Free download](https://www.arnobornkamp.nl/HotSonate.zip)
+- [[The Snell Sessions]] by Christopher Creviston
+- [[Le Merle Noir|Le Merle noir]] by Idit Shner
+- [[Made in Japan]] by Nobuya Sugawa
+- [[Mysterious Morning]] by Quatuor Habanera

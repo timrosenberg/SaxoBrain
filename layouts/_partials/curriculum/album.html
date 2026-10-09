@@ -1,15 +1,33 @@
 {{- /* One listening line from a curriculum year file:
-         - [*Album*](streaming link) by Performer [[Album File|Album page]] [Free download](url)
-       The link on the title becomes the Listen button; any other links after the performer become buttons too.
+         - [[Album File|Display title]] by Performer [Free download](url)
+       The album page holds the listening links, so the Listen button opens it; the display title is optional
+       (the album page's title otherwise). Any links after the performer become buttons too.
+       For an album with no page: - [*Album*](streaming link) by Performer, the link becoming the Listen button.
        Indented lines under it show as a note. Input: dict "line" "rest" "page". */ -}}
 {{- $page := .page -}}
-{{- with findRESubmatch `^(?:\[\*([^*]+)\*\]\(([^)\s]+)\)|\*([^*]+)\*)\s+by\s+([^\[]+?)\s*(\[.*)?$` .line 1 -}}
-{{- $m := index . 0 -}}
+{{- $title := "" -}}{{- $listen := "" -}}{{- $by := "" -}}{{- $more := "" -}}{{- $ok := false -}}
+{{- with findRESubmatch `^\[\[([^\]|]+)(?:\|([^\]]+))?\]\]\s+by\s+([^\[]+?)\s*(\[.*)?$` .line 1 -}}
+  {{- $m := index . 0 -}}
+  {{- $key := lower (replace (replace (index $m 1) "’" "'") "‘" "'") -}}
+  {{- with index (partialCached "page-index.html" "all") $key -}}
+    {{- $title = index $m 2 | default .Title -}}{{- $listen = .RelPermalink -}}
+  {{- else -}}
+    {{- errorf "Link [[%s]] in %s does not match any page file. Check the spelling." (index $m 1) $page.File.Path -}}
+  {{- end -}}
+  {{- $by = index $m 3 -}}{{- $more = index $m 4 -}}{{- $ok = true -}}
+{{- else -}}
+  {{- with findRESubmatch `^(?:\[\*([^*]+)\*\]\(([^)\s]+)\)|\*([^*]+)\*)\s+by\s+([^\[]+?)\s*(\[.*)?$` .line 1 -}}
+    {{- $m := index . 0 -}}
+    {{- $title = index $m 1 | default (index $m 3) -}}{{- $listen = index $m 2 -}}
+    {{- $by = index $m 4 -}}{{- $more = index $m 5 -}}{{- $ok = true -}}
+  {{- end -}}
+{{- end -}}
+{{- if $ok -}}
 {{- $extras := "" -}}
-{{- with index $m 5 }}{{ $extras = replace (partial "resolve-links.html" (dict "html" (. | markdownify | string) "page" $page)) "<a " `<a class="act" ` }}{{ end -}}
-<li><span class="main"><span class="t">{{ index $m 1 | default (index $m 3) | markdownify }}</span><span class="a">{{ index $m 4 }}</span>
+{{- with $more }}{{ $extras = replace (partial "resolve-links.html" (dict "html" (. | markdownify | string) "page" $page)) "<a " `<a class="act" ` }}{{ end -}}
+<li><span class="main"><span class="t">{{ $title | markdownify }}</span><span class="a">{{ $by }}</span>
 {{- with $.rest }}<span class="note">{{ partial "resolve-links.html" (dict "html" (. | markdownify | string) "page" $page) | safeHTML }}</span>{{ end }}</span>
-<span class="acts">{{ with index $m 2 }}<a class="act listen" href="{{ . }}" rel="noopener"><svg viewBox="0 0 10 10" aria-hidden="true"><path d="M2 1l7 4-7 4z"/></svg>Listen</a>{{ end }}{{ $extras | safeHTML }}</span></li>
+<span class="acts">{{ with $listen }}<a class="act listen" href="{{ . }}" rel="noopener"><svg viewBox="0 0 10 10" aria-hidden="true"><path d="M2 1l7 4-7 4z"/></svg>Listen</a>{{ end }}{{ $extras | safeHTML }}</span></li>
 {{- else -}}
 <li><span class="main">{{ partial "resolve-links.html" (dict "html" (.line | markdownify | string) "page" $page) | safeHTML }}</span><span class="acts"></span></li>
 {{- end -}}

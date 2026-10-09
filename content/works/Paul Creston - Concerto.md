@@ -1,5 +1,5 @@
 ---
-title: "Concerto"
+title: "Concerto for Alto Saxophone and Orchestra (or Band)"
 slug: paul-creston-concerto
 composer:
   - "[[Paul Creston]]"
@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
   - "Band"
-composed: 
+composed: 1941
 year-of-study: "Fourth Year"
 streaming: 
 purchase:

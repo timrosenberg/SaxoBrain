@@ -4,11 +4,12 @@ slug: ronald-caravan-quiet-time
 composer:
   - "[[Ronald Caravan]]"
 instruments:
+  - "Soprano Saxophone"
   - "Tenor Saxophone"
   - "Piano"
 composed: 
 year-of-study: "Second-Year"
-streaming: "https://song.link/i/1184989144"
+streaming: 
 purchase:
   - "https://www.hickeys.com/search/products/sku042322.php"
 added: 2022-03-27

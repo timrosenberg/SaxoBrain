@@ -9,7 +9,7 @@ instruments:
   - "Piano"
 composed: 
 year-of-study: "Third Year"
-streaming: "https://album.link/s/6bXV8rCTPctq8v2fHjTaqP"
+streaming: "https://open.spotify.com/album/6bXV8rCTPctq8v2fHjTaqP"
 purchase:
   - "https://global.oup.com/academic/product/concerto-for-alto-saxophone-and-string-orchestra-9780193677319?cc=us&lang=en&"
 want-to-play: true

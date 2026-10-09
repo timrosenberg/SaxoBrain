@@ -7,6 +7,8 @@ works:
   - "[[Darius Milhaud - La creation du monde]]"
   - "[[Roger Boutry - Divertimento]]"
   - "[[Astor Piazzolla - Escualo]]"
+  - "[[Paul Creston - Concerto]]"
+  - "[[Anders Emilsson - Salute the Band]]"
 streaming: "https://album.link/i/1727250685"
 youtube: "https://www.youtube.com/playlist?list=OLAK5uy_nvrxwBWH22tPNOyDD6cgE1ZMlgcBaqMW4"
 spotify: "https://open.spotify.com/album/4HeBU95o5U8DRelhwZjizR"

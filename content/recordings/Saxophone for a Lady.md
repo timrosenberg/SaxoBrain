@@ -9,6 +9,7 @@ works:
   - "[[Vincent d'Indy - Choral Variée]]"
   - "[[Florent Schmitt - Songe de Coppélius]]"
   - "[[Maurice Ravel - Sonatine]]"
+  - "[[André Caplet - Légende]]"
 streaming: "https://album.link/us/i/1727081094"
 youtube: "https://www.youtube.com/playlist?list=OLAK5uy_kimdJAE5hQXReg_TLCnxBWyQYQE6lMhSY"
 spotify: "https://open.spotify.com/album/6y3sl1gNk9JUlL1CdAQ2AU"

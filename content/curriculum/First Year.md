@@ -43,7 +43,6 @@ Each semester, choose one piece from each category. In the spring, choose a diff
 - [[Pierre Lantier - Sicilienne]]
 - [[Eugène Bozza - Aria]]
 - [[William Grant Still - Romance]]
-- [[Jacques Ibert - Aria]]
 - [[Sergei Rachmaninoff - Vocalise]]
 - [[Florent Schmitt - Songe de Coppélius]]
 - [[Guy Lacour - Belle Époque]]
@@ -79,9 +78,8 @@ Each semester, choose one piece from each category. In the spring, choose a diff
 
 ### Intro to Classical Saxophone
 
-- [*Saxophone and Piano*](https://album.link/i/1118489646) by Arno Bornkamp
-- [*The Historic Saxophone*](https://album.link/us/i/330892843) by Claude Delangle [[The Historic Saxophone Music Written for and Published By Adolphe Sax|Album page]]
-- *Recital* by Otis Murphy
-- [*Maslanka: Concertos*](https://album.link/us/i/195157616) by Joseph Lulloff
-- [*An Exhibition of Saxophone*](https://album.link/us/i/1493753584) by Nobuya Sugawa [[Exhibition of Saxophone|Album page]]
-- [*Saxophone Classics*](https://album.link/us/i/363166027) by Diastema Saxophone Quartet
+- [[Saxophone & Piano Brahms, Franck, and Schumann|Saxophone and Piano]] by Arno Bornkamp
+- [[The Historic Saxophone Music Written for and Published By Adolphe Sax|The Historic Saxophone]] by Claude Delangle
+- [[Maslanka Concertos|Maslanka: Concertos]] by Joseph Lulloff
+- [[Exhibition of Saxophone|An Exhibition of Saxophone]] by Nobuya Sugawa
+- [[Saxophone Classics]] by Diastema Saxophone Quartet

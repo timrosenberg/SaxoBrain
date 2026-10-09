@@ -1,0 +1,9 @@
+{{- /* Where a work's Listen button goes: its own `streaming:` link if it has one; otherwise the album page
+       when one album lists it, or the Recordings section of the work page when several do; "" when nothing does. */ -}}
+{{- $url := .Params.streaming | default "" -}}
+{{- if not $url -}}
+  {{- with uniq (index (partialCached "recordings-index.html" "all") .Path | default slice) -}}
+    {{- $url = cond (eq (len .) 1) (index . 0).RelPermalink (printf "%s#recordings" $.RelPermalink) -}}
+  {{- end -}}
+{{- end -}}
+{{- return $url -}}
