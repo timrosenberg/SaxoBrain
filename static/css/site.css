@@ -99,10 +99,13 @@ article.page.lists, article.page.lists .prose, article.page.lists .notice { max-
    Player and list read as one card: the video gives up its bottom corners to the list. */
 /* .player wraps both and narrows beside the floated cover as one block, so they keep the same width. */
 .player { max-width: 680px; overflow: hidden; margin: 4px 0 18px; }
-.applemusic { max-width: 680px; overflow: hidden; margin: 4px 0 18px; border-radius: 10px; border: 1px solid var(--line); }
+.embed { max-width: 680px; overflow: hidden; margin: 4px 0 18px; border-radius: 12px; }
+.embed iframe { width: 100%; border: 0; display: block; background: transparent; }
+.spotify iframe { height: 452px; }
+.applemusic { border-radius: 10px; border: 1px solid var(--line); }
 /* Apple's player is near-white in light mode, so it gets an outline there; in dark mode it already stands out. */
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .applemusic { border-color: transparent; } }
-.applemusic iframe { width: 100%; height: 450px; border: 0; display: block; background: transparent; }
+.applemusic iframe { height: 450px; }
 .player .video { max-width: none; margin: 0; }
 .video.has-tracks { border-radius: 10px 10px 0 0; }
 .tracks { margin: 0; border: 1px solid var(--line); border-top: 0; border-radius: 0 0 10px 10px; background: var(--surface); overflow: hidden; }
@@ -226,7 +229,8 @@ article.page.lists, article.page.lists .prose, article.page.lists .notice { max-
 .cur .act:hover { border-color: var(--accent); color: var(--accent); }
 .cur .act.listen { background: var(--accent-soft); border-color: transparent; color: var(--accent); }
 .cur .act svg { width: 10px; height: 10px; fill: currentColor; }
-.cur .tag.tenor { border-color: color-mix(in srgb, var(--sx-tenor) 50%, var(--line)); color: var(--sx-tenor); }
+.cur .tag.soprano { --sx: var(--sx-soprano); } .cur .tag.alto { --sx: var(--sx-alto); } .cur .tag.tenor { --sx: var(--sx-tenor); } .cur .tag.baritone { --sx: var(--sx-baritone); } .cur .tag.bass { --sx: var(--sx-bass); }
+.cur .tag.soprano, .cur .tag.alto, .cur .tag.tenor, .cur .tag.baritone, .cur .tag.bass { border-color: color-mix(in srgb, var(--sx) 50%, var(--line)); color: color-mix(in srgb, var(--sx) 75%, var(--fg)); }
 .cur .go { font-weight: 600; text-decoration: none; }
 .cur .go:hover { text-decoration: underline; }
 .matrix { margin-top: 26px; display: grid; grid-template-columns: 116px repeat(4, minmax(0, 1fr)); column-gap: 10px; }
@@ -289,10 +293,6 @@ a.t:hover { color: var(--accent); text-decoration: underline; text-underline-off
 .piece .who { color: var(--muted); font-size: 13.5px; }
 .piece .who a { color: var(--muted); }
 .piece .who .note::before { content: " · "; }
-.tenor-h { padding: 10px 16px 4px; border-top: 1px solid var(--line); background: color-mix(in srgb, var(--sx-tenor) 6%, var(--surface)); }
-.tenor-h .label-sm { color: var(--sx-tenor); margin: 0; }
-.pieces.tenor .piece { background: color-mix(in srgb, var(--sx-tenor) 6%, var(--surface)); }
-.pieces.tenor .piece:first-child { border-top: 0; }
 .cur .more { margin-top: 14px; display: flex; justify-content: space-between; align-items: center; gap: 8px 16px; flex-wrap: wrap; border: 1px dashed var(--line); border-radius: 12px; padding: 12px 16px; font-size: 14.5px; }
 .cur .more .links { display: flex; gap: 16px; flex-wrap: wrap; }
 .term { display: grid; gap: 8px; align-content: start; }

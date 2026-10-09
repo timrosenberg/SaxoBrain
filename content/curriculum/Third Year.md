@@ -38,15 +38,6 @@ Choose one piece from each category.
 - **Suite No. 1 in G for cello**, Johann Sebastian Bach, from [[Johann Sebastian Bach - Bach for the Saxophone]] (Caravan), 21–26
 - **Suite No. 2 in D minor for cello**, Johann Sebastian Bach, from [[Johann Sebastian Bach - Bach for the Saxophone]] (Caravan), 27–32
 
-#### Tenor
-
-- **Partita No. 1 in B minor for violin**, Johann Sebastian Bach, from [[Johann Sebastian Bach - Bach for the Saxophone]] (Caravan), 3–8
-- **Sonata No. 2 in A minor for violin: Allegro**, Johann Sebastian Bach, from [[Johann Sebastian Bach - Bach for the Saxophone]] (Caravan), 10
-- **Partita No. 2 in D minor for violin: Allemande and Corrente**, Johann Sebastian Bach, from [[Johann Sebastian Bach - Bach for the Saxophone]] (Caravan), 11 and 12
-- **Sonata No. 3 in C for violin: Allegro assai**, Johann Sebastian Bach, from [[Johann Sebastian Bach - Bach for the Saxophone]] (Caravan), 16
-- **Suite No. 1 in G for cello**, Johann Sebastian Bach, from [[Johann Sebastian Bach - Bach for the Saxophone]] (Caravan), 21–26
-- **Suite No. 2 in D minor for cello**, Johann Sebastian Bach, from [[Johann Sebastian Bach - Bach for the Saxophone]] (Caravan), 27–32
-
 ### Virtuosic
 
 - [[Jules Demersseman - Fantaisie sur un thème original]]
@@ -56,9 +47,6 @@ Choose one piece from each category.
 - [[Pedro Iturralde - Pequeña Czarda]]
 - [[Eugène Bozza - Pièce brève]]
 - [[Jean Matitia - Devil's Rag]]
-
-#### Tenor
-
 - [[Hector Villa-Lobos - Fantasia]]
 - [[Jules Demersseman - Premiere Solo (Andante et Bolero)]]
 - [[Paquito D'Rivera - Vals Venezolano]] and [[Paquito D'Rivera - Contradanza]]
@@ -71,9 +59,6 @@ Choose one piece from each category.
 - [[Roger Boutry - Divertimento]]
 - [[Pierre-Philippe Bauzin - Poeme]]
 - [[Eugène Bozza - Divertissement]]
-
-#### Tenor
-
 - [[Robert Schumann - Adagio and Allegro]]
 - [[Marcel Mihalovici - Chant Premier, Op. 103]]
 
@@ -85,9 +70,6 @@ Choose one piece from each category.
 - [[Ida Gotkovsky - Brillance]]
 - [[Ned Rorem - Picnic on the Marne]]
 - [[Astor Piazzolla - Tango—etudes]]
-
-#### Tenor
-
 - [[Walter Hartley - Sonorities VII]]
 - [[Eric Ewazen - Classical Concerto]]
 - [[William Schmidt - Sonata (Tenor)]]
@@ -100,12 +82,12 @@ Choose one piece from each category.
 ### Fall
 
 - [Ch. 4: “Repertoire Heritage”](/media/curriculum/Liley-The-Cambridge-companion-to-the-saxophone-Ch.-4.pdf), *The Cambridge Companion to the Saxophone*, by Thomas Liley
-    - A tour of the classical repertoire from the pieces Sax published himself to recent decades, and of the players, such as Elise Hall, Marcel Mule and Sigurd Rascher, who inspired its core works.
+    - A tour of the classical repertoire and of the players, such as Elise Hall, Marcel Mule and Sigurd Rascher.
 
 ### Spring
 
-- [Ch. 14: “The Saxophone Today”](/media/curriculum/Delangle-and-Michat-The-Cambridge-companion-to-the-saxophone-Ch.-14.pdf), *The Cambridge Companion to the Saxophone*, by Delangle and Michat
-    - A survey of contemporary techniques such as multiphonics, slap-tonguing and circular breathing, plus music with electronics and ways to teach these skills.
+- [Ch. 14: “The Saxophone Today”](/media/curriculum/Delangle-and-Michat-The-Cambridge-companion-to-the-saxophone-Ch.-14.pdf), *The Cambridge Companion to the Saxophone*, by Claude Delangle and Jean-Denis Michat
+    - A survey of contemporary techniques and ways to teach these skills.
 
 ## Listening
 

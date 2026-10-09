@@ -1,6 +1,6 @@
 {{- /* Split a curriculum year file into blocks, one per list item or paragraph line, each tagged with the
        headings it sits under: h2 (Technique, Études, Solo Repertoire, Reading, Listening), h3 (a repertoire
-       category, Fall/Spring, a listening group) and h4 ("Tenor" inside a category).
+       category, Fall/Spring, a listening group) and h4 (unused by the templates).
        Indented lines under a list item (sub-bullets, notes) are kept with that item in "rest", un-indented once.
        Returns a slice of dict "h2" "h3" "h4" "kind" ("item" or "p") "first" (the line, without "- ") "rest". */ -}}
 {{- $out := slice -}}

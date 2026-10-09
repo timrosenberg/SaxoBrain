@@ -23,9 +23,7 @@
 {{- else if eq $key "repertoire" -}}
 {{- $rep := where (where $b "h2" "Solo Repertoire") "kind" "item" -}}
 {{- $cats := slice -}}{{- range $rep }}{{ if not (in $cats .h3) }}{{ $cats = $cats | append .h3 }}{{ end }}{{ end -}}
-{{- $alto := slice -}}{{- range where $rep "h4" "" }}{{ $alto = $alto | append (printf "%s|%s" .h3 .first) }}{{ end -}}
-{{- $tenor := 0 -}}{{- range where $rep "h4" "Tenor" }}{{ if not (in $alto (printf "%s|%s" .h3 .first)) }}{{ $tenor = add $tenor 1 }}{{ end }}{{ end -}}
-<span class="line">{{ len $alto }} alto pieces, {{ $tenor }} more for tenor</span><span class="chips">{{ range $cats }}<span class="chip">{{ . }}</span>{{ end }}</span>
+<span class="line">{{ len $rep }} pieces</span><span class="chips">{{ range $cats }}<span class="chip">{{ . }}</span>{{ end }}</span>
 {{- else if eq $key "reading" -}}
 {{- $read := where (where $b "h2" "Reading") "kind" "item" -}}
 {{- $terms := slice -}}{{- range $read }}{{ if not (in $terms .h3) }}{{ $terms = $terms | append .h3 }}{{ end }}{{ end -}}
@@ -40,7 +38,7 @@
 {{- end }}
 </div>
 <div class="how">
-<div><h3>Solo repertoire</h3><p>Each category is a menu: choose one piece per category each semester. Alto pieces come first; tenor options follow in each category.</p></div>
+<div><h3>Solo repertoire</h3><p>Each category is a menu: choose one piece per category each semester. Pieces for soprano, tenor or baritone carry a tag.</p></div>
 <div><h3>Beyond these lists</h3><p>Every year links to the full catalog, filtered to that year of study.</p></div>
 </div>
 </div>

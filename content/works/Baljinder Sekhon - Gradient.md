@@ -13,5 +13,3 @@ purchase: []
 added: 2025-04-19
 aliases: []
 ---
-
-[https://jeffreyheisler.bandcamp.com/track/gradient](https://jeffreyheisler.bandcamp.com/track/gradient)

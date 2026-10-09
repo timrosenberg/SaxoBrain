@@ -29,9 +29,6 @@ Each semester, choose one piece from each category. In the spring, choose a diff
 - [[Maurice Whitney - Rumba]]
 - [[Bernhard Heiden - Sonata]]
 - [[Darius Milhaud - Scaramouche]]
-
-#### Tenor
-
 - [[Francois Devienne - Adagio & Rondo]]
 - [[William Schmidt - Sonatina]]
 - [[Antonio Vivaldi - Sonata No. 6 in G minor]]
@@ -50,13 +47,9 @@ Each semester, choose one piece from each category. In the spring, choose a diff
 - [[Robert Schumann - Three Romances, Op. 94]]
 - [[Vincent d'Indy - Choral Variée]]
 - [[Jérôme Savari - Fantasie sur des Motifs du Frieschutz]]
-
-#### Tenor
-
 - [[Franz Schubert - Impromptu No. 3 in G-flat Major, Op. 90, D. 899]]
 - [[Richard Wagner - Walther’s Prize Song]]
 - [[Paul Jeanjean - Heureux Temps…]]
-- [[Robert Schumann - Three Romances, Op. 94]]
 
 ### Contemporary
 
@@ -64,9 +57,6 @@ Each semester, choose one piece from each category. In the spring, choose a diff
 - [[Walter Hartley - Valse Vertigo]]
 - [[Warren Benson - Concertino - III. Aeolian Song]]
 - [[Edison Denisov - Deux Pièces]]
-
-#### Tenor
-
 - [[William Duckworth - Pitt County Excursions]]
 - [[Guy Lacour - Octophonie]]
 - [[Walter Skolnik - Sonatina]]
@@ -78,12 +68,12 @@ Each semester, choose one piece from each category. In the spring, choose a diff
 ### Fall
 
 - [Ch. 1: “Invention and Development”](/media/curriculum/Liley-The-Cambridge-Companion-to-the-Saxophone-Ch.-1.pdf), *The Cambridge Companion to the Saxophone*, by Thomas Liley
-    - The life of Adolphe Sax, his battles to get the saxophone accepted, and how the instrument changed in its first decades.
+    - The life of Adolphe Sax and how the instrument changed in its first decades.
 
 ### Spring
 
 - [Ch. 2: “In the Twentieth Century”](/media/curriculum/Ashton-The-Cambridge-Companion-to-the-Saxophone-Ch.-2.pdf), *The Cambridge Companion to the Saxophone*, by Don Ashton
-    - How the saxophone spread through military bands, the 1920s American saxophone craze and jazz, and how instruments and mouthpieces changed along the way.
+    - How instruments and mouthpieces changed along the way.
 
 ## Listening
 

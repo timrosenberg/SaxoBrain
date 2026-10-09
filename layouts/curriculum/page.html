@@ -1,6 +1,6 @@
 {{ define "main" }}
 {{- /* One year of the curriculum. The year file is plain Markdown with fixed headings (see curriculum/parse.html):
-       ## Technique, ## Études, ## Solo Repertoire (### category, #### Tenor), ## Reading (### Fall / ### Spring), ## Listening (### group). */ -}}
+       ## Technique, ## Études, ## Solo Repertoire (### category), ## Reading (### Fall / ### Spring), ## Listening (### group). */ -}}
 {{- $p := . -}}
 {{- $b := partialCached "curriculum/parse.html" . .Path -}}
 {{- $n := int (.Params.year | default 0) -}}
@@ -32,29 +32,14 @@
 
 {{- $rep := where $b "h2" "Solo Repertoire" -}}
 {{- $cats := slice -}}{{- range $rep }}{{ if and .h3 (not (in $cats .h3)) }}{{ $cats = $cats | append .h3 }}{{ end }}{{ end -}}
-{{- $nAlto := 0 -}}{{- $nTenor := 0 -}}
-{{- range $cats -}}
-  {{- $c := where (where $rep "h3" .) "kind" "item" -}}
-  {{- $altoLines := slice -}}{{- range where $c "h4" "" }}{{ $altoLines = $altoLines | append .first }}{{ end -}}
-  {{- $nAlto = add $nAlto (len $altoLines) -}}
-  {{- range where $c "h4" "Tenor" }}{{ if not (in $altoLines .first) }}{{ $nTenor = add $nTenor 1 }}{{ end }}{{ end -}}
-{{- end }}
+{{- $nPieces := len (where (where $rep "h3" "ne" "") "kind" "item") }}
 <section class="sec" id="repertoire">
-<div class="sec-h"><h2>Solo repertoire</h2><span class="label-sm">{{ $nAlto }} alto · {{ $nTenor }} tenor</span></div>
+<div class="sec-h"><h2>Solo repertoire</h2><span class="label-sm">{{ $nPieces }} pieces</span></div>
 {{ with where (where $rep "h3" "") "kind" "p" }}<div class="rule">{{ range . }}<p>{{ partial "resolve-links.html" (dict "html" (.first | markdownify | string) "page" $p) | safeHTML }}</p>{{ end }}</div>{{ end }}
 <div class="catgrid">
 {{- range $cats }}
-{{- $c := where (where $rep "h3" .) "kind" "item" -}}
-{{- $alto := where $c "h4" "" -}}{{- $tenor := where $c "h4" "Tenor" -}}
-{{- $altoLines := slice -}}{{- range $alto }}{{ $altoLines = $altoLines | append .first }}{{ end -}}
-{{- $tenorLines := slice -}}{{- range $tenor }}{{ $tenorLines = $tenorLines | append .first }}{{ end }}
 <div class="catcard"><header><h3>{{ . }}</h3><span class="label-sm">Choose one</span></header>
-<ul class="pieces">{{ range $alto }}{{ partial "curriculum/piece.html" (dict "line" .first "page" $p "also" (in $tenorLines .first)) }}{{ end }}</ul>
-{{- $only := slice -}}{{- range $tenor }}{{ if not (in $altoLines .first) }}{{ $only = $only | append . }}{{ end }}{{ end -}}
-{{- with $only }}
-<div class="tenor-h"><span class="label-sm">For tenor</span></div>
-<ul class="pieces tenor">{{ range . }}{{ partial "curriculum/piece.html" (dict "line" .first "page" $p "also" false) }}{{ end }}</ul>
-{{- end }}
+<ul class="pieces">{{ range where (where $rep "h3" .) "kind" "item" }}{{ partial "curriculum/piece.html" (dict "line" .first "page" $p) }}{{ end }}</ul>
 </div>
 {{- end }}
 </div>

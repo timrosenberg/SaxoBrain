@@ -5,7 +5,8 @@
          - **Title**, Composer, from [[Collection]], No. 3 [Listen](url)
                                                      a piece inside a collection; the score link comes from the collection.
        [Listen](url) on any line replaces the work's own recording link.
-       Input: dict "line" "page" "also" (true when the same line is also in the tenor list). */ -}}
+       Saxophone tags come from the first work's `instruments`: none for an alto-only work, otherwise one per saxophone it lists.
+       Input: dict "line" "page". */ -}}
 {{- $idx := partialCached "page-index.html" "all" -}}
 {{- $page := .page -}}
 {{- $line := .line -}}
@@ -49,16 +50,27 @@
     {{- $titleHTML = printf `<span class="t">%s</span>` ($line | markdownify | string) -}}
   {{- end -}}
 {{- end -}}
-{{- $score := "" -}}{{- $free := false -}}{{- $solo := false -}}
+{{- $score := "" -}}{{- $free := false -}}
 {{- with $w -}}
-  {{- with .Params.download }}{{ $score = index . 0 }}{{ $free = true }}{{ else }}{{ with .Params.purchase }}{{ $score = index . 0 }}{{ end }}{{ end -}}
+  {{- /* An arrangement's IMSLP link is the original instrument's score, so the saxophone edition for sale wins. */ -}}
+  {{- $original := and (index .Params "arranger-edition") .Params.purchase (strings.Contains (index (.Params.download | default (slice "")) 0) "imslp.org") -}}
+  {{- with and (not $original) .Params.download }}{{ $score = index . 0 }}{{ $free = true }}{{ else }}{{ with .Params.purchase }}{{ $score = index . 0 }}{{ end }}{{ end -}}
+{{- end -}}
+{{- $saxes := slice -}}
+{{- with $w -}}
+  {{- $i := .Params.instruments | default slice -}}
+  {{- if in $i "Any Saxophone" }}{{ $saxes = slice (dict "c" "any" "t" "Any saxophone") }}{{ else -}}
+    {{- range slice (slice "Soprano" "soprano") (slice "Alto" "alto") (slice "Tenor" "tenor") (slice "Baritone" "baritone") (slice "Bass" "bass") -}}
+      {{- if in $i (printf "%s Saxophone" (index . 0)) }}{{ $saxes = $saxes | append (dict "c" (index . 1) "t" (replace (index . 0) "Baritone" "Bari")) }}{{ end -}}
+    {{- end -}}
+    {{- if and (eq (len $saxes) 1) (eq (index $saxes 0).c "alto") }}{{ $saxes = slice }}{{ end -}}
+  {{- end -}}
 {{- end -}}
 {{- range $works -}}
   {{- if not $listen }}{{ with .Params.streaming }}{{ $listen = . }}{{ end }}{{ end -}}
-  {{- if in (.Params.instruments | default slice) "Unaccompanied" }}{{ $solo = true }}{{ end -}}
 {{- end -}}
 <li class="piece">
-<div class="main">{{ $titleHTML | safeHTML }}{{ if .also }} <span class="tag tenor">Also tenor</span>{{ end }}{{ if $solo }} <span class="tag">Unaccompanied</span>{{ end }}
+<div class="main">{{ $titleHTML | safeHTML }}{{ range $saxes }} <span class="tag {{ .c }}">{{ .t }}</span>{{ end }}
 <div class="who">{{ $who | safeHTML }}{{ with $note }}<span class="note">{{ partial "resolve-links.html" (dict "html" (. | markdownify | string) "page" $page) | safeHTML }}</span>{{ end }}</div></div>
 <div class="acts">{{ with $listen }}<a class="act listen" href="{{ . }}" rel="noopener"><svg viewBox="0 0 10 10" aria-hidden="true"><path d="M2 1l7 4-7 4z"/></svg>Listen</a>{{ end }}{{ with $score }}<a class="act" href="{{ . }}" rel="noopener">{{ if $free }}Free score{{ else }}Score{{ end }}</a>{{ end }}</div>
 </li>
