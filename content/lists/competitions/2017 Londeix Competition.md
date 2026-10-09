@@ -26,7 +26,7 @@ Solo saxophone, maximum time: 20 minutes. Each competitor will present three wor
     - [[Christian Lauba - Neuf Études, Book 4 - No. 9 Bat|Neuf Études, Book 4: No. 9 Bat]]
 - [[Christian Lauba - Étude No. 19 Partyta|Étude No. 19 Partyta]]  (soprano saxophone) by [[Christian Lauba|Christian Lauba]] (Resolute Music Publications)
 - [[Christophe Havel - Oxyton|Oxyton]] (baritone saxophone) by [[Christophe Havel|Christophe Havel]] (Éditions P.J. Tonger-Germany)
-- *Strata* (tenor saxophone) by Colin LABADIE
+- *[[Colin Labadie - Strata|Strata]]* (tenor saxophone) by Colin LABADIE
 - [[Thierry Alla - Discoïdal|Discoïdal]] (tenor saxophone) [[Thierry Alla|Thierry Alla]] (Resolute Music Publications)
 - [[Fuminori Tanada - Mysterious Morning III|Mysterious Morning III]] for soprano saxophone by [[Fuminori Tanada|Fuminori Tanada]] (Edit. Lemoine)
 - [[Hiroyuki Itoh - The Angel of Despair II|The Angel of Despair II]] by [[Hiroyuki Itoh|Hiroyuki Itoh]] for alto saxophone (Resolute Music Publication (for sale or download on site: [http://www.resolutemusicpublications.com](http://www.resolutemusicpublications.com/) )

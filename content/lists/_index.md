@@ -1,5 +1,12 @@
 ---
 title: "Lists"
+aliases:
+  - /lists/colleges/uncg-alto-saxophone-repertoire/
+  - /lists/colleges/uncg-tenor-saxophone-repertoire/
+  - /lists/colleges/ohio-university-saxophone-repertoire/
+  - /lists/programs/
+  - /lists/programs/2020-nasa-sessions/
+  - /lists/programs/2021-interlochen-saxophone-recital-program/
 ---
 
-Competition repertoire lists, college repertoire lists and collected recital programs.
+Competition repertoire lists, college syllabi and a jazz listening list.

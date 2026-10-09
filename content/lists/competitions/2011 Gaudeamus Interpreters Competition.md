@@ -18,8 +18,8 @@ notion-id: dab3fd8e6ad143bc903466e77eaf637c
 
 ## Herbet, Juliette saxophone (22-11-1982, French)
 
-- Scelsi, Giacinto Tre Pezzi (1956) 6’
-- Berio, Luciano Sequenza IXb (1980) 13’
+- Scelsi, Giacinto [[Giacinto Scelsi - Tre Pezzi|Tre Pezzi]] (1956) 6’
+- Berio, Luciano [[Luciano Berio - Sequenza IXb|Sequenza IXb]] (1980) 13’
 - Garcia-, Velasquez Pedro New Piece for Saxophone (2010-2011) 7’
 - Veldhuis, Jacob ter Grab It! (1999) 10’
 - Samama, Leo Memoires Fanees (1990) 9’
@@ -32,7 +32,7 @@ notion-id: dab3fd8e6ad143bc903466e77eaf637c
 - Altena, Maarten Stave (1988) 6'
 - De Clercq, Eric Why? (The Muted Silence) (1994) 9'
 - Hurel, Philippe Opcit (1984) 11'
-- Scelsi, Giacinto Tre Pezzi (1956) 9'30
+- Scelsi, Giacinto [[Giacinto Scelsi - Tre Pezzi|Tre Pezzi]] (1956) 9'30
 - Johnson, Tom Tilework for saxophone (2002) 7'30
 - Marti, Valentin Charon schläft (…kein Notturno) (2007) 12'
 - Juillerat, Kevin …par ce tiède soir, tout bas? (2009) 5'
@@ -42,9 +42,9 @@ notion-id: dab3fd8e6ad143bc903466e77eaf637c
 - Onna, peter van To Play the Saxophone (1993) 13’
 - Veldhuis, Jacob ter Garden of Love (2003) 8’
 - Tanada, Fuminori Mysterious Morning (1996) 7’
-- Stockhausen, Karlheinz In Freundschaft (1977) 14‘
+- Stockhausen, Karlheinz [[Karlheinz Stockhausen - In Freundschaft|In Freundschaft]] (1977) 14‘
 - Suzuki, Jummei Souffle-stick (2008) 9’
-- Noda, Ryo Mai (1975) 8’
+- Noda, Ryo [[Ryo Noda - Maï|Mai]] (1975) 8’
 - Lauba, Christian Balafon (2007) 6’
 
 ## Duo Sax & Stix duo Saxophone Percussion Eva van Grinsven (1981-06-04, Dutch), Ramon Lormans, (1984-04-21, Dutch) percussion
@@ -62,19 +62,19 @@ notion-id: dab3fd8e6ad143bc903466e77eaf637c
 
 - Abdinurov, Serik Sybyzgy (2005) 4’
 - Usenov, Alibek Fantasy on Abay theme (1998) 6’
-- Yoshimatsu, Takashi Fuzzy Bird Sonata (1991) 15’
+- Yoshimatsu, Takashi [[Takashi Yoshimatsu - Fuzzy Bird Sonata|Fuzzy Bird Sonata]] (1991) 15’
 - Francois Ibert, Jacques Concertino de Camera (1934-1935) 14’
 - Lotichius, Erik Sonata (2007) 15’-
 - Simons, Marijn Welles / Nietes for alto saxophone and piano: opus 35 (2006) 7’15
 - Schedrin, Rodin In imitation of Albenis (1959) 4’
-- Muczynsky, Robert Sonata for Alto Saxophone and Piano (1970) 8’
+- Muczynsky, Robert [[Robert Muczynski - Sonata|Sonata]] for Alto Saxophone and Piano (1970) 8’
 
 ## Solaris Duo saxophone piano Diegert, Joel (1982-12-25, American), Mariam; (1985-11-21, Georgian) Piano
 
 - Michans, Carlos Purana (2000) 10'
 - Ketting, Otto Windsor Hotel (1998) 3'
-- Levaillant, Denis Manhattan Rhapsody (2003) 12'
+- Levaillant, Denis [[Denis Levaillant - Manhattan-Rhapsody|Manhattan Rhapsody]] (2003) 12'
 - Djupstrom, Michael Walimai (2005) 13'
-- Shrude, Marilyn Lacrimosa" (2006) 10'
+- Shrude, Marilyn [[Marilyn Shrude - Lacrimosa|Lacrimosa]]" (2006) 10'
 - Rossé, François Erwachen (2009) 3'
-- Mantovani, Bruno L'Incandescence de la Bruine (1997) 8'
+- Mantovani, Bruno [[Bruno Mantovani - L’Incandescence de la bruine|L'Incandescence de la Bruine]] (1997) 8'

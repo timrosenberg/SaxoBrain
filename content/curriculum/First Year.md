@@ -31,7 +31,7 @@ Each semester, choose one piece from each category. In the spring, choose a diff
 
 ### French
 
-- [[Jeanine Rueff - Chanson et Passipied]]
+- [[Jeanine Rueff - Chanson et Passepied]]
 - [[Pierre-Max DuBois - Dix figures à danser]]
 - [[Darius Milhaud - Danse]]
 - [[Henri Tomasi - Chant Corse]]

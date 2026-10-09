@@ -73,7 +73,7 @@ Choose one piece from each category.
 - [[Walter Hartley - Sonorities VII]]
 - [[Eric Ewazen - Classical Concerto]]
 - [[William Schmidt - Sonata (Tenor)]]
-- [[James DiPasqualle - Sonata]]
+- [[James Di Pasquale - Sonata]]
 - [[William Duckworth - Ballad in Time and Space]]
 - [[William Karlins - Music for Tenor Saxophone and Piano]]
 
