@@ -1,17 +1,18 @@
 ---
-title: "Catherine Likhuta"
+title: Catherine Likhuta
 slug: catherine-likhuta
 nationality:
-  - "🇺🇦 Ukranian"
-  - "🇦🇺 Australian"
-gender: "Female"
+  - 🇺🇦 Ukranian
+  - 🇦🇺 Australian
+gender: Female
 race:
-  - "White"
+  - White
 born: 1981
-died: 
+died:
 wikidata: Q14624513
-photo: 
-photo-credit: 
-photo-source: 
+photo: "/media/composers/catherine-likhuta.jpg"
+photo-credit: catherinelikhuta.com
+photo-source: https://www.catherinelikhuta.com/sitephoto.jpg
+website: https://www.catherinelikhuta.com
 aliases: []
 ---
