@@ -1,15 +1,18 @@
 ---
-title: "Secrets of the Water"
-slug: catherine-likhuta-secrets-of-the-water
+title: Secrets of Water
+slug: catherine-likhuta-secrets-of-water
 composer:
   - "[[Catherine Likhuta]]"
 instruments:
-  - "Alto Saxophone"
-  - "Piano"
-composed: 
-year-of-study: 
-streaming: "https://www.youtube.com/watch?v=F7nMfJMyAWY"
-purchase: []
+  - Alto Saxophone
+  - Piano
+composed: 2015
+year-of-study: Third Year
+streaming: https://www.youtube.com/watch?v=UI9ORYvln9Q
+purchase:
+  - https://www.catherinelikhuta.com/Woodwinds.htm
 added: 2024-02-21
-aliases: []
+research:
+aliases:
+  - /works/catherine-likhuta-secrets-of-the-water/
 ---

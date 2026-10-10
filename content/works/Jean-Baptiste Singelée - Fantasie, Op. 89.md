@@ -8,7 +8,13 @@ instruments:
 composed: 
 year-of-study: 
 streaming: 
-purchase: []
+purchase:
+  - https://www.grothmusic.com/p-37467.aspx
 added: 2025-04-18
+research:
+  - "Publisher Roncorp, catalog no. RON1069 · https://www.grothmusic.com/p-37467.aspx"
 aliases: []
 ---
+## Research notes (private)
+
+- Publisher Roncorp, catalog no. RON1069 · [grothmusic.com](https://www.grothmusic.com/p-37467.aspx)

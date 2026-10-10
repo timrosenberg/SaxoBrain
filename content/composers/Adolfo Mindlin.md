@@ -1,15 +1,15 @@
 ---
-title: "Adolfo Mindlin"
+title: Adolfo Mindlin
 slug: adolfo-mindlin
 nationality:
-  - "🇫🇷 French"
-gender: "Male"
+  - 🇫🇷 French
+gender: Male
 race: []
-born: 
-died: 
-wikidata: 
-photo: 
-photo-credit: 
-photo-source: 
+born: 1900
+died: 1999
+wikidata:
+photo:
+photo-credit:
+photo-source:
 aliases: []
 ---

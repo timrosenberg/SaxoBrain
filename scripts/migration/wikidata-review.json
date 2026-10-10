@@ -52,6 +52,14 @@
   "why": "no musician with this exact name"
  },
  {
+  "composer": "Alice Nakamura",
+  "nationality": [
+   "Japanese"
+  ],
+  "candidates": [],
+  "why": "no musician with this exact name"
+ },
+ {
   "composer": "Allen Johnson",
   "nationality": [],
   "candidates": [],
@@ -62,6 +70,18 @@
   "nationality": [
    "American"
   ],
+  "candidates": [],
+  "why": "no musician with this exact name"
+ },
+ {
+  "composer": "Andrew Bishop",
+  "nationality": [],
+  "candidates": [],
+  "why": "no musician with this exact name"
+ },
+ {
+  "composer": "Andriy Talpash",
+  "nationality": [],
   "candidates": [],
   "why": "no musician with this exact name"
  },
@@ -196,6 +216,18 @@
   "nationality": [
    "English"
   ],
+  "candidates": [],
+  "why": "no musician with this exact name"
+ },
+ {
+  "composer": "Colin Labadie",
+  "nationality": [],
+  "candidates": [],
+  "why": "no musician with this exact name"
+ },
+ {
+  "composer": "Daniel Capelletti",
+  "nationality": [],
   "candidates": [],
   "why": "no musician with this exact name"
  },
@@ -441,6 +473,12 @@
   "why": "no musician with this exact name"
  },
  {
+  "composer": "Glenn Smith",
+  "nationality": [],
+  "candidates": [],
+  "why": "no musician with this exact name"
+ },
+ {
   "composer": "Gordan Tudor",
   "nationality": [],
   "candidates": [],
@@ -513,12 +551,21 @@
   "why": "no musician with this exact name"
  },
  {
-  "composer": "James Di Pasquale",
-  "nationality": [
-   "American"
+  "composer": "James DeMars",
+  "nationality": [],
+  "candidates": [
+   {
+    "qid": "Q112473341",
+    "born": 1952,
+    "died": null,
+    "jobs": [
+     "conductor",
+     "music educator"
+    ],
+    "nat_ok": null
+   }
   ],
-  "candidates": [],
-  "why": "no musician with this exact name"
+  "why": "no citizenship recorded to confirm"
  },
  {
   "composer": "James Fry",
@@ -622,6 +669,12 @@
   "why": "no musician with this exact name"
  },
  {
+  "composer": "Jean-Luc Falchamps",
+  "nationality": [],
+  "candidates": [],
+  "why": "no musician with this exact name"
+ },
+ {
   "composer": "Jean-Luc Lepage",
   "nationality": [
    "Belgian"
@@ -713,12 +766,31 @@
   "why": "no musician with this exact name"
  },
  {
-  "composer": "Jules-Auguste Semler-Collery",
+  "composer": "Jules Semler-Collery",
   "nationality": [
    "French"
   ],
   "candidates": [],
   "why": "no musician with this exact name"
+ },
+ {
+  "composer": "Karalyn Schubring",
+  "nationality": [],
+  "candidates": [
+   {
+    "qid": "Q136172690",
+    "born": 1999,
+    "died": null,
+    "jobs": [
+     "musician",
+     "pianist",
+     "composer",
+     "music educator"
+    ],
+    "nat_ok": null
+   }
+  ],
+  "why": "no citizenship recorded to confirm"
  },
  {
   "composer": "Karen Gasparian",
@@ -759,7 +831,7 @@
   "why": "no musician with this exact name"
  },
  {
-  "composer": "Ladislav Ulehla",
+  "composer": "Ludmila Ulehla",
   "nationality": [],
   "candidates": [],
   "why": "no musician with this exact name"
@@ -777,6 +849,12 @@
   "why": "no musician with this exact name"
  },
  {
+  "composer": "Manuel Angulo",
+  "nationality": [],
+  "candidates": [],
+  "why": "no musician with this exact name"
+ },
+ {
   "composer": "Marcel Perrin",
   "nationality": [
    "French"
@@ -786,6 +864,12 @@
  },
  {
   "composer": "Marga Richter Wirth",
+  "nationality": [],
+  "candidates": [],
+  "why": "no musician with this exact name"
+ },
+ {
+  "composer": "Marianne Ploger",
   "nationality": [],
   "candidates": [],
   "why": "no musician with this exact name"
@@ -807,6 +891,22 @@
  {
   "composer": "Mary Morrison Dixon",
   "nationality": [],
+  "candidates": [],
+  "why": "no musician with this exact name"
+ },
+ {
+  "composer": "Masa Matsuura",
+  "nationality": [
+   "Japanese"
+  ],
+  "candidates": [],
+  "why": "no musician with this exact name"
+ },
+ {
+  "composer": "Masanori Katoh",
+  "nationality": [
+   "Japanese"
+  ],
   "candidates": [],
   "why": "no musician with this exact name"
  },
@@ -847,12 +947,30 @@
   "why": "no musician with this exact name"
  },
  {
+  "composer": "Naomi Honda",
+  "nationality": [],
+  "candidates": [],
+  "why": "no musician with this exact name"
+ },
+ {
   "composer": "Nazaire Beeckman",
   "nationality": [
    "Belgian"
   ],
-  "candidates": [],
-  "why": "no musician with this exact name"
+  "candidates": [
+   {
+    "qid": "Q110222907",
+    "born": 1822,
+    "died": 1900,
+    "jobs": [
+     "clarinetist",
+     "composer",
+     "saxophonist"
+    ],
+    "nat_ok": false
+   }
+  ],
+  "why": "nationality does not match"
  },
  {
   "composer": "Nicoline Soeter",
@@ -947,13 +1065,19 @@
   "why": "no musician with this exact name"
  },
  {
+  "composer": "Pierre Liémans",
+  "nationality": [],
+  "candidates": [],
+  "why": "no musician with this exact name"
+ },
+ {
   "composer": "Pierre Verhiel",
   "nationality": [],
   "candidates": [],
   "why": "no musician with this exact name"
  },
  {
-  "composer": "Piet Swertz",
+  "composer": "Piet Swerts",
   "nationality": [
    "Belgian"
   ],
@@ -1112,6 +1236,14 @@
   "why": "no musician with this exact name"
  },
  {
+  "composer": "Ryota Ishikawa",
+  "nationality": [
+   "Japanese"
+  ],
+  "candidates": [],
+  "why": "no musician with this exact name"
+ },
+ {
   "composer": "Scott Richards",
   "nationality": [],
   "candidates": [
@@ -1222,6 +1354,24 @@
   "why": "no musician with this exact name"
  },
  {
+  "composer": "Tomoyuki Hisatome",
+  "nationality": [
+   "Japanese"
+  ],
+  "candidates": [
+   {
+    "qid": "Q133705556",
+    "born": 1955,
+    "died": null,
+    "jobs": [
+     "composer"
+    ],
+    "nat_ok": null
+   }
+  ],
+  "why": "no citizenship recorded to confirm"
+ },
+ {
   "composer": "Tony Wheeler",
   "nationality": [],
   "candidates": [],
@@ -1258,6 +1408,22 @@
   ],
   "candidates": [],
   "why": "no musician with this exact name"
+ },
+ {
+  "composer": "Willy Bauweraerts",
+  "nationality": [],
+  "candidates": [
+   {
+    "qid": "Q53447778",
+    "born": null,
+    "died": null,
+    "jobs": [
+     "musician"
+    ],
+    "nat_ok": null
+   }
+  ],
+  "why": "no citizenship recorded to confirm"
  },
  {
   "composer": "Yuanzhen Li",

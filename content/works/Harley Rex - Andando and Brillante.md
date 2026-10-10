@@ -1,6 +1,6 @@
 ---
-title: "Andano & Brillante"
-slug: harley-rex-andano-brillante
+title: "Andando and Brillante"
+slug: harley-rex-andando-and-brillante
 composer:
   - "[[Harley Rex]]"
 instruments:
@@ -9,7 +9,16 @@ instruments:
 composed: 
 year-of-study: 
 streaming: 
-purchase: []
+purchase:
+  - https://www.grothmusic.com/p-140129.aspx
 added: 2024-03-08
-aliases: []
+research:
+  - "Publisher Dorn Publications, catalog no. DORN0188 · https://www.grothmusic.com/p-140129.aspx"
+  - "Listed as \"Andando and Brillante\"; dedicated \"To Dale Underwood and the U.S. Navy Band\" · https://www.grothmusic.com/p-140129.aspx"
+aliases:
+  - /works/harley-rex-andano-brillante/
 ---
+## Research notes (private)
+
+- Publisher Dorn Publications, catalog no. DORN0188 · [grothmusic.com](https://www.grothmusic.com/p-140129.aspx)
+- Listed as "Andando and Brillante"; dedicated "To Dale Underwood and the U.S. Navy Band" · [grothmusic.com](https://www.grothmusic.com/p-140129.aspx)

@@ -23,7 +23,7 @@ Two of the *[[Sigfrid Karg-Elert - 25 Capricen|25 Capricen]] op. 153a (1929)* by
 - *[[Christian Lauba - Étude No. 21 Bumble Beebop|Bumble Beebop]]* (alto saxophone) by Christian LAUBA (Resolute Music Publications)
 - *[[Christian Lauba - Étude No. 22 Bebop|Bebop]]* (alto saxophone) by Christian LAUBA (Resolute Music Publications)
 - *[[Christian Lauba - Étude No. 24 Flamenco|Flamenco]]* (alto saxophone) by Christian LAUBA (Édition Resolute Music Publications)
-- *[[Christian Lauba - Steady study on the boogie|Steady study on the boogie]]* (alto saxophone) by Christian LAUBA (Éditions Billaudot)
+- *[[Christian Lauba - Steady Study on the Boogie|Steady study on the boogie]]* (alto saxophone) by Christian LAUBA (Éditions Billaudot)
 - *[[Christophe Havel - Oxyton|Oxyton]]* (baritone saxophone) by Christophe HAVEL (Éditions. P.J. Tonger-Germany)
 - *[[Colin Labadie - Strata|Strata]]* (tenor saxophone) by Colin LABADIE ([http://www.colinlabadie.com/strata.html](http://www.colinlabadie.com/strata.html))
 - *[[Thierry Alla - Discoïdal|Discoïdal]]* (tenor saxophone) Thierry ALLA (Resolute Music Publications).
@@ -49,7 +49,7 @@ Each competitor will choose one piece from list 1 and one piece from list 2, two
 - *[[Ichiro Nodaïra - Arabesque III|Arabesque 3]]* (alto saxophone) by Ichiro NODAÏRA (Édition Lemoine)
 - *[[Yoshihisa Taïra - Pénombres VI|Pénombre VI]]* (alto saxophone) by Yoshihisa TAÏRA (Édition Transatlantiques)
 - *[[Uroš Rojko - Godba|Godba]]* (alto saxophone) by Uros ROJKO (Édition Drustvo Slovenski; [http://www.dss.si/](http://www.dss.si/))
-- *[[François Rossé - Silence for a disturbed yell|Silence for a disturbed yell]]* (baritone saxophone) by François ROSSÉ (Édition Paquelet) ([paquelet@club-internet.fr](mailto:paquelet@club-internet.fr)).
+- *[[François Rossé - Silence for a Disturbed Yell|Silence for a disturbed yell]]* (baritone saxophone) by François ROSSÉ (Édition Paquelet) ([paquelet@club-internet.fr](mailto:paquelet@club-internet.fr)).
 
 ## Final round
 

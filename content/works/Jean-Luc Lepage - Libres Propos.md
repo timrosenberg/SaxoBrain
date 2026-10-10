@@ -9,7 +9,13 @@ instruments:
 composed: 
 year-of-study: 
 streaming: 
-purchase: []
+purchase:
+  - https://www.grothmusic.com/p-63647.aspx
 added: 2024-03-08
+research:
+  - "Publisher Combre, catalog no. C06233 · https://www.grothmusic.com/p-63647.aspx"
 aliases: []
 ---
+## Research notes (private)
+
+- Publisher Combre, catalog no. C06233 · [grothmusic.com](https://www.grothmusic.com/p-63647.aspx)

@@ -1,0 +1,17 @@
+{{- /* Map of work page path -> list pages (competition lists) that link it with [[Work File]] in their body.
+       The link is entered only on the list; piece pages read it from here. Lists sort newest first
+       (their titles start with the year). */ -}}
+{{- $idx := partialCached "page-index.html" "all" -}}
+{{- $m := dict -}}
+{{- range sort (where site.RegularPages "Section" "lists") "Title" "desc" -}}
+  {{- $list := . -}}
+  {{- range findRESubmatch `\[\[([^|\]]+)(?:\|[^\]]*)?\]\]` .RawContent -1 -}}
+    {{- with index $idx (lower (replace (replace (index . 1) "’" "'") "‘" "'")) -}}
+      {{- if eq .Section "works" -}}
+        {{- $k := .Path -}}
+        {{- $m = merge $m (dict $k (uniq ((index $m $k | default slice) | append $list))) -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $m -}}

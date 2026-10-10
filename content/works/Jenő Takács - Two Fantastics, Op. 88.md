@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 1969
-year-of-study: "Second Year"
+year-of-study: "Second-Year"
 arranger-edition: 
 publisher:
   - "Doblinger"

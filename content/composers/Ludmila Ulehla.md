@@ -1,6 +1,6 @@
 ---
-title: "Ladislav Ulehla"
-slug: ladislav-ulehla
+title: "Ludmila Ulehla"
+slug: ludmila-ulehla
 nationality: []
 gender: 
 race: []
@@ -10,5 +10,6 @@ wikidata:
 photo: 
 photo-credit: 
 photo-source: 
-aliases: []
+aliases:
+  - /composers/ladislav-ulehla/
 ---

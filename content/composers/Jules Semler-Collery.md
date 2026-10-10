@@ -1,6 +1,6 @@
 ---
-title: "Jules-Auguste Semler-Collery"
-slug: jules-auguste-semler-collery
+title: "Jules Semler-Collery"
+slug: jules-semler-collery
 nationality:
   - "🇫🇷 French"
 gender: "Male"
@@ -12,5 +12,6 @@ wikidata:
 photo: "/media/composers/jules-auguste-semler-collery.jpg"
 photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Jules_Semler-Collery_(1939).jpg"
-aliases: []
+aliases:
+  - /composers/jules-auguste-semler-collery/
 ---

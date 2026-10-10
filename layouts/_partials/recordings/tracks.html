@@ -1,5 +1,6 @@
 {{- /* Track list under a recording's YouTube playlist, from the note's `tracks:` list in playlist order:
-       "Title · 8:42 · [[Work File]]" (or "· [[Composer File]]" when the piece has no page, or no link).
+       "Title · 8:42 · [[Work File]]" (or "· [[Composer File]]" when the piece has no page, several
+       comma-separated composer links for a joint work, or no link).
        Titles and times came from YouTube 2026-10-08; links point into the catalog, which supplies the
        composer. Consecutive tracks of one work are grouped under the work's catalog title; unlinked
        tracks that share a "Work: " title prefix are grouped by that prefix. static/js/tracks.js makes
@@ -8,17 +9,20 @@
 {{ $tracks := slice }}
 {{ $total := 0 }}
 {{ range .Params.tracks }}
-  {{ $title := . }}{{ $time := "" }}{{ $link := "" }}
-  {{ with findRESubmatch `^(.*?) · (\d+(?::\d\d){1,2})(?: · \[\[([^|\]]+)(?:\|[^\]]*)?\]\])?$` . 1 }}
-    {{ $title = index (index . 0) 1 }}{{ $time = index (index . 0) 2 }}{{ $link = index (index . 0) 3 }}
+  {{ $title := . }}{{ $time := "" }}{{ $links := "" }}
+  {{ with findRESubmatch `^(.*?) · (\d+(?::\d\d){1,2})(?: · (\[\[[^\]]+\]\](?:, \[\[[^\]]+\]\])*))?$` . 1 }}
+    {{ $title = index (index . 0) 1 }}{{ $time = index (index . 0) 2 }}{{ $links = index (index . 0) 3 }}
   {{ end }}
-  {{ $work := false }}{{ $composers := slice }}
-  {{ with $link }}
-    {{ with index $idx (lower .) }}
-      {{ if eq .Section "works" }}{{ $work = . }}{{ $composers = partial "composers-of.html" . }}
-      {{ else if eq .Section "composers" }}{{ $composers = slice . }}
-      {{ else }}{{ errorf "Track link [[%s]] in %s is neither a work nor a composer." $link $.File.Path }}{{ end }}
-    {{ else }}{{ errorf "Track link [[%s]] in %s matches no page file." $link $.File.Path }}{{ end }}
+  {{ $work := false }}{{ $composers := slice }}{{ $link := "" }}
+  {{ $found := findRESubmatch `\[\[([^|\]]+)(?:\|[^\]]*)?\]\]` $links }}
+  {{ range $found }}
+    {{ $l := index . 1 }}
+    {{ with index $idx (lower $l) }}
+      {{ if and (eq .Section "works") (eq (len $found) 1) }}{{ $work = . }}{{ $link = $l }}{{ $composers = partial "composers-of.html" . }}
+      {{ else if eq .Section "composers" }}{{ $link = $link | default $l }}{{ $composers = $composers | append . }}
+      {{ else if eq .Section "works" }}{{ errorf "Track in %s links work [[%s]] next to other links; a work link stands alone." $.File.Path $l }}
+      {{ else }}{{ errorf "Track link [[%s]] in %s is neither a work nor a composer." $l $.File.Path }}{{ end }}
+    {{ else }}{{ errorf "Track link [[%s]] in %s matches no page file." $l $.File.Path }}{{ end }}
   {{ end }}
   {{ $names := slice }}{{ range $composers }}{{ $names = $names | append .Title }}{{ end }}
   {{ $s := 0 }}{{ range split $time ":" }}{{ $s = add (mul $s 60) (int (float .)) }}{{ end }}
@@ -45,6 +49,16 @@
   {{ else if $prefix }}{{ $key = printf "p:%s" (lower $prefix) }}{{ end }}
   {{ $prefixes = $prefixes | append $prefix }}{{ $keys = $keys | append $key }}
 {{ end }}
+{{- /* A prefix group's composer goes in its heading when every track in it has the same one;
+       otherwise each track keeps its own. */ -}}
+{{ $groupBy := dict }}
+{{ range $i, $t := $tracks }}
+  {{ $key := index $keys $i }}
+  {{ if hasPrefix $key "p:" }}
+    {{ if isset $groupBy $key }}{{ if ne (index $groupBy $key) $t.by }}{{ $groupBy = merge $groupBy (dict $key "(mixed)") }}{{ end }}
+    {{ else }}{{ $groupBy = merge $groupBy (dict $key $t.by) }}{{ end }}
+  {{ end }}
+{{ end }}
 {{ $h := div $total 3600 }}{{ $m := div (mod $total 3600) 60 }}{{ $sec := mod $total 60 }}
 <section class="tracks" data-tracks aria-label="Tracks">
 <p class="tracks-head"><span>{{ $n }} tracks</span><span>{{ if $h }}{{ printf "%d:%02d:%02d" $h $m $sec }}{{ else }}{{ printf "%d:%02d" $m $sec }}{{ end }}</span></p>
@@ -54,12 +68,12 @@
   {{ $key := index $keys $i }}{{ $prefix := index $prefixes $i }}
   {{ if and $key (ne $key $last) }}
     {{ if hasPrefix $key "w:" }}<li class="tgroup"><a href="{{ $t.work.RelPermalink }}">{{ partial "work-title.html" $t.work }}</a>{{ with $t.by }} <span class="by">{{ . }}</span>{{ end }}</li>
-    {{ else }}<li class="tgroup">{{ strings.TrimRight " :" $prefix }}</li>{{ end }}
+    {{ else }}{{ $gby := index $groupBy $key }}<li class="tgroup">{{ strings.TrimRight " :" $prefix }}{{ if and $gby (ne $gby "(mixed)") }} <span class="by">{{ $gby }}</span>{{ end }}</li>{{ end }}
   {{ end }}
   {{ $last = $key }}
   {{ $label := cond (ne $prefix "") (strings.TrimLeft " :" (strings.TrimPrefix $prefix $t.title)) $t.title }}
   {{ $end := and $key (lt (add $i 1) $n) (eq (index $keys (add $i 1)) "") }}
-  <li{{ if $key }} class="in{{ if $end }} end{{ end }}"{{ end }}><button type="button" class="track" data-i="{{ $i }}"><span class="tn">{{ add $i 1 }}</span><span class="tt">{{ $label }}{{ if and (not $key) $t.by }}<span class="by">{{ $t.by }}</span>{{ end }}</span><span class="td">{{ $t.time }}</span></button></li>
+  <li{{ if $key }} class="in{{ if $end }} end{{ end }}"{{ end }}><button type="button" class="track" data-i="{{ $i }}"><span class="tn">{{ add $i 1 }}</span><span class="tt">{{ $label }}{{ if and $t.by (or (not $key) (eq (index $groupBy $key | default "") "(mixed)")) }}<span class="by">{{ $t.by }}</span>{{ end }}</span><span class="td">{{ $t.time }}</span></button></li>
 {{ end }}
 </ol>
 </section>

@@ -10,5 +10,6 @@ wikidata: Q1973881
 photo: 
 photo-credit: 
 photo-source: 
+website: https://www.nedmcgowan.com
 aliases: []
 ---

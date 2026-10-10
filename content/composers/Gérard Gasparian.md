@@ -1,6 +1,6 @@
 ---
-title: "Karen Gasparian"
-slug: karen-gasparian
+title: "Gérard Gasparian"
+slug: gerard-gasparian
 nationality: []
 gender: 
 race: []
@@ -10,5 +10,6 @@ wikidata:
 photo: 
 photo-credit: 
 photo-source: 
-aliases: []
+aliases:
+  - /composers/karen-gasparian/
 ---

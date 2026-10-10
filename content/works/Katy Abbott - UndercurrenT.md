@@ -1,16 +1,16 @@
 ---
-title: "UndercurrenT"
+title: UndercurrenT
 slug: katy-abbott-undercurrent
 composer:
   - "[[Katy Abbott]]"
 instruments:
-  - "Soprano Saxophone"
-  - "Piano"
-composed: 
-year-of-study: "Third Year"
-streaming: "https://soundcloud.com/katy-abbott/undercurrent-excerpt"
+  - Soprano Saxophone
+  - Piano
+composed: 2017
+year-of-study: Third Year
+streaming: https://soundcloud.com/katy-abbott/undercurrent-excerpt
 purchase:
-  - "https://www.reedmusic.com/16817/saxophone/saxophone-soprano/saxophone-soprano-piano/undercurrent/"
+  - https://www.reedmusic.com/16817/saxophone/saxophone-soprano/saxophone-soprano-piano/undercurrent/
 added: 2024-02-21
 aliases: []
 ---

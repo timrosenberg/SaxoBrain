@@ -1,6 +1,6 @@
 ---
-title: "Maria Theresia Paradies"
-slug: maria-theresia-paradies
+title: "Maria Theresia Paradis"
+slug: maria-theresia-paradis
 nationality:
   - "🇦🇹 Austrian"
 gender: "Female"
@@ -12,5 +12,6 @@ wikidata: Q293171
 photo: "/media/composers/maria-theresia-paradies.jpg"
 photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Maria_Theresia_Paradis_Wachsstatue.jpg"
-aliases: []
+aliases:
+  - /composers/maria-theresia-paradies/
 ---

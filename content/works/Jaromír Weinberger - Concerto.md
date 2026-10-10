@@ -6,12 +6,16 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Orchestra"
-composed: 
+composed: 1940
 year-of-study: 
 streaming: 
 purchase:
+  - https://www.ficksmusic.com/products/weinberger-alto-saxophone-concerto-revised-southern
   - "https://www.halleonard.com/product/298123/alto-saxophone-concerto-revised"
 added: 2025-04-16
+research:
+  - "Commissioned by saxophonist Cecil Leeson; completed in piano score in 1940, premiere delayed by World War II to 1946 · https://keiserproductions.com/?p=3118"
+  - "Revised edition by Tristan Willems incorporates post-premiere revisions; Southern Music, solo and piano reduction · https://keiserproductions.com/?p=3118"
 aliases: []
 ---
 
@@ -20,3 +24,8 @@ aliases: []
 > 
 > Due to the outbreak of World War II, the premiere would not happen until 1946, six years after the completion of the concerto in piano score. The work was revised following the premiere and it is only now that those revisions have been incorporated into the solo saxophone and piano reduction with this performance edition by Weinberger scholar, publisher and saxophonist Tristan Willems.
 >
+
+## Research notes (private)
+
+- Commissioned by saxophonist Cecil Leeson; completed in piano score in 1940, premiere delayed by World War II to 1946 · [keiserproductions.com](https://keiserproductions.com/?p=3118)
+- Revised edition by Tristan Willems incorporates post-premiere revisions; Southern Music, solo and piano reduction · [keiserproductions.com](https://keiserproductions.com/?p=3118)

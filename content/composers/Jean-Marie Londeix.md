@@ -1,6 +1,6 @@
 ---
-title: "Jean-Marie Londiex"
-slug: jean-marie-londiex
+title: "Jean-Marie Londeix"
+slug: jean-marie-londeix
 nationality:
   - "🇫🇷 French"
 gender: "Male"
@@ -12,5 +12,6 @@ wikidata: Q955919
 photo: 
 photo-credit: 
 photo-source: 
-aliases: []
+aliases:
+  - /composers/jean-marie-londiex/
 ---

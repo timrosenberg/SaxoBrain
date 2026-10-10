@@ -4,11 +4,12 @@ slug: denis-levaillant
 nationality:
 gender:
 race:
-born: 
+born: 1952
 died: 
-wikidata: 
+wikidata: Q941992
 photo: 
 photo-credit: 
 photo-source: 
+website: https://www.denislevaillant.net/
 aliases: []
 ---

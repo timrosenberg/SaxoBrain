@@ -1,6 +1,6 @@
 ---
-title: "Labryinth Of Daedals"
-slug: robert-waring-labryinth-of-daedals
+title: "Labyrinth Of Daedals"
+slug: robert-waring-labyrinth-of-daedals
 composer:
   - "[[Robert Waring]]"
 instruments:
@@ -10,5 +10,6 @@ year-of-study:
 streaming: 
 purchase: []
 added: 2025-04-18
-aliases: []
+aliases:
+  - /works/robert-waring-labryinth-of-daedals/
 ---

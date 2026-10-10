@@ -9,7 +9,13 @@ instruments:
 composed: 
 year-of-study: 
 streaming: 
-purchase: []
+purchase:
+  - https://www.grothmusic.com/p-142905.aspx
 added: 2024-03-08
+research:
+  - "Publisher Durand, catalog no. RR0054600 · https://www.grothmusic.com/p-142905.aspx"
 aliases: []
 ---
+## Research notes (private)
+
+- Publisher Durand, catalog no. RR0054600 · [grothmusic.com](https://www.grothmusic.com/p-142905.aspx)

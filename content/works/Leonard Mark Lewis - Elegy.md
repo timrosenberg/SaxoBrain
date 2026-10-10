@@ -10,7 +10,7 @@ composed:
 year-of-study: 
 streaming: 
 purchase:
-  - "https://www.leonardmarklewis.com/elegy"
+  - https://www.leonardmarklewis.com/elegy
 added: 2025-04-16
 aliases: []
 ---

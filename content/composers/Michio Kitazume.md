@@ -9,8 +9,8 @@ race:
 born: 1948
 died: 
 wikidata: Q11403802
-photo: 
-photo-credit: 
-photo-source: 
+photo: "/media/composers/michio-kitazume.jpg"
+photo-credit: "Zen-On"
+photo-source: "https://www.zen-on.co.jp/files_thumbnail/co/composer/kitazume.jpg/500.jpg"
 aliases: []
 ---

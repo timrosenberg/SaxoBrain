@@ -8,7 +8,7 @@ works:
   - "[[Maurice Ravel - Piece en Forme de Habanera]]"
   - "[[Charles Rochester Young - Sonata]]"
   - "[[Hector Villa-Lobos - Fantasia]]"
-  - "[[Wolfgang Amadeus Mozart - Concerto K. 314]]"
+  - "[[Wolfgang Amadeus Mozart - Concerto for Oboe in C Major, KV314]]"
 year-released: "1991"
 out-of-print: true
 cover: "/media/recordings/classical-bouquet/image.jpeg"

@@ -1,8 +1,8 @@
 ---
 title: "Exercices d’intonation"
-slug: jean-marie-londiex-exercices-d-intonation
+slug: jean-marie-londeix-exercices-d-intonation
 composer:
-  - "[[Jean-Marie Londiex]]"
+  - "[[Jean-Marie Londeix]]"
 instruments:
   - "Soprano Saxophone"
   - "Alto Saxophone"
@@ -16,5 +16,6 @@ streaming:
 purchase:
   - "https://www.di-arezzo.com/music/1026995/jean-marie-londeix-intonation-exercises-studies-of-all-saxophones-sheet-music.html"
 added: 2022-03-28
-aliases: []
+aliases:
+  - /works/jean-marie-londiex-exercices-d-intonation/
 ---

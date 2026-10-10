@@ -12,5 +12,6 @@ wikidata:
 photo: 
 photo-credit: 
 photo-source: 
+website: https://aksocolofsky.com/
 aliases: []
 ---

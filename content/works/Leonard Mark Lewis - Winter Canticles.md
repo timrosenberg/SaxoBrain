@@ -10,7 +10,7 @@ composed:
 year-of-study: 
 streaming: 
 purchase:
-  - "https://www.leonardmarklewis.com/winter-canticles"
+  - https://www.leonardmarklewis.com/winter-canticles
 added: 2025-04-16
 aliases: []
 ---

@@ -17,7 +17,7 @@ aliases:
 ## Études
 
 - [[J. L. Small - 27 Melodious and Rhythmical Exercises]]
-- [[Jean-Marie Londiex - Exercices d’intonation]]
+- [[Jean-Marie Londeix - Exercices d’intonation]]
 
 ## Solo Repertoire
 

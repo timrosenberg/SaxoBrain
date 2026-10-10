@@ -1,8 +1,8 @@
 ---
 title: "Klonos"
-slug: piet-swertz-klonos
+slug: piet-swerts-klonos
 composer:
-  - "[[Piet Swertz]]"
+  - "[[Piet Swerts]]"
 instruments:
   - "Alto Saxophone"
   - "Piano"
@@ -13,5 +13,6 @@ purchase:
   - "https://www.grothmusic.com/p-33950-klonos-2007-revised-ed-alto-sax-and-piano.aspx"
 want-to-play: true
 added: 2019-08-28
-aliases: []
+aliases:
+  - /works/piet-swertz-klonos/
 ---

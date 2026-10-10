@@ -1,6 +1,6 @@
 ---
-title: "Piet Swertz"
-slug: piet-swertz
+title: "Piet Swerts"
+slug: piet-swerts
 nationality:
   - "🇧🇪 Belgian"
 gender: "Male"
@@ -12,5 +12,6 @@ wikidata:
 photo: 
 photo-credit: 
 photo-source: 
-aliases: []
+aliases:
+  - /composers/piet-swertz/
 ---

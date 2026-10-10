@@ -1,0 +1,2728 @@
+{
+ "composer_dates": [
+  {
+   "composer": "Nazaire Beeckman",
+   "text": "born 1822, died 1900",
+   "wikidata": "Q110222907",
+   "source": "https://imslp.org/wiki/Category:Beeckman,_Nazaire"
+  },
+  {
+   "composer": "James DeMars",
+   "text": "born 1952",
+   "wikidata": "Q112473341",
+   "source": "https://keep.lib.asu.edu/items/194911"
+  },
+  {
+   "composer": "Jean Lemaire",
+   "text": "born 1927, died 1998",
+   "wikidata": "Q133704622",
+   "source": "https://ci.nii.ac.jp/ncid/BA89731101"
+  },
+  {
+   "composer": "Hye Kyung Lee",
+   "text": "born 1959",
+   "wikidata": "Q15838492",
+   "source": "https://www.prestoclassical.co.uk/classical/works/231453--lee-hyekyung-concertino-for-soprano-saxophone-and-wind-ensemble/browse"
+  },
+  {
+   "composer": "Karalyn Schubring",
+   "text": "born 1999",
+   "wikidata": "Q136172690",
+   "source": "https://www.uttyler.edu/archive/performing-arts/4-20-2026-joel-carnero-figueroa-recital.pdf"
+  },
+  {
+   "composer": "Carl Anton Wirth",
+   "text": "born 1912, died 1986",
+   "wikidata": "",
+   "source": "https://www.homepages.ucl.ac.uk/~uctyjlz/SaxOnline/Wirth.htm"
+  },
+  {
+   "composer": "John C. Worley",
+   "text": "born 1919, died 1999",
+   "wikidata": "",
+   "source": "https://en.wikipedia.org/wiki/John_Worley"
+  },
+  {
+   "composer": "Gregory Yasinitsky",
+   "text": "born 1953",
+   "wikidata": "",
+   "source": "https://schott-music.com/en/person/greg-yasinitsky"
+  },
+  {
+   "composer": "Anthony R. Green",
+   "text": "born 1984",
+   "wikidata": "",
+   "source": "https://www.louisvilleorchestra.org/anthony-r-green"
+  },
+  {
+   "composer": "Christophe Havel",
+   "text": "born 1956",
+   "wikidata": "",
+   "source": "https://joanmf.com/oxyton-christophe-havel/"
+  },
+  {
+   "composer": "William Karlins",
+   "text": "born 1932, died 2005",
+   "wikidata": "",
+   "source": "https://www.hebu-music.com/en/musician/m-william-karlins.27477"
+  },
+  {
+   "composer": "Philippe Geiss",
+   "text": "born 1961",
+   "wikidata": "",
+   "source": "https://www.stretta-music.nl/geiss-sax-hero-nr-1882253.html"
+  },
+  {
+   "composer": "Steven Banks",
+   "text": "born 1993",
+   "wikidata": "",
+   "source": "https://www.orsymphony.org/artist/steven-banks"
+  },
+  {
+   "composer": "David Heinick",
+   "text": "born 1954",
+   "wikidata": "",
+   "source": "https://kendormusic.com/product-category/composers/david-heinick"
+  },
+  {
+   "composer": "Victor Morosco",
+   "text": "born 1936 (one source only)",
+   "wikidata": "",
+   "source": "https://digital.lib.washington.edu/researchworks/bitstreams/26bc9b80-fa93-43d0-a59c-b7df6eb91400/download"
+  },
+  {
+   "composer": "Michael Cunningham",
+   "text": "born 1937, died 2022 (likely the same person: Michael G. Cunningham, whose Trigon is published by MMB)",
+   "wikidata": "",
+   "source": "https://www.navonarecords.com/artists/michael-g-cunningham/"
+  }
+ ],
+ "composer_renames": [
+  {
+   "old": "Piet Swertz",
+   "new": "Piet Swerts",
+   "text": "born 1960. The composer of Klonos and Hat City Sonata is Piet Swerts (Belgian, b. 1960). Renaming changes the composer page address.",
+   "source": "https://queenelisabethcompetition.be/en/laureates/piet-swerts/196"
+  },
+  {
+   "old": "Raymond Ricker",
+   "new": "Ramon Ricker",
+   "text": "born 1943. The Jazz Sonata is by Ramon Ricker of the Eastman School.",
+   "source": "https://www.boosey.com/shop/prod/Ricker-Ramon-Jazz-Sonata-saxophone-A-Bar-piano/2142774"
+  },
+  {
+   "old": "Henri Eccles",
+   "new": "Henry Eccles",
+   "text": "English violinist and composer; dates uncertain (Wikipedia gives 1670 to 1742, Grove gives born 1675 to 1685), so no dates proposed.",
+   "source": "https://en.wikipedia.org/wiki/Henry_Eccles"
+  }
+ ],
+ "purchase": [
+  {
+   "work": "Alexander Glazunov - Concerto",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-33855.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/Glazunov-Saxophone-Concerto-flat-Major/dp/B007OLD66I/ref=asc_df_B007OLD66I/?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Alexander Glazunov - Concerto",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-147219.aspx",
+   "label": "",
+   "note": "Groth sells two alto and piano editions; pick one",
+   "replaces": [
+    "https://www.amazon.com/Glazunov-Saxophone-Concerto-flat-Major/dp/B007OLD66I/ref=asc_df_B007OLD66I/?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Amy Beach - Romance",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-139745.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/Romance-Alto-Saxophone-Piano-Beach/dp/B00DXL30VY"
+   ]
+  },
+  {
+   "work": "André Caplet - Légende",
+   "kind": "replace-dead",
+   "url": "https://www.grothmusic.com/p-37596.aspx",
+   "label": "",
+   "note": "alto and piano reduction",
+   "replaces": [
+    "http://www.resolutemusicpublications.com/index.php?route=product/product&path=20_77_78&product_id=78"
+   ]
+  },
+  {
+   "work": "André Caplet - Légende",
+   "kind": "replace-dead",
+   "url": "https://www.grothmusic.com/p-154611.aspx",
+   "label": "",
+   "note": "second alto and piano edition",
+   "replaces": [
+    "http://www.resolutemusicpublications.com/index.php?route=product/product&path=20_77_78&product_id=78"
+   ]
+  },
+  {
+   "work": "André Jolivet - Fantasie—Impromptu",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-37916.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/Jolivet-Fantaisie-Impromptu-Andre/dp/B00006M2SR?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Augusta Reed Thomas - Chant",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-38320.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "Bernhard Heiden - Diversion",
+   "kind": "replace-dead",
+   "url": "https://www.grothmusic.com/p-33815.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/Lauren-Keiser-Music-Publishing-Diversion/dp/B0026DMS0E?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Bernhard Heiden - Sonata",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-33777.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/Sonata-Saxophone-Piano-Bernhard-Heiden/dp/1495016560/ref=sr_1_1?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Camille Saint-Saens - The Swan",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-141393.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "Charles Koechlin - Études for Saxophone and Piano",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-37925.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/Koechlin-Études-Charles/dp/B007NWPLFM/ref=sr_1_1?crid=BIY73DLLF9OI&keywords=koechlin+etudes&qid=1566857388&s=gateway&sprefix=koech%2Caps%2C141&sr=8-1"
+   ]
+  },
+  {
+   "work": "Charles Koechlin - Études for Saxophone and Piano",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-143807.aspx",
+   "label": "",
+   "note": "second edition of Op. 188",
+   "replaces": [
+    "https://www.amazon.com/Koechlin-Études-Charles/dp/B007NWPLFM/ref=sr_1_1?crid=BIY73DLLF9OI&keywords=koechlin+etudes&qid=1566857388&s=gateway&sprefix=koech%2Caps%2C141&sr=8-1"
+   ]
+  },
+  {
+   "work": "Charlie Parker - Charlie Parker Omnibook",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-13315.aspx",
+   "label": "E♭ edition (alto, baritone)",
+   "note": "",
+   "replaces": [
+    "B♭ edition (soprano, tenor) · https://www.amazon.com/Charlie-Parker-Omnibook-B-Flat-Instruments/dp/1540037312/ref=asc_df_1540037312/?tag=timothyrosenb-20",
+    "E♭ edition (alto, baritone) · https://www.amazon.com/Charlie-Parker-Omnibook-flat-Instruments/dp/0769260543?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Charlie Parker - Charlie Parker Omnibook",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-73436.aspx",
+   "label": "B♭ edition (soprano, tenor)",
+   "note": "",
+   "replaces": [
+    "B♭ edition (soprano, tenor) · https://www.amazon.com/Charlie-Parker-Omnibook-B-Flat-Instruments/dp/1540037312/ref=asc_df_1540037312/?tag=timothyrosenb-20",
+    "E♭ edition (alto, baritone) · https://www.amazon.com/Charlie-Parker-Omnibook-flat-Instruments/dp/0769260543?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Chen Yi - Monologue (Impressions on The True Story of Ah Q)",
+   "kind": "replace-dead",
+   "url": "https://www.grothmusic.com/p-24614.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.meridianwinds.com/shop/c/p/Chen-Yi-Monologue-Impressions-on-The-True-Story-of-Ah-Q-for-Unaccompanied-Saxophone-x40165353.htm"
+   ]
+  },
+  {
+   "work": "Chen Yi - The Soulful and the Perpetual",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-20398.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "Christian Lauba - Étude No. 10 Hard too Hard",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-40344.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "Christian Lauba - Étude No. 12 Xyl (Balafon 2)",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-147588.aspx",
+   "label": "",
+   "note": "with CD",
+   "replaces": []
+  },
+  {
+   "work": "Christian Lauba - Étude No. 15 Worksong",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-40350.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "Christian Lauba - Étude No. 16 Kabuki",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-40351.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "Christian Lauba - Étude No. 18 Arak",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-40352.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "Christian Lauba - Étude No. 21 Bumble Beebop",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-40358.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "Christian Lauba - Étude No. 25 Salsa",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-154609.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "Claude Delvincourt - Croquembouches",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-37659.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/Croquembouches-Pieces-Alto-Saxophone-Piano/dp/B000ZGBVHK?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Claude Pascal - Sonatine",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-148903.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/Sonatine-Saxophone-Piano-Claude-Pascal/dp/B077L6DZV3?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Dana Wilson - Luminescence",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-149037.aspx",
+   "label": "",
+   "note": "flute, soprano sax or clarinet edition",
+   "replaces": []
+  },
+  {
+   "work": "Dana Wilson - We Sing to Each Other",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-141634.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "David Amram - Ode to Lord Buckley",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-37491.aspx",
+   "label": "",
+   "note": "alto and piano reduction",
+   "replaces": []
+  },
+  {
+   "work": "David Baker - The Jazz Style of John Coltrane",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-145834.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "Ellen Taaffe Zwilich - Episodes",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-37476.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "Eugène Bozza - Aria",
+   "kind": "replace-dead",
+   "url": "https://www.grothmusic.com/p-154471.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.sheetmusicplus.com/title/aria-sheet-music/20744570?aff_id=426309&utm_medium=plg1"
+   ]
+  },
+  {
+   "work": "Eugène Bozza - Aria",
+   "kind": "replace-dead",
+   "url": "https://www.grothmusic.com/p-148226.aspx",
+   "label": "",
+   "note": "edition with audio access",
+   "replaces": [
+    "https://www.sheetmusicplus.com/title/aria-sheet-music/20744570?aff_id=426309&utm_medium=plg1"
+   ]
+  },
+  {
+   "work": "Eugène Bozza - Divertissement",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-37557.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "Eugène Bozza - Fantaisie Pastorale, Op. 37",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-37400.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/Fantaisie-Pastorale-Soprano-Saxophone-Piano/dp/B002DBUJUU"
+   ]
+  },
+  {
+   "work": "Eugène Bozza - Improvisation et Caprice",
+   "kind": "replace-dead",
+   "url": "https://www.grothmusic.com/p-33848.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/Bozza-Improvisation-Caprice-Saxophone-Seul/dp/B01J4AC0IQ?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Eugène Bozza - Pièce brève",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-38408.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/Piece-Breve-for-Solo-Saxophone/dp/B002DBQKQ2?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Fernande Decruck - Chant lyrique, Op. 69",
+   "kind": "replace-dead",
+   "url": "https://www.grothmusic.com/p-100359.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.sheetmusicplus.com/en/product/chant-lyrique-22538471.html"
+   ]
+  },
+  {
+   "work": "Fernande Decruck - Sonata in C sharp minor",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-33812.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/Decruck-Sonata-C-sharp-Minor-Saxophone/dp/B007NWPT0O?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Fisher Tull - Dialogue",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-36164.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "Fisher Tull - Threnody",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-38487.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "Franz Wilhelm Ferling - 48 Famous Studies",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-34026.aspx",
+   "label": "",
+   "note": "oboe edition, listed for saxophone; not the Schmidt edition",
+   "replaces": [
+    "https://www.amazon.com/48-Studies-Alto-Saxophone-Op/dp/0825873010/ref=pd_lpo_sbs_14_t_2?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "George Frideric Handel - Largo",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-147593.aspx",
+   "label": "",
+   "note": "arranger not named on Groth; may not be the Mule edition",
+   "replaces": []
+  },
+  {
+   "work": "Giovanni Benedetto Platti - Sonata in G Major",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-33988.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/Sonata-G-Major-Soprano-Tenor-Saxophone/dp/B002690CN8?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Gregory Yasinitsky - Sixth Sense",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-141698.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/Sixth-Sense-Alto-Saxophone-Piano/dp/B00361YVZA?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Gustavo Rossari - 53 Melodious Etudes",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-36148.aspx",
+   "label": "Book 1",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/53-Melodious-Etudes-Book-Saxophone/dp/1581061633?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Gustavo Rossari - 53 Melodious Etudes",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-40412.aspx",
+   "label": "Book 2",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/53-Melodious-Etudes-Book-Saxophone/dp/1581061633?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Guy Lacour - Piece Concertante",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-37930.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "Guy Lacour - Étude de Concert",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-63883.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "Hector Villa-Lobos - Fantasia",
+   "kind": "replace-dead",
+   "url": "https://www.grothmusic.com/p-33816.aspx",
+   "label": "E♭ version",
+   "note": "",
+   "replaces": [
+    "https://www.sheetmusicplus.com/title/fantasia-for-saxophone-sheet-music/19554993?aff_id=426309&utm_medium=plg1"
+   ]
+  },
+  {
+   "work": "Hector Villa-Lobos - Fantasia",
+   "kind": "replace-dead",
+   "url": "https://www.grothmusic.com/p-67026.aspx",
+   "label": "original version in F",
+   "note": "",
+   "replaces": [
+    "https://www.sheetmusicplus.com/title/fantasia-for-saxophone-sheet-music/19554993?aff_id=426309&utm_medium=plg1"
+   ]
+  },
+  {
+   "work": "Henri Eccles - Sonata",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-33831.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/Saxophone-Arranged-Rascher-Softcover-Notation/dp/B00HL2AZGE/ref=sr_1_1?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Henri Sauguet - Sonatine Bucolique",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-63635.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "Henri Tomasi - Evocations",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-139701.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "Herbert Couf - Introduction, Dance, and Furioso",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-38449.aspx",
+   "label": "",
+   "note": "Groth lists it as unaccompanied; SaxoBrain says alto and piano",
+   "replaces": [
+    "https://www.amazon.com/Alfred-Introduction-Dance-Furioso-Alto/dp/B001OTJWN2/ref=sr_1_1?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Himie Voxman - Selected Studies",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-13848.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/Selected-Studies-Saxophone-Educational-Library/dp/1423445279/ref=sr_1_1?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Hyacinthe Klosé - Daily Exercises for Saxophone",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-34013.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/O1718-25-Daily-Exercises-Saxophone/dp/0825811511/ref=pd_bxgy_3/144-3768222-2518710?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Hyacinthe Klosé - Daily Exercises for Saxophone",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-139805.aspx",
+   "label": "",
+   "note": "second edition",
+   "replaces": [
+    "https://www.amazon.com/O1718-25-Daily-Exercises-Saxophone/dp/0825811511/ref=pd_bxgy_3/144-3768222-2518710?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Ida Gotkovsky - Brillance",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-33854.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/Gen-4906-Brillance-Alto-Saxophone-Piano/dp/B0025BT1F2/ref=sr_1_1?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Ida Gotkovsky - Variations Pathétiques",
+   "kind": "replace-dead",
+   "url": "https://www.grothmusic.com/p-37752.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.sheetmusicplus.com/title/variations-pathetiques-sheet-music/2189401?aff_id=426309&utm_medium=plg1"
+   ]
+  },
+  {
+   "work": "J. L. Small - 27 Melodious and Rhythmical Exercises",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-34123.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/O1835-Melodious-Rhythmical-Exercises-Saxophone/dp/0825823382/ref=sr_1_fkmr1_2?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Jacques Ibert - Aria",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-33813.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/Ibert-Aria-arr-alto-sax/dp/B074126BFT/ref=sr_1_1?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Jacques Ibert - Histoires",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-37787.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/Ibert-Histoires-arr-saxophone-Jacques/dp/B000ZG6YK4/ref=sr_1_5?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Jaques Castérède - Pastorale",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-146475.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/CASTEREDE-Pastorale-para-Saxofon-Piano/dp/B007NWONLK"
+   ]
+  },
+  {
+   "work": "Javier Arau - Vertical Circles",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-142229.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/Vertical-Circles-Saxophone-Javier-Arau/dp/B00L4E7HBQ"
+   ]
+  },
+  {
+   "work": "Jean Absil - Sicilienne",
+   "kind": "replace-dead",
+   "url": "https://www.grothmusic.com/p-140939.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.sheetmusicplus.com/en/product/sicilienne-19259125.html"
+   ]
+  },
+  {
+   "work": "Jean Avignon - Spiritual et Danse Exotique",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-143850.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/SPIRITUAL-DANSE-EXOTIQUE-SAXOPHONE-PIANO/dp/B003JYOJFQ"
+   ]
+  },
+  {
+   "work": "Jean Françaix - Cinq Danses exotiques",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-35209.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/DANSES-EXOTIQUES-SAXOPHONE-EXOTIC-1963-09-01/dp/B01A0CB9NO/ref=sr_1_2?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Jindřich Feld - American Concertino",
+   "kind": "replace-dead",
+   "url": "https://www.grothmusic.com/p-37416.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.sheetmusicplus.com/en/product/american-concertino-2210577.html"
+   ]
+  },
+  {
+   "work": "Jindřich Feld - Tre Pezzi",
+   "kind": "replace-dead",
+   "url": "https://www.grothmusic.com/p-147479.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.sheetmusicplus.com/en/product/tre-pezzi-19274490.html"
+   ]
+  },
+  {
+   "work": "Johann Sebastian Bach - Bach for the Saxophone",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-33872.aspx",
+   "label": "",
+   "note": "check that this is the Caravan edition",
+   "replaces": [
+    "https://www.amazon.com/Bach-Solo-Saxophone-J-S/dp/B002D3LHOA/ref=sr_1_fkmr1_2?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Johann Sebastian Bach - Sinfonia BWV 156",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-140310.aspx",
+   "label": "",
+   "note": "arranger not named on Groth",
+   "replaces": []
+  },
+  {
+   "work": "John Anthony Lennon - Aeterna",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-139719.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "John Anthony Lennon - Symphonic Rhapsody",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-37949.aspx",
+   "label": "",
+   "note": "alto and piano reduction",
+   "replaces": []
+  },
+  {
+   "work": "John C. Worley - September Sonata",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-139726.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "John Harbison - San Antonio",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-34468.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/San-Antonio-Sonata-Saxophone-Piano/dp/0793540283?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "John Mackey - Concerto for Soprano Saxophone",
+   "kind": "replace-dead",
+   "url": "https://www.grothmusic.com/p-37437.aspx",
+   "label": "",
+   "note": "soprano and piano reduction",
+   "replaces": [
+    "http://www.ostimusic.com/SaxConcerto.php"
+   ]
+  },
+  {
+   "work": "John Williams - Escapades",
+   "kind": "replace-dead",
+   "url": "https://www.grothmusic.com/p-34307.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/Escapades-Catch-Williams-Saxophone-Reduction/dp/B00396ISHY?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Karel Husa - Postcard From Home",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-35754.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/Karel-Husa-Postcard-Home-Woodwind/dp/0634000276/ref=sr_1_1?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Larry Teal - Art of Saxophone Playing",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-34168.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/Art-Saxophone-Playing-Larry-Teal/dp/0874870577/ref=sr_1_1?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Lawson Lunde - Sonata",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-33850.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/Sonata-Alto-Sax-Lawson-Lunde/dp/1581061781/ref=sr_1_1?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Lennie Niehaus - Advanced Jazz Conception for Saxophone",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-40405.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "Lennie Niehaus - Basic Jazz Conception for Saxophone, Vol. 1",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-40402.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/Basic-Jazz-Conception-Saxophone-Vol/dp/1934638005/ref=sr_1_1?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Lennie Niehaus - Basic Jazz Conception for Saxophone, Vol. 2",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-40403.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/Basic-Jazz-Conception-Saxophone-Vol/dp/1934638013/ref=sr_1_2?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Lennie Niehaus - Intermediate Jazz Conception for Saxophone",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-40404.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "Leslie Bassett - Music for Alto Saxophone and Piano",
+   "kind": "replace-dead",
+   "url": "https://www.grothmusic.com/p-37519.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.sheetmusicplus.com/title/music-for-saxophone-and-piano-sheet-music/1038520?aff_id=426309&utm_medium=plg1"
+   ]
+  },
+  {
+   "work": "Libby Larsen - Holy Roller",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-37935.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "Léon Chic - Solo sur la Tyrolienne",
+   "kind": "replace-dead",
+   "url": "https://www.grothmusic.com/p-37617.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.sheetmusicplus.com/title/solo-sur-la-tyrolienne-sheet-music/19725935?aff_id=426309&utm_medium=plg1"
+   ]
+  },
+  {
+   "work": "Marcel Bítsch - Aubade",
+   "kind": "replace-dead",
+   "url": "https://www.grothmusic.com/p-143600.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.halleonard.com/product/48183493/aubade-saxophone-alto-piano"
+   ]
+  },
+  {
+   "work": "Marilyn Shrude - Renewing the Myth",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-38095.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "Mary Jeanne van Appledorn - Liquid Gold",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-146115.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "Mary Jeanne van Appledorn - Matrices",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-146117.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "Maurice Ravel - Pavane pour une Infante Defunte",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-141047.aspx",
+   "label": "",
+   "note": "arranger not named on Groth; may not be the Martino edition",
+   "replaces": [
+    "https://www.amazon.com/Infante-Defunte-Saxophone-Maurice-Ravel/dp/B00HP5P9RC?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Maurice Ravel - Piece en Forme de Habanera",
+   "kind": "replace-dead",
+   "url": "https://www.grothmusic.com/p-38055.aspx",
+   "label": "Alto edition",
+   "note": "",
+   "replaces": [
+    "B♭ edition (soprano) · https://www.sheetmusicplus.com/title/piece-en-forme-de-habanera-sheet-music/18573636?aff_id=426309&utm_medium=plg1"
+   ]
+  },
+  {
+   "work": "Maurice Ravel - Piece en Forme de Habanera",
+   "kind": "replace-dead",
+   "url": "https://www.grothmusic.com/p-145941.aspx",
+   "label": "Soprano (or tenor) edition",
+   "note": "",
+   "replaces": [
+    "B♭ edition (soprano) · https://www.sheetmusicplus.com/title/piece-en-forme-de-habanera-sheet-music/18573636?aff_id=426309&utm_medium=plg1"
+   ]
+  },
+  {
+   "work": "Maurice Whitney - Rumba",
+   "kind": "replace-dead",
+   "url": "https://www.grothmusic.com/p-33958.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.sheetmusicplus.com/title/rumba-sheet-music/4338631?aff_id=426309&utm_medium=plg1"
+   ]
+  },
+  {
+   "work": "Paquito D'Rivera - Contradanza",
+   "kind": "replace-dead",
+   "url": "https://www.grothmusic.com/p-142067.aspx",
+   "label": "",
+   "note": "sold with Vals Venezolano",
+   "replaces": [
+    "https://www.grothmusic.com/p-34896-vals-venezolano-and-contradanza-clarinet-and-piano.aspx"
+   ]
+  },
+  {
+   "work": "Paquito D'Rivera - Vals Venezolano",
+   "kind": "replace-dead",
+   "url": "https://www.grothmusic.com/p-142067.aspx",
+   "label": "",
+   "note": "sold with Contradanza",
+   "replaces": [
+    "https://www.grothmusic.com/p-34896-vals-venezolano-and-contradanza-clarinet-and-piano.aspx"
+   ]
+  },
+  {
+   "work": "Paul Bonneau - Suite",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-152297.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/Bonneau-Suite-Alto-Saxophone-Paul/dp/B00006M2RB?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Paul Hindemith - Sonata",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-33824.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/Sonata-Alto-Horn-Mellophone-Piano/dp/3795795184/ref=sr_1_2?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Paul-Agricole Génin - Variations sur un Theme Espagnol",
+   "kind": "replace-dead",
+   "url": "https://www.grothmusic.com/p-37737.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.sheetmusicplus.com/title/variations-sur-un-theme-espagnol-digital-sheet-music/21310622?aff_id=426309&utm_medium=plg1"
+   ]
+  },
+  {
+   "work": "Paule Maurice - Volio",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-37976.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "Pedro Iturralde - Pequeña Czarda",
+   "kind": "replace-dead",
+   "url": "https://www.grothmusic.com/p-59758.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.sheetmusicplus.com/title/pequea-czarda-digital-sheet-music/21310619?aff_id=426309&utm_medium=plg1"
+   ]
+  },
+  {
+   "work": "Phil Woods - Sonata",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-38367.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/Sonata-Alto-Saxophone-Piano/dp/0206306962/ref=sr_1_1?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Philippe Leroux - SPP",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-37434.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "Pierre Lantier - Sicilienne",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-33877.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/Lantier-Sicilienne-Pierre/dp/B00006M2R7/ref=sr_1_1?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Pierre-Max DuBois - Concertstück",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-37685.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/Concertstuck-DUBOIS/dp/B000ZG72S2?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Pierre-Max DuBois - Divertissement",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-37687.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/Dubois-Divertissement-Pierre-Max/dp/B000ZG71Y2/ref=sr_1_1?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Pierre-Max DuBois - Respirations",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-142906.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/Respirations-Saxophone-Piano-Pierre-Dubois/dp/B00E4OMPH4?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Robert Bariller - Rapsodie Bretonne",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-37515.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "Robert Clérisse - Sérénade Variée",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-37620.aspx",
+   "label": "E♭ edition (alto, baritone)",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "Robert Clérisse - Sérénade Variée",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-146458.aspx",
+   "label": "B♭ edition (soprano, tenor)",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "Roger Boutry - Divertimento",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-156069.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/Divertimento-Saxophone-Piano-Roger-Boutry/dp/B002CEQQ0U/ref=sr_1_1?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Ronald Caravan - Improvisation (Tenor)",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-38763.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "Ronald Caravan - Monologue",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-37598.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "Roshanne Etezady - Streetlegal",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-62774.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "Rudy Wiedoeft - Valse Vanité",
+   "kind": "replace-dead",
+   "url": "https://www.grothmusic.com/p-38366.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.sheetmusicplus.com/title/valse-vanite-sheet-music/2223363?aff_id=426309&utm_medium=plg1"
+   ]
+  },
+  {
+   "work": "Ryo Noda - Maï",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-33944.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/Alphonse-Leduc-AL25523-Solo-Saxophone/dp/B002LQAIYO?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Ryo Noda - Requiem – Shin-en",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-38478.aspx",
+   "label": "",
+   "note": "Groth lists it as unaccompanied alto or tenor; SaxoBrain says tenor and piano",
+   "replaces": []
+  },
+  {
+   "work": "Sally Beamish - Albatross",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-64529.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "Sigfrid Karg-Elert - 25 Capricen",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-40321.aspx",
+   "label": "",
+   "note": "Groth has Vol. 2 only",
+   "replaces": [
+    "https://www.amazon.com/Caprices-Atonal-Sonata-Unaccompanied-Saxophone/dp/1581061544/ref=sr_1_fkmr0_1?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Stacy Garrop - Pieces of Sanity",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-66368.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "Stacy Garrop - Tantrum",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-37728.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "Stacy Garrop - Wrath",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-133632.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "Steven Banks - As I Am",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-150363.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "Takefusa Sasamori - Variations on Taki’s “Kojo no tsuki”",
+   "kind": "replace-dead",
+   "url": "https://www.grothmusic.com/p-38076.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.sheetmusicplus.com/title/variations-on-taki-s-kojo-no-tsuki-sheet-music/19556010?aff_id=426309&utm_medium=plg1"
+   ]
+  },
+  {
+   "work": "Thierry Alla - Discoïdal",
+   "kind": "replace-dead",
+   "url": "https://www.grothmusic.com/p-38743.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.meridianwinds.com/shop/c/p/Alla-Thierry-Discoidal-for-Solo-Tenor-Saxophone-x38304066.htm"
+   ]
+  },
+  {
+   "work": "Victor Morosco - Blue Caprice",
+   "kind": "replace-dead",
+   "url": "https://www.grothmusic.com/p-134130.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "http://www.morsax.com/publications.html"
+   ]
+  },
+  {
+   "work": "Walter Hartley - Concertino (Tenor)",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-146295.aspx",
+   "label": "",
+   "note": "tenor and piano reduction",
+   "replaces": [
+    "https://www.amazon.com/Concertino-Tenor-Saxophone-Walter-Hartley/dp/B0092FI2FE?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Walter Hartley - Duo Sonata (Soprano-Baritone)",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-39290.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "Walter Hartley - Petite Suite",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-33995.aspx",
+   "label": "",
+   "note": "Groth lists it as unaccompanied; SaxoBrain says alto and piano",
+   "replaces": [
+    "https://www.amazon.com/Petite-Suite-Solo-Alto-Saxophone/dp/B0028OOI36?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Walter Hartley - Poem",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-38923.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/Tenor-Saxophone-Piano-Walter-Hartley/dp/1598060791?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Walter Hartley - Sonata for Tenor Saxophone and Piano",
+   "kind": "replace-dead",
+   "url": "https://www.grothmusic.com/p-139712.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.grothmusic.com/p-38930-sonata-tenor-sax-and-piano.aspx"
+   ]
+  },
+  {
+   "work": "Walter Hartley - Valse Vertigo",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-143136.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/Vertigo-Saxophone-Walter-S-Hartley/dp/B00N6S8SF2?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Warren Benson - Concertino",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-33875.aspx",
+   "label": "",
+   "note": "alto and piano reduction",
+   "replaces": [
+    "https://www.amazon.com/Concertino-Alto-Saxophone-Piano/dp/B002BK2Q3G?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "Warren Benson - Farewell",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-37534.aspx",
+   "label": "",
+   "note": "",
+   "replaces": []
+  },
+  {
+   "work": "William Albright - Doo-Dah",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-139739.aspx",
+   "label": "",
+   "note": "three alto saxophones",
+   "replaces": [
+    "https://www.amazon.com/-/es/Doo-Dah-para-Saxophone-William-Albright/dp/B00FFIIFUO"
+   ]
+  },
+  {
+   "work": "William Bolcom - Aubade",
+   "kind": "add",
+   "url": "https://www.grothmusic.com/p-33798.aspx",
+   "label": "",
+   "note": "oboe or soprano sax edition",
+   "replaces": []
+  },
+  {
+   "work": "William Duckworth - Ballad in Time and Space",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-153950.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/Ballad-Space-Tenor-Saxophone-Piano/dp/B008RAIQGK?tag=timothyrosenb-20"
+   ]
+  },
+  {
+   "work": "William Duckworth - Pitt County Excursions",
+   "kind": "replace-amazon",
+   "url": "https://www.grothmusic.com/p-38909.aspx",
+   "label": "",
+   "note": "",
+   "replaces": [
+    "https://www.amazon.com/County-Excursions-Saxophone-William-Duckworth/dp/B008RAKLQS?tag=timothyrosenb-20"
+   ]
+  }
+ ],
+ "streaming": [
+  {
+   "work": "Akira Yuyama - Divertimento",
+   "url": "https://www.youtube.com/watch?v=aVWCzfMNhbY",
+   "title": "DIVERTIMENTO for Marimba and Alto saxophone / Akira Yuyama",
+   "channel": "《 île isolée / イルイゾレ 》 〜サックスとマリンバによるデュオ〜 and HARUNO Saxophone CH",
+   "duration": 717,
+   "partial": false
+  },
+  {
+   "work": "Alain Bernaud - Sonate pour les deux saxophones",
+   "url": "https://www.youtube.com/watch?v=cc-UmF0G55s",
+   "title": "Alain Bernaud - Sonate Pour Les Deux Saxophones",
+   "channel": "Evan Block",
+   "duration": 948,
+   "partial": false
+  },
+  {
+   "work": "Alain Crepin - Nuits Blanches",
+   "url": "https://www.youtube.com/watch?v=s9NmbuItlMg",
+   "title": "Nuits blanches - Alain Crepin door Thomas Borrens (Sax Alto) – USM",
+   "channel": "VLAMO",
+   "duration": 326,
+   "partial": false
+  },
+  {
+   "work": "Alan Ridout - Concertino",
+   "url": "https://www.youtube.com/watch?v=dDvUhmsvAoE",
+   "title": "\"Concertino\" by Alan Ridout (Isabella Stabio, alto sax)",
+   "channel": "Isabella Stabio",
+   "duration": 349,
+   "partial": false
+  },
+  {
+   "work": "Alec Wilder - Sonata",
+   "url": "https://www.youtube.com/watch?v=AWmQ3sdHR30",
+   "title": "Alec Wilder Sonata for Alto Saxophone and Piano Mvt. 1",
+   "channel": "Damon Zick",
+   "duration": 146,
+   "partial": true
+  },
+  {
+   "work": "Alec Wilder - Suite No. 1 - “Three Ballads for Stan Getz”",
+   "url": "https://www.youtube.com/watch?v=O3YMlDHhdNs",
+   "title": "Alec Wilder Suite No. 1 for Tenor Saxophone and Strings; \"Three Ballads for Stan Getz\" - movement 1",
+   "channel": "shannonfordwoodwinds",
+   "duration": 237,
+   "partial": true
+  },
+  {
+   "work": "Alfred Reed - Ballade",
+   "url": "https://www.youtube.com/watch?v=5MJKxosqbGQ",
+   "title": "Ballade For Solo Alto Saxophone / Alfred Reed",
+   "channel": "Yo Matsushita Classics",
+   "duration": 269,
+   "partial": false
+  },
+  {
+   "work": "Alfred Reed - Siciliana Notturno",
+   "url": "https://www.youtube.com/watch?v=iBgYmFBKx_k",
+   "title": "Alfred Reed, Siciliana Notturno for Alto Saxophone and Band",
+   "channel": "TheThunderSax",
+   "duration": 387,
+   "partial": false
+  },
+  {
+   "work": "Amy Quate - Light of Sothis",
+   "url": "https://www.youtube.com/watch?v=aPJEki-ABbE",
+   "title": "Light of Sothis for Alto Saxophone and Piano (Amy Quate)",
+   "channel": "Kenneth Fischer & Martha Thomas - Topic",
+   "duration": 568,
+   "partial": false
+  },
+  {
+   "work": "Antonio Bazzini - La Ronde des Lutins",
+   "url": "https://www.youtube.com/watch?v=n8m0ekjYeFY",
+   "title": "Daniel Gremelle - La Ronde des Lutins - Antonio  Bazzini - saxophone",
+   "channel": "barbosaadalberto",
+   "duration": 133,
+   "partial": true
+  },
+  {
+   "work": "Astor Piazzolla - Tango—etudes",
+   "url": "https://www.youtube.com/watch?v=TuyhbOSjFDk",
+   "title": "Dmitriy Pinchuk -  Tango Études, Astor PIAZZOLLA",
+   "channel": "Andorra SaxFest",
+   "duration": 201,
+   "partial": false
+  },
+  {
+   "work": "Bernhard Heiden - Fantasia Concertante",
+   "url": "https://www.youtube.com/watch?v=O1MloDBzVwo",
+   "title": "Fantasia Concertante for Alto Saxophone and Piano (Bernhard Heiden)",
+   "channel": "Kenneth Fischer & Martha Thomas - Topic",
+   "duration": 728,
+   "partial": false
+  },
+  {
+   "work": "Bill Dobbins - Sonata",
+   "url": "https://www.youtube.com/watch?v=8-jiTUBLdFg",
+   "title": "Bill Dobbins - Sonata for soprano saxophone and piano (I)",
+   "channel": "TUTAM Saxophone Quartet",
+   "duration": 415,
+   "partial": true
+  },
+  {
+   "work": "Bob Mintzer - 15 Easy Etudes",
+   "url": "https://www.youtube.com/watch?v=KpyhUuFcxAk",
+   "title": "Bob Mintzer - BLUES 1 - 15 Easy Jazz Blues Funk Etudes - Tenor Saxophone",
+   "channel": "Raquel Navogino",
+   "duration": 126,
+   "partial": true
+  },
+  {
+   "work": "Carl Philipp Emanuel Bach - Sonata in A minor, WQ. 132",
+   "url": "https://www.youtube.com/watch?v=pF4R2KREVfc",
+   "title": "Saxophone Solo - Sonata in A minor by C.P.E. Bach WQ 132 - great acoustics",
+   "channel": "Mat Clasen",
+   "duration": 175,
+   "partial": false
+  },
+  {
+   "work": "Charles Rochester Young - Concerto",
+   "url": "https://www.youtube.com/watch?v=Z4AbmbOSJrM",
+   "title": "Charles Rochester Young Saxophone Concerto Mvt. 1",
+   "channel": "dallassax",
+   "duration": 252,
+   "partial": true
+  },
+  {
+   "work": "Charlie Parker - Charlie Parker Omnibook",
+   "url": "https://www.youtube.com/watch?v=HI8uhJ5QHmI",
+   "title": "Charlie Parker Omnibook (in order)",
+   "channel": "Jacob Stroburg",
+   "duration": 5438,
+   "partial": false
+  },
+  {
+   "work": "Christian Lauba - Étude No. 15 Worksong",
+   "url": "https://www.youtube.com/watch?v=ROU3enTUeY0",
+   "title": "Worksong, etude no.15 (Christian Lauba) / Nicki Roman, Saxophone",
+   "channel": "Nicki Roman",
+   "duration": 361,
+   "partial": true
+  },
+  {
+   "work": "Christian Lauba - Étude No. 17 Clouds",
+   "url": "https://www.youtube.com/watch?v=4ErjFgy7TK4",
+   "title": "Alex Sebastianutto plays CLOUDS (Etude 17) by Christian Lauba",
+   "channel": "Alex Sebastianutto _ saxophonist",
+   "duration": 509,
+   "partial": true
+  },
+  {
+   "work": "Christian Lauba - Étude No. 19 Partyta",
+   "url": "https://www.youtube.com/watch?v=HdiN6v42LwA",
+   "title": "Partyta (Etude 19) - Christian Lauba",
+   "channel": "Alex Toth",
+   "duration": 265,
+   "partial": true
+  },
+  {
+   "work": "Christian Lauba - Étude No. 22 Bebop",
+   "url": "https://www.youtube.com/watch?v=a38ZrTt3SNU",
+   "title": "BEBOP etude 22 pour alto sax Christian LAUBA",
+   "channel": "Alex Sebastianutto _ saxophonist",
+   "duration": 243,
+   "partial": true
+  },
+  {
+   "work": "Christophe Havel - Oxyton",
+   "url": "https://www.youtube.com/watch?v=46B8OfAT9qA",
+   "title": "Londeix 2017 - Huimin Zheng (China) - Oxyton by Christophe Havel",
+   "channel": "AdolphesaxTV",
+   "duration": 483,
+   "partial": false
+  },
+  {
+   "work": "Clare Grundman - Concertante, Op. 42",
+   "url": "https://www.youtube.com/watch?v=Xex7Zrximfg",
+   "title": "Clare Grundman: Concertante, Op. 42 ft. Alto Saxophone",
+   "channel": "Mi-Son Angel ",
+   "duration": 460,
+   "partial": false
+  },
+  {
+   "work": "Dana Wilson - Luminescence",
+   "url": "https://www.youtube.com/watch?v=mzuN1xNxGKU",
+   "title": "Dana Wilson - Luminescence (Guitar and Soprano Saxophone)",
+   "channel": "LAV Composition",
+   "duration": 259,
+   "partial": false
+  },
+  {
+   "work": "Dana Wilson - Time Cries, Hoping Otherwise",
+   "url": "https://www.youtube.com/watch?v=JJa3kjzjtJI",
+   "title": "Eric Aweh performs Time Cries, Hoping Otherwise for Alto Saxophone and Wind Ensemble by Dana Wilson",
+   "channel": "eawehsax",
+   "duration": 435,
+   "partial": false
+  },
+  {
+   "work": "Daniel Asia - The Alex Set",
+   "url": "https://www.youtube.com/watch?v=THbcki_nzyg",
+   "title": "Daniel Asia, composer - The Alex Set (saxophone)",
+   "channel": "Daniel Asia",
+   "duration": 589,
+   "partial": false
+  },
+  {
+   "work": "David Baker - Concerto",
+   "url": "https://www.youtube.com/watch?v=QkJd_Ltmy9g",
+   "title": "David N. Baker: Concerto for Tenor Saxophone - Movement 1",
+   "channel": "Brian Perez",
+   "duration": 396,
+   "partial": true
+  },
+  {
+   "work": "David Dzubay - Sonata",
+   "url": "https://www.youtube.com/watch?v=U4Jjt0H5YYM",
+   "title": "Dzubay Sonata for alto saxophone and piano",
+   "channel": "Jiawei Liang",
+   "duration": 1265,
+   "partial": false
+  },
+  {
+   "work": "David Hite - Melodious and Progressive Studies Book 1",
+   "url": "https://www.youtube.com/watch?v=DBJEZH0g_ck",
+   "title": "Melodious and Progressive Studies, book 1 by David Hite, G Major",
+   "channel": "Dr. Mary's Saxophone Tips",
+   "duration": 108,
+   "partial": true
+  },
+  {
+   "work": "Denes Agay - Rhapsody in Waltz Time",
+   "url": "https://www.youtube.com/watch?v=drd2EpLOzsk",
+   "title": "Denes Agay (1911 – 2007) Rhapsody in Waltz Time für Alt Saxofon und Piano",
+   "channel": "Duo Lustermann | Karras",
+   "duration": 396,
+   "partial": false
+  },
+  {
+   "work": "Dirk Brossé - Mantra, Canta and Capriccio",
+   "url": "https://www.youtube.com/watch?v=vqe04Q35jOU",
+   "title": "Dmitry PINCHUK (Russia) plays Mantra, Canto and Capriccio by Dirk BROSSÉ",
+   "channel": "AdolphesaxTV",
+   "duration": 1421,
+   "partial": false
+  },
+  {
+   "work": "Donald Martino - Concerto",
+   "url": "https://www.youtube.com/watch?v=wXJJxZo6G9I",
+   "title": "Donald Martino: Concerto for Alto Saxophone and Orchestra (1987)",
+   "channel": "TheWelleszCompany",
+   "duration": 1389,
+   "partial": false
+  },
+  {
+   "work": "Eric Ewazen - Classical Concerto",
+   "url": "https://www.youtube.com/watch?v=5b9Uha1gkHc",
+   "title": "Classical Concerto for Tenor Saxophone and Orchestra - Eric Ewazen - All movements",
+   "channel": "Xin Gao",
+   "duration": 1593,
+   "partial": true
+  },
+  {
+   "work": "Erwin Dressel - Duo Konzert",
+   "url": "https://www.youtube.com/watch?v=HXCt7HHdEEM",
+   "title": "Erwin Dressel - Duo-Konzert für Sopran und Altsaxophone - Trinity Chamber Orchestra",
+   "channel": "Jacob Swanson",
+   "duration": 1386,
+   "partial": false
+  },
+  {
+   "work": "Eugène Bozza - Pièce brève",
+   "url": "https://www.youtube.com/watch?v=w5jgrp26vV0",
+   "title": "Eugène Bozza - Pièce Breve (Alto Sax Version)",
+   "channel": "Fabio Calzavara",
+   "duration": 242,
+   "partial": false
+  },
+  {
+   "work": "Fisher Tull - Dialogue",
+   "url": "https://www.youtube.com/watch?v=Mmkhj5XAVuk",
+   "title": "Fisher Tull  - Dialogue for alto and tenor saxophones (1987)",
+   "channel": "Lawrence Gwozdz",
+   "duration": 282,
+   "partial": false
+  },
+  {
+   "work": "Fisher Tull - Threnody",
+   "url": "https://www.youtube.com/watch?v=LZGpktnpvH8",
+   "title": "Threnody for Solo Saxophone (Fisher Tull) - David Wise",
+   "channel": "DGWise",
+   "duration": 347,
+   "partial": false
+  },
+  {
+   "work": "Francois Devienne - Adagio & Rondo",
+   "url": "https://www.youtube.com/watch?v=xs6Eal4LfrA",
+   "title": "Adagio and Rondo, Francois Devienne Part I. Adagio",
+   "channel": "bltsax",
+   "duration": 648,
+   "partial": true
+  },
+  {
+   "work": "Frank Erickson - Concerto",
+   "url": "https://www.youtube.com/watch?v=KS1cGuZf2wk",
+   "title": "Timothy Dearmin - Frank Erickson - Concerto for Eb Alto Saxophone and Band",
+   "channel": "GatorTex79",
+   "duration": 503,
+   "partial": false
+  },
+  {
+   "work": "Franz Wilhelm Ferling - 48 Famous Studies",
+   "url": "https://www.youtube.com/watch?v=AQeijb2Edss",
+   "title": "Etude #1 from 48 Famous Studies by Ferling. 2016-2017 Texas All-State.",
+   "channel": "sfasusaxophone",
+   "duration": 177,
+   "partial": true
+  },
+  {
+   "work": "François Daneels - Suite",
+   "url": "https://www.youtube.com/watch?v=i0-3_BJd8DM",
+   "title": "Francois Daneels - Suite pour saxophone solo",
+   "channel": "Gregory Ney",
+   "duration": 477,
+   "partial": false
+  },
+  {
+   "work": "Fred Lipsius - Reading Key Jazz Rhythms (E-Flat)",
+   "url": "https://www.youtube.com/watch?v=golTtDMgpOY",
+   "title": "ETUDE2(Confirmation) _ Reading Key Jazz Rhythms _ (Fred Lipsius) _  Performed by Hannah",
+   "channel": "과대망상의 악보공방Hannah",
+   "duration": 88,
+   "partial": true
+  },
+  {
+   "work": "Frederick Fox - Here Again in Memory",
+   "url": "https://www.youtube.com/watch?v=t_5wFpMdJRk",
+   "title": "V. Variation 4, Coda - Hear Again in Memory by Frederick A. Fox",
+   "channel": "Kendra Wheeler",
+   "duration": 135,
+   "partial": true
+  },
+  {
+   "work": "Frédéric Chopin - Largo from Op. 65",
+   "url": "https://www.youtube.com/watch?v=bwRUfMgmvIo",
+   "title": "Chopin: Largo from Op. 65 for Alto Saxophone & Piano",
+   "channel": "James M. Guthrie",
+   "duration": 159,
+   "partial": false
+  },
+  {
+   "work": "Frédéric Devreese - Ostinati",
+   "url": "https://www.youtube.com/watch?v=fFF5D2Ljyxg",
+   "title": "Frederic Devreese: Ostinati. Martina Ebert, Saxophon",
+   "channel": "Martina Ebert",
+   "duration": 972,
+   "partial": false
+  },
+  {
+   "work": "Gary Carpenter - Sonata",
+   "url": "https://www.youtube.com/watch?v=Af6AM93E3SQ",
+   "title": "Sonata for Alto Saxophone and Piano - Gary Carpenter",
+   "channel": "Amy Patten Fitz-Desorgher",
+   "duration": 893,
+   "partial": false
+  },
+  {
+   "work": "Georg Philipp Telemann - Sonata",
+   "url": "https://www.youtube.com/watch?v=s3eKDUxipuo",
+   "title": "Georg Philipp Telemann Sonata (ed. Londeix)",
+   "channel": "Ricardo Martinez",
+   "duration": 395,
+   "partial": false
+  },
+  {
+   "work": "George Frideric Handel - Sonata No. 13",
+   "url": "https://www.youtube.com/watch?v=OJqNtchYdck",
+   "title": "Movement 1: Handel Sonata, Op. 1, No. 13, arranged for Alto Saxophone and Piano",
+   "channel": "Bryan Smith",
+   "duration": 109,
+   "partial": true
+  },
+  {
+   "work": "George Frideric Handel - Sonata No. 3",
+   "url": "https://www.youtube.com/watch?v=dvfXtIv0fao",
+   "title": "Sigurd Rascher, Handel Sonata No. 3 Allegro",
+   "channel": "Rascher Collection",
+   "duration": 115,
+   "partial": true
+  },
+  {
+   "work": "George Frideric Handel - Sonata No. 5",
+   "url": "https://www.youtube.com/watch?v=OWDqQSBHXA8",
+   "title": "Sonata No 5 G.F. Handel Tenor Saxophone Movement 1",
+   "channel": "Thewiiuguy321 hi",
+   "duration": 76,
+   "partial": true
+  },
+  {
+   "work": "George Frideric Handel - Sonata No. 6",
+   "url": "https://www.youtube.com/watch?v=zTj7oAFuKIs",
+   "title": "Handel 6 Sonata - Robert Jinks Senior Saxophone Recital",
+   "channel": "Rob Jinks",
+   "duration": 366,
+   "partial": false
+  },
+  {
+   "work": "Gilles Martin - Fun Light",
+   "url": "https://www.youtube.com/watch?v=xi-nL9Y-YnI",
+   "title": "FUN LIGHT - Gilles MARTIN  테너 Saxphone  은종선",
+   "channel": "공덕로터스 색소폰",
+   "duration": 747,
+   "partial": false
+  },
+  {
+   "work": "Greg Fishman - Jazz Phrasing for Saxophone",
+   "url": "https://www.youtube.com/watch?v=F1NYYL1URdg",
+   "title": "Greg Fishman's Quincy Street from Jazz Phrasing for Saxophone Volume I",
+   "channel": "Barbara Hubers-Drake",
+   "duration": 107,
+   "partial": true
+  },
+  {
+   "work": "Gregory Wanamaker - Of Light and Shadows",
+   "url": "https://www.youtube.com/watch?v=hiW9aLdjw-Q",
+   "title": "Charles LILLEY (USA) plays Of Light and Shadows by G. WANAMAKER",
+   "channel": "AdolphesaxTV",
+   "duration": 346,
+   "partial": false
+  },
+  {
+   "work": "Gregory Yasinitsky - Sixth Sense",
+   "url": "https://www.youtube.com/watch?v=oiuCZ4DDUg8",
+   "title": "David Hernando - Sixth Sense by Gregory W.Yasinitsky -  Alto saxophone and piano.",
+   "channel": "David Hernando Vitores Saxophonist",
+   "duration": 474,
+   "partial": false
+  },
+  {
+   "work": "Gustavo Beytelmann - Ocho Airs du Tango",
+   "url": "https://www.youtube.com/watch?v=2mZetA5wv6M",
+   "title": "8 airs autour du tango (Nos. 1&2) G. Beytelmann - Alexander Strelyaev - saxophone,  I Puritz - bayan",
+   "channel": "Alexandr Strelyaev",
+   "duration": 301,
+   "partial": false
+  },
+  {
+   "work": "Gustavo Rossari - 53 Melodious Etudes",
+   "url": "https://www.youtube.com/watch?v=MCLmnxuqIj0",
+   "title": "Etude No. 4 from Gustavo Rossari 53 melodious etudes for saxophone or oboe",
+   "channel": "Ian cunningham",
+   "duration": 99,
+   "partial": true
+  },
+  {
+   "work": "Guy Lacour - 228 études sur les modes à transpositions limitées d'Olivier Messiaen",
+   "url": "https://www.youtube.com/watch?v=-97l2E_1C3g",
+   "title": "28 Etudes sur les Modes à Transpositions Limitées d' Olivier Messiaen. Guy Lacour. 2021 [Full Album]",
+   "channel": "David Hernando Vitores Saxophonist",
+   "duration": 1473,
+   "partial": false
+  },
+  {
+   "work": "Guy Lacour - 50 Easy and Progressive Studies",
+   "url": "https://www.youtube.com/watch?v=L9VbnzG3jAc",
+   "title": "Guy Lacour Etude 1 | 50 Easy and Progressive Studies",
+   "channel": "Zander Westphal",
+   "duration": 135,
+   "partial": true
+  },
+  {
+   "work": "Guy Lacour - Belle Époque",
+   "url": "https://www.youtube.com/watch?v=OETSKwFIWEU",
+   "title": "\"Belle Époque - Évocation\" (Guy LACOUR) saxofone: Rodrigo Capistrano - piano: Ivan Pires #saxophone",
+   "channel": "Rodrigo M. Capistrano - \"A Plenos Pulmões\"",
+   "duration": 159,
+   "partial": false
+  },
+  {
+   "work": "Guy Lacour - Hommage à Jaques Ibert",
+   "url": "https://www.youtube.com/watch?v=FVnrWvJ-IEM",
+   "title": "Hy-Huu DANG (Luxembourg) plays Hommage a Jaques Ibert by G. LACOUR",
+   "channel": "AdolphesaxTV",
+   "duration": 341,
+   "partial": false
+  },
+  {
+   "work": "Guy Lacour - Piece Concertante",
+   "url": "https://www.youtube.com/watch?v=vjqafvluldY",
+   "title": "Piece Concertante - Guy Lacour (Josue Cazco Spring Jury 2021)",
+   "channel": "Josue Cazco",
+   "duration": 594,
+   "partial": false
+  },
+  {
+   "work": "Henri Tomasi - Evocations",
+   "url": "https://www.youtube.com/watch?v=d-wVB43hP3I",
+   "title": "\"Evocations\" pour Alto Saxophone Solo by Henri Tomasi (1901 - 1971)",
+   "channel": "Fabio Calzavara",
+   "duration": 502,
+   "partial": false
+  },
+  {
+   "work": "Henry Purcell - Two Bourrees",
+   "url": "https://www.youtube.com/watch?v=hx3km6AsSgs",
+   "title": "Henry Purcell - Two Bourrees",
+   "channel": "Brian Saxophone Ransom",
+   "duration": 206,
+   "partial": false
+  },
+  {
+   "work": "Herbert Couf - Introduction, Dance, and Furioso",
+   "url": "https://www.youtube.com/watch?v=Mu7EzAyFZp4",
+   "title": "Introduction Dance and Furioso by Herbet Couf - Furioso - alto saxophone",
+   "channel": "Jeremy Justeson",
+   "duration": 73,
+   "partial": true
+  },
+  {
+   "work": "Himie Voxman - Selected Studies",
+   "url": "https://www.youtube.com/watch?v=U4xoT1AbItU",
+   "title": "TMEA 2026-2027 Saxophone All State Etude 3 (Voxman Selected Studies Page 26-27 - Luft)",
+   "channel": "All State Saxophone",
+   "duration": 78,
+   "partial": true
+  },
+  {
+   "work": "Ibrahim Maalouf - Histrionia",
+   "url": "https://www.youtube.com/watch?v=bVEp6e4Tkfg",
+   "title": "IBRAHIM MAALOUF Histrionia / saxophone & piano",
+   "channel": "Nicolas Prost",
+   "duration": 246,
+   "partial": false
+  },
+  {
+   "work": "Ichiro Nodaïra - Arabesque III",
+   "url": "https://www.youtube.com/watch?v=rpLaglHjKNM",
+   "title": "Arabesque III by Ichiro NODAÏRA (Supat Hanpatanachai ; Saxophone , Luc Leclerc ; Piano)",
+   "channel": "Saxophone with Mr Big",
+   "duration": 695,
+   "partial": false
+  },
+  {
+   "work": "Ida Gotkovsky - Concerto",
+   "url": "https://www.youtube.com/watch?v=4ZFv8GtrodU",
+   "title": "Ida Gotkovsky, Concerto pour Saxophone et Orchestre",
+   "channel": "Huub Hubert Claessens",
+   "duration": 1445,
+   "partial": false
+  },
+  {
+   "work": "J. L. Small - 27 Melodious and Rhythmical Exercises",
+   "url": "https://www.youtube.com/watch?v=esuEc_CLCU0",
+   "title": "~JL Small Etude No. 1 Allegro Moderato~  [27 Melodious and Rhythmical Exercises for Saxophone]",
+   "channel": "Uriel Hernandez",
+   "duration": 137,
+   "partial": true
+  },
+  {
+   "work": "Jacob ter Veldhuis - Tallahatchie Concerto",
+   "url": "https://www.youtube.com/watch?v=sS3Mflmmo84",
+   "title": "Jacob ter Veldhuis - Tallahatchie concerto",
+   "channel": "Dutch Composers",
+   "duration": 1108,
+   "partial": false
+  },
+  {
+   "work": "Jacques Ibert - Histoires",
+   "url": "https://www.youtube.com/watch?v=IaAS-sNSJhQ",
+   "title": "Histoires ( Saxophone alto et Piano) - Jacques Ibert",
+   "channel": "Éric Maillet (Saxophoniste)",
+   "duration": 1202,
+   "partial": false
+  },
+  {
+   "work": "James DeMars - The Seventh Healing Song of John Joseph",
+   "url": "https://www.youtube.com/watch?v=me0nK60iXks",
+   "title": "Seventh Healing Song of John Joseph (James DeMars)",
+   "channel": "Joseph Wytko, Walter Cosand, Wytko Saxophone Quartet - Topic",
+   "duration": 560,
+   "partial": false
+  },
+  {
+   "work": "James Di Pasquale - Sonata",
+   "url": "https://www.youtube.com/watch?v=Rgam_2ip47I",
+   "title": "Sonata for Tenor Saxophone and Piano - James Di Pasquale",
+   "channel": "Sara Powell",
+   "duration": 589,
+   "partial": false
+  },
+  {
+   "work": "James Rae - 12 Modern Études",
+   "url": "https://www.youtube.com/watch?v=RZ8dbNaSPvo",
+   "title": "1. Ignition from 12 Modern Etudes for Solo Saxophone by James Rae",
+   "channel": "Saxophone Resources",
+   "duration": 69,
+   "partial": true
+  },
+  {
+   "work": "Jascha Gurewich - Concerto in E minor, Op. 102",
+   "url": "https://www.youtube.com/watch?v=CCpObVkxpy0",
+   "title": "Jascha Gurewich - Concerto For Alto Saxophone in E minor, Op.102 1st Mvt",
+   "channel": "Music Go Round HK",
+   "duration": 570,
+   "partial": true
+  },
+  {
+   "work": "Jean Absil - Fantasie—Caprice",
+   "url": "https://www.youtube.com/watch?v=a5AOJRMWuec",
+   "title": "Fantasie Caprice,  Jean Absil",
+   "channel": "Reginald Jackson",
+   "duration": 383,
+   "partial": false
+  },
+  {
+   "work": "Jean Absil - Sicilienne",
+   "url": "https://www.youtube.com/watch?v=uFLT1ldsRpw",
+   "title": "Sicilienne (Saxophone and Harp) - Jean Absil",
+   "channel": "Trek Boyland",
+   "duration": 181,
+   "partial": false
+  },
+  {
+   "work": "Jean Absil - Sonate, Op. 115",
+   "url": "https://www.youtube.com/watch?v=tuLPxvXvaAk",
+   "title": "Sonate op. 115. Jean Absil",
+   "channel": "María Escobar",
+   "duration": 649,
+   "partial": false
+  },
+  {
+   "work": "Jean Rivier - Concerto",
+   "url": "https://www.youtube.com/watch?v=V11bpYCz9XQ",
+   "title": "Jean Rivier - Concerto for Saxophone, Trumpet, and Orchestra",
+   "channel": "Jason Shiuan",
+   "duration": 1000,
+   "partial": false
+  },
+  {
+   "work": "Jean-Charles Richard - Caprice - Hommage à Charlie Chaplin",
+   "url": "https://www.youtube.com/watch?v=uquK4qWj6xE",
+   "title": "Caprice (Hommage à Charlie Chaplin) by Jean-Charles Richard ~ Joseph Lulloff, alto saxophone",
+   "channel": "Joe Lulloff",
+   "duration": 325,
+   "partial": false
+  },
+  {
+   "work": "Jean-Denis Michat - 5 Visions Amoureuses",
+   "url": "https://www.youtube.com/watch?v=fDOiuk03dO4",
+   "title": "Dmitry PINCHUK (Russia) plays 5 Visions Amoureuses by J.D. MICHAT",
+   "channel": "AdolphesaxTV",
+   "duration": 491,
+   "partial": false
+  },
+  {
+   "work": "Jean-Marie Londeix - Nouvelles Études Variées",
+   "url": "https://www.youtube.com/watch?v=h2giyYNDlHE",
+   "title": "Lukáš Kolek saxophone, Jean-Marie Londeix Nouvelles Études Variées I",
+   "channel": "Lukáš Kolek",
+   "duration": 78,
+   "partial": true
+  },
+  {
+   "work": "Jeanine Rueff - Concertino, Op. 17",
+   "url": "https://www.youtube.com/watch?v=FxEbmsJu16M",
+   "title": "J.rueff concertino op 17 / saxophone / リュエフ コンチェルティーノ　作品17",
+   "channel": "Mei Yamasaki 山﨑明",
+   "duration": 952,
+   "partial": false
+  },
+  {
+   "work": "Jenő Takács - Two Fantastics, Op. 88",
+   "url": "https://www.youtube.com/watch?v=YVYWybkAZvY",
+   "title": "Jenő Takács - Two Fantastics for alto saxophone and piano, op. 88 (1969)",
+   "channel": "Michał Gasztych",
+   "duration": 700,
+   "partial": false
+  },
+  {
+   "work": "Jindřich Feld - Suite Rapsodica",
+   "url": "https://www.youtube.com/watch?v=dMIeH5NsBYU",
+   "title": "Jindřich Feld - Suite Rapsodica for Alto Saxophone (1992) [Score-Video]",
+   "channel": "George N. Gianopoulos, composer",
+   "duration": 625,
+   "partial": false
+  },
+  {
+   "work": "Johann Friedrich Fasch - Sonata",
+   "url": "https://www.youtube.com/watch?v=rEH2RMZ_P5k",
+   "title": "Sonata - J.F. Fasch on alto saxophone",
+   "channel": "Amy Pieroni",
+   "duration": 396,
+   "partial": false
+  },
+  {
+   "work": "Johann Sebastian Bach - Sonata No. 4",
+   "url": "https://www.youtube.com/watch?v=zgclLLnIrCU",
+   "title": "Alto sax JS Bach Sonata no. 4 mvt. 1 | Harry Jo",
+   "channel": "Harry Jo",
+   "duration": 138,
+   "partial": true
+  },
+  {
+   "work": "Johann Sebastian Bach - Sonata in E major, BWV 1035",
+   "url": "https://www.youtube.com/watch?v=HwcoPjxWtMw",
+   "title": "Bach E-major Sonata BWV 1035 - Saxophone + Piano",
+   "channel": "Petrus Eurell",
+   "duration": 530,
+   "partial": false
+  },
+  {
+   "work": "John Anthony Lennon - Aeterna",
+   "url": "https://www.youtube.com/watch?v=UE22mtBA4ak",
+   "title": "John Anthony Lennon: aeterna, for solo alto saxophone",
+   "channel": "Saxophonist Pin-Hua Chen 陳品樺",
+   "duration": 441,
+   "partial": false
+  },
+  {
+   "work": "John Anthony Lennon - Symphonic Rhapsody",
+   "url": "https://www.youtube.com/watch?v=4AhDuAJh__4",
+   "title": "Symphonic Rhapsody by John Anthony Lennon / Myles Boothroyd, saxophone",
+   "channel": "Myles Boothroyd",
+   "duration": 1040,
+   "partial": false
+  },
+  {
+   "work": "John C. Worley - Sonata",
+   "url": "https://www.youtube.com/watch?v=yk1qP5M2pAg",
+   "title": "Sonata for Alto Saxophone and Piano, John Worley",
+   "channel": "Gregory Luffey, Saxophone",
+   "duration": 779,
+   "partial": false
+  },
+  {
+   "work": "John Harbison - San Antonio",
+   "url": "https://www.youtube.com/watch?v=R3P0yi7pZlU",
+   "title": "San Antonio Sonata - 1. The Summons - John Harbison",
+   "channel": "VictoriaPuttock",
+   "duration": 232,
+   "partial": false
+  },
+  {
+   "work": "Julien Porret - Solo de Concours",
+   "url": "https://www.youtube.com/watch?v=bfW2i8bM9dM",
+   "title": "Vladimir Merei lle SOLO DE CONCOURS Julien Porret",
+   "channel": "vladimiriluka",
+   "duration": 202,
+   "partial": false
+  },
+  {
+   "work": "Lennie Niehaus - Advanced Jazz Conception for Saxophone",
+   "url": "https://www.youtube.com/watch?v=AsWZ7l8RbGw",
+   "title": "Niehaus Etude #1 - Advanced Jazz Conception on Tenor Sax",
+   "channel": "Virtual Woodwind Academy",
+   "duration": 108,
+   "partial": true
+  },
+  {
+   "work": "Lennie Niehaus - Basic Jazz Conception for Saxophone, Vol. 1",
+   "url": "https://www.youtube.com/watch?v=ktkhOJBSJH4",
+   "title": "Basic Jazz Conception for Saxophone by Lennie Niehaus (Vol. 1) - Exercise #1",
+   "channel": "Lorenz Hargassner",
+   "duration": 135,
+   "partial": true
+  },
+  {
+   "work": "Lennie Niehaus - Intermediate Jazz Conception for Saxophone",
+   "url": "https://www.youtube.com/watch?v=D36B0aXyrYc",
+   "title": "Exercise No. 5 Lennie Niehaus Intermediate Jazz Conception for Saxophone (F Major).MOV",
+   "channel": "Mel Mullane",
+   "duration": 82,
+   "partial": true
+  },
+  {
+   "work": "Leon Stein - Sonata",
+   "url": "https://www.youtube.com/watch?v=F11piOkTsRY",
+   "title": "Leon Stein Sonata First and Second Movements Tenor Saxophone",
+   "channel": "Bolt832",
+   "duration": 560,
+   "partial": true
+  },
+  {
+   "work": "Lex van Delden - Sonatina",
+   "url": "https://www.youtube.com/watch?v=1uH404Lv5uY",
+   "title": "Lex van Delden - Sonatina for alto saxophone and piano",
+   "channel": "Dutch Composers",
+   "duration": 475,
+   "partial": false
+  },
+  {
+   "work": "Ludwig van Beethoven - Romance in F, Op. 50",
+   "url": "https://www.youtube.com/watch?v=gGS_5xNsyMY",
+   "title": "Romance In F (L. Van Beethoven, Op.50)- Saxofon alto",
+   "channel": "Fredy Santamaría Pérez",
+   "duration": 437,
+   "partial": false
+  },
+  {
+   "work": "Malcolm Arnold - Concerto",
+   "url": "https://www.youtube.com/watch?v=l_apP-MyXTI",
+   "title": "Concerto for Alto Saxophone and Strings - Malcolm Arnold/Arr. Ellis I. Allegro ma non troppo",
+   "channel": "Andrew Harrison, Saxophone Soloist",
+   "duration": 290,
+   "partial": true
+  },
+  {
+   "work": "Marcel Mule - Dix-huit Exercises",
+   "url": "https://www.youtube.com/watch?v=OwcTPI3qyG0",
+   "title": "Marcele Mule DIX HUIT EXERCIES ou ETUDES pour tous les SAXOPHONES",
+   "channel": "Gerard_sax",
+   "duration": 74,
+   "partial": true
+  },
+  {
+   "work": "Marcel Mule - Études Variées",
+   "url": "https://www.youtube.com/watch?v=YKhPdKxpiqY",
+   "title": "Etudes Variées (Mule) dans toutes les tonalités - N° 1 Allegro - Jakob  Dont",
+   "channel": "Éric Maillet (Saxophoniste)",
+   "duration": 80,
+   "partial": true
+  },
+  {
+   "work": "Marius Constant - Musique de Concert",
+   "url": "https://www.youtube.com/watch?v=cr1sdGm4I4E",
+   "title": "Marius Constant - Musique de Concert - Taiki Azuma, saxophone",
+   "channel": "Taiki Azuma",
+   "duration": 559,
+   "partial": false
+  },
+  {
+   "work": "Mark Phillips - Sonic Landscapes",
+   "url": "https://www.youtube.com/watch?v=YfGnwdxUXy8",
+   "title": "Mark Phillips: Sonic Landscapes",
+   "channel": "Brendan Catalano Saxophone",
+   "duration": 407,
+   "partial": false
+  },
+  {
+   "work": "Mark-Anthony Turnage - Two Memorials",
+   "url": "https://www.youtube.com/watch?v=TtXJvmwuDJg",
+   "title": "Two Memorials - Mark-Anthony Turnage | Roberto Armocida soprano sax",
+   "channel": "Roberto Armocida",
+   "duration": 350,
+   "partial": false
+  },
+  {
+   "work": "Maurice Whitney - Introduction and Samba",
+   "url": "https://www.youtube.com/watch?v=VSdoox-rrpc",
+   "title": "Introduction and Samba for Alto Saxophone by Maurice Whitney",
+   "channel": "Alejandro Bidegain",
+   "duration": 591,
+   "partial": false
+  },
+  {
+   "work": "Michael Cunningham - Trigon, Op. 31",
+   "url": "https://www.youtube.com/watch?v=_x8WwnFyCs4",
+   "title": "Michael Cunningham: Trigon, op 31 - I. Constant Driving Rhythm",
+   "channel": "Steven Olson",
+   "duration": 136,
+   "partial": true
+  },
+  {
+   "work": "Miho Hazama - Gravity Assist",
+   "url": "https://www.youtube.com/watch?v=KTklIdnBQaU",
+   "title": "Miho Hazama: Gravity assist",
+   "channel": "NZ Saxophone Society",
+   "duration": 425,
+   "partial": false
+  },
+  {
+   "work": "Morton Gould - Diversions",
+   "url": "https://www.youtube.com/watch?v=L5ffqarQgKU",
+   "title": "\"Diversions\" - Morton Gould | Tenor Sax Solo | ISSMA Solo & Ensemble 2026",
+   "channel": "CATAS YouTube",
+   "duration": 320,
+   "partial": false
+  },
+  {
+   "work": "Nazaire Beeckman - Deuxième morceau de concert",
+   "url": "https://www.youtube.com/watch?v=NUq6r6xS-V8",
+   "title": "N. Beeckman - Deuxième Morceau de Concert op.17 (1885) pour saxophone et piano",
+   "channel": "Gaetano Di Bacco",
+   "duration": 466,
+   "partial": false
+  },
+  {
+   "work": "Ned Rorem - Picnic on the Marne",
+   "url": "https://www.youtube.com/watch?v=TdIJn0Dxc3M",
+   "title": "Picnic on the Marne by Ned Rorem // Derek Granger, saxophone and J. Bradley Baker, piano",
+   "channel": "Derek Granger",
+   "duration": 799,
+   "partial": false
+  },
+  {
+   "work": "Nina Šenk - Impetus",
+   "url": "https://www.youtube.com/watch?v=RyEJ3mLE75o",
+   "title": "Impetus (2006) by Nina Šenk",
+   "channel": "Kenneth Tse",
+   "duration": 795,
+   "partial": false
+  },
+  {
+   "work": "Olivia Kieffer - Floating Bones",
+   "url": "https://www.youtube.com/watch?v=kVdNg346HvY",
+   "title": "FANTASTICA P.2 - Floating Bones I. speak through - Nicki Roman, alto saxophone",
+   "channel": "Olivia Kieffer",
+   "duration": 245,
+   "partial": true
+  },
+  {
+   "work": "Paquito D'Rivera - Contradanza",
+   "url": "https://www.youtube.com/watch?v=2medwUYJNpA",
+   "title": "Contradanza, para saxofón tenor y piano de Paquito d' Rivera",
+   "channel": "tuncabajo",
+   "duration": 128,
+   "partial": true
+  },
+  {
+   "work": "Paul Ben-Haim - Three Songs Without Words",
+   "url": "https://www.youtube.com/watch?v=qxlEUy_pEXI",
+   "title": "Paul Ben-Haim -- Three Songs Without Words, II. Ballad -- Thomas Patrick Wisniewski, alto saxophone",
+   "channel": "twisniew1",
+   "duration": 139,
+   "partial": true
+  },
+  {
+   "work": "Paul Bonneau - Concerto",
+   "url": "https://www.youtube.com/watch?v=15rMKrvW_Zk",
+   "title": "Paul Bonneau's Concerto for Alto Saxophone Mvmt. 1",
+   "channel": "Frankie Wantuch",
+   "duration": 305,
+   "partial": true
+  },
+  {
+   "work": "Paul Bonneau - Suite",
+   "url": "https://www.youtube.com/watch?v=9M9TDbxNvb0",
+   "title": "P.ボノー:組曲  Paul Bonneau:Suite for Saxophone and Piano",
+   "channel": "Maki Kasai 河西麻希Saxophone サクソフォーン",
+   "duration": 426,
+   "partial": false
+  },
+  {
+   "work": "Paul Creston - Rapsodie",
+   "url": "https://www.youtube.com/watch?v=vmh_mG_2dEI",
+   "title": "Paul Creston  \"Rapsodie\"  For Alto Saxophone and Organ",
+   "channel": "Sergei Govorov",
+   "duration": 603,
+   "partial": false
+  },
+  {
+   "work": "Paul Hindemith - Konzertstuck fur Zwei Altsaxophone",
+   "url": "https://www.youtube.com/watch?v=5G-E63Fo1Rs",
+   "title": "Claude Delangle y Juan Antonio Ramírez - Hindemith · Konzertstück für zwei alt Saxophone",
+   "channel": "Orquesta Sinfónica del Mediterráneo",
+   "duration": 522,
+   "partial": false
+  },
+  {
+   "work": "Philippe Leroux - Noûs",
+   "url": "https://www.youtube.com/watch?v=ax0dXmT8JI4",
+   "title": "Philippe Leroux - NOÛS - saxophone and piano - C.et O. Delangle",
+   "channel": ": LerouxComposition",
+   "duration": 568,
+   "partial": false
+  },
+  {
+   "work": "Pierre-Max DuBois - Circus Parade",
+   "url": "https://www.youtube.com/watch?v=MWdZhnDL8bg",
+   "title": "Circus Parade, P.M. Dubois - Sax & Drums Dúo",
+   "channel": "SaxandDrums Dúo",
+   "duration": 366,
+   "partial": false
+  },
+  {
+   "work": "Pierre-Max DuBois - Concertstück",
+   "url": "https://www.youtube.com/watch?v=KH4Ynf4meyQ",
+   "title": "Concertstuck,  P. M. Dubois, Simeón Estellés, Saxofón alto",
+   "channel": "Simeón Estellés Olmos",
+   "duration": 509,
+   "partial": false
+  },
+  {
+   "work": "Pierre-Max DuBois - Divertissement",
+   "url": "https://www.youtube.com/watch?v=m8n8HauOA9w",
+   "title": "デュボワ：ディヴェルティスマン　Pierre Max Dubois: Divertissement",
+   "channel": "上野耕平 公式チャンネル Kohei Ueno",
+   "duration": 531,
+   "partial": false
+  },
+  {
+   "work": "Pierre-Max DuBois - La Gremellite",
+   "url": "https://www.youtube.com/watch?v=-_OdU92bhjo",
+   "title": "Daniel Gremelle joue la Gremellite de Pierre Max Dubois",
+   "channel": "MICHELMUSIK123",
+   "duration": 120,
+   "partial": true
+  },
+  {
+   "work": "Pierre-Max DuBois - Le lièvre et la tortue",
+   "url": "https://www.youtube.com/watch?v=m0bdjFZnWuQ",
+   "title": "Pierre Max Dubois \"Le lievre et la tortue\" - Дюбуа Заяц и Черепаха",
+   "channel": "Igor51Natascha",
+   "duration": 336,
+   "partial": false
+  },
+  {
+   "work": "Pierre-Max DuBois - Pièces caractéristiques en forme de suite",
+   "url": "https://www.youtube.com/watch?v=r6gdJ1FO9Go",
+   "title": "Pierre-Max DUBOIS: Pièces Caractéristiques en forme de Suite",
+   "channel": "陳麒鈞Chi-Chun Chen",
+   "duration": 1084,
+   "partial": false
+  },
+  {
+   "work": "Pierre-Max DuBois - Sonate",
+   "url": "https://www.youtube.com/watch?v=fP9LjPXYQeU",
+   "title": "Sonate, mvt. 1 by Pierre Max Dubois",
+   "channel": "MrDavidBabich",
+   "duration": 208,
+   "partial": true
+  },
+  {
+   "work": "Pierre-Max DuBois - Sonate d’Etude",
+   "url": "https://www.youtube.com/watch?v=3FIesIU-agw",
+   "title": "Harold Guillén Monge, Sax. Sonate d´ etude, P.M. Dubois, II mov",
+   "channel": "Harold Guillen Monge",
+   "duration": 169,
+   "partial": true
+  },
+  {
+   "work": "Pierre-Philippe Bauzin - Cinq Pieces Breves en Forme de Musique",
+   "url": "https://www.youtube.com/watch?v=-goropIICLg",
+   "title": "J.M LONDEIX HOMMAGE: 5 Pieces breves en forme de musique by Pierre-Philippe BAUZIN",
+   "channel": "AdolphesaxTV",
+   "duration": 568,
+   "partial": false
+  },
+  {
+   "work": "Polina Medyulyanova - Hallucination",
+   "url": "https://www.youtube.com/watch?v=pmBorm5h5GA",
+   "title": "HALLUCINATION - POLINA MEDYULYANOVA",
+   "channel": "Nicolas Prost",
+   "duration": 160,
+   "partial": false
+  },
+  {
+   "work": "Raymond Alessandrini - La Boite de Pandore",
+   "url": "https://www.youtube.com/watch?v=U9seYqohGho",
+   "title": "La Boîte de Pandore -  Alessandrini Raymond",
+   "channel": "Yang Lou",
+   "duration": 656,
+   "partial": false
+  },
+  {
+   "work": "Raymond Gallois-Montbrun - Six pièces musicales d'étude",
+   "url": "https://www.youtube.com/watch?v=mZgrJ05rDeM",
+   "title": "DANIEL DEFFAYET- R.Gallois Montbrun Six pieces musicales d'etude (Ballade (La souplesse))",
+   "channel": "Ricardo Samblas Fornes",
+   "duration": 206,
+   "partial": false
+  },
+  {
+   "work": "Raymond Ricker - Jazz Sonata",
+   "url": "https://www.youtube.com/watch?v=O-49-vU2l7A",
+   "title": "Ramon Ricker - Jazz Sonata Soprano Saxophone and Piano 1st mvmt Danse Macabre",
+   "channel": "Mickey Li",
+   "duration": 440,
+   "partial": true
+  },
+  {
+   "work": "Richard Rodney Bennett - Concerto for Stan Getz",
+   "url": "https://www.youtube.com/watch?v=6vS8I_t8Xow",
+   "title": "[Full Score] Richard Rodney Bennett - Concerto for Stan Getz (1990) for tenor sax, timpani & strings",
+   "channel": "AndewMole",
+   "duration": 1295,
+   "partial": false
+  },
+  {
+   "work": "Richard Rodney Bennett - Sonata",
+   "url": "https://www.youtube.com/watch?v=GjbQMhukluo",
+   "title": "Sonata for Soprano saxophone and Piano by Richard Rodney Bennett",
+   "channel": "Shusheng Wang",
+   "duration": 1243,
+   "partial": false
+  },
+  {
+   "work": "Robert Bariller - Rapsodie Bretonne",
+   "url": "https://www.youtube.com/watch?v=F_GpuT-3XWc",
+   "title": "Rapsodie Bretonne for Saxophone and Piano - Robert Bariller (sax.jaehyun been)",
+   "channel": "Saxophone BEEN",
+   "duration": 605,
+   "partial": false
+  },
+  {
+   "work": "Robert Ward - Concerto",
+   "url": "https://www.youtube.com/watch?v=1TTQwCVoTtY",
+   "title": "Concerto for Tenor Saxophone - Ward (ft. James Houlik) [ 2013 Spring Concert ]",
+   "channel": "Columbia Bands",
+   "duration": 1049,
+   "partial": false
+  },
+  {
+   "work": "Roger Boutry - Sérénade",
+   "url": "https://www.youtube.com/watch?v=68CRhar-TKQ",
+   "title": "Jean-Marie LONDEIX 'Sérénade\" Roger Boutry / Saxophone et orchestre 1961",
+   "channel": "Nicolas Prost",
+   "duration": 817,
+   "partial": false
+  },
+  {
+   "work": "Ronald Caravan - Improvisation (Tenor)",
+   "url": "https://www.youtube.com/watch?v=YszD2KIZGB0",
+   "title": "Emily Cheng - Improvisation, Ronald L. Caravan",
+   "channel": "Sound Espressivo",
+   "duration": 293,
+   "partial": false
+  },
+  {
+   "work": "Ronald Caravan - Sketch for Alto Saxophone",
+   "url": "https://www.youtube.com/watch?v=vWzDPWIZoEY",
+   "title": "Morgan Smallwood   Sketch for Alto Saxohpnone by Ronald Caravan",
+   "channel": "UoPSax",
+   "duration": 311,
+   "partial": false
+  },
+  {
+   "work": "Ryo Noda - Improvisation I",
+   "url": "https://www.youtube.com/watch?v=oLzxrGI5aEc",
+   "title": "Improvisation I - Ryo Noda - Jason Xu Saxophone",
+   "channel": "Jason Xu",
+   "duration": 324,
+   "partial": false
+  },
+  {
+   "work": "Ryo Noda - Phœnix",
+   "url": "https://www.youtube.com/watch?v=NII_gmePsbY",
+   "title": "Bartol Stopić - Ryo Noda Phœnix (Fushicho) (1983)",
+   "channel": "Matija Kasaić Drakšić (Matija Jimi)",
+   "duration": 365,
+   "partial": false
+  },
+  {
+   "work": "Sigfrid Karg-Elert - 25 Capricen",
+   "url": "https://www.youtube.com/watch?v=d56m3P_GnQI",
+   "title": "LUKA BREZOVIĆ - Giga (Sigfrid Karg - Elert: 25 Capricen für Saxophon solo op. 153)",
+   "channel": "TheSaksofonist",
+   "duration": 143,
+   "partial": true
+  },
+  {
+   "work": "Takashi Yoshimatsu - Cyberbird Concerto",
+   "url": "https://www.youtube.com/watch?v=Xp9zhpuRlUw",
+   "title": "Takashi Yoshimatsu - Cyberbird Concerto",
+   "channel": "JSaxofone",
+   "duration": 1402,
+   "partial": false
+  },
+  {
+   "work": "Thierry Alla - Discoïdal",
+   "url": "https://www.youtube.com/watch?v=ZS5MGb02quI",
+   "title": "DISCOÏDAL pour saxophone Ténor",
+   "channel": "Thierry ALLA",
+   "duration": 335,
+   "partial": false
+  },
+  {
+   "work": "Thierry Escaich - Le Chant des Ténèbres",
+   "url": "https://www.youtube.com/watch?v=3TAD_vH_2YA",
+   "title": "Saxofolies - Le Chant des Ténèbres (Thierry Escaich)",
+   "channel": "Communauté d'agglomération Versailles Grand Parc",
+   "duration": 879,
+   "partial": false
+  },
+  {
+   "work": "Unknown - Saxiana Presto",
+   "url": "https://www.youtube.com/watch?v=6U_rBIlB4O0",
+   "title": "SAXIANA PRESTO / Nagao Lysight Geiss Medyulyanova Ortiz Naon Sharafyan / for solo saxophone",
+   "channel": "Nicolas Prost",
+   "duration": 141,
+   "partial": true
+  },
+  {
+   "work": "Violet Archer - Sonata",
+   "url": "https://www.youtube.com/watch?v=5ifEmgJ6yRk",
+   "title": "Sonata for Alto Saxophone and Piano - I. Preamble (Violet Archer)",
+   "channel": "Kenneth Fischer & Martha Thomas - Topic",
+   "duration": 367,
+   "partial": true
+  },
+  {
+   "work": "Walter Hartley - Duo",
+   "url": "https://www.youtube.com/watch?v=y0ZCrFFHIcU",
+   "title": "Walter Hartley Duo for Saxophone and Piano",
+   "channel": "Mr. Wiebe",
+   "duration": 410,
+   "partial": false
+  },
+  {
+   "work": "Walter Hartley - Petite Suite",
+   "url": "https://www.youtube.com/watch?v=uS-ZgB2MqPU",
+   "title": "Petite Suite, Walter Hartley - Chris Condon, Saxophone",
+   "channel": "Chris Condon",
+   "duration": 380,
+   "partial": false
+  },
+  {
+   "work": "Walter Hartley - Sonorities VII",
+   "url": "https://www.youtube.com/watch?v=xEKPe4Vtjbo",
+   "title": "DUO CHARBONNEAU | Walter Hartley: Sonorities VII for tenor saxophone and piano",
+   "channel": "Christopher Charbonneau",
+   "duration": 154,
+   "partial": false
+  },
+  {
+   "work": "Walter Kaufmann - Meditation",
+   "url": "https://www.youtube.com/watch?v=37I-vzeKAKY",
+   "title": "Walter Kaufmann Meditation for alto saxophone and piano",
+   "channel": "Jiawei Liang",
+   "duration": 222,
+   "partial": false
+  },
+  {
+   "work": "Warren Benson - Concertino",
+   "url": "https://www.youtube.com/watch?v=yEUzNl7CK00",
+   "title": "Warren Benson | Concertino for Alto Saxophone and Wind Ensemble (full)",
+   "channel": "Chris Condon",
+   "duration": 756,
+   "partial": false
+  },
+  {
+   "work": "Warren Benson - Farewell",
+   "url": "https://www.youtube.com/watch?v=YxWQ35SUlWI",
+   "title": "Fred Hemke performs Farewell by Warren Benson (Live, 1971)",
+   "channel": "UT Saxophone Studio",
+   "duration": 123,
+   "partial": true
+  },
+  {
+   "work": "William Albright - Postcards from Kansas - Welcome to Interstate 70",
+   "url": "https://www.youtube.com/watch?v=6tMstoOGQ9I",
+   "title": "William Albright - Postcard from Kansas: Welcome to Interstate-70",
+   "channel": "Andrew Hosler",
+   "duration": 181,
+   "partial": false
+  },
+  {
+   "work": "William Bolcom - Concert Suite",
+   "url": "https://www.youtube.com/watch?v=kC5MSuV472U",
+   "title": "Concert Suite for Alto Saxophone and Band by William Bolcom - Edward Goodman",
+   "channel": "Edward Goodman",
+   "duration": 889,
+   "partial": false
+  },
+  {
+   "work": "William Duckworth - Ballad in Time and Space",
+   "url": "https://www.youtube.com/watch?v=cbAUrC2AuZk",
+   "title": "William Duckworth - A Ballad in Time & Space",
+   "channel": "Jonathan Deysher",
+   "duration": 172,
+   "partial": false
+  },
+  {
+   "work": "William Duckworth - Pitt County Excursions",
+   "url": "https://www.youtube.com/watch?v=Z7Hyi8M_rdI",
+   "title": "Pit County Excursions by William Duckworth",
+   "channel": "jazsax",
+   "duration": 224,
+   "partial": false
+  },
+  {
+   "work": "William Karlins - Music for Tenor Saxophone and Piano",
+   "url": "https://www.youtube.com/watch?v=3MZGDWOnq9M",
+   "title": "M William Karlins - Music for Tenor Saxophone and Piano",
+   "channel": "Andrew Hosler",
+   "duration": 615,
+   "partial": false
+  },
+  {
+   "work": "William Presser - Rhapsody",
+   "url": "https://www.youtube.com/watch?v=pHsPYAHdOwE",
+   "title": "Rhapsody by William Presser for tenor saxophone",
+   "channel": "Jeremy Justeson",
+   "duration": 167,
+   "partial": false
+  },
+  {
+   "work": "William Schmidt - Sonata (Baritone)",
+   "url": "https://www.youtube.com/watch?v=yG0-IE0UVXY",
+   "title": "William Schmidt, Sonata for Baritone Saxophone and Piano",
+   "channel": "Max Marquis",
+   "duration": 893,
+   "partial": false
+  },
+  {
+   "work": "William Schmidt - Sonatina",
+   "url": "https://www.youtube.com/watch?v=1MODjIWT4i4",
+   "title": "SCHMIDT Sonatina for Tenor Saxophone and Piano",
+   "channel": "Alex Dietz",
+   "duration": 456,
+   "partial": false
+  },
+  {
+   "work": "Yoshihisa Taïra - Pénombres VI",
+   "url": "https://www.youtube.com/watch?v=k4BDGtlJtAs",
+   "title": "Mikhail Kazakov (Russia) - Pénombres VI by Yoshihisa Taïra (Dinant 2019)",
+   "channel": "AdolphesaxTV",
+   "duration": 627,
+   "partial": false
+  }
+ ]
+}

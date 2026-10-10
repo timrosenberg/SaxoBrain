@@ -12,5 +12,6 @@ wikidata: Q762623
 photo: 
 photo-credit: 
 photo-source: 
+website: https://www.marilynshrude.com
 aliases: []
 ---

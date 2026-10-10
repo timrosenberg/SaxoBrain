@@ -6,8 +6,8 @@
   const lvClass = y => "lv-" + ((LEVELS.find(l => l[0] === y) || [0, "none"])[1]);
   const SAX = ["Soprano Saxophone", "Alto Saxophone", "Tenor Saxophone", "Baritone Saxophone", "Bass Saxophone"];
   const WITH = ["Piano", "Unaccompanied", "Orchestra", "Band", "Electronics", "Percussion"];
-  // Sort orders: composer (last name), title (ignoring a leading article), year of study (then composer).
-  const SORTS = { composer: { key: "k", label: "composer" }, title: { key: "tk", label: "title" }, level: { key: "lk", label: "year of study" } };
+  // Sort orders: composer (last name), title (ignoring a leading article), year of study (then composer), newest additions (date added, newest first).
+  const SORTS = { composer: { key: "k", label: "composer" }, title: { key: "tk", label: "title" }, level: { key: "lk", label: "year of study" }, added: { key: "ak", label: "newest additions" } };
   const short = t => t.replace(" Saxophone", "");
   const fold = s => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
   const esc = s => String(s).replace(/[&<>"]/g, ch => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[ch]));
@@ -185,11 +185,12 @@
     W = data;
     W.forEach(w => {
       const n = w.c.length ? w.c[0] : "zzz", parts = n.split(/\s+/);
-      w.k = fold(parts[parts.length - 1] + " " + n + " " + w.t);
+      w.k = fold((w.l || parts[parts.length - 1]) + " " + n + " " + w.t);
       w.hay = fold(w.t + " " + w.c.join(" "));
       w.tk = fold(w.t.replace(/^[^\p{L}\p{N}]+/u, "").replace(/^(?:(?:the|a|an|le|la|les)\s+|l['’])/i, "")) + " " + w.k;
       const li = LEVELS.findIndex(l => l[0] === w.y);
       w.lk = (li < 0 ? 9 : li) + " " + w.k;
+      w.ak = (99999999 - Number((w.a || "0").slice(0, 10).replace(/-/g, "") || 0)) + " " + w.k;
     });
     buildChips(); readUrl(); applySort(); syncChips(); render();
     document.querySelector(".sort").hidden = false;

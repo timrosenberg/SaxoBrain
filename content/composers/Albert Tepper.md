@@ -1,14 +1,15 @@
 ---
-title: "Robert Tepper"
-slug: robert-tepper
+title: "Albert Tepper"
+slug: albert-tepper
 nationality: []
 gender: 
 race: []
-born: 1950
-died: 
-wikidata: Q2531165
+born: 1921
+died: 2010
+wikidata: 
 photo: 
 photo-credit: 
 photo-source: 
-aliases: []
+aliases:
+  - /composers/robert-tepper/
 ---

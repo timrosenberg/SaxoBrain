@@ -9,7 +9,13 @@ instruments:
 composed: 
 year-of-study: 
 streaming: 
-purchase: []
+purchase:
+  - https://www.grothmusic.com/p-144548.aspx
 added: 2024-03-08
+research:
+  - "Billaudot GB5255 · https://www.grothmusic.com/p-144548.aspx"
 aliases: []
 ---
+## Research notes (private)
+
+- Billaudot GB5255 · [grothmusic.com](https://www.grothmusic.com/p-144548.aspx)

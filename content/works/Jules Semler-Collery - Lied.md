@@ -1,8 +1,8 @@
 ---
 title: "Lied"
-slug: jules-auguste-semler-collery-lied
+slug: jules-semler-collery-lied
 composer:
-  - "[[Jules-Auguste Semler-Collery]]"
+  - "[[Jules Semler-Collery]]"
 instruments:
   - "Alto Saxophone"
   - "Piano"
@@ -11,5 +11,6 @@ year-of-study:
 streaming: 
 purchase: []
 added: 2024-03-08
-aliases: []
+aliases:
+  - /works/jules-auguste-semler-collery-lied/
 ---

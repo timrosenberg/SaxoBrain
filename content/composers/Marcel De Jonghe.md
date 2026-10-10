@@ -4,9 +4,9 @@ slug: marcel-de-jonghe
 nationality:
 gender:
 race:
-born: 
+born: 1943
 died: 
-wikidata: 
+wikidata: Q74367543
 photo: 
 photo-credit: 
 photo-source: 

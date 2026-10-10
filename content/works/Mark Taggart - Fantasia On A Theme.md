@@ -1,8 +1,8 @@
 ---
 title: "Fantasia On A Theme"
-slug: james-taggart-fantasia-on-a-theme
+slug: mark-taggart-fantasia-on-a-theme
 composer:
-  - "[[James Taggart]]"
+  - "[[Mark Taggart]]"
 instruments:
   - "Soprano Saxophone"
 composed: 
@@ -10,5 +10,6 @@ year-of-study:
 streaming: 
 purchase: []
 added: 2025-04-18
-aliases: []
+aliases:
+  - /works/james-taggart-fantasia-on-a-theme/
 ---

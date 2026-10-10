@@ -9,7 +9,8 @@ instruments:
 composed: 
 year-of-study: 
 streaming: 
-purchase: []
+purchase:
+  - "https://www.boosey.com/shop/directory/product/composer/Thiriet-Maurice/Thiriet,%20Maurice"
 added: 2024-03-08
 aliases: []
 ---

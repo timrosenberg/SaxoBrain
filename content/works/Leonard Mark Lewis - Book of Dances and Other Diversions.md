@@ -10,7 +10,7 @@ composed:
 year-of-study: 
 streaming: 
 purchase:
-  - "https://www.leonardmarklewis.com/book-of-dances-and-other-diversions"
+  - https://www.leonardmarklewis.com/book-of-dances-and-other-diversions
 added: 2025-04-16
 aliases: []
 ---

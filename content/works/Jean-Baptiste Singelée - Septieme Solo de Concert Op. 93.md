@@ -13,5 +13,10 @@ publisher:
 streaming: 
 purchase: []
 added: 2024-03-08
+research:
+  - "Groth lists Dorn Publications DORN2016 (baritone or other saxophone and piano; E-flat and B-flat parts), page gives 'written 1863'; edition is baritone, not alto, so not used as composed · https://www.grothmusic.com/p-139749.aspx"
 aliases: []
 ---
+## Research notes (private)
+
+- Groth lists Dorn Publications DORN2016 (baritone or other saxophone and piano; E-flat and B-flat parts), page gives 'written 1863'; edition is baritone, not alto, so not used as composed · [grothmusic.com](https://www.grothmusic.com/p-139749.aspx)

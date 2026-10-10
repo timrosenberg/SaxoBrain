@@ -9,7 +9,13 @@ instruments:
 composed: 
 year-of-study: 
 streaming: 
-purchase: []
+purchase:
+  - https://www.grothmusic.com/p-147609.aspx
 added: 2024-03-08
+research:
+  - "Publisher Editions Marc Reift, catalog EMR2307E; optional castanets and drum set · https://www.grothmusic.com/p-147609.aspx"
 aliases: []
 ---
+## Research notes (private)
+
+- Publisher Editions Marc Reift, catalog EMR2307E; optional castanets and drum set · [grothmusic.com](https://www.grothmusic.com/p-147609.aspx)

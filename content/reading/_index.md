@@ -12,7 +12,7 @@ The following list is a short, and by no means exhaustive set of saxophone-focus
 
 - [Fall] [[Teaching Students How to Practice by Steven Mauk|Teaching Students How to Practice by Steven Mauk]]
 - [Fall] [[8 Practice Hacks by Noa Kageyama|8 Practice Hacks by Noa Kageyama]]
-- [Spring] A Jazz Guide to Practicing: How to Get the Most Out of Your Practice Sessions by Brett Vaarstra
+- [Spring] A Jazz Guide to Practicing: How to Get the Most Out of Your Practice Sessions by Brent Vaartstra
     
     [Vaartstra - A Jazz Guide to Practicing.pdf](/media/reading/Vaartstra_-_A_Jazz_Guide_to_Practicing.pdf)
     

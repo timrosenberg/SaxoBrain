@@ -12,5 +12,6 @@ wikidata: Q18921551
 photo: 
 photo-credit: 
 photo-source: 
+website: https://www.clareloveday.co.za
 aliases: []
 ---

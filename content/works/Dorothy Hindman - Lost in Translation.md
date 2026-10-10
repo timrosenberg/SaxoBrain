@@ -1,15 +1,18 @@
 ---
-title: "Lost in Translation"
+title: Lost in Translation
 slug: dorothy-hindman-lost-in-translation
 composer:
   - "[[Dorothy Hindman]]"
 instruments:
-  - "Soprano Saxophone"
-  - "Piano"
-composed: 
-year-of-study: 
-streaming: "https://www.noaevenmusic.com/I%20%20Takuma%20%20%7C%20%20Sarcasms%20(2008)%208%E2%80%99%20%20%7C%20%20alto%20saxophone%20piano"
-purchase: []
+  - Soprano Saxophone
+  - Piano
+composed: 2005
+year-of-study: Fourth Year
+streaming: |
+  https://www.youtube.com/watch?v=9EkxXfCSKmY
+purchase:
+  - https://www.grothmusic.com/p-140201.aspx
 added: 2024-02-21
+research:
 aliases: []
 ---

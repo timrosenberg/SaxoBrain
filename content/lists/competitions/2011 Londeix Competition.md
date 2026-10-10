@@ -49,7 +49,7 @@ Choose one
 6. [[Marilyn Shrude - Renewing the Myth|Renewing the Myth]] (alto saxophone) by Marilyn SHRUDE (pub. Lemoine)
 7. [[Yoshihisa Taïra - Pénombres VI|Pénombre VI]] (alto saxophone) by Yoshihisa TAÏRA (pub. Transatlantiques)
 8. [[Denis Levaillant - Manhattan-Rhapsody|Manhattan-Rhapsody]] (tenor saxophone) by Denis LEVAILLANT ([http://www.denislevaillant.net/english/chambre.php](http://www.denislevaillant.net/english/chambre.php))
-9. [[François Rossé - Silence for a disturbed yell|Silence for a disturbed yell]] (baritone saxophone) by François ROSSÉ (pub. Fuzeau).
+9. [[François Rossé - Silence for a Disturbed Yell|Silence for a disturbed yell]] (baritone saxophone) by François ROSSÉ (pub. Fuzeau).
 
 ## The Final round
 

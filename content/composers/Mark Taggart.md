@@ -1,6 +1,6 @@
 ---
-title: "James Taggart"
-slug: james-taggart
+title: "Mark Taggart"
+slug: mark-taggart
 nationality: []
 gender: 
 race: []
@@ -10,5 +10,6 @@ wikidata:
 photo: 
 photo-credit: 
 photo-source: 
-aliases: []
+aliases:
+  - /composers/james-taggart/
 ---

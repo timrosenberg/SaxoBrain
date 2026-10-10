@@ -12,5 +12,6 @@ wikidata: Q322851
 photo: 
 photo-credit: 
 photo-source: 
+website: https://www.claudetsmith.com
 aliases: []
 ---

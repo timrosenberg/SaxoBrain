@@ -9,7 +9,13 @@ instruments:
 composed: 
 year-of-study: 
 streaming: 
-purchase: []
+purchase:
+  - https://www.grothmusic.com/p-145619.aspx
 added: 2024-03-08
+research:
+  - "Publisher Dorn Publications, catalog DORN0184 · https://www.grothmusic.com/p-145619.aspx"
 aliases: []
 ---
+## Research notes (private)
+
+- Publisher Dorn Publications, catalog DORN0184 · [grothmusic.com](https://www.grothmusic.com/p-145619.aspx)

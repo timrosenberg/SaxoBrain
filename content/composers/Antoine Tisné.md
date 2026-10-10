@@ -1,5 +1,5 @@
 ---
-title: "Antoine Tisne"
+title: "Antoine Tisné"
 slug: antoine-tisne
 nationality: []
 gender: 

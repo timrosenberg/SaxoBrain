@@ -1,5 +1,6 @@
 {{ define "main" }}
-{{- /* Composer index: every composer with at least one work, grouped by the first letter of the last name.
+{{- /* Composer index: every composer with at least one work, grouped by the first letter of the last name
+       (or of `sort-name:` when the family name comes first, e.g. Chen Yi).
        The list is plain HTML so it works without JavaScript; static/js/composers.js filters it in place
        using the data- attributes on each row. Composers with no works keep their pages but are left out here. */ -}}
 {{- $fold := dict "á" "a" "à" "a" "â" "a" "ä" "a" "å" "a" "č" "c" "ç" "c" "é" "e" "è" "e" "ê" "e" "ë" "e" "í" "i" "î" "i" "ï" "i" "ñ" "n" "ó" "o" "ô" "o" "ö" "o" "ø" "o" "š" "s" "ś" "s" "ú" "u" "ü" "u" "ž" "z" "ż" "z" "ł" "l" -}}
@@ -10,6 +11,7 @@
     {{- $parts := split .Title " " -}}
     {{- $last := index $parts (sub (len $parts) 1) -}}
     {{- if and (gt (len $parts) 1) (findRE `^(Jr\.?|Sr\.?|II|III|IV)$` $last) -}}{{ $last = index $parts (sub (len $parts) 2) }}{{- end -}}
+    {{- with index .Params "sort-name" }}{{ $last = . }}{{ end -}}
     {{- $key := replaceRE `^d'` "" (lower $last) -}}
     {{- $first := substr $key 0 1 -}}
     {{- $letter := upper (index $fold $first | default $first) -}}

@@ -1,6 +1,6 @@
 ---
-title: "Karlheinz Pichaureau"
-slug: karlheinz-pichaureau
+title: "Claude Pichaureau"
+slug: claude-pichaureau
 nationality: []
 gender: 
 race: []
@@ -10,5 +10,6 @@ wikidata:
 photo: 
 photo-credit: 
 photo-source: 
-aliases: []
+aliases:
+  - /composers/karlheinz-pichaureau/
 ---

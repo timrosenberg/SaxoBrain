@@ -43,8 +43,9 @@
 <dl class="facts">
 {{ with .Params.composed }}<dt>Composed</dt><dd>{{ . }}</dd>{{ end }}
 <dt>Instrumentation</dt><dd>{{ delimit .Params.instruments ", " }}</dd>
-{{ with index .Params "arranger-edition" }}<dt>Edition</dt><dd>{{ delimit . ", " }}</dd>{{ end }}
-{{ with .Params.publisher }}<dt>Publisher</dt><dd>{{ delimit . ", " }}</dd>{{ end }}
+{{ with index .Params "arranger-edition" }}<dt>Edition</dt><dd>{{ delimit (cond (reflect.IsSlice .) . (slice .)) ", " }}</dd>{{ end }}
+{{ with .Params.publisher }}<dt>Publisher</dt><dd>{{ delimit (cond (reflect.IsSlice .) . (slice .)) ", " }}</dd>{{ end }}
+{{ with index (partialCached "lists-index.html" "all") .Path }}<dt>Competition lists</dt><dd>{{ range $i, $l := . }}{{ if $i }}, {{ end }}<a href="{{ $l.RelPermalink }}">{{ $l.Title }}</a>{{ end }}</dd>{{ end }}
 </dl>
 
 {{ partial "notice.html" . }}

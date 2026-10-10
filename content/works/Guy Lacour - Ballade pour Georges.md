@@ -9,7 +9,13 @@ instruments:
 composed: 
 year-of-study: 
 streaming: 
-purchase: []
+purchase:
+  - https://www.grothmusic.com/p-147507.aspx
 added: 2024-03-08
+research:
+  - "Publisher Billaudot, catalog GB6014 · https://www.grothmusic.com/p-147507.aspx"
 aliases: []
 ---
+## Research notes (private)
+
+- Publisher Billaudot, catalog GB6014 · [grothmusic.com](https://www.grothmusic.com/p-147507.aspx)

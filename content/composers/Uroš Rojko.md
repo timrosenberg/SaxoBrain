@@ -4,9 +4,9 @@ slug: uros-rojko
 nationality:
 gender:
 race:
-born: 
+born: 1954
 died: 
-wikidata: 
+wikidata: Q1688098
 photo: 
 photo-credit: 
 photo-source: 

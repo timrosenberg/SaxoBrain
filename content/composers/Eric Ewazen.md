@@ -12,5 +12,6 @@ wikidata: Q509955
 photo: "/media/composers/eric-ewazen.jpg"
 photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Eric_Ewazen.jpg"
+website: http://www.ericewazen.com/
 aliases: []
 ---

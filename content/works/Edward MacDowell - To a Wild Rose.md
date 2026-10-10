@@ -11,7 +11,15 @@ year-of-study:
 arranger-edition:
   - "Randall Hall"
 streaming: 
-purchase: []
+purchase:
+  - https://www.grothmusic.com/p-145581.aspx
 added: 2024-03-08
+research:
+  - "Publisher Dorn Publications, catalog number DORN1345 · https://www.grothmusic.com/p-145581.aspx"
+  - "Arranged by Richard Hall; 5 pages · https://www.grothmusic.com/p-145581.aspx"
 aliases: []
 ---
+## Research notes (private)
+
+- Publisher Dorn Publications, catalog number DORN1345 · [grothmusic.com](https://www.grothmusic.com/p-145581.aspx)
+- Arranged by Richard Hall; 5 pages · [grothmusic.com](https://www.grothmusic.com/p-145581.aspx)

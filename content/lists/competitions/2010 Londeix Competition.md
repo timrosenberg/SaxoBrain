@@ -47,7 +47,7 @@ With piano accompaniment- maximum length: 30 minutes. Two works to be chosen fro
 - [[Marilyn Shrude - Renewing the Myth|Renewing the Myth]] (alto saxophone) by Marilyn SHRUDE (pub. Lemoine)
 - [[Yoshihisa Taïra - Pénombres VI|Pénombre VI]] (alto saxophone) by Yoshihisa TAÏRA (pub. Transatlantiques)
 - [[Denis Levaillant - Manhattan-Rhapsody|Manhattan-Rhapsody]] (tenor saxophone) by Denis LEVAILLANT ([http://www.denislevaillant.net/english/chambre.php](http://www.denislevaillant.net/english/chambre.php))
-- [[François Rossé - Silence for a disturbed yell|Silence for a disturbed yell]] (baritone saxophone) by François ROSSÉ (pub. Fuzeau)
+- [[François Rossé - Silence for a Disturbed Yell|Silence for a disturbed yell]] (baritone saxophone) by François ROSSÉ (pub. Fuzeau)
 
 ## The Final round
 

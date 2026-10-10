@@ -1,16 +1,16 @@
 ---
-title: "Sonata"
+title: Sonata
 slug: paul-creston-sonata
 composer:
   - "[[Paul Creston]]"
 instruments:
-  - "Alto Saxophone"
-  - "Piano"
-composed: 
-year-of-study: "Third Year"
-streaming: 
+  - Alto Saxophone
+  - Piano
+composed: 1945
+year-of-study: Third Year
+streaming: https://www.youtube.com/watch?v=17mhZ8rIv2Y
 purchase:
-  - "https://www.sheetmusicplus.com/title/sonata-opus-19-for-eb-alto-saxophone-sheet-music/839922?aff_id=426309&utm_medium=plg1?aff_id=426309&utm_medium=plg1"
+  - https://www.sheetmusicplus.com/title/sonata-opus-19-for-eb-alto-saxophone-sheet-music/839922?aff_id=426309&utm_medium=plg1?aff_id=426309&utm_medium=plg1
 studied-performed: true
 want-to-play: true
 added: 2019-08-28

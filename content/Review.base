@@ -1,0 +1,101 @@
+properties:
+  note.year-of-study:
+    displayName: Year of Study
+  note.research:
+    displayName: Research
+views:
+  - type: table
+    name: To level, with research
+    filters:
+      and:
+        - file.inFolder("content/works")
+        - note["year-of-study"].isEmpty()
+        - '!note["research"].isEmpty()'
+    order:
+      - file.name
+      - instruments
+      - composed
+      - research
+      - streaming
+      - purchase
+      - download
+      - year-of-study
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 455
+      note.research: 879
+  - type: table
+    name: To level, no research yet
+    filters:
+      and:
+        - file.inFolder("content/works")
+        - note["year-of-study"].isEmpty()
+        - note["research"].isEmpty()
+    order:
+      - file.name
+      - instruments
+      - composed
+      - streaming
+      - purchase
+      - year-of-study
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 300
+  - type: table
+    name: To level, with a recording
+    filters:
+      and:
+        - file.inFolder("content/works")
+        - note["year-of-study"].isEmpty()
+        - '!note["streaming"].isEmpty()'
+    order:
+      - file.name
+      - instruments
+      - composed
+      - streaming
+      - research
+      - year-of-study
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 300
+  - type: table
+    name: To level, with a score link
+    filters:
+      and:
+        - file.inFolder("content/works")
+        - note["year-of-study"].isEmpty()
+        - or:
+            - '!note["purchase"].isEmpty()'
+            - '!note["download"].isEmpty()'
+    order:
+      - file.name
+      - instruments
+      - purchase
+      - download
+      - research
+      - year-of-study
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 300
+  - type: table
+    name: Composers with a website
+    filters:
+      and:
+        - file.inFolder("content/composers")
+        - '!note["website"].isEmpty()'
+    order:
+      - file.name
+      - website
+      - born
+      - died
+    sort:
+      - property: file.name
+        direction: ASC

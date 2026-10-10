@@ -1,6 +1,6 @@
 ---
-title: "Royden Tse"
-slug: royden-tse
+title: "Roydon Tse"
+slug: roydon-tse
 nationality:
   - "🇨🇳 Chinese"
   - "🇨🇦 Canadian"
@@ -13,5 +13,6 @@ wikidata: Q130364949
 photo: 
 photo-credit: 
 photo-source: 
-aliases: []
+aliases:
+  - /composers/royden-tse/
 ---

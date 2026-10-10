@@ -6,9 +6,9 @@ nationality:
 gender: "Male"
 race:
   - "White"
-born: 
+born: 1941
 died: 
-wikidata: 
+wikidata: Q1680274
 photo: 
 photo-credit: 
 photo-source: 

@@ -1,8 +1,8 @@
 ---
 title: "Nouvelles Études Variées"
-slug: jean-marie-londiex-nouvelles-etudes-variees
+slug: jean-marie-londeix-nouvelles-etudes-variees
 composer:
-  - "[[Jean-Marie Londiex]]"
+  - "[[Jean-Marie Londeix]]"
 instruments:
   - "Soprano Saxophone"
   - "Alto Saxophone"
@@ -16,5 +16,6 @@ streaming:
 purchase:
   - "https://www.amazon.com/Nouvelles-Etudes-Variees-Pour-Saxophone/dp/B00268NYRU?tag=timothyrosenb-20"
 added: 2019-08-28
-aliases: []
+aliases:
+  - /works/jean-marie-londiex-nouvelles-etudes-variees/
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Chen Yi"
+sort-name: "Chen"
 slug: chen-yi
 nationality:
   - "🇨🇳 Chinese"

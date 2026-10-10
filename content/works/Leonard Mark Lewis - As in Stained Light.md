@@ -10,6 +10,7 @@ composed:
 year-of-study: 
 streaming: 
 purchase:
+  - https://www.leonardmarklewis.com/as-in-stained-light
   - "https://www.leonardmarklewis.com/as-in-stained-light-1"
 added: 2024-03-08
 aliases: []

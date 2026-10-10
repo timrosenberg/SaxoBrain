@@ -1,2 +1,3 @@
-{{- /* Page body with Obsidian links resolved (see resolve-links.html). */ -}}
-{{- return (partial "resolve-links.html" (dict "html" (.Content | string) "page" .) | safeHTML) -}}
+{{- /* Page body with Obsidian links resolved (see resolve-links.html). The "Research notes (private)" section is for Tim's review in Obsidian and is never published. */ -}}
+{{- $html := .Content | string | replaceRE `(?s)<h2 id="research-notes-private".*?(<h2 |\z)` "$1" -}}
+{{- return (partial "resolve-links.html" (dict "html" $html "page" .) | safeHTML) -}}

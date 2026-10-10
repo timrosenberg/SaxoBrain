@@ -9,7 +9,13 @@ instruments:
 composed: 
 year-of-study: 
 streaming: 
-purchase: []
+purchase:
+  - https://www.grothmusic.com/p-38044.aspx
 added: 2024-03-08
+research:
+  - "Edited by Voxman/Block; publisher Southern, catalog no. ST791 · https://www.grothmusic.com/p-38044.aspx"
 aliases: []
 ---
+## Research notes (private)
+
+- Edited by Voxman/Block; publisher Southern, catalog no. ST791 · [grothmusic.com](https://www.grothmusic.com/p-38044.aspx)

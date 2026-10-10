@@ -1,6 +1,6 @@
 ---
-title: "Iain MacMillan"
-slug: iain-macmillan
+title: "James MacMillan"
+slug: james-macmillan
 nationality: []
 gender: 
 race: []
@@ -10,5 +10,6 @@ wikidata:
 photo: 
 photo-credit: 
 photo-source: 
-aliases: []
+aliases:
+  - /composers/iain-macmillan/
 ---

@@ -30,7 +30,7 @@ By the time a student reaches their fourth year of study they should have advanc
 - [[Erwin Schulhoff - Hot Sonate]]
 - [[John Williams - Escapades]]
 - [[Raymond Alessandrini - Cronos]]
-- [[Piet Swertz - Klonos]]
+- [[Piet Swerts - Klonos]]
 - [[Christian Lauba - Neuf Études, Book 1 - No. 1 Balafon]]
 - [[Walter Hartley - Sonata for Tenor Saxophone and Piano]]
 - [[Walter Hartley - Duo for Tenor Saxophone and Piano]]
