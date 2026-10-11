@@ -14,7 +14,7 @@ notion-id: 85e52f6a2a894817867dcdf647be2dac
 
 - [[Guy Lacour|Guy Lacour]]: [[Guy Lacour - Hommage à Jaques Ibert|Hommage à Jaques Ibert]] - third movement
 - [[Dorothy Chang|Dorothy Chang]]: [[Dorothy Chang - Two Preludes|Two Preludes]]
-- [[Michael Lysight|Michael Lysight]]: [[Michael Lysight - Chronographie IX|Chronographie IX]]
+- [[Michel Lysight|Michel Lysight]]: [[Michel Lysight - Chronographie IX|Chronographie IX]]
 - [[Gregory Wanamaker|Gregory Wanamaker]]: [[Gregory Wanamaker - Of Light and Shadows|Of Light and Shadows]] - second movement
 - [[Paule Maurice|Paule Maurice]]: [[Paule Maurice - Tableaux de Provence|Tableaux de Provence]]
 

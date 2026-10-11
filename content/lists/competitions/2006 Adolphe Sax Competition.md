@@ -22,7 +22,7 @@ Each candidate will present **two works**:
 - *[[Willy Bauweraerts - Trilogie|Trilogie]]* by Willy Bauweraerts - Ed. Golden River Music - Deken Debostraat, 61 - B-8791 Beveren-Leie - goldenrivermusic@pandora.be
 - *[[Jean Absil - Sonate, Op. 115|Sonate]]* by Jean Absil - Ed. Lemoine - Rue Bayen, 41 - F-75017 Paris - info@editions-lemoine.fr
 - *[[René Bernier - Hommage à Sax|Hommage à Sax]]* by René Bernier - Ed Leduc - Rue St-Honoré, 175 - F-75040 Paris cedex 01 - AlphonseLeduc@wanadoo.fr
-- *[[Michael Lysight - Chronographie IX|Chronographie IX]]* by Michel Lysight - Ed. Alain Van Kerckhoven - Avenue Broustin, 110 - B-1083 Ganshoren - ncm@avk.org
+- *[[Michel Lysight - Chronographie IX|Chronographie IX]]* by Michel Lysight - Ed. Alain Van Kerckhoven - Avenue Broustin, 110 - B-1083 Ganshoren - ncm@avk.org
 
 **SEMI FINALS**
 

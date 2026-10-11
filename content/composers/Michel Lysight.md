@@ -1,6 +1,6 @@
 ---
-title: "Michael Lysight"
-slug: michael-lysight
+title: "Michel Lysight"
+slug: michel-lysight
 nationality:
   - "🇧🇪 Belgian"
   - "🇨🇦 Canadian"
@@ -13,5 +13,6 @@ wikidata: Q3310230
 photo: 
 photo-credit: 
 photo-source: 
-aliases: []
+aliases:
+  - /composers/michael-lysight/
 ---

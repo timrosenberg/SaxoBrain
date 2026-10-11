@@ -26,7 +26,7 @@
 {{ end }}
 {{ with findRESubmatch `^https://open\.spotify\.com/(?:intl-[a-z]+/)?(track|album|playlist|episode|show)/([A-Za-z0-9]+)` $url 1 }}
 {{ $kind := index (index . 0) 1 }}
-<div class="audio spotify {{ $kind }}"><iframe src="https://open.spotify.com/embed/{{ $kind }}/{{ index (index . 0) 2 }}" title="Recording of {{ $.Title }} on Spotify" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></div>
+<div class="audio spotify sp-{{ $kind }}"><iframe src="https://open.spotify.com/embed/{{ $kind }}/{{ index (index . 0) 2 }}" title="Recording of {{ $.Title }} on Spotify" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></div>
 {{ end }}
 {{ if findRE `^https://[a-z0-9-]+\.bandcamp\.com/(?:track|album)/[^/?#]+` $url }}
 {{ $page := index (split (index (split $url "?") 0) "#") 0 }}
@@ -42,7 +42,7 @@
 
 <dl class="facts">
 {{ with .Params.composed }}<dt>Composed</dt><dd>{{ . }}</dd>{{ end }}
-<dt>Instrumentation</dt><dd>{{ delimit .Params.instruments ", " }}</dd>
+<dt>Instrumentation</dt><dd>{{ (index .Params "multi-instruments") | default (delimit .Params.instruments ", ") }}</dd>
 {{ with index .Params "arranger-edition" }}<dt>Edition</dt><dd>{{ delimit (cond (reflect.IsSlice .) . (slice .)) ", " }}</dd>{{ end }}
 {{ with .Params.publisher }}<dt>Publisher</dt><dd>{{ delimit (cond (reflect.IsSlice .) . (slice .)) ", " }}</dd>{{ end }}
 {{ with index (partialCached "lists-index.html" "all") .Path }}<dt>Competition lists</dt><dd>{{ range $i, $l := . }}{{ if $i }}, {{ end }}<a href="{{ $l.RelPermalink }}">{{ $l.Title }}</a>{{ end }}</dd>{{ end }}

@@ -7,7 +7,7 @@ instruments:
   - "Soprano Saxophone"
   - "Cello"
 composed: 2013
-year-of-study: 
+year-of-study: "Second Year"
 streaming: 
 purchase: []
 library-recording:

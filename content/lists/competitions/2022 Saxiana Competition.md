@@ -35,7 +35,7 @@ Choose 1 title LIST A + choose 1 title LIST B + choose 1 title LIST C
 1 solo piece from the book [[Unknown - Saxiana Presto|Saxiana Presto]] 
 
 - [[Jun Nagao - L'oiseau enfermé|L'oiseau enfermé]] - [[Jun Nagao|Jun Nagao]]
-- [[Michael Lysight - Seti|Seti]] - [[Michael Lysight|Michael Lysight]]
+- [[Michel Lysight - Seti|Seti]] - [[Michel Lysight|Michel Lysight]]
 - [[Philippe Geiss - Sax Hero|Sax Hero]]
 - [[Gabriela Ortiz - Estudio Tongolele|Estudio Tongolele]]
 - [[Polina Medyulyanova - Hallucination|Hallucination]]

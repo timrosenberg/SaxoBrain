@@ -18,7 +18,7 @@ aliases: []
 ---
 
 - [[Jun Nagao - L'oiseau enfermé|L'oiseau enfermé]]
-- [[Michael Lysight - Seti|Seti]]
+- [[Michel Lysight - Seti|Seti]]
 - [[Philippe Geiss - Sax Hero|Sax Hero]]
 - [[Gabriela Ortiz - Estudio Tongolele|Estudio Tongolele]]
 - [[Polina Medyulyanova - Hallucination|Hallucination]]

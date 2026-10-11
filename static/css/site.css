@@ -151,7 +151,7 @@ article.page.lists, article.page.lists .prose, article.page.lists .notice { max-
 .audio iframe { width: 100%; height: 166px; border: 0; display: block; border-radius: 10px; }
 .audio.bandcamp iframe { height: 120px; }
 .audio.spotify iframe { height: 152px; }
-.audio.spotify:is(.album, .playlist, .show) iframe { height: 352px; }
+.audio.spotify:is(.sp-album, .sp-playlist, .sp-show) iframe { height: 352px; }
 /* Labels and values share one font, size and color, matching a recording's "Released" line */
 .facts { display: grid; grid-template-columns: auto 1fr; gap: 6px 16px; margin: 14px 0; color: var(--muted); }
 .facts dd { margin: 0; min-width: 0; }

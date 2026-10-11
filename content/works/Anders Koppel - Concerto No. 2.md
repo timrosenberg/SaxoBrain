@@ -8,7 +8,7 @@ instruments:
   - "Piano"
   - "Orchestra"
 composed: 2003
-year-of-study: 
+year-of-study: "Fourth Year"
 streaming: 
 purchase: []
 library-recording:

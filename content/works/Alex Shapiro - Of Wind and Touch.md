@@ -7,7 +7,7 @@ instruments:
   - "Baritone Saxophone"
   - "Piano"
 composed: 2006
-year-of-study: 
+year-of-study: "Fourth Year"
 streaming: "http://murphymusicpress.com/products/s-123"
 purchase:
   - https://alexshapiro.org/OfWindandTouchpg1.html

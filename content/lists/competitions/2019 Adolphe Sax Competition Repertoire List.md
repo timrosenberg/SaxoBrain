@@ -38,7 +38,7 @@ One of the following:
 3. [[Mischa Zupko|Mischa Zupko]]: [[Mischa Zupko - In Transit|In Transit]] *– Movements 3 (“So alone am I”), 4 (“Rush hour”), and 5 (“The dream”)* (Publisher: Resolute Music Publications)
 4. [[Bruno Mantovani|Bruno Mantovani]]: [[Bruno Mantovani - L’Incandescence de la bruine|L’Incandescence de la bruine]] (Publisher: Henry Lemoine)
 5. [[Yoshihisa Taïra|Yoshihisa Taïra]]: [[Yoshihisa Taïra - Pénombres VI|Pénombres VI]] (Publisher: Editions musicales transatlantiques)
-6. [[Michael Lysight|Michael Lysight]]: [[Michael Lysight - Sonata|Sonata (Lysight)]] (Publisher: Alain Van Kerckhoven)
+6. [[Michel Lysight|Michel Lysight]]: [[Michel Lysight - Sonata|Sonata (Lysight)]] (Publisher: Alain Van Kerckhoven)
 7. [[Roshanne Etezady|Roshanne Etezady]]: [[Roshanne Etezady - Streetlegal|Streetlegal]] (Publisher: Lauren Keiser Music Publishing)
 
 **A work of the candidate’s choice for solo saxophone.**

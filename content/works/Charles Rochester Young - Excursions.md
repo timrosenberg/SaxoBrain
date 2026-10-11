@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Marimba"
 composed: 1989
-year-of-study: 
+year-of-study: "Third Year"
 arranger-edition: 
 streaming: 
 purchase: []

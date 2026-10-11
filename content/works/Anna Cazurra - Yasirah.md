@@ -6,7 +6,7 @@ composer:
 instruments:
   - "Soprano Saxophone"
 composed: 2003
-year-of-study: 
+year-of-study: "Second Year"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-143319.aspx
