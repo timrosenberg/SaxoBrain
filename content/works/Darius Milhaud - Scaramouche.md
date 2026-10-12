@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: "https://youtu.be/a9Wkv8y8ybQ"
 purchase:
   - "https://www.sheetmusicplus.com/title/scaramouche-sheet-music/19895990?aff_id=426309&utm_medium=plg1"

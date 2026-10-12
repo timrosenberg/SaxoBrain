@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Unaccompanied"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: "https://youtu.be/DtF38Dlpduc"
 purchase:
   - "https://www.amazon.com/Bozza-Improvisation-Caprice-Saxophone-Seul/dp/B01J4AC0IQ?tag=timothyrosenb-20"

@@ -8,7 +8,7 @@ instruments:
   - "Piano"
   - "Band"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: "https://song.link/i/495438446"
 purchase:
   - "https://www.sheetmusicplus.com/title/concertino-sheet-music/1787639?aff_id=426309&utm_medium=plg1"

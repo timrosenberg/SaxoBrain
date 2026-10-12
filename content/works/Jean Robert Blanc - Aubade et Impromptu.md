@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: 
 purchase:
   - "https://www.boosey.com/shop/prod/Blanc-Jean-Robert-Aubade-Et-Impromptu-Opus-29/2293164"

@@ -7,7 +7,7 @@ instruments:
   - Alto Saxophone
   - Guitar
 composed: 2009
-year-of-study: Second-Year
+year-of-study: Second Year
 streaming: https://open.spotify.com/track/3j8hIGF8M4Idykii37KP9t?autoplay_ok=1
 purchase:
   - https://cmccanada.org/shop/67900/

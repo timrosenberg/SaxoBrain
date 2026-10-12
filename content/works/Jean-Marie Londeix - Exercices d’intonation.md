@@ -11,7 +11,7 @@ instruments:
 tags:
   - "Etude"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: 
 purchase:
   - "https://www.di-arezzo.com/music/1026995/jean-marie-londeix-intonation-exercises-studies-of-all-saxophones-sheet-music.html"

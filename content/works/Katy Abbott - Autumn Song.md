@@ -7,7 +7,7 @@ instruments:
   - Piano
   - Tenor Saxophone
 composed: 2001
-year-of-study: Second-Year
+year-of-study: Second Year
 streaming: https://soundcloud.com/reedmusic-com/rm097-autumn-song-by-katy-abbott?in=katy-abbott%2Fsets%2Fautumn-song
 purchase:
   - https://www.reedmusic.com/1820/saxophone/saxophone-tenor/saxophone-tenor-piano-level-c/autumn-song-3/

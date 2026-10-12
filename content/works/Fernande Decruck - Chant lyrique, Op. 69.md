@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: "https://youtu.be/-Te2AUpTGXE?si=HmdWfQKtzkAlWr_0"
 purchase:
   - "https://www.sheetmusicplus.com/en/product/chant-lyrique-22538471.html"

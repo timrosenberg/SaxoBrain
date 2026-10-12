@@ -8,11 +8,14 @@ instruments:
 composed: 1987
 year-of-study: 
 streaming: 
-purchase: []
+purchase:
+  - "https://www.ficksmusic.com/products/eshpai-concerto-for-soprano-saxophone-muzyka"
 added: 2025-04-18
 research:
   - "Concerto for soprano saxophone and orchestra, 1987, about 19 minutes; Schirmer Russian Music (USA/Canada) · https://www.wisemusicclassical.com/work/44351/Concerto-for-Soprano-Saxophone-and-Orchestra--Andrei-Eshpai"
   - "Other sources date it 1985-86 or 1986 · https://www.ficksmusic.com/ja-jp/collections/saxophone/products/eshpai-concerto-for-soprano-saxophone-muzyka"
+publisher:
+  - "Muzyka"
 aliases:
   - /works/andrei-eshpal-concerto/
 ---
@@ -20,3 +23,27 @@ aliases:
 
 - Concerto for soprano saxophone and orchestra, 1987, about 19 minutes; Schirmer Russian Music (USA/Canada) · [wisemusicclassical.com](https://www.wisemusicclassical.com/work/44351/Concerto-for-Soprano-Saxophone-and-Orchestra--Andrei-Eshpai)
 - Other sources date it 1985-86 or 1986 · [ficksmusic.com](https://www.ficksmusic.com/ja-jp/collections/saxophone/products/eshpai-concerto-for-soprano-saxophone-muzyka)
+
+<!-- saxobrain-research-review-2026-10-11 -->
+
+### Research Review, October 11, 2026
+
+[[Review 0005 - Andrei Eshpai - Concerto|Full review note]]
+
+Catalog: [[Andrei Eshpai - Concerto]]
+
+- Identity: Andrei Eshpai's *Concerto for Soprano Saxophone and Orchestra* has conflicting dates in the existing research: Wise Music lists 1987, while a dealer calls it 1986. The saxophone edition includes a solo part with piano reduction, according to the Muzyka listing.
+- Composer/publisher catalog record is the primary lead for the orchestral work and edition. [Wise Music Classical](https://www.wisemusicclassical.com/work/44351/Concerto-for-Soprano-Saxophone-and-Orchestra--Andrei-Eshpai) (opened).
+- Dealer specifies 1986 and a solo part with piano reduction, exposing date disagreement. [Ficks Music](https://www.ficksmusic.com/products/eshpai-concerto-for-soprano-saxophone-muzyka) (opened).
+- Collection/use: Original orchestral concerto with solo saxophone; no transcription or simplified-audience evidence found.
+- Gaps: Composition date conflicts: publisher 1987 versus dealer 1986; leave unresolved.; Exact duration, score access, recording, and technical demands not verified.
+
+#### Catalog Details Added
+
+- Publisher: Muzyka. [Source](https://www.ficksmusic.com/products/eshpai-concerto-for-soprano-saxophone-muzyka)
+- Score purchase: Verified edition link added. [Source](https://www.ficksmusic.com/products/eshpai-concerto-for-soprano-saxophone-muzyka)
+
+#### Unresolved Catalog Details
+
+- A dealer lists the piano-reduction edition as 1986, while the current composed value is 1987; that listing does not establish original composition year, so the current value is preserved.
+

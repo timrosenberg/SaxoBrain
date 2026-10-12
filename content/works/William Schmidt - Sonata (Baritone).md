@@ -7,7 +7,7 @@ instruments:
   - "Baritone Saxophone"
   - "Piano"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: 
 purchase: []
 added: 2025-04-16

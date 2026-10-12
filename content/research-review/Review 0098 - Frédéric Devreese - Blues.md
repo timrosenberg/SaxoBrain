@@ -3,7 +3,7 @@ title: "Review 0098: Frédéric Devreese - Blues"
 added: 2026-10-11
 review-id: 98
 review-packet: 4
-review-decision: Second-Year
+review-decision: Second Year
 review-applied: true
 notation-inspected: true
 catalog-entry: "[[Frédéric Devreese - Blues]]"

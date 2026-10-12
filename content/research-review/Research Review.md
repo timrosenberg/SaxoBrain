@@ -17,7 +17,7 @@ Research for 409 works, completed October 11, 2026. Each work has its own review
 2. Give decisions by number in chat, or enter them in `review-decision` in the table below.
 3. Ask Codex to apply your approved level decisions to the catalog.
 
-Use `Pending` until you have decided. Level choices match the catalog: `Pre-college`, `First Year`, `Second-Year`, `Third Year`, `Fourth Year`, and `Advanced`. Use `Hold` for a work that needs more evidence. Use `Remove candidate` to flag a work for a separate removal decision.
+Use `Pending` until you have decided. Level choices match the catalog: `Pre-college`, `First Year`, `Second Year`, `Third Year`, `Fourth Year`, and `Advanced`. Use `Hold` for a work that needs more evidence. Use `Remove candidate` to flag a work for a separate removal decision.
 
 > [!note] Decisions and Catalog Entries
 > A review decision records your choice. It does not automatically update the linked catalog entry. `review-applied` records whether Codex has applied that decision. No levels were assigned during research.

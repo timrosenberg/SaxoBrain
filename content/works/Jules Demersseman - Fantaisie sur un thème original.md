@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 arranger-edition:
   - "Iwan Roth"
 streaming: "https://youtu.be/2SDrM3ITl2k"

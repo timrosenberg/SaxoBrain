@@ -6,7 +6,7 @@ composer:
 instruments:
   - "Alto Saxophone"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: 
 purchase:
   - "https://www.presser.com/114-40930-rhapsody-in-waltz-time.html"

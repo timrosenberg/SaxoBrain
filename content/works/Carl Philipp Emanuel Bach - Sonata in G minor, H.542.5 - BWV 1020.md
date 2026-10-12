@@ -7,7 +7,7 @@ instruments:
   - "Soprano Saxophone"
   - "Piano"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 arranger-edition:
   - "John Harle"
 streaming: "https://saxtienda.com/en/cds-y-dvds/2723-jean-denis-michat-bach-mozart-schubert-1620980371793.html"

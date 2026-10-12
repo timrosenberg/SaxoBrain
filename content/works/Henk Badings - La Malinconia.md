@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: 
 purchase:
   - "https://www.grothmusic.com/p-37514-la-malinconia-alto-sax-and-piano.aspx"

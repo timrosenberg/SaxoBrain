@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: "https://www.youtube.com/watch?v=pkRo9SFA97E"
 purchase:
   - "https://www.penders.com/p-32641-cantilena.aspx"

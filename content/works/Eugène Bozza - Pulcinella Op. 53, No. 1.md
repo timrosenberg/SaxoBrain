@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: "https://www.youtube.com/watch?v=IMVrEKdA3IY"
 purchase:
   - "https://www.hickeys.com/products/020/sku020730.htm"

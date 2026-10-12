@@ -6,7 +6,7 @@ composer:
 instruments:
   - "Soprano Saxophone"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: "https://www.youtube.com/watch?v=Wv_dm6VqkGo"
 purchase:
   - "https://www.tfront.com/p-182890-reflections-for-soprano-saxophone-and-piano.aspx"

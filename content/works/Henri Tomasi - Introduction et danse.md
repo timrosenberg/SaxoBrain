@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: "https://youtu.be/GVMCufq1aBY"
 purchase:
   - "https://www.sheetmusicplus.com/title/introduction-et-danse-for-alto-saxophone-and-piano-sheet-music/20746700?aff_id=426309&utm_medium=plg1"

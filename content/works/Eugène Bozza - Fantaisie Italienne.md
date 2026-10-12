@@ -8,7 +8,7 @@ instruments:
   - "Piano"
   - "Soprano Saxophone"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 arranger-edition:
   - "Grégoire Nicole"
 streaming: 

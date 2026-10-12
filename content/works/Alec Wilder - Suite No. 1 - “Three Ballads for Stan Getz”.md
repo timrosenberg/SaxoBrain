@@ -7,7 +7,7 @@ instruments:
   - "Tenor Saxophone"
   - "Piano"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: 
 purchase:
   - "http://www.dornpub.com/ken/tenpiano.html"

@@ -7,7 +7,7 @@ instruments:
   - "Any Saxophone"
   - "Piano"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: "https://youtu.be/T_m6_iMl5UY?si=k0j5WOe-LJ4qWibH"
 purchase: []
 added: 2024-03-04

@@ -8,7 +8,7 @@ instruments:
   - "Band"
   - "Piano"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: "https://www.youtube.com/watch?v=kzd8Bgv7bag"
 purchase:
   - "https://www.jwpepper.com/Concertino/5120316.item"

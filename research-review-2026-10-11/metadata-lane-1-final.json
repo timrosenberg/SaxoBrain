@@ -1,0 +1,1528 @@
+{
+  "lane": 1,
+  "reviewed_count": 150,
+  "works": [
+    {
+      "id": 1,
+      "filename": "Albert Gower - Elegy & Presto.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 2,
+      "filename": "Albert Tepper - Concertino.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Southern Music"
+          ],
+          "source_url": "https://keiserproductions.com/catalog/southern-music/?ic=&sc=&tc=&tid=31FAE9B6-28C5-4C96-AE1B-4558F1010F1B",
+          "evidence": "Southern Music lists the soprano saxophone edition of Concertino. Add to the currently blank publisher list."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 3,
+      "filename": "Alice Nakamura - Wind Channel.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 4,
+      "filename": "Andreas Makris - Fantasy and Dance.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 5,
+      "filename": "Andrei Eshpai - Concerto.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Muzyka"
+          ],
+          "source_url": "https://www.ficksmusic.com/products/eshpai-concerto-for-soprano-saxophone-muzyka",
+          "evidence": "The product listing identifies the Muzyka soprano-saxophone concerto edition. Add to the currently blank publisher list."
+        },
+        "purchase": {
+          "value": [
+            "https://www.ficksmusic.com/products/eshpai-concerto-for-soprano-saxophone-muzyka"
+          ],
+          "source_url": "https://www.ficksmusic.com/products/eshpai-concerto-for-soprano-saxophone-muzyka",
+          "evidence": "Ficks Music lists the exact soprano-saxophone score with piano reduction. Append only; retain every current purchase URL."
+        }
+      },
+      "withheld": [
+        "A dealer lists the piano-reduction edition as 1986, while the current composed value is 1987; that listing does not establish original composition year, so the current value is preserved."
+      ]
+    },
+    {
+      "id": 6,
+      "filename": "André Vergauwen - Pantomime.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 7,
+      "filename": "Anne Marie Mimet - Complainte.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Éditions Billaudot"
+          ],
+          "source_url": "https://www.billaudot.com/complainte-sur-un-theme-populaire.html",
+          "evidence": "Billaudot lists Complainte for alto saxophone with piano or harp. Add to the currently blank publisher list."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 8,
+      "filename": "Antoine Tisné - Espaces Irradies.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 9,
+      "filename": "Armando Ghidoni - Nocturne & Sicilienne.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Alphonse Leduc"
+          ],
+          "source_url": "https://casamusicaledelrio.it/casamusicale/wp-content/uploads/2019/04/CAT-18-107-Leduc-Catalogue-2018-ss-GS-v6-NO-CROPS-LO-RESv2.pdf",
+          "evidence": "The Leduc catalog identifies the saxophone edition and item number. Add to the currently blank publisher list."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 10,
+      "filename": "Armando Ghidoni - Paysages.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Alphonse Leduc"
+          ],
+          "source_url": "https://casamusicaledelrio.it/casamusicale/wp-content/uploads/2019/04/CAT-18-107-Leduc-Catalogue-2018-ss-GS-v6-NO-CROPS-LO-RESv2.pdf",
+          "evidence": "The Leduc catalog identifies the tenor-saxophone edition and item number. Add to the currently blank publisher list."
+        },
+        "purchase": {
+          "value": [
+            "https://www.justflutes.com/shop/product/paysages-armando-ghidoni"
+          ],
+          "source_url": "https://www.justflutes.com/shop/product/paysages-armando-ghidoni",
+          "evidence": "Just Flutes lists the exact tenor-saxophone edition for sale. Append only; retain every current purchase URL."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 11,
+      "filename": "Armando Ghidoni - Piece Breve.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Alphonse Leduc"
+          ],
+          "source_url": "https://windmusic.org/index.php?id=7192&lvl=notice_display",
+          "evidence": "Wind Music identifies the Leduc edition and publication number. Add to the currently blank publisher list."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 12,
+      "filename": "Armin Schibler - Konzertante Fantasie.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 13,
+      "filename": "Arnold Franchetti - Sonata.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 14,
+      "filename": "Arthur Frackenpohl - Sonata (Soprano-Tenor).md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 15,
+      "filename": "Arthur Frackenpohl - Variations.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 16,
+      "filename": "Arthur Woodbury - Between Categories.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 17,
+      "filename": "Aubert Lemeland - Epitaph for John Coltrane.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Éditions Billaudot"
+          ],
+          "source_url": "https://www.billaudot.com/gb3218-6.html",
+          "evidence": "Billaudot lists the B-flat saxophone and piano edition. Add to the currently blank publisher list."
+        },
+        "purchase": {
+          "value": [
+            "https://www.lmi-partitions.com/affiliate/D9FjAn89Uc/187265"
+          ],
+          "source_url": "https://www.lmi-partitions.com/affiliate/D9FjAn89Uc/187265",
+          "evidence": "LMI lists the exact B-flat saxophone and piano edition. Append only; retain every current purchase URL."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 18,
+      "filename": "Bent Lorentzen - Concerto.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 19,
+      "filename": "Bernard van Beurden - For Now And Forever.md",
+      "updates": {
+        "composed": {
+          "value": "2014",
+          "source_url": "https://vanzoelen.eu/wp-content/uploads/2024/10/works-written-for-andreas-van-zoelen-english.pdf",
+          "evidence": "The composer-specific works list dates For Now and Forever to 2014."
+        }
+      },
+      "withheld": [
+        "The verified reference is an album page rather than a direct work-specific track or player, so it remains private research only."
+      ]
+    },
+    {
+      "id": 20,
+      "filename": "Bernard Wystraete - Alphonic.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 21,
+      "filename": "Bernard Wystraete - Saxaubade.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Alphonse Leduc"
+          ],
+          "source_url": "https://www.all-sheetmusic.com/Wind-Instruments/Saxophone/Saxaubade.html",
+          "evidence": "The product listing identifies the Leduc alto-saxophone edition. Add to the currently blank publisher list."
+        },
+        "purchase": {
+          "value": [
+            "https://www.all-sheetmusic.com/Wind-Instruments/Saxophone/Saxaubade.html"
+          ],
+          "source_url": "https://www.all-sheetmusic.com/Wind-Instruments/Saxophone/Saxaubade.html",
+          "evidence": "All-Sheetmusic lists the exact alto-saxophone and piano edition for sale. Append only; retain every current purchase URL."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 22,
+      "filename": "Bernhard Krol - Sonate Op. 17.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Friedrich Hofmeister"
+          ],
+          "source_url": "https://www.sheetmusicplus.com/title/Sonate-op-17/18162692",
+          "evidence": "The listing identifies the Hofmeister edition for saxophone and piano. Add to the currently blank publisher list."
+        },
+        "purchase": {
+          "value": [
+            "https://www.sheetmusicplus.com/title/Sonate-op-17/18162692"
+          ],
+          "source_url": "https://www.sheetmusicplus.com/title/Sonate-op-17/18162692",
+          "evidence": "Sheet Music Plus lists the exact Hofmeister saxophone and piano edition. Append only; retain every current purchase URL."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 23,
+      "filename": "Bertold Hummel - Sonata Brevis.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 24,
+      "filename": "Bertrand Gay - Five Love Songs.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 25,
+      "filename": "Bob Mintzer - Concertino.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Advance Music"
+          ],
+          "source_url": "https://www.schott-music.com/en/concertino-for-alto-saxophone-strings-winds-no308137.html",
+          "evidence": "Schott identifies the Advance Music alto-saxophone and piano edition. Add to the currently blank publisher list."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 76,
+      "filename": "Dietrich Erdmann - Concerto.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 77,
+      "filename": "Dmitri Terzakis - Der Hölle Nachklang.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Edition Gravis"
+          ],
+          "source_url": "https://dspace.lib.uom.gr/handle/2159/27370",
+          "evidence": "The university repository identifies the saxophone and piano edition as published by Edition Gravis. Add to the currently blank publisher list."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 78,
+      "filename": "Dominic Muldowney - In Hall of Mirrors.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 79,
+      "filename": "Dominique Clement - Entre-Deux.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Alphonse Leduc"
+          ],
+          "source_url": "https://www.halleonard.com/product/48186310/clement-dominique-entre-deux-alto-saxophone-piano-bookclement-dominique-entre-deux-alto-saxophone-piano-book",
+          "evidence": "Hal Leonard identifies the Alphonse Leduc alto-saxophone and piano edition, AL30500. Add to the currently blank publisher list."
+        },
+        "purchase": {
+          "value": [
+            "https://www.halleonard.com/product/48186310/clement-dominique-entre-deux-alto-saxophone-piano-bookclement-dominique-entre-deux-alto-saxophone-piano-book"
+          ],
+          "source_url": "https://www.halleonard.com/product/48186310/clement-dominique-entre-deux-alto-saxophone-piano-bookclement-dominique-entre-deux-alto-saxophone-piano-book",
+          "evidence": "Hal Leonard lists the exact AL30500 edition for sale. Append only; retain every current purchase URL."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 80,
+      "filename": "Doïna Rotaru - Legend 2.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 81,
+      "filename": "Eduard Toldrà - Dels Quatre Vents.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 82,
+      "filename": "Eduard Tubin - Sonata.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 83,
+      "filename": "Edvard Moritz - Sonata No. 1, Op. 96.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Southern Music"
+          ],
+          "source_url": "https://keiserproductions.com/catalog/southern-music/?ic=&sc=&tc=&tid=88C526BC-7F74-4338-AF3B-E3397778AED5",
+          "evidence": "Southern Music lists Sonata No. 1, Op. 96 for alto saxophone and piano. Add to the currently blank publisher list."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 84,
+      "filename": "Edward MacDowell - To a Wild Rose.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 85,
+      "filename": "Edward R. Nelson - Suite No. 1.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 86,
+      "filename": "Edward Solomon - The Dancer.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 87,
+      "filename": "Elliott Carter - Pastoral.md",
+      "updates": {
+        "composed": {
+          "value": "1940",
+          "source_url": "https://www.elliottcarter.com/compositions/pastoral/",
+          "evidence": "Carter’s official catalog states “Composed in 1940, revised in 1982.”"
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 88,
+      "filename": "Erland von Koch - Sonata.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 89,
+      "filename": "Erland von Koch - Vision and Rondo.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 90,
+      "filename": "Ernesto Pellegrini - Duolog.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 91,
+      "filename": "Fabian Rehfeld - Aria.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 92,
+      "filename": "François Combelle - Malbrough.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 93,
+      "filename": "François Couperin - Les Cherubins.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Simrock"
+          ],
+          "source_url": "https://www.prestomusic.com/sheet-music/products/7250948--couperin-f-les-cherubins-and-la-precieuse",
+          "evidence": "Presto identifies the combined saxophone edition as Simrock EE2987. Add to the currently blank publisher list."
+        },
+        "arranger-edition": {
+          "value": "Marcel Perrin",
+          "source_url": "https://www.prestomusic.com/sheet-music/products/7250948--couperin-f-les-cherubins-and-la-precieuse",
+          "evidence": "Presto names Marcel Perrin as editor of the saxophone arrangement."
+        },
+        "purchase": {
+          "value": [
+            "https://www.prestomusic.com/sheet-music/products/7250948--couperin-f-les-cherubins-and-la-precieuse"
+          ],
+          "source_url": "https://www.prestomusic.com/sheet-music/products/7250948--couperin-f-les-cherubins-and-la-precieuse",
+          "evidence": "Presto lists the exact saxophone and piano/organ volume for sale. Append only; retain every current purchase URL."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 94,
+      "filename": "Frederick Fox - When the Thunder Speaks.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 95,
+      "filename": "Frederick Koch - Apocalyptic.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 96,
+      "filename": "Frederick Speck - Ligeia.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 97,
+      "filename": "Fritz Mareczek - Sommerabend am Berg.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 98,
+      "filename": "Frédéric Devreese - Blues.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Donemus"
+          ],
+          "source_url": "https://webshop.donemus.com/action/front/sheetmusic/14211",
+          "evidence": "The inspected Donemus score cover identifies the saxophone and piano edition D14211. Add to the currently blank publisher list."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 99,
+      "filename": "Frédéric Devreese - Three Pieces.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Donemus"
+          ],
+          "source_url": "https://webshop.donemus.com/action/front/sheetmusic/14208",
+          "evidence": "The inspected Donemus score cover identifies the saxophone and piano edition D14208. Add to the currently blank publisher list."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 100,
+      "filename": "Félix Lemaire - Deuxieme Ballade.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 151,
+      "filename": "Henri Sauguet - Une Fleur.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 152,
+      "filename": "Hermann Reutter - Elegie.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 153,
+      "filename": "Hermann Reutter - Piece Concertante.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 154,
+      "filename": "Ho-kwen Austin Yip - Zerstreutes Hinausschaun.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Donemus"
+          ],
+          "source_url": "https://webshop.donemus.com/action/front/sheetmusic/18125",
+          "evidence": "The inspected Donemus score preview identifies the saxophone work and edition 18125. Add to the currently blank publisher list."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 155,
+      "filename": "Hye Kyung Lee - Sonatina.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 156,
+      "filename": "Ivan Shishov - Grotesque Dance.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 157,
+      "filename": "Jacques Delacroix - Sur la Place.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 158,
+      "filename": "Jacques Ibert - L'age d'Or.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Alphonse Leduc"
+          ],
+          "source_url": "https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+          "evidence": "The Philharmonie guide identifies the work as Leduc AL21654. Add to the currently blank publisher list."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 159,
+      "filename": "Jacques Ibert - Symphonie Concertante.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 160,
+      "filename": "Jacques Offenbach - Waltz La Perichole.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 161,
+      "filename": "James Fry - Remembrance of Times Past.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 162,
+      "filename": "James Greeson - Phantastes.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 163,
+      "filename": "James MacMillan - After the Tryst.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Boosey & Hawkes"
+          ],
+          "source_url": "https://www.boosey.com/cr/music/James-MacMillan-After-the-Tryst/5367",
+          "evidence": "Boosey & Hawkes publishes the saxophone-or-clarinet version. Add to the currently blank publisher list."
+        },
+        "arranger-edition": {
+          "value": "Gerard McChrystal",
+          "source_url": "https://www.boosey.com/cr/music/James-MacMillan-After-the-Tryst/5367",
+          "evidence": "Boosey identifies Gerard McChrystal as editor/arranger of the saxophone version."
+        }
+      },
+      "withheld": [
+        "The current composed value 1995 corresponds to the saxophone version, while the source distinguishes the original 1988 violin work; current nonempty value preserved and no replacement proposed."
+      ]
+    },
+    {
+      "id": 164,
+      "filename": "James Richens - Another Autumn.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 165,
+      "filename": "James Whitbourn - A Brief Story of Peter Abelard.md",
+      "updates": {
+        "streaming": {
+          "value": "https://open.spotify.com/track/3JmIB5MMHEDMsYWsZmPmhY",
+          "source_url": "https://open.spotify.com/track/3JmIB5MMHEDMsYWsZmPmhY",
+          "evidence": "Opened the direct Spotify track page. Its title identifies “A Brief Story of Peter Abelard (Version for Soprano Saxophone & Organ)” and credits James Whitbourn, Gerard McChrystal, and Christian Wilson."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 166,
+      "filename": "Jaromír Weinberger - Concerto.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 167,
+      "filename": "Jean Cras - Demain 1924.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 168,
+      "filename": "Jean Lemaire - Musiques Legeres.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 169,
+      "filename": "Jean Matitia - Au Bonheur Des Dames.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 170,
+      "filename": "Jean Paul Egide Martini - Canzona.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 171,
+      "filename": "Jean-Baptiste Proust - Le Cheval de Bronze.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 172,
+      "filename": "Jean-Baptiste Proust - Soir.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 173,
+      "filename": "Jean-Baptiste Senaille - Allegro Spiritoso.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 174,
+      "filename": "Jean-Baptiste Singelée - Cinquieme Solo De Concert Op. 91.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 175,
+      "filename": "Jean-Baptiste Singelée - Concertino.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 226,
+      "filename": "Kristina Williamson - Ballade.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 227,
+      "filename": "Kumiko Tanaka - La Brise.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 228,
+      "filename": "Laura Karpman - Capriccio.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 229,
+      "filename": "Lawrence Moss - Six Short Pieces.md",
+      "updates": {},
+      "withheld": [
+        "The cited UPV dissertation PDF was not retrievable in this pass; its accessible indexed text establishes the 1995 edition and the inspected p. 614 score excerpt does not show a composition year. The 1993 identity date therefore remains unsupported by opened evidence and composed is withheld."
+      ]
+    },
+    {
+      "id": 230,
+      "filename": "Leo Kraft - Three Pieces.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 231,
+      "filename": "Leonard Mark Lewis - Black Against Blue.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 232,
+      "filename": "Leonard Mark Lewis - Prelude.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 233,
+      "filename": "Leonard Price - Big Sur Triptych.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 234,
+      "filename": "Leroy Ostransky - Suite.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Rubank"
+          ],
+          "source_url": "https://www.halleonard.com/product/4471880/suite-for-alto-saxophone",
+          "evidence": "Hal Leonard lists Suite for alto saxophone and piano as Rubank RUBL302. Add to the currently blank publisher list."
+        },
+        "purchase": {
+          "value": [
+            "https://www.halleonard.com/product/4471880/suite-for-alto-saxophone"
+          ],
+          "source_url": "https://www.halleonard.com/product/4471880/suite-for-alto-saxophone",
+          "evidence": "Hal Leonard lists the exact Rubank edition for sale. Append only; retain every current purchase URL."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 235,
+      "filename": "Lisa Gaye Pressman - Sonata.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 236,
+      "filename": "Lucie Robert-Diessel - 3 Chanson.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 237,
+      "filename": "Ludmila Ulehla - Sonata For Improvisation.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Schott"
+          ],
+          "source_url": "https://www.schott-music.com/en/sonata-for-improvisation-no307720.html",
+          "evidence": "Schott identifies the clarinet/soprano saxophone edition and optional tenor part. Add to the currently blank publisher list."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 238,
+      "filename": "Lynden De Young - Impressions.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 239,
+      "filename": "Léon Jongen - Piccoli.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 240,
+      "filename": "Malcolm Lewis - Elegy for a Hollow Man.md",
+      "updates": {},
+      "withheld": [
+        "The verified reference is an album page rather than a direct work-specific track or player, so it remains private research only."
+      ]
+    },
+    {
+      "id": 241,
+      "filename": "Manolis Kalomiris - Chant Grec.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 242,
+      "filename": "Marcel Dautremer - Concerto.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 243,
+      "filename": "Marcel Dautremer - Emotion.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 244,
+      "filename": "Marcel Dautremer - Reverie Interrompue.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 245,
+      "filename": "Marcel Dautremer - Tango et Tarentelle.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 246,
+      "filename": "Marcel Perrin - Berceuse.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Alphonse Leduc"
+          ],
+          "source_url": "https://www.sheetmusicplus.com/en/product/berceuse-saxophone-alto-piano-20745014.html",
+          "evidence": "Sheet Music Plus identifies Leduc AL20803 for alto saxophone and piano. Add to the currently blank publisher list."
+        },
+        "purchase": {
+          "value": [
+            "https://www.sheetmusicplus.com/en/product/berceuse-saxophone-alto-piano-20745014.html"
+          ],
+          "source_url": "https://www.sheetmusicplus.com/en/product/berceuse-saxophone-alto-piano-20745014.html",
+          "evidence": "Sheet Music Plus lists the exact Leduc alto-saxophone edition for sale. Append only; retain every current purchase URL."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 247,
+      "filename": "Marcel Perrin - Ostinato.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 248,
+      "filename": "Marcel Perrin - Poeme.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 249,
+      "filename": "Maria Theresia Paradis - Sicilienne.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 250,
+      "filename": "Marilyn Shrude - Nature's Bard.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 301,
+      "filename": "Pierre-Max DuBois - A Pas de Loup.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Durand"
+          ],
+          "source_url": "https://www.laflutedepan.com/partition/1073036/pierre-max-dubois-a-pas-de-loup-partition-saxophone-alto-et-piano.html",
+          "evidence": "The product listing identifies the Durand alto-saxophone and piano edition. Add to the currently blank publisher list."
+        },
+        "purchase": {
+          "value": [
+            "https://www.laflutedepan.com/partition/1073036/pierre-max-dubois-a-pas-de-loup-partition-saxophone-alto-et-piano.html"
+          ],
+          "source_url": "https://www.laflutedepan.com/partition/1073036/pierre-max-dubois-a-pas-de-loup-partition-saxophone-alto-et-piano.html",
+          "evidence": "La Flûte de Pan lists the exact alto-saxophone and piano edition for sale. Append only; retain every current purchase URL."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 302,
+      "filename": "Pierre-Max DuBois - Come Back.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 303,
+      "filename": "Pierre-Max DuBois - Mazurka.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 304,
+      "filename": "Pierre-Max DuBois - Moments Musicaux.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Éditions Billaudot"
+          ],
+          "source_url": "https://www.billaudot.com/moments-musicaux-3.html",
+          "evidence": "Billaudot identifies the E-flat saxophone and piano edition, GB4115. Add to the currently blank publisher list."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 305,
+      "filename": "Pierre-Max DuBois - Olga-Valse.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 306,
+      "filename": "Pierre-Max DuBois - Sonate Fantaisie.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 307,
+      "filename": "Pierre-Max DuBois - Sonatine.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 308,
+      "filename": "Pierre-Max DuBois - Triangle.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 309,
+      "filename": "Pietro Mascagni - Intermezzo Sinfonico.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 310,
+      "filename": "Rafał Stradomski - Per Gato.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 311,
+      "filename": "Ralph Lehman - Introduction, Song, and Gigue.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 312,
+      "filename": "Randall Snyder - Chance Designs.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 313,
+      "filename": "Randall Snyder - Excursions.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 314,
+      "filename": "Randall Snyder - Juggernaut.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 315,
+      "filename": "Randall Snyder - Sonata.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 316,
+      "filename": "Randall Snyder - Tristesse.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 317,
+      "filename": "René Challan - Concerto.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 318,
+      "filename": "René Duclos - Piece Breve.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 319,
+      "filename": "René Guillou - Sonatine 5th.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 320,
+      "filename": "Richard Phillips - Petit Bal.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 321,
+      "filename": "Richard Strauss - Allerseelen.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 322,
+      "filename": "Robert C. Jones - Prelude, Air and Capriccio.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 323,
+      "filename": "Robert C. Jones - Three Winter Scenes.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 324,
+      "filename": "Robert Clérisse - Bergerette.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Éditions Billaudot"
+          ],
+          "source_url": "https://www.billaudot.com/bergerette-3.html",
+          "evidence": "Billaudot identifies the E-flat saxophone and piano edition, ORPH5719. Add to the currently blank publisher list."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 325,
+      "filename": "Robert Clérisse - Prelude et Divertissement.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Éditions Billaudot"
+          ],
+          "source_url": "https://www.billaudot.com/af0049-d-6.html",
+          "evidence": "Billaudot identifies the E-flat saxophone and piano or organ edition, AF0049-D. Add to the currently blank publisher list."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 376,
+      "filename": "Victor Fenigstein - Memento et Epitaphe.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 377,
+      "filename": "Victor Herbiet - Twelve Tone Rag.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 378,
+      "filename": "Vincent David - Éveil de la Toupie.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Éditions Billaudot"
+          ],
+          "source_url": "https://www.billaudot.com/eveil-de-la-toupie.html",
+          "evidence": "Billaudot identifies Éveil de la Toupie for alto saxophone and piano, GB10105. Add to the currently blank publisher list."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 379,
+      "filename": "Vincent Paulet - Antiphone.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 380,
+      "filename": "Vincent Paulet - Versets Croises.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 381,
+      "filename": "Vincent Persichetti - Parable XI.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved.",
+        "Sources give a 1972 manuscript and a 1973 published score, but do not establish the original composition year; composed remains withheld."
+      ]
+    },
+    {
+      "id": 382,
+      "filename": "Vittorio Monti - Czardas.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Tierolff"
+          ],
+          "source_url": "https://tierolff.nl/en/csardas-3515sa.html",
+          "evidence": "Tierolff identifies its 3515SA edition for E-flat alto saxophone with piano or band. Add to the currently blank publisher list."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 383,
+      "filename": "Walter Hartley - African Dance.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Dorn Publications"
+          ],
+          "source_url": "https://www.walterhartley.com/Saxophone_2.htm",
+          "evidence": "Hartley’s estate catalog lists African Dance for alto saxophone and piano, Dorn no. 199. Add to the currently blank publisher list."
+        },
+        "composed": {
+          "value": "1994",
+          "source_url": "https://www.walterhartley.com/Saxophone_2.htm",
+          "evidence": "Hartley’s estate table, “Works for Saxophone by Walter Hartley,” has a Year column and lists African Dance (alto saxophone and piano, Dorn no. 199) as 1994. The University of Maryland dissertation’s “List of Twentieth-century American Duos for Woodwinds and Piano by Year” independently places African Dance under 1994 (https://api.drum.lib.umd.edu/server/api/core/bitstreams/2153c64b-6b45-45aa-8f96-15586240afc5/content, printed pp. 51 and 65). This identifies a work/composition year, not a publisher or edition year."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 384,
+      "filename": "Walter Hartley - Amazing Grace and Wondrous Love.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Dorn Publications"
+          ],
+          "source_url": "https://www.walterhartley.com/Saxophone_2.htm",
+          "evidence": "Hartley’s estate catalog lists the solo saxophone and piano arrangement as a Dorn publication. Add to the currently blank publisher list."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 385,
+      "filename": "Walter Hartley - Concerto No. 2.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Dorn Publications"
+          ],
+          "source_url": "https://www.walterhartley.com/Saxophone_2.htm",
+          "evidence": "Hartley’s estate catalog lists Concerto No. 2 for alto saxophone and orchestra or piano as Dorn no. 173. Add to the currently blank publisher list."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 386,
+      "filename": "Walter Hartley - Elegy 2001.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Theodore Presser Company"
+          ],
+          "source_url": "https://www.walterhartley.com/Saxophone_2.htm",
+          "evidence": "Hartley’s estate catalog lists Elegy 2001 as a Presser publication. Add to the currently blank publisher list."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 387,
+      "filename": "Walter Hartley - Festive Ode to Yerevan.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Dorn Publications"
+          ],
+          "source_url": "https://www.walterhartley.com/Saxophone_2.htm",
+          "evidence": "Hartley’s estate catalog lists Festive Ode to Yerevan as a Dorn publication. Add to the currently blank publisher list."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 388,
+      "filename": "Walter Hartley - Heavenly Union.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 389,
+      "filename": "Walter Hartley - Saxophrenia.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Dorn Publications",
+            "Molenaar"
+          ],
+          "source_url": "https://windmusic.org/index.php?lvl=notice_display&id=38697",
+          "evidence": "CDMC/Wind Music lists both Dorn and Molenaar editions; the Hartley estate separately confirms Dorn for the saxophone work. Add to the currently blank publisher list."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 390,
+      "filename": "Walter Hartley - Sonata (Soprano).md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 391,
+      "filename": "Warren Gooch - Rhapsody.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 392,
+      "filename": "Wijnand Van Klaveren - Sonata à la manière de Francis Poulenc.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Resolute Music"
+          ],
+          "source_url": "https://resolute-music.com/collections/all-saxophone/products/sonata-a-la-maniere-de-francis-poulenc",
+          "evidence": "The composer-publisher page lists the 1998 alto-saxophone sonata. Add to the currently blank publisher list."
+        },
+        "purchase": {
+          "value": [
+            "https://resolute-music.com/collections/all-saxophone/products/sonata-a-la-maniere-de-francis-poulenc"
+          ],
+          "source_url": "https://resolute-music.com/collections/all-saxophone/products/sonata-a-la-maniere-de-francis-poulenc",
+          "evidence": "Resolute Music offers this exact sonata product. Append only; retain every current purchase URL."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 393,
+      "filename": "Willem de Fesch - Andante Cantabile.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 394,
+      "filename": "William Calhoun - Sonata.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 395,
+      "filename": "WIlliam James Ross - Meditation on Londonderry Air.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 396,
+      "filename": "William Latham - Sisyphus.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 397,
+      "filename": "William Presser - Arioso.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 398,
+      "filename": "William Presser - Prelude and Rondo.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 399,
+      "filename": "William Presser - Sonatina.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    },
+    {
+      "id": 400,
+      "filename": "William Schmidt - Concerto.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible value was supported by opened or score-inspected evidence; current nonempty fields were preserved."
+      ]
+    }
+  ]
+}

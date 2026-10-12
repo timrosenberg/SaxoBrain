@@ -14,7 +14,7 @@ works = ns["works"]
 split_fm, field = ns["split_fm"], ns["field"]
 
 NAMES = {1: ("first-year", "First Year"), 2: ("second-year", "Second Year"), 3: ("third-year", "Third Year"), 4: ("fourth-year", "Fourth Year")}
-LV = {"Pre-college": "pre", "First Year": "1", "Second-Year": "2", "Third Year": "3", "Fourth Year": "4", "Advanced": "adv"}
+LV = {"Pre-college": "pre", "First Year": "1", "Second Year": "2", "Third Year": "3", "Fourth Year": "4", "Advanced": "adv"}
 key = lambda p: p["url"] + "#" + p["title"]
 slug_of = lambda u: u.rstrip("/").split("/")[-1]
 

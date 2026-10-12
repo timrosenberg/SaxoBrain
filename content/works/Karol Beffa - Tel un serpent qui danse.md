@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Unaccompanied"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: "https://www.youtube.com/watch?v=EQo-eWsLRag"
 purchase:
   - "https://www.jwpepper.com/Tel-Un-Serpent-Qui-Danse/11336824.item"

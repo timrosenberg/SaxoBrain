@@ -7,7 +7,7 @@ instruments:
   - Any Saxophone
   - Unaccompanied
 composed: 2006
-year-of-study: Second-Year
+year-of-study: Second Year
 publisher:
   - Reed Music
 streaming: https://www.youtube.com/watch?v=OF05_q3QJPg

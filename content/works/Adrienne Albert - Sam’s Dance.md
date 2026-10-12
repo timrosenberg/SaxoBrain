@@ -6,7 +6,7 @@ composer:
 instruments:
   - "Soprano Saxophone"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: 
 purchase:
   - "https://www.tfront.com/p-205466-sams-dance-for-soprano-saxophone-or-clarinet-and-piano.aspx"

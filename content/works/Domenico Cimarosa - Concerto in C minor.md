@@ -7,7 +7,7 @@ instruments:
   - "Soprano Saxophone"
   - "Piano"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: "https://www.youtube.com/watch?v=sgLGNCGABmo"
 purchase:
   - "https://www.jwpepper.com/Concerto-Soprano-Sax-Solo/5278825.item"

@@ -39,7 +39,7 @@ views:
         - or:
             - note["review-decision"] == "Pre-college"
             - note["review-decision"] == "First Year"
-            - note["review-decision"] == "Second-Year"
+            - note["review-decision"] == "Second Year"
             - note["review-decision"] == "Second Year"
             - note["review-decision"] == "Third Year"
             - note["review-decision"] == "Fourth Year"

@@ -1,0 +1,1464 @@
+{
+  "lane": 2,
+  "reviewed_count": 134,
+  "works": [
+    {
+      "id": 26,
+      "filename": "Boris Mersson - Fantasia.md",
+      "updates": {
+        "composed": {
+          "value": 1979,
+          "source_url": "https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf",
+          "evidence": "Antwerp Conservatory holdings explicitly say Fantasia Op. 37 was composed in 1979."
+        },
+        "publisher": {
+          "value": [
+            "Edition Albert J. Kunzelmann"
+          ],
+          "source_url": "https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf",
+          "evidence": "The library identifies the 1981 score and part as Edition Albert J. Kunzelmann."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 27,
+      "filename": "Brendan Faegre - Effusion.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 28,
+      "filename": "Brenton Broadstock - I Touched Your Glistening Tears.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 29,
+      "filename": "Brian Fennelly - Corollary II.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 30,
+      "filename": "Bryan Kelly - Don Quixote Suite.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 31,
+      "filename": "Burnet Tuthill - Sonata Op. 20.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Southern Music"
+          ],
+          "source_url": "https://www.abrsm.com.tw/diploma/from2024/music%20performance/ARSM/ABRSM%20Saxophone%20Performance%20ARSM%20Repertoire%20from%202026.pdf",
+          "evidence": "The 2026 ABRSM ARSM list identifies the complete alto saxophone Sonata Op. 20 as published by Southern Music."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 32,
+      "filename": "Caix d'Hervelois - Plainte & Napolitana.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 33,
+      "filename": "Caix d'Hervelois - Prelude & Allegro.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 34,
+      "filename": "Carl Maria von Weber - Romance.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 35,
+      "filename": "Carl Reinecke - Prière du Soir.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 36,
+      "filename": "Carlos Micháns - Four City Nocturnes.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 37,
+      "filename": "Carson Cooman - Fantasia on American Hymns.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Lauren Keiser Music Publishing"
+          ],
+          "source_url": "https://carsoncooman.com/instrument/saxophone/?view=expanded",
+          "evidence": "Cooman’s opened saxophone works catalog explicitly says Fantasia on American Hymns is published by Lauren Keiser."
+        }
+      },
+      "withheld": [
+        "composed: source gives a 1999–2000 range, not one year."
+      ]
+    },
+    {
+      "id": 38,
+      "filename": "Catherine McMichael - Duality.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 39,
+      "filename": "Catherine McMichael - Fusion Suite.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 40,
+      "filename": "Cecil Effinger - Solitude.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 41,
+      "filename": "Cecil Leeson - Concertino.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 42,
+      "filename": "Charles Gounod - Ave Maria.md",
+      "updates": {},
+      "withheld": [
+        "streaming: direct video URL appears in listening/search material, but no opened or score-inspected source verifies the recording; withheld."
+      ]
+    },
+    {
+      "id": 43,
+      "filename": "Charles Koechlin - Deuxieme Sonatine.md",
+      "updates": {},
+      "withheld": [
+        "composed: source gives 1942–43, not one year."
+      ]
+    },
+    {
+      "id": 44,
+      "filename": "Charles Smith - Metamorphosis II.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 45,
+      "filename": "Charles W. Smith - Metamorphosis II.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 46,
+      "filename": "Charley Gerard - Confluence.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 47,
+      "filename": "Chiel Meijering - Another World.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 48,
+      "filename": "Chiel Meijering - The Pizza Connection.md",
+      "updates": {
+        "composed": {
+          "value": 1989,
+          "source_url": "https://www.chielmeijering.com/works/all-works/saxophone/",
+          "evidence": "The composer’s opened chronological saxophone works catalog lists The pizza-connection under 1989, alongside the exact alto saxophone/piano instrumentation."
+        },
+        "streaming": {
+          "value": "https://www.youtube.com/watch?v=4CeoiU74TEo",
+          "source_url": "https://www.chielmeijering.com/works/all-works/saxophone/",
+          "evidence": "The opened composer catalog lists The pizza-connection for alto saxophone and piano and links its direct YouTube player; the streaming value is that linked recording URL."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 49,
+      "filename": "Christopher Gable - Orange Who.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 50,
+      "filename": "Clair Leonard - Recitative & Abracadabra.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 101,
+      "filename": "Gabriel Fauré - Sicilienne Op. 78.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 102,
+      "filename": "Gabriel Marie - Cinquantaine.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 103,
+      "filename": "Gabriel Pierné - Canzonetta.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Leduc"
+          ],
+          "source_url": "https://www.abrsm.com.tw/diploma/from2024/music%20performance/ARSM/ABRSM%20Saxophone%20Performance%20ARSM%20Repertoire%20from%202026.pdf",
+          "evidence": "The 2026 ABRSM ARSM list identifies the Canzonetta transcribed by Marcel Mule as published by Leduc."
+        }
+      },
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 104,
+      "filename": "Gabriel Pierné - Serenade.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Southern Music"
+          ],
+          "source_url": "https://www.halleonard.com/product/3775213/Serenade",
+          "evidence": "Hal Leonard identifies this edition as a Southern Music Woodwind item."
+        },
+        "arranger-edition": {
+          "value": "Harry Gee",
+          "source_url": "https://www.halleonard.com/product/3775213/Serenade",
+          "evidence": "The product page identifies Harry Gee as arranger of the alto saxophone edition."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 105,
+      "filename": "Gary Schocker - Nightsong.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 106,
+      "filename": "George Frideric Handel - Adagio and Allegro.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Wingert-Jones"
+          ],
+          "source_url": "https://www.stantons.com/sheet-music/title/adagio-and-allegro/3050061/",
+          "evidence": "Opened product page identifies the exact Adagio and Allegro edition as Wingert-Jones catalog item 3050061."
+        }
+      },
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 107,
+      "filename": "George Nicholson - Far Cry.md",
+      "updates": {},
+      "withheld": [
+        "composed: source gives a 2014–15 range."
+      ]
+    },
+    {
+      "id": 108,
+      "filename": "Georges Enescu - Legend.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 109,
+      "filename": "Georgia Nicolaou - Fuego.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 110,
+      "filename": "Georgia Nicolaou - Socialice.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 111,
+      "filename": "Gerard Harrison - Dance Suite.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 112,
+      "filename": "Gilbert Vinter - Concerto Burlando.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Studio Music"
+          ],
+          "source_url": "https://windmusic.org/index.php?id=3558&lvl=author_see",
+          "evidence": "Opened CDMC/Wind Music catalog identifies the 2005 edition as Studio Music."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 113,
+      "filename": "Gilles Martin - Cristalline.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Éditions Billaudot"
+          ],
+          "source_url": "https://www.gilles-martin.info/resultat.php?id=2",
+          "evidence": "Composer’s opened catalog identifies Cristalline with Billaudot catalog number G6488B."
+        }
+      },
+      "withheld": [
+        "composed: 1999 is listed but not explicitly identified as the original composition year."
+      ]
+    },
+    {
+      "id": 114,
+      "filename": "Gilles Senon - Terpsichore et la Danse.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 115,
+      "filename": "Gino Samyn - Le Club des Notes.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Éditions Lemoine"
+          ],
+          "source_url": "https://emvi.qc.ca/upload/files/20240929-Programme-de-formation-artistique-a-linstrument-SAXOPHONE.pdf",
+          "evidence": "The opened École de musique Vincent-d’Indy program identifies Le Club des Notes as sheet music published by Lemoine."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 116,
+      "filename": "Gioachino Rossini - Cavatine from Semiramis.md",
+      "updates": {
+        "arranger-edition": {
+          "value": "André Lemarc",
+          "source_url": "https://tierolff.nl/en/cavatine-uit-de-opera-semiramis-p21.html",
+          "evidence": "Opened publisher product page identifies André Lemarc as arranger of the saxophone edition."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 117,
+      "filename": "Gioachino Rossini - Rosine's Aria from Barber of Seville.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 118,
+      "filename": "Glenn Gass - Breathless.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Dorn Publications"
+          ],
+          "source_url": "https://www.grothmusic.com/images/DP%20Catalog%20Nov%202024.pdf",
+          "evidence": "Dorn catalog lists Breathless by Glenn Gass, order 166, in its alto saxophone and piano section."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 119,
+      "filename": "Glenn Smith - Mood Music II.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 120,
+      "filename": "Gordan Tudor - Da-Da Miniatures.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Donemus"
+          ],
+          "source_url": "https://webshop.donemus.com/action/front/sheetmusic/16432",
+          "evidence": "Opened Donemus product record identifies D16432 and offers its score and part."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 121,
+      "filename": "Gordan Tudor - Playtime.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Donemus"
+          ],
+          "source_url": "https://webshop.donemus.com/action/front/sheetmusic/16433",
+          "evidence": "Opened Donemus product record identifies D16433 for the exact work."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 122,
+      "filename": "Gordan Tudor - Quarter Tone Waltz.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Donemus"
+          ],
+          "source_url": "https://webshop.donemus.com/action/front/sheetmusic/16436/Quarter%2BTone%2BWaltz",
+          "evidence": "The inspected official Donemus score excerpt identifies this exact work and publisher number."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 123,
+      "filename": "Gordon Jacob - Miscellanies.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 124,
+      "filename": "Gordon Jacob - Rhapsody.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 125,
+      "filename": "Greg Danner - Rhapsody.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 176,
+      "filename": "Jean-Baptiste Singelée - Fantasie, Op. 89.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 177,
+      "filename": "Jean-Baptiste Singelée - Septieme Solo de Concert Op. 93.md",
+      "updates": {
+        "composed": {
+          "value": 1863,
+          "source_url": "https://imslp.org/wiki/List_of_works_by_Jean_Baptiste_Singel%C3%A9e",
+          "evidence": "The opened IMSLP work index lists Op. 93 as the 7th Solo de Concert (1863) for baritone saxophone and piano."
+        }
+      },
+      "withheld": [
+        "purchase: the inspected NotenDownload edition is for baritone saxophone and piano, while the current work record is alto saxophone and piano; an exact alto edition has not been verified."
+      ]
+    },
+    {
+      "id": 178,
+      "filename": "Jean-Joseph Mouret - Rondeau.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 179,
+      "filename": "Jean-Luc Lepage - Libres Propos.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 180,
+      "filename": "Jean-Luc Lepage - Saxclaviats.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 181,
+      "filename": "Jean-Marie Leclair - Sonata in G min.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Southern Music"
+          ],
+          "source_url": "https://www.halleonard.com/product/3774454/sonata-in-g-minor",
+          "evidence": "Hal Leonard identifies the exact edition as Southern Music SS788."
+        },
+        "arranger-edition": {
+          "value": "Peter Gorner",
+          "source_url": "https://www.halleonard.com/product/3774454/sonata-in-g-minor",
+          "evidence": "The product page identifies the alto saxophone edition as arranged by Peter Gorner."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 182,
+      "filename": "Jean-Michel Damase - Andantino Pastoral.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 183,
+      "filename": "Jean-Michel Damase - Andantino.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 184,
+      "filename": "Jean-Michel Damase - Bien Affectueusement.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Combre"
+          ],
+          "source_url": "https://catalogue.bnf.fr/ark:/12148/cb396822815",
+          "evidence": "Opened BnF record identifies Combre as publisher of the exact Bien affectueusement edition."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 185,
+      "filename": "Jean-Michel Damase - Concertstuck.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 186,
+      "filename": "Jean-Michel Damase - Preambule et Valse.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 187,
+      "filename": "Jean-Michel Damase - Vacances.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Éditions Billaudot"
+          ],
+          "source_url": "https://www.billaudot.com/vacances-8.html",
+          "evidence": "Opened publisher product page identifies Vacances as Billaudot product GB4949."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 188,
+      "filename": "Jean-Paul Rieunier - Lineal.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "A. Leduc"
+          ],
+          "source_url": "https://windmusic.org/index.php?lvl=notice_display&id=5425",
+          "evidence": "Opened CDMC/Wind Music record identifies the exact Linéal edition as A. Leduc AL24400."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 189,
+      "filename": "Jean-Pierre Leguay - Seve.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 190,
+      "filename": "Jean-René Combes-Damiens - Fable du Souffle.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "A. Leduc"
+          ],
+          "source_url": "https://windmusic.org/index.php?lvl=notice_display&id=7346",
+          "evidence": "Opened CDMC/Wind Music record identifies the exact edition as A. Leduc AL28154."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 191,
+      "filename": "Jeroen d' Hoe - Prayer.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Donemus"
+          ],
+          "source_url": "https://webshop.donemus.com/action/front/sheetmusic/20960/Prayer",
+          "evidence": "Opened Donemus product and score preview identify the original trio edition as D20960."
+        },
+        "purchase": {
+          "value": [
+            "https://webshop.donemus.com/action/front/sheetmusic/20960/Prayer"
+          ],
+          "source_url": "https://webshop.donemus.com/action/front/sheetmusic/20960/Prayer",
+          "evidence": "Donemus offers the exact 2019 violin, alto saxophone, and piano trio edition as a score product."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 192,
+      "filename": "Joaquín Nin - Le Chant du Veilleur.md",
+      "updates": {
+        "arranger-edition": {
+          "value": "Jean-Marie Londeix (transcription)",
+          "source_url": "https://ci.nii.ac.jp/ncid/BA4413119X",
+          "evidence": "Opened CiNii edition record states that the saxophone part was transcribed by Jean-Marie Londeix."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 193,
+      "filename": "Johann Strauss II - Tritsch-Tratsch Polka.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 194,
+      "filename": "John C. Worley - A Coastal Sonata.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Dorn Publications"
+          ],
+          "source_url": "https://www.grothmusic.com/images/DP%20Catalog%20Nov%202024.pdf",
+          "evidence": "Dorn catalog lists A Coastal Sonata, John Worley, order 207, in its alto saxophone and piano section."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 195,
+      "filename": "John C. Worley - Claremont Concerto.md",
+      "updates": {},
+      "withheld": [
+        "composed: UCL lists 1962 without identifying whether it is composition, publication, or another date.",
+        "streaming: linked movement MP3s do not establish a saxophone performance."
+      ]
+    },
+    {
+      "id": 196,
+      "filename": "John C. Worley - Pemaquid Sonatina.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Dorn Publications"
+          ],
+          "source_url": "https://www.grothmusic.com/images/DP%20Catalog%20Nov%202024.pdf",
+          "evidence": "Dorn catalog lists Pemaquid Sonatina, John Worley, order 889, in its alto saxophone and piano section."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 197,
+      "filename": "John C. Worley - Penobscot Suite.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Dorn Publications"
+          ],
+          "source_url": "https://www.grothmusic.com/images/DP%20Catalog%20Nov%202024.pdf",
+          "evidence": "Dorn catalog lists Penobscot Suite, John Worley, order 888, in its alto saxophone and piano section."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 198,
+      "filename": "John C. Worley - Second Sonata.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Dorn Publications"
+          ],
+          "source_url": "https://www.grothmusic.com/images/DP%20Catalog%20Nov%202024.pdf",
+          "evidence": "Dorn catalog lists Second Sonata, John Worley, order 969, in its alto saxophone and piano section."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 199,
+      "filename": "John C. Worley - Sonata No. 4.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Dorn Publications"
+          ],
+          "source_url": "https://www.grothmusic.com/images/DP%20Catalog%20Nov%202024.pdf",
+          "evidence": "Dorn catalog lists Sonata No. 4, John Worley, order 209, in its alto saxophone and piano section."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 200,
+      "filename": "John C. Worley - Windswept Snowscapes.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Dorn Publications"
+          ],
+          "source_url": "https://www.grothmusic.com/images/DP%20Catalog%20Nov%202024.pdf",
+          "evidence": "Dorn catalog lists Windswept Snowscapes, John Worley, order 208, in its alto saxophone and piano section."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 251,
+      "filename": "Marius Flothuis - Kleine Suite, Op. 47.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 252,
+      "filename": "Mark-Anthony Turnage - Sarabande.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 253,
+      "filename": "Martin Ellerby - Elegy for Checkpoint Charlie.md",
+      "updates": {
+        "composed": {
+          "value": 2003,
+          "source_url": "https://www.martinellerby.com/cb-elegy-for-checkpoint-charlie",
+          "evidence": "The opened composer work page lists the work as Elegy for Checkpoint Charlie (2003) and describes its original alto saxophone and junior wind-band scoring, with a piano accompaniment version."
+        }
+      },
+      "withheld": [
+        "streaming: opened recording is for concert band, not a saxophone performance."
+      ]
+    },
+    {
+      "id": 254,
+      "filename": "Martyna Kosecka - Znikomek.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Donemus"
+          ],
+          "source_url": "https://webshop.donemus.com/action/front/sheetmusic/16273/Znikomek",
+          "evidence": "Opened Donemus page identifies Znikomek for alto saxophone as D16273."
+        },
+        "streaming": {
+          "value": "https://soundcloud.com/martyna-kosecka/martyna-kosecka-znikomek",
+          "source_url": "https://soundcloud.com/martyna-kosecka/martyna-kosecka-znikomek",
+          "evidence": "Opened SoundCloud track identifies Znikomek (2010) for alto saxophone, performed by Dawid Pliskowski."
+        },
+        "purchase": {
+          "value": [
+            "https://webshop.donemus.com/action/front/sheetmusic/16273/Znikomek"
+          ],
+          "source_url": "https://webshop.donemus.com/action/front/sheetmusic/16273/Znikomek",
+          "evidence": "Donemus offers the exact eight-page alto saxophone score as a paid product."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 255,
+      "filename": "Mary Finsterer - Catch.md",
+      "updates": {},
+      "withheld": [
+        "composed: opened sources give 1990 and 1992 and do not resolve the original-work date."
+      ]
+    },
+    {
+      "id": 256,
+      "filename": "Mary Morrison Dixon - Southern Soliloquies.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Dorn Publications"
+          ],
+          "source_url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+          "evidence": "Dorn catalog lists Southern Soliloquies by Dixon, order 752, under Alto Saxophone and Piano."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 257,
+      "filename": "Masa Matsuura - Dreaming Stone.md",
+      "updates": {},
+      "withheld": [
+        "streaming: direct video URL appears in listening/search material, but no opened or score-inspected source verifies the recording; withheld."
+      ]
+    },
+    {
+      "id": 258,
+      "filename": "Masanori Katoh - Sonata Lùcida.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 259,
+      "filename": "Matthew Hindson - Repetepetition.md",
+      "updates": {},
+      "withheld": [
+        "composed: sources distinguish 2004 and 2011 versions; current composed value is preserved.",
+        "streaming: Spotify destination was not verified as a direct recording."
+      ]
+    },
+    {
+      "id": 260,
+      "filename": "Max Reger - Aria.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Advance Music"
+          ],
+          "source_url": "https://www.alfred.com/products/aria-opus-103a-no-3-01-adv7056",
+          "evidence": "Opened publisher product identifies Kynaston’s alto saxophone transcription as Advance Music ADV 7056."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 261,
+      "filename": "Max Reger - Romanze.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Advance Music"
+          ],
+          "source_url": "https://www.schott-music.com/en/series/classics-for-saxophone",
+          "evidence": "Schott catalog lists the exact Romanze alto and tenor editions as ADV 7054 and ADV 7055."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 262,
+      "filename": "Melvin Solomon - Sonatina.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Dorn Publications"
+          ],
+          "source_url": "https://www.jayeaston.com/Saxophonist_resources/resources_soprano_rep.html",
+          "evidence": "Opened soprano saxophone repertoire list explicitly names Dorn as publisher of Melvin Solomon’s Sonatina."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 263,
+      "filename": "Michael Cunningham - Sonata.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 264,
+      "filename": "Michael Mauldin - Three Songs.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Michael Mauldin"
+          ],
+          "source_url": "https://digitalrepository.unm.edu/nm_composer_archive/561",
+          "evidence": "Opened UNM archive record names Michael Mauldin as publisher."
+        }
+      },
+      "withheld": [
+        "composed: the UNM archive gives 1999 as an item date but does not label it as original composition year.",
+        "streaming: archive metadata does not provide a direct recording player.",
+        "download: archive describes score and parts, but linked public PDF retrieval failed; no complete authorized score was inspected."
+      ]
+    },
+    {
+      "id": 265,
+      "filename": "Michael Meriot - Comme Un Dimanche.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "A. Leduc"
+          ],
+          "source_url": "https://windmusic.org/index.php?id=11402&lvl=notice_display",
+          "evidence": "Opened CDMC/Wind Music record identifies the exact edition as A. Leduc AL28141."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 266,
+      "filename": "Michael Meriot - Sicilienne et Danse.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "A. Leduc"
+          ],
+          "source_url": "https://www.juneemersonwindmusic.com/SICILIENNE-ET-DANSE-2nd-Cycle.html",
+          "evidence": "Opened edition listing identifies Sicilienne et Danse as Leduc AL29585."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 267,
+      "filename": "Michael Nyman - Shaping the Curve.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Chester Music"
+          ],
+          "source_url": "https://ressources.ircam.fr/en/work/shaping-the-curve-1",
+          "evidence": "Opened IRCAM work record identifies the 1990 soprano saxophone/piano work as Chester Music."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 268,
+      "filename": "Michael Torke - Concerto.md",
+      "updates": {
+        "composed": {
+          "value": 1993,
+          "source_url": "https://www.michaeltorke.com/saxophone-concerto",
+          "evidence": "Torke’s opened composer page says the concerto was written in the last month of 1993."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 269,
+      "filename": "Michio Kitazume - Air.md",
+      "updates": {
+        "composed": {
+          "value": 1980,
+          "source_url": "https://enc.piano.or.jp/en/persons/432",
+          "evidence": "Opened PTNA work listing explicitly says Air I was composed in 1980."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 270,
+      "filename": "Miriam Hyde - Scherzetto.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Wirripang"
+          ],
+          "source_url": "https://www.australiancomposers.com.au/products/scherzetto",
+          "evidence": "Official product page identifies Scherzetto with the Wirripang product and ISMN 9790720133966."
+        }
+      },
+      "withheld": [
+        "streaming: no direct recording URL verified in opened evidence."
+      ]
+    },
+    {
+      "id": 271,
+      "filename": "Ned McGowan - Ricochet.md",
+      "updates": {},
+      "withheld": [
+        "composed: no exact original composition year confirmed."
+      ]
+    },
+    {
+      "id": 272,
+      "filename": "Nicole Philiba - Sonate.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Éditions Billaudot"
+          ],
+          "source_url": "https://www.billaudot.com/sonate-saxophone-et-piano-3.html",
+          "evidence": "Opened publisher page identifies Sonate as Billaudot MRB1140."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 273,
+      "filename": "Nicoline Soeter - Fading.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Donemus"
+          ],
+          "source_url": "https://webshop.donemus.com/action/front/sheetmusic/16533/Fading",
+          "evidence": "Opened Donemus publisher record identifies the exact tenor saxophone solo as D16533."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 274,
+      "filename": "Nimrod Borenstein - Lullaby.md",
+      "updates": {},
+      "withheld": [
+        "streaming: composer page links a video, but direct playback URL was not verified."
+      ]
+    },
+    {
+      "id": 275,
+      "filename": "Nina Shekhar - Careful Shouts.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 326,
+      "filename": "Robert Myers - Reprise.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 327,
+      "filename": "Robert Planel - Chanson du Muletier.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "A. Leduc"
+          ],
+          "source_url": "https://windmusic.org/index.php?lvl=notice_display&id=11435",
+          "evidence": "Opened CDMC/Wind Music record identifies Suite romantique, including Chanson du Muletier, as Leduc."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 328,
+      "filename": "Robert Planel - Chanson Triste.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "A. Leduc"
+          ],
+          "source_url": "https://windmusic.org/index.php?lvl=notice_display&id=11435",
+          "evidence": "Opened CDMC/Wind Music record identifies Suite romantique, including Chanson triste, as Leduc."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 329,
+      "filename": "Robert Planel - Conte de Noel.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "A. Leduc"
+          ],
+          "source_url": "https://windmusic.org/index.php?lvl=notice_display&id=11435",
+          "evidence": "Opened CDMC/Wind Music record identifies Suite romantique, including Conte de Noël, as Leduc."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 330,
+      "filename": "Robert Planel - Danseuses.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "A. Leduc"
+          ],
+          "source_url": "https://windmusic.org/index.php?lvl=notice_display&id=11435",
+          "evidence": "Opened CDMC/Wind Music record identifies Suite romantique, including Danseuses, as Leduc."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 331,
+      "filename": "Robert Planel - Prelude et Saltarelle.md",
+      "updates": {},
+      "withheld": [
+        "publisher: inspected institutional Leduc record is for separate Suite romantique, not this separate work."
+      ]
+    },
+    {
+      "id": 332,
+      "filename": "Robert Planel - Serenade Italienne.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "A. Leduc"
+          ],
+          "source_url": "https://windmusic.org/index.php?lvl=categ_see&nbr_lignes=14489&page=741",
+          "evidence": "Opened CDMC/Wind Music record identifies Suite romantique, including Sérénade italienne, as Leduc."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 333,
+      "filename": "Robert Planel - Valse Sentimentale.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "A. Leduc"
+          ],
+          "source_url": "https://www.finna.fi/Record/oy.996786206252",
+          "evidence": "Opened University of Oulu library record identifies Valse sentimentale as Leduc AL20249."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 334,
+      "filename": "Robert Sibbing - Sonata.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 335,
+      "filename": "Robert Simon - Echo.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 336,
+      "filename": "Robert Wilson - Silver Sonatina.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 337,
+      "filename": "Robert Wilson - Tango in D.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 338,
+      "filename": "Roberto Gerhard - Rhapsodie.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 339,
+      "filename": "Roger C. Vogel - Concerto.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Dorn Publications"
+          ],
+          "source_url": "https://www.grothmusic.com/images/DP%20Catalog%20Nov%202024.pdf",
+          "evidence": "Opened Dorn catalog lists Roger C. Vogel’s Concerto for Alto Saxophone and Winds."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 340,
+      "filename": "Roger Calmel - Suite.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 341,
+      "filename": "Roland Cardon - Cricket First.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 342,
+      "filename": "Rolf Rudin - Nachtstücke.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 343,
+      "filename": "Ronald Caravan - Paradigms.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 344,
+      "filename": "Ronald Caravan - Sonata.md",
+      "updates": {
+        "composed": {
+          "value": 1984,
+          "source_url": "https://ethospublications.com/ecc_eps/music-for-saxophone/soprano-saxophone-solos/sonata-for-soprano-saxophone-piano-ronald-l-caravan/",
+          "evidence": "Ethos explicitly labels 1984 as the year of composition."
+        },
+        "publisher": {
+          "value": [
+            "Ethos Publications"
+          ],
+          "source_url": "https://ethospublications.com/ecc_eps/music-for-saxophone/soprano-saxophone-solos/sonata-for-soprano-saxophone-piano-ronald-l-caravan/",
+          "evidence": "Composer-publisher page identifies Ethos Publications as publisher of the soprano saxophone Sonata."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 345,
+      "filename": "Ross Lee Finney - Two Studies.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 346,
+      "filename": "Roydon Tse - Speak, my soul.md",
+      "updates": {
+        "purchase": {
+          "value": [
+            "https://roydontse.com/music-and-scores/silence-my-soul/"
+          ],
+          "source_url": "https://roydontse.com/music-and-scores/silence-my-soul/",
+          "evidence": "Composer’s opened page offers the exact score and parts for purchase for CAD $15."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 347,
+      "filename": "Rudy Wiedoeft - Sax-O-Phun.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 348,
+      "filename": "Rudy Wiedoeft - Saxophobia.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 349,
+      "filename": "Ruud Roelofsen - Fracture Iv.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Donemus"
+          ],
+          "source_url": "https://webshop.donemus.com/action/front/sheetmusic/13451/Fracture+IV",
+          "evidence": "Opened Donemus product and preview identify the exact work as a Donemus publication."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 350,
+      "filename": "Ruud Roelofsen - Stratos.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Donemus"
+          ],
+          "source_url": "https://webshop.donemus.com/action/front/sheetmusic/13298/Stratos",
+          "evidence": "Opened Donemus score preview and product identify the exact transposed tenor saxophone/piano edition as Donemus."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 401,
+      "filename": "William Schmidt - Variations on a Theme of Mussorgsky.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 402,
+      "filename": "William Thornton - Sonata.md",
+      "updates": {},
+      "withheld": [
+        "composed: source combines 1987 creation and publication information without distinguishing the original composition year."
+      ]
+    },
+    {
+      "id": 403,
+      "filename": "Wolfgang Jacobi - Sonata.md",
+      "updates": {},
+      "withheld": [
+        "composed: sources give 1931/early-1930s but do not explicitly identify that as the original composition year."
+      ]
+    },
+    {
+      "id": 404,
+      "filename": "Yasuhide Ito - Concerto.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 405,
+      "filename": "Yolande Uyttenhove - Sonata Op. 119.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 406,
+      "filename": "Yvan Markovitch - Complainte et Danse.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 407,
+      "filename": "Yvonne Desportes - Chambery.md",
+      "updates": {
+        "publisher": {
+          "value": [
+            "Dorn Publications"
+          ],
+          "source_url": "https://www.grothmusic.com/images/DP%20Catalog%20Nov%202024.pdf",
+          "evidence": "Opened Dorn catalog lists Chambery for soprano saxophone/organ or oboe/organ."
+        }
+      },
+      "withheld": []
+    },
+    {
+      "id": 408,
+      "filename": "Zdeněk Fibich - Poeme.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    },
+    {
+      "id": 409,
+      "filename": "Émile Lesieur - Deux Pieces Breves.md",
+      "updates": {},
+      "withheld": [
+        "No additional eligible metadata was confirmed by opened evidence; current values remain unchanged."
+      ]
+    }
+  ]
+}

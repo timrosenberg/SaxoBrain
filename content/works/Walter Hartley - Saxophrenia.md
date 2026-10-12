@@ -14,8 +14,32 @@ purchase:
 added: 2024-03-08
 research:
   - "Publisher Dorn Publications, catalog no. DORN0871 · https://www.grothmusic.com/p-143134.aspx"
+publisher:
+  - "Dorn Publications"
+  - "Molenaar"
 aliases: []
 ---
 ## Research notes (private)
 
 - Publisher Dorn Publications, catalog no. DORN0871 · [grothmusic.com](https://www.grothmusic.com/p-143134.aspx)
+
+<!-- saxobrain-research-review-2026-10-11 -->
+
+### Research Review, October 11, 2026
+
+[[Review 0389 - Walter Hartley - Saxophrenia|Full review note]]
+
+Catalog: [[Walter Hartley - Saxophrenia]]
+
+- Identity: Saxophrenia is Hartley’s 1977 concerto for alto saxophone and wind band, dedicated to Ted Hegvik. The CDMC/Wind Music catalog in Guebwiller records the Molenaar/Dorn editions and 19-page full score.
+- Institutional catalog confirms title, alto saxophone and wind band, 1977, Molenaar and Dorn publishers, 19-page full score, dedication, and classifies soloist level 5 and band difficulty 3. [CDMC/Wind Music catalog, Guebwiller](https://windmusic.org/index.php?lvl=notice_display&id=38697) (opened).
+- Estate catalog lists Saxophrenia as an alto saxophone work with band or piano, 2:30, Dorn, no. 124. [Walter S. Hartley estate, saxophone works catalog](https://www.walterhartley.com/Saxophone_2.htm) (opened).
+- The Wind Music legal notice identifies the site editor as Conseil départemental pour la Musique et la Culture (CDMC), at Guebwiller. [CDMC/Wind Music catalog, Guebwiller](https://windmusic.org/index.php?id_rubrique=82&lvl=cmspage&pageid=6) (opened).
+- Collection/use: Documented concerto for alto saxophone and band; the library catalog's level labels are not SaxoBrain levels.
+- Review focus: Inference: a concerto format and separately reported soloist/band ratings make solo projection and ensemble balance useful review questions; notation not inspected.
+- Gaps: No score or performance recording inspected.
+
+#### Catalog Details Added
+
+- Publisher: Dorn Publications, Molenaar. [Source](https://windmusic.org/index.php?lvl=notice_display&id=38697)
+

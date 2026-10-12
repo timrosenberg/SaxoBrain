@@ -11,7 +11,7 @@ instruments:
 tags:
   - "Jazz"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: 
 purchase: []
 added: 2019-08-25

@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: 
 purchase:
   - "https://www.amazon.com/Bonneau-Suite-Alto-Saxophone-Paul/dp/B00006M2RB?tag=timothyrosenb-20"

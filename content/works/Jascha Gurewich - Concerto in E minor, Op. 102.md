@@ -8,7 +8,7 @@ instruments:
   - "Piano"
   - "Orchestra"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: 
 purchase:
   - "https://www.grothmusic.com/p-34246-concerto-in-e-minor-op-102-alto-sax-and-piano.aspx"

@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Electronics"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: "https://www.youtube.com/watch?v=hVKktMn03Fs"
 purchase:
   - "https://www.grothmusic.com/p-38486-night-bird-alto-sax-and-electronics.aspx"

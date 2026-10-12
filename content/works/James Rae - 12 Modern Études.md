@@ -11,7 +11,7 @@ instruments:
 tags:
   - "Etude"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: 
 purchase:
   - "https://www.universaledition.com/en/Rae-12-Modern-Etudes/P0043407"

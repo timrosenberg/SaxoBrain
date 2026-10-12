@@ -7,7 +7,7 @@ instruments:
   - Alto Saxophone
   - Piano
 composed: 1910
-year-of-study: Second-Year
+year-of-study: Second Year
 arranger-edition:
   - Claude Delangle
 streaming: https://www.youtube.com/watch?v=AY8XyrG9J_8

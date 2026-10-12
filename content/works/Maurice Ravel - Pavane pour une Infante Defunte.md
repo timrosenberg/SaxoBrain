@@ -8,7 +8,7 @@ instruments:
   - "Piano"
   - "Orchestra"
 composed: 1899
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 arranger-edition:
   - "Ralph Martino"
 streaming: 

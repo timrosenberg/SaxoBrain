@@ -7,7 +7,7 @@ instruments:
   - "Soprano Saxophone"
   - "Unaccompanied"
 composed: 1951
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: "https://youtu.be/hLxWE_7XiWk"
 purchase:
   - "https://www.amazon.com/METAMORPHOSES-AFTER-OVID-OP49-OBOE/dp/1480342009?tag=timothyrosenb-20"

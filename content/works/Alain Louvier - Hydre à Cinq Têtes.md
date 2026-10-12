@@ -7,7 +7,7 @@ instruments:
   - Alto Saxophone
   - Piano
 composed: 1976
-year-of-study: Second-Year
+year-of-study: Second Year
 streaming:
 purchase:
   - https://www.grothmusic.com/p-53212.aspx

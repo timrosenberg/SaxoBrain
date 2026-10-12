@@ -190,7 +190,7 @@ years = [
         ],
     },
     {
-        "id": "second-year", "n": 2, "name": "Second Year", "lv": "2", "catalog": "Second-Year",
+        "id": "second-year", "n": 2, "name": "Second Year", "lv": "2", "catalog": "Second Year",
         "technique": [
             {"text": "The Scale Series", "url": SCALES, "detail": "Completely memorized by the end of the first semester"},
             {"text": "Beginning altissimo"},

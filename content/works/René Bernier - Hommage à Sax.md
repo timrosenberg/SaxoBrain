@@ -8,7 +8,7 @@ instruments:
   - "Piano"
   - "Chamber Ensemble"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: 
 purchase:
   - "https://www.boosey.com/shop/prod/Hommage-a-Sax/919300"

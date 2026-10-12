@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: 
 purchase:
   - "https://www.amazon.com/SPIRITUAL-DANSE-EXOTIQUE-SAXOPHONE-PIANO/dp/B003JYOJFQ"

@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: 
 purchase:
   - "https://www.amazon.com/Deuxieme-Morceau-Saxophone-N-Beeckman/dp/B00MV50DGI?aff_id=426309&utm_medium=plg1"

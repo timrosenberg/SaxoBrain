@@ -7,7 +7,7 @@ instruments:
   - "Any Saxophone"
   - "Unaccompanied"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 arranger-edition:
   - "Trent Kynaston"
 streaming: 

@@ -8,7 +8,7 @@ instruments:
   - "Tenor Saxophone"
   - "Piano"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: 
 purchase:
   - "https://www.hickeys.com/search/products/sku042322.php"

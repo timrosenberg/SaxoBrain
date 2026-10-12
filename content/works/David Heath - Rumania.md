@@ -5,7 +5,7 @@ composer:
   - "[[David Heath]]"
 instruments:
   - "Soprano Saxophone"
-composed: 
+composed: 1979
 year-of-study: 
 streaming: 
 purchase: []
@@ -17,3 +17,42 @@ aliases: []
 ## Research notes (private)
 
 - Subject of a performer's guide dissertation (Lindsey Nicole O'Connor, Univ. of Nebraska-Lincoln) with Out of the Cool and Coltrane · [digitalcommons.unl.edu](https://digitalcommons.unl.edu/dissertations/AAI28086446)
+
+<!-- saxobrain-research-review-2026-10-11 -->
+
+### Research Review, October 11, 2026
+
+[[Review 0066 - David Heath - Rumania|Full review note]]
+
+Catalog: [David Heath - Rumania.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/David Heath - Rumania.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0066.json).
+
+**Identity and findings.** Rumania (1979) is one of three early jazz-inspired works composed or arranged for saxophone by David Heath; a 2020 DMA dissertation provides a performer’s guide and analysis to Rumania alongside Out of the Cool and Coltrane. A contemporary 1988 review describes the work as one movement with contrasting lyrical/rhapsodic and quicker jazz-influenced sections and notes a soprano-sax part was separately available. The original David Heath work is for violin and piano; the saxophone edition is an arrangement, so distinguish the exact sax version from later retailer listings.
+
+**Sources checked.**
+- [University of Nebraska-Lincoln repository](https://digitalcommons.unl.edu/musicstudent/146/) (opened): The University of Nebraska-Lincoln repository identifies the 2020 DMA dissertation, its three titles, composer-arranged saxophone repertoire, and its analysis/performance-guidance scope.
+- [Lindsey O’Connor DMA dissertation abstract](https://digitalcommons.unl.edu/musicstudent/146/) (opened): Dissertation record describes the works as early jazz-inspired saxophone repertoire by a British composer.
+- [Wise Music Classical publisher catalogue](https://www.wisemusicclassical.com/work/820/Rumania--David-Heath/) (opened): Publisher identifies Heath’s Rumania as a 1979 work originally for violin and piano, written for Nigel Kennedy, with episodic sections and jazz/Bartók inspiration. It does not list the saxophone version on this page.
+- [Brio journal review (1988)](https://iaml-uk-irl.org/media/Brio_25_2_1988_OCR.pdf) (opened): A 1988 review states that a soprano saxophone part is available separately and describes the single-movement work as alternating lyrical/rhapsodic and faster jazz-influenced sections; the reviewer considers it suitable for competent amateurs or experienced students. This is contemporaneous review evidence, not a saxophone score inspection.
+
+**Score.**
+- No notation was visually inspected.
+
+**Score/sample.**
+- [Repository record links to dissertation; score was not inspected.](https://digitalcommons.unl.edu/musicstudent/146/).
+- [Retailer listing for a soprano saxophone and piano edition, 12 pages; no readable notation preview inspected.](https://www.forsyths.co.uk/music/sheet-music/by-instrument-family/woodwind/saxophone-sheet-music/222906-heath-dave-rumania-5020679162996.html).
+
+**Collection and audience context.** Saxophone arrangement of a work originally composed for violin and piano. Contemporary review and later dissertation discuss its saxophone performance; not evidence that the sax part is a literal violin transcription.
+
+**Review focus.** Inference from the 1988 review: contrast long lyrical/rhapsodic phrasing with quicker jazz-influenced sections; score-level articulation, range, and sax-specific technique remain unknown.
+
+**Open questions.**
+- The work’s saxophone type, accompaniment, accessible score, recording, and specific technique demands were not verified in this pass.
+- The full dissertation was linked but not downloaded/read.
+- The University of Nebraska dissertation record is open, but its full-text PDF download returned an access error; its detailed performance analysis has not been consulted.
+
+**Tim decision:** pending.
+
+#### Catalog Details Added
+
+- Composition year: 1979. [Source](https://www.wisemusicclassical.com/work/820/Rumania--David-Heath/)
+

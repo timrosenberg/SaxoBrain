@@ -9,7 +9,7 @@ instruments:
   - "Soprano Saxophone"
   - "Tenor Saxophone"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: 
 purchase:
   - "https://www.prestomusic.com/sheet-music/products/7380243--michel-delguidice-michel-delguidice-badinage"

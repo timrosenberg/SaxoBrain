@@ -7,7 +7,7 @@ instruments:
   - "Tenor Saxophone"
   - "Piano"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: "https://www.youtube.com/watch?v=mfH0VmTy-0c"
 purchase:
   - "https://www.danawilson.org/node/101875"

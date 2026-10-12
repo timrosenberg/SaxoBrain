@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: 
 purchase:
   - "https://www.amazon.com/Sonata-Saxophone-Piano-Bernhard-Heiden/dp/1495016560/ref=sr_1_1?tag=timothyrosenb-20"

@@ -1,8 +1,8 @@
 /* Searchable catalog for the Repertoire page. Reads index.json (built by Hugo), filters in the browser,
    and keeps the filters in the address bar so a search can be shared. */
 (function () {
-  const LEVELS = [["Pre-college", "pre"], ["First Year", "1"], ["Second-Year", "2"], ["Third Year", "3"], ["Fourth Year", "4"], ["Advanced", "adv"]];
-  const LV_NAME = { "Pre-college": "Pre-college", "First Year": "First year", "Second-Year": "Second year", "Third Year": "Third year", "Fourth Year": "Fourth year", "Advanced": "Advanced", "": "Unassigned" };
+  const LEVELS = [["Pre-college", "pre"], ["First Year", "1"], ["Second Year", "2"], ["Third Year", "3"], ["Fourth Year", "4"], ["Advanced", "adv"]];
+  const LV_NAME = { "Pre-college": "Pre-college", "First Year": "First year", "Second Year": "Second year", "Third Year": "Third year", "Fourth Year": "Fourth year", "Advanced": "Advanced", "": "Unassigned" };
   const lvClass = y => "lv-" + ((LEVELS.find(l => l[0] === y) || [0, "none"])[1]);
   const SAX = ["Soprano Saxophone", "Alto Saxophone", "Tenor Saxophone", "Baritone Saxophone", "Bass Saxophone"];
   const WITH = ["Piano", "Unaccompanied", "Orchestra", "Band", "Electronics", "Percussion"];

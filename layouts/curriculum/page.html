@@ -44,7 +44,7 @@
 {{- end }}
 </div>
 {{- /* How many catalog works sit at this year of study, all instruments together (the catalog's level filter). */ -}}
-{{- $lv := index (dict "1" "First Year" "2" "Second-Year" "3" "Third Year" "4" "Fourth Year") (string $n) -}}
+{{- $lv := index (dict "1" "First Year" "2" "Second Year" "3" "Third Year" "4" "Fourth Year") (string $n) -}}
 {{- $works := where site.RegularPages "Section" "works" -}}
 {{- $all := len (where $works "Params.year-of-study" $lv) -}}
 {{- $adv := len (where $works "Params.year-of-study" "Advanced") -}}

@@ -7,7 +7,7 @@ instruments:
   - "Soprano Saxophone"
   - "Piano"
 composed: 1959
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: 
 purchase: []
 added: 2025-04-18

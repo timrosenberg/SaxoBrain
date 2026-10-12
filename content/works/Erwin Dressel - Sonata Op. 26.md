@@ -7,7 +7,7 @@ instruments:
   - Alto Saxophone
   - Piano
 composed: 1932
-year-of-study: Second-Year
+year-of-study: Second Year
 streaming: https://youtu.be/8zWiNX8ax78?si=uN-vmqgdTTl2js10
 purchase:
   - https://www.grothmusic.com/p-37676.aspx

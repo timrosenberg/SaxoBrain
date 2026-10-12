@@ -7,7 +7,7 @@ instruments:
   - "Tenor Saxophone"
   - "Piano"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: 
 purchase:
   - "https://www.sheetmusicplus.com/title/octophonie-sheet-music/2219243?aff_id=426309&utm_medium=plg1"

@@ -7,7 +7,7 @@ instruments:
   - Alto Saxophone
   - Piano
 composed: 2023
-year-of-study: Second-Year
+year-of-study: Second Year
 purchase:
   - https://cmccanada.org/shop/81444/
 added: 2026-10-07

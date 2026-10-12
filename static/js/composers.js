@@ -1,8 +1,8 @@
 /* Filters for the Composers page. The list is already on the page; this hides rows that do not match
    and keeps the filters in the address bar (/composers/?nat=French&lvl=First+Year&born=1900&women=1&poc=1&living=1). */
 (function () {
-  const LEVELS = [["Pre-college", "pre"], ["First Year", "1"], ["Second-Year", "2"], ["Third Year", "3"], ["Fourth Year", "4"], ["Advanced", "adv"]];
-  const LV_NAME = { "Pre-college": "Pre-college", "First Year": "First year", "Second-Year": "Second year", "Third Year": "Third year", "Fourth Year": "Fourth year", "Advanced": "Advanced" };
+  const LEVELS = [["Pre-college", "pre"], ["First Year", "1"], ["Second Year", "2"], ["Third Year", "3"], ["Fourth Year", "4"], ["Advanced", "adv"]];
+  const LV_NAME = { "Pre-college": "Pre-college", "First Year": "First year", "Second Year": "Second year", "Third Year": "Third year", "Fourth Year": "Fourth year", "Advanced": "Advanced" };
   const lvCode = y => (LEVELS.find(l => l[0] === y) || [0, "none"])[1];
   const TOP_NATIONS = 8;
   // Birth-year groups: URL value -> [label, first year, last year]

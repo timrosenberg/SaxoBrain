@@ -8,7 +8,7 @@ instruments:
   - "Piano"
   - "Soprano Saxophone"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: 
 purchase: []
 added: 2022-03-28

@@ -7,7 +7,7 @@ instruments:
   - "Tenor Saxophone"
   - "Piano"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 arranger-edition:
   - "Jean-Marie Londeix"
 streaming: "https://song.link/i/261233373"

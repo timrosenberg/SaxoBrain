@@ -8,7 +8,7 @@ instruments:
   - "Orchestra"
   - "Piano"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: "https://www.youtube.com/watch?v=179BXpkmLrY"
 purchase:
   - "https://shop.abrsm.org/shop/prod/Binge-Ronald-Concerto-for-Alto-Saxophone-alto-saxophone-piano-reduction/608962"

@@ -6,7 +6,7 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
+composed: 1980
 year-of-study: 
 streaming: 
 purchase: []
@@ -18,3 +18,34 @@ aliases: []
 ## Research notes (private)
 
 - Henry Lemoine composer page lists Air for alto saxophone and piano; no date or duration found · [henry-lemoine.com](https://www.henry-lemoine.com/en/compositeurs/324-michio-kitazume)
+
+<!-- saxobrain-research-review-2026-10-11 -->
+
+### Research Review, October 11, 2026
+
+[[Review 0269 - Michio Kitazume - Air|Full review note]]
+
+Catalog entry: [[Michio Kitazume - Air]].
+
+Kitazume’s Air I for alto saxophone and piano is dated 1980 and listed at approximately nine minutes by the PTNA Piano Music Encyclopedia, citing the composer’s official website as its source.
+[PTNA Piano Music Encyclopedia](https://enc.piano.or.jp/en/persons/432) (opened): Opened PTNA Piano Music Encyclopedia page lists Air I for alto saxophone and piano, composed in 1980, playing time nine minutes. PTNA identifies this as a work listing, not a score or notation source.
+
+Score links:
+- [Publisher/work listing; no notation preview inspected.](https://enc.piano.or.jp/en/persons/432); visually inspected: false.
+
+Collection/transcription context: Original alto saxophone/piano chamber work.
+
+Review focus: The score, recording and formal details remain unverified.
+
+Open questions: No representative saxophone score pages were visually inspected. Work-specific performance or pedagogical context remains unverified. Musical demands and written range remain unknown without an inspected saxophone part.
+
+Searches checked:
+- Michio Kitazume Air alto saxophone piano
+- Michio Kitazume Air I Lemoine alto saxophone piano score publisher
+- Opened PTNA Piano Music Encyclopedia and checked Air I entry
+- Checked publisher and retailer listings for Editions Henry Lemoine item LEM25246; no publisher page was opened
+
+#### Catalog Details Added
+
+- Composition year: 1980. [Source](https://enc.piano.or.jp/en/persons/432)
+

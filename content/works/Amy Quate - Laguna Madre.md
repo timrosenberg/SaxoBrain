@@ -7,7 +7,7 @@ instruments:
   - Soprano Saxophone
   - Piano
 composed: 2006
-year-of-study: Second-Year
+year-of-study: Second Year
 streaming: https://www.youtube.com/watch?v=bVsRJUoHzdY
 purchase:
   - https://www.grothmusic.com/p-37450.aspx

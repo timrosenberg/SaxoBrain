@@ -8,7 +8,7 @@ instruments:
   - "Soprano Saxophone"
   - "Piano"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 arranger-edition:
   - "Johan van der Linden"
 streaming: "https://youtu.be/jKxyR5MZtq0?si=R3y-AvKzbuxtYoy1"

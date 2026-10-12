@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 arranger-edition:
   - "Robert Stanton"
 streaming: "https://youtu.be/9u5K7nIphV4?si=Qw1_f0TRd02lVnGA"

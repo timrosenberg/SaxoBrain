@@ -7,7 +7,7 @@ instruments:
   - "Soprano Saxophone"
   - "Piano"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: 
 purchase:
   - "https://www.jwpepper.com/Soprano-Sax-Sonata/2364180.item"

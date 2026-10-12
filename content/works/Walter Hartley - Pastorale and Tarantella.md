@@ -9,7 +9,7 @@ instruments:
   - "Piano"
   - "Trio"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: 
 purchase:
   - "https://ethospublications.com/ecc_eps/music-for-saxophone/mixed-ensembles-wsaxophone/walter-s-hartley-pastorale-tarantella-for-soprano-saxophone-alto-saxophone-piano/"

@@ -11,7 +11,7 @@ instruments:
 tags:
   - "Etude"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: 
 purchase:
   - "https://www.ficksmusic.com/products/lacour-24-easy-atonal-studies-for-saxophone-billaudot?srsltid=AfmBOor6RkOFV-2-s48NSiU4rXgiHa04hR3XXo-VsXJCEpq9jPHsBcSK"

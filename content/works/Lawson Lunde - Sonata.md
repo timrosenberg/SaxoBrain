@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: "https://album.link/i/1191551632"
 purchase:
   - "https://www.amazon.com/Sonata-Alto-Sax-Lawson-Lunde/dp/1581061781/ref=sr_1_1?tag=timothyrosenb-20"

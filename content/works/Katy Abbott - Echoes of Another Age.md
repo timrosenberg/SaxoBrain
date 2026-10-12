@@ -7,7 +7,7 @@ instruments:
   - Tenor Saxophone
   - Piano
 composed: 2001
-year-of-study: Second-Year
+year-of-study: Second Year
 publisher:
   - Reed Music
 purchase:

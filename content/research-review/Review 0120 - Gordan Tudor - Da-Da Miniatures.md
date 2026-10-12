@@ -3,7 +3,7 @@ title: "Review 0120: Gordan Tudor - Da-Da Miniatures"
 added: 2026-10-11
 review-id: 120
 review-packet: 5
-review-decision: Second-Year
+review-decision: Second Year
 review-applied: true
 notation-inspected: true
 catalog-entry: "[[Gordan Tudor - Da-Da Miniatures]]"

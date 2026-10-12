@@ -7,7 +7,7 @@ instruments:
   - Alto Saxophone
   - Piano
 composed: 1976
-year-of-study: Second-Year
+year-of-study: Second Year
 streaming: https://www.youtube.com/watch?v=MQYvpHU5OPc
 purchase:
   - https://www.jeanne-inc.com/product/SSAP-C1080.html

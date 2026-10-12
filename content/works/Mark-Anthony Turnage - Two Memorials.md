@@ -7,7 +7,7 @@ instruments:
   - "Soprano Saxophone"
   - "Unaccompanied"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: 
 purchase:
   - "https://www.sheetmusicplus.com/title/2-memorials-sheet-music/5960866"

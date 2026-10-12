@@ -7,7 +7,7 @@ instruments:
   - Alto Saxophone
   - Piano
 composed: 1813
-year-of-study: Second-Year
+year-of-study: Second Year
 streaming: https://www.youtube.com/watch?v=P2jTLYUw0Cc
 purchase:
   - https://www.performersmusicchicago.com/sonatina-in-g-minor-d-408-schubert-int-3330

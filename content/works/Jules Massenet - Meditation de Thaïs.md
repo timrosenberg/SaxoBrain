@@ -7,7 +7,7 @@ instruments:
   - Soprano Saxophone
   - Piano
 composed: 1894
-year-of-study: Second-Year
+year-of-study: Second Year
 streaming: https://www.youtube.com/watch?v=7QtGOWemQhY
 purchase:
   - https://www.grothmusic.com/p-37441.aspx

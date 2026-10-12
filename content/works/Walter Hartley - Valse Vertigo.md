@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: 
 purchase:
   - "https://www.amazon.com/Vertigo-Saxophone-Walter-S-Hartley/dp/B00N6S8SF2?tag=timothyrosenb-20"

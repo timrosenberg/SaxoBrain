@@ -3,7 +3,7 @@ title: "Review 0023: Bertold Hummel - Sonata Brevis"
 added: 2026-10-11
 review-id: 23
 review-packet: 1
-review-decision: Second-Year
+review-decision: Second Year
 review-applied: true
 notation-inspected: true
 catalog-entry: "[[Bertold Hummel - Sonata Brevis]]"

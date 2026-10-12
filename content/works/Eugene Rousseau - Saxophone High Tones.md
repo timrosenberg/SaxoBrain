@@ -11,7 +11,7 @@ instruments:
 tags:
   - "Etude"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 streaming: 
 purchase:
   - "https://www.grothmusic.com/p-34085-high-tones-2nd-edition-saxophone.aspx"

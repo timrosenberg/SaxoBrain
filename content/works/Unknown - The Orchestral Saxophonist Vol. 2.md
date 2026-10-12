@@ -5,7 +5,7 @@ composer: []
 instruments:
   - "Any Saxophone"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 arranger-edition:
   - "Robert Frascotti"
   - "Bruce Ronkin"

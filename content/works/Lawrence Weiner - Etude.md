@@ -7,7 +7,7 @@ instruments:
   - "Tenor Saxophone"
   - "Unaccompanied"
 composed: 
-year-of-study: "Second-Year"
+year-of-study: "Second Year"
 arranger-edition: 
 publisher:
   - "Southern"

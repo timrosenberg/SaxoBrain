@@ -11,7 +11,7 @@ instruments:
   - Guitar
 multi-instruments: Any saxophone with one of marimba, harpsichord, harp or guitar
 composed: 2003
-year-of-study: Second-Year
+year-of-study: Second Year
 arranger-edition:
 publisher: New Consonant Music
 streaming: https://open.spotify.com/track/13aDCGSkJzYKLacBYnN2Wc?autoplay_ok=1
