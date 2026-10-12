@@ -1,0 +1,64 @@
+{
+  "id": 45,
+  "batch": 2,
+  "filename": "Charles W. Smith - Metamorphosis II.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Charles W. Smith - Metamorphosis II.md",
+  "title": "Metamorphosis II",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Charles W. Smith, Metamorphosis II, assigned as Dorn DORN1518 for alto saxophone and piano. Dorn’s searchable catalogs identify DORN1518 as English horn and piano. Together with soprano-solo DORN0150 in record 44, this could reflect duplicate titles or multiple distinct arrangements; no score/title page settles it.",
+  "evidence": [
+    {
+      "claim": "Assignment snapshot gives a Groth listing for alto saxophone and piano, catalog number DORN1518.",
+      "url": "https://www.grothmusic.com/p-139740.aspx",
+      "source_name": "Groth Music, assigned product link",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Dorn’s Nov. 2024 catalog places order 1518 Metamorphosis II in the English horn and piano section and specifies enghrn/pno.",
+      "url": "https://www.grothmusic.com/images/DP%20Catalog%20Nov%202024.pdf",
+      "source_name": "Dorn Publications catalog, Nov. 2024",
+      "kind": "publisher",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Dorn’s Apr. 2025 catalog repeats the no. 1518 English horn and piano listing.",
+      "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+      "source_name": "Dorn Publications catalog, Apr. 2025",
+      "kind": "publisher",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Dorn 2024–2025 catalog text places DORN1518 Metamorphosis II under English horn and piano, conflicting with the assigned Groth entry’s alto saxophone and piano description.",
+      "url": "https://www.dornpub.com/",
+      "source_name": "Dorn Publications catalog 2024–2025",
+      "kind": "publisher",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "On printed page 33 (PDF page 31), Charles Smith appears as transcriber of a Mozart wind-duet anthology. This is unrelated to either queued Metamorphosis II record and does not resolve their identity.",
+      "url": "https://mediatheque.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+      "source_name": "Philharmonie de Paris, 10 ans avec le saxophone",
+      "kind": "institution",
+      "access": "opened",
+      "page": "printed p. 33; PDF p. 31"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "No saxophone score or recording verified.",
+  "collection_flag": "Possible catalog mismatch and same-title duplication with ID 44. Preserve both records pending score or publisher confirmation; no deletion or merge proposed.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No readable DORN1518 score or publisher product page accessed.",
+    "Do not merge with record 44 without title-page evidence."
+  ],
+  "proposed_corrections": [
+    "Verify the assigned saxophone instrumentation and catalog number against Dorn or score title page; preserve both records pending verification."
+  ],
+  "searches": [
+    "DORN1518 Metamorphosis II saxophone piano Charles W Smith",
+    "DORN1518 English horn piano Dorn Publications"
+  ]
+}

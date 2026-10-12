@@ -1,0 +1,62 @@
+{
+  "id": 360,
+  "batch": 15,
+  "filename": "Srul Irving Glick - Suite Hebraique No. 4.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Srul Irving Glick - Suite Hebraique No. 4.md",
+  "title": "Suite Hebraique No. 4",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Glick's Suite Hebraique No. 4 is a six-movement work for alto saxophone and piano; the composer's chamber catalogue identifies a 1979 version and approx. 17:25 duration, while a 2008 recording runs about 19 minutes.",
+  "evidence": [
+    {
+      "claim": "Composer's chamber list identifies scoring, date, duration, and Dorn publication.",
+      "url": "https://www.srulirvingglick.com/chamber",
+      "source_name": "Srul Irving Glick official site",
+      "kind": "composer",
+      "access": "opened"
+    },
+    {
+      "claim": "Apple Music recording lists six movements performed by Paul Brodie and Valerie Tryon.",
+      "url": "https://classical.music.apple.com/br/album/302622375",
+      "source_name": "Apple Music",
+      "kind": "performer",
+      "access": "opened"
+    },
+    {
+      "claim": "Composer describes the Hebraique suites as several contrasting song/dance movements reflecting Jewish cultural life.",
+      "url": "https://www.srulirvingglick.com/news",
+      "source_name": "Srul Irving Glick official site",
+      "kind": "composer",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference: six contrasting movements, including a lullaby, wedding dance, lament/cantorial chant, and circle dance, make style and character differentiation central; exact demands need score inspection.",
+  "collection_flag": "unknown",
+  "listening": [
+    {
+      "url": "https://classical.music.apple.com/br/album/302622375",
+      "description": "Paul Brodie and Valerie Tryon recording, with movement track listings.",
+      "verification": "Credits and track titles verified; playback not auditioned."
+    }
+  ],
+  "score_links": [],
+  "gaps": [
+    "No score preview or range information inspected; composer duration and recorded duration differ."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    {
+      "query": "Srul Irving Glick Suite Hebraique No 4 score",
+      "checked": "Search results and listed sources checked; gaps stated per record."
+    },
+    {
+      "query": "Glick Suites Hebraiques composer chamber catalog",
+      "checked": "Search results and listed sources checked; gaps stated per record."
+    },
+    {
+      "query": "Glick Works for Saxophone Piano recording tracks",
+      "checked": "Search results and listed sources checked; gaps stated per record."
+    }
+  ]
+}

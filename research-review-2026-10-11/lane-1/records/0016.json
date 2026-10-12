@@ -1,0 +1,40 @@
+{
+  "id": 16,
+  "batch": 1,
+  "filename": "Arthur Woodbury - Between Categories.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Arthur Woodbury - Between Categories.md",
+  "title": "Between Categories",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Arthur Woodbury's *Between Categories* is an alto-saxophone-and-piano score dated 1982 in a specialist German music dealer catalog; the edition includes score and part. The existing Peters number EP67113 was not corroborated by this record.",
+  "evidence": [
+    {
+      "claim": "Dealer identifies exact title, instrumentation, date, and score-plus-part format.",
+      "url": "https://www.noten-roehr.de/en/scores/0005/woodwind-instruments/0507/saxophone/0504/woodwind%2Bpiano-harpsichord/028200",
+      "source_name": "Noten Roehr",
+      "kind": "retailer",
+      "access": "opened"
+    },
+    {
+      "claim": "Existing catalog lead identifies Peters EP67113.",
+      "url": "https://www.grothmusic.com/p-146308.aspx",
+      "source_name": "Groth Music",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Original saxophone chamber work is indicated by edition listing; intended audience and college use unknown.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "Reconcile the 1982 edition with Peters EP67113 and confirm publisher.",
+    "No public score preview or recording found."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Arthur Woodbury Between Categories saxophone score EP67113",
+    "Woodbury Between categories alto saxophone piano 1982"
+  ]
+}

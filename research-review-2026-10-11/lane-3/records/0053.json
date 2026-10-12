@@ -1,0 +1,79 @@
+{
+  "id": 53,
+  "batch": 3,
+  "filename": "Clare Loveday - Wind—Play.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Clare Loveday - Wind—Play.md",
+  "title": "Wind—Play",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "The composer’s current compositions page identifies Wind-Play (2000) for soprano saxophone and piano, 3:30, premiered 22 August 2001; the composer also rewrote it for alto saxophone. SAMRO’s work archive dates its entry 2001 and describes a five-pulse piano opening motif and a saxophone line derived from suspended piano harmonies; the score upload is still being processed. An independent researcher’s catalogue gives a different duration (2:40), left unresolved.",
+  "evidence": [
+    {
+      "claim": "SAMRO archive dates Wind-Play 2001; identifies it as written for a young player and describes a five-pulse piano opening motif, with saxophone melody derived from suspended piano harmonies. The score is marked as still being processed, so notation is unavailable.",
+      "url": "https://www.samroscores.org.za/work/wind-play/",
+      "source_name": "SAMRO Scores work archive",
+      "kind": "institution",
+      "access": "opened"
+    },
+    {
+      "claim": "University of Pretoria bibliography also indexes soprano and alto scores and gives 3:30; the underlying scan is unavailable, so its own level III notation is not interpreted.",
+      "url": "https://repository.up.ac.za/server/api/core/bitstreams/c85ea27d-b97a-4b47-bfa6-266368d61904/content",
+      "source_name": "Karlien Gerber, An Annotated Bibliography of Selected Classical Saxophone Works by South African Composers",
+      "kind": "institution",
+      "access": "search_index_only",
+      "page": "p. 84"
+    },
+    {
+      "claim": "Noa Even’s performer-maintained repertoire page lists Wind-Play (2000), 3:30, soprano or alto saxophone and piano, with an attached video link.",
+      "url": "https://www.noaevenmusic.com/saxandpiano",
+      "source_name": "Noa Even, repertoire page",
+      "kind": "performer",
+      "access": "opened"
+    },
+    {
+      "claim": "Independent South African Saxophone Catalogue lists Wind-play (2000), soprano saxophone and piano, 2:40, premiered 22 August 2001 by Adriaan Esterhuizen and Clare Loveday. Duration differs from other listings and remains unresolved.",
+      "url": "https://southafricansaxophonecatalogue.com/loveday-clare",
+      "source_name": "South African Saxophone Catalogue",
+      "kind": "performer",
+      "access": "opened"
+    },
+    {
+      "claim": "Current composer page identifies Wind-Play (2000) for soprano saxophone and piano, an alto rewrite, 3:30, and the 2001 premiere.",
+      "url": "https://clareloveday.co.za/compositions.html",
+      "source_name": "Clare Loveday, compositions page",
+      "kind": "composer",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference from SAMRO’s work note: listen for how the piano’s five-pulse opening gesture relates to the saxophone’s derived, suspended-harmony line. This musical relationship is described by the archive, not verified against notation.",
+  "collection_flag": "Composer says the work was rewritten for alto. SAMRO describes it as written for a young player; collection fit should be considered by instrument/version and score access.",
+  "listening": [
+    {
+      "url": "https://www.youtube.com/watch?v=wvIkZNmswW4",
+      "description": "Video linked from Noa Even’s repertoire listing for Wind-Play; link target identified as YouTube but playback not auditioned.",
+      "verification": "performer repertoire link"
+    }
+  ],
+  "score_links": [
+    {
+      "url": "https://www.samroscores.org.za/work/wind-play/",
+      "description": "SAMRO archive work page and score listing; archive says upload is still being processed.",
+      "inspected": false
+    }
+  ],
+  "gaps": [
+    "Readable notation and exact soprano/alto edition range remain unavailable.",
+    "Duration and composition-year metadata vary among performer, composer, archive and independent catalogue listings; do not treat one timing as a correction.",
+    "Linked video was not auditioned, and version/instrument of the video is not verified."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Clare Loveday Wind-Play saxophone score recording duration",
+    "site:repository.up.ac.za \"Wind-Play (2001)\" \"Clare Loveday\"",
+    "SAMRO Scores Clare Loveday Wind-Play score",
+    "Noa Even Wind-Play Clare Loveday video",
+    "South African Saxophone Catalogue Loveday Wind-play",
+    "Clare Loveday current compositions page without www, opened 2026-10-11"
+  ]
+}

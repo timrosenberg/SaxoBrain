@@ -1,0 +1,45 @@
+{
+  "id": 151,
+  "batch": 7,
+  "filename": "Henri Sauguet - Une Fleur.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Henri Sauguet - Une Fleur.md",
+  "title": "Une Fleur",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Henri Sauguet, Une fleur, for alto saxophone and piano or organ. The Bornkamp recording booklet dates the piece 1985; Billaudot identifies the current edition as GB6425, 8 pages, copyright 1998.",
+  "evidence": [
+    {
+      "claim": "Billaudot catalog lists saxophone with piano or organ, GB6425, 8 pages, copyright 1998.",
+      "url": "https://www.billaudot.com/gb6425-6.html",
+      "source_name": "Billaudot catalog",
+      "kind": "publisher",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Genuin booklet identifies the 1985 work for alto saxophone and piano and lists Arno Bornkamp’s recording at 3:11.",
+      "url": "https://cdn.naxosmusiclibrary.com/sharedfiles/booklets/GEN/booklet-GEN24871.pdf",
+      "source_name": "Genuin recording booklet",
+      "kind": "performer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference: the verified short duration and dual piano/organ editions may make this a compact recital selection; check the printed part for range and phrasing before placement.",
+  "collection_flag": "Published saxophone work; a documented Bornkamp recording supports professional performance circulation.",
+  "listening": [
+    {
+      "url": "https://www.genuin.de/webbooklets/GEN24871_webbooklet.pdf",
+      "description": "Arno Bornkamp, Genuin booklet track entry, 3:11.",
+      "verification": "Recording metadata found; playback not auditioned."
+    }
+  ],
+  "score_links": [],
+  "gaps": [
+    "Score pages not inspected; range and technical demands unknown."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Henri Sauguet Une fleur alto saxophone piano Billaudot GB6425",
+    "Une Fleur Bornkamp Genuin Sauguet booklet"
+  ]
+}

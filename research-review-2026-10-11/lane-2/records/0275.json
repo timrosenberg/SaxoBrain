@@ -1,0 +1,47 @@
+{
+  "id": 275,
+  "batch": 11,
+  "filename": "Nina Shekhar - Careful Shouts.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Nina Shekhar - Careful Shouts.md",
+  "title": "Careful Shouts",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Shekhar’s Careful Shouts (2021) is for alto saxophone and piano, about four minutes. The composer identifies the commission by Timothy McAllister and Liz Ames, its Project Encore Vol. 1 release, an Interlochen Saxophone Institute faculty performance and a video by McAllister and Ames.",
+  "evidence": [
+    {
+      "claim": "Composer’s page gives 2021, alto/piano, 4 minutes, McAllister/Ames commission and performance credits, including Interlochen Institute and Project Encore release.",
+      "url": "https://www.ninashekhar.com/product/careful-shouts",
+      "source_name": "Nina Shekhar composer page",
+      "kind": "composer",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Open the linked video and inspect the score before making musical-demand observations.",
+  "collection_flag": "Original commissioned saxophone/piano work with professional and institute performance context.",
+  "listening": [
+    {
+      "url": "https://www.youtube.com/embed/NToA8Uh-7Xo",
+      "description": "Composer-linked performance video by Timothy McAllister and Liz Ames.",
+      "verification": "Composer page credits McAllister and Ames; linked YouTube embed returned a cache-miss access failure and was not auditioned."
+    }
+  ],
+  "score_links": [
+    {
+      "url": "https://www.ninashekhar.com/product/careful-shouts",
+      "description": "Publisher/work listing; no notation preview inspected.",
+      "inspected": false
+    }
+  ],
+  "gaps": [
+    "No representative saxophone score pages were visually inspected.",
+    "Musical demands and written range remain unknown without an inspected saxophone part."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Nina Shekhar Careful Shouts alto saxophone piano",
+    "Nina Shekhar Careful Shouts Timothy McAllister Liz Ames recording performance video",
+    "Opened composer product page and checked instrumentation, duration, commissioning/performance context and linked video; video not auditioned",
+    "Checked exact title and performer-name query for independent concert/program documentation"
+  ]
+}

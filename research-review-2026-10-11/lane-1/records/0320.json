@@ -1,0 +1,32 @@
+{
+  "id": 320,
+  "batch": 13,
+  "filename": "Richard Phillips - Petit Bal.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Richard Phillips - Petit Bal.md",
+  "title": "Petit Bal",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Leduc lists Richard Phillips’s Petit Bal as an alto saxophone and piano work, code AL29807. No score preview, recording, or pedagogical use was found.",
+  "evidence": [
+    {
+      "claim": "Leduc catalog identifies Petit Bal for alto saxophone and piano, AL29807.",
+      "url": "https://casamusicaledelrio.it/casamusicale/wp-content/uploads/2019/04/CAT-18-107-Leduc-Catalogue-2018-ss-GS-v6-NO-CROPS-LO-RESv2.pdf",
+      "source_name": "Alphonse Leduc catalog",
+      "kind": "publisher",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Published saxophone/piano work; audience and origin unknown.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No score, performance recording, date, or educational context found."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Richard Phillips Petit Bal saxophone AL29807",
+    "Leduc catalog AL29807 Richard Phillips"
+  ]
+}

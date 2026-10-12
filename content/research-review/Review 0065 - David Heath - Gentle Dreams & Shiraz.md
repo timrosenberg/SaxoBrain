@@ -1,0 +1,43 @@
+---
+title: "Review 0065: David Heath - Gentle Dreams & Shiraz"
+added: 2026-10-11
+review-id: 65
+review-packet: 3
+review-decision: Pending
+review-applied: false
+notation-inspected: false
+catalog-entry: "[[David Heath - Gentle Dreams & Shiraz]]"
+build:
+  render: never
+  list: never
+  publishResources: false
+---
+
+# Review 0065: David Heath - Gentle Dreams & Shiraz
+
+[[Research Review|Review hub]] · [[Research Packet 03|Packet 03]]
+
+> [!info] Your Decision
+> Record your choice in `review-decision`, or give it to Codex in chat using this work’s number. The catalog changes only when you ask Codex to apply the decision or edit the catalog entry yourself.
+
+## Research
+
+Catalog: [David Heath - Gentle Dreams & Shiraz.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/David Heath - Gentle Dreams & Shiraz.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0065.json).
+
+**Identity and findings.** Dave Heath’s Gentle Dreams and Shiraz originated as pieces for other instruments and were arranged by Gerard McChrystal for soprano saxophone and piano. Stainer & Bell identifies Camden Music CM115; another catalog lists 18 pages. These are paired contrasting pieces rooted in jazz.
+
+**Sources checked.**
+- [Stainer & Bell / Camden Music](https://stainer.co.uk/shop/cm115/) (opened): Publisher explains that McChrystal arranged the pair for soprano saxophone and piano after their earlier use on a flute CD.
+- [Presto Music](https://www.prestomusic.com/sheet-music/products/7341622--heath-gentle-dreams-shiraz) (search_index_only): Edition listing identifies two pieces, 18 pages, and jazz roots.
+- [Your Online Pianist](https://www.youronlinepianist.co.uk/index.php?id=20647&route=yop%2Ftrack) (search_index_only): Exam practice listing includes Gentle Dreams for tenor saxophone at Grade 5, but it is a separate tenor adaptation/teaching route.
+
+**Score.**
+- No notation was visually inspected.
+
+**Collection and audience context.** Adapted works rather than original saxophone compositions. Soprano sax edition is by Gerard McChrystal; a separate tenor-sax exam listing indicates educational use but does not determine soprano edition level.
+
+**Open questions.**
+- No score preview or soprano performance recording verified.
+- Exam Grade 5 listing is for tenor saxophone and may reflect that syllabus arrangement only.
+
+**Tim decision:** pending.

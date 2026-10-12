@@ -1,0 +1,77 @@
+{
+  "id": 3,
+  "batch": 1,
+  "filename": "Alice Nakamura - Wind Channel.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Alice Nakamura - Wind Channel.md",
+  "title": "Wind Channel",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Alice Nakamura's *Wind Channel* (2016) is an original 14-minute work for alto saxophone and piano commissioned by Zen-On Music. Zen-On identifies the three sections and the 2016 Tokyo premiere by Nobuya Sugawa and Michiyo Haneishi; the public score preview and Sugawa's preface are now inspected.",
+  "evidence": [
+    {
+      "claim": "Official work page gives instrumentation, date, duration, commission, premiere, dedication, and three-section description.",
+      "url": "https://www.zen-on.co.jp/en/publishing/cr/composers/works/detail/1336/",
+      "source_name": "Zen-On Music",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Publisher release notice is a secondary corroborating lead.",
+      "url": "https://www.eamdc.com/news/zen-on-releases-alice-nakamuras-wind-channel-for-alto-saxophone-and-piano/",
+      "source_name": "European American Music Distributors",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Public publisher viewer spread printed pp. 6-7 (viewer p. 7) shows the opening solo saxophone notation. It uses changing meters, many accidentals, long sustained notes alternating with rapid beamed figures including septuplets, and marked pp/ppp, mf, and f contrasts. Technique labels include Ord., Sub tone, Slap tonguing, Breath tone, Let vib., and Let vib. gradually. Exact complete range is not established.",
+      "url": "https://www.zen-on.co.jp/trial/560034/?detailFlg=0&pNo=7",
+      "source_name": "Zen-On ActiBook public score preview, spread printed pp. 6-7",
+      "kind": "score",
+      "access": "score_inspected",
+      "page": "printed 6-7; viewer p. 7"
+    },
+    {
+      "claim": "Publisher preview printed p. 4 (viewer p. 5) contains saxophonist Nobuya Sugawa’s preface, which describes full acoustic range, varied tonguing, and player-selected extended techniques.",
+      "url": "https://www.zen-on.co.jp/trial/560034/?detailFlg=0&pNo=5",
+      "source_name": "Zen-On ActiBook public score preview, Sugawa preface",
+      "kind": "score",
+      "access": "opened",
+      "page": "printed 4; viewer p. 5"
+    },
+    {
+      "claim": "Composer program note printed p. 5 reiterates the three-section design and the 2016 premiere.",
+      "url": "https://www.zen-on.co.jp/trial/560034/?detailFlg=0&pNo=6",
+      "source_name": "Zen-On ActiBook public score preview, composer program note",
+      "kind": "score",
+      "access": "opened",
+      "page": "printed 5; viewer p. 6"
+    }
+  ],
+  "score_observations": [
+    {
+      "claim": "Opening solo part (printed pp. 6-7): changing meters and frequent accidentals; sustained tones alternate with fast beamed figures, including septuplets. Dynamics range from ppp/pp through mf to f. Notated techniques include ordinary tone, subtone, slap tonguing, breath tone, and vibrato instructions. Complete range not established.",
+      "url": "https://www.zen-on.co.jp/trial/560034/?detailFlg=0&pNo=7",
+      "page": "printed 6-7; viewer p. 7"
+    }
+  ],
+  "review_focus": "Inference from inspected score: review meter changes, septuplet figures, dynamic contrasts from ppp to f, and execution of the explicitly labeled tone and articulation techniques. The complete range is not established from the sampled spread.",
+  "collection_flag": "Documented commissioned concert work premiered by named professional performers; no evidence of student simplification.",
+  "listening": [],
+  "score_links": [
+    {
+      "url": "https://www.zen-on.co.jp/trial/560034/?detailFlg=0&pNo=7",
+      "description": "Zen-On public score viewer, opening solo saxophone spread printed pp. 6-7.",
+      "inspected": true
+    }
+  ],
+  "gaps": [
+    "Only the opening saxophone spread and two front-matter pages were inspected, not the complete score; complete range and later musical demands remain unknown.",
+    "No matching recording playback was auditioned."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Alice Nakamura Wind Channel alto saxophone piano score recording",
+    "Zen-On Alice Nakamura Wind Channel 2016",
+    "Opened Zen-On official work page and followed Sample Pages and YouTube links; both embedded destinations failed to load in the research viewer."
+  ]
+}

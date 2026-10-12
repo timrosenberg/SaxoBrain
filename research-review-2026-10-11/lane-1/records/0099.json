@@ -1,0 +1,61 @@
+{
+  "id": 99,
+  "batch": 4,
+  "filename": "Frédéric Devreese - Three Pieces.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Frédéric Devreese - Three Pieces.md",
+  "title": "Three Pieces",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Donemus public preview identifies Frédéric Devreese's Three Pieces (2002) for alto saxophone and piano, D14208, approximately ten minutes. The score contents list Country dance, Melody, and French can-can. A separate composer worklist also identifies a flute-or-alto version; this inspected edition labels alto saxophone.",
+  "evidence": [
+    {
+      "claim": "Donemus score cover and information page identify Three Pieces (2002), alto saxophone and piano, D14208, approx. ten minutes, with movement titles and starting pages.",
+      "url": "https://webshop.donemus.com/action/front/sheetmusic/14208",
+      "source_name": "Donemus public score preview",
+      "kind": "publisher",
+      "access": "score_inspected",
+      "page": "PDF pp. 1-2"
+    },
+    {
+      "claim": "The inspected first movement is in 2/4, marked Allegro moderato quarter=120; the saxophone rests at the opening while piano sustains repeated harmonies, then saxophone enters with a fast beamed figure.",
+      "url": "https://webshop.donemus.com/action/front/sheetmusic/14208",
+      "source_name": "Donemus public score preview",
+      "kind": "score",
+      "access": "score_inspected",
+      "page": "PDF p. 3"
+    },
+    {
+      "claim": "Composer worklist also lists a flute or alto saxophone version.",
+      "url": "https://composers21.com/compdocs/devreesf.htm",
+      "source_name": "The Living Composers Project composer worklist",
+      "kind": "composer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [
+    {
+      "observation": "Country dance begins in 2/4 at Allegro moderato, quarter=120. The saxophone rests while piano presents sustained repeated harmonies, then enters with a quick beamed figure; dynamics rise from mf to f in the preview.",
+      "source": "https://webshop.donemus.com/action/front/sheetmusic/14208",
+      "page": "PDF p. 3"
+    }
+  ],
+  "review_focus": "Inference: the opening places a delayed saxophone entrance over sustained piano harmony, followed by a fast saxophone figure; verify contrasting movement writing in the full score.",
+  "collection_flag": "Published saxophone/piano version of three short pieces; composer worklist indicates flute alternative as well.",
+  "listening": [],
+  "score_links": [
+    {
+      "url": "https://webshop.donemus.com/action/front/sheetmusic/14208",
+      "description": "Donemus public preview, title/instrumentation/duration and first movement notation inspected.",
+      "inspected": true
+    }
+  ],
+  "gaps": [
+    "Only the first movement's opening page was inspected; notation for Melody and French can-can and any performance recording remain unverified."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Frédéric Devreese Three Pieces 14208 Donemus saxophone",
+    "Devreese Three Pieces flute alto sax piano 2002 performer",
+    "Alexander Street Devreese Three Pieces saxophone"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": 301,
+  "batch": 13,
+  "filename": "Pierre-Max DuBois - A Pas de Loup.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Pierre-Max DuBois - A Pas de Loup.md",
+  "title": "A Pas de Loup",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Pierre-Max Dubois’s À pas de loup is an alto saxophone and piano edition published by Durand, catalog R546RC / RR0054600. ABRSM’s official Grade 6 syllabus includes the piece for E-flat saxophone; a Spotify listing gives a 1:55 track duration.",
+  "evidence": [
+    {
+      "claim": "Retailer record identifies Durand and alto saxophone/piano edition R546RC.",
+      "url": "https://www.laflutedepan.com/partition/1073036/pierre-max-dubois-a-pas-de-loup-partition-saxophone-alto-et-piano.html",
+      "source_name": "La Flûte de Pan",
+      "kind": "retailer",
+      "access": "opened"
+    },
+    {
+      "claim": "ABRSM’s official Saxophone Practical Grades syllabus lists À pas de loup for E-flat saxophone in Grade 6.",
+      "url": "https://www.abrsm.org/sites/default/files/2023-10/Woodwind%202022%20Practical%20syllabus%20%287%20Saxophone%29%2020230911.pdf",
+      "source_name": "ABRSM",
+      "kind": "pedagogy",
+      "access": "opened",
+      "page": "PDF p. 40"
+    },
+    {
+      "claim": "Spotify listing identifies the work in an ABRSM Grade 6 album, 2013, 1:55, with performer credits.",
+      "url": "https://open.spotify.com/track/0q6dJBn1GdWXql7QUyHlGY",
+      "source_name": "Spotify",
+      "kind": "performer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference: the Grade 6 listing and short recording indicate an exam-scale work; inspect the score for actual phrasing and articulation before applying that context.",
+  "collection_flag": "Published alto saxophone/piano work with Grade 6 exam-list use.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No notation inspected.",
+    "Spotify metadata was checked but playback not auditioned."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Pierre-Max Dubois A Pas de Loup Durand R546RC saxophone",
+    "ABRSM Grade 6 A Pas de Loup saxophone",
+    "Spotify A Pas de Loup Pierre Max Dubois"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 118,
+  "batch": 5,
+  "filename": "Glenn Gass - Breathless.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Glenn Gass - Breathless.md",
+  "title": "Breathless",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Glenn Gass, Breathless, appears as order no. 166 in the Dorn Publications catalog under “Alto Saxophone and Piano.” The accessible catalog excerpt does not show a score, edition number, or fuller work details.",
+  "evidence": [
+    {
+      "claim": "The Dorn Publications November 2024 catalog groups the listing under “Alto Saxophone and Piano” and identifies order no. 166, Glenn Gass, Breathless. The excerpt verifies a publisher catalog entry, not the score’s detailed instrumentation or edition metadata.",
+      "url": "https://www.grothmusic.com/images/DP%20Catalog%20Nov%202024.pdf",
+      "source_name": "Dorn Publications catalog, hosted by Groth Music",
+      "kind": "publisher",
+      "access": "opened",
+      "page": "PDF p. 4, preceding section heading on p. 4"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Publisher catalog lists the work in an alto saxophone and piano section; audience, score details, and use remain unverified.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "The consulted catalog excerpt does not show notation, publisher number, duration, or complete instrumentation.",
+    "No matching saxophone performance recording or teaching/programming placement was verified."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    {
+      "query": "\"Glenn Gass\" \"Breathless\" saxophone",
+      "checked": "Publisher catalog listing located; no notation inspected."
+    },
+    {
+      "query": "site:grothmusic.com \"Glenn Gass\" Breathless",
+      "checked": "Dorn catalog PDF opened; item appears as order no. 166 in alto saxophone and piano section."
+    },
+    {
+      "query": "\"Breathless\" \"Glenn Gass\" score recording",
+      "checked": "No independently verified matching score or recording located."
+    }
+  ]
+}

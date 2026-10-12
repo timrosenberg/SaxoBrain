@@ -1,0 +1,46 @@
+{
+  "id": 348,
+  "batch": 14,
+  "filename": "Rudy Wiedoeft - Saxophobia.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Rudy Wiedoeft - Saxophobia.md",
+  "title": "Saxophobia",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "The catalog's Dorn edition of Saxophobia is arranged by Michael Golemo; a separate public-domain 1920 original score exists on IMSLP and must not be treated as the target edition.",
+  "evidence": [
+    {
+      "claim": "Groth catalog lead identifies Dorn 1193, Golemo arrangement and seven pages, but listing not independently opened.",
+      "url": "https://www.grothmusic.com/p-146059.aspx",
+      "source_name": "Groth Music listing",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "IMSLP identifies an original 1920 Wiedoeft publication with complete score and saxophone C part.",
+      "url": "https://imslp.org/wiki/Saxophobia_(Wiedoeft,_Rudy)",
+      "source_name": "IMSLP score catalog",
+      "kind": "score",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Compare Golemo transposition, form, and piano part with original C-part score before treating their demands as equivalent.",
+  "collection_flag": "Early 20th-century saxophone novelty solo, but target arranged edition identity and exact instrument part require confirmation.",
+  "listening": [],
+  "score_links": [
+    {
+      "url": "https://imslp.org/wiki/Saxophobia_(Wiedoeft,_Rudy)",
+      "description": "IMSLP identifies an original 1920 Wiedoeft publication with complete score and saxophone C part.",
+      "inspected": false
+    }
+  ],
+  "gaps": [
+    "No target edition score or performance inspected; original C part is not Dorn/Golemo version.",
+    "Dorn 1193 instrumentation and pagination remain retailer-lead only."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Wiedoeft Saxophobia Dorn 1193 Golemo score",
+    "Saxophobia original 1920 C part score"
+  ]
+}

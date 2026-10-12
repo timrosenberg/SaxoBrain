@@ -1,0 +1,47 @@
+{
+  "id": 378,
+  "batch": 16,
+  "filename": "Vincent David - Éveil de la Toupie.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Vincent David - Éveil de la Toupie.md",
+  "title": "Éveil de la Toupie",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Vincent David's Éveil de la Toupie is an alto saxophone and piano work published by Billaudot as GB10105. The publisher lists 44 pages, 8:30 duration, 2020 copyright, and rhythmic groupings 3/3/2/3 and 3/3/3/2 within a musette waltz. Billaudot labels it ‘difficult’ in its cycle 3 listing and identifies adults as its audience.",
+  "evidence": [
+    {
+      "claim": "Publisher identifies instrumentation, catalog number, duration, length, copyright, and describes the rhythmic pattern and musette-waltz basis. It labels the work difficult, cycle 3, and for adults; its page links a Calaméo preview.",
+      "url": "https://www.billaudot.com/eveil-de-la-toupie.html",
+      "source_name": "Éditions Billaudot",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Publisher page links its score excerpt to the Calaméo reader; the reader did not load in Chrome (empty response), so notation was not inspected.",
+      "url": "https://fr.calameo.com/read/005229272ceb14f69041f",
+      "source_name": "Éditions Billaudot score-preview link",
+      "kind": "score",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference: the specified asymmetric groupings and 8:30 duration make meter/rhythm, continuity, and pacing concrete review points.",
+  "collection_flag": "Billaudot's catalog labels it difficult in cycle 3 and lists adults as its audience. This is the publisher's own placement, not a SaxoBrain level.",
+  "listening": [],
+  "score_links": [
+    {
+      "url": "https://fr.calameo.com/read/005229272ceb14f69041f",
+      "description": "Publisher-linked Calaméo sample score; attempted in browser but did not load.",
+      "inspected": false
+    }
+  ],
+  "gaps": [
+    "Billaudot links a Calaméo excerpt, but the public reader returned an empty response in the browser; notation remains uninspected.",
+    "No saxophone performance recording verified."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Vincent David Éveil de la Toupie Billaudot GB10105 excerpt",
+    "Éveil de la Toupie saxophone recording",
+    "Billaudot Éveil de la toupie GB10105 voir un extrait Calaméo 005229272ceb14f69041f"
+  ]
+}

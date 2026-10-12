@@ -1,0 +1,74 @@
+{
+  "id": 51,
+  "batch": 3,
+  "filename": "Clare Loveday - Breath.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Clare Loveday - Breath.md",
+  "title": "Breath",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "The composer’s current compositions page identifies Breath (2004) for alto saxophone and piano, about 5:30, premiered at Wits University in 2005. A University of Pretoria bibliography indexes a 2005 soprano-and-piano Breath, but this secondary entry’s relationship to the composer-listed alto work is unresolved. The independent South African Saxophone Catalogue reports 5:03; that timing is not treated as a correction.",
+  "evidence": [
+    {
+      "claim": "Current composer page identifies the 2004 alto saxophone and piano work, about 5:30, and its April 2005 premiere.",
+      "url": "https://clareloveday.co.za/compositions.html",
+      "source_name": "Clare Loveday, compositions page",
+      "kind": "composer",
+      "access": "opened"
+    },
+    {
+      "claim": "Noa Even’s performer-maintained saxophone-and-piano repertoire page lists Breath (2004), alto saxophone and piano, 5:30.",
+      "url": "https://www.noaevenmusic.com/saxandpiano",
+      "source_name": "Noa Even, repertoire page",
+      "kind": "performer",
+      "access": "opened"
+    },
+    {
+      "claim": "University of Pretoria bibliography indexes a soprano saxophone and piano Breath dated 2005 and lists SAMRO call no. A06414; the page relation to the composer-listed alto work is unresolved. PDF not retrievable.",
+      "url": "https://repository.up.ac.za/server/api/core/bitstreams/c85ea27d-b97a-4b47-bfa6-266368d61904/content",
+      "source_name": "Karlien Gerber, An Annotated Bibliography of Selected Classical Saxophone Works by South African Composers",
+      "kind": "institution",
+      "access": "search_index_only",
+      "page": "p. 73"
+    },
+    {
+      "claim": "SAMRO Scores lists Breath in its work archive; its separate work page failed to open, so score contents/edition were not verified.",
+      "url": "https://www.samroscores.org.za/composer/clare-loveday/",
+      "source_name": "SAMRO Scores archive",
+      "kind": "institution",
+      "access": "opened"
+    },
+    {
+      "claim": "Independent South African Saxophone Catalogue lists alto saxophone and piano, 5:03, and premiere details. Duration conflicts with composer/performer records and remains unresolved.",
+      "url": "https://southafricansaxophonecatalogue.com/loveday-clare",
+      "source_name": "South African Saxophone Catalogue",
+      "kind": "performer",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "No intended age group was established for the composer-listed 2004 alto work. A University of Pretoria bibliography reports a soprano version, but its relation to this work remains unresolved.",
+  "listening": [],
+  "score_links": [
+    {
+      "url": "https://www.samroscores.org.za/work/breath/",
+      "description": "SAMRO Scores work page; the URL did not open during this review, and the score is not inspected.",
+      "inspected": false
+    }
+  ],
+  "gaps": [
+    "Readable score for the 2004 alto version and its exact notation/range remain unavailable.",
+    "A verified saxophone recording matching the 2004 alto version remains unlocated.",
+    "Duration differs between the composer/performer listing (5:30) and independent catalogue (5:03); edition or timing basis is unresolved."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Clare Loveday Breath saxophone alto score recording composition",
+    "site:clareloveday.co.za Breath alto saxophone piano",
+    "Clare Loveday Breath University of Pretoria annotated bibliography saxophone",
+    "Noa Even Clare Loveday Breath sax piano",
+    "SAMRO Clare Loveday Breath scores",
+    "South African Saxophone Catalogue Clare Loveday Breath",
+    "Clare Loveday current compositions page without www, opened 2026-10-11"
+  ]
+}

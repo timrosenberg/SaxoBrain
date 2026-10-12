@@ -1,0 +1,46 @@
+{
+  "id": 396,
+  "batch": 16,
+  "filename": "William Latham - Sisyphus.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/William Latham - Sisyphus.md",
+  "title": "Sisyphus",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Billaudot's primary catalog identifies William P. Latham's Sisyphus 1971, MRB1412, for E-flat saxophone and piano, 18 pages, copyright 1971. This listing supports the sax/piano edition; the orchestra entry in Tim's catalog may refer to a separate version.",
+  "evidence": [
+    {
+      "claim": "Publisher record specifies E-flat saxophone and piano, MRB1412, 18 pages, copyright 1971.",
+      "url": "https://www.billaudot.com/sisyphus-1971-3.html",
+      "source_name": "Éditions Billaudot",
+      "kind": "publisher",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Billaudot English catalog page confirms same instrumentation and edition data.",
+      "url": "https://www.billaudot.com/mrb1412-6.html",
+      "source_name": "Éditions Billaudot",
+      "kind": "publisher",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Older reference describes Sisyphus 1971 as alto saxophone and piano.",
+      "url": "https://www.encyclopedia.com/arts/dictionaries-thesauruses-pictures-and-press-releases/latham-william-peters",
+      "source_name": "Encyclopedia.com reference",
+      "kind": "reference",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Published alto saxophone/piano work; orchestral version has not been verified.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No score or recording located; determine whether an orchestral version exists and how it relates to MRB1412."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "William Latham Sisyphus 1971 MRB1412 Billaudot",
+    "Sisyphus Latham orchestra piano reduction saxophone"
+  ]
+}

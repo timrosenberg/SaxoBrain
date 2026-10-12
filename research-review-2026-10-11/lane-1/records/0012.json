@@ -1,0 +1,40 @@
+{
+  "id": 12,
+  "batch": 1,
+  "filename": "Armin Schibler - Konzertante Fantasie.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Armin Schibler - Konzertante Fantasie.md",
+  "title": "Konzertante Fantasie",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Armin Schibler's *Konzertante Fantasie* is documented as a 1977/78 work for alto saxophone and small orchestra. A piano-reduction edition is listed by a German music dealer, consistent with the Boosey & Hawkes lead in the catalog.",
+  "evidence": [
+    {
+      "claim": "Dealer identifies the piano reduction of the 1977/78 alto-saxophone and small-orchestra work.",
+      "url": "https://www.noten-roehr.de/en/scores/0005/woodwind-instruments/0507/saxophone/0504/woodwind%2Bpiano-harpsichord/038189",
+      "source_name": "Noten Roehr",
+      "kind": "retailer",
+      "access": "opened"
+    },
+    {
+      "claim": "Composer biographical chronology includes Konzertante Fantasie.",
+      "url": "https://www.arminschibler.ch/biographical/ASbiografieGS.pdf",
+      "source_name": "Armin Schibler official site, biography/works PDF",
+      "kind": "composer",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Original concerto-like work for a solo saxophonist; no young-player transcription evidence.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "Need verify full orchestral scoring, duration, movement/form details, and solo demands from the score.",
+    "No saxophone recording located."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Armin Schibler Konzertante Fantasie alto saxophone piano score",
+    "Schibler Konzertante Fantasie 1977/78 Klavierauszug"
+  ]
+}

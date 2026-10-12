@@ -1,0 +1,73 @@
+{
+  "id": 39,
+  "batch": 2,
+  "filename": "Catherine McMichael - Fusion Suite.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Catherine McMichael - Fusion Suite.md",
+  "title": "Fusion Suite",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Catherine McMichael, Fusion Suite (2006), for baritone saxophone and piano, approximately 12 minutes. C. Alan lists three movements and dedication to Lynn Klock; Albany Records identifies Klock and the composer on a 2010 album of world-premiere recordings written for Klock or his students.",
+  "evidence": [
+    {
+      "claim": "Publisher identifies baritone saxophone and piano, medium level, 12:15 duration, three movement program and dedication to Lynn Klock.",
+      "url": "https://c-alanpublications.com/fusion-suite/",
+      "source_name": "C. Alan Publications",
+      "kind": "publisher",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Composer page confirms three movements and describes their evening setting.",
+      "url": "https://www.catherinemcmichael.com/product-page/fusion-suite",
+      "source_name": "Catherine McMichael",
+      "kind": "composer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Albany Records identifies the world-premiere recording with Lynn Klock, baritone saxophone, and Catherine McMichael, piano.",
+      "url": "https://www.albanyrecords.com/catalog/troy1182/",
+      "source_name": "Albany Records",
+      "kind": "performer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "C. Alan Publications search result lists Fusion Suite for baritone saxophone and piano, medium, 12:15, dedicated to saxophone professor Lynn Klock, and describes three movements inspired by jazz-rock fusion. Official page itself returned cache miss.",
+      "url": "https://c-alanpublications.com/fusion-suite/",
+      "source_name": "C. Alan Publications",
+      "kind": "publisher",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Albany Records TROY1182, opened, identifies Fusion Suite performed by Lynn Klock, baritone saxophone, and Catherine McMichael, piano, as a track on a 2010 album of world-premiere recordings for Klock or his students.",
+      "url": "https://www.albanyrecords.com/catalog/troy1182/",
+      "source_name": "Albany Records, Connections, TROY1182",
+      "kind": "performer",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference: publisher description distinguishes an energetic, syncopated opening movement from two more lyrical movements. This gives a useful contrast to check against the score; notation itself was not inspected.",
+  "collection_flag": "Original baritone saxophone/piano work dedicated to Lynn Klock and documented as a world-premiere professional recording.",
+  "listening": [
+    {
+      "url": "https://www.albanyrecords.com/catalog/troy1182/",
+      "description": "Albany Records track credited to Lynn Klock, baritone saxophone, and Catherine McMichael, piano.",
+      "verification": "Album track and performers listed on opened label page; playback not auditioned."
+    }
+  ],
+  "score_links": [
+    {
+      "url": "https://c-alanpublications.com/fusion-suite/",
+      "description": "Publisher page offers score sample images.",
+      "inspected": false
+    }
+  ],
+  "gaps": [
+    "C. Alan score sample images were not accessible; no notation inspected.",
+    "Albany and Apple Music links identify recordings, but they were not auditioned."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Catherine McMichael Fusion Suite baritone saxophone piano publisher score sample",
+    "Albany Records TROY1182 Fusion Suite Lynn Klock"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 290,
+  "batch": 12,
+  "filename": "Pierre Gabaye - Printemps.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Pierre Gabaye - Printemps.md",
+  "title": "Printemps",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Alphonse Leduc AL22799 identifies Pierre Gabaye’s Printemps for alto saxophone and piano. Retailer and publisher-distributor listings confirm instrumentation and catalog number; no music-specific demand or placement evidence found.",
+  "evidence": [
+    {
+      "claim": "Identifies Pierre Gabaye Printemps, alto saxophone and piano, AL22799.",
+      "url": "https://www.halleonard.com/product/48182002/printemps-saxophone-alto-piano",
+      "source_name": "Hal Leonard / Leduc listing",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Confirms AL22799.",
+      "url": "https://www.forsyths.co.uk/sheet-music/instruments/woodwind/saxophone-sheet-music/366260-gabaye-printemps-9790046227998.html",
+      "source_name": "Forsyths retailer",
+      "kind": "retailer",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Review score for tempo, articulation and saxophone range; no specific demands are supported yet.",
+  "collection_flag": "No intended age or pedagogical placement found.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No notation or performance recording located."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Pierre Gabaye Printemps AL22799 alto saxophone piano score recording"
+  ]
+}

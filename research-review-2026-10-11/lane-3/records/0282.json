@@ -1,0 +1,39 @@
+{
+  "id": 282,
+  "batch": 12,
+  "filename": "Paul Rougnon - Concert Solo No. 1.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Paul Rougnon - Concert Solo No. 1.md",
+  "title": "Concert Solo No. 1",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "The catalog identifies Paul Rougnon’s Concert Solo No. 1 in the Himie Voxman/Block edition, Southern ST791, for alto saxophone and piano. Retailer records corroborate the arrangement but no score page or verified performance specific to this edition was found.",
+  "evidence": [
+    {
+      "claim": "Existing listing identifies ST791 and Voxman/Block editors.",
+      "url": "https://www.grothmusic.com/p-38044.aspx",
+      "source_name": "Groth Music retailer",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Search-result product page identifies Paul Rougnon and the Concert Solo No.1 edition.",
+      "url": "https://www.stretta-music.fr/rougnon-concert-solo-no-1-nr-923980.html",
+      "source_name": "Stretta retailer",
+      "kind": "retailer",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Check the actual score for formal layout, ornamentation and articulation; contest-like title does not independently establish its intended level.",
+  "collection_flag": "Older French solo composition in a later edited saxophone edition; exact original instrument status unresolved.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No primary publisher record, public score preview or verified recording located."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Paul Rougnon Concert Solo No.1 alto saxophone ST791 Voxman Block",
+    "Rougnon saxophone Concert Solo No.1 recording score"
+  ]
+}

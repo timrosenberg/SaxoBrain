@@ -1,0 +1,54 @@
+{
+  "id": 251,
+  "batch": 11,
+  "filename": "Marius Flothuis - Kleine Suite, Op. 47.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Marius Flothuis - Kleine Suite, Op. 47.md",
+  "title": "Kleine Suite, Op. 47",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Marius Flothuis, Kleine Suite (Vocalises), Op. 47 (1952), was originally for soprano and piano. Donemus catalog data says the soprano part is also playable by oboe, clarinet, soprano saxophone, or trumpet. It gives five movements, nine-minute duration, and product 01556. A separate work, Op. 47a (1952/1995), is for soprano, flute, strings, and harp; do not conflate it with Op. 47.",
+  "evidence": [
+    {
+      "claim": "Donemus catalog record for Kleine Suite (Vocalises), Op. 47, 1952, identifies soprano and piano; remarks say the soprano part is also performable on oboe, clarinet, soprano saxophone, or trumpet. It lists five movements, nine minutes, and 16-page score/8-page part.",
+      "url": "https://webshop.donemus.com/action/front/sheetmusic/1556",
+      "source_name": "Donemus publisher record, product 01556",
+      "kind": "publisher",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "A separate Donemus record identifies Op. 47a (1952/1995) for soprano, flute, string trio and harp, adapted from Op. 47 for soprano and piano.",
+      "url": "https://webshop.donemus.com/action/front/sheetmusic/8858",
+      "source_name": "Donemus publisher record, product 08858",
+      "kind": "publisher",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "KNMO 2010 wind repertoire index separately lists Flothuis, Kleine Suite, solo soprano saxophone, Donemus, in its division system.",
+      "url": "https://www.knmo.nl/wp-content/uploads/2014/05/05-Repertorium-Houtblazers-Solisten-Ensembles-2010.pdf",
+      "source_name": "KNMO repertoire register",
+      "kind": "pedagogy",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference from the verified vocalise scoring: inspect how breathing and articulation shape the wordless vocal line; there is no text-based phrasing to follow.",
+  "collection_flag": "Donemus confirms a soprano-saxophone option by substitution of the soprano vocalise part; no intended age group is established.",
+  "listening": [],
+  "score_links": [
+    {
+      "url": "https://webshop.donemus.nl/action/front/sheetmusic/8858",
+      "description": "Publisher/work listing; no notation preview inspected.",
+      "inspected": false
+    }
+  ],
+  "gaps": [
+    "No saxophone-specific notation or performance was inspected.",
+    "The exact printed part transposition and written range were not confirmed."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Marius Flothuis Kleine Suite Op 47 soprano saxophone Donemus",
+    "Kleine Suite op 47 Flothuis saxophone soprano repertoire list",
+    "Donemus Flothuis Op 47 vocalises saxophone part"
+  ]
+}

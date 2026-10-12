@@ -1,0 +1,34 @@
+{
+  "id": 146,
+  "batch": 6,
+  "filename": "Harry Gee - Second Ballade.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Harry Gee - Second Ballade.md",
+  "title": "Second Ballade",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "The University of Maryland NACWPI Score Collection catalogs Harry Gee’s Second Ballade for alto saxophone and piano, published by Kendor around 1980, with a 2:40 duration and a Grade 4 label. That label belongs to the collection record and is not a SaxoBrain level.",
+  "evidence": [
+    {
+      "claim": "University of Maryland NACWPI collection catalog record lists the Kendor alto-saxophone-and-piano Second Ballade, c.1980, duration 2:40, Grade 4.",
+      "url": "https://digital.lib.umd.edu/scores/id/00008356",
+      "source_name": "University of Maryland Digital Collections, NACWPI Score Collection",
+      "kind": "institution",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "The collection record gives a 2:40 catalog duration and Grade 4 label. Both are record metadata; inspect the score for phrase length, range, and piano texture before drawing a technical conclusion.",
+  "collection_flag": "Documented NACWPI collection catalog Grade 4 and duration; collection classification is not a new level recommendation.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "The Maryland record is catalog metadata for a score collection; it does not provide readable notation in the opened record, and no score pages were inspected.",
+    "No current college programming or verified performance link found."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Harry Gee Second Ballade Kendor alto saxophone piano",
+    "University of Maryland NACWPI 00008356",
+    "Second Ballade Harry Gee recording"
+  ]
+}

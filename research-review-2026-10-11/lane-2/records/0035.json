@@ -1,0 +1,40 @@
+{
+  "id": 35,
+  "batch": 2,
+  "filename": "Carl Reinecke - Prière du Soir.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Carl Reinecke - Prière du Soir.md",
+  "title": "Prière du Soir",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Carl Reinecke’s Prière du Soir appears to be Marty Lenard’s saxophone arrangement of Abendgebet, no. 10 from Mädchenlieder Op. 88. The original is catalogued for piano; the assigned Dorn listing is the only lead found for the saxophone/piano edition and could not be opened.",
+  "evidence": [
+    {
+      "claim": "Retailer product page identifies a separate euphonium/piano arrangement by Marty Lenard and calls the source tender and contemplative; this is not the saxophone edition and cannot establish its saxophone part.",
+      "url": "https://www.jwpepper.com/priere-du-soir-11602696/p",
+      "source_name": "J.W. Pepper",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "A product catalog identifies the source tune as Abendgebet, no. 10 from Reinecke’s Mädchenlieder Op. 88, for piano; the page does not show the saxophone transcription.",
+      "url": "https://tomplay.com/fr/piano-sheet-music/reinecke/m-dchenlieder-op-88-no-10-abendgebet-evening-player-piano-score",
+      "source_name": "Tomplay",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference: treat the saxophone piece as an arrangement until its score is checked; the source piano work’s lyrical characterization does not establish the adaptation’s demands.",
+  "collection_flag": "Likely transcription/arrangement of Reinecke piano source; no evidence found about intended player age or simplification.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "Dorn saxophone edition DORN2010 and arranger credit remain search-lead-only.",
+    "No readable saxophone notation, recording, or college/professional programming verified."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Carl Reinecke Prière du Soir Marty Lenard saxophone piano DORN2010",
+    "Reinecke Mädchenlieder Op.88 no.10 Abendgebet score"
+  ]
+}

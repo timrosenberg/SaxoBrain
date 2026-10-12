@@ -1,0 +1,56 @@
+{
+  "id": 352,
+  "batch": 15,
+  "filename": "Ryo Noda - Naissance de la Neige.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Ryo Noda - Naissance de la Neige.md",
+  "title": "Naissance de la Neige",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Ryo Noda’s Naissance de la Neige is Alphonse Leduc AL29061 for alto saxophone and piano or electric organ; Presto lists a 20-page score.",
+  "evidence": [
+    {
+      "claim": "Retailer lists the Leduc AL29061 edition for alto saxophone and piano.",
+      "url": "https://www.grothmusic.com/p-139812.aspx",
+      "source_name": "Groth Music",
+      "kind": "retailer",
+      "access": "opened"
+    },
+    {
+      "claim": "Lists the exact Leduc AL29061 item, alto saxophone with piano or electric organ, and a 20-page score. No public notation sample was shown on the page.",
+      "url": "https://www.prestomusic.com/sheet-music/products/7380905--ryo-noda-naissance-de-la-neige",
+      "source_name": "Presto Music retailer listing",
+      "kind": "retailer",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "unknown",
+  "listening": [
+    {
+      "url": "https://www.youtube.com/watch?v=Lh47YiJIH64",
+      "description": "A YouTube performance credited to Patrick McCulley was identified in search; playback not audited.",
+      "verification": "Listed by title and performer; work identity on video page remains to be checked."
+    }
+  ],
+  "score_links": [],
+  "gaps": [
+    "No readable notation sample surfaced on the opened product pages.",
+    "The search result for a Patrick McCulley performance was not independently verified against a video/audio page."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    {
+      "query": "Ryo Noda Naissance de la Neige AL29061 score",
+      "checked": "Search results and listed sources checked; gaps stated per record."
+    },
+    {
+      "query": "Naissance de la Neige saxophone piano Patrick McCulley",
+      "checked": "Search results and listed sources checked; gaps stated per record."
+    },
+    {
+      "query": "Ryo Noda Naissance de la Neige AL29061 score sample and performance",
+      "checked": "Opened Presto exact-item listing; confirmed alto saxophone and piano or electric organ, Leduc AL29061, 20-page score. No score preview was available on the product page."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+---
+title: "Review 0124: Gordon Jacob - Rhapsody"
+added: 2026-10-11
+review-id: 124
+review-packet: 5
+review-decision: Pending
+review-applied: false
+notation-inspected: false
+catalog-entry: "[[Gordon Jacob - Rhapsody]]"
+build:
+  render: never
+  list: never
+  publishResources: false
+---
+
+# Review 0124: Gordon Jacob - Rhapsody
+
+[[Research Review|Review hub]] · [[Research Packet 05|Packet 05]]
+
+> [!info] Your Decision
+> Record your choice in `review-decision`, or give it to Codex in chat using this work’s number. The catalog changes only when you ask Codex to apply the decision or edit the catalog entry yourself.
+
+## Research
+
+Catalog entry: [[Gordon Jacob - Rhapsody]].
+
+Gordon Jacob’s official works list includes Rhapsody for E-flat saxophone and strings. The cataloged ECS15094 reference is represented by a retailer page for English horn/strings with piano reduction; that page says it is arranged from the original for alto saxophone. The exact instrument and edition targeted by the catalog remain unresolved.
+[Gordon Jacob official works catalogue](https://www.gordonjacob.net/browse_works.html) (search_index_only): Composer’s official works list includes Rhapsody for E-flat saxophone and strings.
+[Sheet Music Plus retailer listing](https://www.sheetmusicplus.com/en/product/rhapsody-for-english-horn-strings-682206.html) (search_index_only): Sheet Music Plus page for UPC 600313150944 describes English horn/strings with piano reduction and says it is arranged from the original for alto saxophone. It does not verify the catalog’s saxophone-edition identity.
+
+Collection/transcription context: Composer identifies an E-flat saxophone and strings work; the located retailer record is for English horn and strings with piano reduction, and does not establish the saxophone edition’s details.
+
+Open questions: No saxophone notation or a saxophone-specific piano-reduction edition was verified; written range and demands are unknown. A matching saxophone performance recording was not verified or auditioned. The cataloged ECS15094 reference may identify a different instrument edition; exact target edition remains unresolved.
+
+Searches checked:
+- Gordon Jacob Rhapsody E-flat saxophone strings piano reduction edition: Targeted web search; results reviewed for exact edition, publisher, score, recording, and teaching context; unrelated instrument/edition results excluded.
+- Gordon Jacob Rhapsody alto saxophone piano reduction ECS15094: Targeted web search; results reviewed for exact edition, publisher, score, recording, and teaching context; unrelated instrument/edition results excluded.
+- Gordon Jacob Rhapsody English horn piano reduction saxophone edition: Targeted web search; results reviewed for exact edition, publisher, score, recording, and teaching context; unrelated instrument/edition results excluded.
+- Gordon Jacob Rhapsody saxophone performance: Targeted web search; results reviewed for exact edition, publisher, score, recording, and teaching context; unrelated instrument/edition results excluded.

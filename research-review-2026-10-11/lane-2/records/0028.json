@@ -1,0 +1,69 @@
+{
+  "id": 28,
+  "batch": 2,
+  "filename": "Brenton Broadstock - I Touched Your Glistening Tears.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Brenton Broadstock - I Touched Your Glistening Tears.md",
+  "title": "I Touched Your Glistening Tears",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Brenton Broadstock, I Touched Your Glistening Tears (1998), approximately nine minutes. Composer lists distinct soprano saxophone/cello/piano and soprano saxophone/violin/piano versions. The existing catalog record does not identify which one it means.",
+  "evidence": [
+    {
+      "claim": "Composer lists both saxophone trio versions, 9 minutes, and describes the cello version as a challenging trio with long legato lines, motoric piano and a climactic rise.",
+      "url": "https://brentonbroadstock.com/styled-14/",
+      "source_name": "Brenton Broadstock, ensemble compositions",
+      "kind": "composer",
+      "access": "opened",
+      "page": 78
+    },
+    {
+      "claim": "Reed Music identifies its RM024 saxophone edition, 1998, duration 8 minutes, level D, with a live Barry Cockcroft performance.",
+      "url": "https://www.reedmusic.com/store/woodwind/saxophone/saxophone-chamber-music/sax-other-instruments/i-touched-your-glistening-tearsrm024/",
+      "source_name": "Reed Music",
+      "kind": "publisher",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Australian Music Centre catalog has a soprano saxophone, piano product listing and describes a yearning melody with simple arpeggiated accompaniment and grace notes.",
+      "url": "https://representation.australianmusiccentre.com.au/product/i-touched-your-glistening-tears-soprano-saxophone-piano",
+      "source_name": "Australian Music Centre",
+      "kind": "institution",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Composer lists 1998 soprano saxophone, cello, piano and soprano saxophone, violin, piano versions, each about nine minutes; the saxophone-cello version is described in a review as challenging and shaped by legato lines over motoric piano, a climax, and a later mood drop.",
+      "url": "https://brentonbroadstock.com/styled-14/",
+      "source_name": "Brenton Broadstock, Compositions - Ensemble",
+      "kind": "composer",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference: for the cello version, assess sustained legato, long-range build, and ensemble pacing around the climax and mood change; those are composer-hosted review descriptions, not direct score observations.",
+  "collection_flag": "Original chamber composition with two different soprano-saxophone scorings. Clarify instrumentation before judging fit.",
+  "listening": [
+    {
+      "url": "https://www.reedmusic.com/store/woodwind/saxophone/saxophone-chamber-music/sax-other-instruments/i-touched-your-glistening-tearsrm024/",
+      "description": "Reed page embeds live Barry Cockcroft performance.",
+      "verification": "Listing verified in search index; playback not auditioned."
+    }
+  ],
+  "score_links": [
+    {
+      "url": "https://representation.australianmusiccentre.com.au/product/i-touched-your-glistening-tears-soprano-saxophone-piano",
+      "description": "Purchase/score page; exact preview access unresolved.",
+      "inspected": false
+    }
+  ],
+  "gaps": [
+    "No public notation or matching saxophone recording was inspected.",
+    "Groth/Reed edition attached to the catalog record needs exact scoring confirmation."
+  ],
+  "proposed_corrections": [
+    "Check whether the work page needs piano, violin, or cello added to instruments after identifying its exact edition."
+  ],
+  "searches": [
+    "Brenton Broadstock I Touched Your Glistening Tears soprano saxophone cello piano",
+    "composer page I touched your glistening tears sax violin version"
+  ]
+}

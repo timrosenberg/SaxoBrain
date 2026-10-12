@@ -1,0 +1,54 @@
+{
+  "id": 298,
+  "batch": 12,
+  "filename": "Pierre-Max DuBois - A la Francaise.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Pierre-Max DuBois - A la Francaise.md",
+  "title": "A la Francaise",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "À la française is No.3 of Dubois’s Pièces caractéristiques en forme de suite, Op.77, for alto saxophone and piano. Hungaroton album metadata credits saxophonist Rigó Sándor and pianist Christina Leeb-Grill and lists 4:14; assignment catalog gives approximately 4:45. Do not assert a corrected duration.",
+  "evidence": [
+    {
+      "claim": "Lists À la française at 4:14 with saxophone/piano album credits.",
+      "url": "https://open.spotify.com/intl-de/album/0UsG92jj6JWO0xDIQTTDjv",
+      "source_name": "Hungaroton album metadata via Spotify",
+      "kind": "performer",
+      "access": "opened"
+    },
+    {
+      "claim": "Scan search snippet identifies the Op.77 suite and movement No.3; score provenance not verified.",
+      "url": "https://www.scribd.com/document/442859602/1-A-L-Espagnole-Pierre-Max-Dubois",
+      "source_name": "Scribd user-uploaded score scan",
+      "kind": "score",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Indiana State School Music Association’s 2021–22 through 2026–27 Group I woodwind solo list includes the Dubois Op.77 suite under Alto Saxophone. The document allows a maximum five-minute actual performance and requires cuts when needed; it lists works without assigning individual difficulty levels.",
+      "url": "https://www.issma.net/downloads/woodwindmanual.pdf",
+      "source_name": "Indiana State School Music Association, Group I Required Music List",
+      "kind": "pedagogy",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "No score notation or matching movement-specific analysis was inspected; do not infer style or technical demands from the national titles. Review the edition’s articulation, rhythmic character, and saxophone/piano coordination from the score.",
+  "collection_flag": "One movement in a five-piece suite; historical institutional repertoire-list inclusion.",
+  "listening": [
+    {
+      "url": "https://open.spotify.com/intl-de/album/0UsG92jj6JWO0xDIQTTDjv",
+      "description": "Hungaroton track listing, playback not auditioned.",
+      "verification": "Recording/product metadata checked; playback not auditioned"
+    }
+  ],
+  "score_links": [],
+  "gaps": [
+    "Approximate duration differs from album track timing, which is performance-specific.",
+    "No authorized score notation for this individual movement was visually inspected."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Pierre Max Dubois A la Francaise Op 77 saxophone piano recording score",
+    "Hungaroton Dubois French movement track",
+    "ISSMA Dubois movement alto saxophone"
+  ]
+}

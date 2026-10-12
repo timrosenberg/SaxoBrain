@@ -1,0 +1,50 @@
+{
+  "id": 74,
+  "batch": 3,
+  "filename": "Dia Succari - Il Est Raconte.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Dia Succari - Il Est Raconte.md",
+  "title": "Il Est Raconte",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Dia Succari’s Il est raconté is an original alto saxophone and piano work published by Alphonse Leduc. A Philharmonie de Paris saxophone reference entry supplies additional program and rhythmic information.",
+  "evidence": [
+    {
+      "claim": "Composer work listing identifies alto saxophone and piano, 1987, Alphonse Leduc.",
+      "url": "https://fr.wikipedia.org/wiki/Dia_Succari",
+      "source_name": "Dia Succari biography (French Wikipedia)",
+      "kind": "reference",
+      "access": "opened"
+    },
+    {
+      "claim": "A university repertoire study includes the work in its catalog of saxophone and piano pieces.",
+      "url": "https://helvia.uco.es/bitstream/handle/10396/12998/2015000001186.pdf?isAllowed=y&sequence=1",
+      "source_name": "University of Córdoba repertoire appendix",
+      "kind": "institution",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "The guide describes a continuous work alternating measured and improvised sections, in a delicate 3+2+2+3 meter.",
+      "url": "https://mediatheque.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+      "source_name": "Claude Delangle et al., 10 ans avec le saxophone (Philharmonie de Paris digital scan)",
+      "kind": "pedagogy",
+      "access": "opened",
+      "page": "PDF p.83; printed p.88"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference from the 1993 guide: examine the transitions between measured and improvised material, maintain the compound 3+2+2+3 grouping, and coordinate varied accents. Score notation and improvisation instructions remain uninspected.",
+  "collection_flag": "Original saxophone work; catalogued in a university saxophone repertoire survey. No young-player target documented.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No readable score notation, verified recording, or exact duration was located. The accessible 1993 reference provides work-specific rhythmic and structural information, but the notation and improvisation instructions were not inspected."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Dia Succari Il Est Raconte saxophone piano Leduc",
+    "Il est raconté Dia Succari saxophone recording score",
+    "Philharmonie Paris Il est raconté saxophone",
+    "Philharmonie de Paris 10 ans avec le saxophone Dia Succari Il est raconté PDF p.83 visually inspected"
+  ],
+  "focus": "Inference from the visually checked 1993 Philharmonie guide entry: examine transitions between measured and improvised material, sustain the compound 3+2+2+3 grouping, and coordinate varied accents. Score notation and improvisation instructions remain uninspected."
+}

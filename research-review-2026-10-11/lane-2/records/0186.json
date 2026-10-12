@@ -1,0 +1,50 @@
+{
+  "id": 186,
+  "batch": 8,
+  "filename": "Jean-Michel Damase - Preambule et Valse.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Jean-Michel Damase - Preambule et Valse.md",
+  "title": "Preambule et Valse",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Broekmans & Van Poppel’s opened catalog lists Damase’s Préambule et Valse, product 167533, for E-flat alto saxophone and piano, marked 1er cycle. The catalog title spelling differs from the SaxoBrain filename; the exact Leduc AL29595 listing remains to be matched to the same issue.",
+  "evidence": [
+    {
+      "claim": "2010 saxophone catalog lists Prélamble et Valse (alto); the catalog lead gives Leduc AL29595 and seven pages.",
+      "url": "https://johanvanderlinden.com/saxophone_catalogue_2010.pdf",
+      "source_name": "Johan van der Linden, Saxophone Catalogue 2010",
+      "kind": "existing_catalog_lead",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Broekmans & Van Poppel’s Prima Vista catalog lists Préambule et Valse, product 167533, for E-flat alto saxophone, marked 1er cycle.",
+      "url": "https://www.broekmans.com/media/downloads/Prima_Vista_2007-1.pdf",
+      "source_name": "Broekmans & Van Poppel, Prima Vista 2007 catalog",
+      "kind": "pedagogy",
+      "access": "opened",
+      "page": "PDF page 32 / printed page 34"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Match product 167533 with Leduc AL29595 and inspect the score; title spelling and pagination remain edition questions.",
+  "collection_flag": "The Broekmans catalog documents 1er-cycle use in the French conservatory context, not a college-year recommendation.",
+  "listening": [],
+  "score_links": [
+    {
+      "url": "https://johanvanderlinden.com/saxophone_catalogue_2010.pdf",
+      "description": "Catalog or edition record; no notation preview inspected.",
+      "inspected": false
+    }
+  ],
+  "gaps": [
+    "Exact publisher-edition metadata and notation remain unverified.",
+    "No representative saxophone score pages were visually inspected.",
+    "No public notation preview or work-specific saxophone performance was located."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Jean-Michel Damase Preambule et Valse AL29595 saxophone",
+    "Jean-Michel Damase Préambule et Valse 167533 Leduc saxophone score",
+    "Damase Preambule et Valse AL29595 alto saxophone preview",
+    "Damase Préambule et Valse saxophone recording"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": 1,
+  "batch": 1,
+  "filename": "Albert Gower - Elegy & Presto.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Albert Gower - Elegy & Presto.md",
+  "title": "Elegy & Presto",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Albert Gower's *Elegy and Presto* is listed for oboe or soprano saxophone and piano in NYPL's American Music Center score finding aid. The publisher-level catalog entry (Carl Fischer no. 49401779) is surfaced in Presto Music's listing, confirming a published edition; no score preview or recording was inspected.",
+  "evidence": [
+    {
+      "claim": "Published score for oboe or soprano saxophone and piano is listed in the American Music Center score finding aid.",
+      "url": "https://nyplorg-data-archives.s3.amazonaws.com/uploads/collection/generated_finding_aids/mus24605.pdf",
+      "source_name": "NYPL, Guide to the American Music Center collection of published scores",
+      "kind": "institution",
+      "access": "opened"
+    },
+    {
+      "claim": "UMD record is the existing edition lead; duration/date need direct record verification.",
+      "url": "https://digital.lib.umd.edu/scores/id/00008473",
+      "source_name": "University of Maryland Digital Collections",
+      "kind": "institution",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Public listing identifies the Carl Fischer edition as catalog no. 49401779.",
+      "url": "https://www.prestomusic.com/sheet-music/products/8195584--albert-gower-elegy-presto",
+      "source_name": "Presto Music sheet music catalog",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Original saxophone option within a dual oboe/soprano publication; audience and saxophone adaptation details unknown.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "Publisher page or readable score is still needed to verify publication date, duration, notation, and full saxophone demands.",
+    "No matching saxophone recording or opened score pages located."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Albert Gower Elegy Presto soprano saxophone Tenuto score recording",
+    "Elegy and Presto Gower University of Maryland score 00008473",
+    "Albert Gower Elegy Presto Carl Fischer 49401779 score saxophone recording",
+    "site:prestoremusic.com/sheet-music 8195584 Albert Gower Elegy Presto"
+  ]
+}

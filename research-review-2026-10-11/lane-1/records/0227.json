@@ -1,0 +1,49 @@
+{
+  "id": 227,
+  "batch": 10,
+  "filename": "Kumiko Tanaka - La Brise.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Kumiko Tanaka - La Brise.md",
+  "title": "La Brise",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Billaudot identifies Kumiko Tanaka’s La brise for E-flat saxophone and piano, GB7021. Its catalog labels it Cycle 1, facile. A library record dates the edition to 2001 and gives a 2:50 duration, 7-page score, and separate part.",
+  "evidence": [
+    {
+      "claim": "Billaudot identifies composer, alto saxophone and piano, GB7021, and labels it facile, cycle 1.",
+      "url": "https://www.billaudot.com/la-brise-3.html",
+      "source_name": "Éditions Billaudot",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "National University of Music library record gives publication c2001, duration 2:50, score and part pagination, and “facile (3).”",
+      "url": "https://ci.nii.ac.jp/ncid/BC09150656",
+      "source_name": "CiNii Books",
+      "kind": "institution",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Windmusic library assigns a repertory year descriptor and documents holdings and edition metadata.",
+      "url": "https://windmusic.org/index.php?id=10401&lvl=notice_display",
+      "source_name": "Windmusic library",
+      "kind": "pedagogy",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference: the publisher’s Cycle 1 label and short duration make it a possible contrast piece; inspect the part before judging fit for a college studio.",
+  "collection_flag": "Publisher explicitly markets this as easy, Cycle 1 repertoire.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No score notation inspected.",
+    "A CMF listing associates it with selection cycles, but its page has inconsistent cycle tags and was not used as a placement claim."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "\"La Brise\" Kumiko Tanaka Billaudot",
+    "Billaudot La brise GB7021",
+    "CiNii BC09150656",
+    "Windmusic Tanaka La brise saxophone"
+  ]
+}

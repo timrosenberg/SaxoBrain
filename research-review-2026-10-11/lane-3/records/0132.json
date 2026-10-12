@@ -1,0 +1,41 @@
+{
+  "id": 132,
+  "batch": 6,
+  "filename": "Günter Raphael - Concertino Op. 71.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Günter Raphael - Concertino Op. 71.md",
+  "title": "Concertino Op. 71",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Breitkopf EB5986 is the piano reduction of Günter Raphael’s Concertino Op. 71 for alto saxophone and small orchestra. The piano reduction is the relevant rehearsal/performance edition in the current catalog; no score preview or saxophone part was inspected.",
+  "evidence": [
+    {
+      "claim": "Retailer identifies EB5986 as the alto-saxophone and piano edition, explicitly a piano reduction of the orchestral work.",
+      "url": "https://www.bodensee-musikversand.de/Noten/Klavier-und-Saxophon/Raphael-Guenter-1903-1960-Concertino-op-71-fuer-Alt-Saxophon-%26-Klavier-Klavier-%26-Saxophon-Edition-Breitkopf-121433.html",
+      "source_name": "Bodensee Musikversand",
+      "kind": "retailer",
+      "access": "opened"
+    },
+    {
+      "claim": "A reference entry lists the Concertino for alto saxophone and small orchestra, Op.71 (1951).",
+      "url": "https://de.wikipedia.org/wiki/G%C3%BCnter_Raphael",
+      "source_name": "Wikipedia composer reference",
+      "kind": "pedagogy",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Review orchestral texture translated to piano reduction, solo register and articulation demands directly from EB5986 before considering pianistic coordination.",
+  "collection_flag": "Orchestral concerto repertoire offered in a piano reduction; no pedagogical placement found.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No readable solo part or recording specific to this concerto found.",
+    "The current source set does not establish a reliable duration or movement structure."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Günter Raphael Concertino Op 71 alto saxophone EB5986 score preview",
+    "Raphael Concertino Op.71 saxophone recording",
+    "Breitkopf EB5986 alto saxophone piano"
+  ]
+}

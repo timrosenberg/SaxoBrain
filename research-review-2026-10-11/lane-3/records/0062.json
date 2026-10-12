@@ -1,0 +1,45 @@
+{
+  "id": 62,
+  "batch": 3,
+  "filename": "Daniel Perttu - Towers of Dalmatia.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Daniel Perttu - Towers of Dalmatia.md",
+  "title": "Towers of Dalmatia",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Daniel Perttu identifies Towers of Dalmatia as an alto saxophone and piano work available through Dorn Publications. Westminster College announced its commission for saxophonist James Flowers and pianist Nancy DeSalvo.",
+  "evidence": [
+    {
+      "claim": "Composer lists the title under solo instrument and piano as an alto saxophone work and links Dorn Publications.",
+      "url": "https://www.danielperttu.com/compositions",
+      "source_name": "Daniel Perttu composer site",
+      "kind": "composer",
+      "access": "opened"
+    },
+    {
+      "claim": "Westminster College announcement documents the premiere and dedicatees.",
+      "url": "https://www.westminster.edu/about/news/release.cfm?id=3960",
+      "source_name": "Westminster College",
+      "kind": "institution",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Original work commissioned for and premiered at a university by faculty performers; no young-player adaptation evidence.",
+  "listening": [],
+  "score_links": [
+    {
+      "url": "https://www.danielperttu.com/compositions",
+      "description": "Composer page links to Dorn edition.",
+      "inspected": false
+    }
+  ],
+  "gaps": [
+    "Composer site does not provide a public score preview or recording on this page; score demands and duration remain unclear."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Daniel Perttu Towers of Dalmatia score sample recording",
+    "Towers of Dalmatia saxophone James Flowers Westminster"
+  ]
+}

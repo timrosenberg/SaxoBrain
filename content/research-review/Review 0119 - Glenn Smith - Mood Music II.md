@@ -1,0 +1,46 @@
+---
+title: "Review 0119: Glenn Smith - Mood Music II"
+added: 2026-10-11
+review-id: 119
+review-packet: 5
+review-decision: Pending
+review-applied: false
+notation-inspected: false
+catalog-entry: "[[Glenn Smith - Mood Music II]]"
+build:
+  render: never
+  list: never
+  publishResources: false
+---
+
+# Review 0119: Glenn Smith - Mood Music II
+
+[[Research Review|Review hub]] · [[Research Packet 05|Packet 05]]
+
+> [!info] Your Decision
+> Record your choice in `review-decision`, or give it to Codex in chat using this work’s number. The catalog changes only when you ask Codex to apply the decision or edit the catalog entry yourself.
+
+## Research
+
+Catalog entry: [[Glenn Smith - Mood Music II]].
+
+Glenn Smith, Mood Music 2 for any two saxophones of the same type, unaccompanied, Hal Leonard 40180 / LKM Music S152001, 12 pages. The publisher labels it Grade IV–V and lists recordings by Eugene Rousseau and Dennis Bamber.
+[Hal Leonard publisher listing](https://www.halleonard.com/product/40180/mood-music-2) (opened): Hal Leonard publisher page identifies Mood Music 2 as an unaccompanied duo for any two like saxophones, lists Grade IV–V, 12 pages, catalog number 40180/S152001, and names Rousseau/Bamber recordings. This does not establish the work’s notation or a specific saxophone pairing.
+
+Score links:
+- [Publisher listing with metadata; closer-look viewer returned no score image, so notation is not inspected.](https://www.halleonard.com/product/40180/mood-music-2); visually inspected: false.
+
+Listening:
+- [Publisher page names performances/recordings by Eugene Rousseau and Dennis Bamber.](https://www.halleonard.com/product/40180/mood-music-2): Publisher metadata verified; recordings not auditioned.
+
+Collection/transcription context: Publisher documents an unaccompanied two-like-saxophone duet and names recorded performances; no intended audience is stated.
+
+Review focus: The catalog says flexible duet; the publisher specifies two saxophones of the same type. Check the chosen transposed parts and coordination/duet balance in the score. The publisher’s Grade IV–V label is not a SaxoBrain recommendation.
+
+Open questions: Hal Leonard closer-look page yielded no notation image; complete score and exact written range remain unknown. Publisher recording links were listed, but no audio was auditioned. No college/professional programming placement verified.
+
+Searches checked:
+- Glenn Smith Mood Music II saxophone duet Rousseau Bamber score
+- Opened Hal Leonard official product page 40180 and verified scoring, grade label, pagination, and recording metadata
+- Attempted publisher closer-look viewer for score preview; response contained no score image
+- Searched publisher and score-preview leads for readable notation

@@ -1,0 +1,47 @@
+{
+  "id": 384,
+  "batch": 16,
+  "filename": "Walter Hartley - Amazing Grace and Wondrous Love.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Walter Hartley - Amazing Grace and Wondrous Love.md",
+  "title": "Amazing Grace and Wondrous Love",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Hartley's Amazing Grace and Wondrous Love exists in more than one instrumentation: available catalog evidence describes soprano or alto saxophone with piano, and an alternate SSAATB saxophone ensemble version. The cataloged sax/piano item is Dorn DP1978.",
+  "evidence": [
+    {
+      "claim": "Hartley works list identifies solo soprano or alto saxophone and piano, or saxophone ensemble alone.",
+      "url": "https://en.wikipedia.org/wiki/Walter_S._Hartley",
+      "source_name": "Wikipedia Hartley work list",
+      "kind": "reference",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Audio database lists a Farrell Vernon recording with a 3:16 duration.",
+      "url": "https://www.allmusic.com/album/high-notes-mw0002941920",
+      "source_name": "AllMusic album listing",
+      "kind": "performer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Estate catalog lists the 2010 solo arrangement for soprano or alto saxophone and piano, 1:45, Dorn, separately from the SSAATB ensemble setting.",
+      "url": "https://www.walterhartley.com/Saxophone_2.htm",
+      "source_name": "Walter S. Hartley estate, saxophone works catalog",
+      "kind": "composer",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference: clarify whether the solo-and-piano or ensemble setting is under consideration; no notation inspected.",
+  "collection_flag": "Hartley estate catalog distinguishes a solo soprano-or-alto saxophone and piano arrangement from an SSAATB saxophone ensemble version; exact version matters.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "Publisher record and score not located; recordings with different durations/version not reconciled."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Walter Hartley Amazing Grace and Wondrous Love Dorn DP1978 score",
+    "Amazing Grace Wondrous Love Farrell Vernon saxophone recording",
+    "Walter Hartley official Saxophone_2.htm saxophone works catalog"
+  ]
+}

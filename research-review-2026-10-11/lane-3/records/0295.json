@@ -1,0 +1,54 @@
+{
+  "id": 295,
+  "batch": 12,
+  "filename": "Pierre Vellones - Rhapsodie.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Pierre Vellones - Rhapsodie.md",
+  "title": "Rhapsodie",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Pierre Vellones’s Rapsodie Op.92 was originally scored for alto saxophone, harp, celesta and percussion. Marcel Mule made a reduction for alto saxophone and piano, published by Henry Lemoine in 1947. The BnF catalog indexes an ensemble recording at 5:02, but the performance version and exact relation to piano reduction require checking.",
+  "evidence": [
+    {
+      "claim": "Identifies original ensemble scoring and Marcel Mule alto sax/piano reduction, Lemoine 1947, 8-page score and part.",
+      "url": "https://ci.nii.ac.jp/ncid/BA89757841",
+      "source_name": "CiNii Books",
+      "kind": "institution",
+      "access": "opened"
+    },
+    {
+      "claim": "Indexes Rapsodie Op.92 recording at 5:02 and original sax/harp/celesta/percussion instrumentation.",
+      "url": "https://catalogue.bnf.fr/ark:/12148/cb384232910",
+      "source_name": "Bibliothèque nationale de France audio catalog",
+      "kind": "institution",
+      "access": "opened"
+    },
+    {
+      "claim": "Catalog lead identifies Lemoine HL23328.",
+      "url": "https://www.grothmusic.com/p-30686.aspx",
+      "source_name": "Groth Music listing",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Review how the piano reduction preserves or alters the original coloristic exchanges with harp, celesta and percussion.",
+  "collection_flag": "Documented orchestration reduction from four-part ensemble to saxophone/piano.",
+  "listening": [
+    {
+      "url": "https://catalogue.bnf.fr/ark:/12148/cb384232910",
+      "description": "BnF indexed recording record, playback not auditioned.",
+      "verification": "Recording/product metadata checked; playback not auditioned"
+    }
+  ],
+  "score_links": [],
+  "gaps": [
+    "Audio record does not establish whether 5:02 is the piano reduction or original scoring.",
+    "No score page inspected."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Pierre Vellones Rhapsodie Op 92 saxophone harp celesta piano reduction score recording",
+    "CiNii Rapsodie Vellones Marcel Mule 1947",
+    "BnF Rapsodie 5:02"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 79,
+  "batch": 4,
+  "filename": "Dominique Clement - Entre-Deux.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Dominique Clement - Entre-Deux.md",
+  "title": "Entre-Deux",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Dominique Clément's *Entre-Deux* is an alto saxophone and piano work published by Alphonse Leduc as AL30500. Hal Leonard's distributor catalog confirms the edition and instrumentation. No score sample, performance, or work-specific teaching placement was verified.",
+  "evidence": [
+    {
+      "claim": "Leduc edition identified as alto saxophone and piano, product code AL30500, by composer Dominique Clément.",
+      "url": "https://www.halleonard.com/product/48186310/clement-dominique-entre-deux-alto-saxophone-piano-bookclement-dominique-entre-deux-alto-saxophone-piano-book",
+      "source_name": "Hal Leonard distributor catalog",
+      "kind": "retailer",
+      "access": "opened"
+    },
+    {
+      "claim": "Leduc catalog lists *Entre-Deux* for alto saxophone and piano, AL30500.",
+      "url": "https://casamusicaledelrio.it/casamusicale/wp-content/uploads/2019/04/CAT-18-107-Leduc-Catalogue-2018-ss-GS-v6-NO-CROPS-LO-RESv2.pdf",
+      "source_name": "Alphonse Leduc catalog",
+      "kind": "publisher",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "An original alto saxophone and piano edition is identified; audience, musical demands, and collection use remain unverified.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No readable preview or saxophone performance located.",
+    "No duration, composition date, or pedagogical placement verified."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Dominique Clement Entre-Deux AL30500 saxophone piano score Leduc",
+    "Clement Dominique Entre Deux alto saxophone piano publisher score recording"
+  ]
+}

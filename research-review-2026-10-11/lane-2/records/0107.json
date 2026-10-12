@@ -1,0 +1,54 @@
+{
+  "id": 107,
+  "batch": 5,
+  "filename": "George Nicholson - Far Cry.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/George Nicholson - Far Cry.md",
+  "title": "Far Cry",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "George Nicholson, Far Cry (2014–15), for alto saxophone and piano. The composer’s opened works catalogue identifies the instrumentation and date; a retailer identifies the University of York Music Press edition.",
+  "evidence": [
+    {
+      "claim": "Composer’s works catalogue lists Far cry for alto saxophone and piano, dated 2014–15, and identifies University of York Music Press as publisher.",
+      "url": "https://www.composers21.com/compdocs/nicholsg.htm",
+      "source_name": "George Nicholson works catalogue, Living Composers Project",
+      "kind": "composer",
+      "access": "opened"
+    },
+    {
+      "claim": "Retailer listing identifies Far Cry for alto saxophone and piano under University of York Music Press.",
+      "url": "https://www.stretta-music.nl/saxofoon/publisher-university-york",
+      "source_name": "Stretta Music",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Original alto saxophone/piano work in the composer’s catalogue; no teaching or audience designation verified.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No readable score or matching performance recording was located.",
+    "Specific musical demands, written range, and college/professional programming remain unverified."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    {
+      "query": "George Nicholson Far Cry saxophone piano YUMPress",
+      "checked": "Targeted web search; results reviewed for exact edition, publisher, score, recording, and teaching context; unrelated instrument/edition results excluded."
+    },
+    {
+      "query": "George Nicholson Far cry alto saxophone piano 2014 2015",
+      "checked": "Targeted web search; results reviewed for exact edition, publisher, score, recording, and teaching context; unrelated instrument/edition results excluded."
+    },
+    {
+      "query": "University of York Music Press Far Cry Nicholson score recording",
+      "checked": "Targeted web search; results reviewed for exact edition, publisher, score, recording, and teaching context; unrelated instrument/edition results excluded."
+    },
+    {
+      "query": "Far cry George Nicholson saxophone performance",
+      "checked": "Targeted web search; results reviewed for exact edition, publisher, score, recording, and teaching context; unrelated instrument/edition results excluded."
+    }
+  ]
+}

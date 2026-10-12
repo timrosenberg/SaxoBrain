@@ -1,0 +1,63 @@
+{
+  "id": 169,
+  "batch": 7,
+  "filename": "Jean Matitia - Au Bonheur Des Dames.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Jean Matitia - Au Bonheur Des Dames.md",
+  "title": "Au Bonheur Des Dames",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Jean Matitia, Au bonheur des dames for alto saxophone and piano, Henry Lemoine 27975. The Lemoine 2024 saxophone catalog gives level 3 and 16 pages; the FFEA lists the work in its 2022 cycle III CEM collection.",
+  "evidence": [
+    {
+      "claim": "Catalog entry identifies the Lemoine edition and saxophone/piano scoring.",
+      "url": "https://www.grothmusic.com/p-38087.aspx",
+      "source_name": "Groth Music",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Henry Lemoine’s current saxophone catalog lists Au bonheur des dames for alto saxophone and piano, catalog 27975, level 3, 16 pages.",
+      "url": "https://www.henry-lemoine.com/assets/pdf/CATASAX.pdf",
+      "source_name": "Henry Lemoine 2024 saxophone catalog",
+      "kind": "publisher",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "FFEA’s 2022 collection of alto saxophone works includes this title in its cycle III CEM section.",
+      "url": "https://www.federation-ffea.fr/medias/download/ffea_2022_saxophone-alto.pdf",
+      "source_name": "Fédération Française de l’Enseignement Artistique",
+      "kind": "pedagogy",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Adolphesax page identifies a live performance by Richard Ducros, alto saxophone, and Sophie Teboul, piano, at Gradignan.",
+      "url": "https://adolphesax.com/videos/richard-ducros-alto-saxophone-plays-au-bonheur-des-dames-by-jean-matitia/",
+      "source_name": "Adolphesax performance listing",
+      "kind": "performer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Publisher lists level 3 and a French federation’s 2022 cycle III CEM collection includes the title. This is contextual evidence and does not set a SaxoBrain level.",
+  "listening": [
+    {
+      "url": "https://adolphesax.com/videos/richard-ducros-alto-saxophone-plays-au-bonheur-des-dames-by-jean-matitia/",
+      "description": "Richard Ducros, alto saxophone, and Sophie Teboul, piano, live in Gradignan.",
+      "verification": "Performance video listing identified; playback not auditioned."
+    }
+  ],
+  "score_links": [],
+  "gaps": [
+    "Score notation and score-specific demands were not inspected."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Jean Matitia Au Bonheur des Dames saxophone piano HL27975",
+    "Matitia Au bonheur des dames saxophone score recording",
+    "Jean Matitia saxophone repertoire",
+    "Jean Matitia Au bonheur des dames Lemoine saxophone catalog 27975 level",
+    "Au bonheur des dames Jean Matitia FFEA cycle III saxophone",
+    "Richard Ducros Au bonheur des dames Jean Matitia live performance"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": 244,
+  "batch": 10,
+  "filename": "Marcel Dautremer - Reverie Interrompue.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Marcel Dautremer - Reverie Interrompue.md",
+  "title": "Reverie Interrompue",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "The Philharmonie de Paris guide describes Dautremer’s Rêverie interrompue as a complete 1954 work for alto saxophone and piano, in two connected 4/4 sections, first slow and peaceful and then faster, with both slurred and detached articulation. It lists duration as four minutes. Windmusic’s library record adds AL21352, score and part pagination, and a pedagogical repertory year descriptor.",
+  "evidence": [
+    {
+      "claim": "Guide gives 1954 date, two connected 4/4 parts, contrast, articulation and complete-piece performance context.",
+      "url": "https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+      "source_name": "Philharmonie de Paris, 10 ans avec le saxophone",
+      "kind": "pedagogy",
+      "access": "opened",
+      "page": "PDF p.40, printed p.43"
+    },
+    {
+      "claim": "Windmusic library record confirms Leduc AL21352, 1954, 4-page score plus part, four-minute duration and its own pedagogical descriptor.",
+      "url": "https://windmusic.org/index.php?id=11413&lvl=notice_display",
+      "source_name": "Windmusic library",
+      "kind": "pedagogy",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Quebec conservatory syllabus places the work among simple, songful repertoire selections for tone study.",
+      "url": "https://www.conservatoire.gouv.qc.ca/media/0oulvph0/cmadq-progexternes-saxophone.pdf",
+      "source_name": "Conservatoire de musique et d’art dramatique du Québec",
+      "kind": "pedagogy",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference: the documented shift from slow, peaceful writing to a faster section with mixed slurred and detached articulation makes phrasing and contrast concrete review points.",
+  "collection_flag": "Pedagogical repertoire with documented conservatory syllabus use; not enough evidence to claim a simplified transcription.",
+  "listening": [],
+  "score_links": [
+    {
+      "url": "https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+      "description": "Pedagogical guide, PDF page 40 / printed page 43",
+      "inspected": false
+    }
+  ],
+  "gaps": [
+    "No printed score notation inspected.",
+    "The guide describes “justesse et musicalité” but does not specify written/sounding pitch range."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Philharmonie 10 ans saxophone Dautremer Reverie interrompue",
+    "Windmusic AL21352 Rêverie interrompue",
+    "Quebec conservatory saxophone repertoire Dautremer"
+  ]
+}

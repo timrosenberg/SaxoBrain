@@ -1,0 +1,46 @@
+{
+  "id": 389,
+  "batch": 16,
+  "filename": "Walter Hartley - Saxophrenia.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Walter Hartley - Saxophrenia.md",
+  "title": "Saxophrenia",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Saxophrenia is Hartley’s 1977 concerto for alto saxophone and wind band, dedicated to Ted Hegvik. The CDMC/Wind Music catalog in Guebwiller records the Molenaar/Dorn editions and 19-page full score.",
+  "evidence": [
+    {
+      "claim": "Institutional catalog confirms title, alto saxophone and wind band, 1977, Molenaar and Dorn publishers, 19-page full score, dedication, and classifies soloist level 5 and band difficulty 3.",
+      "url": "https://windmusic.org/index.php?lvl=notice_display&id=38697",
+      "source_name": "CDMC/Wind Music catalog, Guebwiller",
+      "kind": "institution",
+      "access": "opened"
+    },
+    {
+      "claim": "Estate catalog lists Saxophrenia as an alto saxophone work with band or piano, 2:30, Dorn, no. 124.",
+      "url": "https://www.walterhartley.com/Saxophone_2.htm",
+      "source_name": "Walter S. Hartley estate, saxophone works catalog",
+      "kind": "composer",
+      "access": "opened"
+    },
+    {
+      "claim": "The Wind Music legal notice identifies the site editor as Conseil départemental pour la Musique et la Culture (CDMC), at Guebwiller.",
+      "url": "https://windmusic.org/index.php?id_rubrique=82&lvl=cmspage&pageid=6",
+      "source_name": "CDMC/Wind Music catalog, Guebwiller",
+      "kind": "institution",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference: a concerto format and separately reported soloist/band ratings make solo projection and ensemble balance useful review questions; notation not inspected.",
+  "collection_flag": "Documented concerto for alto saxophone and band; the library catalog's level labels are not SaxoBrain levels.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No score or performance recording inspected."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Hartley Saxophrenia Dorn saxophone band score recording",
+    "Walter Hartley official Saxophone_2.htm saxophone works catalog"
+  ]
+}

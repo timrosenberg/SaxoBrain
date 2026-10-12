@@ -1,0 +1,55 @@
+{
+  "id": 54,
+  "batch": 3,
+  "filename": "Claude Debussy - Beau Soir.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Claude Debussy - Beau Soir.md",
+  "title": "Beau Soir",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "The cataloged edition is Eugene Rousseau’s alto saxophone and piano transcription, published by Lauren Keiser Music as HL 41527 / X151012. Hal Leonard identifies it as Grade III and six pages. The underlying Debussy song is for voice and piano; other saxophone arrangements exist and must not be conflated with Rousseau’s edition.",
+  "evidence": [
+    {
+      "claim": "Publisher identifies Rousseau arrangement for alto saxophone and piano, Grade III, six pages, HL 41527 / X151012.",
+      "url": "https://www.halleonard.com/product/41527/beau-soirbeau-soir",
+      "source_name": "Hal Leonard / Lauren Keiser Music",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "IMSLP record identifies Beau soir as a voice-and-piano song and separately hosts a 2015 alto saxophone arrangement by Jacques Larocque, distinct from the cataloged Rousseau edition.",
+      "url": "https://imslp.org/wiki/Beau_soir_%28Debussy%2C_Claude%29",
+      "source_name": "IMSLP score catalog",
+      "kind": "score",
+      "access": "opened"
+    },
+    {
+      "claim": "Noa Even’s performer repertoire page lists Beau Soir among saxophone and piano repertoire.",
+      "url": "https://www.noaevenmusic.com/saxandpiano",
+      "source_name": "Noa Even, repertoire page",
+      "kind": "performer",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Transcription of Debussy’s art song for voice and piano. The cataloged Rousseau edition is a six-page alto-saxophone version; suitability as lyrical transcription is an inference and requires review of the edition.",
+  "listening": [],
+  "score_links": [
+    {
+      "url": "https://imslp.org/wiki/Beau_soir_%28Debussy%2C_Claude%29",
+      "description": "IMSLP record includes a free Jacques Larocque alto-saxophone arrangement, not the cataloged Rousseau edition; no notation observation transferred to the Rousseau version.",
+      "inspected": false
+    }
+  ],
+  "gaps": [
+    "No readable Rousseau score preview or matching performance recording was verified.",
+    "Other public saxophone arrangements have different arrangers, durations and technical choices; do not transfer those to the Rousseau edition."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Beau Soir alto saxophone piano score preview Debussy Rousseau",
+    "Hal Leonard 41527 Beau Soir Eugene Rousseau",
+    "IMSLP Beau soir alto sax Larocque",
+    "Noa Even Debussy Beau Soir saxophone"
+  ]
+}

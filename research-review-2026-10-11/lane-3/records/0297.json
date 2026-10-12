@@ -1,0 +1,54 @@
+{
+  "id": 297,
+  "batch": 12,
+  "filename": "Pierre-Max DuBois - A l'Espagnole.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Pierre-Max DuBois - A l'Espagnole.md",
+  "title": "A l'Espagnole",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Pierre-Max Dubois’s À l’espagnole is No.1 of Pièces caractéristiques en forme de suite, Op.77, for alto saxophone and piano. A 2000 Hungaroton album credits saxophonist Rigó Sándor and pianist Christina Leeb-Grill; its track listing gives 3:55, close to the catalog’s approximate 3:30. This is an edition/performance timing comparison, not a correction.",
+  "evidence": [
+    {
+      "claim": "Credits saxophone and piano and track Á l’espangol at 3:55 on 2000 recording.",
+      "url": "https://open.spotify.com/intl-de/album/0UsG92jj6JWO0xDIQTTDjv",
+      "source_name": "Hungaroton album metadata via Spotify",
+      "kind": "performer",
+      "access": "opened"
+    },
+    {
+      "claim": "Search result identifies Op.77, No.1, alto saxophone and piano; score provenance/notation not verified.",
+      "url": "https://www.scribd.com/document/442859602/1-A-L-Espagnole-Pierre-Max-Dubois",
+      "source_name": "Scribd user-uploaded score scan",
+      "kind": "score",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Indiana State School Music Association’s 2021–22 through 2026–27 Group I woodwind solo list includes the Dubois Op.77 suite under Alto Saxophone. The document allows a maximum five-minute actual performance and requires cuts when needed; it lists works without assigning individual difficulty levels.",
+      "url": "https://www.issma.net/downloads/woodwindmanual.pdf",
+      "source_name": "Indiana State School Music Association, Group I Required Music List",
+      "kind": "pedagogy",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "No score notation or matching movement-specific analysis was inspected; do not infer style or technical demands from the national titles. Review the edition’s articulation, rhythmic character, and saxophone/piano coordination from the score.",
+  "collection_flag": "One movement of a five-piece suite; institutional repertoire lists include it, but exact level system is not translated.",
+  "listening": [
+    {
+      "url": "https://open.spotify.com/intl-de/album/0UsG92jj6JWO0xDIQTTDjv",
+      "description": "Hungaroton track listing, playback not auditioned.",
+      "verification": "Recording/product metadata checked; playback not auditioned"
+    }
+  ],
+  "score_links": [],
+  "gaps": [
+    "No authenticated score page inspected.",
+    "Album track title spelling and catalog duration vary slightly; performance timing is not a revised duration."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Pierre Max Dubois A l’Espagnole Op 77 alto saxophone piano recording score",
+    "Hungaroton Dubois Á l’espangol 3:55",
+    "ISSMA Pièces caractéristiques No.1 saxophone"
+  ]
+}

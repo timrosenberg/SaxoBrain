@@ -1,0 +1,45 @@
+{
+  "id": 163,
+  "batch": 7,
+  "filename": "James MacMillan - After the Tryst.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/James MacMillan - After the Tryst.md",
+  "title": "After the Tryst",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "James MacMillan, After the Tryst, for soprano saxophone or clarinet and piano, a 1995 saxophone version of the 1988 violin-and-piano work, edited/arranged by Gerard McChrystal. Boosey & Hawkes gives a 3-minute duration and the saxophone version’s premiere on July 7, 1995 by McChrystal.",
+  "evidence": [
+    {
+      "claim": "Boosey & Hawkes provides version instrumentation, 3-minute duration, saxophone premiere date/performer, and the composer’s account of its elongated, ornamented melody and simple arpeggiated piano chords.",
+      "url": "https://www.boosey.com/cr/music/James-MacMillan-After-the-Tryst/5367",
+      "source_name": "Boosey & Hawkes",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Delphian album listing identifies McKenzie and Sawers as performers and identifies this as the first recording of the saxophone version.",
+      "url": "https://www.music-island.pl/opisplyty-DCD%2B34201.html",
+      "source_name": "Delphian album information",
+      "kind": "performer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference: the composer’s description of elongated ornamentation over simple arpeggiated chords points to melodic shaping and coordination with sparse accompaniment as useful review questions.",
+  "collection_flag": "Saxophone arrangement of a violin miniature; the publisher documents professional premiere and recording.",
+  "listening": [
+    {
+      "url": "https://www.music-island.pl/opisplyty-DCD%2B34201.html",
+      "description": "McKenzie-Sawers Duo, Delphian DCD34201, listed as first recording of this version.",
+      "verification": "Recording credit verified; playback not auditioned."
+    }
+  ],
+  "score_links": [],
+  "gaps": [
+    "Score not inspected; ornamentation, range, and exact technical demands remain unverified."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "James MacMillan After the Tryst soprano saxophone Boosey premiere",
+    "After the Tryst McKenzie Sawers Delphian DCD34201 recording"
+  ]
+}

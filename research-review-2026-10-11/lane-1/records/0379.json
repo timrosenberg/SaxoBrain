@@ -1,0 +1,40 @@
+{
+  "id": 379,
+  "batch": 16,
+  "filename": "Vincent Paulet - Antiphone.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Vincent Paulet - Antiphone.md",
+  "title": "Antiphone",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Vincent Paulet’s Antiphone is for alto saxophone and piano, Leduc AL30537. A 2012 Neue Musikzeitung review describes printed split-tone fingerings and greater technical, rhythmic, and piano-ensemble demands than Paulet’s Versets croisés; it recommends the work for upper-level study and Jugend musiziert.",
+  "evidence": [
+    {
+      "claim": "Frank Klüger’s review (31 Oct. 2012) identifies AL30537 and says the work supplies fingerings for split tones, makes higher technical, rhythmic, and piano-ensemble demands than Paulet’s Versets croisés, and is recommended for advanced study and Jugend musiziert.",
+      "url": "https://www.nmz.de/kritik/rezensionen/noten/studienmaterial-und-repertoirebereicherungen",
+      "source_name": "Neue Musikzeitung review",
+      "kind": "pedagogy",
+      "access": "opened"
+    },
+    {
+      "claim": "Leduc 2018 catalog lists Antiphone for alto saxophone and piano, AL30537.",
+      "url": "https://casamusicaledelrio.it/casamusicale/wp-content/uploads/2019/04/CAT-18-107-Leduc-Catalogue-2018-ss-GS-v6-NO-CROPS-LO-RESv2.pdf",
+      "source_name": "Alphonse Leduc catalog",
+      "kind": "publisher",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference from the 2012 review: review split-tone fingerings, rhythmic control, and piano coordination; the reviewer identifies these demands directly.",
+  "collection_flag": "A 2012 pedagogical review recommends the work for advanced study and Jugend musiziert. This is the review’s placement, not a SaxoBrain level.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No score notation or recording inspected; the review's demand descriptions are not a substitute for the score."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Vincent Paulet Antiphone AL30537 review",
+    "Antiphone Leduc catalog AL30537 saxophone piano",
+    "Neue Musikzeitung Vincent Paulet Antiphone AL 30537 Klüger 31.10.2012"
+  ]
+}

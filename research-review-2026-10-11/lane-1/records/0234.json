@@ -1,0 +1,40 @@
+{
+  "id": 234,
+  "batch": 10,
+  "filename": "Leroy Ostransky - Suite.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Leroy Ostransky - Suite.md",
+  "title": "Suite",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Hal Leonard’s Rubank listing identifies Leroy Ostransky’s Suite for alto saxophone and piano, code RUBL302 / 04471880, at publisher Level 4 and 12 pages. A Luxembourg government saxophone syllabus lists it under Division inférieure, 1ère mention.",
+  "evidence": [
+    {
+      "claim": "Hal Leonard identifies instrumentation, Rubank code, page count, and publisher Level 4.",
+      "url": "https://www.halleonard.com/product/4471880/suite-for-alto-saxophone",
+      "source_name": "Hal Leonard",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Luxembourg government saxophone syllabus includes Suite in Division inférieure, 1ère mention.",
+      "url": "https://menej.gouvernement.lu/dam-assets/enseignement-musical/enseignement-musical/doc-programmes-etudes/Saxophone.pdf",
+      "source_name": "Luxembourg Ministry of Education",
+      "kind": "pedagogy",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference: the government syllabus placement and publisher Level 4 label suggest checking it as a pedagogical study in ensemble with piano; neither maps directly to Tim’s system.",
+  "collection_flag": "Pedagogical saxophone edition with documented syllabus use.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No notation inspected; movement titles and specific saxophone demands not verified.",
+    "Government syllabus context has not been read at the exact page in this turn."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Leroy Ostransky Suite alto saxophone Rubank 04471880",
+    "Luxembourg saxophone syllabus Ostransky Suite"
+  ]
+}

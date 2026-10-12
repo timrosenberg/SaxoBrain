@@ -7,7 +7,7 @@ instruments:
   - "Tenor Saxophone"
   - "Piano"
 composed: 2003
-year-of-study: 
+year-of-study: "Third Year"
 arranger-edition: 
 streaming: 
 purchase:

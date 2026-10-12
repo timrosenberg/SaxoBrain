@@ -1,0 +1,79 @@
+{
+  "id": 48,
+  "batch": 2,
+  "filename": "Chiel Meijering - The Pizza Connection.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Chiel Meijering - The Pizza Connection.md",
+  "title": "The Pizza Connection",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Chiel Meijering, The pizza-connection (1989), about seven minutes, for alto saxophone and piano. Composer’s opened catalogue links a score and YouTube. Both linked destinations were attempted but could not be inspected because of access failures.",
+  "evidence": [
+    {
+      "claim": "Composer saxophone catalogue lists the work, duration, alto saxophone and piano, score and YouTube links.",
+      "url": "https://www.chielmeijering.com/works/all-works/saxophone/",
+      "source_name": "Chiel Meijering, Saxophone works",
+      "kind": "composer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Composer video catalog provides a direct recording URL for the work.",
+      "url": "https://www.chielmeijering.com/wp-content/uploads/2020/09/Works-Meijeringvideo-2020.pdf",
+      "source_name": "Chiel Meijering, works with video links",
+      "kind": "composer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "A European saxophone concert program lists it performed by Hans de Jong and pianist Paul Hermsen.",
+      "url": "https://ucmr.org.ro/TexteV2/SIMN%202003.pdf",
+      "source_name": "International New Music Week program",
+      "kind": "performer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Composer’s saxophone catalogue lists The pizza-connection (1989), about seven minutes, for alto saxophone and piano, and links the score and YouTube.",
+      "url": "https://www.chielmeijering.com/works/all-works/saxophone/",
+      "source_name": "Chiel Meijering, saxophone works catalogue",
+      "kind": "composer",
+      "access": "opened"
+    },
+    {
+      "claim": "Attempted to open the Donemus product URL linked from the catalog context; the web tool reported the URL was inaccessible, so product details were not verified from that page.",
+      "url": "https://webshop.donemus.com/action/front/sheetmusic/5473",
+      "source_name": "Donemus product page (access attempt)",
+      "kind": "publisher",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Attempted to open the catalog-linked YouTube performance; the web tool returned a cache-miss fetch failure. No performance content or credits were verified from the video.",
+      "url": "https://www.youtube.com/watch?v=4CeoiU74TEo",
+      "source_name": "YouTube performance (access attempt)",
+      "kind": "performer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference: the title and duration do not establish style or technical demands; listen to the composer-linked recording and inspect the exact score before making a college-fit judgment.",
+  "collection_flag": "Composer-listed original alto saxophone/piano work. No transcription or youth-targeting evidence found.",
+  "listening": [
+    {
+      "url": "https://www.youtube.com/watch?v=4CeoiU74TEo",
+      "description": "Composer-linked video listing.",
+      "verification": "URL verified in composer works PDF; playback not auditioned."
+    }
+  ],
+  "score_links": [
+    {
+      "url": "https://www.chielmeijering.com/works/all-works/saxophone/",
+      "description": "Composer catalogue lists a score link; the linked Donemus product page was attempted but inaccessible in this pass.",
+      "inspected": false
+    }
+  ],
+  "gaps": [
+    "The composer-linked Donemus product page returned an access failure, and the composer-linked YouTube URL returned a cache-miss fetch failure; score details and video content remain unverified.",
+    "No college/professional programming evidence verified."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Chiel Meijering The Pizza-Connection alto saxophone piano score YouTube"
+  ]
+}

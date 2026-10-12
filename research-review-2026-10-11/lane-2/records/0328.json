@@ -1,0 +1,41 @@
+{
+  "id": 328,
+  "batch": 14,
+  "filename": "Robert Planel - Chanson Triste.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Robert Planel - Chanson Triste.md",
+  "title": "Chanson Triste",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Robert Planel's Suite Romantique no. 3, Chanson Triste, is cataloged for alto saxophone and piano under Leduc AL20248.",
+  "evidence": [
+    {
+      "claim": "The series is identified by an opened library catalog as six pieces for alto saxophone and piano, 1944.",
+      "url": "https://windmusic.org/index.php?lvl=notice_display&id=11435",
+      "source_name": "CDMC / WindMusic library catalog",
+      "kind": "institution",
+      "access": "opened"
+    },
+    {
+      "claim": "The Philharmonie de Paris ten-year saxophone guide lists no. 3, Chanson Triste, for alto saxophone and piano, Leduc AL20248, 1944, duration 3:30. The entry gives no further musical description.",
+      "url": "https://mediatheque.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+      "source_name": "Philharmonie de Paris, Dix ans avec le saxophone",
+      "kind": "pedagogy",
+      "access": "opened",
+      "page": "PDF p. 44 (printed p. 47)"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Original saxophone/piano repertoire. No intended age or teaching level verified.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "Exact title spelling varies by language and catalog.",
+    "No notation or performance was inspected; the opened guide provides only its brief catalog entry."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Robert Planel Chanson Triste AL20248 saxophone piano",
+    "Suite Romantique Planel Chanson Triste"
+  ]
+}

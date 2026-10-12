@@ -1,0 +1,33 @@
+{
+  "id": 326,
+  "batch": 14,
+  "filename": "Robert Myers - Reprise.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Robert Myers - Reprise.md",
+  "title": "Reprise",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "The catalog's Dorn 0182 listing identifies Robert Myers's Reprise, but the publisher/catalog lead could not be corroborated in an opened primary source.",
+  "evidence": [
+    {
+      "claim": "Search-indexed Dorn catalog lists a Reprise under Robert Myers; edition details remain unverified.",
+      "url": "https://www.grothmusic.com/p-145600.aspx",
+      "source_name": "Groth Music listing",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Identify the exact part, edition and musical form before assessing demands.",
+  "collection_flag": "Unknown; instrumentation and intended audience need confirmation.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "The linked listing was not retrievable in opened web results; exact instrumentation, duration and score contents remain unverified.",
+    "No score, performance or teaching placement was verified."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Robert Myers Reprise Dorn 0182 saxophone piano score",
+    "DORN0182 Robert Myers Reprise saxophone"
+  ]
+}

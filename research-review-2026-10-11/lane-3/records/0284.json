@@ -1,0 +1,40 @@
+{
+  "id": 284,
+  "batch": 12,
+  "filename": "Paul-Baudouin Michel - Mouvements.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Paul-Baudouin Michel - Mouvements.md",
+  "title": "Mouvements",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Paul-Baudouin Michel’s Mouvements is for alto saxophone and piano. A specialist sheet-music retailer identifies a 1977 edition; a conservatory repertoire bibliography lists a 6:30 duration. The local record gives CeBeDeM CEBEDEM0004 and 16 pages, which should be reconciled to item 018883 before any catalog change.",
+  "evidence": [
+    {
+      "claim": "Lists Mouvements for alto saxophone and piano, 1977, score and part; retail digital edition exists.",
+      "url": "https://www.noten-roehr.de/en/scores/0005/woodwind-instruments/0507/saxophone/0504/woodwind%2Bpiano-harpsichord/018883",
+      "source_name": "Noten Roehr score retailer",
+      "kind": "retailer",
+      "access": "opened"
+    },
+    {
+      "claim": "Indexes 1977 work and 6:30 duration.",
+      "url": "https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf",
+      "source_name": "Conservatory repertoire bibliography",
+      "kind": "institution",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Review structure and movement/section organization, then compare the score’s 6:30 performance length and intended balance with piano.",
+  "collection_flag": "Original work in a conservatory saxophone repertoire list; no instructional placement identified.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "CEBEDEM0004/16-page local listing not directly matched to retailer item 018883.",
+    "No notation inspected or recording verified."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Paul Baudouin Michel Mouvements Cebedem saxophone piano 1977 recording",
+    "Michel Mouvements alto piano 6:30 score"
+  ]
+}

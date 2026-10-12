@@ -1,0 +1,43 @@
+{
+  "id": 283,
+  "batch": 12,
+  "filename": "Paul Sana - Concerto.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Paul Sana - Concerto.md",
+  "title": "Concerto",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "The catalog identifies Paul Sana’s Concerto for alto saxophone and piano, Andel Editions, 21 pages, with movements Allegro ma non troppo, Andante and Agitato. Search results did not yield an independently verified publisher page or recording; these details remain catalog leads.",
+  "evidence": [
+    {
+      "claim": "Catalog lead names Andel item 9790365114313, three movement titles and 21 pages.",
+      "url": "https://www.grothmusic.com/p-141082.aspx",
+      "source_name": "Groth Music listing",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Composer Paul Sana’s official publisher-biography page verifies his identity and broader output but does not list this title.",
+      "url": "https://bayard-nizet.be/sana-paul/",
+      "source_name": "Éditions musicales Bayard-Nizet",
+      "kind": "publisher",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Review the contrast between the three named movements and sustained pacing; no instrument-specific demand is verified from notation.",
+  "collection_flag": "Cataloged concerto with piano accompaniment; no work-specific pedagogical/program use found.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "Movement titles, exact edition, duration and performance identity need independent verification.",
+    "No score notation or recording located."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Paul Sana Concerto saxophone piano Andel 9790365114313 score recording",
+    {
+      "query": "Paul Sana Concerto saxophone piano Andel 9790365114313 score recording",
+      "checked": "Opened Editions Musicales Bayard-Nizet composer page and confirmed the composer’s catalog contains many original chamber works, but did not find this title. Specific item/movement metadata remain retailer leads."
+    }
+  ]
+}

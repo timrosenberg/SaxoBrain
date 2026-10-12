@@ -1,0 +1,33 @@
+{
+  "id": 335,
+  "batch": 14,
+  "filename": "Robert Simon - Echo.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Robert Simon - Echo.md",
+  "title": "Echo",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Robert Simon's Echo! is published by Alphonse Leduc as AL26306 for E-flat alto saxophone and piano.",
+  "evidence": [
+    {
+      "claim": "Presto's listing identifies Echo! for E-flat alto saxophone and piano, Leduc AL26306, Collection Rougeron.",
+      "url": "https://www.prestomusic.com/sheet-music/products/7375528--robert-simon-echo",
+      "source_name": "Presto Music listing",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inspect articulation, range and accompaniment interplay in the exact Leduc edition.",
+  "collection_flag": "Original saxophone/piano solo; no student or college placement established.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No notation or verified performance was inspected.",
+    "The retailer product page needs direct access confirmation."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Robert Simon Echo AL26306 score saxophone",
+    "Robert Simon Echo saxophone recording"
+  ]
+}

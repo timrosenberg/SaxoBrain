@@ -1,0 +1,43 @@
+{
+  "id": 95,
+  "batch": 4,
+  "filename": "Frederick Koch - Apocalyptic.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Frederick Koch - Apocalyptic.md",
+  "title": "Apocalyptic",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Frederick Koch’s *Apocalyptic* exists in separate Southern Music editions for soprano saxophone and piano (1995) and alto saxophone and piano (1996). The current catalog lists soprano, while its purchase link points to the alto edition; the underlying source material supports both editions, so the present mismatch is a catalog-link/instrument ambiguity rather than evidence that a soprano edition does not exist.",
+  "evidence": [
+    {
+      "claim": "Copyright record identifies a soprano saxophone and piano publication from 1995 and a separate alto saxophone and piano publication from 1996.",
+      "url": "https://www.copyrightencyclopedia.com/concertino-for-e-flat-alto-saxophone-piano-and-percussion/",
+      "source_name": "U.S. Copyright Office record transcription",
+      "kind": "institution",
+      "access": "opened"
+    },
+    {
+      "claim": "The current catalog’s Boosey link title describes the alto saxophone and piano edition; direct page was inaccessible during web retrieval.",
+      "url": "https://www.boosey.com/shop/prod/Koch-Frederick-Apocalyptic-for-alto-saxophone-piano/2254443",
+      "source_name": "Boosey & Hawkes product listing",
+      "kind": "publisher",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Two separately published saxophone editions are documented; intended audience and performance use are unknown.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No readable score, recording, duration, or publisher difficulty descriptor was found.",
+    "The exact soprano-edition item number and relationship to the alto-edition purchase link remain unverified."
+  ],
+  "proposed_corrections": [
+    "Keep soprano saxophone as a supported edition option; consider linking both distinct editions or disambiguating the current alto purchase link."
+  ],
+  "searches": [
+    "Frederick Koch Apocalyptic soprano saxophone piano Southern Music",
+    "Frederick Koch Apocalyptic alto saxophone piano Boosey publisher",
+    "Apocalyptic Koch soprano alto saxophone editions copyright"
+  ]
+}

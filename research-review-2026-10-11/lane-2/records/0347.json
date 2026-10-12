@@ -1,0 +1,48 @@
+{
+  "id": 347,
+  "batch": 14,
+  "filename": "Rudy Wiedoeft - Sax-O-Phun.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Rudy Wiedoeft - Sax-O-Phun.md",
+  "title": "Sax-O-Phun",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Tierolff's Sax-O-Phun is Rudy Wiedoeft's alto saxophone and piano study, subtitled Study in Laugh & Slap Tongue (SA2385). A one-page public saxophone preview was visually inspected.",
+  "evidence": [
+    {
+      "claim": "Tierolff listing identifies the title, scoring and subtitling.",
+      "url": "https://www.stretta-music.net/wiedoeft-sax-o-phun-nr-284857.html",
+      "source_name": "Stretta / Tierolff listing",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Public score preview shows alto saxophone line, laugh syllables and explicit slap-tongue notation.",
+      "url": "https://www.alle-noten.de/out/media/pdf/TRL-SA2385.pdf",
+      "source_name": "Tierolff score preview via Alle-Noten",
+      "kind": "score",
+      "access": "score_inspected"
+    }
+  ],
+  "score_observations": [
+    "The inspected one-page preview labels the solo Eb alto saxophone and piano accompaniment. It prints four opening laugh syllables, many later laugh cues and multiple slap-tongue marks; the displayed passage includes accented gestures, chromatic accidentals and rapid note movement. This is one preview page, not the full work."
+  ],
+  "review_focus": "Inspect full edition for tempo, range, rhythmic demands, and whether modern performer can execute indicated laugh/slap effects consistently.",
+  "collection_flag": "A virtuosic novelty-era solo whose effects are explicit in the score; it is not presented as a conventional lyrical study.",
+  "listening": [],
+  "score_links": [
+    {
+      "url": "https://www.alle-noten.de/out/media/pdf/TRL-SA2385.pdf",
+      "description": "Public score preview shows alto saxophone line, laugh syllables and explicit slap-tongue notation.",
+      "inspected": true
+    }
+  ],
+  "gaps": [
+    "Only the first sample page was accessible; no contrasting late passage or full range inspected.",
+    "No verified saxophone recording was auditioned."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Rudy Wiedoeft Sax-O-Phun Tierolff sample score",
+    "Sax-O-Phun Wiedoeft saxophone piano recording"
+  ]
+}

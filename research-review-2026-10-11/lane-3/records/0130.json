@@ -1,0 +1,71 @@
+{
+  "id": 130,
+  "batch": 6,
+  "filename": "Gérard Gasparian - Fantaisie.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Gérard Gasparian - Fantaisie.md",
+  "title": "Fantaisie",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Éditions Combre C05757 is Gérard Gasparian’s Fantaisie for soprano saxophone and piano. The assigned catalog lists only soprano saxophone; the publisher-distributor catalog and a French music-school federation syllabus independently confirm piano accompaniment. This is an evidence-backed instrumentation correction proposal, not a catalog edit.",
+  "evidence": [
+    {
+      "claim": "Official catalog result identifies G. Gasparian, Fantaisie, soprano saxophone and piano, C05757. Direct PDF opening returned HTTP 403; the catalog entry is supported by the official PDF search index and the separate FFEA syllabus.",
+      "url": "https://www.henry-lemoine.com/assets/pdf/CATASAX.pdf",
+      "source_name": "Éditions Combre catalog hosted by Henry Lemoine",
+      "kind": "publisher",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "French Federation of Music Schools 2022 syllabus places Fantaisie C05757 in a soprano saxophone Cycle III CEM repertoire list.",
+      "url": "https://www.federation-ffea.fr/medias/download/ffea_2022_saxophone-soprano-et-tenor.pdf",
+      "source_name": "Fédération Française de l’Enseignement Artistique syllabus",
+      "kind": "pedagogy",
+      "access": "opened"
+    },
+    {
+      "claim": "Retail listing identifies Combre C05757 as soprano saxophone with piano accompaniment and advertises a preview. The product page could not be opened in the web client, and the notation was not inspected.",
+      "url": "https://www.sheetmusicplus.com/en/product/fantaisie-19508928.html",
+      "source_name": "Sheet Music Plus",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "The syllabus documents Cycle III CEM use; this is a French institutional placement and not a SaxoBrain level. Review the score for soprano-specific range, breath planning and piano coordination.",
+  "collection_flag": "French music-school syllabus lists the work in its Cycle III CEM soprano-saxophone repertoire.",
+  "listening": [],
+  "score_links": [
+    {
+      "url": "https://www.sheetmusicplus.com/en/product/fantaisie-19508928.html",
+      "description": "Retailer page advertises a preview; its notation images were not opened or inspected.",
+      "inspected": false
+    }
+  ],
+  "gaps": [
+    "Retail page advertises a preview, but it could not be opened (web cache miss) and the official catalog PDF returned HTTP 403; no notation was inspected.",
+    "The syllabus entry establishes institutional repertoire use, not US college programming."
+  ],
+  "proposed_corrections": [
+    {
+      "field": "instruments",
+      "current": [
+        "Soprano Saxophone"
+      ],
+      "suggested": [
+        "Soprano Saxophone",
+        "Piano"
+      ],
+      "reason": "Combre catalog and French Federation syllabus identify the C05757 Fantaisie as a soprano saxophone work with piano accompaniment.",
+      "evidence_urls": [
+        "https://www.henry-lemoine.com/assets/pdf/CATASAX.pdf",
+        "https://www.federation-ffea.fr/medias/download/ffea_2022_saxophone-soprano-et-tenor.pdf"
+      ]
+    }
+  ],
+  "searches": [
+    "Gérard Gasparian Fantaisie C05757 soprano saxophone piano score",
+    "CATASAX Gasparian Fantaisie C05757",
+    "FFEA 2022 soprano saxophone C05757",
+    "Sheet Music Plus Fantaisie Gasparian preview"
+  ]
+}

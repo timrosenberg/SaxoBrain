@@ -1,0 +1,42 @@
+{
+  "id": 129,
+  "batch": 6,
+  "filename": "Guy Lacour - Ballade pour Georges.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Guy Lacour - Ballade pour Georges.md",
+  "title": "Ballade pour Georges",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Billaudot distinguishes Ballade pour Georges for alto saxophone and piano (GB6014) from the orchestral/string version (GB6013). The specific details found for the piano reduction came from an uploaded scan of a Lacour catalog and remain provisional until checked against the publisher edition.",
+  "evidence": [
+    {
+      "claim": "Billaudot’s official page identifies the orchestral/string version GB6013, not the piano reduction.",
+      "url": "https://www.billaudot.com/ballade-pour-georges-saxophone-et-orchestre-a-cordes.html",
+      "source_name": "Éditions Billaudot",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "An uploaded Lacour catalog snippet indexes the 1994 alto saxophone/piano reduction, dedication to Daniel Gremelle, a 1995 first hearing, approximate 14:50 duration, and “degré supérieur”; underlying catalog provenance and edition were not authenticated.",
+      "url": "https://fr.scribd.com/document/475911890/lacourcatalogue-pdf",
+      "source_name": "Scribd user-uploaded catalog scan",
+      "kind": "reference",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "No review focus beyond verifying the piano-reduction version and its long-form structure until score or reliable performance evidence is available.",
+  "collection_flag": "Original saxophone work, according to a derivative catalog scan; official page surfaced for a separate orchestral version.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "Publisher page for piano reduction GB6014 was not located.",
+    "Duration, dedication, premiere, and the indexed “degré supérieur” description rely on an unverified uploaded catalog.",
+    "No score or verified recording inspected."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Guy Lacour Ballade pour Georges alto piano GB6014 publisher",
+    "Ballade pour Georges Lacour piano reduction score preview",
+    "Lacour catalogue Ballade pour Georges GB6014"
+  ]
+}

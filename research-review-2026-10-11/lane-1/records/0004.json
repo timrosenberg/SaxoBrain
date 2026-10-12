@@ -1,0 +1,72 @@
+{
+  "id": 4,
+  "batch": 1,
+  "filename": "Andreas Makris - Fantasy and Dance.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Andreas Makris - Fantasy and Dance.md",
+  "title": "Fantasy and Dance",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Andreas Makris's *Fantasy and Dance* is an alto saxophone work composed for Miller Sigmon for the 1974 Fourth World Saxophone Congress. The Greek Saxophone Library records an 11-minute, single-movement alto-and-piano edition and its premiere; a later publisher listing describes wind ensemble and string-orchestra/harp accompaniments, while a dealer notes those materials are rental items.",
+  "evidence": [
+    {
+      "claim": "Specialist saxophone library documents year, duration, alto/piano version, premiere, dedication, and lists specific review demands and college-level use; its difficulty designation is that site's assessment.",
+      "url": "https://hellenicsax.gr/works/110_fantasy_and_dance",
+      "source_name": "Hellenic Saxophone Library",
+      "kind": "institution",
+      "access": "opened"
+    },
+    {
+      "claim": "Publisher description confirms the Sigmon commission and wind or string/harp accompaniment versions.",
+      "url": "https://www.sheetmusicplus.com/en/product/fantasy-and-dance-22587255.html",
+      "source_name": "Sheet Music Plus, Lauren Keiser listing",
+      "kind": "retailer",
+      "access": "opened"
+    },
+    {
+      "claim": "IMSLP work list separates the 1974 piano, 1977 winds/harp, and 2000 strings/harp versions.",
+      "url": "https://imslp.org/wiki/Template%3AConcertante_Works_%28Makris%2C_Andreas%29",
+      "source_name": "IMSLP",
+      "kind": "institution",
+      "access": "opened"
+    },
+    {
+      "claim": "The Hellenic Saxophone Library page embeds a first-measures score excerpt, labels it Alto Saxophone and Piano, and identifies a YouTube video as the work performance resource.",
+      "url": "https://hellenicsax.gr/works/110_fantasy_and_dance",
+      "source_name": "Hellenic Saxophone Library",
+      "kind": "institution",
+      "access": "score_inspected"
+    }
+  ],
+  "score_observations": [
+    {
+      "observation": "Inspected the embedded opening incipit image. It is titled for alto saxophone and piano and marked Andante. The score explicitly says “Score in C,” so this visible score is in concert pitch rather than an alto transposed part. The saxophone begins with a sustained/slurred line and a gradual dynamic rise from pp toward mp over chordal piano attacks. This is an opening excerpt only; no complete range is inferred.",
+      "source_url": "https://hellenicsax.gr/files/scores/score_110.jpg?1791745440"
+    }
+  ],
+  "review_focus": "Inference from the page’s educational-aim list: check the specifically listed altissimo, accidentals, interval leaps, dynamic range, simple/asymmetrical/compound meters, rests and rhythmic variety, syncopation, ties, legato, and vibrato against the purchased edition. The source’s list is an external assessment, not an observed full-score analysis.",
+  "collection_flag": "Original congress commission for a professional saxophonist; no young-player transcription concern.",
+  "listening": [
+    {
+      "url": "https://www.youtube.com/watch?v=iTafPRAjOm4",
+      "description": "Makris Symphony Orchestra upload titled “A. Makris: Fantasy and Dance (European premiere),” featuring David Brutti and orchestra",
+      "verification": "title, channel and work identity visible on the embedded video; not auditioned"
+    }
+  ],
+  "score_links": [
+    {
+      "url": "https://hellenicsax.gr/files/scores/score_110.jpg?1791745440",
+      "description": "Hellenic Saxophone Library embedded opening incipit image, in concert pitch",
+      "inspected": true
+    }
+  ],
+  "gaps": [
+    "The library’s embedded page image is only the opening incipit, not a complete score; exact saxophone range and details later in the work remain unknown.",
+    "The library labels college-level study and enumerates educational aims. Its classification method is not documented, so use as a secondary pedagogical reference."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Andreas Makris Fantasy and Dance saxophone piano score recording",
+    "Fantasy and Dance Andreas Makris alto saxophone piano 1974",
+    "Opened Hellenic Saxophone Library record; inspected embedded score_110.jpg incipit and verified embedded video title/channel without playback."
+  ]
+}

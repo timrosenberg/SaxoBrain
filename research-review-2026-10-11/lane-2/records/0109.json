@@ -1,0 +1,70 @@
+{
+  "id": 109,
+  "batch": 5,
+  "filename": "Georgia Nicolaou - Fuego.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Georgia Nicolaou - Fuego.md",
+  "title": "Fuego",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Georgia Nicolaou, Fuego (2012), for tenor saxophone and piano, Donemus D21505, approximately six minutes. The composer describes it as a contemporary tango and credits Sari-Anna Ikonen (tenor saxophone) and Carol Ruiz Gandia (piano). The seven-page Donemus preview includes the performance note and selected score pages.",
+  "evidence": [
+    {
+      "claim": "Composer page identifies the 2012 tenor-saxophone/piano work, calls it a contemporary tango, and credits Sari-Anna Ikonen and Carol Ruiz Gandia.",
+      "url": "https://georgianicolaou.com/compositions/",
+      "source_name": "Georgia Nicolaou composer page",
+      "kind": "composer",
+      "access": "opened"
+    },
+    {
+      "claim": "Donemus preview identifies Fuego, tenor saxophone and piano, the D21505 number and c. 6-minute duration. Its note asks for frequent eye contact and says the saxophonist may turn toward the piano strings while sustaining notes.",
+      "url": "https://webshop.donemus.com/action/front/sheetmusic/21505",
+      "source_name": "Donemus public score preview",
+      "kind": "score",
+      "access": "score_inspected",
+      "page": "PDF pp. 1–2"
+    },
+    {
+      "claim": "Visual inspection of the opening and later pages shows a q=92 4/4 opening, rests and irregularly accented sax entries over initially sparse piano, later saxophone growl markings, an extended rubato section, dense piano chords, and a later 2/4 passage. These are excerpts, not a complete-part survey.",
+      "url": "https://webshop.donemus.com/action/front/sheetmusic/21505",
+      "source_name": "Donemus public score preview",
+      "kind": "score",
+      "access": "score_inspected",
+      "page": "PDF pp. 3, 7"
+    }
+  ],
+  "score_observations": [
+    {
+      "observation": "The q=92 opening is in 4/4 with irregular saxophone entries and rests while the piano begins with long rests. Later page 5 shows written “growl” indications, a long held high saxophone note, a “Tempo rubato” subsection, dense piano chord clusters, and a shift into 2/4. The performance note explicitly requests eye contact and allows the saxophonist to turn toward the piano strings during long notes.",
+      "url": "https://webshop.donemus.com/action/front/sheetmusic/21505",
+      "page": "PDF pp. 2–3, 7"
+    }
+  ],
+  "review_focus": "Inference from the score and performance note: review ensemble cueing around rests and rubato, tone control during the held-note piano-string effect, and transitions between notated meter/tempo sections. Full range is unknown from the selected pages.",
+  "collection_flag": "Original tenor saxophone/piano work with composer-identified performers and an explicit composer performance note.",
+  "listening": [
+    {
+      "url": "https://georgianicolaou.com/compositions/",
+      "description": "Composer page embeds Fuego performance by Sari-Anna Ikonen, tenor saxophone, and Carol Ruiz Gandia, piano.",
+      "verification": "Performance and credits verified on opened composer page; not auditioned."
+    }
+  ],
+  "score_links": [
+    {
+      "url": "https://webshop.donemus.com/action/front/sheetmusic/21505",
+      "description": "Seven-page public Donemus preview with cover, performance note, and five score pages; opening and later score pages visually inspected.",
+      "inspected": true
+    }
+  ],
+  "gaps": [
+    "The preview is partial; full written range and complete formal/technical demands remain unknown.",
+    "Composer-linked performance was identified, but audio was not auditioned.",
+    "No college/professional syllabus placement verified."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Georgia Nicolaou Fuego tenor saxophone piano Donemus",
+    "Opened composer work page and composer performance credits",
+    "Retrieved Donemus D21505 public preview; visually inspected PDF pp. 1–3 and 7",
+    "Searched composer page and Donemus record for performance/teaching context"
+  ]
+}

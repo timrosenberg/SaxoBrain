@@ -7,7 +7,7 @@ instruments:
   - "Soprano Saxophone"
   - "Harpsichord"
 composed: 2009
-year-of-study: 
+year-of-study: "Fourth Year"
 streaming: 
 purchase:
   - "https://webshop.donemus.nl/action/front/sheetmusic/16433"

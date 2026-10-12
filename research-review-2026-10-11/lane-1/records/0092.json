@@ -1,0 +1,54 @@
+{
+  "id": 92,
+  "batch": 4,
+  "filename": "François Combelle - Malbrough.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/François Combelle - Malbrough.md",
+  "title": "Malbrough",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "François Combelle’s *Malbrough: Thème et Variation* is a 1938 published work for E-flat alto saxophone and piano (Andrieu Frères). The current catalog’s discography lead reports that Marcel Mule recorded Combelle’s *Variations sur Malborough* with pianist Marcel Gaveau; alternate spellings appear across records.",
+  "evidence": [
+    {
+      "claim": "National Institute of Informatics/CiNii author catalog records *Malbrough: Thème et Variation* for alto saxophone and piano, published by Andrieu Frères in 1938.",
+      "url": "https://ci.nii.ac.jp/author/DA12260756",
+      "source_name": "CiNii Books author/work catalog",
+      "kind": "institution",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "UCSB discography record attributes a recording titled *Variations sur Malborough* to Marcel Mule, saxophone, Marcel Gaveau, piano, and François Combelle, arranger.",
+      "url": "https://adpprod1.library.ucsb.edu/index.php/matrix/refer/2000429261",
+      "source_name": "UCSB Discography of American Historical Recordings",
+      "kind": "institution",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "A saxophone specialist bibliography lists Combelle’s *Malbrough* (1938) among his works.",
+      "url": "https://kurisaxo.blogspot.com/2022/11/",
+      "source_name": "Kuri saxophone historical bibliography",
+      "kind": "secondary",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "The published title identifies a theme-and-variation form, but its variation count and notation are unknown until the score is consulted.",
+  "collection_flag": "Historical alto saxophone and piano work by saxophonist-composer François Combelle, with a documented Marcel Mule recording reference.",
+  "listening": [
+    {
+      "url": "https://adpprod1.library.ucsb.edu/index.php/matrix/refer/2000429261",
+      "description": "Historical discography entry for Marcel Mule and pianist Marcel Gaveau performing Combelle variations on Malbrough/Malborough.",
+      "verification": "record entry and credits identified; playback not auditioned"
+    }
+  ],
+  "score_links": [],
+  "gaps": [
+    "No score preview, variation count, duration, or musical demands were verified.",
+    "Title spelling varies between Malbrough and Malborough in catalog and recording records."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "François Combelle Malbrough Theme et Variation alto saxophone piano 1938",
+    "Marcel Mule Variations sur Malborough François Combelle record",
+    "Combelle Malbrough saxophone score"
+  ]
+}

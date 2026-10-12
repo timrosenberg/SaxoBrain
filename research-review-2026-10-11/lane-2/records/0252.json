@@ -1,0 +1,78 @@
+{
+  "id": 252,
+  "batch": 11,
+  "filename": "Mark-Anthony Turnage - Sarabande.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Mark-Anthony Turnage - Sarabande.md",
+  "title": "Sarabande",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Mark-Anthony Turnage, Sarabande for soprano saxophone and piano, Schott ED 12417, composed 1985, about four minutes. Schott’s public preview shows the title page, performance note, and score excerpts; its note documents the 1986 first performance and Park Lane Group commission.",
+  "evidence": [
+    {
+      "claim": "Schott identifies Sarabande for soprano saxophone and piano, ED 12417, composed 1985, duration 4 minutes, and labels the edition advanced.",
+      "url": "https://www.schott-music.com/en/sarabande-noc42226.html",
+      "source_name": "Schott Music publisher listing",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "The score preview’s performance note credits a Park Lane Group commission with Arts Council funding and first performance on 10 January 1986 by Martin Robertson (soprano saxophone) and Anthony Gray (piano) at Purcell Room, London. It states that saxophone and piano should be widely separated.",
+      "url": "https://www.schott-music.com/en/pdfpreview/index/view/id/503677",
+      "source_name": "Schott score preview, performance note",
+      "kind": "score",
+      "access": "score_inspected",
+      "page": "PDF p. 2"
+    },
+    {
+      "claim": "Visual inspection of the public preview shows a very slow, bell-like opening (quarter note = 60) with long saxophone tones and dense piano sonorities; a later excerpt includes a ritardando, contrasting piano activity, and extreme dynamic markings. This preview is partial and does not establish full range or complete form.",
+      "url": "https://www.schott-music.com/en/pdfpreview/index/view/id/503677",
+      "source_name": "Schott score preview",
+      "kind": "score",
+      "access": "score_inspected",
+      "page": "PDF pp. 4–5"
+    },
+    {
+      "claim": "ABRSM’s 2026 ARSM saxophone repertoire list includes Turnage’s Sarabande.",
+      "url": "https://www.abrsm.com.tw/diploma/from2024/music%20performance/ARSM/ABRSM%20Saxophone%20Performance%20ARSM%20Repertoire%20from%202026.pdf",
+      "source_name": "ABRSM ARSM saxophone repertoire from 2026",
+      "kind": "pedagogy",
+      "access": "opened",
+      "page": "printed p. 1"
+    },
+    {
+      "claim": "British Music Collection entry records performances/recording metadata in 1989 and 1994; audio not auditioned.",
+      "url": "https://britishmusiccollection.org.uk/index.php/score/sarabande-3",
+      "source_name": "British Music Collection",
+      "kind": "performer",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [
+    {
+      "observation": "The score excerpt opens at quarter note = 60 with a long saxophone line above widely spaced piano sonorities and a “Very Large Dark Bell” color instruction; the performance note asks for maximum physical separation of the players. Later excerpted systems show a ritardando, continued sustained saxophone writing, dense piano chords, and markings spanning very soft to forceful dynamics. These pages are selected excerpts, not a full-part range survey.",
+      "url": "https://www.schott-music.com/en/pdfpreview/index/view/id/503677",
+      "page": "PDF pp. 2, 4–5"
+    }
+  ],
+  "review_focus": "Inference from the visible excerpts: test control of slow sustained tone, intonation through long notes, dynamic span, and coordination across the deliberately separated saxophone and piano. The ARSM placement documents advanced diploma programming, without mapping it to a college year.",
+  "collection_flag": "Soprano saxophone/piano edition with a documented professional commission and first performance; included on ABRSM’s 2026 ARSM list.",
+  "listening": [],
+  "score_links": [
+    {
+      "url": "https://www.schott-music.com/en/pdfpreview/index/view/id/503677",
+      "description": "Public nine-page preview; performance note and selected notation pages visually inspected.",
+      "inspected": true
+    }
+  ],
+  "gaps": [
+    "The public preview is partial; complete form, full written range, and complete saxophone-part demands remain unknown.",
+    "The historical 1989 and 1994 recording/performance entries were not auditioned."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Mark-Anthony Turnage Sarabande soprano saxophone score",
+    "Opened Schott edition page and its publicly linked nine-page preview; inspected performance note and notation on PDF pp. 4–5",
+    "Opened ABRSM ARSM 2026 saxophone PDF and checked printed p. 1",
+    "Opened British Music Collection Sarabande entry for historical performance/recording metadata"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": 315,
+  "batch": 13,
+  "filename": "Randall Snyder - Sonata.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Randall Snyder - Sonata.md",
+  "title": "Sonata",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Randall Snyder’s Sonata is an alto saxophone and piano work published by Tritone Press and Tenuto Publications, code 494-00057. A publisher catalog confirms the edition; no duration or movement structure was found.",
+  "evidence": [
+    {
+      "claim": "The Presser/Fischer woodwind catalog lists Snyder, Sonata, no. 494-00057.",
+      "url": "https://www.tpcfassets.com/presser/catalogs/Presser_Fischer_Woodwind_catalog.pdf",
+      "source_name": "Theodore Presser / Carl Fischer catalog",
+      "kind": "publisher",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Tenuto/Tritone edition is listed in the university’s composer collection.",
+      "url": "https://digitalcommons.unl.edu/musicsnyder/",
+      "source_name": "University of Nebraska-Lincoln Digital Commons",
+      "kind": "institution",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Published saxophone/piano work; no intended audience evidence located.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No score or recording located.",
+    "Exact sonata date, movement titles, and demands remain unknown."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Randall Snyder Sonata saxophone Tenuto 494-00057",
+    "Presser Fischer Woodwind catalog Snyder",
+    "UNL Randall Snyder Sonata"
+  ]
+}

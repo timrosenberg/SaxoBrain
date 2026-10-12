@@ -1,0 +1,40 @@
+{
+  "id": 167,
+  "batch": 7,
+  "filename": "Jean Cras - Demain 1924.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Jean Cras - Demain 1924.md",
+  "title": "Demain 1924",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Jean Cras, Demain (Prélude et danse), 1924–26. Current saxophone duo repertoire sources identify an edition for soprano saxophone and piano (ed. Nicolas Prost); separate secondary sources describe a manuscript saxophone quartet, so these may be distinct scorings or versions.",
+  "evidence": [
+    {
+      "claim": "Professional saxophonist Pantelis Lykoudis lists Demain (ed. Nicolas Prost), dated 1924–26, for soprano saxophone and piano.",
+      "url": "https://pantelis-lykoudis.com/repertoire/",
+      "source_name": "Pantelis Lykoudis",
+      "kind": "performer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Wikipedia worklist describes a saxophone quartet manuscript under Prélude et danse: Demain; relation to the separately listed soprano/piano edition is not established.",
+      "url": "https://en.wikipedia.org/wiki/Jean_Cras",
+      "source_name": "Secondary reference work",
+      "kind": "reference",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Possible soprano saxophone and piano edition; source and relation to quartet manuscript remain uncertain.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No publisher, archive, score, or performance source found to establish whether the soprano/piano edition and the quartet manuscript are distinct scorings or versions."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Jean Cras Demain saxophone soprano piano Nicolas Prost edition",
+    "Jean Cras Demain saxophone quartet manuscript 1924 1926",
+    "Cras Demain saxophone score recording"
+  ]
+}

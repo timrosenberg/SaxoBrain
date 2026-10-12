@@ -1,0 +1,50 @@
+{
+  "id": 305,
+  "batch": 13,
+  "filename": "Pierre-Max DuBois - Olga-Valse.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Pierre-Max DuBois - Olga-Valse.md",
+  "title": "Olga-Valse",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Pierre-Max Dubois’s Olga-Valse is listed as an alto saxophone and piano work by Billaudot, code GB3419. The current catalog gives 1980, while a scholarly appendix gives 1982; the date conflict is unresolved.",
+  "evidence": [
+    {
+      "claim": "Music Shop Europe identifies composer, alto saxophone/piano instrumentation and Billaudot GB3419.",
+      "url": "https://www.musicshopeurope.nl/olga-valse-gb3419",
+      "source_name": "Music Shop Europe",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "UNAM thesis list gives a 1980 date.",
+      "url": "https://tesiunamdocumentos.dgb.unam.mx/ptd2016/junio/0746685/0746685.pdf",
+      "source_name": "UNAM thesis",
+      "kind": "institution",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "IPCB thesis appendix lists Olga Valse as 1982.",
+      "url": "https://repositorio.ipcb.pt/bitstreams/0f445fb4-8d44-49e5-bed2-bb11c6736eb1/download",
+      "source_name": "Polytechnic Institute of Castelo Branco thesis",
+      "kind": "institution",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Published saxophone/piano work; date varies across secondary scholarship.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No score or performance source located.",
+    "Publisher primary record for date not found."
+  ],
+  "proposed_corrections": [
+    "Keep composition date uncertain until primary score or composer record resolves 1980 versus 1982."
+  ],
+  "searches": [
+    "Pierre-Max Dubois Olga-Valse saxophone GB3419",
+    "UNAM Pierre Max Dubois Olga-Valse 1980",
+    "IPCB Pierre Max Dubois Olga Valse 1982"
+  ]
+}

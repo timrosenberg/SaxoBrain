@@ -1,0 +1,32 @@
+{
+  "id": 160,
+  "batch": 7,
+  "filename": "Jacques Offenbach - Waltz La Perichole.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Jacques Offenbach - Waltz La Perichole.md",
+  "title": "Waltz La Perichole",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Jacques Offenbach, Waltz from La Périchole, arranged for alto saxophone and piano by Forrest L. Buchtel, Kjos S440. Kjos labels the edition grade 1.5.",
+  "evidence": [
+    {
+      "claim": "Kjos publisher page identifies the Buchtel arrangement, alto saxophone and piano, catalog S440, and publisher grade 1.5.",
+      "url": "https://kjos.com/waltz-from-la-perichole-8741.html",
+      "source_name": "Kjos",
+      "kind": "publisher",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "A publisher-arranged excerpt from Offenbach’s opera-bouffe. The publisher grade is contextual evidence, not a SaxoBrain placement.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No preview or saxophone performance was verified; score demands remain unknown."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Kjos Waltz La Perichole Offenbach Buchtel S440 preview",
+    "Offenbach La Perichole Waltz alto saxophone recording"
+  ]
+}

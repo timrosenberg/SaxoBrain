@@ -1,0 +1,39 @@
+{
+  "id": 152,
+  "batch": 7,
+  "filename": "Hermann Reutter - Elegie.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Hermann Reutter - Elegie.md",
+  "title": "Elegie",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Hermann Reutter, Élégie for E-flat alto saxophone and piano, Alphonse Leduc AL21768; retailer listing gives 3 pages.",
+  "evidence": [
+    {
+      "claim": "Alphonse Leduc’s catalog identifies the E-flat saxophone and piano edition AL21768.",
+      "url": "https://casamusicaledelrio.it/casamusicale/wp-content/uploads/2019/04/CAT-18-107-Leduc-Catalogue-2018-ss-GS-v6-NO-CROPS-LO-RESv2.pdf",
+      "source_name": "Leduc catalog",
+      "kind": "publisher",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "A current listing identifies AL21768 and the 3-page score.",
+      "url": "https://www.prestomusic.com/sheet-music/products/7377502--reutter-elegie",
+      "source_name": "Presto Music",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "unknown",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No accessible score, performance recording, or pedagogical placement located."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Hermann Reutter Elegie AL21768 alto saxophone score",
+    "Reutter Elegie saxophone AL21768 recording"
+  ]
+}

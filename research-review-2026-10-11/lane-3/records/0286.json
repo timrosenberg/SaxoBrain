@@ -1,0 +1,37 @@
+{
+  "id": 286,
+  "batch": 12,
+  "filename": "Philippe Gaubert - Allegretto.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Philippe Gaubert - Allegretto.md",
+  "title": "Allegretto",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Dorn DORN2009 identifies Philippe Gaubert’s Allegretto, transcribed by Marty Lenard for alto saxophone and piano. The work is a transcription, but the original instrument/work identity was not confirmed from an authoritative source in this pass.",
+  "evidence": [
+    {
+      "claim": "Catalog lead identifies transcription by Marty Lenard, DORN2009.",
+      "url": "https://www.grothmusic.com/p-141745.aspx",
+      "source_name": "Groth Music Dorn listing",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Compare the saxophone arrangement with its original score once identified; review range, breathing and piano texture in the saxophone edition.",
+  "collection_flag": "Transcription/arrangement according to retailer metadata; source work and specific adaptation remain unknown.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "Original instrumentation/source title and edition not independently verified.",
+    "No score or recording located."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Philippe Gaubert Allegretto saxophone Marty Lenard DORN2009 recording score",
+    "Gaubert Allegretto original saxophone piano",
+    {
+      "query": "Philippe Gaubert Allegretto Marty Lenard DORN2009 original instrument",
+      "checked": "Exact title/arranger and original-work searches did not establish the source instrument or a matching score preview; keep transcription credit qualified to retailer metadata."
+    }
+  ]
+}

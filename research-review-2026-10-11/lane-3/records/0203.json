@@ -1,0 +1,40 @@
+{
+  "id": 203,
+  "batch": 9,
+  "filename": "John Russo - Three Ostinati.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/John Russo - Three Ostinati.md",
+  "title": "Three Ostinati",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "The local work file attributes Three Ostinati to John Russo and lists Dorn DORN0192 for alto saxophone and piano. The linked Groth listing was not independently retrieved this pass. Search results for “Three Ostinatos” surfaced Roger Zare’s unrelated ensemble work, which was excluded.",
+  "evidence": [
+    {
+      "claim": "Existing catalog listing identifies DORN0192.",
+      "url": "https://www.grothmusic.com/p-146055.aspx",
+      "source_name": "Existing catalog lead, Groth Music URL",
+      "kind": "existing_catalog_lead",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "A distinct Three Ostinatos by Roger Zare for variable ensemble; not evidence about John Russo’s work.",
+      "url": "https://rogerzare.com/ostinatos.htm",
+      "source_name": "Roger Zare composer website",
+      "kind": "composer",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Work-specific technical review remains pending access to the matching score or a verified performance.",
+  "collection_flag": "Current title is close to a different composer’s similarly named work; do not merge their evidence.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "DORN0192 work-specific score, duration, and recording remain unavailable."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "John Russo Three Ostinati DORN0192 saxophone piano score",
+    "Three Ostinati Russo saxophone recording",
+    "Three Ostinatos Roger Zare saxophone"
+  ]
+}

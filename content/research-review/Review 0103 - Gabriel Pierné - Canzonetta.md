@@ -1,0 +1,43 @@
+---
+title: "Review 0103: Gabriel Pierné - Canzonetta"
+added: 2026-10-11
+review-id: 103
+review-packet: 5
+review-decision: Pending
+review-applied: false
+notation-inspected: false
+catalog-entry: "[[Gabriel Pierné - Canzonetta]]"
+build:
+  render: never
+  list: never
+  publishResources: false
+---
+
+# Review 0103: Gabriel Pierné - Canzonetta
+
+[[Research Review|Review hub]] · [[Research Packet 05|Packet 05]]
+
+> [!info] Your Decision
+> Record your choice in `review-decision`, or give it to Codex in chat using this work’s number. The catalog changes only when you ask Codex to apply the decision or edit the catalog entry yourself.
+
+## Research
+
+Catalog entry: [[Gabriel Pierné - Canzonetta]].
+
+Gabriel Pierné, Canzonetta Op. 19, available in a Marcel Mule alto saxophone/piano transcription and in other saxophone arrangements including tenor/soprano versions. The catalog’s alto edition is distinct from Harry Gee’s tenor edition.
+[Wise Music Classical](https://www.wisemusicclassical.com/work/51527/Canzonetta--Gabriel-Piern%C3%A9/) (opened): Wise Music lists Op. 19 with an alto saxophone and piano alternative instrumentation, duration 3:40.
+[ABRSM ARSM saxophone repertoire from 2026](https://www.abrsm.com.tw/diploma/from2024/music%20performance/ARSM/ABRSM%20Saxophone%20Performance%20ARSM%20Repertoire%20from%202026.pdf) (opened, printed p. 1): ABRSM’s 2026 ARSM saxophone repertoire list names Pierné Canzonetta, transcribed by Marcel Mule and published by Leduc, distinguishing this advanced-diploma arrangement from other sax versions.
+[CiNii Books catalog](https://ci.nii.ac.jp/ncid/BA41980843) (search_index_only): CiNii catalogue record identifies the title in a saxophone/piano edition record; exact edition/instrument metadata should be checked against the separate Wise Music and ABRSM sources.
+
+Collection/transcription context: The cataloged alto saxophone edition is a Marcel Mule transcription; separate tenor/soprano arrangements exist. ABRSM lists the Mule/Leduc version in its current 2026 ARSM repertoire.
+
+Review focus: Inference from verified arrangement and ARSM listing: use the edition-specific Mule part and score to assess articulation, phrase shaping, and written range; no notation has been inspected. The ARSM placement signals advanced diploma repertoire, not a college-year mapping.
+
+Open questions: No accessible saxophone notation was inspected; exact technical demands and written range remain unknown. A matching saxophone performance was not verified or auditioned.
+
+Searches checked:
+- Gabriel Pierné Canzonetta Marcel Mule saxophone piano Leduc score
+- Opened Wise Music Classical work page for edition/arrangement leads
+- Opened ABRSM ARSM 2026 saxophone list and checked the exact Pierné/Mule/Leduc entry
+- Checked CiNii Books record BA41980843; its edition details are not used to override publisher/ABRSM specificity
+- Searched for score preview and performance recording for the Mule alto arrangement

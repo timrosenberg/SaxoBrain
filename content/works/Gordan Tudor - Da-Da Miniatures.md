@@ -7,7 +7,7 @@ instruments:
   - "Tenor Saxophone"
   - "Piano"
 composed: 2007
-year-of-study: 
+year-of-study: "Second-Year"
 streaming: 
 purchase:
   - "https://webshop.donemus.nl/action/front/sheetmusic/16432"

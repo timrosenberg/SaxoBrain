@@ -1,0 +1,56 @@
+{
+  "id": 368,
+  "batch": 15,
+  "filename": "Thom David Mason - Canzone Da Sonar.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Thom David Mason - Canzone Da Sonar.md",
+  "title": "Canzone Da Sonar",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Retailer listings identify Thom David Mason’s Canzone Da Sonar (Southern ST72) for alto saxophone and piano. Bergeron’s 2020 multiphonics reference lists the 1974 work and multiple coded multiphonic fingerings; the score edition itself remains uninspected.",
+  "evidence": [
+    {
+      "claim": "Retailer catalog lists title, scoring, and two score copies.",
+      "url": "https://www.grothmusic.com/p-143005.aspx",
+      "source_name": "Groth Music",
+      "kind": "retailer",
+      "access": "opened"
+    },
+    {
+      "claim": "A saxophone retailer lists the title and identifies Mason as a USC jazz studies professor and saxophonist.",
+      "url": "https://vcisinc.com/saxophonemusic.htm",
+      "source_name": "Vcis Inc",
+      "kind": "retailer",
+      "access": "opened"
+    },
+    {
+      "claim": "Bergeron’s saxophone multiphonics reference lists Mason’s 1974 Canzone da Sonar and provides coded multiphonic fingering references. This documents extended-technique use in a technical reference, not exact notation or frequency in a score.",
+      "url": "https://tombergeron.us/download/sax-multiphonics.pdf",
+      "source_name": "Tom Bergeron, Saxophone Multiphonics: A Scalar Model, 3rd ed. (2020), printed p. 87",
+      "kind": "reference",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inspect the score to establish the multiphonics and any other extended techniques, their notation, context, and practical demands.",
+  "collection_flag": "unknown",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "The technical reference documents multiphonic fingerings associated with the work but does not establish their exact placement or number in this edition. No matching score preview or verified performance recording was found."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    {
+      "query": "Thom David Mason Canzone Da Sonar ST72 score",
+      "checked": "Search returned Groth and VCIS retailer listings and Bergeron’s multiphonics reference; no official Southern product page found."
+    },
+    {
+      "query": "Canzone Da Sonar saxophone recording",
+      "checked": "Search results did not identify a matching saxophone performance recording; exact-title searches surfaced unrelated works."
+    },
+    {
+      "query": "Southern ST72 Thom David Mason",
+      "checked": "Southern Music’s current catalog search did not return an ST72 item page; retailer listing supplies the number and instrumentation."
+    }
+  ]
+}

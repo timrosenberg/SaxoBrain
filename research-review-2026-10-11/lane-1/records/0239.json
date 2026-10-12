@@ -1,0 +1,50 @@
+{
+  "id": 239,
+  "batch": 10,
+  "filename": "Léon Jongen - Piccoli.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Léon Jongen - Piccoli.md",
+  "title": "Piccoli",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Léon Jongen’s Piccoli is a two-movement alto saxophone and piano work; an institutional library catalog describes the score as for cello or alto saxophone and piano. A dissertation gives the movement labels “Pseudo vals” and “Pseudo rag” and dates it 1931.",
+  "evidence": [
+    {
+      "claim": "Royal Conservatoire Antwerp library catalog identifies Piccoli for cello or E-flat alto saxophone and piano, with dedication to Maurice Dambois.",
+      "url": "https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf",
+      "source_name": "Royal Conservatoire Antwerp library catalog",
+      "kind": "institution",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "UPV dissertation describes the saxophone/piano version, 1931 date and two movement labels.",
+      "url": "https://riunet.upv.es/bitstream/handle/10251/4337/tesisUPV2925.pdf",
+      "source_name": "Universitat Politècnica de València dissertation",
+      "kind": "institution",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Dorn/Andel catalog lead identifies publisher code ANDEL07 and 20 pages.",
+      "url": "https://www.grothmusic.com/p-142040.aspx",
+      "source_name": "Groth Music",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference: the dissertation’s ragtime description for the second movement supports checking its rhythmic articulation and style against the preceding pseudo-waltz.",
+  "collection_flag": "The institutional catalog lists cello or E-flat alto saxophone with piano. This establishes an alternate-instrument edition, but not which instrument was original.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No notation or recording inspected.",
+    "Exact publisher imprint and instrument provenance remain unverified in a primary catalog."
+  ],
+  "proposed_corrections": [
+    "Qualify saxophone edition as an alternative to cello, according to institutional library catalog."
+  ],
+  "searches": [
+    "Léon Jongen Piccoli saxophone cello piano ANDEL07",
+    "Royal Conservatoire Antwerp Piccoli Jongen",
+    "UPV Jongen Piccoli second movement ragtime"
+  ]
+}

@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 2016
-year-of-study: 
+year-of-study: "Fourth Year"
 arranger-edition: 
 publisher:
   - "Zen-On"

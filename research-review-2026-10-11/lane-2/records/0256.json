@@ -1,0 +1,42 @@
+{
+  "id": 256,
+  "batch": 11,
+  "filename": "Mary Morrison Dixon - Southern Soliloquies.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Mary Morrison Dixon - Southern Soliloquies.md",
+  "title": "Southern Soliloquies",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Dorn Publications’ catalog lists Southern Soliloquies by Dixon in its alto saxophone and piano section as order 752. The listing gives only the surname, so the match to the catalog’s full composer name Mary Morrison Dixon remains plausible but not independently resolved from this source. No notation preview is provided.",
+  "evidence": [
+    {
+      "claim": "Dorn Publications’ April 2025 catalog lists Southern Soliloquies by Dixon, order 752, under “Alto Saxophone and Piano.” The catalog entry does not print the composer’s full name and contains no notation.",
+      "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+      "source_name": "Dorn Publications, April 2025 catalog (hosted by Groth Music)",
+      "kind": "publisher",
+      "access": "opened",
+      "page": "PDF p. 5 / catalog index p. 4"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Verify the full composer name against the printed edition, then inspect score and performance sources for musical demands.",
+  "collection_flag": "Dorn lists the work for alto saxophone and piano. No intended age group or pedagogical placement is documented in this catalog.",
+  "listening": [],
+  "score_links": [
+    {
+      "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+      "description": "Publisher catalog entry identifies the work and instrumentation; no notation preview.",
+      "inspected": false
+    }
+  ],
+  "gaps": [
+    "The catalog gives the composer surname Dixon but not the full name; correspondence to Mary Morrison Dixon remains unconfirmed from this source.",
+    "No score notation, duration, recording, or specific pedagogical use was verified."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Mary Morrison Dixon Southern Soliloquies saxophone",
+    "Southern Soliloquies Mary Morrison Dixon alto saxophone piano publisher",
+    "Mary Morrison Dixon Southern Soliloquies score recording",
+    "Opened Dorn Publications April 2025 catalog PDF and checked the Alto Saxophone and Piano section, PDF p. 5 / catalog index p. 4"
+  ]
+}

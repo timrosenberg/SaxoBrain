@@ -1,0 +1,69 @@
+{
+  "id": 116,
+  "batch": 5,
+  "filename": "Gioachino Rossini - Cavatine from Semiramis.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Gioachino Rossini - Cavatine from Semiramis.md",
+  "title": "Cavatine from Semiramis",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Rossini, Cavatine from Semiramide, in the J.J. Lispet/Tierolff P21 edition arranged by André Lemarc for alto saxophone and piano. Publisher metadata identifies two pages and a grade-3 label; the opened score preview supplies direct notation evidence.",
+  "evidence": [
+    {
+      "claim": "Opened Tierolff/J.J. Lispet product page identifies Cavatine from Semiramide, item P21, by Rossini, arranged by André Lemarc; scoring includes soprano or alto saxophone (or trumpet), and publisher identifies a grade-3 category. The linked public two-page preview was separately inspected.",
+      "url": "https://tierolff.nl/en/cavatine-uit-de-opera-semiramis-p21.html",
+      "source_name": "Tierolff / J.J. Lispet product page",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Escalated public retrieval of the publisher-linked two-page preview; visual inspection confirms alto saxophone and piano. The opening is Andante grazioso in 6/8; the saxophone enters after active piano arpeggiation with a rapid high-register slurred run and quasi-recitative gestures. Page 2 includes loud rapid runs with sextuplets and fermatas, then a quieter cantabile line over active arpeggiation. Written range and pitch convention were not determined.",
+      "url": "https://tierolff.nl/media/unicode/unifile/attach/cavatine-semiramide-p21.pdf",
+      "source_name": "Tierolff/J.J. Lispet score preview",
+      "kind": "score",
+      "access": "score_inspected",
+      "page": "PDF pp. 1–2"
+    }
+  ],
+  "score_observations": [
+    {
+      "observation": "The alto saxophone part begins after piano arpeggiation in Andante grazioso 6/8, then enters with a high slurred run and quasi-recitative gestures marked by fermatas/quintuplets. Page 2 has f rapid runs including sextuplets and fermatas, followed by a quieter cantabile line with ornaments over active piano arpeggiation. The two-page preview is not the complete work; no full-range or pitch-convention claim is made.",
+      "url": "https://tierolff.nl/media/unicode/unifile/attach/cavatine-semiramide-p21.pdf",
+      "page": "PDF pp. 1–2"
+    }
+  ],
+  "review_focus": "Inference from the inspected pages: coordinate the soloist’s quasi-recitative flexibility and fast subdivisions with the piano’s continuous arpeggiated texture, then contrast the ff run passages with the quieter cantabile section.",
+  "collection_flag": "A published operatic transcription with ornamented quasi-recitative and cantabile writing visible in the excerpt; no younger-player marketing was confirmed.",
+  "listening": [],
+  "score_links": [
+    {
+      "url": "https://tierolff.nl/media/unicode/unifile/attach/cavatine-semiramide-p21.pdf",
+      "description": "Tierolff public score preview, two pages; visually inspected.",
+      "inspected": true
+    }
+  ],
+  "gaps": [
+    "Only two preview pages were inspected; full written range and work-wide demands remain unknown.",
+    "The score preview does not establish written pitch convention.",
+    "No matching saxophone performance was auditioned."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    {
+      "query": "Rossini Cavatine Semiramide saxophone Lispet P21 score preview",
+      "checked": "Targeted web search; results reviewed for exact edition, publisher, score, recording, and teaching context; unrelated instrument/edition results excluded."
+    },
+    {
+      "query": "Rossini Semiramide Cavatine soprano alto saxophone Tierolff P21",
+      "checked": "Targeted web search; results reviewed for exact edition, publisher, score, recording, and teaching context; unrelated instrument/edition results excluded."
+    },
+    {
+      "query": "Cavatine Semiramide saxophone recording",
+      "checked": "Targeted web search; results reviewed for exact edition, publisher, score, recording, and teaching context; unrelated instrument/edition results excluded."
+    },
+    {
+      "query": "Rossini Cavatine from Semiramide saxophone arrangement Lemarc",
+      "checked": "Targeted web search; results reviewed for exact edition, publisher, score, recording, and teaching context; unrelated instrument/edition results excluded."
+    },
+    "Opened Tierolff product and visually inspected its public two-page PDF preview after public retrieval."
+  ]
+}

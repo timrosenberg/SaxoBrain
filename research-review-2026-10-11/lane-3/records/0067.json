@@ -1,0 +1,53 @@
+{
+  "id": 67,
+  "batch": 3,
+  "filename": "David Jex - Alto Adventure.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/David Jex - Alto Adventure.md",
+  "title": "Alto Adventure",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "David Jex’s Alto Adventure is an original short alto saxophone and piano work for Lynn Klock, available from Wingert-Jones. A recording by Lynn Klock with the Virginia Wind Symphony appears on Links: New Concertos for Saxophone and Wind Ensemble, apparently a wind-ensemble performance; keep this separate from the piano edition.",
+  "evidence": [
+    {
+      "claim": "Retailer describes a brief work for alto sax and piano with driving accompaniment, lyrical upper-register melodies, technical passages, and a fast build to a close; composed for Lynn Klock.",
+      "url": "https://www.prestomusic.com/sheet-music/products/9526415--jex-d-alto-adventure",
+      "source_name": "Presto Music/Wingert-Jones edition record",
+      "kind": "retailer",
+      "access": "opened"
+    },
+    {
+      "claim": "Wingert-Jones lists Alto Adventure among David Jex works.",
+      "url": "https://wingertjones.com/composers/david-jex/",
+      "source_name": "Wingert-Jones Publications",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Spotify identifies a 5:41 recording by David Jex, performed by Lynn Klock and Virginia Wind Symphony, on a wind-ensemble concerto album.",
+      "url": "https://open.spotify.com/track/0MoHArSnwTsjPDfppRdX7X",
+      "source_name": "Spotify recording metadata",
+      "kind": "performer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference from edition description: upper-register singing tone, contrast between lyric and virtuosic passages, stamina into accelerated ending, and piano coordination deserve review.",
+  "collection_flag": "Original work written for a university saxophonist; known piano edition and separate wind-ensemble recording demonstrate performance options.",
+  "listening": [
+    {
+      "url": "https://open.spotify.com/track/0MoHArSnwTsjPDfppRdX7X",
+      "description": "Lynn Klock with Virginia Wind Symphony, 5:41; wind-ensemble recording.",
+      "verification": "Track and credits listed; audio not auditioned."
+    }
+  ],
+  "score_links": [],
+  "gaps": [
+    "No score preview inspected.",
+    "Piano edition and wind-ensemble recording relationship should be confirmed against the solo part."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "David Jex Alto Adventure alto saxophone score recording",
+    "Alto Adventure Lynn Klock piano edition wind ensemble"
+  ]
+}

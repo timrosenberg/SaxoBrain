@@ -1,0 +1,40 @@
+{
+  "id": 276,
+  "batch": 12,
+  "filename": "Pascal Proust - Strophes.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Pascal Proust - Strophes.md",
+  "title": "Strophes",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Pascal Proust’s Strophes is an alto saxophone and piano work, three movements, about six minutes, classified by the composer as Cycle 2/intermediate. The local listing carries Leduc AL29593. The composer’s site is the strongest evidence for duration and pedagogy.",
+  "evidence": [
+    {
+      "claim": "Alto sax/piano; three movements; six minutes; Cycle 2 (intermediate).",
+      "url": "https://www.pascal-proust.fr/catalogue/bois/saxophone/saxophone-et-piano/strophes/",
+      "source_name": "Pascal Proust composer website",
+      "kind": "composer",
+      "access": "opened"
+    },
+    {
+      "claim": "Leduc AL29593, alto saxophone and piano, 10 pages.",
+      "url": "https://www.prestomusic.com/sheet-music/products/7381285--pascal-proust-strophes",
+      "source_name": "Presto Music retailer",
+      "kind": "retailer",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Review three-movement contrast, score range and piano coordination; composer’s Cycle 2 label is separate from SaxoBrain.",
+  "collection_flag": "Composer’s site gives Cycle 2/intermediate classification; no inferred audience age.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No notation pages or verified recording inspected.",
+    "The composer’s and retailers’ page-count/duration details should be confirmed against score/performance."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Pascal Proust Strophes AL29593 saxophone score recording",
+    "Pascal Proust Strophes composer page 3 movements 6 minutes"
+  ]
+}

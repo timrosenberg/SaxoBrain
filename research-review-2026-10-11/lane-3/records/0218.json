@@ -1,0 +1,32 @@
+{
+  "id": 218,
+  "batch": 9,
+  "filename": "Kenneth Walicki - Rhapsody.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Kenneth Walicki - Rhapsody.md",
+  "title": "Rhapsody",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "The local work file identifies Kenneth Walicki’s Rhapsody as Dorn DORN0204 for alto saxophone and piano. The linked retailer listing was not independently retrieved this pass.",
+  "evidence": [
+    {
+      "claim": "Catalog lead identifies DORN0204.",
+      "url": "https://www.grothmusic.com/p-146140.aspx",
+      "source_name": "Existing catalog lead, Groth Music URL",
+      "kind": "existing_catalog_lead",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inspect a matching score or authenticated performance before describing form or instrument-specific demands.",
+  "collection_flag": "Cataloged as saxophone and piano; original-versus-arrangement status remains unverified.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No work-specific score, duration, recording, or pedagogical use found."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Kenneth Walicki Rhapsody DORN0204 saxophone piano score recording",
+    "Kenneth Walicki Rhapsody alto saxophone"
+  ]
+}

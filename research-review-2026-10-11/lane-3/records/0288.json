@@ -1,0 +1,45 @@
+{
+  "id": 288,
+  "batch": 12,
+  "filename": "Philippe Portejoie - Petite Complainte.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Philippe Portejoie - Petite Complainte.md",
+  "title": "Petite Complainte",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Alphonse Leduc AL29785 identifies Philippe Portejoie’s Petite complainte for alto saxophone and piano, published 2007. A retailer’s French classification says “end of first cycle,” a contextual pedagogical placement rather than a SaxoBrain level.",
+  "evidence": [
+    {
+      "claim": "Identifies alto saxophone and piano, AL29785, 2007, and “fin de 1er cycle” classification.",
+      "url": "https://www.stretta-music.net/portejoie-petite-complainte-nr-431201.html",
+      "source_name": "Stretta Music retailer",
+      "kind": "retailer",
+      "access": "opened"
+    },
+    {
+      "claim": "Catalog search snippet lists the work for alto saxophone and piano.",
+      "url": "https://www.halleonard.com/bin/ALPHONSE%20LEDUC%20catalog.pdf",
+      "source_name": "Alphonse Leduc catalog",
+      "kind": "publisher",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference from the retailer-reported “end of first cycle” placement: compare the work with other repertoire at that local French cycle boundary after inspecting its notation. This label is not a SaxoBrain level.",
+  "collection_flag": "End-of-first-cycle pedagogical marking reported by retailer; not a SaxoBrain year or level.",
+  "listening": [
+    {
+      "url": "https://www.stretta-music.net/portejoie-petite-complainte-nr-431201.html",
+      "description": "Retailer edition listing, no playback.",
+      "verification": "Recording/product metadata checked; playback not auditioned"
+    }
+  ],
+  "score_links": [],
+  "gaps": [
+    "No score notation or performance recording located."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Philippe Portejoie Petite Complainte AL29785 alto saxophone piano",
+    "Petite complainte fin de premier cycle"
+  ]
+}

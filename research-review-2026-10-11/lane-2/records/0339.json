@@ -1,0 +1,40 @@
+{
+  "id": 339,
+  "batch": 14,
+  "filename": "Roger C. Vogel - Concerto.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Roger C. Vogel - Concerto.md",
+  "title": "Concerto",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Dorn's 2024 catalog identifies Roger Vogel's Concerto for Alto Saxophone and Winds, order 442; the catalog entry describes the target Dorn 0201 work as piano reduction, but the listing was not independently opened.",
+  "evidence": [
+    {
+      "claim": "Dorn catalog lists Vogel's Concerto for Alto Saxophone and Winds.",
+      "url": "https://www.grothmusic.com/images/DP%20Catalog%20Nov%202024.pdf",
+      "source_name": "Dorn Publications catalog hosted by Groth Music",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "American Composers Alliance search result identifies Roger Vogel's Concerto and a piano version; page retrieval failed.",
+      "url": "https://composers.com/products/vogel-concerto-piano",
+      "source_name": "American Composers Alliance",
+      "kind": "publisher",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Compare piano reduction with wind-ensemble original; inspect solo part for range, endurance, articulation and cadenza demands.",
+  "collection_flag": "Concerto with wind-ensemble origin is suggested by Dorn's catalog; college suitability is not assigned.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "The commission/dedication, date, reduction details and page count in older catalog note remain unverified.",
+    "No score or recording inspected."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Roger Vogel Concerto Dorn 0201 saxophone piano",
+    "American Composers Alliance Roger Vogel Concerto piano"
+  ]
+}

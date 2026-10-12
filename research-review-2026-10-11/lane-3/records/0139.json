@@ -1,0 +1,49 @@
+{
+  "id": 139,
+  "batch": 6,
+  "filename": "Harald Genzmer - Sonatine.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Harald Genzmer - Sonatine.md",
+  "title": "Sonatine",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Harald Genzmer’s Sonatine for E-flat alto saxophone and piano is the 1982 work GeWV 247, Ries & Erler RE24009 (ISBN 9790013240098). Retailer listings confirm the matched item number and instrumentation; no score preview was found.",
+  "evidence": [
+    {
+      "claim": "Stretta identifies Sonatine GeWV 247 (1982), E-flat alto saxophone and piano, RE24009.",
+      "url": "https://www.stretta-music.cz/genzmer-sonatine-alt-saxophon-in-es-und-klavier-gewv-247-1982-nr-105881.html",
+      "source_name": "Stretta Music product catalog",
+      "kind": "retailer",
+      "access": "opened"
+    },
+    {
+      "claim": "Two retailer listings identify the saxophone/piano item as Ries & Erler RE24009, ISBN 9790013240098. Movement titles seen in reseller snippets were not independently verified and are omitted.",
+      "url": "https://www.stretta-music.cz/genzmer-sonatine-alt-saxophon-in-es-und-klavier-gewv-247-1982-nr-105881.html",
+      "source_name": "Stretta Music catalog item",
+      "kind": "retailer",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "No score inspected. From the title alone, movement contrast is only a practical review question; no particular range or articulation demand is established.",
+  "collection_flag": "Original saxophone and piano work; no documented course or pedagogical placement found.",
+  "listening": [],
+  "score_links": [
+    {
+      "url": "https://shop.rieserler.de/",
+      "description": "Official publisher shop checked by work number; no matching public score preview located.",
+      "inspected": false
+    }
+  ],
+  "gaps": [
+    "The official publisher shop and exact item-number searches did not surface a public notation preview; no score pages visually inspected.",
+    "No verified saxophone recording identified.",
+    "Detailed range and articulation demands remain unknown."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Harald Genzmer Sonatine alto saxophone piano RE24009",
+    "Genzmer Sonatine GeWV247 Allegro Andante tranquillo Vivace",
+    "Ries & Erler RE24009 score preview",
+    "Official Ries & Erler shop and item-number searches for a public preview"
+  ]
+}

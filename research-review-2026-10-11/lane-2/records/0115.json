@@ -1,0 +1,51 @@
+{
+  "id": 115,
+  "batch": 5,
+  "filename": "Gino Samyn - Le Club des Notes.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Gino Samyn - Le Club des Notes.md",
+  "title": "Le Club des Notes",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Gino Samyn, Le Club des Notes, for alto saxophone and piano, Lemoine according to the opened École de musique Vincent-d’Indy saxophone program. The separate L’Îlot distribution-catalog lead gives 27783HL, not verified in the opened school program.",
+  "evidence": [
+    {
+      "claim": "Billaudot distributor catalogue lists Gino Samyn’s Le Club des Notes for alto saxophone and piano, Lemoine 27783HL.",
+      "url": "https://store-factory-medias.s3.eu-west-3.amazonaws.com/www.lilot-parts.com/media/catalogue_distribution_au_08_avril_2015_j-z.pdf",
+      "source_name": "L’Îlot distribution catalogue",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "The opened École de musique Vincent-d’Indy saxophone program lists Gino Samyn, Le club des notes, published as sheet music by Lemoine. The document states that the program is intended for teachers affiliated with the school and contributes to preparation for college music studies.",
+      "url": "https://emvi.qc.ca/upload/files/20240929-Programme-de-formation-artistique-a-linstrument-SAXOPHONE.pdf",
+      "source_name": "École de musique Vincent-d’Indy program",
+      "kind": "pedagogy",
+      "access": "opened",
+      "page": "PDF p. 25 (printed p. 11)"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "EMVI’s curriculum lists the work in its saxophone program, which is designed for affiliated teachers and includes preparation for college music studies. This establishes school teaching context, not college repertoire placement.",
+  "listening": [],
+  "score_links": [
+    {
+      "url": "https://store-factory-medias.s3.eu-west-3.amazonaws.com/www.lilot-parts.com/media/catalogue_distribution_au_08_avril_2015_j-z.pdf",
+      "description": "Score/catalogue lead; notation not visually inspected.",
+      "inspected": false
+    },
+    {
+      "url": "https://emvi.qc.ca/upload/files/20240929-Programme-de-formation-artistique-a-linstrument-SAXOPHONE.pdf",
+      "description": "Score/catalogue lead; notation not visually inspected.",
+      "inspected": false
+    }
+  ],
+  "gaps": [
+    "No notation or saxophone performance was inspected.",
+    "The publisher number 27783HL is from a separate distributor search lead and was not corroborated in the opened EMVI program."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Gino Samyn Le Club des Notes alto saxophone piano Lemoine 27783"
+  ]
+}

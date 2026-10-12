@@ -1,0 +1,33 @@
+{
+  "id": 140,
+  "batch": 6,
+  "filename": "Harley Rex - Andando and Brillante.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Harley Rex - Andando and Brillante.md",
+  "title": "Andando and Brillante",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Dorn Publications DORN0188 is Harley Rex’s Andando and Brillante for alto saxophone and piano. The publisher/seller record names Dale Underwood and the U.S. Navy Band as dedicatees; no score or performance details were found.",
+  "evidence": [
+    {
+      "claim": "Dorn DORN0188 identifies the alto-saxophone-and-piano work and dedication to Dale Underwood and the U.S. Navy Band.",
+      "url": "https://www.grothmusic.com/p-142612.aspx",
+      "source_name": "Groth Music, Dorn listing",
+      "kind": "retailer",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Review the contrast implied by the two movement titles and verify tempo, articulation and range from the actual part.",
+  "collection_flag": "Dedicated to professional saxophonist Dale Underwood and the U.S. Navy Band; dedication documents provenance only.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No score preview or verified recording located.",
+    "Movement structure and duration remain unknown."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Harley Rex Andando and Brillante DORN0188 alto saxophone piano recording score",
+    "Andando Brillante Dale Underwood saxophone"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 278,
+  "batch": 12,
+  "filename": "Pathorn Srikaranonda - Sonata.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Pathorn Srikaranonda - Sonata.md",
+  "title": "Sonata",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Dorn DORN0151 is Pathorn Srikaranonda’s Sonata “The Life of Christ,” Op.34, for soprano saxophone and piano. Existing listing records four movements and dedication/premiere details; web searches this pass did not retrieve an independent primary source or score. Treat those catalog details as leads pending verification.",
+  "evidence": [
+    {
+      "claim": "Catalog lead gives DORN0151, four movements, dedication and 1992 premiere.",
+      "url": "https://www.grothmusic.com/p-140126.aspx",
+      "source_name": "Groth Music Dorn listing",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Check the soprano part and piano score for movement contrasts and long-form pacing; no specific technical demand is verified.",
+  "collection_flag": "Work title and dedication suggest religious program, but no primary program note was found; do not infer it from the title alone.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "Composer/publisher primary confirmation, score, and recording remain unavailable.",
+    "Premiere and dedication data remain based on retailer catalog metadata."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Pathorn Srikaranonda Sonata Life of Christ Op 34 soprano saxophone recording score",
+    "Pathorn Srikaranonda DORN0151",
+    {
+      "query": "Pathorn Srikaranonda Sonata Life of Christ Op 34 soprano saxophone recording score",
+      "checked": "Exact title/composer and Dorn item searches did not surface a composer score, public sample, or verified performance; retailer search result remains the only located identity lead."
+    }
+  ]
+}

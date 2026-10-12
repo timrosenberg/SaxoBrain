@@ -1,0 +1,60 @@
+{
+  "id": 91,
+  "batch": 4,
+  "filename": "Fabian Rehfeld - Aria.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Fabian Rehfeld - Aria.md",
+  "title": "Aria",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "The saxophone catalog entry is a Marty Lenard arrangement of Fabian Rehfeld’s *Aria*, Dorn Publications DORN2013, offered for B-flat or E-flat saxophone and piano. IMSLP’s record and public scan identify the original Rehfeld Op. 67 as a late-19th-century violin or cello work with piano or organ, so the saxophone item is a transcription of another instrumental piece.",
+  "evidence": [
+    {
+      "claim": "Current catalog lead identifies DORN2013 and the B-flat/E-flat saxophone and piano edition arranged by Marty Lenard.",
+      "url": "https://www.grothmusic.com/p-141758.aspx",
+      "source_name": "Groth Music catalog",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "IMSLP identifies Op. 67, first published in 1895, as for violin or cello with piano or organ; the public scan is a violin score.",
+      "url": "https://imslp.org/wiki/Aria%2C_Op.67_(Rehfeld,_Fabian)",
+      "source_name": "IMSLP work record",
+      "kind": "score",
+      "access": "opened"
+    },
+    {
+      "claim": "The public scan shows an Adagio molto sostenuto opening in the violin part. This observation is about the source violin score only, not the saxophone arrangement.",
+      "url": "https://s9.imslp.org/files/imglnks/usimg/e/e5/IMSLP146597-PMLP273045-Rehfeld_Aria_v_or_vc_p_psc_and_v_pt.pdf",
+      "source_name": "Public-domain Rehfeld source score, digitized from the 1918 Oliver Ditson edition",
+      "kind": "score",
+      "access": "score_inspected"
+    }
+  ],
+  "score_observations": [
+    {
+      "claim": "Printed p. 32 opens Adagio molto sostenuto, with long tied notes in the violin/cello line over sustained piano chords that become more mobile with chromatic inflections; later on the same page the solo line briefly breaks into quicker notes before returning to a quiet dolcissimo statement. This is the original violin/cello score, not the saxophone arrangement.",
+      "url": "https://s9.imslp.org/files/imglnks/usimg/e/e5/IMSLP146597-PMLP273045-Rehfeld_Aria_v_or_vc_p_psc_and_v_pt.pdf",
+      "page": "printed 32"
+    }
+  ],
+  "review_focus": "Inference: compare the saxophone arrangement with the source’s slow sustained violin writing; inspect the sax edition directly before assessing range or articulation.",
+  "collection_flag": "Documented transcription of Rehfeld’s original violin/cello work; separate saxophone arrangement lists two saxophone transpositions. Original intended audience is not established by the sources found.",
+  "listening": [],
+  "score_links": [
+    {
+      "url": "https://s9.imslp.org/files/imglnks/usimg/e/e5/IMSLP146597-PMLP273045-Rehfeld_Aria_v_or_vc_p_psc_and_v_pt.pdf",
+      "description": "Original violin/cello and piano/organ score, not the saxophone arrangement.",
+      "inspected": true
+    }
+  ],
+  "gaps": [
+    "The Dorn saxophone arrangement was not inspected, so its relation to the source, transposition, and saxophone-specific demands remain unknown.",
+    "No matching saxophone recording or pedagogy source found."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Fabian Rehfeld Aria Marty Lenard saxophone DORN2013",
+    "Aria Op.67 Fabian Rehfeld original instrumentation score",
+    "Fabian Rehfeld Aria saxophone piano recording"
+  ]
+}

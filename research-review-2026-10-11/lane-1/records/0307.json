@@ -1,0 +1,49 @@
+{
+  "id": 307,
+  "batch": 13,
+  "filename": "Pierre-Max DuBois - Sonatine.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Pierre-Max DuBois - Sonatine.md",
+  "title": "Sonatine",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Dubois's Sonatine is the Leduc AL23742 alto saxophone/piano work, distinct from Deuxième Sonatine (AL23963). The Royal Conservatoire Antwerp list dates Sonatine to 1966 and gives an eight-minute duration; a retailer matches AL23742 to the title. The 1968 date belongs to the separate Deuxième Sonatine and should not be applied here.",
+  "evidence": [
+    {
+      "claim": "Royal Conservatoire Antwerp library list identifies Sonatine AL23742, 1966, eight minutes, dedicated to François Daneels.",
+      "url": "https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf",
+      "source_name": "Royal Conservatoire Antwerp library catalog",
+      "kind": "institution",
+      "access": "opened"
+    },
+    {
+      "claim": "Retailer identifies AL23742 as Dubois's Sonatine for alto saxophone and piano; date was not independently confirmed there.",
+      "url": "https://sakupara.stores.jp/items/645cf17539cb4e002bea31b1",
+      "source_name": "Sakupara sheet music store",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Windmusic records a distinct Deuxième Sonatine as AL23963, an exam work, 1968, 12 pages plus separate parts.",
+      "url": "https://windmusic.org/index.php?id=5389&lvl=notice_display",
+      "source_name": "Windmusic library",
+      "kind": "pedagogy",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference: a conservatory library’s duration and contest note make formal pacing relevant; the distinct second sonatina is a separate work.",
+  "collection_flag": "Published saxophone/piano sonatina with library-listed conservatory contest use.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No score or recording inspected; verify date and dedication against Leduc's primary score page if available."
+  ],
+  "proposed_corrections": [
+    "Retain 1966 for Sonatine AL23742 from the conservatory library list. Keep 1968 attached to the distinct Deuxième Sonatine AL23963."
+  ],
+  "searches": [
+    "Dubois Sonatine saxophone AL23742",
+    "Antwerp BSAX Dubois Sonatine 8 minutes",
+    "Windmusic Deuxième Sonatine AL23963"
+  ]
+}

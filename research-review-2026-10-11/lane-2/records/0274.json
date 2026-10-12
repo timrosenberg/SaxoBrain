@@ -1,0 +1,51 @@
+{
+  "id": 274,
+  "batch": 11,
+  "filename": "Nimrod Borenstein - Lullaby.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Nimrod Borenstein - Lullaby.md",
+  "title": "Lullaby",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Borenstein’s Lullaby, Op. 81c, is for piano, violin and alto saxophone, composed in 2018, duration 4:35. The opened composer catalog links an Op.81c performance video and a Donemus edition.",
+  "evidence": [
+    {
+      "claim": "Composer’s page identifies Lullaby Op.81c for piano, violin and alto saxophone, 2018, 4:35, with performance-video and Donemus links.",
+      "url": "https://www.nimrod-borenstein.com/chamber-music",
+      "source_name": "Nimrod Borenstein composer catalog",
+      "kind": "composer",
+      "access": "opened"
+    },
+    {
+      "claim": "Composer recording page associates Lullaby Op.81c with the Kugoni Trio.",
+      "url": "https://www.nimrod-borenstein.com/recordings",
+      "source_name": "Nimrod Borenstein recordings",
+      "kind": "performer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Review the saxophone role in relation to the violin and piano; video is linked but not auditioned.",
+  "collection_flag": "Original mixed chamber trio, not saxophone/piano duo.",
+  "listening": [
+    {
+      "url": "https://www.nimrod-borenstein.com/recordings",
+      "description": "Composer recording page links Lullaby Op.81c and names Kugoni Trio.",
+      "verification": "Link and ensemble credit checked; audio not auditioned."
+    }
+  ],
+  "score_links": [
+    {
+      "url": "https://www.nimrod-borenstein.com/chamber-music",
+      "description": "Publisher/work listing; no notation preview inspected.",
+      "inspected": false
+    }
+  ],
+  "gaps": [
+    "No representative saxophone score pages were visually inspected.",
+    "Musical demands and written range remain unknown without an inspected saxophone part."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Nimrod Borenstein Lullaby alto saxophone violin piano"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 316,
+  "batch": 13,
+  "filename": "Randall Snyder - Tristesse.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Randall Snyder - Tristesse.md",
+  "title": "Tristesse",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Randall Snyder’s Tristesse is a Dorn Publications work, catalog DORN0189. Searches did not locate an accessible primary catalog record, score preview, recording, or pedagogical listing.",
+  "evidence": [
+    {
+      "claim": "Dorn catalog lead lists Randall Snyder, Tristesse, no. 189.",
+      "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+      "source_name": "Dorn Publications catalog",
+      "kind": "publisher",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Publication is indicated by the Dorn catalog; provenance beyond title and composer unknown.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "Instrumentation, date, duration, score, recording and intended audience need verification."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Randall Snyder Tristesse saxophone DORN0189",
+    "Dorn DORN0189 Tristesse",
+    "UNL Randall Snyder Tristesse"
+  ]
+}

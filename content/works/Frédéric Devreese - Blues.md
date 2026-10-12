@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 1989
-year-of-study: 
+year-of-study: "Second-Year"
 streaming: 
 purchase:
   - "https://webshop.donemus.nl/action/front/sheetmusic/14211"

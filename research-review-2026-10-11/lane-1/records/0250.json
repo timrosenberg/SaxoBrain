@@ -1,0 +1,61 @@
+{
+  "id": 250,
+  "batch": 10,
+  "filename": "Marilyn Shrude - Nature's Bard.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Marilyn Shrude - Nature's Bard.md",
+  "title": "Nature's Bard",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Marilyn Shrude's Nature’s Bard (Dickinson’s Autumn) is an alto saxophone and piano work dated 2020, commissioned for and dedicated to James Umble. The composer's official page gives an approximate 12:30 duration and identifies the March 2020 premiere by Umble and Liz Ames. ACA lists 11 minutes and a 2025 publication, so the duration difference is retained as unresolved.",
+  "evidence": [
+    {
+      "claim": "Composer page gives instrumentation, date, commission/dedication, premiere performers/date, approx. 12:30 duration, and a program note connecting the work to shifting imagery from Emily Dickinson.",
+      "url": "https://www.marilynshrude.com/works/natures-bard-dickinsons-autumn/",
+      "source_name": "Marilyn Shrude composer website",
+      "kind": "composer",
+      "access": "opened"
+    },
+    {
+      "claim": "ACA lists the score/part, 2025 publication, authored or revised in 2020, 11-minute duration, and premiere details.",
+      "url": "https://composers.com/products/natures-bard-dickinsons-autumn",
+      "source_name": "American Composers Alliance",
+      "kind": "publisher",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "The ACA page shows preview/sample image thumbnails, but no readable notation sample was retrieved during this review.",
+      "url": "https://composers.com/products/natures-bard-dickinsons-autumn",
+      "source_name": "American Composers Alliance product page",
+      "kind": "publisher",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference: program note and premiere context support exploring the work's shifting autumn imagery, but no musical details can be claimed without the score or recording.",
+  "collection_flag": "Contemporary original saxophone/piano work, dedicated to James Umble with documented conference premiere.",
+  "listening": [
+    {
+      "url": "https://www.johnwsampen.com/video-links",
+      "description": "John Sampen’s video-links page provides an external Nature’s Bard performance link.",
+      "verification": "Listing found; playback not auditioned."
+    }
+  ],
+  "score_links": [
+    {
+      "url": "https://composers.com/products/natures-bard-dickinsons-autumn",
+      "description": "ACA lists physical and digital score/part publication",
+      "inspected": false
+    }
+  ],
+  "gaps": [
+    "ACA lists 11 minutes while the composer gives approx. 12:30; retain both reported figures until an edition-specific timing is verified.",
+    "Publisher preview images were listed but notation was not accessible; no score pages inspected.",
+    "No verified recording located in the composer’s recording list or linked premiere archive."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "American Composers Alliance Nature’s Bard Dickinson’s Autumn",
+    "Marilyn Shrude Nature’s Bard James Umble Liz Ames 2020",
+    "John Sampen video links Nature’s Bard"
+  ]
+}

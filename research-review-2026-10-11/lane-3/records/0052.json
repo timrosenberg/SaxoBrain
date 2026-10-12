@@ -1,0 +1,59 @@
+{
+  "id": 52,
+  "batch": 3,
+  "filename": "Clare Loveday - Just a Bite.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Clare Loveday - Just a Bite.md",
+  "title": "Just a Bite",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Just a Bite (2011) is for alto saxophone and piano. The composer says it was commissioned by SAMRO for The Book Project, which targets young players at Grade 3–5; Gerber’s University of Pretoria bibliography independently gives the same duration and commission, and describes this edition as a manuscript available from the composer.",
+  "evidence": [
+    {
+      "claim": "Current composer page identifies Just a Bite (2011) for alto saxophone and piano, 2:00, commissioned by SAMRO for The Book Project for young players at Grade 3–5.",
+      "url": "https://clareloveday.co.za/compositions.html",
+      "source_name": "Clare Loveday, compositions page",
+      "kind": "composer",
+      "access": "opened"
+    },
+    {
+      "claim": "University of Pretoria bibliography identifies an alto saxophone and piano manuscript, 2:00, and SAMRO Grade 3–5 commission; it labels its own performance level III. Underlying repository PDF returned 403 and is represented by indexed text only.",
+      "url": "https://repository.up.ac.za/bitstreams/c85ea27d-b97a-4b47-bfa6-266368d61904/download",
+      "source_name": "Karlien Gerber, An Annotated Bibliography of Selected Classical Saxophone Works by South African Composers",
+      "kind": "institution",
+      "access": "search_index_only",
+      "page": "p. 79"
+    },
+    {
+      "claim": "Noa Even’s performer-maintained repertoire page lists the work at 2:00 for alto saxophone and piano.",
+      "url": "https://www.noaevenmusic.com/saxandpiano",
+      "source_name": "Noa Even, repertoire page",
+      "kind": "performer",
+      "access": "opened"
+    },
+    {
+      "claim": "SAMRO’s composer archive lists several Loveday scores, but Just a Bite is not among the listed titles on the opened page.",
+      "url": "https://www.samroscores.org.za/composer/clare-loveday/",
+      "source_name": "SAMRO Scores archive",
+      "kind": "institution",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Documented youth-oriented commission: SAMRO’s Book Project was for Grade 3–5 young players. That intended audience is relevant collection context, but does not by itself settle college suitability.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No readable score or exact saxophone notation/range was found; the manuscript is stated to be available from the composer.",
+    "No verified saxophone performance recording located.",
+    "Gerber’s chart encodes meter, key signature, tempo, note value, rhythm, articulation and range, but the indexed extract does not provide a legend for its numeric scale; do not interpret the scores."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Clare Loveday Just a Bite saxophone score recording",
+    "site:repository.up.ac.za \"Just a Bite\" \"Clare Loveday\"",
+    "site:samroscores.org.za \"Just a Bite\" Loveday",
+    "Noa Even Just a Bite Clare Loveday",
+    "Clare Loveday current compositions page without www, opened 2026-10-11"
+  ]
+}

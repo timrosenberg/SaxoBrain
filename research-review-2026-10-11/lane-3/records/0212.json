@@ -1,0 +1,90 @@
+{
+  "id": 212,
+  "batch": 9,
+  "filename": "Jun Nagao - Lovers on the Celestial Sphere.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Jun Nagao - Lovers on the Celestial Sphere.md",
+  "title": "Lovers on the Celestial Sphere",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Jun Nagao’s Lovers on the Celestial Sphere is Zen-On 560015 for soprano saxophone, tenor saxophone and piano, composed on commission from Nobuya Sugawa. Zen-On gives about 12 minutes, while an institutional catalog gives about 12.5 for the later band study score. Zen-On’s public four-page sample includes a preface and an opening score leaf.",
+  "evidence": [
+    {
+      "claim": "Lists scoring as soprano saxophone, tenor saxophone and piano, approximately 12 minutes.",
+      "url": "https://www.zen-on.co.jp/en/publishing/cr/composers/detail/67/works/?page=1",
+      "source_name": "Zen-On publisher catalog",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Study score is the wind-band version; records original performance medium as soprano/tenor saxophone and piano, approximately 12.5 minutes.",
+      "url": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970023484963465498",
+      "source_name": "National Diet Library of Japan",
+      "kind": "institution",
+      "access": "opened"
+    },
+    {
+      "claim": "Lists the piece for soprano and tenor saxophones and piano.",
+      "url": "https://www.kenneth-tse.com/discography/stellar-saxes",
+      "source_name": "Kenneth Tse performer discography",
+      "kind": "performer",
+      "access": "opened"
+    },
+    {
+      "claim": "Album listing credits the work and pianist Kazuo Murakami.",
+      "url": "https://www.crystalrecords.com/kennethtse.html",
+      "source_name": "Crystal Records",
+      "kind": "performer",
+      "access": "opened"
+    },
+    {
+      "claim": "Zen-On product 560015 confirms the commissioned soprano/tenor/piano work, first performance in 2005 by Nobuya Sugawa, Sadahito Kuniuse and pianist Minako Koyanagi, and an approximate 12-minute duration.",
+      "url": "https://shop.zen-on.co.jp/item/detail/560015/",
+      "source_name": "Zen-On official product page",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Opened Zen-On’s public ActiBook sample (4 pages). The preface identifies the 2005 premiere and the opening printed score leaf was visually inspected.",
+      "url": "https://www.zen-on.co.jp/trial/560015/?detailFlg=0&pNo=1",
+      "source_name": "Zen-On public score trial",
+      "kind": "score",
+      "access": "score_inspected",
+      "page": "opening score leaf in sample"
+    },
+    {
+      "claim": "A NASA conference program search result lists the work in a collegiate solo competition event; the PDF URL returned 404 on opening, so the program context remains indexed-only.",
+      "url": "https://www.saxophonealliance.org/assets/2018/2018-NASA-Conference-Program-Book.pdf",
+      "source_name": "NASA conference program search result",
+      "kind": "pedagogy",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [
+    "The opening sample page shows soprano and tenor parts over piano, marked Con espressione at a slow pulse, with legato saxophone lines and a flowing, chordal piano texture. The sample does not show enough of the work to infer complete range or later movement demands."
+  ],
+  "review_focus": "Inference from the inspected opening: assess blend between the two saxophone lines and the flowing piano texture, then review later handoffs and contrasts in the complete edition.",
+  "collection_flag": "Original saxophone duo with piano; separately available wind-band study score is not the original trio format.",
+  "listening": [],
+  "score_links": [
+    {
+      "url": "https://www.zen-on.co.jp/trial/560015/?detailFlg=0&pNo=1",
+      "description": "Official four-page Zen-On ActiBook sample; opening score leaf visually inspected.",
+      "inspected": true
+    }
+  ],
+  "gaps": [
+    "Only an opening score leaf and preface were available in the public sample; the remainder of the duo score was not inspected.",
+    "The later band study-score timing differs slightly from Zen-On’s original chamber-work estimate."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Jun Nagao Lovers on Celestial Sphere score recording",
+    "Zen-On Jun Nagao Lovers on the Celestial Sphere 12 min",
+    "National Diet Library Lovers score original performance instruments",
+    "Kenneth Tse Stellar Saxes Jun Nagao",
+    {
+      "query": "Zen-On Lovers on the Celestial Sphere 560015 trial",
+      "checked": "Opened the exact product-linked Zen-On ActiBook preview and visually inspected its opening notation page."
+    }
+  ]
+}

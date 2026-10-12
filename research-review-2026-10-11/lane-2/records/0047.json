@@ -1,0 +1,70 @@
+{
+  "id": 47,
+  "batch": 2,
+  "filename": "Chiel Meijering - Another World.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Chiel Meijering - Another World.md",
+  "title": "Another World",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Chiel Meijering, Another World (2013), 12:30, Donemus no. 20367, catalogued as soprano saxophone and string orchestra. The composer’s chronological list also has a similarly titled string-orchestra/eagle-recorder version at 12:33; relationship between versions is unresolved.",
+  "evidence": [
+    {
+      "claim": "Donemus identifies a fully digitized version for soprano saxophone and string orchestra, duration 12:30, with downloadable 34-page score.",
+      "url": "https://webshop.donemus.com/action/front/sheetmusic/20367",
+      "source_name": "Donemus",
+      "kind": "publisher",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Composer’s works listing identifies the saxophone-and-string-orchestra version and links score and recording.",
+      "url": "https://www.chielmeijering.com/works/all-works/saxophone/",
+      "source_name": "Chiel Meijering, Saxophone works",
+      "kind": "composer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Composer’s more recent work list also identifies the saxophone solo version with string orchestra.",
+      "url": "https://www.chielmeijering.com/works/all-works/chronological/",
+      "source_name": "Chiel Meijering, chronological works",
+      "kind": "composer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Donemus catalogue record identifies a 2013, 12:30 version titled Another World for soprano saxophone and string orchestra, with a 34-page A3 score. The specific product page could not be opened.",
+      "url": "https://webshop.donemus.com/action/front/sheetmusic/20367",
+      "source_name": "Donemus, Another World, no. 20367",
+      "kind": "publisher",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Composer’s current saxophone catalogue does not list this title as a solo-sax work; the composer’s chronological catalogue instead lists “Another world” for string orchestra plus eagle recorder, alto, 12:33, indicating a potentially distinct or revised version.",
+      "url": "https://www.chielmeijering.com/works/all-works/chronological/",
+      "source_name": "Chiel Meijering, chronological works list",
+      "kind": "composer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference: verify exact solo instrument and edition before judging range, ensemble demands, or college fit. The 34-page score is available for purchase, but was not accessed.",
+  "collection_flag": "Apparently original soprano saxophone and string-orchestra version, with a title/alternative-instrument ambiguity requiring composer or score confirmation.",
+  "listening": [],
+  "score_links": [
+    {
+      "url": "https://webshop.donemus.com/action/front/sheetmusic/20367",
+      "description": "Publisher offers a 34-page score PDF.",
+      "inspected": false
+    }
+  ],
+  "gaps": [
+    "Donemus primary product record surfaced in search results but could not be opened.",
+    "Composer’s alternative eagle-recorder version may be distinct.",
+    "No accessible score or verified recording."
+  ],
+  "proposed_corrections": [
+    "Replace the old research note claiming a soprano saxophone version was not found; Donemus and the composer document one."
+  ],
+  "searches": [
+    "Chiel Meijering Another World soprano saxophone string orchestra Donemus 20367",
+    "Chiel Meijering chronological Another world eagle recorder string orchestra"
+  ]
+}

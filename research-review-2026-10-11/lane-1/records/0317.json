@@ -1,0 +1,41 @@
+{
+  "id": 317,
+  "batch": 13,
+  "filename": "René Challan - Concerto.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/René Challan - Concerto.md",
+  "title": "Concerto",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "René Challan’s Concerto is published by Alphonse Leduc as AL20337 for alto saxophone and piano. The piano edition is a score; the catalog separately lists orchestra, but the exact orchestral version was not verified.",
+  "evidence": [
+    {
+      "claim": "Hal Leonard / Leduc identifies the concerto for alto saxophone and piano, AL20337.",
+      "url": "https://www.halleonard.com/product/48181147/concertoconcerto",
+      "source_name": "Hal Leonard / Alphonse Leduc",
+      "kind": "publisher",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Current catalog listing gives three movements and 48 pages.",
+      "url": "https://www.grothmusic.com/p-146474.aspx",
+      "source_name": "Groth Music",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference: the concerto format and three listed movements support reviewing transitions and accompaniment context, after confirming the orchestral score.",
+  "collection_flag": "Concerto with piano edition; orchestral instrumentation/version requires verification.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No score notation, orchestral score, recording, or premiere/program found.",
+    "Three movement headings rely on retailer catalog notes."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "René Challan Concerto saxophone AL20337",
+    "Hal Leonard Challan 48181147",
+    "Challan Concerto orchestra saxophone recording"
+  ]
+}

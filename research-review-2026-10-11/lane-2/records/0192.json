@@ -1,0 +1,55 @@
+{
+  "id": 192,
+  "batch": 8,
+  "filename": "Joaquín Nin - Le Chant du Veilleur.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Joaquín Nin - Le Chant du Veilleur.md",
+  "title": "Le Chant du Veilleur",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Joaquín Nin, Le chant du veilleur (Wachterlied), for mezzo-soprano, violin or saxophone, and piano, M. Eschig c.1937. CiNii identifies Jean-Marie Londeix as transcriber of the saxophone part and describes a seven-page score plus two three-page parts.",
+  "evidence": [
+    {
+      "claim": "Opened CiNii Books record identifies Joaquín Nin’s Le chant du veilleur (Wachterlied), for mezzo-soprano, violin or saxophone and piano, published by M. Eschig c.1937. The note says the saxophone part was transcribed by Jean-Marie Londeix; the copy has a seven-page score and two three-page parts.",
+      "url": "https://ci.nii.ac.jp/ncid/BA4413119X",
+      "source_name": "CiNii Books record",
+      "kind": "institution",
+      "access": "opened"
+    },
+    {
+      "claim": "Opened BnF disc record documents a recording of the alto-saxophone version with mezzo-soprano Danielle Millet, saxophone Jean-Marie Londeix, and piano Henriette Puig-Roget. This verifies a performance/release record, not the content of audio playback.",
+      "url": "https://catalogue.bnf.fr/ark:/12148/cb38064967f",
+      "source_name": "Bibliothèque nationale de France sound-recording catalog",
+      "kind": "institution",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inspect exact saxophone part and consult recording/score for vocal text coordination and range.",
+  "collection_flag": "A vocal chamber work with optional saxophone or violin. The saxophone part is a transcription credited to Jean-Marie Londeix, so the edition is not an original saxophone composition.",
+  "listening": [
+    {
+      "url": "https://catalogue.bnf.fr/ark:/12148/cb38064967f",
+      "description": "BnF disc catalog for a recording of this version with Danielle Millet, mezzo-soprano; Jean-Marie Londeix, alto saxophone; Henriette Puig-Roget, piano.",
+      "verification": "Personnel and title verified from opened BnF sound-recording record; audio not auditioned."
+    }
+  ],
+  "score_links": [
+    {
+      "url": "https://ci.nii.ac.jp/ncid/BA4413119X",
+      "description": "Opened institutional bibliographic record; score contents are not available for preview.",
+      "inspected": false
+    }
+  ],
+  "gaps": [
+    "No score notation preview was located; full saxophone range and transposition remain unknown.",
+    "The cataloged recording is documented by personnel, but no playable audio was auditioned.",
+    "No college/professional or pedagogical placement verified."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Joaquín Nin Le chant du veilleur saxophone piano score Londeix",
+    "Le chant du veilleur Nin CiNii BA4413119X",
+    "Le chant du veilleur Jean-Marie Londeix Danielle Millet BnF recording",
+    "Fetched and inspected public CiNii score record and BnF sound-recording catalog after web reader cache misses; no notation file exposed"
+  ]
+}

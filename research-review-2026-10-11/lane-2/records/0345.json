@@ -1,0 +1,40 @@
+{
+  "id": 345,
+  "batch": 14,
+  "filename": "Ross Lee Finney - Two Studies.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Ross Lee Finney - Two Studies.md",
+  "title": "Two Studies",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Ross Lee Finney's Two Studies for Saxophones and Piano is for one player alternating soprano and alto saxophone with piano, about 10 minutes, Peters P66445.",
+  "evidence": [
+    {
+      "claim": "Edition Peters catalogue text specifies one player on soprano and alto saxophones with piano and gives an approximately 10-minute duration.",
+      "url": "https://watermark02.silverchair.com/musqtl_1996_80_2_-_back_matter.pdf",
+      "source_name": "Edition Peters catalog in Music Quarterly",
+      "kind": "publisher",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Forsyth listing gives edition EP66445 and says soprano and alto saxophone (one player) plus piano.",
+      "url": "https://www.forsyths.co.uk/music/books/289021-finney-ross-lee-two-studies-for-saxophones-and-piano-9790300722535.html",
+      "source_name": "Forsyth listing",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Plan for instrument doubling, setup changes and contrasting study characters; inspect exact transition and part layout.",
+  "collection_flag": "Original contemporary recital work for one player doubling soprano and alto, not an alto-only piece.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No score pages, recording or college placement inspected.",
+    "Creation/publication year varies across catalog sources."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Ross Lee Finney Two Studies EP66445 score soprano alto sax",
+    "Finney Two Studies saxophones and piano recording"
+  ]
+}

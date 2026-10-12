@@ -1,0 +1,40 @@
+{
+  "id": 231,
+  "batch": 10,
+  "filename": "Leonard Mark Lewis - Black Against Blue.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Leonard Mark Lewis - Black Against Blue.md",
+  "title": "Black Against Blue",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Leonard Mark Lewis’s Black Against Blue is identified on the composer’s catalog lead as a work for soprano saxophone and piano. A NASA conference program lists the work in a recital by Lois Hicks-Wozniak with pianist Kathryn Goodson.",
+  "evidence": [
+    {
+      "claim": "Composer product page is the current catalog lead for the soprano saxophone and piano work.",
+      "url": "https://www.leonardmarklewis.com/black-against-blue-1",
+      "source_name": "Leonard Mark Lewis",
+      "kind": "composer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "NASA 2018 conference program lists performance by Lois Hicks-Wozniak and Kathryn Goodson.",
+      "url": "https://www.saxophonealliance.org/assets/2018/2018-NASA-Conference-Presenters.pdf",
+      "source_name": "North American Saxophone Alliance conference program",
+      "kind": "performer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Documented conference recital performance; no composition date or commission established.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "Composer page and conference program were not retrievable as readable page text in this review.",
+    "No score preview or notation inspection; no recording found."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Leonard Mark Lewis Black Against Blue soprano saxophone piano",
+    "NASA 2018 Black Against Blue Lois Hicks-Wozniak Kathryn Goodson"
+  ]
+}

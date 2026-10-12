@@ -1,0 +1,30 @@
+---
+title: "Review 0319: René Guillou - Sonatine 5th"
+added: 2026-10-11
+review-id: 319
+review-packet: 13
+review-decision: Pending
+review-applied: false
+notation-inspected: false
+catalog-entry: "[[René Guillou - Sonatine 5th]]"
+build:
+  render: never
+  list: never
+  publishResources: false
+---
+
+# Review 0319: René Guillou - Sonatine 5th
+
+[[Research Review|Review hub]] · [[Research Packet 13|Packet 13]]
+
+> [!info] Your Decision
+> Record your choice in `review-decision`, or give it to Codex in chat using this work’s number. The catalog changes only when you ask Codex to apply the decision or edit the catalog entry yourself.
+
+## Research
+
+Catalog: [[René Guillou - Sonatine 5th]]
+
+- Identity: The catalog’s Sonatine 5th identifies René Guillou’s Leduc AL20343 for alto saxophone and piano. Targeted searches did not locate a readable score, recording, or reliable pedagogical record for this exact title and code.
+- Catalog lead identifies Leduc AL20343. [Groth Music](https://www.grothmusic.com/p-37757.aspx) (search_index_only).
+- Collection/use: Published saxophone/piano score indicated; exact date and audience unknown.
+- Gaps: No publisher page or institution record located.; No score, recording or pedagogy source found.

@@ -1,0 +1,33 @@
+{
+  "id": 161,
+  "batch": 7,
+  "filename": "James Fry - Remembrance of Times Past.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/James Fry - Remembrance of Times Past.md",
+  "title": "Remembrance of Times Past",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "James Fry, Remembrance of Times Past, for alto saxophone and piano, Dorn Publications DORN0827; the catalog listing names two movements, Poem and Perpetual Motion.",
+  "evidence": [
+    {
+      "claim": "Dorn product metadata and movement titles are reproduced in a specialist retailer listing.",
+      "url": "https://www.grothmusic.com/p-139715.aspx",
+      "source_name": "Groth Music",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference: the two contrasting movement titles may be useful for recital programming, but no musical detail is confirmed without the score.",
+  "collection_flag": "unknown",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No independent publisher page, score preview, recording, or pedagogical placement located."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "James Fry Remembrance of Times Past DORN0827 saxophone score",
+    "James Fry Remembrance of Times Past saxophone recording",
+    "DORN0827 Dorn Publications"
+  ]
+}

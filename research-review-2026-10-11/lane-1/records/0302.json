@@ -1,0 +1,48 @@
+{
+  "id": 302,
+  "batch": 13,
+  "filename": "Pierre-Max DuBois - Come Back.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Pierre-Max DuBois - Come Back.md",
+  "title": "Come Back",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Pierre-Max Dubois’s Come Back is a 1992 “duo concertant” for E-flat alto saxophone and piano, published by Billaudot as GB4637. The library catalog record gives a duration of about 16 minutes, a 19-page score and 8-page part.",
+  "evidence": [
+    {
+      "claim": "Musiconn library record identifies title, instrumentation, 1992 date, duration, score/part pagination and Billaudot number.",
+      "url": "https://www.musiconn.de/musiconnsearch/Record/loc95752199?lng=en&sid=26778038",
+      "source_name": "Musiconn library catalog",
+      "kind": "institution",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Presto Music lists Billaudot GB4637 for alto saxophone and piano.",
+      "url": "https://www.prestomusic.com/sheet-music/products/7756980--pierre-max-dubois-come-back",
+      "source_name": "Presto Music",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Stretta lists the same Billaudot edition and instrumentation.",
+      "url": "https://www.stretta-music.fr/dubois-come-back-nr-1139419.html",
+      "source_name": "Stretta Music",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference: the 16-minute duration makes the large-scale pacing and piano-saxophone balance useful score-review questions.",
+  "collection_flag": "Published duo concertant for saxophone and piano; substantial duration documented.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No score preview or recording located.",
+    "Current availability and performance history remain uncertain."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Pierre-Max Dubois Come Back saxophone piano GB4637",
+    "Musiconn Come back duo concertant 16:00",
+    "Presto Come back Dubois GB4637"
+  ]
+}

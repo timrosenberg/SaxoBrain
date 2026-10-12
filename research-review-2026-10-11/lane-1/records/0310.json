@@ -1,0 +1,41 @@
+{
+  "id": 310,
+  "batch": 13,
+  "filename": "Rafał Stradomski - Per Gato.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Rafał Stradomski - Per Gato.md",
+  "title": "Per Gato",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Rafał Stradomski’s Per Gato is for alto or tenor saxophone and piano, composed in 1988. A Polish Music Information Centre entry confirms its instrumentation; a 1994 album listing includes the work among saxophone compositions.",
+  "evidence": [
+    {
+      "claim": "Polish Music Information Centre identifies Stradomski and Per Gato for alto or tenor saxophone and piano, dated 1988.",
+      "url": "https://polmic.pl/en/encyclopedia/subject-entries/s/stradomski-rafal-en",
+      "source_name": "Polish Music Information Centre",
+      "kind": "institution",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Composer bio/work list associates Per Gato with a 1994 recording by saxophonist Krzysztof Herder.",
+      "url": "https://en.wikipedia.org/wiki/Rafa%C5%82_Stradomski",
+      "source_name": "Reference work",
+      "kind": "reference",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Published saxophone/piano original with choice of alto or tenor part.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No score preview or performance audio inspected.",
+    "The catalog number DORN0196 was not confirmed on a publisher primary source."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Rafał Stradomski Per Gato 1988 alto tenor saxophone piano",
+    "Per Gato Stradomski DORN0196",
+    "1994 Stradomski Per Gato Krzysztof Herder"
+  ]
+}

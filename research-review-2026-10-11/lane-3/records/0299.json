@@ -1,0 +1,54 @@
+{
+  "id": 299,
+  "batch": 12,
+  "filename": "Pierre-Max DuBois - A la Hongroise.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Pierre-Max DuBois - A la Hongroise.md",
+  "title": "A la Hongroise",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "À la hongroise is No.4 of Dubois’s Pièces caractéristiques en forme de suite, Op.77, for alto saxophone and piano. The score title is confirmed in the ARTS² library catalog; a Hungaroton recording lists a 2:26 track. Catalog’s approximate 2:30 agrees at a broad level.",
+  "evidence": [
+    {
+      "claim": "Lists Op.77 No.4, À la hongroise, Leduc AL23064.",
+      "url": "https://pmb.artsaucarre.be/opac_css/index.php?id=741&l_typdoc=c%2Ca&lvl=categ_see&main=&nbr_lignes=245&page=9",
+      "source_name": "ARTS² conservatory library catalog",
+      "kind": "institution",
+      "access": "opened"
+    },
+    {
+      "claim": "Lists À la Hongroise at 2:26 and saxophone/piano album credits.",
+      "url": "https://open.spotify.com/intl-de/album/0UsG92jj6JWO0xDIQTTDjv",
+      "source_name": "Hungaroton album metadata via Spotify",
+      "kind": "performer",
+      "access": "opened"
+    },
+    {
+      "claim": "Indiana State School Music Association’s 2021–22 through 2026–27 Group I woodwind solo list includes the Dubois Op.77 suite under Alto Saxophone. The document allows a maximum five-minute actual performance and requires cuts when needed; it lists works without assigning individual difficulty levels.",
+      "url": "https://www.issma.net/downloads/woodwindmanual.pdf",
+      "source_name": "Indiana State School Music Association, Group I Required Music List",
+      "kind": "pedagogy",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "No score notation or matching movement-specific analysis was inspected; do not infer style or technical demands from the national titles. Review the edition’s articulation, rhythmic character, and saxophone/piano coordination from the score.",
+  "collection_flag": "Movement in a five-piece suite with institutional-library catalog and repertoire-list evidence.",
+  "listening": [
+    {
+      "url": "https://open.spotify.com/intl-de/album/0UsG92jj6JWO0xDIQTTDjv",
+      "description": "Hungaroton track listing, playback not auditioned.",
+      "verification": "Recording/product metadata checked; playback not auditioned"
+    }
+  ],
+  "score_links": [],
+  "gaps": [
+    "No score notation inspected.",
+    "Recording metadata duration is a specific performance, not a universal correction."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Pierre Max Dubois A la Hongroise saxophone Op 77 score recording",
+    "ARTS² Leduc AL23064",
+    "Hungaroton Dubois Hongroise 2:26"
+  ]
+}

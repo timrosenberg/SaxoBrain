@@ -1,0 +1,49 @@
+{
+  "id": 375,
+  "batch": 15,
+  "filename": "Vaclav Nelhybel - Allegro.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Vaclav Nelhybel - Allegro.md",
+  "title": "Allegro",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "A retailer identifies Václav Nelhýbel’s Allegro as a 10-page BMC382 edition for E-flat alto saxophone and piano. The Royal Conservatory of Music’s 2016 syllabus includes Allegro as an optional work in Grade 8 alto saxophone repertoire.",
+  "evidence": [
+    {
+      "claim": "Retailer record identifies the edition and instrumentation.",
+      "url": "https://www.grothmusic.com/p-147605.aspx",
+      "source_name": "Groth Music",
+      "kind": "retailer",
+      "access": "opened"
+    },
+    {
+      "claim": "The Royal Conservatory of Music’s 2016 saxophone syllabus lists Nelhybel’s Allegro as an optional work in Grade 8 alto saxophone repertoire.",
+      "url": "https://teacherportal.rcmusic.com/getattachment/da88ba2a-bbfb-4c39-acab-52b556a4e5b1/syllabus-saxophone-2016.pdf",
+      "source_name": "Royal Conservatory of Music, Saxophone Syllabus, 2016 edition, Grade 8",
+      "kind": "institution",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inspect the edition for range, articulation, technical demands, and piano writing.",
+  "collection_flag": "unknown",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "The 2016 RCM syllabus provides a Grade 8 repertoire placement but no individual difficulty commentary. No readable score preview or verified recording was found."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    {
+      "query": "Vaclav Nelhybel Allegro BMC382 saxophone piano score",
+      "checked": "Search found RCM syllabus Grade 8 entry and catalog metadata; no composer or current publisher page matching BMC382 found."
+    },
+    {
+      "query": "Nelhybel Allegro alto sax recording",
+      "checked": "Exact-title searches returned other Nelhybel works and unrelated Allegros; no verified performance recording of this edition found."
+    },
+    {
+      "query": "Boston Music BMC382 preview",
+      "checked": "Publisher preview search returned no BMC382 score sample; retailer metadata remains the edition source."
+    }
+  ]
+}

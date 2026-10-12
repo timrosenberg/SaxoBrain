@@ -1,0 +1,102 @@
+filters:
+  and:
+    - '!note["review-id"].isEmpty()'
+properties:
+  note.review-id:
+    displayName: Work Number
+  note.catalog-entry:
+    displayName: Catalog Entry
+  note.review-decision:
+    displayName: Your Decision
+  note.review-applied:
+    displayName: Applied to Catalog
+  note.review-packet:
+    displayName: Packet
+  note.notation-inspected:
+    displayName: Notation Excerpt Inspected
+views:
+  - type: table
+    name: Pending decisions
+    filters:
+      and:
+        - note["review-decision"] == "Pending"
+    order:
+      - review-id
+      - file.name
+      - catalog-entry
+      - review-decision
+      - review-applied
+      - notation-inspected
+      - review-packet
+    sort:
+      - property: review-id
+        direction: ASC
+  - type: table
+    name: Levels to apply
+    filters:
+      and:
+        - note["review-applied"] == false
+        - or:
+            - note["review-decision"] == "Pre-college"
+            - note["review-decision"] == "First Year"
+            - note["review-decision"] == "Second-Year"
+            - note["review-decision"] == "Second Year"
+            - note["review-decision"] == "Third Year"
+            - note["review-decision"] == "Fourth Year"
+            - note["review-decision"] == "Advanced"
+    order:
+      - review-id
+      - file.name
+      - catalog-entry
+      - review-decision
+      - review-applied
+      - notation-inspected
+      - review-packet
+    sort:
+      - property: review-id
+        direction: ASC
+  - type: table
+    name: Notation excerpts inspected
+    filters:
+      and:
+        - note["notation-inspected"] == true
+    order:
+      - review-id
+      - file.name
+      - catalog-entry
+      - review-decision
+      - review-applied
+      - notation-inspected
+      - review-packet
+    sort:
+      - property: review-id
+        direction: ASC
+  - type: table
+    name: All works
+    order:
+      - review-id
+      - file.name
+      - catalog-entry
+      - review-decision
+      - review-applied
+      - notation-inspected
+      - review-packet
+    sort:
+      - property: review-id
+        direction: ASC
+  - type: table
+    name: By packet
+    groupBy:
+      property: review-packet
+      direction: ASC
+    order:
+      - review-id
+      - file.name
+      - catalog-entry
+      - review-decision
+      - review-applied
+      - notation-inspected
+      - review-packet
+    sort:
+      - property: review-id
+        direction: ASC

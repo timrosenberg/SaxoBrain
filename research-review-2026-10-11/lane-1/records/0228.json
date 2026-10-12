@@ -1,0 +1,41 @@
+{
+  "id": 228,
+  "batch": 10,
+  "filename": "Laura Karpman - Capriccio.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Laura Karpman - Capriccio.md",
+  "title": "Capriccio",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Laura Karpman’s Capriccio is documented as a published score for alto saxophone and piano in the New York Public Library’s American Music Center collection. The catalog’s Dorn DORN0176 identifier is present in Dorn’s publisher catalog.",
+  "evidence": [
+    {
+      "claim": "NYPL collection finding aid lists Capriccio for alto saxophone and piano as a published score, reproduced from holograph manuscript.",
+      "url": "https://nyplorg-data-archives.s3.amazonaws.com/uploads/collection/generated_finding_aids/mus24605.pdf",
+      "source_name": "New York Public Library, American Music Center collection",
+      "kind": "institution",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Dorn catalog lists Laura Karpman, Capriccio, no. 176.",
+      "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+      "source_name": "Dorn Publications catalog",
+      "kind": "publisher",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Original saxophone/piano work is supported by collection record; modern published score.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No accessible score preview or notation inspection found.",
+    "No saxophone recording or pedagogical placement located."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "\"Capriccio\" \"Laura Karpman\" saxophone score",
+    "NYPL American Music Center Laura Karpman Capriccio",
+    "Dorn DORN0176 Capriccio"
+  ]
+}

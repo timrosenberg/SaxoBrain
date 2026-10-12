@@ -1,0 +1,60 @@
+{
+  "id": 50,
+  "batch": 2,
+  "filename": "Clair Leonard - Recitative & Abracadabra.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Clair Leonard - Recitative & Abracadabra.md",
+  "title": "Recitative & Abracadabra",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Clair Leonard, Recitative and Abracadabra (1941), assigned for alto saxophone and piano. Vassar archival finding-aid search text places the work in Leonard’s papers and notes correspondence with Sigurd Rascher; the PDF could not be opened, and no score was inspected.",
+  "evidence": [
+    {
+      "claim": "Vassar College archive finding aid dates the work to 1941 and notes correspondence with Sigurd M. Rascher in the work folder.",
+      "url": "https://digitallibrary.vassar.edu/sites/default/files/2022-10/Guide%20to%20the%20Clair%20Leonard%20Papers%2C%20approximately%201926-1962%20Vassar%20College%20Digital%20Library.pdf",
+      "source_name": "Vassar College Digital Library, Clair Leonard Papers",
+      "kind": "institution",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Norwegian Academy of Music master recital program places the work in a program focused on the Raschèr school.",
+      "url": "https://nmh.no/arrangementer/ei-hyllest-til-sigurd-rasch%C3%A8r",
+      "source_name": "Norwegian Academy of Music",
+      "kind": "institution",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "2026 festival program lists the work on a saxophone and flute concert.",
+      "url": "https://www.rovigo.news/wp-content/uploads/2026/05/Folder_XVII_F.-3.pdf",
+      "source_name": "International Saxophone Festival program",
+      "kind": "performer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Vassar College archival guide search record lists Recitative and Abracadabra (1941) in the Clair Leonard Papers and notes correspondence between Leonard and Sigurd Rascher. Direct PDF returned cache miss.",
+      "url": "https://digitallibrary.vassar.edu/sites/default/files/2022-10/Guide%20to%20the%20Clair%20Leonard%20Papers%2C%20approximately%201926-1962%20Vassar%20College%20Digital%20Library.pdf",
+      "source_name": "Vassar College, Guide to the Clair Leonard Papers",
+      "kind": "institution",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference: the archival Rascher correspondence makes saxophone provenance plausible, but does not prove a commission, dedication, exact instrumentation, or musical demands.",
+  "collection_flag": "Historical saxophone repertoire candidate with archival association to Sigurd Rascher; exact edition and work identity need score confirmation.",
+  "listening": [],
+  "score_links": [
+    {
+      "url": "https://www.grothmusic.com/p-70939.aspx",
+      "description": "Assigned Bourne edition purchase page; score not inspected.",
+      "inspected": false
+    }
+  ],
+  "gaps": [
+    "The Vassar PDF was only available in search-index text.",
+    "No score, recording, or college/professional performance documentation verified."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Clair Leonard Recitative and Abracadabra 1941 Sigurd Rascher score",
+    "Vassar Clair Leonard papers folder 4.13"
+  ]
+}

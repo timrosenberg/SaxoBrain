@@ -1,0 +1,57 @@
+{
+  "id": 181,
+  "batch": 8,
+  "filename": "Jean-Marie Leclair - Sonata in G min.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Jean-Marie Leclair - Sonata in G min.md",
+  "title": "Sonata in G min",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Jean-Marie Leclair, Sonata in G minor, Southern Music SS788, arranged for alto saxophone by Peter Gorner. Hal Leonard’s official page lists 26 pages and its own Level 4 label. The exact source sonata and score contents were not established from the publisher page.",
+  "evidence": [
+    {
+      "claim": "Catalog lead identifies Southern SS788, movement names Prelude, Allemande, Sarabande, Minuette and Double, and optional repeats; the exact score was not accessed.",
+      "url": "https://www.grothmusic.com/p-143007.aspx",
+      "source_name": "Groth Music edition listing",
+      "kind": "existing_catalog_lead",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Hal Leonard’s official product page identifies Southern Music SS788 as an alto-saxophone edition arranged by Peter Gorner, 26 pages, labeled Level 4 by the publisher. This label is not a college-year recommendation.",
+      "url": "https://www.halleonard.com/product/3774454/sonata-in-g-minor",
+      "source_name": "Hal Leonard / Southern Music official product listing",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "The Illinois Grade School Music Association’s required solo list, updated January 2016, places Leclair/Gorner, Sonata in G Minor in the E-flat alto saxophone Class A list. This documents a school contest-list placement and does not establish simplification or college suitability.",
+      "url": "https://igsmasouth.org/Downloads/IGSMA/Doc/Lists/IGSMA_Solo_List_Complete_2015-17.pdf",
+      "source_name": "Illinois Grade School Music Association, Required Solo List 2015–17",
+      "kind": "pedagogy",
+      "access": "opened",
+      "page": "PDF p. 157"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Compare the published saxophone part with the violin source, particularly repeats, ornamentation, and instrument-specific phrasing.",
+  "collection_flag": "Publisher identifies an alto-saxophone arrangement by Peter Gorner. Its “Level 4” is the publisher’s label. IGSMA’s 2015–17 list includes Leclair/Gorner in an E-flat alto Class A contest list; that school placement does not establish simplification or exclude college use.",
+  "listening": [],
+  "score_links": [
+    {
+      "url": "https://www.halleonard.com/product/3774454/sonata-in-g-minor",
+      "description": "Official product metadata only; no score preview available.",
+      "inspected": false
+    }
+  ],
+  "gaps": [
+    "The publisher page provides no public notation preview; the saxophone part and original-source match were not inspected.",
+    "No work-specific performance or college/professional programming verified."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Jean-Marie Leclair Sonata G minor saxophone alto piano SS788",
+    "Hal Leonard Southern Music SS788 Gorner public score preview",
+    "Leclair Sonata in G minor Peter Gorner alto saxophone performance",
+    "Opened official Hal Leonard product page after web cache miss; no preview link displayed",
+    "Opened IGSMA 2015–17 required solo list, printed page 157, for Leclair/Gorner Class A listing"
+  ]
+}

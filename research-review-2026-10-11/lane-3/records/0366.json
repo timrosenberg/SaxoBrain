@@ -1,0 +1,49 @@
+{
+  "id": 366,
+  "batch": 15,
+  "filename": "Ted Hansen - Chanson.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Ted Hansen - Chanson.md",
+  "title": "Chanson",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Ted Hansen's Chanson is listed by retailer as a 2003 Dorn Publications work for alto saxophone and piano, DORN1298, dedicated to Roy Allen.",
+  "evidence": [
+    {
+      "claim": "Retailer product record identifies edition and dedication.",
+      "url": "https://www.grothmusic.com/p-143132.aspx",
+      "source_name": "Groth Music",
+      "kind": "retailer",
+      "access": "opened"
+    },
+    {
+      "claim": "Composer site mentions Chanson for alto saxophone and piano among publisher works.",
+      "url": "https://www.drtedhansen.com/biography",
+      "source_name": "Ted Hansen official site",
+      "kind": "composer",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "unknown",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No notation preview, verified recording, or pedagogical placement found."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    {
+      "query": "Ted Hansen Chanson DORN1298 saxophone piano score",
+      "checked": "Search results and listed sources checked; gaps stated per record."
+    },
+    {
+      "query": "Ted Hansen Chanson Roy Allen recording",
+      "checked": "Search results and listed sources checked; gaps stated per record."
+    },
+    {
+      "query": "site:drtedhansen.com Chanson saxophone",
+      "checked": "Search results and listed sources checked; gaps stated per record."
+    }
+  ]
+}

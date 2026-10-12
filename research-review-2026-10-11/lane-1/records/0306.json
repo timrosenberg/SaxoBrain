@@ -1,0 +1,41 @@
+{
+  "id": 306,
+  "batch": 13,
+  "filename": "Pierre-Max DuBois - Sonate Fantaisie.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Pierre-Max DuBois - Sonate Fantaisie.md",
+  "title": "Sonate Fantaisie",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Sonate Fantaisie is Pierre-Max Dubois’s 1979 alto saxophone and piano work, Billaudot GB3038. A scholarly appendix gives duration about 13:30 and its dedication to George Gourdet; the catalog note supplies three section headings.",
+  "evidence": [
+    {
+      "claim": "LMI lists Billaudot GB3038 and instrumentation.",
+      "url": "https://www.lmi-partitions.com/produit/sonate-fantaisie-2/",
+      "source_name": "LMI Partitions",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "IPCB thesis appendix lists 1979, saxophone/piano, dedication and approx. 13:30 duration.",
+      "url": "https://repositorio.ipcb.pt/bitstreams/0f445fb4-8d44-49e5-bed2-bb11c6736eb1/download",
+      "source_name": "Polytechnic Institute of Castelo Branco thesis",
+      "kind": "institution",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference: the documented 13:30 duration and three section labels support checking pacing and character changes across the full score.",
+  "collection_flag": "Published saxophone/piano work with documented dedicatee; composer’s wider saxophone catalogue is substantial.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No notation or recording inspected.",
+    "Movement names rely on catalog notes, not the publisher page."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Pierre Max Dubois Sonate Fantaisie Billaudot GB3038",
+    "IPCB Dubois Sonate fantaisie 13:30",
+    "LMI Sonate Fantaisie Dubois saxophone"
+  ]
+}

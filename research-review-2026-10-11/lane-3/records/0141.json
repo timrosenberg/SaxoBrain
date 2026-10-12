@@ -1,0 +1,41 @@
+{
+  "id": 141,
+  "batch": 6,
+  "filename": "Harold Farberman - Concerto.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Harold Farberman - Concerto.md",
+  "title": "Concerto",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "The assignment identifies Harold Farberman’s Concerto, General Music Publishing catalog GEN823, for alto saxophone with piano reduction/orchestra. A copyright index lists an alto-saxophone-and-strings concerto with piano reduction by Farberman in an 1984 copyright record, but the relationship to GEN823 and its current edition was not confirmed.",
+  "evidence": [
+    {
+      "claim": "Copyright record indexes Farberman’s Concerto for alto saxophone and strings, including piano reduction, as an 1984 recordation. It does not identify the General GEN823 edition.",
+      "url": "https://www.copyrightencyclopedia.com/concerto-for-alto-sax-and-strings-piano-reduction-by-farberman/",
+      "source_name": "Copyright Encyclopedia index of U.S. copyright catalog",
+      "kind": "institution",
+      "access": "opened"
+    },
+    {
+      "claim": "The existing work listing names General Music Publishing GEN823.",
+      "url": "https://www.grothmusic.com/p-37714.aspx",
+      "source_name": "Groth Music catalog listing",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "First confirm that GEN823 is the same work/version as the indexed alto-and-strings concerto; then review solo writing against piano reduction.",
+  "collection_flag": "Orchestral concerto with piano reduction according to secondary catalog/copyright metadata; no further college-program or pedagogical evidence located.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "Exact edition-to-copyright record match unresolved.",
+    "No score, recording, movement structure or duration verified."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Harold Farberman Concerto saxophone piano GEN823 score recording",
+    "Farberman concerto alto sax strings piano reduction 1984",
+    "General GEN823 Farberman"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 26,
+  "batch": 2,
+  "filename": "Boris Mersson - Fantasia.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Boris Mersson - Fantasia.md",
+  "title": "Fantasia",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Boris Mersson, Fantasia op. 37, for alto saxophone and piano. The Antwerp conservatory holdings list identifies the 1981 Kunzelmann score and part, dedication to Iwan Roth, and 1979 composition date. A separate orchestral version also appears in catalog evidence.",
+  "evidence": [
+    {
+      "claim": "The Paris Philharmonie saxophone repertoire guide identifies Fantasia op. 37 for alto saxophone and piano and describes an adagio leading into a rhythmically driven allegro.",
+      "url": "https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+      "source_name": "Philharmonie de Paris, 10 ans avec le saxophone",
+      "kind": "institution",
+      "access": "search_index_only",
+      "page": 87
+    },
+    {
+      "claim": "A Belgian conservatory library lists a 1981 Kunzelmann piano score and part, dedicated to Iwan Roth, and separately a 1982 30-page alto saxophone and orchestra score.",
+      "url": "https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf",
+      "source_name": "Conservatoire Royal de Bruxelles/Antwerp library repertoire list",
+      "kind": "institution",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Current retail catalog identifies Kunzelmann edition for alto saxophone and piano, ISMN 9790206210983.",
+      "url": "https://www.ficksmusic.com/en-ca/products/mersson-fantasia-for-alto-saxophone-and-piano-kunzelmann",
+      "source_name": "Ficks Music",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "The Antwerp Conservatory library lists Fantasia per sassofono alto e pianoforte, op. 37, Zurich: Edition Albert J. Kunzelmann, 1981; one score and one part; dedicated to Iwan Roth; composed 1979.",
+      "url": "https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf",
+      "source_name": "Conservatoire Royal de Bruxelles / Antwerp saxophone holdings list",
+      "kind": "institution",
+      "access": "opened",
+      "page": 36
+    },
+    {
+      "claim": "On printed page 87 (PDF page 82), the guide identifies Mersson’s Fantasia, Op. 37, for alto saxophone and piano and characterizes its form as an Adagio flowing into a rhythmic Allegro. The entry gives no study-year placement.",
+      "url": "https://mediatheque.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+      "source_name": "Philharmonie de Paris, 10 ans avec le saxophone",
+      "kind": "institution",
+      "access": "opened",
+      "page": "printed p. 87; PDF p. 82"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference: the Philharmonie guide’s Adagio-to-Allegro outline makes sustained lyricism, rhythmic drive, and a style change reasonable listening questions; no score passage was inspected.",
+  "collection_flag": "Original alto saxophone work; an orchestral version also exists. The target piano edition is identified, though its notation remains inaccessible.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "Readable score preview and a matching saxophone recording were not verified."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "\"Boris Mersson\" \"Fantasia\" op. 37 saxophone score",
+    "Antwerp saxophone repertoire PDF Mersson Fantasia 1979"
+  ]
+}

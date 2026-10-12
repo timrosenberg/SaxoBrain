@@ -1,0 +1,57 @@
+{
+  "id": 188,
+  "batch": 8,
+  "filename": "Jean-Paul Rieunier - Lineal.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Jean-Paul Rieunier - Lineal.md",
+  "title": "Lineal",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Jean-Paul Rieunier, Linéal (1970), for alto saxophone and piano, A. Leduc AL24400. The opened French Wind Music Archive item record gives 10 pages plus separate parts and identifies it as a CNSM competition work.",
+  "evidence": [
+    {
+      "claim": "Archive record identifies Linéal for alto saxophone and piano, Paris: A. Leduc, 1970, 10 pages plus separate parts, publisher reference AL24400, and notes it as a CNSM competition work.",
+      "url": "https://windmusic.org/index.php?lvl=notice_display&id=5425",
+      "source_name": "French Wind Music Archive item record",
+      "kind": "institution",
+      "access": "opened"
+    },
+    {
+      "claim": "A separate archive author/index page cross-lists the title under saxophone repertoire and publisher reference A.L. 24 400.",
+      "url": "https://windmusic.org/index.php?id=2171&lvl=author_see",
+      "source_name": "French Wind Music Archive author listing",
+      "kind": "institution",
+      "access": "opened"
+    },
+    {
+      "claim": "The archive classifies the work Année 9 in its own repertoire index; this is archival/pedagogical metadata, not a SaxoBrain or college-year label.",
+      "url": "https://windmusic.org/index.php?lvl=notice_display&id=5425",
+      "source_name": "French Wind Music Archive item record",
+      "kind": "pedagogy",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "The archive identifies Linéal as a CNSM competition work and classifies it Année 9 in its own pedagogical index. That institutional category is documented context, not a college year or SaxoBrain level. The notation and written range remain uninspected.",
+  "collection_flag": "Original alto saxophone/piano work with documented CNSM competition provenance. That context is not a difficulty or college-year assignment.",
+  "listening": [],
+  "score_links": [
+    {
+      "url": "https://windmusic.org/index.php?lvl=notice_display&id=5425",
+      "description": "Opened archive bibliographic record for the edition; no score notation displayed.",
+      "inspected": false
+    }
+  ],
+  "gaps": [
+    "No readable Leduc score or notation preview was available after checking the archive, publisher, library, and score-preview leads.",
+    "The archive’s Année 9 is its own classification and must not be mapped to a college year.",
+    "No specific performance recording was verified."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Jean-Paul Rieunier Lineal saxophone piano score",
+    "Jean-Paul Rieunier Linéal Leduc AL24400 saxophone score preview",
+    "Jean-Paul Rieunier Lineal saxophone piano recording",
+    "Jean-Paul Rieunier Lineal conservatory list saxophone",
+    "Opened archive item record and author index; searched publisher, library, score preview, and performance leads"
+  ]
+}

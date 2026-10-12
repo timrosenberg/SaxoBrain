@@ -1,0 +1,59 @@
+{
+  "id": 387,
+  "batch": 16,
+  "filename": "Walter Hartley - Festive Ode to Yerevan.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Walter Hartley - Festive Ode to Yerevan.md",
+  "title": "Festive Ode to Yerevan",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Hartley’s Festive Ode to Yerevan is a 1998 work for alto saxophone and piano. The Hartley estate saxophone catalog lists it as catalog no. 227, publisher Dorn, duration 2:45, and accompaniment ‘Piano Duet’; the dissertation bibliography independently lists alto saxophone and piano. The source does not clarify whether ‘Piano Duet’ means piano four-hands or another scoring.",
+  "evidence": [
+    {
+      "claim": "University of Maryland saxophone dissertation bibliography lists Festive Ode to Yerevan for alto saxophone and piano, 1998.",
+      "url": "https://api.drum.lib.umd.edu/server/api/core/bitstreams/2153c64b-6b45-45aa-8f96-15586240afc5/content",
+      "source_name": "University of Maryland dissertation",
+      "kind": "institution",
+      "access": "opened"
+    },
+    {
+      "claim": "Thematic catalog entry 248 (printed p. 156 / PDF p. 160) lists 1998 Festive Ode to Yerevan for alto saxophone, ‘piano duet.’ The catalog does not define that accompaniment label.",
+      "url": "https://scispace.com/pdf/a-thematic-catalog-of-the-tuba-and-euphonium-literature-of-2dsw9vmjim.pdf",
+      "source_name": "Hartley thematic catalog (hosted copy)",
+      "kind": "reference",
+      "access": "opened",
+      "page": "printed 156 / PDF 160"
+    },
+    {
+      "claim": "Official Hartley estate saxophone catalog lists Festive Ode to Yerevan as no. 227, 1998, alto saxophone, ‘Piano Duet,’ duration 2:45, publisher Dorn.",
+      "url": "https://www.walterhartley.com/Saxophone_2.htm",
+      "source_name": "Walter S. Hartley estate, saxophone works catalog",
+      "kind": "composer",
+      "access": "opened"
+    },
+    {
+      "claim": "Dorn Publications catalog lists product DP1989 as alto saxophone and two pianos; relation of this abbreviation to the estate catalog’s ‘Piano Duet’ wording was not clarified.",
+      "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+      "source_name": "Dorn Publications catalog",
+      "kind": "publisher",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Published saxophone work. The estate catalog calls the accompaniment ‘Piano Duet’ and the Dorn product catalog uses ‘a/2pno’; whether this is piano four-hands or two pianos is unresolved.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "Clarify from a publisher score or record whether accompaniment is piano four-hands or two pianos; no notation inspected.",
+    "No saxophone recording verified."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Walter Hartley Festive Ode to Yerevan alto sax piano score",
+    "Festive Ode to Yerevan Hartley piano duet edition",
+    "Walter Hartley Festive Ode to Yerevan Dorn DP1989 piano duet",
+    "Dorn Publications catalog DP1989 Festive Ode to Yerevan",
+    "Walter Hartley official Saxophone_2 Festive Ode to Yerevan no. 227 1998 2:45",
+    "Hartley Festive Ode to Yerevan DP1989 a/2pno"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 383,
+  "batch": 16,
+  "filename": "Walter Hartley - African Dance.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Walter Hartley - African Dance.md",
+  "title": "African Dance",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Hartley's African Dance is cataloged for alto saxophone and piano as Dorn DP0946. A University of Maryland dissertation bibliography identifies it as a 1994 work; current publisher catalog pages were not located.",
+  "evidence": [
+    {
+      "claim": "University of Maryland dissertation lists African Dance for alto saxophone and piano, 1994.",
+      "url": "https://api.drum.lib.umd.edu/server/api/core/bitstreams/2153c64b-6b45-45aa-8f96-15586240afc5/content",
+      "source_name": "University of Maryland dissertation",
+      "kind": "institution",
+      "access": "opened"
+    },
+    {
+      "claim": "Dorn item DP0946 listed for saxophone and piano.",
+      "url": "https://www.juneemersonwindmusic.com/African-Dance-7b965658-535e-ed9e-e92d-5aa07e75e18e.html",
+      "source_name": "June Emerson Wind Music",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Estate catalog lists African Dance as 1994, alto saxophone and piano, 2:30, Dorn, no. 199.",
+      "url": "https://www.walterhartley.com/Saxophone_2.htm",
+      "source_name": "Walter S. Hartley estate, saxophone works catalog",
+      "kind": "composer",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Published saxophone/piano work; no audience or level verified.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No score, recording, or musical description found."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Walter Hartley African Dance DP0946 saxophone piano",
+    "African Dance Hartley 1994 saxophone score preview",
+    "Walter Hartley official Saxophone_2.htm saxophone works catalog"
+  ]
+}

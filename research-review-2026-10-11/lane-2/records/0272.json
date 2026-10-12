@@ -1,0 +1,40 @@
+{
+  "id": 272,
+  "batch": 11,
+  "filename": "Nicole Philiba - Sonate.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Nicole Philiba - Sonate.md",
+  "title": "Sonate",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Nicole Philiba, Sonate for E-flat saxophone and piano, Éditions Billaudot MRB1140, in L’Enseignement moderne du saxophone. Billaudot’s opened product page classifies it “Difficile (cycle 3)” and reports no downloadable PDF file; this is publisher classification, not a college-year recommendation.",
+  "evidence": [
+    {
+      "claim": "Opened Billaudot product page identifies Nicole Philiba’s Sonate for E-flat saxophone and piano, product MRB1140, in L’Enseignement moderne du saxophone. The publisher labels it “Difficile (cycle 3)” and the product data says hasPdfFile=false, so no publisher preview is available there.",
+      "url": "https://www.billaudot.com/sonate-saxophone-et-piano-3.html",
+      "source_name": "Éditions Billaudot product page",
+      "kind": "publisher",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "The publisher classification signals a later conservatory cycle, but the score remains unavailable for review. Verify movement structure, written range, rhythm, articulation, and ensemble demands from an accessible score before making a musical assessment.",
+  "collection_flag": "Billaudot presents the E-flat saxophone/piano edition in a teaching series and labels it “Difficile (cycle 3).” This publisher classification is retained without mapping to a college year.",
+  "listening": [],
+  "score_links": [
+    {
+      "url": "https://www.billaudot.com/sonate-saxophone-et-piano-3.html",
+      "description": "Publisher product page opened; publisher data indicates no PDF preview is available. No notation inspected.",
+      "inspected": false
+    }
+  ],
+  "gaps": [
+    "Billaudot reports no PDF preview; representative notation, written range, and work-specific musical demands remain unverified.",
+    "No recording or college/professional programming evidence was verified."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Nicole Philiba Sonate saxophone piano",
+    "Opened Éditions Billaudot product page MRB1140; checked instrumentation, series, difficulty label, and PDF availability",
+    "No downloadable preview was available on the opened publisher page"
+  ]
+}

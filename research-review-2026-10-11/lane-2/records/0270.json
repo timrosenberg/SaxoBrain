@@ -1,0 +1,52 @@
+{
+  "id": 270,
+  "batch": 11,
+  "filename": "Miriam Hyde - Scherzetto.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Miriam Hyde - Scherzetto.md",
+  "title": "Scherzetto",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Miriam Hyde, Scherzetto, for saxophone and piano, composed 1957, about two minutes. The Wirripang product page gives a suggested AMEB Grade 6, ISMN 9790720133966, and links a one-page score sample. The preview’s saxophone part is labeled “Saxophone” without a saxophone type.",
+  "evidence": [
+    {
+      "claim": "Wirripang’s product page identifies Scherzetto by Miriam Hyde for saxophone and piano, about two minutes, composed 1957, with suggested AMEB Grade 6 and ISMN 9790720133966.",
+      "url": "https://www.australiancomposers.com.au/products/scherzetto",
+      "source_name": "Wirripang / Australian Composers product page",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "The linked one-page sample is a score excerpt. Its heading dedicates the work “To Clive Amadio”; the saxophone part is labeled only “Saxophone.” It shows the opening marked Allegro con brio, dotted quarter note = 132, in 6/8.",
+      "url": "https://cdn.shopify.com/s/files/1/0018/5896/1460/files/Scherzetto-sheet-music.pdf?3159151936349412909",
+      "source_name": "Wirripang public score sample, PDF p. 1",
+      "kind": "score",
+      "access": "score_inspected",
+      "page": "PDF p. 1"
+    }
+  ],
+  "score_observations": [
+    "The single-page opening excerpt begins at Allegro con brio, dotted quarter note = 132, in 6/8. Saxophone starts immediately at mf with eighth-note figures, duplets, slurs, occasional staccato dots, and a crescendo/diminuendo contour. The piano alternates a moving bass figure with rests and sustained chords, then has denser scalar motion beneath a sustained saxophone phrase. This is a one-page excerpt, not a full-work survey."
+  ],
+  "review_focus": "Inference from the opening excerpt: review articulation consistency across slurred and detached figures and coordination with the piano’s alternating bass and chordal writing. The full score is needed to judge the complete range and demands.",
+  "collection_flag": "Wirripang documents a suggested AMEB Grade 6 classification. This publisher-provided classification is not a college-year recommendation. The sample labels the part only “Saxophone,” so exact instrument type remains unspecified.",
+  "listening": [],
+  "score_links": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0018/5896/1460/files/Scherzetto-sheet-music.pdf?3159151936349412909",
+      "description": "Public one-page score sample; opening notation visually inspected.",
+      "inspected": true
+    }
+  ],
+  "gaps": [
+    "Only a one-page sample was inspected; complete form, written range, and demands across the full piece remain unknown.",
+    "The publisher page says saxophone without specifying soprano, alto, tenor, or baritone.",
+    "No recording or college/professional placement was verified."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Miriam Hyde Scherzetto alto saxophone piano",
+    "Opened Wirripang product page and checked its scoring, duration, composition date, AMEB suggestion, and ISMN",
+    "Opened the public one-page score sample linked from the product page and visually inspected the opening",
+    "Checked the product page for audio and broader repertoire-placement information; none was verified"
+  ]
+}

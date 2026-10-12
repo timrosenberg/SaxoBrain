@@ -1,0 +1,40 @@
+{
+  "id": 24,
+  "batch": 1,
+  "filename": "Bertrand Gay - Five Love Songs.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Bertrand Gay - Five Love Songs.md",
+  "title": "Five Love Songs",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Bertrand Gay's *Five Love Songs* is a five-movement cycle (Monday through Friday), available in separate saxophone editions. The catalog file's alto designation aligns with a Stretta listing for alto and piano that labels it advanced and 18 minutes; a distinct tenor edition is also catalogued as EMR13407, so the edition number in the current file should be checked against the alto product.",
+  "evidence": [
+    {
+      "claim": "Stretta catalog record identifies alto/piano, five titled movements, 18-minute duration, advanced label, and product number EMR22994.",
+      "url": "https://www.stretta-music.it/gay-5-love-songs-nr-1251485.html",
+      "source_name": "Stretta Music",
+      "kind": "retailer",
+      "access": "opened"
+    },
+    {
+      "claim": "Presto identifies the separate tenor edition EMR13407.",
+      "url": "https://www.prestomusic.com/sheet-music/products/7468198--gay-bertrand-5-love-songs",
+      "source_name": "Presto Music",
+      "kind": "retailer",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Original saxophone cycle appears to have saxophone-specific editions; no evidence of transcription for young players.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "Reconcile catalog's EMR13406/tenor edition versus alto edition EMR22994.",
+    "No accessible score preview or performance recording verified."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Bertrand Gay Five Love Songs tenor saxophone saxophone piano Editions Marc Reift EMR 13406",
+    "Bertrand Gay 5 Love Songs alto piano 18 minutes"
+  ]
+}

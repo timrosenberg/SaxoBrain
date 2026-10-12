@@ -1,0 +1,43 @@
+{
+  "id": 242,
+  "batch": 10,
+  "filename": "Marcel Dautremer - Concerto.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Marcel Dautremer - Concerto.md",
+  "title": "Concerto",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Marcel Dautremer’s Concerto is for E-flat alto saxophone and string orchestra; Lemoine’s piano score is a reduction. A library record dates its edition c1964 and lists a 27-page score. The catalog’s Lemoine HX24084 and three movement names need checking against that older edition.",
+  "evidence": [
+    {
+      "claim": "CiNii library record describes the string-orchestra concerto and its piano reduction, c1964.",
+      "url": "https://ci.nii.ac.jp/ncid/BA89731382",
+      "source_name": "CiNii Books",
+      "kind": "institution",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Presto listing identifies HX24084 and a 35-page edition.",
+      "url": "https://www.prestomusic.com/sheet-music/products/7085774--dautremer-marcel-concerto-eb-saxophone-and-piano",
+      "source_name": "Presto Music",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference: the documented separate orchestral original and piano reduction make rehearsal format and concerto accompaniment choice salient for review.",
+  "collection_flag": "Original concerto for alto saxophone and string orchestra; piano score is a reduction.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "Current edition identifier, movement headings, and discrepancy between 27-page and 35-page records remain unresolved.",
+    "No score notation, orchestral recording, or performance program inspected."
+  ],
+  "proposed_corrections": [
+    "Clarify that piano is a reduction of the string-orchestra accompaniment."
+  ],
+  "searches": [
+    "Marcel Dautremer Concerto saxophone string orchestra piano reduction HX24084",
+    "CiNii BA89731382",
+    "Presto 7085774 Dautremer Concerto"
+  ]
+}

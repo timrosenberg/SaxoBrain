@@ -1,0 +1,60 @@
+{
+  "id": 60,
+  "batch": 3,
+  "filename": "Cécile Chaminade - Rêve d'un Soir.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Cécile Chaminade - Rêve d'un Soir.md",
+  "title": "Rêve d'un Soir",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "The cataloged soprano-saxophone item is a transcription of Cécile Chaminade’s song Rêve d’un soir, originally for voice and piano and first published in 1891. IMSLP and the University of Rochester’s Sibley Music Library provide the source song score, but not the cataloged saxophone arrangement.",
+  "evidence": [
+    {
+      "claim": "IMSLP identifies the original as a voice-and-piano song, first published 1891, and hosts high- and low-voice scores. No saxophone arrangement appears in its arrangements list.",
+      "url": "https://imslp.org/wiki/R%C3%AAve_d%27un_soir_%28Chaminade%2C_C%C3%A9cile%29",
+      "source_name": "IMSLP, original song record",
+      "kind": "score",
+      "access": "opened"
+    },
+    {
+      "claim": "University of Rochester’s Sibley Music Library catalog describes the 1892 Schirmer volume Twenty Melodies with French and English Words, including Rêve d’un soir, as voice and piano.",
+      "url": "https://urresearch.rochester.edu/institutionalPublicationPublicView.action?institutionalItemId=16191&versionNumber=1",
+      "source_name": "University of Rochester, Sibley Music Library",
+      "kind": "institution",
+      "access": "opened"
+    },
+    {
+      "claim": "A saxophone-journal recording catalog lead credits Frank Bongiorno and pianist Barry Salwen with a soprano-saxophone version and playalong; this confirms a recording lead but not a freely playable, matched edition.",
+      "url": "https://catalog.lib.ecu.edu/catalog/580822",
+      "source_name": "East Carolina University catalog record",
+      "kind": "institution",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Transcription of a vocal art song originally for voice and piano. Its basic source texture is a lyrical vocal melody, but the saxophone arrangement’s edits, range, and technical demands were not inspected; preservation of that melody is a working inference, not verified score evidence.",
+  "listening": [],
+  "score_links": [
+    {
+      "url": "https://imslp.org/wiki/R%C3%AAve_d%27un_soir_%28Chaminade%2C_C%C3%A9cile%29",
+      "description": "Public-domain source song for high and low voice with piano; not the saxophone transcription.",
+      "inspected": false
+    },
+    {
+      "url": "https://urresearch.rochester.edu/institutionalPublicationPublicView.action?institutionalItemId=16191&versionNumber=1",
+      "description": "Institutional record for the source vocal collection; does not supply the saxophone arrangement.",
+      "inspected": false
+    }
+  ],
+  "gaps": [
+    "The cataloged soprano-saxophone transcription’s arranger, publisher, exact notation, range, and availability need confirmation.",
+    "The Saxophone Journal CD and playalong record were identified in a library catalog lead but no accessible recording was verified."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Cécile Chaminade Rêve d’un soir soprano saxophone piano score",
+    "IMSLP Rêve d’un soir Chaminade voice piano saxophone arrangement",
+    "East Carolina catalog Frank Bongiorno Rêve d’un soir Saxophone Journal",
+    "Rêve d’un soir Chaminade soprano saxophone recording"
+  ]
+}

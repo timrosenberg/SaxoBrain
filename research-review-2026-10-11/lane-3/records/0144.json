@@ -1,0 +1,32 @@
+{
+  "id": 144,
+  "batch": 6,
+  "filename": "Harry Gee - Homage to Vaughan Williams.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Harry Gee - Homage to Vaughan Williams.md",
+  "title": "Homage to Vaughan Williams",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Dorn Publications DORN0768 lists Harry Gee’s Homage to Vaughan Williams for alto saxophone and piano. The catalog’s alternate spelling of “Vaughn” is not used as a distinct title. No score or performance evidence was found.",
+  "evidence": [
+    {
+      "claim": "Dorn listing identifies DORN0768 and the title Homage to Vaughan Williams for alto saxophone and piano.",
+      "url": "https://www.grothmusic.com/p-142799.aspx",
+      "source_name": "Groth Music, Dorn listing",
+      "kind": "retailer",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Review the score for any thematic quotation, phrasing demands and saxophone range; the title alone does not establish a quotation or musical style.",
+  "collection_flag": "No documented pedagogical or programming use found.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No readable score, recording or independent work-specific analysis located."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Harry Gee Homage to Vaughan Williams DORN0768 saxophone score recording",
+    "Harry Gee Homage to Vaughn Williams piano saxophone"
+  ]
+}

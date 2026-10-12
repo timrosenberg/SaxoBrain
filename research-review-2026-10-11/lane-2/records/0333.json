@@ -1,0 +1,40 @@
+{
+  "id": 333,
+  "batch": 14,
+  "filename": "Robert Planel - Valse Sentimentale.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Robert Planel - Valse Sentimentale.md",
+  "title": "Valse Sentimentale",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Planel's Valse Sentimentale is no. 4 of Suite Romantique, for alto saxophone and piano, Leduc AL20249.",
+  "evidence": [
+    {
+      "claim": "University of Oulu's opened library record identifies no. 4, Valse sentimentale, Leduc AL20249, one score (5 pages) plus part.",
+      "url": "https://www.finna.fi/Record/oy.996786206252",
+      "source_name": "Finna / University of Oulu catalog",
+      "kind": "institution",
+      "access": "opened"
+    },
+    {
+      "claim": "The Philharmonie de Paris ten-year saxophone guide describes no. 4, Valse sentimentale, as a moderate waltz at quarter note = 160, with a slower middle section and return to the opening theme; listed duration three minutes. This is a guide description, not direct score inspection.",
+      "url": "https://mediatheque.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+      "source_name": "Philharmonie de Paris, Dix ans avec le saxophone",
+      "kind": "pedagogy",
+      "access": "opened",
+      "page": "PDF p. 44 (printed p. 47)"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference from the guide’s description: review the documented tempo/form contrast and articulation details in the score; no notation was inspected.",
+  "collection_flag": "Original piece in Planel’s six-work saxophone/piano suite. The guide uses a fifth-year label, which is retained as source terminology without conversion to a college year.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No score pages or performance inspected."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Valse Sentimentale Planel AL20249 saxophone score",
+    "Philharmonie saxophone repertoire guide Planel Valse Sentimentale"
+  ]
+}

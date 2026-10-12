@@ -1,0 +1,56 @@
+{
+  "id": 101,
+  "batch": 5,
+  "filename": "Gabriel Fauré - Sicilienne Op. 78.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Gabriel Fauré - Sicilienne Op. 78.md",
+  "title": "Sicilienne Op. 78",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Gabriel Fauré, Sicilienne Op. 78, in Daniel Deffayet’s alto saxophone and piano transcription, Hamelle/Leduc AL 29027. The consulted sources establish the saxophone edition; its relationship to the original scoring and intended audience are not established here.",
+  "evidence": [
+    {
+      "claim": "Edition listing identifies Gabriel Fauré, Op. 78, alto saxophone/piano transcription by Daniel Deffayet, Hamelle/Leduc AL 29027, ca. 3:30.",
+      "url": "https://www.laflutedepan.com/partition/1024780/gabriel-faure-sicilienne-opus-78-partition-saxophone-alto-et-piano.html",
+      "source_name": "La Flûte de Pan",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Opened product page confirms Leduc AL29027, alto saxophone and piano, Op. 78, arranged by Daniel Deffayet. The page has a sample image link.",
+      "url": "https://www.laflutedepan.com/partition/1024780/gabriel-faure-sicilienne-opus-78-partition-saxophone-alto-et-piano.html",
+      "source_name": "La Flûte de Pan product page",
+      "kind": "retailer",
+      "access": "opened"
+    },
+    {
+      "claim": "Opened the linked sample image. It is a low-resolution watermarked notation thumbnail; individual notes and details are not legible enough for musical inspection.",
+      "url": "https://www.img-music.com/links/jpg/vig_alha09292_0001024780_002.jpg",
+      "source_name": "La Flûte de Pan score sample thumbnail",
+      "kind": "score",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference: review how the alto-saxophone transcription handles phrasing and articulation in this lyrical piece; the accessible sample is too small to support note-level observations.",
+  "collection_flag": "Cataloged saxophone transcription; intended audience and original scoring relationship are not established by the inspected evidence.",
+  "listening": [],
+  "score_links": [
+    {
+      "url": "https://www.img-music.com/links/jpg/vig_alha09292_0001024780_002.jpg",
+      "description": "Watermarked score-sample thumbnail, opened but too low resolution to inspect notation.",
+      "inspected": false
+    }
+  ],
+  "gaps": [
+    "No accessible saxophone notation was inspected; exact technical demands and range remain unknown.",
+    "A matching saxophone performance recording was not verified or auditioned.",
+    "College/professional programming or pedagogical placement is not established by the accessible evidence.",
+    "The publisher-linked score sample is only a 160 × 213 pixel watermarked image; musical notation is not legible enough to inspect."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Fauré Sicilienne saxophone alto piano Deffayet score AL 29027",
+    "Opened La Flûte de Pan exact product listing and its linked score-thumbnail image",
+    "Searched Fauré Sicilienne original Pelléas saxophone edition and performer context"
+  ]
+}

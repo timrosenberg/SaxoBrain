@@ -1,0 +1,34 @@
+{
+  "id": 143,
+  "batch": 6,
+  "filename": "Harry Gee - Canto.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Harry Gee - Canto.md",
+  "title": "Canto",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Shawnee Press catalog 35002765 identifies Harry Gee’s Canto for alto saxophone and piano. Search results were polluted by similar titles and Gee pieces, so no technical or programming claims are carried over from unrelated works.",
+  "evidence": [
+    {
+      "claim": "Catalog listing identifies Shawnee Press 35002765 for Canto.",
+      "url": "https://www.grothmusic.com/p-37709.aspx",
+      "source_name": "Groth Music, Shawnee Press listing",
+      "kind": "retailer",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Review score for melodic and rhythmic demands, phrasing and range; no work-specific musical evidence was located.",
+  "collection_flag": "No documented audience or pedagogical placement found.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No score preview, verified saxophone recording or college program found.",
+    "A same-composer work titled Canzona is distinct and its product description was excluded."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Harry Gee Canto 35002765 alto saxophone piano score",
+    "Harry Gee Canto saxophone recording",
+    "Harry Gee Canto Shawnee 35002765"
+  ]
+}

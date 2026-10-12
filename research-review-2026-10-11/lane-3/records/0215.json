@@ -1,0 +1,49 @@
+{
+  "id": 215,
+  "batch": 9,
+  "filename": "Jérôme Naulais - Metamorphoses.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Jérôme Naulais - Metamorphoses.md",
+  "title": "Metamorphoses",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Billaudot GB6204 identifies Naulais’s Métamorphoses for alto saxophone and piano, duration 6:45, with publisher classification “Moyennement difficile (cycle 2).” A Luxembourg public conservatory syllabus includes the work in its alto-saxophone/piano study repertoire. The French publisher cycle and Luxembourg syllabus are reported as their own systems.",
+  "evidence": [
+    {
+      "claim": "Primary catalog specifies alto/piano, 6:45, and cycle 2 publisher classification.",
+      "url": "https://www.billaudot.com/metamorphoses-6.html",
+      "source_name": "Éditions Billaudot",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Search-indexed syllabus lists Naulais Métamorphoses among alto saxophone and piano pieces.",
+      "url": "https://portal.education.lu/Portals/82/Documents/prog-saxophone.pdf",
+      "source_name": "Luxembourg public education repertoire syllabus",
+      "kind": "pedagogy",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Search-indexed 2025 BEM repertoire list includes Métamorphoses.",
+      "url": "https://crr.annecy.fr/api/fileadmin/mediatheque_crr/Espace_eleves/listes_repertoire_BEM/LISTE_REPERTOIRE_BEM_MAJ_13_octobre_2025.pdf",
+      "source_name": "Conservatoire à rayonnement régional d’Annecy repertoire list",
+      "kind": "pedagogy",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "The publisher’s cycle-2 classification and local syllabus inclusion are contextual evidence. Review the notation for actual phrase, range and piano demands; no such details were verified here.",
+  "collection_flag": "Publisher classifies it as cycle 2; two conservatory syllabus searches show educational repertoire use. Do not convert those labels to a SaxoBrain level.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No notation or verified recording inspected.",
+    "Specific school-list placement and required movements in Annecy/Luxembourg not verified beyond indexed search results."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Jérôme Naulais Metamorphoses GB6204 score recording",
+    "Billaudot GB6204 durée cycle 2",
+    "Luxembourg syllabus Metamorphoses Naulais",
+    "Annecy BEM Métamorphoses Naulais"
+  ]
+}

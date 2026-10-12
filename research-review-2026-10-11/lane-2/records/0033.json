@@ -1,0 +1,50 @@
+{
+  "id": 33,
+  "batch": 2,
+  "filename": "Caix d'Hervelois - Prelude & Allegro.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Caix d'Hervelois - Prelude & Allegro.md",
+  "title": "Prelude & Allegro",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Caix d'Hervelois, Prelude and Allegro from the Suite in D minor, sold in a Robert C. Jones tenor saxophone/piano arrangement, reference DP0251 according to a retailer search listing. The catalog snapshot tags soprano saxophone, creating an unresolved mismatch.",
+  "evidence": [
+    {
+      "claim": "Retailer catalog search result identifies Prelude and Allegro from Suite in D minor in Robert C. Jones’s tenor saxophone/piano arrangement, ref. DP0251; underlying page could not be opened.",
+      "url": "https://www.grothmusic.com/p-139737.aspx",
+      "source_name": "Groth Music",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "IMSLP’s suite record catalogs source Baroque movements in non-saxophone versions; the saxophone performance edition is a later transcription.",
+      "url": "https://imslp.org/wiki/Suite_in_D_minor_(Caix_d%27Hervelois,_Louis_de)",
+      "source_name": "IMSLP, Suite in D minor",
+      "kind": "score",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "The guide names Caix d’Hervelois among several composers in the multi-volume Le Nouveau Saxophone Classique anthology. It does not identify Plainte/La Neapolitaine or Prelude/Allegro, so it cannot verify the assigned retailer editions.",
+      "url": "https://mediatheque.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+      "source_name": "Philharmonie de Paris, 10 ans avec le saxophone",
+      "kind": "institution",
+      "access": "opened",
+      "page": "printed pp. 11, 20; PDF pp. 10, 19"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference: assess stylistic articulation and ornamentation against the Baroque source once the transposed saxophone part is available.",
+  "collection_flag": "Baroque transcription. Retailer evidence points to tenor saxophone, not the soprano tag in the assigned snapshot.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "Exact edition and spelling of movement title need confirmation.",
+    "No saxophone notation, recording, or college/professional programming verified."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Caix d'Hervelois Prelude Allegro tenor saxophone piano Robert Jones DP0251"
+  ],
+  "corrections": [
+    "Check whether soprano instrument tag should be tenor after confirming DP0251; do not change catalog in this research task."
+  ]
+}

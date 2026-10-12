@@ -1,0 +1,63 @@
+{
+  "id": 240,
+  "batch": 10,
+  "filename": "Malcolm Lewis - Elegy for a Hollow Man.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Malcolm Lewis - Elegy for a Hollow Man.md",
+  "title": "Elegy for a Hollow Man",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Cornell’s Malcolm W. Lewis papers identify Elegy for a Hollow Man for solo saxophone and band, including an oversize score. Its archival notes also identify a separate saxophone-and-piano recording, and Frank Bongiorno’s album Classic Saxophone includes the work. Dorn DORN0828 is the catalog’s score lead.",
+  "evidence": [
+    {
+      "claim": "Cornell collection finding aid lists the solo saxophone and band score and oversize score.",
+      "url": "https://rmc.library.cornell.edu/EAD/htmldocs/RMM08830.html",
+      "source_name": "Cornell University Library, Malcolm W. Lewis papers",
+      "kind": "institution",
+      "access": "opened"
+    },
+    {
+      "claim": "Cornell finding aid lists a Malcolm Lewis recording with “Elegy for a Hollow Man” for saxophone and piano.",
+      "url": "https://rmc.library.cornell.edu/EAD/htmldocs/RMM08830.html",
+      "source_name": "Cornell University Library, Malcolm W. Lewis papers",
+      "kind": "institution",
+      "access": "opened"
+    },
+    {
+      "claim": "Frank Bongiorno’s official discography lists the piece on Classic Saxophone.",
+      "url": "https://www.frankbongiorno.info/",
+      "source_name": "Frank Bongiorno",
+      "kind": "performer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Apple Music Classical gives the track credit and duration 3:57 on Frank Bongiorno’s Classic Saxophone.",
+      "url": "https://classical.music.apple.com/es/album/375098497?l=en-GB",
+      "source_name": "Apple Music Classical",
+      "kind": "performer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Archival evidence confirms band version and a separate piano-accompanied recording; published edition instrumentation needs resolution.",
+  "listening": [
+    {
+      "url": "https://classical.music.apple.com/es/album/375098497?l=en-GB",
+      "description": "Frank Bongiorno, Classic Saxophone track listing, 3:57.",
+      "verification": "Recording metadata checked; playback not auditioned."
+    }
+  ],
+  "score_links": [],
+  "gaps": [
+    "Dorn DORN0828 score instrumentation and whether piano reduction accompanies band version remain unverified.",
+    "No notation inspected."
+  ],
+  "proposed_corrections": [
+    "Verify Dorn DORN0828 against the intended edition before changing the accompaniment field; Cornell documents both a saxophone-and-band score and a saxophone-and-piano recording."
+  ],
+  "searches": [
+    "Malcolm Lewis Elegy for a Hollow Man DORN0828",
+    "Cornell Malcolm W Lewis papers Elegy for a Hollow Man saxophone piano band",
+    "Frank Bongiorno Classic Saxophone Elegy for a Hollow Man"
+  ]
+}

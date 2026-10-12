@@ -1,0 +1,45 @@
+{
+  "id": 397,
+  "batch": 16,
+  "filename": "William Presser - Arioso.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/William Presser - Arioso.md",
+  "title": "Arioso",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "William Presser’s Arioso has conflicting accompaniment records. Sheet-music listings identify catalog 494-00600 as soprano saxophone or clarinet with piano, but the Presser/Fischer Woodwind catalog lists 494-00600 as soprano saxophone or clarinet, unaccompanied. The correct score contents require publisher or score verification.",
+  "evidence": [
+    {
+      "claim": "Performer Music Chicago listing identifies soprano saxophone or clarinet and piano, catalog 494-00600.",
+      "url": "https://performersmusicchicago.com/arioso-presser-cf-494-00600",
+      "source_name": "Performers Music Chicago",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Presser/Fischer Woodwind catalog page 82 lists 494-00600 Arioso for soprano saxophone or clarinet, unaccompanied; this conflicts with retailer listings that describe a piano accompaniment.",
+      "url": "https://www.tpcfassets.com/presser/catalogs/Presser_Fischer_Woodwind_catalog.pdf",
+      "source_name": "Presser/Fischer Woodwind catalog",
+      "kind": "publisher",
+      "access": "search_index_only",
+      "page": "82"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Alternate-instrument soprano saxophone or clarinet work. Accompaniment remains unresolved because the publisher catalog says unaccompanied while retailers list piano.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "Resolve whether 494-00600 is unaccompanied or has piano accompaniment; the publisher catalog and retailer listings conflict.",
+    "No score, performance, or recording inspected."
+  ],
+  "proposed_corrections": [
+    "Check the current 494-00600 score or publisher product record before changing the catalog accompaniment field."
+  ],
+  "searches": [
+    "William Presser Arioso 494-00600 soprano saxophone score",
+    "Presser Arioso saxophone piano recording",
+    "Presser Fischer Woodwind catalog 494-00600 unaccompanied",
+    "William Presser Arioso 494-00600 piano accompaniment conflict"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 245,
+  "batch": 10,
+  "filename": "Marcel Dautremer - Tango et Tarentelle.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Marcel Dautremer - Tango et Tarentelle.md",
+  "title": "Tango et Tarentelle",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Alphonse Leduc’s catalog identifies Marcel Dautremer’s Tango et Tarentelle for alto saxophone and piano, code AL20458. An older Rochester syllabus source associates it with Conservatoire competition repertoire.",
+  "evidence": [
+    {
+      "claim": "Leduc catalog lists Tango et Tarentelle for alto saxophone and piano, AL20458.",
+      "url": "https://casamusicaledelrio.it/casamusicale/wp-content/uploads/2019/04/CAT-18-107-Leduc-Catalogue-2018-ss-GS-v6-NO-CROPS-LO-RESv2.pdf",
+      "source_name": "Alphonse Leduc catalog",
+      "kind": "publisher",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Presto confirms publisher, code, and 32-page score.",
+      "url": "https://www.prestomusic.com/sheet-music/products/7376865--dautremer-tango-et-tarentelle",
+      "source_name": "Presto Music",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Rochester-hosted conservatory syllabus identifies it among Dautremer competition repertoire and gives a grade marker.",
+      "url": "https://urresearch.rochester.edu/fileDownloadForInstitutionalItem.action%3Bjsessionid%3DAEA650BCBB9FE93E6DDCBE52984253BF?itemFileId=167342&itemId=30793",
+      "source_name": "University of Rochester repository, conservatory syllabus",
+      "kind": "pedagogy",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Published alto saxophone/piano work with historical conservatory competition use.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No notation or recording inspected.",
+    "The older syllabus grade marker is not a current placement or SaxoBrain level."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Dautremer Tango et Tarentelle Leduc AL20458",
+    "Presto Dautremer Tango Et Tarentelle",
+    "Rochester saxophone Conservatoire repertoire Dautremer Tango"
+  ]
+}

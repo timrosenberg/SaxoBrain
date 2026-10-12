@@ -1,0 +1,70 @@
+{
+  "id": 154,
+  "batch": 7,
+  "filename": "Ho-kwen Austin Yip - Zerstreutes Hinausschaun.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Ho-kwen Austin Yip - Zerstreutes Hinausschaun.md",
+  "title": "Zerstreutes Hinausschaun",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Ho-kwen Austin Yip, Zerstreutes Hinausschaun (Absent-minded Window-gazing), 2017, 7:30, for soprano and alto saxophones with orchestra or piano. The assignment snapshot’s Donemus number 16931 is a different work, Die Lian Hua for flute; Donemus number 18125 identifies the correct saxophone work and lists a purchasable piano reduction.",
+  "evidence": [
+    {
+      "claim": "Donemus item 18125 identifies the correct work, orchestral instrumentation, 7:30 duration, 2017 composition, MYO commission, and a separately purchasable piano reduction. The incorrect Donemus item 16931 is Die Lian Hua for flute.",
+      "url": "https://webshop.donemus.com/action/front/sheetmusic/18125",
+      "source_name": "Donemus",
+      "kind": "publisher",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "The composer’s thesis explains that the piano reduction is used for the recording project and identifies the saxophone pair.",
+      "url": "https://s3.amazonaws.com/na-st01.ext.exlibrisgroup.com/01IOWA_INST/upload/1774817245164/Dennis%20Kwok%20DMA%20Recording%20Project%20Thesis%20Final%20Reviewed.pdf",
+      "source_name": "University of Iowa DMA thesis",
+      "kind": "institution",
+      "access": "search_index_only",
+      "page": 21
+    },
+    {
+      "claim": "Composer post describes the Kafka story inspiration and January 2018 premiere by Timothy Sun, Hugo Loi, and Macau Youth Symphony Orchestra.",
+      "url": "https://austinyip.com/2018/04/22/zerstreutes-hinausschaun-%E3%80%8A%E7%AA%97%E5%89%8D%E6%81%8D%E6%83%9A%E3%80%8B-2017/",
+      "source_name": "Austin Yip",
+      "kind": "composer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Donemus public score preview (edition 18125), full orchestral score pp. 1 and 8 inspected. At the opening the soprano line enters after an initial rest with a sustained note and short tied/ornamented motion; on printed p. 8 the soprano line continues through tied notes and short figures while the alto line has a descending rapid beamed passage near the end. Exact range not established.",
+      "url": "https://webshop.donemus.com/action/front/sheetmusic/18125",
+      "source_name": "Donemus public score preview",
+      "kind": "score",
+      "access": "score_inspected",
+      "page": "PDF pp. 3 and 10; printed p. 8 for latter"
+    }
+  ],
+  "score_observations": [
+    {
+      "observation": "The opening orchestral page gives a delayed soprano entrance with a sustained note followed by short tied figures, marked expressive and moving from p toward mf. On printed p. 8, the soprano continues in longer tied notes with shorter figures, while the alto saxophone has a rapid descending beamed line at the page end. No exact range is inferred.",
+      "source": "https://webshop.donemus.com/action/front/sheetmusic/18125",
+      "page": "PDF pp. 3 and 10; latter is printed p. 8"
+    }
+  ],
+  "review_focus": "Inference: the two soloists have differentiated writing in the inspected opening and printed p. 8, with the soprano entering over a sustained line and the alto taking a quick descending figure. Check coordination and line balance between the two saxophone parts.",
+  "collection_flag": "Commissioned for Macau Youth Symphony Orchestra; published in both orchestral and piano-reduction forms.",
+  "listening": [],
+  "score_links": [
+    {
+      "url": "https://webshop.donemus.com/action/front/sheetmusic/18125",
+      "description": "Donemus item 18125 public preview, orchestra score excerpt; piano reduction is separately purchasable.",
+      "inspected": true
+    }
+  ],
+  "gaps": [
+    "Only a partial orchestral score preview was inspected; the piano reduction and remaining score are not available in this review. No direct recording page verified."
+  ],
+  "proposed_corrections": [
+    "Replace the incorrect Donemus item 16931 reference with item 18125. Add piano to the edition/instrument notes if the catalog intends to represent the separately published reduction."
+  ],
+  "searches": [
+    "Austin Yip Zerstreutes Hinausschaun Donemus score piano reduction",
+    "Zerstreutes Hinausschaun Macau Youth Symphony premiere Timothy Sun Hugo Loi",
+    "Dennis Kwok thesis Austin Yip Zerstreutes Hinausschaun piano reduction"
+  ]
+}

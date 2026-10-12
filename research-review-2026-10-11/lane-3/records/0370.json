@@ -1,0 +1,49 @@
+{
+  "id": 370,
+  "batch": 15,
+  "filename": "Thomas Massella - Romance.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Thomas Massella - Romance.md",
+  "title": "Romance",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Thomas Massella's Romance is listed by his composer site as an alto saxophone solo published by Dorn; the catalog retailer lists an alto saxophone and piano edition, DORN0180.",
+  "evidence": [
+    {
+      "claim": "Composer site lists Romance for alto saxophone and Dorn as publisher, but does not specify piano in the entry.",
+      "url": "https://www.thomasmassella.com/music.htm",
+      "source_name": "Thomas Massella official site",
+      "kind": "composer",
+      "access": "opened"
+    },
+    {
+      "claim": "Retailer identifies the DORN0180 edition as alto saxophone and piano.",
+      "url": "https://www.grothmusic.com/p-145582.aspx",
+      "source_name": "Groth Music",
+      "kind": "retailer",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "unknown",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "Clarify the piano accompaniment status from the actual edition; no score preview or college programming found."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    {
+      "query": "Thomas Massella Romance DORN0180 alto saxophone piano",
+      "checked": "Search results and listed sources checked; gaps stated per record."
+    },
+    {
+      "query": "Thomas Massella Romance score recording",
+      "checked": "Search results and listed sources checked; gaps stated per record."
+    },
+    {
+      "query": "Dorn DORN0180 preview",
+      "checked": "Search results and listed sources checked; gaps stated per record."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 210,
+  "batch": 9,
+  "filename": "Jules Semler-Collery - Fantaisie-Caprice.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Jules Semler-Collery - Fantaisie-Caprice.md",
+  "title": "Fantaisie-Caprice",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Eschig ME7635 identifies Semler-Collery’s Fantaisie-Caprice for alto saxophone and piano. A 1975 French federation repertoire list places the work in its “Supérieur” category, an institutional French pedagogical classification that should not be translated into a SaxoBrain level.",
+  "evidence": [
+    {
+      "claim": "1975 repertoire list places Fantaisie Caprice under Supérieur for alto saxophone.",
+      "url": "https://cmf-archives.bibliossimo.net/files/original/852b873aff238b4c6ae928fe70e482c39a62bbb9.pdf",
+      "source_name": "Confédération Musicale de France archive",
+      "kind": "pedagogy",
+      "access": "opened"
+    },
+    {
+      "claim": "Catalog lead identifies Eschig ME7635 and 22 pages.",
+      "url": "https://www.grothmusic.com/p-140073.aspx",
+      "source_name": "Groth Music listing",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "The 1975 French federation list supplies historical repertoire context. Inspect the score before describing its rhythmic, technical or phrase demands.",
+  "collection_flag": "French federation list documents advanced-track institutional repertoire use; not a SaxoBrain-level assignment.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No score notation or verified recording inspected."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Jules Semler-Collery Fantaisie-Caprice ME7635 saxophone score",
+    "CMF Fantaisie Caprice Semler-Collery Supérieur",
+    "Fantaisie Caprice alto saxophone recording"
+  ]
+}

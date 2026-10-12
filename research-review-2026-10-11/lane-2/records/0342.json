@@ -1,0 +1,40 @@
+{
+  "id": 342,
+  "batch": 14,
+  "filename": "Rolf Rudin - Nachtstücke.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Rolf Rudin - Nachtstücke.md",
+  "title": "Nachtstücke",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Rolf Rudin's Nachtstücke, Op. 9, is an alto saxophone and piano cycle of seven titled sections, about 14 minutes; commercial records disagree on page count.",
+  "evidence": [
+    {
+      "claim": "An opened Stretta listing gives the instrumentation, 14-minute duration, 32 pages, and seven movement titles.",
+      "url": "https://www.stretta-music.de/rudin-nachtstuecke-nr-275480.html",
+      "source_name": "Stretta Music listing",
+      "kind": "retailer",
+      "access": "opened"
+    },
+    {
+      "claim": "Hal Leonard search result confirms Nachtstücke as a 1988 work for alto saxophone and piano, Bote & Bock 48014864.",
+      "url": "https://www.halleonard.com/search/composer/108027/rolf-rudin",
+      "source_name": "Hal Leonard listing",
+      "kind": "publisher",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "The seven-part cycle invites tracking character and pacing; inspect transitions and sustained/technical contrasts in score.",
+  "collection_flag": "Substantial original saxophone/piano cycle; no difficulty rating assigned.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No score preview or performance inspected.",
+    "Edition pagination conflicts between records (16 versus 32 pages); verify copy in hand."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Rolf Rudin Nachtstücke Op 9 Bote Bock score",
+    "Nachtstücke Rudin seven movements"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 376,
+  "batch": 16,
+  "filename": "Victor Fenigstein - Memento et Epitaphe.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Victor Fenigstein - Memento et Epitaphe.md",
+  "title": "Memento et Epitaphe",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Cataloged as Victor Fenigstein's Memento et Epitaphe for alto saxophone and piano; the available retailer record identifies Kunzelmann GM998, two movements, 17 pages, and dedication to Jeanine Kies and Oto Vrhovnik.",
+  "evidence": [
+    {
+      "claim": "Edition metadata: Kunzelmann GM998; two movements; 17 pages; dedicated to Jeanine Kies and Oto Vrhovnik.",
+      "url": "https://www.noten-roehr.de/en/scores/0005/woodwind-instruments/0507/saxophone/0504/woodwind%2Bpiano-harpsichord/077972",
+      "source_name": "Noten Roehr retailer",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference: the two-movement layout invites attention to contrast and pacing; no score details verified.",
+  "collection_flag": "Published alto saxophone/piano work; dedication documented by retailer listing.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No score preview or recording verified; exact date and musical demands unresolved."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Victor Fenigstein Memento et Epitaphe saxophone score Kunzelmann GM998",
+    "Memento et Epitaphe saxophone piano Fenigstein recording"
+  ]
+}

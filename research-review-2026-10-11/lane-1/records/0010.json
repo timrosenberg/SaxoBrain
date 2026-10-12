@@ -1,0 +1,49 @@
+{
+  "id": 10,
+  "batch": 1,
+  "filename": "Armando Ghidoni - Paysages.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Armando Ghidoni - Paysages.md",
+  "title": "Paysages",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Armando Ghidoni's *Paysages* is an Alphonse Leduc saxophone-and-piano work, AL29729, available in E-flat and B-flat editions. The current ABRSM Woodwind syllabus lists it at Grade 7, item 5, with the printed cadenza; the notation's E-flat/B-flat edition designation does not by itself settle the exact saxophone instrument. The score was not inspected.",
+  "evidence": [
+    {
+      "claim": "Dealer gives edition number, instrumentation, seven-page score, and a Grade 7 tenor-syllabus designation.",
+      "url": "https://www.justflutes.com/shop/product/paysages-armando-ghidoni",
+      "source_name": "Just Flutes",
+      "kind": "retailer",
+      "access": "opened"
+    },
+    {
+      "claim": "Leduc catalog corroborates instrumentation and number.",
+      "url": "https://casamusicaledelrio.it/casamusicale/wp-content/uploads/2019/04/CAT-18-107-Leduc-Catalogue-2018-ss-GS-v6-NO-CROPS-LO-RESv2.pdf",
+      "source_name": "Alphonse Leduc catalog",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "ABRSM's 2022-23 performance grades syllabus lists *Paysages* among Grade 7 pieces, item 5, with printed cadenza and E-flat/B-flat edition.",
+      "url": "https://www.abrsm.org/sites/default/files/2023-10/performance-grades-qual-spec-woodwind-2022-230303-v3.pdf",
+      "source_name": "ABRSM Music Performance Grades syllabus",
+      "kind": "pedagogy",
+      "access": "opened",
+      "page": "107"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference from the syllabus's explicit printed-cadenza note: check the cadenza's notation and execution against the available saxophone edition. The score is not available here.",
+  "collection_flag": "ABRSM Grade 7 syllabus placement with printed cadenza is documented; its E-flat/B-flat edition label leaves instrument-specific applicability to verify in the part.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No score preview or matching saxophone performance located, so the cadenza, range, and other musical demands remain unknown.",
+    "ABRSM identifies the edition as E-flat/B-flat but does not specify the instrument in the syllabus entry."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Armando Ghidoni Paysages saxophone piano Leduc",
+    "Ghidoni Paysages AL29729 score recording",
+    "ABRSM 2022 2023 Grade 7 Armando Ghidoni Paysages printed cadenza E-flat B-flat p.107"
+  ]
+}

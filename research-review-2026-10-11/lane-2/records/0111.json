@@ -1,0 +1,55 @@
+{
+  "id": 111,
+  "batch": 5,
+  "filename": "Gerard Harrison - Dance Suite.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Gerard Harrison - Dance Suite.md",
+  "title": "Dance Suite",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Gerard Harrison, Dance Suite, Emerson Edition E481, is listed for soprano saxophone or clarinet with piano. The public retailer listing establishes an edition lead but no notation or work-specific musical details.",
+  "evidence": [
+    {
+      "claim": "Chimes Music product listing identifies Gerard Harrison’s Dance Suite, Emerson E481, as soprano saxophone or clarinet with piano.",
+      "url": "https://www.chimesmusic.com/products/dance-suite.html",
+      "source_name": "Chimes Music retailer listing",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Forsyth listing separately identifies Emerson E481, saxophone/soprano saxophone/clarinet and piano, ISMN 9790570405749. Its grade-of-difficulty field says skill level C/D.",
+      "url": "https://www.forsyths.co.uk/sheet-music/instruments/woodwind/saxophone-sheet-music/375630-harrison-gerard-dance-suite-9790570405749.html",
+      "source_name": "Forsyth retailer listing",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Edition listing offers soprano saxophone or clarinet with piano; audience and arrangement/original provenance not established.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No score preview or matching performance recording was located.",
+    "Exact musical contents and written range remain unknown.",
+    "Retailer skill-level labels are not mapped to college years."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    {
+      "query": "Gerard Harrison Dance Suite soprano saxophone clarinet piano EE481",
+      "checked": "Targeted web search; results reviewed for exact edition, publisher, score, recording, and teaching context; unrelated instrument/edition results excluded."
+    },
+    {
+      "query": "Gerard Harrison Dance Suite Emerson E481 publisher score preview",
+      "checked": "Targeted web search; results reviewed for exact edition, publisher, score, recording, and teaching context; unrelated instrument/edition results excluded."
+    },
+    {
+      "query": "Gerard Harrison Dance Suite saxophone recording",
+      "checked": "Targeted web search; results reviewed for exact edition, publisher, score, recording, and teaching context; unrelated instrument/edition results excluded."
+    },
+    {
+      "query": "9790570405749 soprano saxophone piano",
+      "checked": "Targeted web search; results reviewed for exact edition, publisher, score, recording, and teaching context; unrelated instrument/edition results excluded."
+    }
+  ]
+}

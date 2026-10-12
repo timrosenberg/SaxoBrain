@@ -1,0 +1,45 @@
+{
+  "id": 40,
+  "batch": 2,
+  "filename": "Cecil Effinger - Solitude.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Cecil Effinger - Solitude.md",
+  "title": "Solitude",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Cecil Effinger, Solitude, for alto saxophone and piano, Theodore Presser edition 114-40143. Available evidence identifies the edition only; no musical demands or performance context could be verified.",
+  "evidence": [
+    {
+      "claim": "Presser edition is identified as a score-and-parts digital product, catalog 114-40143D.",
+      "url": "https://www.prestomusic.com/sheet-music/products/9789033--cecil-effinger-solitude",
+      "source_name": "Presto Music",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "A 2010 United Music Publishers saxophone catalogue lists Solitude for alto saxophone.",
+      "url": "https://johanvanderlinden.com/saxophone_catalogue_2010.pdf",
+      "source_name": "United Music Publishers saxophone catalogue",
+      "kind": "publisher",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Retailer search result identifies Theodore Presser edition 114-40143D-PDF for alto saxophone and piano; a readable score preview or publisher description was not found.",
+      "url": "https://www.prestomusic.com/sheet-music/products/9789033--cecil-effinger-solitude",
+      "source_name": "Presto Music",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Original saxophone/piano work appears in the catalog; source history, audience, and fit remain unknown.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No primary composer/publisher description, readable score, recording, or programming evidence located."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Cecil Effinger Solitude alto saxophone piano score preview publisher recording"
+  ]
+}

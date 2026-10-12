@@ -1,0 +1,75 @@
+{
+  "id": 354,
+  "batch": 15,
+  "filename": "Scott Richards - Latin Fever.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Scott Richards - Latin Fever.md",
+  "title": "Latin Fever",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Editions Marc Reift item EMR2227E is Scott Richards’s Latin Fever for alto saxophone and piano/keyboard, with optional drums, according to an exact-item retailer search result. Other Reift Latin Fever products have different saxophone scorings and are separate editions. No notation from EMR2227E was inspected.",
+  "evidence": [
+    {
+      "claim": "The local lead gives EMR2227E and optional percussion, but its current product page was not confirmed.",
+      "url": "https://www.grothmusic.com/p-146422.aspx",
+      "source_name": "Groth Music",
+      "kind": "retailer",
+      "access": "opened"
+    },
+    {
+      "claim": "A Reift PDF search result identifies another Latin Fever, EMR5405, for alto saxophone, trombone (optional), and piano.",
+      "url": "https://files.reift.ch/files/scores/EMR5405.pdf",
+      "source_name": "Editions Marc Reift",
+      "kind": "publisher",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "A second Reift score listing shows Latin Fever for soprano saxophone and piano/drums, an apparent separate scoring.",
+      "url": "https://www.stantons.com/scores/E/M/R/5/6/0/9/7/editio-emr56097.pdf",
+      "source_name": "Stanton's / Editions Marc Reift",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Exact item search result identifies EMR2227E as Scott Richards’s Latin Fever for alto saxophone and piano/keyboard, with optional drums. The product page could not be opened, so this is indexed retailer metadata rather than publisher-confirmed instrumentation.",
+      "url": "https://www.demond.de/scott-richards-latin-fever-alto-saxophone-klavier-keyboard-drums-optional-470516",
+      "source_name": "Musikforum Demond retailer search result",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Separate Reift Latin Fever products exist for alto saxophone, tenor saxophone and piano (EMR5394/5396) and for two soprano saxophones and piano (EMR56097); these are not the EMR2227E item.",
+      "url": "https://www.partitions-musicales.net/Partitions/Partitions-Scott-Richards-saxophone/",
+      "source_name": "Partitions Musicales retailer search result",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Confirm that the held edition is EMR2227E before evaluating its optional keyboard/drum parts or saxophone writing; no notation-specific demands are verified.",
+  "collection_flag": "unknown",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "The exact EMR2227E product page could not be opened, and no matching readable score sample or verified performance was found.",
+    "Different Reift products named Latin Fever have different scoring; do not transfer their details to EMR2227E."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    {
+      "query": "Scott Richards Latin Fever EMR2227E score",
+      "checked": "Search results and listed sources checked; gaps stated per record."
+    },
+    {
+      "query": "site:files.reift.ch/files/scores Latin Fever Scott Richards",
+      "checked": "Search results and listed sources checked; gaps stated per record."
+    },
+    {
+      "query": "Editions Marc Reift Latin Fever EMR2227E",
+      "checked": "Search results and listed sources checked; gaps stated per record."
+    },
+    {
+      "query": "\"EMR2227E\" \"Scott Richards\" Latin Fever saxophone keyboard",
+      "checked": "Search result identified exact catalog code and scoring via an independent retailer, but opening the retailer URL returned a cache miss. Separate code-matched editions were distinguished and not treated as the target score."
+    }
+  ]
+}

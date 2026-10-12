@@ -1,0 +1,51 @@
+{
+  "id": 128,
+  "batch": 6,
+  "filename": "Gunter Noris - El Toro.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Gunter Noris - El Toro.md",
+  "title": "El Toro",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Editions Marc Reift EMR2307E is identified as El Toro for alto saxophone and piano. A Swiss national bibliography also records separate alto-saxophone and tenor-saxophone editions, so the saxophone part must match the selected edition. The current catalog’s optional castanets/drum-set detail came from its seller listing and was not independently verified in the opened sources.",
+  "evidence": [
+    {
+      "claim": "Swiss National Library bibliography records El Toro as a 6-page alto saxophone and piano score with four parts, EMR2307E, issued by Marc Reift around 2007. It separately records a tenor edition.",
+      "url": "https://ead.nb.admin.ch/web/sb-pdf/2007/sb200716.pdf",
+      "source_name": "Swiss Book national bibliography",
+      "kind": "institution",
+      "access": "opened",
+      "page": "p.1690"
+    },
+    {
+      "claim": "Retailer identifies EMR2307E as alto saxophone and piano.",
+      "url": "https://www.demond.de/guenter-noris-el-toro-alto-saxophone-klavier-470712",
+      "source_name": "Musikforum Demond",
+      "kind": "retailer",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Confirm which edition is held and what the optional percussion instructions require; no musical notation was inspected.",
+  "collection_flag": "Available in distinct alto and tenor editions; the current alto catalog entry is consistent with one official bibliographic record.",
+  "listening": [],
+  "score_links": [
+    {
+      "url": "https://ead.nb.admin.ch/web/sb-pdf/2007/sb200716.pdf",
+      "description": "Bibliographic record only, not notation.",
+      "inspected": false
+    }
+  ],
+  "gaps": [
+    "Focused exact-code and publisher-domain searches for an EMR2307E public score PDF did not surface readable notation; no score pages were inspected.",
+    "Optional castanets/drum-set instrumentation needs confirmation from the score."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Günter Noris El Toro alto saxophone piano EMR2307E recording",
+    "El Toro Noris score preview alto saxophone",
+    "Swiss Book Noris El Toro EMR2307E",
+    "Exact-publisher query: site:reift.ch EMR2307E El Toro PDF",
+    "Exact-code query: \"EMR2307E\" score preview",
+    "Publisher-domain query: \"El Toro\" \"Günter Noris\" saxophone Reift PDF"
+  ]
+}

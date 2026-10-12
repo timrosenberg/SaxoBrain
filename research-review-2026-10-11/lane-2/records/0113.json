@@ -1,0 +1,44 @@
+{
+  "id": 113,
+  "batch": 5,
+  "filename": "Gilles Martin - Cristalline.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Gilles Martin - Cristalline.md",
+  "title": "Cristalline",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Gilles Martin, Cristalline (1999), pedagogical single-movement work for E-flat alto saxophone and piano, Billaudot G6488B. Composer’s catalogue provides movement character, range, audience context, and recording credit.",
+  "evidence": [
+    {
+      "claim": "Composer’s catalogue identifies Cristalline, Billaudot G6488B, 1999, alto sax and piano, approx. 1:40, with expressive Andante, varied articulation, delicate phrasing, and written range to F-sharp high with ossia; gives institutional pedagogical placement and recording credit.",
+      "url": "https://www.gilles-martin.info/resultat.php?id=2",
+      "source_name": "Gilles Martin, works catalogue",
+      "kind": "composer",
+      "access": "opened"
+    },
+    {
+      "claim": "Composer states the work is one movement, Andante, about 1:40, dedicated to Jean-Yves Fourmeau; description includes varied articulation and delicate phrasing.",
+      "url": "https://www.gilles-martin.info/resultat.php?id=2",
+      "source_name": "Gilles Martin, works catalogue",
+      "kind": "composer",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference from the composer’s documented expressive Andante and varied articulations: review tone continuity, phrasing, and contrast among articulations. No level is proposed.",
+  "collection_flag": "Documented pedagogical piece for early French conservatory cycle and saxophone exam/contest use. This describes the published work’s original audience context.",
+  "listening": [
+    {
+      "url": "https://www.gilles-martin.info/resultat.php?id=2",
+      "description": "Composer credits a recording by Christian Wirth, saxophone, and Gilles Martin, piano, on Confidences (1999).",
+      "verification": "Recording credit verified on opened composer page; not auditioned."
+    }
+  ],
+  "score_links": [],
+  "gaps": [
+    "No notation preview was visually inspected; source page gives range and musical character but not direct note-level confirmation."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Gilles Martin Cristalline G6488B saxophone composer"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": 75,
+  "batch": 3,
+  "filename": "Dietrich Erdmann - Akzentae A.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Dietrich Erdmann - Akzentae A.md",
+  "title": "Akzentae A",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Dietrich Erdmann’s Akzente A is an alto saxophone and piano work published by Breitkopf & Härtel, EB 9138. EDA Records lists three movements: Allegro con fuoco, Adagio espressivo, and Presto grotesco. The Philharmonie guide also lists a distinct tenor-and-piano work titled Akzente.",
+  "evidence": [
+    {
+      "claim": "Retailer lists Akzente A for alto saxophone and piano, Breitkopf EB 9138, ISMN.",
+      "url": "https://www.stretta-music.fr/erdmann-akzente-a-nr-1688005.html",
+      "source_name": "Stretta Music edition record",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Label page identifies the 1989/2003 work and its three movement titles within an album of Berlin alto saxophone and piano music.",
+      "url": "https://www.eda-records.com/177-1-CD-Details.html?cd_id=42",
+      "source_name": "EDA Records",
+      "kind": "performer",
+      "access": "opened"
+    },
+    {
+      "claim": "Composer site search lead lists separate Akzente for tenor saxophone and piano; distinguish it from Akzente A for alto.",
+      "url": "https://www.noten-roehr.de/en/scores/0005/woodwind-instruments/0507/saxophone/0504/woodwind%2Bpiano-harpsichord/022046",
+      "source_name": "Noten Roehr retailer",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "The guide’s separate tenor/piano Akzente entry is dated 1989 and has two movements.",
+      "url": "https://mediatheque.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+      "source_name": "Claude Delangle et al., 10 ans avec le saxophone (Philharmonie de Paris digital scan)",
+      "kind": "pedagogy",
+      "access": "opened",
+      "page": "PDF p.93; printed p.98"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference from movement titles: marked contrast across fiery, expressive slow, and grotesque presto character; no score notation inspected.",
+  "collection_flag": "Original alto saxophone/piano work with commercial recording. A similarly titled tenor/piano Akzente appears in the reference guide; instrumentation must remain edition-specific.",
+  "listening": [
+    {
+      "url": "https://www.eda-records.com/177-1-CD-Details.html?cd_id=42",
+      "description": "Akzente A, movements 1–3, on EDA 29: Music for Saxophone from Berlin Vol. 3.",
+      "verification": "Label track list opened; audio not auditioned."
+    }
+  ],
+  "score_links": [],
+  "gaps": [
+    "No readable score preview or direct audio audition.",
+    "The EDA record says 1989/2003; catalog composition date is blank, so the relationship of revision year should be checked."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Dietrich Erdmann Akzente A saxophone piano score",
+    "Akzente A Dietrich Erdmann recording 1989 2003",
+    "Philharmonie de Paris 10 ans avec le saxophone Erdmann Akzente PDF p.93 visually inspected"
+  ]
+}

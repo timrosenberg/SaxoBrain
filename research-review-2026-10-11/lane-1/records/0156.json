@@ -1,0 +1,47 @@
+{
+  "id": 156,
+  "batch": 7,
+  "filename": "Ivan Shishov - Grotesque Dance.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Ivan Shishov - Grotesque Dance.md",
+  "title": "Grotesque Dance",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Ivan Shishov, Grotesque Dance from The Master Barber, in an alto saxophone and piano edition, Edition Musicus EM157AS. A separate bassoon-and-piano arrangement by Felix Clyde exists; the sax edition’s arranger/provenance remains unresolved.",
+  "evidence": [
+    {
+      "claim": "A saxophone repertoire list identifies the E-flat saxophone and piano edition as Grotesque Dance from The Master Barber.",
+      "url": "https://adolphesax.com/repertorio-saxofon-alto-ultima-actualizacion-2008/",
+      "source_name": "Adolphesax repertoire list",
+      "kind": "pedagogy",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "The Illinois Grade School Music Association lists the related title as a Class B alto saxophone solo, credited Shishov/Felix and Edition Musicus.",
+      "url": "https://www.igsmasouth.org/Downloads/IGSMA/Doc/Instrumental_Solo_Book.pdf",
+      "source_name": "IGSMA solo list",
+      "kind": "pedagogy",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "IMSLP worklist result identifies a Felix Clyde bassoon-and-piano arrangement of the opera excerpt.",
+      "url": "https://imslp.org/wiki/List_of_works_by_Ivan_Shishov",
+      "source_name": "IMSLP worklist",
+      "kind": "score",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "An opera excerpt adapted for saxophone. A school solo-list appearance is documented, but does not establish simplification or college exclusion.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "Saxophone edition score and its arranger attribution were not inspected; do not assume the bassoon arrangement is the saxophone edition."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Ivan Shishov Grotesque Dance EM157AS saxophone Edition Musicus",
+    "Grotesque Dance from The Master Barber Shishov Felix saxophone",
+    "Ivan Shishov Grotesque Dance saxophone score"
+  ]
+}

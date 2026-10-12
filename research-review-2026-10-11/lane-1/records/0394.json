@@ -1,0 +1,39 @@
+{
+  "id": 394,
+  "batch": 16,
+  "filename": "William Calhoun - Sonata.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/William Calhoun - Sonata.md",
+  "title": "Sonata",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "William Calhoun's Sonata was composed in 1982 for soprano saxophone and piano. Existing work-list research describes three movements and about 9.5 minutes; a Hickey's listing identifies an instrumentation variant that may be tenor saxophone, so verify the edition before relying on the catalog entry.",
+  "evidence": [
+    {
+      "claim": "Repertoire work list identifies a 1982 soprano saxophone sonata.",
+      "url": "https://en.wikipedia.org/wiki/List_of_concert_works_for_saxophone",
+      "source_name": "Saxophone repertoire work list",
+      "kind": "reference",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Catalog's linked Hickey's product title is Sonata for tenor saxophone and piano.",
+      "url": "https://hickeys.com/music/woodwinds/sax/solos/tenor_with_piano/products/sku073132-calhoun-william-sonata.php",
+      "source_name": "Hickey's Music Center",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Soprano versus tenor edition identity is unresolved; movement/duration data not independently checked.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No primary publisher record, score, or recording verified; distinguish potential alternate-instrument edition."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "William Calhoun Sonata soprano saxophone 1982 score",
+    "William Calhoun Sonata tenor saxophone piano Hickeys"
+  ]
+}

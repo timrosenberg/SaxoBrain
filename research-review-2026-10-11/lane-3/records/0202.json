@@ -1,0 +1,32 @@
+{
+  "id": 202,
+  "batch": 9,
+  "filename": "John Dankworth - Domnerus.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/John Dankworth - Domnerus.md",
+  "title": "Domnerus",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "The catalog item is John Dankworth’s Domnerus, edition BOE008696, for alto saxophone and piano. Retailer searches confirm the title/instrumentation; no score preview or performance source tied to this work was located.",
+  "evidence": [
+    {
+      "claim": "Identifies John Dankworth, BOE008696, alto saxophone and piano.",
+      "url": "https://www.chimesmusic.com/products/domnerus-.html",
+      "source_name": "Chimes Music retailer",
+      "kind": "retailer",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Review the actual parts for jazz idiom, articulation and piano interaction; no specific demands were verified.",
+  "collection_flag": "Saxophone-and-piano chamber piece; no pedagogical placement verified.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No score or performance recording located."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "John Dankworth Domnerus saxophone piano BOE008696",
+    "John Dankworth Domnerus score recording saxophone"
+  ]
+}

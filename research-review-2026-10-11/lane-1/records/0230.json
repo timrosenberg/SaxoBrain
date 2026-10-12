@@ -1,0 +1,41 @@
+{
+  "id": 230,
+  "batch": 10,
+  "filename": "Leo Kraft - Three Pieces.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Leo Kraft - Three Pieces.md",
+  "title": "Three Pieces",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Copyright registration records Leo Kraft’s Three Pieces for alto saxophone and piano, published by Dorn Productions c1979. Dorn catalog lists the work as Dorn 0178.",
+  "evidence": [
+    {
+      "claim": "Copyright record gives title, instrumentation, Dorn Productions, publication c1979, and 18 pages plus part.",
+      "url": "https://www.copyrightencyclopedia.com/three-pieces-for-voice-and-piano-on-texts-of-pushkin-op-31/",
+      "source_name": "Copyright Encyclopedia, transcribed copyright registration",
+      "kind": "reference",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Dorn catalog lists Leo Kraft, Three Pieces, no. 178.",
+      "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+      "source_name": "Dorn Publications catalog",
+      "kind": "publisher",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Published saxophone/piano work; no intended audience evidence located.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No score or recording inspected.",
+    "No reliable pedagogical placement or performance documentation located."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "\"Three Pieces\" \"Leo Kraft\" saxophone piano",
+    "Copyright PA0000034962 Leo Kraft",
+    "Dorn DORN0178 Kraft"
+  ]
+}

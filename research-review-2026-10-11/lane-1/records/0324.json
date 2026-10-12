@@ -1,0 +1,42 @@
+{
+  "id": 324,
+  "batch": 13,
+  "filename": "Robert Clérisse - Bergerette.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Robert Clérisse - Bergerette.md",
+  "title": "Bergerette",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Billaudot’s official catalog identifies Robert Clérisse’s Bergerette as an E-flat saxophone and piano work, code ORPH5719. A Conservatorio Profesional de Música de La Rioja admission syllabus includes Bergerette in its saxophone repertoire list. No UK repertoire-list evidence was verified.",
+  "evidence": [
+    {
+      "claim": "Billaudot’s opened catalog page identifies Bergerette by Robert Clérisse as E-flat saxophone and piano, code ORPH5719. The page has no visible score-preview link.",
+      "url": "https://www.billaudot.com/bergerette-3.html",
+      "source_name": "Éditions Billaudot",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "La Rioja conservatory saxophone admission syllabus lists Bergerette by Clérisse.",
+      "url": "https://www.conservatoriorioja.com/pdfs/acceso/PA-saxofon-22-23.pdf",
+      "source_name": "Conservatorio Profesional de Música de La Rioja",
+      "kind": "pedagogy",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Published saxophone/piano work used in a conservatory repertoire list.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No score preview or notation inspected; Billaudot’s page did not offer a visible excerpt link.",
+    "No recording, duration, or specific pedagogical placement beyond the Spanish admissions-list appearance verified."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Billaudot Bergerette Robert Clerisse ORPH5719",
+    "Conservatorio La Rioja saxophone Bergerette Clerisse",
+    "Billaudot Bergerette ORPH5719 official page score preview",
+    "UK saxophone repertoire list Robert Clerisse Bergerette"
+  ]
+}

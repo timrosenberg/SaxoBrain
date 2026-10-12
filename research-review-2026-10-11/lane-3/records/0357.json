@@ -1,0 +1,62 @@
+{
+  "id": 357,
+  "batch": 15,
+  "filename": "Sherwood Shaffer - Summer Nocturne.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Sherwood Shaffer - Summer Nocturne.md",
+  "title": "Summer Nocturne",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Sherwood Shaffer’s Summer Nocturne is an alto saxophone and piano work in Dorn DORN1405. Andrew Paul Hays’s 2007 DMA dissertation at the University of North Carolina at Greensboro identifies it as a five-movement continuous work written for Jonathan Helton during his undergraduate study at North Carolina School of the Arts.",
+  "evidence": [
+    {
+      "claim": "Retailer page identifies DORN1405 and score/part details.",
+      "url": "https://www.grothmusic.com/p-146118.aspx",
+      "source_name": "Groth Music",
+      "kind": "retailer",
+      "access": "opened"
+    },
+    {
+      "claim": "The indexed page 44 passage discusses subtle meter changes tied to melodic phrasing and cites Summer Nocturne, mm. 159–162, Example 10b. The original University of North Carolina at Greensboro dissertation repository record is linked separately; its PDF link returned 403, so this text remains search-index evidence.",
+      "url": "https://libres.uncg.edu/ir/uncg/f/umi-uncg-1440.pdf",
+      "source_name": "UNCG repository, Andrew Paul Hays DMA dissertation",
+      "kind": "pedagogy",
+      "access": "search_index_only",
+      "page": "indexed p. 44, Example 10b"
+    },
+    {
+      "claim": "University repository record identifies Andrew Paul Hays’s 2007 dissertation and describes its performance-analysis scope.",
+      "url": "https://libres.uncg.edu/IR/listing.aspx?id=1269",
+      "source_name": "UNCG NC DOCKS dissertation record",
+      "kind": "institution",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "The performer guide flags subtle changes of meter tied to melodic phrasing as an execution challenge in Shaffer’s saxophone writing; its measure-specific Summer Nocturne example makes meter and pulse continuity a useful score-review focus.",
+  "collection_flag": "The dissertation documents the work’s student commission context for Jonathan Helton at NCSA; this provenance does not establish a teaching grade.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "The university repository PDF link returned 403, so the indexed passage and score example at mm. 159–162 were not visually checked.",
+    "No verified recording located."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    {
+      "query": "Sherwood Shaffer Summer Nocturne DORN1405 preview",
+      "checked": "Exact DORN1405 and score-preview search returned Groth metadata but no public notation sample."
+    },
+    {
+      "query": "Andrew Paul Hays performer guide Sherwood Shaffer Summer Nocturne",
+      "checked": "Opened UNCG’s repository record for Hays’s 2007 dissertation and attempted its linked PDF; the PDF returned 403. Search indexing identifies the page 44 example but notation is unverified."
+    },
+    {
+      "query": "Summer Nocturne Helton saxophone recording",
+      "checked": "Exact title/composer/performance search did not locate a matching public recording."
+    },
+    {
+      "query": "site:libres.uncg.edu/ir/uncg/f/umi-uncg-1440.pdf \"Summer Nocturne\" \"159\"",
+      "checked": "Opened UNCG’s repository record for Hays’s 2007 dissertation and attempted its linked PDF; the PDF returned 403. Search indexing identifies the page 44 example but notation is unverified."
+    }
+  ]
+}

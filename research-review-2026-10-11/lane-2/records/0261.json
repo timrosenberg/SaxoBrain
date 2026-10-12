@@ -1,0 +1,49 @@
+{
+  "id": 261,
+  "batch": 11,
+  "filename": "Max Reger - Romanze.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Max Reger - Romanze.md",
+  "title": "Romanze",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Max Reger’s Romanze is available in a specific alto-saxophone/piano-or-organ transcription by Trent Kynaston, Advance Music 7054; Schott also lists a separate tenor-saxophone-in-B-flat edition, 7055. A retailer identifies the alto transcription’s original as a piano/violin work in G major, WoO II/10; that provenance detail remains retailer-sourced.",
+  "evidence": [
+    {
+      "claim": "Listing identifies Kynaston as transcriber, original violin/piano setting and the six-page Advance Music edition.",
+      "url": "https://www.ficksmusic.com/en-ca/products/reger-romance-arr-for-alto-sax-piano-advance",
+      "source_name": "Ficks Music edition listing",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Schott’s Classics for Saxophone catalog lists Reger’s Romanze transcribed by Trent Kynaston in separate alto-saxophone/piano-or-organ (ADV 7054) and tenor-saxophone-in-B-flat/piano-or-organ (ADV 7055) editions.",
+      "url": "https://www.schott-music.com/en/series/classics-for-saxophone",
+      "source_name": "Schott Music, Classics for Saxophone catalog",
+      "kind": "publisher",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Confirm this is the catalog’s edition and inspect its part.",
+  "collection_flag": "Transcription of violin/piano music; no intended student audience is established.",
+  "listening": [],
+  "score_links": [
+    {
+      "url": "https://www.ficksmusic.com/en-ca/products/reger-romance-arr-for-alto-sax-piano-advance",
+      "description": "Publisher/work listing; no notation preview inspected.",
+      "inspected": false
+    }
+  ],
+  "gaps": [
+    "No representative saxophone score pages were visually inspected.",
+    "Work-specific performance or pedagogical context remains unverified.",
+    "Musical demands and written range remain unknown without an inspected saxophone part."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Max Reger Romanze alto saxophone piano arrangement score",
+    "Max Reger Romanze Trent Kynaston Advance 7054 publisher alto tenor",
+    "Opened Schott Classics for Saxophone catalog and checked Romanze entries 19–20",
+    "Checked Ficks Music edition listing for the alto edition and original scoring; underlying page was not opened"
+  ]
+}

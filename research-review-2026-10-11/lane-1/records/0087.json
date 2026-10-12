@@ -1,0 +1,47 @@
+{
+  "id": 87,
+  "batch": 4,
+  "filename": "Elliott Carter - Pastoral.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Elliott Carter - Pastoral.md",
+  "title": "Pastoral",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Elliott Carter’s *Pastoral* was composed in 1940 and revised in 1982, with a listed duration of ten minutes. Carter’s official catalog lists an alternate E-flat alto saxophone and piano version as well as English-horn and piano, clarinet and piano, viola and piano, and an English-horn version with marimba and strings. The official page’s two recordings are English-horn performances; a separate saxophone recording is listed on Spotify.",
+  "evidence": [
+    {
+      "claim": "Composer’s official catalog gives date/revision, ten-minute duration, alternate versions including E-flat alto saxophone and piano, and English-horn recording listings.",
+      "url": "https://www.elliottcarter.com/compositions/pastoral/",
+      "source_name": "Elliott Carter official catalog",
+      "kind": "composer",
+      "access": "opened"
+    },
+    {
+      "claim": "Digital music service lists a 9:20 saxophone recording of Pastoral by Kyle Horch and Pamela Lidiard on *Anglosax*.",
+      "url": "https://open.spotify.com/track/3eVr4D0jV7RiC5q0WSsHnQ",
+      "source_name": "Spotify track catalog",
+      "kind": "performer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference: compare the published E-flat alto version with the composer’s listed English-horn origin and inspect the solo part’s range and phrasing; score not inspected.",
+  "collection_flag": "Alternate saxophone version of a work that the composer’s site identifies as originally for English horn and piano; the sax version is listed at ten minutes.",
+  "listening": [
+    {
+      "url": "https://open.spotify.com/track/3eVr4D0jV7RiC5q0WSsHnQ",
+      "description": "Pastoral, saxophone and piano, performed by Kyle Horch and Pamela Lidiard, track length 9:20.",
+      "verification": "track and performers cataloged; not auditioned"
+    }
+  ],
+  "score_links": [],
+  "gaps": [
+    "No score preview or notation inspection; saxophone-specific demands unknown.",
+    "The official Carter page lists recordings of the English-horn version, not the saxophone recording."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Elliott Carter Pastoral alto saxophone piano official alternate version",
+    "Elliott Carter Pastoral saxophone recording Kyle Horch Pamela Lidiard",
+    "Elliott Carter Pastoral score alto saxophone Presser"
+  ]
+}

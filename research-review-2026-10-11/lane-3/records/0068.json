@@ -1,0 +1,49 @@
+{
+  "id": 68,
+  "batch": 3,
+  "filename": "David Keeffe - The Undone Years. Fire.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/David Keeffe - The Undone Years. Fire.md",
+  "title": "The Undone Years. Fire",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Australian Music Centre catalog links David Keeffe's The Undone Years to a concerto for tenor saxophone with strings, piano and timpani. Bourbaki Ensemble's 2011 program gives the work's four movements as I The Undone Years, II The Old Lie, III Spring Winds and IV Legs as Quick as Lilac-shoots, performed by Jason Xanthoudakis. The catalog title 'The Undone Years. Fire' does not match that program's movement titles, so the relationship of 'Fire' remains unresolved.",
+  "evidence": [
+    {
+      "claim": "Bourbaki Ensemble's program for its 2011 concert lists The Undone Years in four movements and names Jason Xanthoudakis as saxophone soloist.",
+      "url": "https://www.bourbakiensemble.org/concert30.pdf",
+      "source_name": "Bourbaki Ensemble 2011 concert program",
+      "kind": "performer",
+      "access": "opened"
+    },
+    {
+      "claim": "Wirripang composer profile provides commission and Sydney/Melbourne premiere context for David Keeffe's work.",
+      "url": "https://www.australiancomposers.com.au/pages/david-keeffe",
+      "source_name": "Wirripang / Australian Composers",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Australian Music Centre's product record names the concerto for tenor saxophone with strings, piano and timpani; direct page fetch failed in this pass.",
+      "url": "https://www.australianmusiccentre.com.au/product/the-undone-years-fire-a-concerto-for-tenor-saxophone-with-strings-piano-and-timpani",
+      "source_name": "Australian Music Centre",
+      "kind": "institution",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference: the multi-movement concerto and documented professional premiere support review of sustained solo/orchestra coordination; the exact solo demands and any 'Fire' version relationship require a score or complete source record.",
+  "collection_flag": "Commissioned concerto documented in a professional ensemble program; source does not establish a student level.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "The 2011 program lists four movement titles, none called Fire; determine whether the catalog's Fire title refers to a later version, an alternate title, or a separate work.",
+    "No score or complete recording inspected; full range and technical requirements remain unknown."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "site:australianmusiccentre.com.au \"The Undone Years\" Fire David Keeffe",
+    "David Keeffe The Undone Years Fire tenor saxophone score recording",
+    "David Keeffe The Undone Years concert30 program movements",
+    "The Undone Years Fire AMC product tenor saxophone strings piano timpani"
+  ]
+}

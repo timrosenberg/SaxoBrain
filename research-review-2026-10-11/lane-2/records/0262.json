@@ -1,0 +1,41 @@
+{
+  "id": 262,
+  "batch": 11,
+  "filename": "Melvin Solomon - Sonatina.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Melvin Solomon - Sonatina.md",
+  "title": "Sonatina",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Jay C. Easton’s recommended B-flat soprano saxophone repertoire list, with piano unless specified, includes Melvin Solomon’s Sonatina, lists grade/comment 4, and names Dorn as publisher. The list supports soprano saxophone and piano identity, but no Dorn edition or notation was inspected.",
+  "evidence": [
+    {
+      "claim": "Jay C. Easton’s recommended repertoire list for B-flat soprano saxophone, with piano unless specified, includes Melvin Solomon’s Sonatina, grade/comment 4, publisher Dorn. This is an individual repertoire-list classification, not a college-year mapping.",
+      "url": "https://www.jayeaston.com/Saxophonist_resources/resources_soprano_rep.html",
+      "source_name": "Jay C. Easton soprano saxophone repertoire list",
+      "kind": "pedagogy",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Verify the Dorn edition and inspect the score before assessing musical demands.",
+  "collection_flag": "The work appears on an individual specialist’s recommended soprano repertoire list with a grade/comment 4 designation. That source does not map to a college year.",
+  "listening": [],
+  "score_links": [
+    {
+      "url": "https://www.jayeaston.com/Saxophonist_resources/resources_soprano_rep.html",
+      "description": "Publisher/work listing; no notation preview inspected.",
+      "inspected": false
+    }
+  ],
+  "gaps": [
+    "No primary publisher product page or notation preview was verified.",
+    "No recording or college/professional placement was verified."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Melvin Solomon Sonatina soprano saxophone solo",
+    "Melvin Solomon Sonatina soprano saxophone piano Dorn publisher score",
+    "Opened Jay C. Easton’s recommended B-flat soprano saxophone repertoire list; checked Solomon entry",
+    "Checked a publicly indexed repertory reference PDF for the same title; no primary edition or score was established"
+  ]
+}

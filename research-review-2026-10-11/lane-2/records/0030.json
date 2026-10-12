@@ -1,0 +1,62 @@
+{
+  "id": 30,
+  "batch": 2,
+  "filename": "Bryan Kelly - Don Quixote Suite.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Bryan Kelly - Don Quixote Suite.md",
+  "title": "Don Quixote Suite",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Bryan Kelly, Don Quixote Suite (catalogued 1998), Emerson E353, soprano saxophone and piano (clarinet alternate also listed). Current edition details are retailer-derived; an institutional syllabus excerpt lists only movement 2, “Sancho Panza,” for Grade 5 soprano saxophone.",
+  "evidence": [
+    {
+      "claim": "Music retailer specifies Emerson Edition E353, soprano saxophone and piano, and publisher grade C/D.",
+      "url": "https://www.forsyths.co.uk/sheet-music/instruments/woodwind/saxophone-sheet-music/375570-kelly-bryan-don-quixote-suite-1998-9790570404711.html",
+      "source_name": "Forsyth Music",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "A published university/exam syllabus includes Sancho Panza, movement 2, in an ABRSM Grade 5 soprano saxophone list.",
+      "url": "https://repository.udistrital.edu.co/server/api/core/bitstreams/7a8baca6-0762-4d29-9df6-c430c10ca402/content",
+      "source_name": "Universidad Distrital repository, syllabus scan",
+      "kind": "pedagogy",
+      "access": "search_index_only",
+      "page": 73
+    },
+    {
+      "claim": "British Music Collection describes Don Quixote as a suite for saxophone and piano.",
+      "url": "https://britishmusiccollection.org.uk/composer/bryan-kelly",
+      "source_name": "British Music Collection",
+      "kind": "institution",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Retailer search listing identifies Emerson E353 as soprano saxophone and piano, with a clarinet alternate, and labels skill level C/D; underlying product page returned a cache miss.",
+      "url": "https://www.forsyths.co.uk/sheet-music/instruments/woodwind/saxophone-sheet-music/375570-kelly-bryan-don-quixote-suite-1998-9790570404711.html",
+      "source_name": "Forsyth Music Shop",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "A University repository-hosted syllabus excerpt places “Sancho Panza,” the second movement, on a Grade 5 soprano saxophone list.",
+      "url": "https://repository.udistrital.edu.co/server/api/core/bitstreams/7a8baca6-0762-4d29-9df6-c430c10ca402/content",
+      "source_name": "Universidad Distrital repository, saxophone syllabus",
+      "kind": "pedagogy",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference: compare the complete suite with the partial Grade 5 placement; the syllabus listing applies to one movement and cannot establish the whole suite’s demands.",
+  "collection_flag": "Original saxophone suite with documented school-syllabus use of one movement. This does not establish simplification or exclude college use.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No opened publisher page, accessible score preview, saxophone recording, or college/professional performance was verified.",
+    "Retailer skill label is not used as a difficulty recommendation."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Bryan Kelly Don Quixote Suite Emerson E353 soprano saxophone piano",
+    "\"Sancho Panza\" \"Don Quixote Suite\" saxophone Grade 5"
+  ]
+}

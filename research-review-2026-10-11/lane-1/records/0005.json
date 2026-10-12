@@ -1,0 +1,40 @@
+{
+  "id": 5,
+  "batch": 1,
+  "filename": "Andrei Eshpai - Concerto.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Andrei Eshpai - Concerto.md",
+  "title": "Concerto",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Andrei Eshpai's *Concerto for Soprano Saxophone and Orchestra* has conflicting dates in the existing research: Wise Music lists 1987, while a dealer calls it 1986. The saxophone edition includes a solo part with piano reduction, according to the Muzyka listing.",
+  "evidence": [
+    {
+      "claim": "Composer/publisher catalog record is the primary lead for the orchestral work and edition.",
+      "url": "https://www.wisemusicclassical.com/work/44351/Concerto-for-Soprano-Saxophone-and-Orchestra--Andrei-Eshpai",
+      "source_name": "Wise Music Classical",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Dealer specifies 1986 and a solo part with piano reduction, exposing date disagreement.",
+      "url": "https://www.ficksmusic.com/products/eshpai-concerto-for-soprano-saxophone-muzyka",
+      "source_name": "Ficks Music",
+      "kind": "retailer",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Original orchestral concerto with solo saxophone; no transcription or simplified-audience evidence found.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "Composition date conflicts: publisher 1987 versus dealer 1986; leave unresolved.",
+    "Exact duration, score access, recording, and technical demands not verified."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Andrei Eshpai Concerto soprano saxophone piano reduction score recording 1987",
+    "Eshpai soprano saxophone concerto 1986 Muzyka piano reduction"
+  ]
+}

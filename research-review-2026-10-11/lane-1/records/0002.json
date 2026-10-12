@@ -1,0 +1,53 @@
+{
+  "id": 2,
+  "batch": 1,
+  "filename": "Albert Tepper - Concertino.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Albert Tepper - Concertino.md",
+  "title": "Concertino",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Albert Tepper's *Concertino* is an eight-minute soprano saxophone-and-piano edition (Southern Music SU427 / HL3776341). The publisher says Tepper adapted it from his oboe-and-strings concertino, made the piano transcription, and published the saxophone version in 1952; it describes three short linked movements without pause and extended tonality. Trinity College London lists it on the Grade 7 soprano saxophone syllabus, and a University of South Alabama student recital program included it in 2022.",
+  "evidence": [
+    {
+      "claim": "Southern Music identifies the soprano saxophone edition, eight-minute duration, oboe-and-strings source, composer-made piano transcription published in 1952, three linked movements without pause, and extended tonality.",
+      "url": "https://keiserproductions.com/catalog/southern-music/?ic=&sc=&tc=&tid=31FAE9B6-28C5-4C96-AE1B-4558F1010F1B",
+      "source_name": "Southern Music Company catalog",
+      "kind": "publisher",
+      "access": "opened",
+      "page": "lines 324-337"
+    },
+    {
+      "claim": "Trinity College London's syllabus lists Tepper's Concertino for Soprano Saxophone under Grade 7, Group A accompanied pieces.",
+      "url": "https://www.trinitycollege.com/qualifications/music/grade-exams/woodwind/saxophone-pieces",
+      "source_name": "Trinity College London saxophone syllabus",
+      "kind": "pedagogy",
+      "access": "opened",
+      "page": "Grade 7, item 45"
+    },
+    {
+      "claim": "University of South Alabama Department of Music program lists the work on Zander Westphal's student saxophone recital with pianist Scott Schwab on February 16, 2022, and identifies the work as dating from 1946.",
+      "url": "https://www.southalabama.edu/colleges/music/archive/resources/202122/20220216westphalrecitalprogram.pdf",
+      "source_name": "University of South Alabama Department of Music",
+      "kind": "institution",
+      "access": "opened",
+      "page": "1"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference from the publisher's account: inspect the part's extended tonal reading and the transitions linking its three movements, then verify these features in the score. No notation was available in this pass.",
+  "collection_flag": "Saxophone version is an adaptation of the composer's oboe-and-strings work, with a composer-made piano transcription; Trinity lists the soprano edition at Grade 7, and a university student recital program documents performance use.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No score preview or saxophone recording located, so notation and actual performance remain uninspected.",
+    "The 1946 composition date is reported by the university program, while the publisher's saxophone piano-transcription edition date is 1952."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Albert Tepper Concertino soprano saxophone 1946 score recording Boosey",
+    "Concertino for Soprano Saxophone Albert Tepper SU427",
+    "site:keiserproductions.com/catalog/southern-music Albert Tepper Concertino Soprano Saxophone SU427",
+    "site:trinitycollege.com/resource Albert Tepper Concertino soprano saxophone Grade 7",
+    "site:southalabama.edu Albert Tepper Concertino Zander Westphal"
+  ]
+}

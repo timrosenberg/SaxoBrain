@@ -1,0 +1,40 @@
+{
+  "id": 340,
+  "batch": 14,
+  "filename": "Roger Calmel - Suite.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Roger Calmel - Suite.md",
+  "title": "Suite",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "An Antwerp Conservatory library result records Roger Calmel's Suite for alto saxophone and piano, Maurer, 1961, dedicated to François Daneels; edition number and movement labels remain to be checked.",
+  "evidence": [
+    {
+      "claim": "Institutional catalog result records the instrumentation, publisher, year, dedication and a manuscript facsimile.",
+      "url": "https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf",
+      "source_name": "Royal Conservatoire Antwerp catalog",
+      "kind": "institution",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Presto listing identifies the Suite as alto saxophone and piano, Maurer.",
+      "url": "https://www.prestomusic.com/sheet-music/instruments/1578/composers/21803/browse",
+      "source_name": "Presto Music listing",
+      "kind": "retailer",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Verify the three movement labels against a score before assessing contrast and technique.",
+  "collection_flag": "Original mid-century alto saxophone/piano repertoire; no educational placement documented.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No score or performance inspected.",
+    "Maurer numbers, duration and movement labels in the older store note remain unconfirmed."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Roger Calmel Suite Maurer saxophone piano",
+    "Calmel Suite Maurer 1961 François Daneels"
+  ]
+}

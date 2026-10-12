@@ -1,0 +1,46 @@
+{
+  "id": 166,
+  "batch": 7,
+  "filename": "Jaromír Weinberger - Concerto.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Jaromír Weinberger - Concerto.md",
+  "title": "Concerto",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Jaromír Weinberger, Concerto for E-flat alto saxophone and orchestra, commissioned by Cecil Leeson. Piano score was completed in 1940 and its premiere was delayed until 1946; Keiser’s current performance edition incorporates post-premiere revisions by Tristan Willems, with orchestra and piano-reduction formats.",
+  "evidence": [
+    {
+      "claim": "Keiser describes commission, completion/premiere timeline, revisions, performance edition, and available piano reduction.",
+      "url": "https://keiserproductions.com/jaromir-weinbergers-alto-saxophone-concerto-reemerges/",
+      "source_name": "Keiser Productions",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Ball State University archival description identifies Leeson’s manuscript E-flat alto saxophone part and notes composer-requested phrasing/tempos and revisions.",
+      "url": "https://cardinalscholar.bsu.edu/bitstreams/cb5bf379-2361-4cb6-8f58-05af0aa35c89/download",
+      "source_name": "Ball State University archive",
+      "kind": "institution",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Commissioned for saxophonist Cecil Leeson; an archival performance edition reconciles post-premiere revisions.",
+  "listening": [
+    {
+      "url": "https://holocaustmusic.ort.org/resistance-and-exile/jaromir-weinberger/",
+      "description": "ORT page identifies a first-movement premiere recording by Christopher Creviston with the Czech National Symphony Orchestra, Tristan Willems conducting.",
+      "verification": "Recording metadata located; playback not auditioned."
+    }
+  ],
+  "score_links": [],
+  "gaps": [
+    "No current piano-reduction notation inspected; exact solo range and technical demands remain unknown."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Jaromir Weinberger alto saxophone concerto Keiser performance edition piano reduction",
+    "Weinberger Concerto Cecil Leeson 1940 1946 saxophone archive",
+    "Weinberger saxophone concerto recording Christopher Creviston"
+  ]
+}

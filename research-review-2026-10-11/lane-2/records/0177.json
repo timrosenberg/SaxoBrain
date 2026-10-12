@@ -1,0 +1,86 @@
+{
+  "id": 177,
+  "batch": 8,
+  "filename": "Jean-Baptiste Singelée - Septieme Solo de Concert Op. 93.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Jean-Baptiste Singelée - Septieme Solo de Concert Op. 93.md",
+  "title": "Septieme Solo de Concert Op. 93",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Jean-Baptiste Singelée, Septième Solo de Concert no. 7, Op. 93 (1863), originally for baritone saxophone and piano. The inspected public Musik Fabrik/Notendownload preview is a 2011 baritone edition revised by Paul Wehage, MFJBS011. Separate Roncorp and Dorn catalog leads also describe baritone editions. The current catalog’s alto/piano tag is not supported by these sources; the intended edition remains unresolved.",
+  "evidence": [
+    {
+      "claim": "CiNii identifies Roncorp c.1987, compiled/edited by Bruce Ronkin, baritone saxophone and piano, about 3:00, eight-page score and attached part. IMSLP independently lists Op. 93 for baritone saxophone and piano.",
+      "url": "https://ci.nii.ac.jp/ncid/BA84614610",
+      "source_name": "CiNii Books, edition record",
+      "kind": "institution",
+      "access": "opened"
+    },
+    {
+      "claim": "IMSLP lists Op. 93 as the 1863 Seventh Solo for baritone saxophone and piano, consistent with the CiNii catalog record.",
+      "url": "https://imslp.org/wiki/List_of_works_by_Jean_Baptiste_Singel%C3%A9e",
+      "source_name": "IMSLP, Singelée works list",
+      "kind": "score",
+      "access": "opened"
+    },
+    {
+      "claim": "Public product page identifies MFJBS011, a baritone saxophone and piano edition of Op. 93, with 12 pages and an approximately 3:30 duration; seller’s “medium” label is not used as a SaxoBrain level.",
+      "url": "https://www.notendownload.com/solo-de-concert-no.-7-opus-93/mfjbs011",
+      "source_name": "Musik Fabrik Music Publishing listing via Notendownload",
+      "kind": "retailer",
+      "access": "opened"
+    },
+    {
+      "claim": "Public score-preview images visibly identify the edition as baritone saxophone and piano, Jean-Baptiste Singelée Op. 93, revised by Paul Wehage and © 2011 Editions de la Fabrique Musique. I inspected the opening and a later page.",
+      "url": "https://www.notendownload.com/media/4a/c9/96/1704668224/mfjbs011-1.png?1704668224=",
+      "source_name": "Notendownload score preview, opening",
+      "kind": "score",
+      "access": "score_inspected",
+      "page": "public preview page 2"
+    }
+  ],
+  "score_observations": [
+    {
+      "claim": "The opening preview page marks “Introduction: Allegro risoluto”; the baritone saxophone begins with an ascending slurred figure and tied notes at forte, against a piano part with strongly accented chordal attacks.",
+      "url": "https://www.notendownload.com/media/4a/c9/96/1704668224/mfjbs011-1.png?1704668224=",
+      "source_name": "Notendownload public score preview, page 2"
+    },
+    {
+      "claim": "A later preview page shows a contrast between the saxophone’s slurred/held melodic phrases and repeated chord patterns in the piano; a subsequent saxophone entry follows a rest with a quick connected figure. The selected previews do not establish the full range or complete form.",
+      "url": "https://www.notendownload.com/media/d2/4c/81/1713383660/mfjbs011-2.png?1713383660=",
+      "source_name": "Notendownload public score preview, page 3"
+    }
+  ],
+  "review_focus": "Inference from the inspected baritone preview: consider slurred agility and tied-note breath planning against strongly articulated repeated piano chords. These observations apply to the previewed baritone edition, not a confirmed alto edition.",
+  "collection_flag": "Original nineteenth-century saxophone contest solo. Cataloged Roncorp and Dorn edition leads identify baritone rather than alto; no evidence yet confirms an alto-specific adaptation.",
+  "listening": [],
+  "score_links": [
+    {
+      "url": "https://www.notendownload.com/solo-de-concert-no.-7-opus-93/mfjbs011",
+      "description": "Product page with 12-page edition and public preview images. Opening and later score pages were retrieved and visually inspected.",
+      "inspected": true
+    }
+  ],
+  "gaps": [
+    "The assigned catalog entry specifies alto saxophone, while the original, Roncorp, Dorn, and inspected 2011 preview identify baritone saxophone; no alto adaptation has been confirmed.",
+    "Only selected public preview pages were inspected; full range and complete technical demands remain unknown.",
+    "No college/professional or pedagogical placement verified."
+  ],
+  "proposed_corrections": [
+    {
+      "field": "instruments",
+      "catalog_value": [
+        "Alto Saxophone",
+        "Piano"
+      ],
+      "evidence": "IMSLP, CiNii, and the inspected public 2011 score preview identify the original/previewed edition as baritone saxophone and piano. The intended entry-specific edition is unresolved, so verify before changing."
+    }
+  ],
+  "searches": [
+    "Jean-Baptiste Singelée Septième Solo de Concert Op. 93 saxophone score edition",
+    "Jean-Baptiste Singelée Septième Solo de Concert Op.93 Roncorp RON1064 alto baritone score",
+    "Dorn DORN2016 Singelée baritone saxophone piano publisher",
+    "Singelée Septième Solo Op.93 recording baritone saxophone",
+    "Jean-Baptiste Singelée Septième Solo Op. 93 Notendownload MFJBS011 preview",
+    "Public preview image page 2 and page 3 retrieved from Notendownload; inspected visually"
+  ]
+}

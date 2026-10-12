@@ -1,0 +1,63 @@
+{
+  "id": 187,
+  "batch": 8,
+  "filename": "Jean-Michel Damase - Vacances.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Jean-Michel Damase - Vacances.md",
+  "title": "Vacances",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Jean-Michel Damase, Vacances, Billaudot GB4949 (1990), for E-flat alto saxophone and piano, approximately three minutes. The publisher lists “Facile (cycle 1)” and adults as audience; the French Wind Music Archive describes a preparatory level indicated on the score. A University of Panama recital project reproduces selected excerpts attributed to this edition and discusses it in an undergraduate recital context.",
+  "evidence": [
+    {
+      "claim": "Publisher product page identifies GB4949 as E-flat saxophone and piano, c. 3 minutes, copyright 1990, “Facile (cycle 1),” and adult audience.",
+      "url": "https://www.billaudot.com/vacances-8.html",
+      "source_name": "Éditions Billaudot",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "French Wind Music Archive catalog identifies the 1990 Billaudot edition for alto saxophone in E-flat and piano, 3+1 pages, with “niveau préparatoire indiqué sur la partition”; this is the archive’s bibliographic description and does not establish the complete part’s demands.",
+      "url": "https://windmusic.org/index.php?id=7452&lvl=notice_display",
+      "source_name": "French Wind Music Archive catalog",
+      "kind": "institution",
+      "access": "opened"
+    },
+    {
+      "claim": "A University of Panama undergraduate recital-project PDF reproduces score excerpts attributed to the 1990 Gérard Billaudot edition, and I visually inspected its opening, syncopation, high-register, and closing excerpts (printed pp. 7, 9–10). These are excerpts, not the complete score.",
+      "url": "https://up-rid.up.ac.pa/6333/1/karen_santiago.pdf",
+      "source_name": "University of Panama recital project with score excerpts",
+      "kind": "institution",
+      "access": "score_inspected",
+      "page": "printed pp. 7, 9–10; PDF pp. 11, 13–14"
+    }
+  ],
+  "score_observations": [
+    "The university project’s reproduced opening excerpt shows 12/8 and Moderato with dotted quarter = 76; the saxophone rests through several opening beats before a slurred melodic figure. Visually inspected later excerpts show syncopation, a high-register phrase with leaps and a rapid connected descent, and an active closing figure with short rests. These are selected excerpts copied from the 1990 Billaudot edition, not a full score; exact written range was not verified."
+  ],
+  "review_focus": "The inspected excerpts suggest attention to pulse in 12/8, syncopated articulation, high-register connections, and phrase shaping; the complete part remains unseen.",
+  "collection_flag": "Original saxophone/piano work. Publisher audience metadata says adults and “Facile (cycle 1)”; the archive describes preparatory-level notation. An undergraduate recital project also documents student use. These are different contexts, not a college-year mapping.",
+  "listening": [],
+  "score_links": [
+    {
+      "url": "https://up-rid.up.ac.pa/6333/1/karen_santiago.pdf",
+      "description": "University project PDF with reproduced excerpts credited to the 1990 Billaudot edition; selected score excerpts visually inspected, not a complete score.",
+      "inspected": true
+    },
+    {
+      "url": "https://www.billaudot.com/vacances-8.html",
+      "description": "Opened publisher page confirms edition metadata; page does not show score notation.",
+      "inspected": false
+    }
+  ],
+  "gaps": [
+    "Only selected score excerpts reproduced in the university project were available, not the complete Billaudot part; full written range and later demands remain unknown.",
+    "No matching professional recording or specific conservatory placement was verified."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Jean-Michel Damase Vacances GB4949 saxophone score",
+    "Jean-Michel Damase Vacances GB4949 Billaudot preview score",
+    "Jean-Michel Damase Vacances saxophone undergraduate recital analysis",
+    "Damase Vacances performance alto saxophone piano"
+  ]
+}

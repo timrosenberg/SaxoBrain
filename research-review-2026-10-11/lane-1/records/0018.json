@@ -1,0 +1,40 @@
+{
+  "id": 18,
+  "batch": 1,
+  "filename": "Bent Lorentzen - Concerto.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Bent Lorentzen - Concerto.md",
+  "title": "Concerto",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Bent Lorentzen's saxophone concerto is listed by Wise Music for alto saxophone and winds, piano, and percussion, dedicated to David Pituch. The catalog note reports an approximately 23-minute duration and a program-note characterization of classical saxophone writing combined with avant-garde techniques. The open search did not recover the full work page or score, so detailed claims remain at catalog-note level.",
+  "evidence": [
+    {
+      "claim": "Publisher work page is the catalog's primary lead for instrumentation and dedication.",
+      "url": "https://www.wisemusicclassical.com/work/22267/Saxofonkoncert--Bent-Lorentzen/",
+      "source_name": "Wise Music Classical",
+      "kind": "publisher",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Composer association references the saxophone concerto and a Pituch version for alto sax and piano.",
+      "url": "https://komponistbasen.dk/node/8491",
+      "source_name": "Danish Composers' Society Composer Database",
+      "kind": "institution",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Original concerto dedicated to a saxophonist; no youth adaptation evidence.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "Retrieve full score or piano version to assess solo notation and accompaniment demands.",
+    "Verify duration and the exact version represented by the work file."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Bent Lorentzen Saxofonkoncert concerto alto saxophone score recording",
+    "Bent Lorentzen saxophone concerto David Pituch score"
+  ]
+}

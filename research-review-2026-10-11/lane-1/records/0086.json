@@ -1,0 +1,47 @@
+{
+  "id": 86,
+  "batch": 4,
+  "filename": "Edward Solomon - The Dancer.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Edward Solomon - The Dancer.md",
+  "title": "The Dancer",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Edward Solomon’s *The Dancer* is a four-page Southern Music solo for E-flat alto saxophone and piano, item SU352. The catalog search result labels it Level 1; a separate retailer describes it as a graceful waltz intended as a young player’s first solo, but no score was inspected to verify style or notation.",
+  "evidence": [
+    {
+      "claim": "Southern Music/Hal Leonard product page identifies alto sax, composer Edward Solomon, code SU352, four pages, and publisher Level 1.",
+      "url": "https://www.halleonard.com/product/3776251/the-dancer",
+      "source_name": "Hal Leonard, Southern Music catalog",
+      "kind": "publisher",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Retailer listing describes a young player’s first solo and labels the item a graceful waltz.",
+      "url": "https://www.all-sheetmusic.com/Sheetmusic/Edward-Solomon-Saxophone-Sheet-Music/",
+      "source_name": "All-Sheetmusic catalog",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Copyright catalog records the 1996 publication and identifies the title as for alto saxophone and piano.",
+      "url": "https://www.copyrightencyclopedia.com/final-conflict-the-second-coming-the-dancer-no-cc4-the/",
+      "source_name": "U.S. Copyright Office record transcription",
+      "kind": "institution",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference: inspect waltz character and written range in the score; the waltz description is from a retail listing and has not been checked against notation.",
+  "collection_flag": "Publisher Level 1 descriptor and a retail 'young player first solo' description document an explicitly early-study market; SaxoBrain placement remains Tim’s decision.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No readable score sample, performance, or exact musical details beyond the retailer’s genre description located."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Edward Solomon The Dancer SU352 publisher score piano",
+    "Edward Solomon The Dancer saxophone recording score",
+    "The Dancer Ed Solomon alto saxophone waltz"
+  ]
+}

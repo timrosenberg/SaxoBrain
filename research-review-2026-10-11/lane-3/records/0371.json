@@ -1,0 +1,75 @@
+{
+  "id": 371,
+  "batch": 15,
+  "filename": "Tilen Lebar - Hassan.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Tilen Lebar - Hassan.md",
+  "title": "Hassan",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Tilen Lebar's Hassan (2022) is an 11-minute work for prepared alto saxophone and tape/sound recording. Donemus describes it as an obligatory first-round work for SAXGO22 and documents glass-jar preparation, whistle tones, natural spectral multiphonics, microtonal polyrhythms, and very soft dynamics.",
+  "evidence": [
+    {
+      "claim": "Composer's Donemus work listing gives duration and instrument/media.",
+      "url": "https://donemus.nl/events/tilen-lebar-hassan/",
+      "source_name": "Donemus",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Donemus event description documents the SAXGO22 competition role and extended techniques.",
+      "url": "https://donemus.nl/events/limen-ii/",
+      "source_name": "Donemus",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Composer page lists Hassan, scoring, duration, and sheet music.",
+      "url": "https://tilenlebar.com/compositions/",
+      "source_name": "Tilen Lebar official site",
+      "kind": "composer",
+      "access": "opened"
+    },
+    {
+      "claim": "Academy of Music, University of Ljubljana program lists Hassan in a master's saxophone recital.",
+      "url": "https://www.ag.uni-lj.si/dogodki/magistrski-koncert/transcendentalni-subjektivizem",
+      "source_name": "University of Ljubljana",
+      "kind": "institution",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference: the composer-documented object preparation and tape/acoustic handoff make equipment setup, electroacoustic coordination, microtonal control, multiphonics, and quiet dynamic stability concrete review issues.",
+  "collection_flag": "Documented competition required repertoire and master's recital programming; neither source assigns a universal difficulty level.",
+  "listening": [
+    {
+      "url": "https://donemus.nl/events/tilen-lebar-hassan-2/",
+      "description": "Henrique Portovedo performance listing at WNMD 2025.",
+      "verification": "Donemus page identifies work and performer; playback not auditioned."
+    }
+  ],
+  "score_links": [
+    {
+      "url": "https://webshop.donemus.nl/action/front/composer/Lebar%2C%2BTilen",
+      "description": "Donemus work catalog; score availability page located, no notation inspected.",
+      "inspected": false
+    }
+  ],
+  "gaps": [
+    "No score preview inspected; exact rhythmic notation and setup instructions remain unknown."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    {
+      "query": "Tilen Lebar Hassan score Donemus prepared saxophone",
+      "checked": "Search results and listed sources checked; gaps stated per record."
+    },
+    {
+      "query": "Hassan Tilen Lebar SAXGO22 obligatory first round",
+      "checked": "Search results and listed sources checked; gaps stated per record."
+    },
+    {
+      "query": "Tilen Lebar Hassan Henrique Portovedo performance",
+      "checked": "Search results and listed sources checked; gaps stated per record."
+    }
+  ]
+}

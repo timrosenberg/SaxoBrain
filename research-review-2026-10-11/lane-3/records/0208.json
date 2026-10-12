@@ -1,0 +1,41 @@
+{
+  "id": 208,
+  "batch": 9,
+  "filename": "Jules Demersseman - Le Carnaval De Venise.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Jules Demersseman - Le Carnaval De Venise.md",
+  "title": "Le Carnaval De Venise",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "The current catalog entry is an alto-saxophone-and-piano version of Demersseman’s Le Carnaval de Venise. Keiser/Southern Music describes a separate alto saxophone and band edition, about six minutes, with saxophone part edited by Fred Hemke and orchestration by Herbert Clarke/R. Mark Rogers; that source confirms a band version but not the piano edition.",
+  "evidence": [
+    {
+      "claim": "Identifies alto sax and band edition, approximate duration and editorial/arrangement credits; not the piano version.",
+      "url": "https://keiserproductions.com/catalog/southern-music/carnival-of-venice-for-alto-saxophone-and-band-r212/",
+      "source_name": "Keiser Productions / Southern Music publisher",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Catalog lead for the alto saxophone and piano listing.",
+      "url": "https://www.grothmusic.com/p-128492.aspx",
+      "source_name": "Groth Music listing",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Confirm whether cataloged piano version is a separate arrangement; then review variation technique, articulation and cadenza demands from that score.",
+  "collection_flag": "A historic showpiece exists in multiple accompaniment formats; do not substitute band-edition evidence for the piano edition.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "Piano edition publisher/version and notation were not verified.",
+    "No recording matching the piano edition was found."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Jules Demersseman Le Carnaval de Venise alto sax piano edition score",
+    "Carnival of Venice alto saxophone band Keiser R212",
+    "Demersseman Le Carnaval de Venise piano saxophone recording"
+  ]
+}

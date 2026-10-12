@@ -1,0 +1,33 @@
+{
+  "id": 226,
+  "batch": 10,
+  "filename": "Kristina Williamson - Ballade.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Kristina Williamson - Ballade.md",
+  "title": "Ballade",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Catalog identifies Kristina Williamson, Ballade for alto saxophone and piano, Etoile Music ET151014. A direct publisher or institutional confirmation was not located.",
+  "evidence": [
+    {
+      "claim": "Groth Music lists Ballade by Kristina Williamson as Etoile ET151014 for alto saxophone and piano.",
+      "url": "https://www.grothmusic.com/p-146136.aspx",
+      "source_name": "Groth Music",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Published saxophone/piano edition; original-work status unverified.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "Exact composer/publisher record and edition details not independently confirmed.",
+    "No score preview, recording, or pedagogical placement located."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "\"Kristina Williamson\" \"Ballade\" saxophone Etoile ET151014",
+    "site:grothmusic.com/p-146136.aspx Williamson Ballade"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 136,
+  "batch": 6,
+  "filename": "Hans Kox - Through A Glass Darkly.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Hans Kox - Through A Glass Darkly.md",
+  "title": "Through A Glass Darkly",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Donemus identifies Hans Kox’s 1989 fantasia Through a Glass, Darkly for alto saxophone and piano, dedicated to John-Edward Kelly and lasting about 10 minutes. An 11-page public watermark preview was retrieved; the opening is unmeasured and uses a notated saxophone part with substantial dynamic shaping.",
+  "evidence": [
+    {
+      "claim": "Donemus edition 05462 identifies instrumentation, 1989 date, dedication, approximate duration and 26-page score with separate saxophone part.",
+      "url": "https://webshop.donemus.com/action/front/sheetmusic/5462",
+      "source_name": "Donemus webshop",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Performer Andrew R. Steinberg describes the opening gesture, transfer of repeated-note material between saxophone and piano, and high tessitura at climaxes; page identifies his 2018 UC San Diego performance with pianist Shaoai Ashley Zhang.",
+      "url": "https://andrewrsteinberg.com/music",
+      "source_name": "Andrew R. Steinberg performer page",
+      "kind": "performer",
+      "access": "opened"
+    },
+    {
+      "claim": "A competition program book lists the work in a 2012 International Woodwinds competition finalist’s second-round program.",
+      "url": "https://www.woodwinds-competition.com/programmbuch.pdf",
+      "source_name": "International Woodwinds competition program",
+      "kind": "institution",
+      "access": "opened",
+      "page": "pp.38-39"
+    },
+    {
+      "claim": "Public Donemus preview, 11 pages total, visually inspected on title page and opening score pages 2–4.",
+      "url": "https://webshop.donemus.nl/action/front/sheetmusic/5462",
+      "source_name": "Donemus preview PDF for product 5462",
+      "kind": "score",
+      "access": "score_inspected",
+      "page": "preview pp.1–4"
+    }
+  ],
+  "score_observations": [
+    "Preview p. 2 identifies the 1989 fantasia for alto saxophone and piano. On p. 3, the opening is marked Adagio liberamente and senza misura. The saxophone line uses long slurred gestures, frequent chromatic accidentals, and a broad crescendo/decrescendo arc; piano attacks are sparse at first, then become sharply accented triplet chord bursts. Preview p. 4 continues with short triplet saxophone gestures separated by rests, piano responses with rising tuplets, and contrasting f/mp/pp dynamics. No range is claimed because the excerpt does not specify whether its pitches are concert or transposed."
+  ],
+  "review_focus": "Inference from the inspected pages: consider control of unmeasured pacing and chromatic, high-register slurred writing, together with precise dynamic contrast and the handoff between short saxophone cells and piano responses. The full piece may contain other demands beyond the opening excerpt.",
+  "collection_flag": "Documented professional performance and international competition programming; these show concert use, not a level.",
+  "listening": [
+    {
+      "url": "https://andrewrsteinberg.com/music",
+      "description": "Performer page documents a live 2018 UC San Diego performance with Shaoai Ashley Zhang; embedded playback not auditioned.",
+      "verification": "performer and event credits verified; playback not auditioned"
+    }
+  ],
+  "score_links": [
+    {
+      "url": "https://webshop.donemus.com/action/front/sheetmusic",
+      "description": "Public watermarked Donemus preview for 5462; pages 1–4 visually inspected.",
+      "inspected": true
+    }
+  ],
+  "gaps": [
+    "Only the first four pages of the 11-page preview were inspected; later material and full range remain unknown.",
+    "Performer video/audio was identified but not auditioned."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Hans Kox Through a Glass Darkly alto saxophone piano score recording",
+    "Donemus 05462 Kox Through a glass darkly",
+    "Andrew Steinberg Through a Glass Darkly saxophone",
+    "International Woodwinds Competition Through a Glass Darkly"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 17,
+  "batch": 1,
+  "filename": "Aubert Lemeland - Epitaph for John Coltrane.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Aubert Lemeland - Epitaph for John Coltrane.md",
+  "title": "Epitaph for John Coltrane",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Aubert Lemeland's *Epitaph to John Coltrane*, Billaudot GB3218, is a B-flat saxophone-and-piano work. Billaudot places it in *L'enseignement moderne du saxophone* and labels it moderately difficult (cycle 2). The publisher's B-flat designation is compatible with soprano saxophone, but the exact instrument is not specified on the record.",
+  "evidence": [
+    {
+      "claim": "Official publisher specifies B-flat saxophone and piano, collection, product number, and cycle 2 label.",
+      "url": "https://www.billaudot.com/gb3218-6.html",
+      "source_name": "Éditions Billaudot",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Dealer corroborates B-flat saxophone and piano edition.",
+      "url": "https://www.lmi-partitions.com/affiliate/D9FjAn89Uc/187265",
+      "source_name": "LMI Partitions",
+      "kind": "retailer",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Pedagogy-collection placement and cycle 2 moderate-difficulty label are documented; this is not sufficient to decide college collection fit.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "Exact saxophone instrument and the catalog's opus/date details remain unverified; the publisher's B-flat label alone does not determine soprano versus tenor.",
+    "No score preview or matching recording was inspected."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Aubert Lemeland Epitaph to John Coltrane saxophone piano Billaudot recording",
+    "Billaudot Epitaph to John Coltrane GB3218 soprano"
+  ]
+}

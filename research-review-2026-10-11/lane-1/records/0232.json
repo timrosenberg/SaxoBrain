@@ -1,0 +1,62 @@
+{
+  "id": 232,
+  "batch": 10,
+  "filename": "Leonard Mark Lewis - Prelude.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Leonard Mark Lewis - Prelude.md",
+  "title": "Prelude",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "The composer’s product page explicitly identifies Prelude for soprano saxophone and piano, resolving the earlier catalog ambiguity caused by the shorter page title. Kenneth Tse’s repertoire listing identifies the work as a 2004 composition and lists a Crystal recording.",
+  "evidence": [
+    {
+      "claim": "Composer product description states soprano saxophone and piano.",
+      "url": "https://www.leonardmarklewis.com/product-page/prelude-for-soprano-saxophone",
+      "source_name": "Leonard Mark Lewis",
+      "kind": "composer",
+      "access": "opened"
+    },
+    {
+      "claim": "Kenneth Tse repertoire page lists Prelude, 2004, and Crystal recording catalog no. 658.",
+      "url": "https://www.kenneth-tse.com/compositions",
+      "source_name": "Kenneth Tse",
+      "kind": "performer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "AllMusic lists the work in Leonard Mark Lewis’s catalog with a 2004 date and 3:29 duration.",
+      "url": "https://www.allmusic.com/artist/leonard-mark-lewis-mn0002194681",
+      "source_name": "AllMusic",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Published composer-listed duo work; professional saxophonist Kenneth Tse is associated with a recording.",
+  "listening": [
+    {
+      "url": "https://www.kenneth-tse.com/compositions",
+      "description": "Kenneth Tse composition listing associates the piece with a Crystal recording.",
+      "verification": "Metadata identified; playback not auditioned."
+    }
+  ],
+  "score_links": [
+    {
+      "url": "https://www.leonardmarklewis.com/product-page/prelude-for-soprano-saxophone",
+      "description": "Composer product page",
+      "inspected": false
+    }
+  ],
+  "gaps": [
+    "The recording itself was not auditioned or directly located.",
+    "No score notation inspected."
+  ],
+  "proposed_corrections": [
+    "Retain piano in the instrumentation; the composer page explicitly says soprano saxophone and piano."
+  ],
+  "searches": [
+    "Leonard Mark Lewis Prelude soprano saxophone piano",
+    "Kenneth Tse compositions Leonard Mark Lewis Prelude 2004",
+    "AllMusic Leonard Mark Lewis Prelude 3:29"
+  ]
+}

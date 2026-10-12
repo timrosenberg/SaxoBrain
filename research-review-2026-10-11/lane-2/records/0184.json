@@ -1,0 +1,56 @@
+{
+  "id": 184,
+  "batch": 8,
+  "filename": "Jean-Michel Damase - Bien Affectueusement.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Jean-Michel Damase - Bien Affectueusement.md",
+  "title": "Bien Affectueusement",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "BnF’s record identifies Damase’s Bien affectueusement for alto or soprano saxophone and piano, Combre C06206, with a five-page score plus two parts, 2:30 duration, and first-cycle level. This conflicts with the current catalog’s soprano-only designation and its nine-page figure; Forsyths confirms a five-page current Combre edition.",
+  "evidence": [
+    {
+      "claim": "BnF’s opened bibliographic record identifies Bien affectueusement for alto or soprano saxophone and piano, Combre, copyright 2002, five-page score plus two parts, 2:30, first cycle.",
+      "url": "https://catalogue.bnf.fr/ark:/12148/cb396822815",
+      "source_name": "Bibliothèque nationale de France catalog",
+      "kind": "institution",
+      "access": "opened"
+    },
+    {
+      "claim": "BnF catalog record was retrieved through the public record URL after the web reader cache miss; the record includes exact scoring, publication, pagination, duration, and cycle metadata.",
+      "url": "https://catalogue.bnf.fr/ark:/12148/cb396822815",
+      "source_name": "Bibliothèque nationale de France catalog record",
+      "kind": "institution",
+      "access": "opened"
+    },
+    {
+      "claim": "Forsyths identifies Combre HXC06206 as a five-page saxophone and piano edition; its grade 2 label is the retailer’s designation.",
+      "url": "https://www.forsyths.co.uk/sheet-music/instruments/woodwind/saxophone-sheet-music/340259-damase-jean-michel-bien-affectueusement-9790230362061.html",
+      "source_name": "Forsyths sheet-music listing",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Resolve the current catalog’s soprano-only and nine-page details against Combre C06206, which BnF documents as alternate alto/soprano with a five-page score plus parts.",
+  "collection_flag": "The BnF record documents first-cycle French conservatory placement; this is not a college-year mapping.",
+  "listening": [],
+  "score_links": [
+    {
+      "url": "https://catalogue.bnf.fr/ark:/12148/cb396822815",
+      "description": "Opened BnF bibliographic record; no score notation available.",
+      "inspected": false
+    }
+  ],
+  "gaps": [
+    "No notation preview or accessible score pages were located; the BnF record is bibliographic evidence only.",
+    "Resolve the SaxoBrain snapshot’s nine-page figure against BnF’s five-page score plus two parts; page-count conventions may differ.",
+    "No work-specific performance or college/professional placement verified."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Jean-Michel Damase Bien Affectueusement Combre C06206 score",
+    "Jean-Michel Damase Bien affectueusement Combre C06206 score preview",
+    "Damase Bien affectueusement saxophone performance",
+    "Damase Bien affectueusement BnF instrumentation 2002"
+  ]
+}

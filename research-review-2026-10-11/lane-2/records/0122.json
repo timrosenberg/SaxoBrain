@@ -1,0 +1,70 @@
+{
+  "id": 122,
+  "batch": 5,
+  "filename": "Gordan Tudor - Quarter Tone Waltz.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Gordan Tudor - Quarter Tone Waltz.md",
+  "title": "Quarter Tone Waltz",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Gordan Tudor, Quarter Tone Waltz (2010), for solo alto saxophone, Donemus D16436. Donemus’s public single-page score excerpt contains later bars (60–86) rather than the full work. A Josip Nochta Saxophone Competition program lists it in first-round repertoire.",
+  "evidence": [
+    {
+      "claim": "Donemus public notation excerpt identifies the piece and publisher number and shows bars 60–86 with quarter-tone fingerings and technique instructions.",
+      "url": "https://webshop.donemus.com/action/front/sheetmusic/16436/Quarter%2BTone%2BWaltz",
+      "source_name": "Donemus public score excerpt",
+      "kind": "score",
+      "access": "score_inspected",
+      "page": "single-page excerpt, bars 60–86"
+    },
+    {
+      "claim": "Josip Nochta competition program lists Quarter Tone Waltz in first-round repertoire.",
+      "url": "https://nochta-saxcompetition.com/wp-content/uploads/2016/10/KNJI%C5%BDICA-2014.pdf",
+      "source_name": "Josip Nochta Saxophone Competition 2014 program",
+      "kind": "pedagogy",
+      "access": "opened"
+    },
+    {
+      "claim": "Croatian Ministry of Culture listing identifies the work among selected compositions in a public composition-support program; it does not describe saxophone demands.",
+      "url": "https://min-kulture.gov.hr/vijesti-8/izbor-skladbi-pristiglih-na-javni-poziv-za-poticanje-hrvatskoga-glazbenog-stvaralastva/6854",
+      "source_name": "Croatian Ministry of Culture",
+      "kind": "institution",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [
+    {
+      "observation": "The single-page excerpt covers bars 60–86. It shows repeated slap-tongue entries, extensive quarter-tone fingering indications, dense scalar runs with quintuplets and other rapid subdivisions, a section marked quasi an octave higher using third-octave fingering without the octave key, and a high-register closing line. Only this excerpt is available; full range and distribution of effects are unknown.",
+      "url": "https://webshop.donemus.com/action/front/sheetmusic/16436/Quarter%2BTone%2BWaltz",
+      "page": "single-page excerpt, bars 60–86"
+    }
+  ],
+  "review_focus": "Inference from the visible late excerpt: verify quarter-tone fingerings and third-octave response, then assess whether the long rapid passage and repeated slap attacks fit the intended performer. Competition listing establishes repertoire context, not a difficulty level.",
+  "collection_flag": "Original unaccompanied alto saxophone work with a verified competition first-round listing; full score remains unavailable in the preview.",
+  "listening": [
+    {
+      "url": "https://adolphesax.com/en/videos/josip-nochta-competition-dimitrii-uvarov-quarter-tone-waltz-by-gordan-tudor/page/36",
+      "description": "Video listing identifies Dimitrii Uvarov performing the work at the Josip Nochta Competition.",
+      "verification": "Search result confirms title/performer; playback not auditioned."
+    }
+  ],
+  "score_links": [
+    {
+      "url": "https://webshop.donemus.com/action/front/sheetmusic/16436/Quarter%2BTone%2BWaltz",
+      "description": "Donemus one-page notation excerpt covering bars 60–86; visually inspected.",
+      "inspected": true
+    }
+  ],
+  "gaps": [
+    "Only a late single-page excerpt is public; full score, opening, written range, and full work demands remain unknown.",
+    "The competition program was checked as repertoire evidence; no performance audio was auditioned.",
+    "No college/professional teaching placement verified."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Gordan Tudor Quarter Tone Waltz Donemus score performance",
+    "Opened Donemus product and inspected its public score excerpt, bars 60–86",
+    "Opened Croatian Ministry of Culture selection notice for provenance context",
+    "Opened Josip Nochta 2014 competition program and confirmed first-round listing",
+    "Searched for full score and matching saxophone performance; no audio auditioned"
+  ]
+}

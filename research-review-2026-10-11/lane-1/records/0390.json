@@ -1,0 +1,32 @@
+{
+  "id": 390,
+  "batch": 16,
+  "filename": "Walter Hartley - Sonata (Soprano).md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Walter Hartley - Sonata (Soprano).md",
+  "title": "Sonata (Soprano)",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Hartley's Sonata for soprano saxophone and piano is listed as a 1994 work by a University of Maryland dissertation. The cataloged Dorn publication number is DORN0945, but the title's edition and any alternate oboe version need direct publisher confirmation.",
+  "evidence": [
+    {
+      "claim": "Dissertation bibliography lists Hartley Sonata for soprano saxophone and piano, 1994.",
+      "url": "https://api.drum.lib.umd.edu/server/api/core/bitstreams/2153c64b-6b45-45aa-8f96-15586240afc5/content",
+      "source_name": "University of Maryland dissertation",
+      "kind": "institution",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Published soprano saxophone/piano sonata; intended audience and score content not verified.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No publisher score record, score, or recording inspected."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Walter Hartley Sonata soprano saxophone piano DORN0945 score",
+    "Hartley Sonata soprano saxophone performance"
+  ]
+}

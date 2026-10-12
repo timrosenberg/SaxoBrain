@@ -1,0 +1,87 @@
+{
+  "id": 43,
+  "batch": 2,
+  "filename": "Charles Koechlin - Deuxieme Sonatine.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Charles Koechlin - Deuxieme Sonatine.md",
+  "title": "Deuxieme Sonatine",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Charles Koechlin, Deuxième Sonatine, Op. 194 no. 2 (composed 1942–43). IMSLP identifies a soprano saxophone-or-oboe d’amore solo with piano, and a separate ensemble version. The opened score scan is the ensemble version. A publisher catalogue lead describes an alto-or-tenor edition, so the assigned soprano instrument tag needs edition verification.",
+  "evidence": [
+    {
+      "claim": "Schott/Max Eschig identifies the edition as op. 194/2 for oboe d’amore or soprano saxophone and piano, with intermediate label and 18 pages.",
+      "url": "https://www.schott-music.com/en/deuxieme-sonatine-no70838.html",
+      "source_name": "Schott Music",
+      "kind": "publisher",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Retailer identifies four movements, 34 pages for the broader score listing, and full original ensemble scoring.",
+      "url": "https://www.forsyths.co.uk/sheet-music/instruments/woodwind/saxophone-sheet-music/228561-koechlin-charles-deuxieme-sonatine-opus-194-n-2-9790045037710.html",
+      "source_name": "Forsyth Music",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "A conservatory syllabus lists the soprano saxophone version among its repertoire options.",
+      "url": "https://csmn.es/wp-content/uploads/2024/11/16-Guia-docente_Instrumento-aplicado-a-la-musicologia-II.-Saxofon-2024-2025.pdf",
+      "source_name": "Conservatorio Superior de Música de Navarra syllabus",
+      "kind": "pedagogy",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Arno Bornkamp recording listing gives the four movement names and durations.",
+      "url": "https://www.studio52.gr/info_gr.asp?infoID=00000qyq",
+      "source_name": "Studio 52 album listing",
+      "kind": "performer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "IMSLP record identifies Op. 194, composed 1942–43, with a two-player oboe d’amore (or soprano saxophone) and piano version, and a distinct ensemble version. The accessed score PDF is the ensemble scoring, not the piano version.",
+      "url": "https://imslp.org/wiki/2_Sonatines,_Op.194_(Koechlin,_Charles)",
+      "source_name": "IMSLP, 2 Sonatines, Op. 194",
+      "kind": "score",
+      "access": "opened"
+    },
+    {
+      "claim": "A separate saxophone-catalogue search result lists Sonatine No. 2, Op. 194 for alto or tenor saxophone and piano, conflicting with the soprano version in the score’s title page.",
+      "url": "https://johanvanderlinden.com/saxophone_catalogue_2010.pdf",
+      "source_name": "United Music Publishers Saxophone Catalogue 2010",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [
+    {
+      "claim": "The opened 28-page ensemble edition title page labels the solo instrument oboe d’amore or soprano saxophone. Opening line begins Andante, très calme, presque adagio at pp=, with a slurred chromatic line, very soft dynamic, and changing meters; p. 2 continues with chromatic motion and triplets over sustained ensemble parts. This is not the piano-reduction edition.",
+      "url": "https://imslp.eu/files/imglnks/euimg/a/ab/IMSLP835740-PMLP1315266-Koechlin_2me_Sonatine_EnsFassg.pdf",
+      "source_name": "IMSLP-EU scan of the ensemble edition, pp. 1–2"
+    }
+  ],
+  "review_focus": "Inference from the ensemble score: inspect chromatic fluency, sustained soft control, meter changes, and coordination with the independent ensemble parts. The piano reduction and its saxophone part were not inspected.",
+  "collection_flag": "Original work with alternate oboe d’amore/soprano saxophone scoring; separate piano and ensemble versions. Edition and saxophone type require confirmation.",
+  "listening": [
+    {
+      "url": "https://www.studio52.gr/info_gr.asp?infoID=00000qyq",
+      "description": "Arno Bornkamp, soprano saxophone, with Ivo Janssen, piano; four movements listed.",
+      "verification": "Album listing checked; playback not auditioned."
+    }
+  ],
+  "score_links": [
+    {
+      "url": "https://imslp.eu/files/imglnks/euimg/a/ab/IMSLP835740-PMLP1315266-Koechlin_2me_Sonatine_EnsFassg.pdf",
+      "description": "Ensemble-scored edition with soprano saxophone or oboe d’amore solo; opening pages inspected. Not the piano reduction.",
+      "inspected": true
+    }
+  ],
+  "gaps": [
+    "The inspected notation is the ensemble edition, not the assigned piano reduction.",
+    "Resolve soprano versus alto/tenor instrumentation among edition listings.",
+    "No matching saxophone recording or specific college use verified."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Koechlin Deuxième Sonatine op 194 no 2 soprano saxophone piano score",
+    "Koechlin Sonatine No. 2 alto tenor sax piano catalogue"
+  ]
+}

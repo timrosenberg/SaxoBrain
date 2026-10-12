@@ -1,0 +1,33 @@
+{
+  "id": 304,
+  "batch": 13,
+  "filename": "Pierre-Max DuBois - Moments Musicaux.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Pierre-Max DuBois - Moments Musicaux.md",
+  "title": "Moments Musicaux",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Billaudot identifies Pierre-Max Dubois’s Moments musicaux as an E-flat saxophone and piano work, GB4115, in the L’Enseignement moderne du saxophone collection. The publisher gives 1985 copyright, a five-minute duration and 24 total pages.",
+  "evidence": [
+    {
+      "claim": "Billaudot catalog page supplies composer, instrumentation, collection, code, date, duration and pagination.",
+      "url": "https://www.billaudot.com/moments-musicaux-3.html",
+      "source_name": "Éditions Billaudot",
+      "kind": "publisher",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "Inference: its explicit placement in Billaudot’s modern saxophone teaching collection is relevant for studio review; it does not assign Tim’s level.",
+  "collection_flag": "Publisher’s saxophone teaching collection edition.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "Movement-title list in catalog note was not confirmed on the Billaudot page.",
+    "No notation or recording inspected."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Billaudot Moments musicaux Pierre Max Dubois GB4115",
+    "Moments Musicaux Dubois saxophone piano 1985"
+  ]
+}

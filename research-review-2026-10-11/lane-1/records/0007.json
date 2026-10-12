@@ -1,0 +1,40 @@
+{
+  "id": 7,
+  "batch": 1,
+  "filename": "Anne Marie Mimet - Complainte.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Anne Marie Mimet - Complainte.md",
+  "title": "Complainte",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Anne-Marie Mimet's *Complainte sur un thème populaire* is a Billaudot work for E-flat saxophone with piano or harp, catalog GB2228. Billaudot labels it 'moyennement difficile (cycle 2)' and places it in its modern saxophone teaching collection.",
+  "evidence": [
+    {
+      "claim": "Official publisher confirms instrumentation, piano/harp options, collection, catalog number, and cycle 2 label.",
+      "url": "https://www.billaudot.com/complainte-sur-un-theme-populaire.html",
+      "source_name": "Éditions Billaudot",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "A second dealer corroborates alto saxophone and piano/harp format.",
+      "url": "https://www.demond.de/anne-marie-mimet-complainte-sur-un-theme-populaire-pour-saxophone-alto-et-harpe-piano-516412",
+      "source_name": "Musikforum Demond",
+      "kind": "retailer",
+      "access": "opened"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Published in a pedagogy-oriented series with a stated cycle 2 audience and a moderately difficult label; this is relevant context, not an automatic exclusion.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No score pages or matching performance inspected.",
+    "Duration and exact saxophone range remain unknown."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Anne Marie Mimet Complainte alto saxophone piano Billaudot",
+    "Billaudot GB2228 Complainte Mimet"
+  ]
+}

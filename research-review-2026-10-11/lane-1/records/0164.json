@@ -1,0 +1,47 @@
+{
+  "id": 164,
+  "batch": 7,
+  "filename": "James Richens - Another Autumn.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/James Richens - Another Autumn.md",
+  "title": "Another Autumn",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "James Richens, Another Autumn, for alto saxophone with band; a piano-accompaniment edition is also catalogued as Dorn DORN0190. A 1976 Billboard report identifies the work as an eight-minute commission for the Bicentennial Band and soloist Al Chochran, premiered in Toronto.",
+  "evidence": [
+    {
+      "claim": "Billboard’s contemporary report identifies the band-and-soloist scoring, commission, premiere, approximate duration, and soloist.",
+      "url": "https://www.worldradiohistory.com/Archive-All-Music/Billboard/70s/1976/Billboard%201976-10-02.pdf",
+      "source_name": "Billboard",
+      "kind": "performer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "A specialist retailer listing identifies the alto saxophone and piano edition DORN0190.",
+      "url": "https://www.grothmusic.com/p-138549.aspx",
+      "source_name": "Groth Music",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "A band repertoire index lists another autumn for alto saxophone.",
+      "url": "https://www.bandworld.org/pdfs/ABC_Center_2018.pdf",
+      "source_name": "ABC Center for Research",
+      "kind": "institution",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Original work for alto saxophone and band, commissioned and premiered in 1976; piano reduction listing found separately.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No accessible solo part, piano reduction score, recording, or pedagogical placement located."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "James W Richens Another Autumn alto saxophone commission Al Chochran 1976",
+    "Another Autumn Richens DORN0190 saxophone piano score",
+    "James Richens Another Autumn recording"
+  ]
+}

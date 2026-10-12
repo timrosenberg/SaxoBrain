@@ -7,7 +7,7 @@ instruments:
   - "Soprano Saxophone"
   - "Piano"
 composed: 2013
-year-of-study: 
+year-of-study: "Advanced"
 streaming: "https://www.youtube.com/watch?v=BlxlMwuGb5E"
 purchase:
   - "https://webshop.donemus.nl/action/front/sheetmusic/15383/Effusion"

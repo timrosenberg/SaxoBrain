@@ -1,0 +1,49 @@
+{
+  "id": 349,
+  "batch": 14,
+  "filename": "Ruud Roelofsen - Fracture Iv.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Ruud Roelofsen - Fracture Iv.md",
+  "title": "Fracture Iv",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Ruud Roelofsen’s Fracture IV (2013) is a solo for baritone saxophone, dedicated to Michael Jamieson; the Donemus preview gives duration about 6'15 and catalog D13451.",
+  "evidence": [
+    {
+      "claim": "Donemus work preview identifies Fracture IV for baritone saxophone, dedicated to Michael Jamieson, and gives duration about 6'15.",
+      "url": "https://webshop.donemus.com/action/front/sheetmusic/13451/Fracture+IV",
+      "source_name": "Donemus score and preview",
+      "kind": "score",
+      "access": "score_inspected"
+    },
+    {
+      "claim": "The composer’s work page identifies it as a 2013 baritone solo for Michael Jamieson.",
+      "url": "https://ruudroelofsen.com/works/fracture-iv/",
+      "source_name": "Ruud Roelofsen composer page",
+      "kind": "composer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [
+    "The public preview's first notated page starts at bar 1 in common time at quarter=40, with a soft sustained opening, changing dynamics, vibrato marks and dense alternate-fingering diagrams. A later system includes multiphonics, slap tongue, air noise, bisbigliando finger tremolos and tuplets; page 2 continues with rhythmic quintuplets, sextuplets and septuplets, and baritone low-register/timbre indications. This is observed in the preview only; full range cannot be determined from the sampled pages."
+  ],
+  "review_focus": "Inspect the full part for transition among sustained tones, multiphonics, slap tongue, air noise and fast tuplets; check fingering feasibility and breath pacing.",
+  "collection_flag": "Commissioned solo for baritone saxophone according to composer-site result; no pedagogical placement established.",
+  "listening": [],
+  "score_links": [
+    {
+      "url": "https://webshop.donemus.com/action/front/sheetmusic/13451/Fracture+IV",
+      "description": "Donemus preview accessed through its public form endpoint; four-page PDF visually inspected.",
+      "inspected": true
+    }
+  ],
+  "gaps": [
+    "Preview shows representative pages but not the complete score; full written range and instrument transposition were not verified.",
+    "No recording playback or pedagogical placement was verified."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Ruud Roelofsen Fracture IV Donemus 13451 baritone saxophone",
+    "Ruud Roelofsen Fracture IV composer",
+    "Donemus POST preview=1 numdon=13451; retrieved public four-page PDF and inspected pages 2–4"
+  ]
+}

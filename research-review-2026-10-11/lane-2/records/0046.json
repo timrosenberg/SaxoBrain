@@ -1,0 +1,33 @@
+{
+  "id": 46,
+  "batch": 2,
+  "filename": "Charley Gerard - Confluence.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Charley Gerard - Confluence.md",
+  "title": "Confluence",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Charley Gerard, Confluence, assigned as Dorn DORN1180 for alto saxophone and piano. Searches did not locate a composer, publisher, score, recording, or institutional source that independently verifies the work.",
+  "evidence": [
+    {
+      "claim": "Assignment snapshot gives title, instrumentation, date and DORN1180, but exact linked product page was not retrievable from search.",
+      "url": "https://www.grothmusic.com/p-142809.aspx",
+      "source_name": "Groth Music, assigned product link",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "unknown",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "Only the assigned catalog/retailer lead is available.",
+    "Exact work identity, instrumentation, score access, demands, recording, and use remain unverified."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    "Charley Gerard Confluence saxophone piano Dorn DORN1180",
+    "\"Confluence\" \"Charley Gerard\" saxophone"
+  ]
+}

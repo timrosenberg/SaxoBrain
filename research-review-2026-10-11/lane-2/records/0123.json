@@ -1,0 +1,51 @@
+{
+  "id": 123,
+  "batch": 5,
+  "filename": "Gordon Jacob - Miscellanies.md",
+  "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Gordon Jacob - Miscellanies.md",
+  "title": "Miscellanies",
+  "status": "researched_with_gaps",
+  "checked_on": "2026-10-11",
+  "identity": "Gordon Jacob, Miscellanies, alto saxophone and piano reduction, Emerson Edition E66. A separate wind-band scoring also exists; verify edition before considering the piano version.",
+  "evidence": [
+    {
+      "claim": "Gordon Jacob’s official works catalogue lists Rhapsody for E-flat saxophone and strings. It does not identify the separate piano-reduction edition.",
+      "url": "https://www.gordonjacob.net/browse_works.html",
+      "source_name": "Gordon Jacob official works catalogue",
+      "kind": "composer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Retailer records identify Emerson Edition E66, alto saxophone and piano reduction; another retailer states the original scoring was alto saxophone and wind symphony.",
+      "url": "https://www.ficksmusic.com/collections/gordon-jacob/products/jacob-miscellanies-emerson",
+      "source_name": "Ficks Music retailer listing",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "score_observations": [],
+  "review_focus": "",
+  "collection_flag": "Piano score is a reduction of the alto saxophone and wind band work. Verify which arrangement is held.",
+  "listening": [],
+  "score_links": [],
+  "gaps": [
+    "No accessible saxophone notation was inspected; exact technical demands and range remain unknown.",
+    "A matching saxophone performance recording was not verified or auditioned.",
+    "Multiple versions/arrangements exist or are plausible; the catalog target edition needs confirmation."
+  ],
+  "proposed_corrections": [],
+  "searches": [
+    {
+      "query": "Gordon Jacob Miscellanies E66 alto saxophone piano score preview performance",
+      "checked": "Targeted web search; results reviewed for exact edition, publisher, score, recording, and teaching context; unrelated instrument/edition results excluded."
+    },
+    {
+      "query": "Gordon Jacob Miscellanies piano reduction original alto saxophone wind band",
+      "checked": "Targeted web search; results reviewed for exact edition, publisher, score, recording, and teaching context; unrelated instrument/edition results excluded."
+    },
+    {
+      "query": "Gordon Jacob Miscellanies alto saxophone recording",
+      "checked": "Targeted web search; results reviewed for exact edition, publisher, score, recording, and teaching context; unrelated instrument/edition results excluded."
+    }
+  ]
+}
