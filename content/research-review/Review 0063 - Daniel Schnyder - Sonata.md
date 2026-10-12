@@ -3,8 +3,8 @@ title: "Review 0063: Daniel Schnyder - Sonata"
 added: 2026-10-11
 review-id: 63
 review-packet: 3
-review-decision: Pending
-review-applied: false
+review-decision: Second Year
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Daniel Schnyder - Sonata]]"
 build:
@@ -49,4 +49,10 @@ Catalog: [Daniel Schnyder - Sonata.md](/Users/trosenberg/Documents/GitHub/SaxoBr
 - Only the first page of the soprano saxophone score was visually inspected; later movements, overall range, and complete technical demands remain unknown.
 - The University of Miami dissertation is a guide to the bassoon adaptation and cannot establish soprano-saxophone performance demands.
 
-**Tim decision:** pending.
+**Tim decision:** Second Year. Applied October 12, 2026.
+
+#### Follow-up, October 12, 2026
+
+- Added publisher: Edition Kunzelmann.
+- Added the verified piano accompaniment to instrumentation.
+- Metadata source: https://www.sheetmusicplus.com/en/product/sonata-for-soprano-saxophone-and-piano-20784285.html

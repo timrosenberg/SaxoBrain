@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 2010
-year-of-study: 
+year-of-study: Third Year
 arranger-edition: 
 publisher:
   - "Zen-On"

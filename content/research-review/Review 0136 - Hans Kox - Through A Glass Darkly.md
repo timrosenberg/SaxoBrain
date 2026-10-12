@@ -3,8 +3,8 @@ title: "Review 0136: Hans Kox - Through A Glass Darkly"
 added: 2026-10-11
 review-id: 136
 review-packet: 6
-review-decision: Pending
-review-applied: false
+review-decision: Fourth Year
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Hans Kox - Through A Glass Darkly]]"
 build:

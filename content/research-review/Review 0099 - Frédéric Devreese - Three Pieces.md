@@ -3,8 +3,8 @@ title: "Review 0099: Frédéric Devreese - Three Pieces"
 added: 2026-10-11
 review-id: 99
 review-packet: 4
-review-decision: Pending
-review-applied: false
+review-decision: Third Year
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Frédéric Devreese - Three Pieces]]"
 build:

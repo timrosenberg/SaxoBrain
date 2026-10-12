@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 1957
-year-of-study: 
+year-of-study: First Year
 streaming: 
 purchase:
   - "https://www.australianmusiccentre.com.au/product/scherzetto-for-saxophone-and-piano"

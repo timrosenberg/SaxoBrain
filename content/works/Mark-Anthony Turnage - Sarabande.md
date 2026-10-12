@@ -5,8 +5,9 @@ composer:
   - "[[Mark-Anthony Turnage]]"
 instruments:
   - "Soprano Saxophone"
+  - "Piano"
 composed: 1985
-year-of-study: 
+year-of-study: Third Year
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-146414.aspx
@@ -16,6 +17,8 @@ research:
   - "Soprano saxophone and piano, about 4 minutes; Schott ED 12417; listed as advanced difficulty by the publisher listing · https://www.boosey.com/shop/prod/Turnage-Mark-Anthony-Sarabande-SAX/720171"
   - "Recorded by Martin Robertson (sax) and Ian Brown (piano) on NMC D024M · https://researchonline.rcm.ac.uk/id/eprint/2007"
 aliases: []
+publisher:
+  - "Schott Music"
 ---
 ## Research notes (private)
 
@@ -55,3 +58,8 @@ Searches checked:
 - Opened ABRSM ARSM 2026 saxophone PDF and checked printed p. 1
 - Opened British Music Collection Sarabande entry for historical performance/recording metadata
 
+#### Follow-up, October 12, 2026
+
+- Added publisher: Schott Music.
+- Added the verified piano accompaniment to instrumentation.
+- Metadata source: https://www.schott-music.com/en/sarabande-noc42226.html

@@ -3,8 +3,8 @@ title: "Review 0392: Wijnand Van Klaveren - Sonata à la manière de Francis Pou
 added: 2026-10-11
 review-id: 392
 review-packet: 16
-review-decision: Pending
-review-applied: false
+review-decision: Second Year
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Wijnand Van Klaveren - Sonata à la manière de Francis Poulenc]]"
 build:

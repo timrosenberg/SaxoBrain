@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 2021
-year-of-study: 
+year-of-study: Third Year
 arranger-edition: 
 publisher:
   - "Zen-On"

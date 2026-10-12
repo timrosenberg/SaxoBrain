@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
+year-of-study: Third Year
 arranger-edition: 
 publisher:
   - "Bourne"

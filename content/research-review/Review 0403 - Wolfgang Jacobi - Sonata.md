@@ -3,8 +3,8 @@ title: "Review 0403: Wolfgang Jacobi - Sonata"
 added: 2026-10-11
 review-id: 403
 review-packet: 17
-review-decision: Pending
-review-applied: false
+review-decision: Third Year
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Wolfgang Jacobi - Sonata]]"
 build:

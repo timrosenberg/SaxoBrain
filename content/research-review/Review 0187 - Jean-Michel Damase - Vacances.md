@@ -3,8 +3,8 @@ title: "Review 0187: Jean-Michel Damase - Vacances"
 added: 2026-10-11
 review-id: 187
 review-packet: 8
-review-decision: Pending
-review-applied: false
+review-decision: Pre-college
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Jean-Michel Damase - Vacances]]"
 build:

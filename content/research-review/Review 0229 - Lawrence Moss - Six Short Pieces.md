@@ -3,8 +3,8 @@ title: "Review 0229: Lawrence Moss - Six Short Pieces"
 added: 2026-10-11
 review-id: 229
 review-packet: 10
-review-decision: Pending
-review-applied: false
+review-decision: Third Year
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Lawrence Moss - Six Short Pieces]]"
 build:

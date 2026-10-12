@@ -65,7 +65,7 @@ Pages with `third-party: true` (articles by others) or `third-party-files: true`
 
 The repo sits in iCloud-synced `~/Documents`. On 2026-10-06 macOS made 1,415 conflict copies ("Name 2.md", and numbered names like "Op. 101" becoming "Op. 102"); Tim approved deleting them. If untracked files named like existing pages reappear, they share a slug with the real page and override it in the build.
 
-`hugo --minify` locally. The local `hugo server` sometimes misses content edits and shows stray body text that is not in the file (seen three times 2026-10-08, with and without `--poll`); a fresh `hugo` build is the reference, and restarting the server fixes it. Publishing: `.github/workflows/publish.yml` on push to `main`.
+Use Hugo 0.167.0 or newer locally. Earlier versions have [Hugo issue #15330](https://github.com/gohugoio/hugo/issues/15330): when several content files change in one batch, the preview can retain old metadata and parse positions while reading new file text. This produces stale levels and stray frontmatter fragments in the page body. Version 0.167.0 fixes the collector; `--disableFastRender` alone does not fix affected versions. Verified with three batches of ten metadata edits on 2026-10-12. Keep the installed version and the workflow's `HUGO_VERSION` aligned. `hugo --minify` builds locally; `hugo server --noHTTPCache` starts the local preview. Publishing: `.github/workflows/publish.yml` on push to `main`.
 
 ## Known data issues (fix in content, then delete from this list)
 

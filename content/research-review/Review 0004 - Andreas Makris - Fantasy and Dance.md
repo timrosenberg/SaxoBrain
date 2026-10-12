@@ -3,8 +3,8 @@ title: "Review 0004: Andreas Makris - Fantasy and Dance"
 added: 2026-10-11
 review-id: 4
 review-packet: 1
-review-decision: Pending
-review-applied: false
+review-decision: Third Year
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Andreas Makris - Fantasy and Dance]]"
 build:

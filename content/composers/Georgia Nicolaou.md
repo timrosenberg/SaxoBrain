@@ -1,14 +1,16 @@
 ---
-title: "Georgia Nicolaou"
+title: Georgia Nicolaou
 slug: georgia-nicolaou
-nationality: []
-gender: 
-race: []
+nationality:
+  - 🇨🇾 Cyprus
+gender: Female
+race:
+  - Central Asian
 born: 1990
-died: 
+died:
 wikidata: Q123948631
-photo: 
-photo-credit: 
-photo-source: 
+photo:
+photo-credit: donemus.nl
+photo-source: https://donemus.nl/composer/georgia-nicolaou/
 aliases: []
 ---

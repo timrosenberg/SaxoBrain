@@ -3,8 +3,8 @@ title: "Review 0259: Matthew Hindson - Repetepetition"
 added: 2026-10-11
 review-id: 259
 review-packet: 11
-review-decision: Pending
-review-applied: false
+review-decision: Second Year
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Matthew Hindson - Repetepetition]]"
 build:
@@ -49,3 +49,13 @@ Searches checked:
 - Matthew Hindson Repetepetition Australian Music Centre 2024 HSC repertoire score sample
 - Opened Australian Music Centre 2024 HSC saxophone list, PDF p. 10
 - Retrieved and visually inspected Australian Music Centre public score sample, PDF p. 1
+
+#### Follow-up, October 12, 2026
+
+- Added publisher: Faber Music.
+- Added arranger-edition: 2011 soprano saxophone and piano arrangement.
+- Added streaming: https://open.spotify.com/track/3TFv6Axb75LDsahDaoB8ij.
+- Metadata source: https://www.fabermusic.com/music/repetepetition-6619
+- Recording source: https://hindson.com.au/info/catalog/instrument-and-piano/; the linked Spotify page confirms Repetepetition by Matthew Hindson and HD Duo. Audio not auditioned.
+
+- Arrangement provenance: Faber Music lists the original Repetepetition for solo violin (2004) and the soprano saxophone and piano arrangement (2004/arr. 2011). Sources: https://www.fabermusic.com/we-represent/matthew-hindson/works and https://hindson.com.au/info/catalog/string-works/.

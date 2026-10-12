@@ -3,8 +3,8 @@ title: "Review 0252: Mark-Anthony Turnage - Sarabande"
 added: 2026-10-11
 review-id: 252
 review-packet: 11
-review-decision: Pending
-review-applied: false
+review-decision: Third Year
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Mark-Anthony Turnage - Sarabande]]"
 build:
@@ -48,3 +48,9 @@ Searches checked:
 - Opened Schott edition page and its publicly linked nine-page preview; inspected performance note and notation on PDF pp. 4–5
 - Opened ABRSM ARSM 2026 saxophone PDF and checked printed p. 1
 - Opened British Music Collection Sarabande entry for historical performance/recording metadata
+
+#### Follow-up, October 12, 2026
+
+- Added publisher: Schott Music.
+- Added the verified piano accompaniment to instrumentation.
+- Metadata source: https://www.schott-music.com/en/sarabande-noc42226.html

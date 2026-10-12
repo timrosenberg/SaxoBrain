@@ -7,8 +7,8 @@ instruments:
   - "Soprano Saxophone"
   - "Piano"
 composed: 2004
-year-of-study: 
-streaming: 
+year-of-study: Second Year
+streaming: "https://open.spotify.com/track/3TFv6Axb75LDsahDaoB8ij"
 purchase:
   - "https://www.australianmusiccentre.com.au/product/repetepetition-for-soprano-saxophone-and-piano"
 library-recording:
@@ -19,6 +19,9 @@ research:
   - "Soprano sax and piano version dated 2011; written for Michael Duke and David Howie, who premiered it 7 March 2011 at the Sydney Conservatorium · https://www.australianmusiccentre.com.au/workversion/hindson-matthew-repetepetition-1/25737"
   - "Recorded by Michael Duke and David Howie on the CD Australian portrait (Cala, CACD 77013, 2012); score sample PDF available · https://www.australianmusiccentre.com.au/product/australian-portrait"
 aliases: []
+publisher:
+  - "Faber Music"
+arranger-edition: "2011 soprano saxophone and piano arrangement"
 ---
 ## Research notes (private)
 
@@ -65,3 +68,12 @@ Searches checked:
 - composed: sources distinguish 2004 and 2011 versions; current composed value is preserved.
 - streaming: Spotify destination was not verified as a direct recording.
 
+#### Follow-up, October 12, 2026
+
+- Added publisher: Faber Music.
+- Added arranger-edition: 2011 soprano saxophone and piano arrangement.
+- Added streaming: https://open.spotify.com/track/3TFv6Axb75LDsahDaoB8ij.
+- Metadata source: https://www.fabermusic.com/music/repetepetition-6619
+- Recording source: https://hindson.com.au/info/catalog/instrument-and-piano/; the linked Spotify page confirms Repetepetition by Matthew Hindson and HD Duo. Audio not auditioned.
+
+- Arrangement provenance: Faber Music lists the original Repetepetition for solo violin (2004) and the soprano saxophone and piano arrangement (2004/arr. 2011). Sources: https://www.fabermusic.com/we-represent/matthew-hindson/works and https://hindson.com.au/info/catalog/string-works/.

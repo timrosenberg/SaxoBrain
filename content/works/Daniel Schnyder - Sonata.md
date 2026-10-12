@@ -5,8 +5,9 @@ composer:
   - "[[Daniel Schnyder]]"
 instruments:
   - "Soprano Saxophone"
+  - "Piano"
 composed: 
-year-of-study: 
+year-of-study: Second Year
 streaming: 
 purchase:
   - https://www.performersmusicchicago.com/sonata-for-soprano-saxophone-and-piano-schnyder-pet-gm1725
@@ -15,6 +16,8 @@ research:
   - "Sonata for soprano saxophone and piano published by Kunzelmann, distributed by Edition Peters (Pet:GM1725); may also be played on clarinet or oboe · https://www.performersmusicchicago.com/sonata-for-soprano-saxophone-and-piano-schnyder-pet-gm1725"
   - "A University of Miami abstract describes the sonata as combining Latin jazz and Balkan influences · https://scholarship.miami.edu/esploro/outputs/doctoral/A-Performance-Guide-of-Daniel-Schnyders/991031447816902976"
 aliases: []
+publisher:
+  - "Edition Kunzelmann"
 ---
 ## Research notes (private)
 
@@ -54,5 +57,10 @@ Catalog: [Daniel Schnyder - Sonata.md](/Users/trosenberg/Documents/GitHub/SaxoBr
 - Only the first page of the soprano saxophone score was visually inspected; later movements, overall range, and complete technical demands remain unknown.
 - The University of Miami dissertation is a guide to the bassoon adaptation and cannot establish soprano-saxophone performance demands.
 
-**Tim decision:** pending.
+**Tim decision:** Second Year. Applied October 12, 2026.
 
+#### Follow-up, October 12, 2026
+
+- Added publisher: Edition Kunzelmann.
+- Added the verified piano accompaniment to instrumentation.
+- Metadata source: https://www.sheetmusicplus.com/en/product/sonata-for-soprano-saxophone-and-piano-20784285.html

@@ -7,7 +7,7 @@ instruments:
   - "Tenor Saxophone"
   - "Piano"
 composed: 2013
-year-of-study: 
+year-of-study: Advanced
 streaming: 
 purchase:
   - "https://webshop.donemus.nl/action/front/sheetmusic/13298/Stratos"
@@ -57,3 +57,7 @@ Searches checked:
 
 - Publisher: Donemus. [Source](https://webshop.donemus.com/action/front/sheetmusic/13298/Stratos)
 
+#### Follow-up, October 12, 2026
+
+- The freshly inspected Donemus preview performance note explicitly lists scraping piano strings with a plectrum, scraping with plectrum and left ring, letting a thin triangle beater or knitting needle bounce on resonating strings, and using a cleaning brush on the strings. It also states that the time indications are suggestions. This resolves the earlier note's uncertainty about scraping and timing; the complete score and full written range remain unverified.
+- Preview source: https://webshop.donemus.com/action/front/sheetmusic/13298

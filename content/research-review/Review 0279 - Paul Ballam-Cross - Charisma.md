@@ -3,8 +3,8 @@ title: "Review 0279: Paul Ballam-Cross - Charisma"
 added: 2026-10-11
 review-id: 279
 review-packet: 12
-review-decision: Pending
-review-applied: false
+review-decision: Second Year
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Paul Ballam-Cross - Charisma]]"
 build:
@@ -49,4 +49,10 @@ Catalog: [Paul Ballam-Cross - Charisma.md](/Users/trosenberg/Documents/GitHub/Sa
 - Publisher’s tenor duration (about 3 minutes) and composer page (5 minutes) conflict.
 - No verified performance was auditioned.
 
-**Tim decision:** pending.
+**Tim decision:** Second Year for alto or tenor. Applied October 12, 2026.
+
+#### Follow-up, October 12, 2026
+
+- Added publisher: Wirripang.
+- Added a labeled tenor-edition purchase link. The existing alto-edition link is preserved.
+- Metadata source: https://www.australiancomposers.com.au/products/charisma-tenor-saxophone

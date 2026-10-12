@@ -1,14 +1,14 @@
 ---
-title: "New Wave"
+title: New Wave
 slug: gregory-yasinitsky-new-wave
 composer:
   - "[[Gregory Yasinitsky]]"
 instruments:
-  - "Alto Saxophone"
-  - "Piano"
-composed: 
-year-of-study: 
-streaming: 
+  - Alto Saxophone
+  - Piano
+composed: 1993
+year-of-study: Second Year
+streaming:
 purchase:
   - https://www.grothmusic.com/p-143828.aspx
 added: 2024-03-08

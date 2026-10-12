@@ -3,8 +3,8 @@ title: "Review 0349: Ruud Roelofsen - Fracture Iv"
 added: 2026-10-11
 review-id: 349
 review-packet: 14
-review-decision: Pending
-review-applied: false
+review-decision: Advanced
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Ruud Roelofsen - Fracture Iv]]"
 build:

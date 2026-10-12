@@ -3,8 +3,8 @@ title: "Review 0110: Georgia Nicolaou - Socialice"
 added: 2026-10-11
 review-id: 110
 review-packet: 5
-review-decision: Pending
-review-applied: false
+review-decision: Advanced
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Georgia Nicolaou - Socialice]]"
 build:
@@ -49,3 +49,10 @@ Searches checked:
 - Opened composer compositions page and followed Donemus composer catalog lead
 - Retrieved D16595 public preview; inspected cover, theatrical performance note, and both notation pages
 - Searched for composer/performer recording link; no audio auditioned
+
+#### Follow-up, October 12, 2026
+
+- Added publisher: Donemus.
+- The freshly inspected Donemus transposed preview explicitly marks an opening multiphonic as well as slap tongue. The following page has five-, six-, and seven-note groups. These observations cover the excerpt only.
+- Metadata source: https://webshop.donemus.com/action/front/sheetmusic/16595
+- Preview source: https://webshop.donemus.com/action/front/sheetmusic/16595

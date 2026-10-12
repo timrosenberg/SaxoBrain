@@ -3,8 +3,8 @@ title: "Review 0127: Gregory Yasinitsky - New Wave"
 added: 2026-10-11
 review-id: 127
 review-packet: 6
-review-decision: Pending
-review-applied: false
+review-decision: Second Year
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Gregory Yasinitsky - New Wave]]"
 build:

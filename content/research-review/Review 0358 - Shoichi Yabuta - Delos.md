@@ -3,8 +3,8 @@ title: "Review 0358: Shoichi Yabuta - Delos"
 added: 2026-10-11
 review-id: 358
 review-packet: 15
-review-decision: Pending
-review-applied: false
+review-decision: Third Year
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Shoichi Yabuta - Delos]]"
 build:

@@ -3,8 +3,8 @@ title: "Review 0353: Ryota Ishikawa - Rhapsody on Japanese Folk Songs"
 added: 2026-10-11
 review-id: 353
 review-packet: 15
-review-decision: Pending
-review-applied: false
+review-decision: Third Year
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Ryota Ishikawa - Rhapsody on Japanese Folk Songs]]"
 build:

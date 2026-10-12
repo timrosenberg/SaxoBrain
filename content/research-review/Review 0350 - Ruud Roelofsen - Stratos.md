@@ -3,8 +3,8 @@ title: "Review 0350: Ruud Roelofsen - Stratos"
 added: 2026-10-11
 review-id: 350
 review-packet: 14
-review-decision: Pending
-review-applied: false
+review-decision: Advanced
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Ruud Roelofsen - Stratos]]"
 build:
@@ -44,3 +44,8 @@ Searches checked:
 - Ruud Roelofsen Stratos Donemus 13298 saxophone variant
 - Roelofsen Stratos saxophone piano score
 - Donemus POST preview=1 numdon=13298; retrieved public four-page PDF and inspected pages 2–4
+
+#### Follow-up, October 12, 2026
+
+- The freshly inspected Donemus preview performance note explicitly lists scraping piano strings with a plectrum, scraping with plectrum and left ring, letting a thin triangle beater or knitting needle bounce on resonating strings, and using a cleaning brush on the strings. It also states that the time indications are suggestions. This resolves the earlier note's uncertainty about scraping and timing; the complete score and full written range remain unverified.
+- Preview source: https://webshop.donemus.com/action/front/sheetmusic/13298

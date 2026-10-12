@@ -3,8 +3,8 @@ title: "Review 0122: Gordan Tudor - Quarter Tone Waltz"
 added: 2026-10-11
 review-id: 122
 review-packet: 5
-review-decision: Pending
-review-applied: false
+review-decision: Advanced
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Gordan Tudor - Quarter Tone Waltz]]"
 build:

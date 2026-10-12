@@ -3,8 +3,8 @@ title: "Review 0270: Miriam Hyde - Scherzetto"
 added: 2026-10-11
 review-id: 270
 review-packet: 11
-review-decision: Pending
-review-applied: false
+review-decision: First Year
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Miriam Hyde - Scherzetto]]"
 build:

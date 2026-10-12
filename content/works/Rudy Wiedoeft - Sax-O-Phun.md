@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
+year-of-study: Second Year
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-146425.aspx
@@ -15,6 +15,8 @@ added: 2024-03-08
 research:
   - "Publisher Tierolff Muziek, catalog no. TRL-2385SA · https://www.grothmusic.com/p-146425.aspx"
 aliases: []
+publisher:
+  - "Tierolff Muziekcentrale"
 ---
 ## Research notes (private)
 
@@ -48,3 +50,7 @@ Searches checked:
 - Rudy Wiedoeft Sax-O-Phun Tierolff sample score
 - Sax-O-Phun Wiedoeft saxophone piano recording
 
+#### Follow-up, October 12, 2026
+
+- Added publisher: Tierolff Muziekcentrale.
+- Metadata source: https://www.alle-noten.de/out/media/pdf/TRL-SA2385.pdf

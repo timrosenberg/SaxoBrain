@@ -3,8 +3,8 @@ title: "Review 0347: Rudy Wiedoeft - Sax-O-Phun"
 added: 2026-10-11
 review-id: 347
 review-packet: 14
-review-decision: Pending
-review-applied: false
+review-decision: Second Year
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Rudy Wiedoeft - Sax-O-Phun]]"
 build:
@@ -43,3 +43,8 @@ Open questions: Only the first sample page was accessible; no contrasting late p
 Searches checked:
 - Rudy Wiedoeft Sax-O-Phun Tierolff sample score
 - Sax-O-Phun Wiedoeft saxophone piano recording
+
+#### Follow-up, October 12, 2026
+
+- Added publisher: Tierolff Muziekcentrale.
+- Metadata source: https://www.alle-noten.de/out/media/pdf/TRL-SA2385.pdf

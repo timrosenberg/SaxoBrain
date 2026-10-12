@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 1998
-year-of-study: 
+year-of-study: Second Year
 streaming: 
 purchase:
   - "https://resolute-music.com/collections/all-saxophone/products/sonata-a-la-maniere-de-francis-poulenc"

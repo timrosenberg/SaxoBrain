@@ -4,13 +4,15 @@ slug: paul-ballam-cross-charisma
 composer:
   - "[[Paul Ballam-Cross]]"
 instruments:
+  - "Alto Saxophone"
   - "Tenor Saxophone"
   - "Unaccompanied"
 composed: 2013
-year-of-study: 
+year-of-study: Second Year
 streaming: 
 purchase:
   - https://australiancomposers.com.au/products/charisma-alto-saxophone
+  - "Tenor edition · https://www.australiancomposers.com.au/products/charisma-tenor-saxophone"
 library-recording:
   - "https://search.alexanderstreet.com/lti/view/work/bibliographic_entity|score|2812885"
 added: 2025-04-21
@@ -19,6 +21,8 @@ research:
   - "Duration about 3 minutes; three movements; composed 2013, revised 2014 · https://australiancomposers.com.au/products/charisma-alto-saxophone"
   - "Program note: lyrical and strongly influenced by several artists in indie rock and dance music · https://australiancomposers.com.au/products/charisma-alto-saxophone"
 aliases: []
+publisher:
+  - "Wirripang"
 ---
 ## Research notes (private)
 
@@ -59,9 +63,14 @@ Catalog: [Paul Ballam-Cross - Charisma.md](/Users/trosenberg/Documents/GitHub/Sa
 - Publisher’s tenor duration (about 3 minutes) and composer page (5 minutes) conflict.
 - No verified performance was auditioned.
 
-**Tim decision:** pending.
+**Tim decision:** Second Year for alto or tenor. Applied October 12, 2026.
 
 #### Unresolved Catalog Details
 
 - publisher: source URL is not among the record’s opened/verified evidence; no update proposed.
 
+#### Follow-up, October 12, 2026
+
+- Added publisher: Wirripang.
+- Added a labeled tenor-edition purchase link. The existing alto-edition link is preserved.
+- Metadata source: https://www.australiancomposers.com.au/products/charisma-tenor-saxophone
