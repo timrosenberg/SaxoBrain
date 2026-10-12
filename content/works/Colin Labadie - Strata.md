@@ -1,19 +1,19 @@
 ---
-title: "Strata"
+title: Strata
 slug: colin-labadie-strata
 composer:
   - "[[Colin Labadie]]"
 instruments:
-  - "Tenor Saxophone"
-  - "Unaccompanied"
-composed: 
-year-of-study: 
-arranger-edition: 
-streaming: "https://allisonbalcetis.bandcamp.com/track/strata-i-sonder-by-colin-labadie"
+  - Tenor Saxophone
+  - Unaccompanied
+composed: 2012
+year-of-study:
+arranger-edition:
+streaming: https://allisonbalcetis.bandcamp.com/track/strata-i-sonder-by-colin-labadie
 purchase: []
 added: 2026-10-09
 research:
-  - "Listed on a University of Texas at Austin doctoral saxophone recital (saxophone and piano) alongside Levaillant's Manhattan Rhapsody; the record does not name the saxophone · https://tdl-ir.tdl.org/signposting/describedby/dd1bfc38-3514-4f03-a206-fb4207a7c75e"
+  - Listed on a University of Texas at Austin doctoral saxophone recital (saxophone and piano) alongside Levaillant's Manhattan Rhapsody; the record does not name the saxophone · https://tdl-ir.tdl.org/signposting/describedby/dd1bfc38-3514-4f03-a206-fb4207a7c75e
 aliases: []
 ---
 ## Research notes (private)
