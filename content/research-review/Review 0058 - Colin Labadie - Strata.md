@@ -3,8 +3,8 @@ title: "Review 0058: Colin Labadie - Strata"
 added: 2026-10-11
 review-id: 58
 review-packet: 3
-review-decision: Pending
-review-applied: false
+review-decision: "Advanced"
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Colin Labadie - Strata]]"
 build:
@@ -19,6 +19,11 @@ build:
 
 > [!info] Your Decision
 > Record your choice in `review-decision`, or give it to Codex in chat using this work’s number. The catalog changes only when you ask Codex to apply the decision or edit the catalog entry yourself.
+
+
+## Applied Decision, October 12, 2026
+
+Tim marked Strata Advanced directly in the vault. Its work note was left unchanged.
 
 ## Research
 
@@ -55,4 +60,9 @@ Catalog: [Colin Labadie - Strata.md](/Users/trosenberg/Documents/GitHub/SaxoBrai
 - The 2015 score copy has an internally inconsistent program note about the number and sequence of additional movements. Confirm the cataloged version with an authoritative source if possible.
 - Bandcamp track is identified by the performer and title, but playback and instrument-specific recording details were not auditioned.
 
-**Tim decision:** pending.
+**Tim decision:** Advanced.
+
+
+#### Follow-up for chat batch 4, October 12, 2026
+
+The performer’s direct Bandcamp track was freshly verified as Strata I. Sonder by Colin Labadie, performed by Allison Balcetis. Existing streaming is preserved. Source: https://allisonbalcetis.bandcamp.com/track/strata-i-sonder-by-colin-labadie . The score observations remain those of the earlier inspected unofficial score copy; exact range is not independently verified. Laura Kerslake’s doctoral discussion identifies circular breathing for most of the work, altissimo register leaps and later multiphonics; this is an authored thesis accessed through a third-party copy, not newly inspected score notation. Source: https://www.scribd.com/document/606847526/Dis-analyz-sax . The solo-tenor movement remains distinct from the expanded alto/piano edition. Audio not auditioned.

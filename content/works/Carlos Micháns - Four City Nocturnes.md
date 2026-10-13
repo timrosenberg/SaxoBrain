@@ -6,18 +6,30 @@ composer:
 instruments:
   - "Tenor Saxophone"
   - "Piano"
-composed: 
-year-of-study: 
+composed: 2012
+year-of-study: Advanced
 streaming: 
-purchase: []
+purchase:
+  - "Donemus score and tenor part, D13128 · https://webshop.donemus.com/action/front/sheetmusic/13128"
 library-recording:
   - "https://search.alexanderstreet.com/lti/view/work/bibliographic_entity|score|2074243"
 added: 2025-04-21
 research:
   - "Tenor saxophone and piano; movements: Jaen (Night Heat), Chidambaram (Broken Midnight Song), New York (Evening Rush), Paris (Before Dawn); published by Donemus · https://public-content.library.mcgill.ca/MLAC/MDML/MCR/20250422t2030.pdf"
+  - "Original tenor saxophone and piano work, composed 2012; duration about 11 minutes; Donemus D13128 · https://webshop.donemus.com/action/front/sheetmusic/13128"
+  - "Preview score is in concert pitch; dedicated to Jeffrey Vickers; four city movements · https://webshop.donemus.com/action/front/sheetmusic/13128"
 aliases: []
+publisher:
+  - "Donemus"
 ---
 ## Research notes (private)
+
+### Chat batch 05 follow-up, 2026-10-12
+
+Freshly inspected Donemus D13128 public preview, PDF pp. 3–4 / printed pp. 1–2. The score is in C. The first movement begins Lento nervoso, quarter note = 36, with a piano introduction and saxophone figures grouped in 7, 3, 6, 5 and 9, frequent accidentals, large changes of dynamics and tempo, and alternation between solo figures and sustained phrasing. The following section is piu mosso, quarter note = 42. These observations describe concert-pitch score notation, not a transposed tenor range. Publisher confirms 2012 and approximately 11 minutes; added composed, publisher and the exact score/part purchase. McGill's April 22, 2025 bachelor's recital program documents all four movements. Sources: https://webshop.donemus.com/action/front/sheetmusic/13128 ; https://www.mcgill.ca/music/files/music/channels/attach/20250422t2030_bmus-tessmer.pdf . Full transposed range, later movements and a work-specific recording remain unverified.
+
+### Earlier research (retained)
+
 
 - Tenor saxophone and piano; movements: Jaen (Night Heat), Chidambaram (Broken Midnight Song), New York (Evening Rush), Paris (Before Dawn); published by Donemus · [public-content.library.mcgill.ca](https://public-content.library.mcgill.ca/MLAC/MDML/MCR/20250422t2030.pdf)
 
@@ -46,4 +58,3 @@ Open questions: No readable score or actual recording link verified.
 Searches checked:
 - "Four City Nocturnes" "Carlos Micháns" saxophone
 - Donemus, McGill bachelor recital, 2018 NASA program
-

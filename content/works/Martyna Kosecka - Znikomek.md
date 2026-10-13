@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Unaccompanied"
 composed: 2010
-year-of-study: 
+year-of-study: Fourth Year
 streaming: "https://soundcloud.com/martyna-kosecka/martyna-kosecka-znikomek"
 purchase:
   - "https://webshop.donemus.com/action/front/sheetmusic/16273/Znikomek"
@@ -16,11 +16,20 @@ library-recording:
 added: 2025-04-21
 research:
   - "Listed among Kosecka's selected works as Znikomek for alto saxophone (2010) · https://warszawska-jesien.art.pl/en/2022/program/kompozytorzy-i-autorzy/kosecka-martyna"
+  - "Public score explanation lists slap tongue, quarter-tone bends, whole-tone trills, growl/flutter effect, highest possible sound, jazz slide and overblowing · https://webshop.donemus.com/action/front/sheetmusic/16273"
+  - "Duration about 4:30 in score program note and 5 minutes in composer's works list; solo alto, 2010 · https://www.martynakosecka.com/list-of-works/"
 publisher:
   - "Donemus"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat batch 05 follow-up, 2026-10-12
+
+Freshly retrieved and visually inspected Donemus D16273 preview PDF p. 2, the explanation legend and program note. It requests changes of speed within figures, a forceful crack attack, slap tongue, whole-tone trills, quarter-tone bends, roar/flutter effect, highest possible sound, jazz slide and overblowing. The preview contains no actual musical passages, so notation-inspected remains false. The score's program note gives approximately 4:30; the composer's current list gives five minutes, original date 2010 and premiere by Dawid Pliskowski at the Music Academy in Krakow. The composer still links the existing SoundCloud recording, retained. Sources: https://webshop.donemus.com/action/front/sheetmusic/16273 ; https://www.martynakosecka.com/list-of-works/ ; https://soundcloud.com/martyna-kosecka/martyna-kosecka-znikomek . Technique inventory is confirmed, but frequency, transitions, exact range and stamina cannot be assessed from the legend. Audio not auditioned.
+
+### Earlier research (retained)
+
 
 - Listed among Kosecka's selected works as Znikomek for alto saxophone (2010) · [warszawska-jesien.art.pl](https://warszawska-jesien.art.pl/en/2022/program/kompozytorzy-i-autorzy/kosecka-martyna)
 
@@ -61,4 +70,3 @@ Searches checked:
 - Publisher: Donemus. [Source](https://webshop.donemus.com/action/front/sheetmusic/16273/Znikomek)
 - Recording: https://soundcloud.com/martyna-kosecka/martyna-kosecka-znikomek. [Source](https://soundcloud.com/martyna-kosecka/martyna-kosecka-znikomek)
 - Score purchase: Verified edition link added. [Source](https://webshop.donemus.com/action/front/sheetmusic/16273/Znikomek)
-

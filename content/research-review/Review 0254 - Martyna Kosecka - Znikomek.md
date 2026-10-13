@@ -3,8 +3,8 @@ title: "Review 0254: Martyna Kosecka - Znikomek"
 added: 2026-10-11
 review-id: 254
 review-packet: 11
-review-decision: Pending
-review-applied: false
+review-decision: Fourth Year
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Martyna Kosecka - Znikomek]]"
 build:
@@ -47,3 +47,11 @@ Searches checked:
 - Opened composer current works list and followed score/SoundCloud links
 - Retrieved and read Donemus D16273 product page and complete public 2-page preview; full 8-page score is paid
 - Martyna Kosecka Znikomek Dawid Pliskowski first performance Music Academy Kraków 2010
+
+## Chat batch 05 follow-up, 2026-10-12
+
+Freshly retrieved and visually inspected Donemus D16273 preview PDF p. 2, the explanation legend and program note. It requests changes of speed within figures, a forceful crack attack, slap tongue, whole-tone trills, quarter-tone bends, roar/flutter effect, highest possible sound, jazz slide and overblowing. The preview contains no actual musical passages, so notation-inspected remains false. The score's program note gives approximately 4:30; the composer's current list gives five minutes, original date 2010 and premiere by Dawid Pliskowski at the Music Academy in Krakow. The composer still links the existing SoundCloud recording, retained. Sources: https://webshop.donemus.com/action/front/sheetmusic/16273 ; https://www.martynakosecka.com/list-of-works/ ; https://soundcloud.com/martyna-kosecka/martyna-kosecka-znikomek . Technique inventory is confirmed, but frequency, transitions, exact range and stamina cannot be assessed from the legend. Audio not auditioned.
+
+## Chat batch 05 decision, 2026-10-12
+
+Tim assigned Fourth Year.

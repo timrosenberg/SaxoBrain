@@ -7,17 +7,29 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 1989
-year-of-study: 
+year-of-study: Fourth Year
 streaming: "https://www.youtube.com/watch?v=4CeoiU74TEo"
 purchase:
-  - https://www.grothmusic.com/p-141382.aspx
+  - "https://www.grothmusic.com/p-141382.aspx"
+  - "Donemus alto saxophone and piano, D5473 · https://webshop.donemus.com/action/front/sheetmusic/5473"
 added: 2024-03-08
 research:
   - "Publisher Donemus, catalog number D05473 · https://www.grothmusic.com/p-141382.aspx"
   - "Listed as Pizza-Connection; dedicated to Hans de Jong; 12 pages · https://www.grothmusic.com/p-141382.aspx"
+  - "Alto saxophone and piano, composed 1989; about 7 minutes; Donemus D5473 · https://webshop.donemus.com/action/front/sheetmusic/5473"
+  - "Inspected printed pp. 1–2: flutter-tongue indication, quick chromatic ornamented figures, sudden dynamics, frequent meter changes, and optional plucked piano strings · https://webshop.donemus.com/action/front/sheetmusic/5473"
 aliases: []
+publisher:
+  - "Donemus"
 ---
 ## Research notes (private)
+
+### Chat batch 05 follow-up, 2026-10-12
+
+Freshly inspected Donemus D5473 public preview, PDF pp. 3–4 / printed pp. 1–2. The alto staff is explicitly transposed. Menacing at quarter note = 62 opens with long notes and sudden dynamics against violent piano chords. The notation includes a flutter-tongue indication, compressed chromatic figures, and rapid alternation among meters including 5/16, 3/16, 4/16, 9/16, 6/16 and 2/4. Much of that changing-meter passage is piano writing while the saxophone rests, so coordination is a central practical consideration. Piano instructions include strings plucked if possible. Added Donemus and the exact score link; preserved composed 1989 and the existing streaming link. YouTube oEmbed confirms The Pizzaconnection - Chiel Meijering on the composer's channel. Sources: https://webshop.donemus.com/action/front/sheetmusic/5473 ; https://www.chielmeijering.com/works/all-works/saxophone/ ; https://www.youtube.com/watch?v=4CeoiU74TEo . Opening excerpt only; complete range remains unestablished; audio not auditioned.
+
+### Earlier research (retained)
+
 
 - Publisher Donemus, catalog number D05473 · [grothmusic.com](https://www.grothmusic.com/p-141382.aspx)
 - Listed as Pizza-Connection; dedicated to Hans de Jong; 12 pages · [grothmusic.com](https://www.grothmusic.com/p-141382.aspx)
@@ -57,4 +69,3 @@ Searches checked:
 
 - Composition year: 1989. [Source](https://www.chielmeijering.com/works/all-works/saxophone/)
 - Recording: https://www.youtube.com/watch?v=4CeoiU74TEo. [Source](https://www.chielmeijering.com/works/all-works/saxophone/)
-

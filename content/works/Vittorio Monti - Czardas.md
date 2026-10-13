@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
+year-of-study: "Fourth Year"
 arranger-edition:
   - "J. Michael Leonard"
 streaming: 
@@ -16,6 +16,7 @@ purchase:
   - https://www.grothmusic.com/p-37995.aspx
   - https://www.grothmusic.com/p-139285.aspx
   - https://www.grothmusic.com/p-53448.aspx
+  - "Alain Crépin edition · https://tierolff.nl/en/csardas-3515sa.html"
 added: 2024-03-08
 research:
   - "Publisher Lemoine, catalog no. HL25210; alto sax and piano · https://www.grothmusic.com/p-37997.aspx"
@@ -58,3 +59,8 @@ Catalog: [[Vittorio Monti - Czardas]]
 
 - Publisher: Tierolff. [Source](https://tierolff.nl/en/csardas-3515sa.html)
 
+
+
+#### Follow-up for chat batch 4, October 12, 2026
+
+Freshly inspected the two-page Tierolff/Alain Crépin sample: slow Largo phrasing, sextuplet and other rapid runs, high ledger-line notes, repeated rallentandos and a later Allegro Vivo indication. Added a labeled purchase link for the exact previewed edition. This arrangement of Monti’s violin work has technical display passages; no evidence establishes it as a simplified lyrical adaptation for younger players. The existing J. Michael Leonard arranger field and other edition links are preserved. Sources: https://tierolff.nl/media/unicode/unifile/attach/csardas-3515sa.pdf ; https://tierolff.nl/en/csardas-3515sa.html . Two pages only; full range and remainder unassessed.

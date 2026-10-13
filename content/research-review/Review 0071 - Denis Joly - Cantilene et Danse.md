@@ -3,8 +3,8 @@ title: "Review 0071: Denis Joly - Cantilene et Danse"
 added: 2026-10-11
 review-id: 71
 review-packet: 3
-review-decision: Pending
-review-applied: false
+review-decision: Second Year
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Denis Joly - Cantilene et Danse]]"
 build:
@@ -45,4 +45,12 @@ Catalog: [Denis Joly - Cantilene et Danse.md](/Users/trosenberg/Documents/GitHub
 - Hal Leonard’s product description reports an upper-intermediate standard; CDMC uses its own FC2 scheme, which should not be mapped to SaxoBrain year.
 - No matching performance recording or visually inspected score preview found; UNT’s range uses its own octave chart and should not be copied into catalog fields without verification.
 
-**Tim decision:** pending.
+**Tim decision:** Second Year.
+
+## Chat batch 05 follow-up, 2026-10-12
+
+Freshly retrieved Scott D. Kallestad's 2005 University of North Texas DMA dissertation, printed pp. 43–44 / PDF pp. 51–52. His performance analysis identifies graceful slow-section lines, fast scales/arpeggios, sixteenth notes at dotted-quarter = 120, and a plus vite ending with a nine-measure optional cut that removes nearly all that section's sixteenths. Duration approximately 4:30 is his estimate. Appendix printed p. 87 lists the work on three college lists and labels it freshman; this is external evidence, not a SaxoBrain assignment. Hal Leonard/Alphonse Leduc reconfirms AL20698 and eight pages. Its online meter text contains an apparent typo, so the dissertation's account is used for the fast tempo. Added a verified Spotify track by Sandra Leonie Ritter and Chiaki Ohara (4:23). Sources: https://digital.library.unt.edu/ark:/67531/metadc4959/m2/1/high_res_d/dissertation.pdf ; https://www.halleonard.com/product/48181294/cantilene-et-danse-alto-saxophone-and-piano ; https://open.spotify.com/track/2bnxLad3OlZOpyTLLN6pIb . No actual score notation inspected this pass; original composition year remains unverified (1949 is documented as publication); audio not auditioned.
+
+## Chat batch 05 decision, 2026-10-12
+
+Tim assigned Second Year.

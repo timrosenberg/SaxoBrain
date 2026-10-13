@@ -3,10 +3,10 @@ title: "Review 0106: George Frideric Handel - Adagio and Allegro"
 added: 2026-10-11
 review-id: 106
 review-packet: 5
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: true
-catalog-entry: "[[George Frideric Handel - Adagio and Allegro]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -20,9 +20,14 @@ build:
 > [!info] Your Decision
 > Record your choice in `review-decision`, or give it to Codex in chat using this work’s number. The catalog changes only when you ask Codex to apply the decision or edit the catalog entry yourself.
 
+
+## Applied Decision, October 12, 2026
+
+Tim requested removal from the database. The catalog work note was deleted; its old URL redirects to the repertoire catalog. This private review is retained as the evidence log.
+
 ## Research
 
-Catalog entry: [[George Frideric Handel - Adagio and Allegro]].
+Catalog entry: George Frideric Handel: Adagio and Allegro (removed from catalog).
 
 Handel, Adagio and Allegro, in the inspected Eugene Rousseau/Wingert-Jones alto saxophone and piano edition. A separate baritone saxophone edition also exists; the catalog entry may refer to another edition.
 [Stanton’s Sheet Music](https://www.stantons.com/sheet-music/title/adagio-and-allegro/3050061/) (search_index_only): Rousseau edition 3050061 is listed for alto saxophone and piano; product description identifies contrasting Adagio and Allegro movements and baroque ornamentation.
@@ -45,3 +50,8 @@ Open questions: A matching saxophone performance recording was not verified or a
 
 Searches checked:
 - Handel Adagio and Allegro saxophone Rousseau Wingert Jones editions score
+
+
+#### Follow-up for chat batch 4, October 12, 2026
+
+Freshly inspected the Rousseau/Wingert-Jones alto-part sample: Adagio at approximately eighth note = 72, slurred sustained phrasing, ornaments, and an attacca Allegro with denser running figures. The sample is partially obscured by the retailer watermark and does not establish full range. The Royal Conservatory’s 2014 Saxophone Syllabus, printed p. 30, places this exact Rousseau/Wingert-Jones arrangement in Grade 4 Alto, List A (mainly transcriptions). That external grade does not assign a SaxoBrain level. The other Gee editions in this catalog entry remain distinct. Sources: https://listeninglab.stantons.com/score-images/4/0/0/8/0/wj-3050061.png ; https://rcmusic-production-strapi-media.s3.ca-central-1.amazonaws.com/s40_saxophonesyl_rcm_2016_online_secured_2ad7443853.pdf .

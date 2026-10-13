@@ -4,20 +4,27 @@ slug: jean-baptiste-singelee-septieme-solo-de-concert-op-93
 composer:
   - "[[Jean-Baptiste Singelée]]"
 instruments:
-  - "Alto Saxophone"
+  - "Baritone Saxophone"
   - "Piano"
 composed: 1863
-year-of-study: 
+year-of-study: "First Year"
 publisher:
   - "Adolphe Sax"
-streaming: 
-purchase: []
+streaming: "https://classical.music.apple.com/fr/recording/jean-baptiste-singelee-1812-pp26-1572077053"
+purchase:
+  - "Dorn edition (E-flat and B-flat parts) · https://www.grothmusic.com/p-139749.aspx"
+  - "Baritone edition, Paul Wehage, MFJBS011 · https://www.notendownload.com/solo-de-concert-no.-7-opus-93/mfjbs011"
 added: 2024-03-08
 research:
   - "Groth lists Dorn Publications DORN2016 (baritone or other saxophone and piano; E-flat and B-flat parts), page gives 'written 1863'; edition is baritone, not alto, so not used as composed · https://www.grothmusic.com/p-139749.aspx"
 aliases: []
 ---
 ## Research notes (private)
+
+### Applied Decision, October 12, 2026
+
+Tim assigned First Year. Changed the instrument to baritone and retained piano. Added the inspected Paul Wehage/Musik Fabrik purchase and a verified baritone recording by Ulrich Berg and Guy Penson. This resolves the earlier alto/baritone uncertainty. [Baritone edition](https://www.notendownload.com/solo-de-concert-no.-7-opus-93/mfjbs011) · [Recording](https://classical.music.apple.com/fr/recording/jean-baptiste-singelee-1812-pp26-1572077053).
+
 
 - Groth lists Dorn Publications DORN2016 (baritone or other saxophone and piano; E-flat and B-flat parts), page gives 'written 1863'; edition is baritone, not alto, so not used as composed · [grothmusic.com](https://www.grothmusic.com/p-139749.aspx)
 
@@ -66,3 +73,8 @@ Searches checked:
 
 - purchase: the inspected NotenDownload edition is for baritone saxophone and piano, while the current work record is alto saxophone and piano; an exact alto edition has not been verified.
 
+
+
+#### Follow-up for chat batch 4, October 12, 2026
+
+Freshly inspected the current Musik Fabrik/Paul Wehage preview images, printed pp. 2–3: baritone and piano, Allegro risoluto introduction, ascending slurred figures, ties and emphatic piano chords. Watermarks obscure much of the interior; no complete range claim. Groth’s Dorn DORN2016 edition explicitly includes separate E-flat and B-flat parts, so an alto application may depend on that edition. Added that labeled purchase link; preserved the current Alto Saxophone tag pending Tim’s edition decision. Sources: https://www.notendownload.com/solo-de-concert-no.-7-opus-93/mfjbs011 ; https://www.grothmusic.com/p-139749.aspx . A baritone recording by Ulrich Berg and Guy Penson is listed here: https://classical.music.apple.com/fr/recording/jean-baptiste-singelee-1812-pp26-1572077053 . It has not been auditioned or added as an alto-version streaming link.

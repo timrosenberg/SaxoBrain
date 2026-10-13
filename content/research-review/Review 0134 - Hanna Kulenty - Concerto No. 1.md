@@ -3,8 +3,8 @@ title: "Review 0134: Hanna Kulenty - Concerto No. 1"
 added: 2026-10-11
 review-id: 134
 review-packet: 6
-review-decision: Pending
-review-applied: false
+review-decision: "Advanced"
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Hanna Kulenty - Concerto No. 1]]"
 build:
@@ -19,6 +19,11 @@ build:
 
 > [!info] Your Decision
 > Record your choice in `review-decision`, or give it to Codex in chat using this work’s number. The catalog changes only when you ask Codex to apply the decision or edit the catalog entry yourself.
+
+
+## Applied Decision, October 12, 2026
+
+Tim assigned Advanced.
 
 ## Research
 
@@ -51,4 +56,9 @@ Catalog: [Hanna Kulenty - Concerto No. 1.md](/Users/trosenberg/Documents/GitHub/
 - A University of Pretoria repository result lists 26:04, while Donemus states about 22 minutes; the duration basis/version is unresolved.
 - The composer-linked recording has not been auditioned and its video metadata could not be retrieved directly.
 
-**Tim decision:** pending.
+**Tim decision:** Advanced.
+
+
+#### Follow-up for chat batch 4, October 12, 2026
+
+Freshly inspected Donemus preview pp. 2–4. The alto is amplified with echo delay, and the orchestral score is in C. The opening at quarter note = 128 combines recurrent short figures and tied tones, rapidly changing dynamics, changing meters and glissandi. Added the composer-linked YouTube recording after YouTube oEmbed confirmed its title and Hanna Kulenty’s channel. Sources: https://webshop.donemus.com/action/front/sheetmusic/14817 ; https://www.hannakulenty.com/01.1_news.html ; https://www.youtube.com/watch?v=6b8FMgjs76M . Opening excerpt only; audio not auditioned.

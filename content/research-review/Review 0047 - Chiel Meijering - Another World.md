@@ -3,9 +3,9 @@ title: "Review 0047: Chiel Meijering - Another World"
 added: 2026-10-11
 review-id: 47
 review-packet: 2
-review-decision: Pending
-review-applied: false
-notation-inspected: false
+review-decision: Second Year
+review-applied: true
+notation-inspected: true
 catalog-entry: "[[Chiel Meijering - Another World]]"
 build:
   render: never
@@ -45,3 +45,11 @@ Proposed correction for review: ["Replace the old research note claiming a sopra
 Searches checked:
 - Chiel Meijering Another World soprano saxophone string orchestra Donemus 20367
 - Chiel Meijering chronological Another world eagle recorder string orchestra
+
+## Chat batch 05 follow-up, 2026-10-12
+
+Freshly inspected Donemus D20367 preview cover, instrumentation, PDF p. 3 / Part I p. 1 and PDF p. 10 / Part I p. 8. This is explicitly a soprano saxophone and string-orchestra version, resolving the old claim that no soprano version was found. Added composed 2013, publisher and exact purchase; replaced the incorrect research property with verified edition facts. The solo line is labelled real sound, so no written soprano range is inferred. The opening has marcato repeated/sustained notes over layered string patterns at quarter note = 80. Part I p. 8 moves through a rallentando to quarter note = 126 with repeated figures and syncopated/tied solo notes. Source: https://webshop.donemus.com/action/front/sheetmusic/20367 . The preview covers part of the 34-page score. Other instrumental versions, complete solo range, later parts and a recording of this exact soprano version remain unassessed.
+
+## Chat batch 05 decision, 2026-10-12
+
+Tim assigned Second Year.

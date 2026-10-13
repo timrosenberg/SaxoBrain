@@ -3,9 +3,9 @@ title: "Review 0048: Chiel Meijering - The Pizza Connection"
 added: 2026-10-11
 review-id: 48
 review-packet: 2
-review-decision: Pending
-review-applied: false
-notation-inspected: false
+review-decision: Fourth Year
+review-applied: true
+notation-inspected: true
 catalog-entry: "[[Chiel Meijering - The Pizza Connection]]"
 build:
   render: never
@@ -46,3 +46,11 @@ Open questions: The composer-linked Donemus product page returned an access fail
 
 Searches checked:
 - Chiel Meijering The Pizza-Connection alto saxophone piano score YouTube
+
+## Chat batch 05 follow-up, 2026-10-12
+
+Freshly inspected Donemus D5473 public preview, PDF pp. 3–4 / printed pp. 1–2. The alto staff is explicitly transposed. Menacing at quarter note = 62 opens with long notes and sudden dynamics against violent piano chords. The notation includes a flutter-tongue indication, compressed chromatic figures, and rapid alternation among meters including 5/16, 3/16, 4/16, 9/16, 6/16 and 2/4. Much of that changing-meter passage is piano writing while the saxophone rests, so coordination is a central practical consideration. Piano instructions include strings plucked if possible. Added Donemus and the exact score link; preserved composed 1989 and the existing streaming link. YouTube oEmbed confirms The Pizzaconnection - Chiel Meijering on the composer's channel. Sources: https://webshop.donemus.com/action/front/sheetmusic/5473 ; https://www.chielmeijering.com/works/all-works/saxophone/ ; https://www.youtube.com/watch?v=4CeoiU74TEo . Opening excerpt only; complete range remains unestablished; audio not auditioned.
+
+## Chat batch 05 decision, 2026-10-12
+
+Tim assigned Fourth Year.

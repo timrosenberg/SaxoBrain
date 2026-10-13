@@ -7,8 +7,8 @@ instruments:
   - "Alto Saxophone"
   - "Orchestra"
 composed: 2015
-year-of-study: 
-streaming: 
+year-of-study: "Advanced"
+streaming: https://www.youtube.com/watch?v=6b8FMgjs76M
 purchase:
   - "https://webshop.donemus.nl/action/front/sheetmusic/14817"
 library-recording:
@@ -61,9 +61,14 @@ Catalog: [Hanna Kulenty - Concerto No. 1.md](/Users/trosenberg/Documents/GitHub/
 - A University of Pretoria repository result lists 26:04, while Donemus states about 22 minutes; the duration basis/version is unresolved.
 - The composer-linked recording has not been auditioned and its video metadata could not be retrieved directly.
 
-**Tim decision:** pending.
+**Tim decision:** Advanced.
 
 #### Catalog Details Added
 
 - Publisher: Donemus. [Source](https://webshop.donemus.nl/action/front/sheetmusic/14817)
 
+
+
+#### Follow-up for chat batch 4, October 12, 2026
+
+Freshly inspected Donemus preview pp. 2–4. The alto is amplified with echo delay, and the orchestral score is in C. The opening at quarter note = 128 combines recurrent short figures and tied tones, rapidly changing dynamics, changing meters and glissandi. Added the composer-linked YouTube recording after YouTube oEmbed confirmed its title and Hanna Kulenty’s channel. Sources: https://webshop.donemus.com/action/front/sheetmusic/14817 ; https://www.hannakulenty.com/01.1_news.html ; https://www.youtube.com/watch?v=6b8FMgjs76M . Opening excerpt only; audio not auditioned.

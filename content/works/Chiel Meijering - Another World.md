@@ -6,18 +6,29 @@ composer:
 instruments:
   - "Soprano Saxophone"
   - "Orchestra"
-composed: 
-year-of-study: 
+composed: 2013
+year-of-study: Second Year
 streaming: 
-purchase: []
+purchase:
+  - "Soprano saxophone and strings version, D20367 · https://webshop.donemus.com/action/front/sheetmusic/20367"
 library-recording:
   - "https://search.alexanderstreet.com/lti/view/work/bibliographic_entity|score|5213708"
 added: 2025-04-21
 research:
-  - "Donemus lists 'Another World' only as a version for oboe and string orchestra (2013); a soprano saxophone version not found · https://search.alexanderstreet.com/view/work/5472137"
+  - "Published soprano saxophone and string-orchestra version, composed 2013; about 12:30; Donemus D20367 · https://webshop.donemus.com/action/front/sheetmusic/20367"
+  - "Public preview explicitly names soprano saxophone and string orchestra; concert-pitch score, opening marked marcato at quarter note = 80, later quarter note = 126 · https://webshop.donemus.com/action/front/sheetmusic/20367"
 aliases: []
+publisher:
+  - "Donemus"
 ---
 ## Research notes (private)
+
+### Chat batch 05 follow-up, 2026-10-12
+
+Freshly inspected Donemus D20367 preview cover, instrumentation, PDF p. 3 / Part I p. 1 and PDF p. 10 / Part I p. 8. This is explicitly a soprano saxophone and string-orchestra version, resolving the old claim that no soprano version was found. Added composed 2013, publisher and exact purchase; replaced the incorrect research property with verified edition facts. The solo line is labelled real sound, so no written soprano range is inferred. The opening has marcato repeated/sustained notes over layered string patterns at quarter note = 80. Part I p. 8 moves through a rallentando to quarter note = 126 with repeated figures and syncopated/tied solo notes. Source: https://webshop.donemus.com/action/front/sheetmusic/20367 . The preview covers part of the 34-page score. Other instrumental versions, complete solo range, later parts and a recording of this exact soprano version remain unassessed.
+
+### Earlier research (retained)
+
 
 - Donemus lists 'Another World' only as a version for oboe and string orchestra (2013); a soprano saxophone version not found · [search.alexanderstreet.com](https://search.alexanderstreet.com/view/work/5472137)
 
@@ -50,4 +61,3 @@ Proposed correction for review: ["Replace the old research note claiming a sopra
 Searches checked:
 - Chiel Meijering Another World soprano saxophone string orchestra Donemus 20367
 - Chiel Meijering chronological Another world eagle recorder string orchestra
-

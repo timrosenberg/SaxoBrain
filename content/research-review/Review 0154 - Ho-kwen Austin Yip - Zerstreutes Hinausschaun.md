@@ -3,8 +3,8 @@ title: "Review 0154: Ho-kwen Austin Yip - Zerstreutes Hinausschaun"
 added: 2026-10-11
 review-id: 154
 review-packet: 7
-review-decision: Pending
-review-applied: false
+review-decision: Second Year
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Ho-kwen Austin Yip - Zerstreutes Hinausschaun]]"
 build:
@@ -35,3 +35,11 @@ Catalog: [[Ho-kwen Austin Yip - Zerstreutes Hinausschaun]]
 - Review focus: Inference: the two soloists have differentiated writing in the inspected opening and printed p. 8, with the soprano entering over a sustained line and the alto taking a quick descending figure. Check coordination and line balance between the two saxophone parts.
 - Gaps: Only a partial orchestral score preview was inspected; the piano reduction and remaining score are not available in this review. No direct recording page verified.
 - Proposed correction: Replace the incorrect Donemus item 16931 reference with item 18125. Add piano to the edition/instrument notes if the catalog intends to represent the separately published reduction.
+
+## Chat batch 05 follow-up, 2026-10-12
+
+Freshly inspected D18125 orchestra preview PDF p. 3 / printed p. 1 and PDF p. 10 / printed p. 8, plus D20241 piano-version preview PDF p. 5 / printed p. 3. The orchestral opening is Absent-minded at quarter note approximately 84 with delayed expressive soprano entrance. The later orchestra excerpt includes chromatic soprano figures and a rapid descending alto line. The piano excerpt shows alternating 3/4 and 4/4, sextuplet figures, passing melody between soprano and alto, sustained notes, rests and coordinated ritardando/a tempo. Added composed 2017, Piano, both exact purchase pages and a verified Apple Music track from Saxophone on Peninsula. Replaced the incorrect D16931 research reference; the correct orchestral item is D18125 and separate piano version D20241. Sources: https://webshop.donemus.com/action/front/sheetmusic/18125 ; https://webshop.donemus.com/action/front/sheetmusic/20241 ; https://music.apple.com/us/album/zerstreutes-hinausschaun/1733030732?i=1733030739 . Both are partial previews; full ranges remain unestablished. Youth-orchestra commission is context only and does not assign difficulty. Audio not auditioned.
+
+## Chat batch 05 decision, 2026-10-12
+
+Tim assigned Second Year. Added Apple Music embedding to work pages so the existing selected-track link displays a player. Preserved Tim’s current program note and purchase link.

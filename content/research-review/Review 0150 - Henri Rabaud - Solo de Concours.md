@@ -3,10 +3,10 @@ title: "Review 0150: Henri Rabaud - Solo de Concours"
 added: 2026-10-11
 review-id: 150
 review-packet: 6
-review-decision: Pending
-review-applied: false
+review-decision: Removed
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Henri Rabaud - Solo de Concours]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [Henri Rabaud - Solo de Concours.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Henri Rabaud - Solo de Concours.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0150.json).
+Catalog: removed at Tim’s request on 2026-10-12. Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0150.json).
 
 **Identity and findings.** The saxophone edition of Henri Rabaud’s Solo de Concours is arranged by Harry Gee for alto saxophone and piano; Hal Leonard lists 16 pages and a Grade/Level 5 publisher classification. The original Solo de Concours, Op.10, was a clarinet Conservatoire competition piece. This is a transcription, and the saxophone edition should be evaluated separately from the clarinet original.
 
@@ -44,4 +44,12 @@ Catalog: [Henri Rabaud - Solo de Concours.md](/Users/trosenberg/Documents/GitHub
 - No saxophone edition score pages or verified saxophone performance inspected.
 - Clarinet original’s contest context does not establish intended level or simplification of the saxophone arrangement.
 
-**Tim decision:** pending.
+**Tim decision:** Removed.
+
+## Chat batch 05 follow-up, 2026-10-12
+
+Freshly verified Hal Leonard's Southern Music entry for Harry Gee's alto saxophone edition, SS748, Level 5, 16 pages. Pentaedre's authored concert note dates the original clarinet work to 1901, now added to composed. The publisher's related orchestral and band editions confirm that Gee made saxophone/piano and ensemble adaptations, with approximately six-minute duration for those ensemble versions. This is a transcription of a Conservatoire competition work. The available evidence does not establish it as a simplified lyrical adaptation for younger players. Sources: https://www.halleonard.com/product/3774409/solo-de-concours ; https://pentaedre.com/en/concerts/musical-works/competition-solo-op-10-clarinet-and-piano ; https://keiserproductions.com/catalog/southern-music/?ic=&sc=&tc=&tid=F939F850-DE53-4E58-8C3E-5CD1652BDAA9 . The publisher's Closer Look endpoint returned no sample; actual Gee saxophone notation, range and a matching recording remain unverified. Clarinet-original technique is not substituted for saxophone-edition evidence.
+
+## Chat batch 05 decision, 2026-10-12
+
+Tim requested removal from the catalog. The private evidence log is retained.

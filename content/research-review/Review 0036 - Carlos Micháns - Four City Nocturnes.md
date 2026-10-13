@@ -3,9 +3,9 @@ title: "Review 0036: Carlos Micháns - Four City Nocturnes"
 added: 2026-10-11
 review-id: 36
 review-packet: 2
-review-decision: Pending
-review-applied: false
-notation-inspected: false
+review-decision: Advanced
+review-applied: true
+notation-inspected: true
 catalog-entry: "[[Carlos Micháns - Four City Nocturnes]]"
 build:
   render: never
@@ -41,3 +41,11 @@ Open questions: No readable score or actual recording link verified.
 Searches checked:
 - "Four City Nocturnes" "Carlos Micháns" saxophone
 - Donemus, McGill bachelor recital, 2018 NASA program
+
+## Chat batch 05 follow-up, 2026-10-12
+
+Freshly inspected Donemus D13128 public preview, PDF pp. 3–4 / printed pp. 1–2. The score is in C. The first movement begins Lento nervoso, quarter note = 36, with a piano introduction and saxophone figures grouped in 7, 3, 6, 5 and 9, frequent accidentals, large changes of dynamics and tempo, and alternation between solo figures and sustained phrasing. The following section is piu mosso, quarter note = 42. These observations describe concert-pitch score notation, not a transposed tenor range. Publisher confirms 2012 and approximately 11 minutes; added composed, publisher and the exact score/part purchase. McGill's April 22, 2025 bachelor's recital program documents all four movements. Sources: https://webshop.donemus.com/action/front/sheetmusic/13128 ; https://www.mcgill.ca/music/files/music/channels/attach/20250422t2030_bmus-tessmer.pdf . Full transposed range, later movements and a work-specific recording remain unverified.
+
+## Chat batch 05 decision, 2026-10-12
+
+Tim assigned Advanced.

@@ -3,8 +3,8 @@ title: "Review 0312: Randall Snyder - Chance Designs"
 added: 2026-10-11
 review-id: 312
 review-packet: 13
-review-decision: Pending
-review-applied: false
+review-decision: "Advanced"
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Randall Snyder - Chance Designs]]"
 build:
@@ -20,6 +20,11 @@ build:
 > [!info] Your Decision
 > Record your choice in `review-decision`, or give it to Codex in chat using this work’s number. The catalog changes only when you ask Codex to apply the decision or edit the catalog entry yourself.
 
+
+## Applied Decision, October 12, 2026
+
+Tim assigned Advanced.
+
 ## Research
 
 Catalog: [[Randall Snyder - Chance Designs]]
@@ -32,3 +37,8 @@ Catalog: [[Randall Snyder - Chance Designs]]
 - Collection/use: Original contemporary chamber work for tenor saxophone, trombone and vibraphone.
 - Review focus: Inference: inspect rhythmic coordination across changing meters and the score’s written transposition before assessing ensemble fluency.
 - Gaps: Exact saxophone range not established.; No performance recording or college program located.
+
+
+#### Follow-up for chat batch 4, October 12, 2026
+
+Freshly inspected the local university-hosted transposed score, PDF pp. 1–2. The cover and notation both explicitly date it 2011, now added to composed. The opening is Playful at quarter note = 84, with 4/4, 3/4 and 2/4, chromatic sixteenth-note figures, slurs and quick dynamic changes across tenor, trombone and vibraphone. Existing free-score link is preserved. Source: https://works.bepress.com/randall_snyder/181/ . Full range and later sections remain unassessed.

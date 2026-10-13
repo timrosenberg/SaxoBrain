@@ -9,11 +9,11 @@ instruments:
   - "Piano"
   - "Trio"
 composed: 2005
-year-of-study: 
+year-of-study: "Third Year"
 arranger-edition: 
 publisher:
   - "Zen-On"
-streaming: 
+streaming: https://soundcloud.com/user-538979524-385415459/jun-nagao-lovers-on-the-celestial-sphere-for-soprano-saxophone-tenor-saxophone-and-piano
 purchase:
   - https://www.grothmusic.com/p-152235.aspx
   - "https://shop.zen-on.co.jp/downloads/detail/56001500/"
@@ -59,5 +59,10 @@ Catalog: [Jun Nagao - Lovers on the Celestial Sphere.md](/Users/trosenberg/Docum
 - Only an opening score leaf and preface were available in the public sample; the remainder of the duo score was not inspected.
 - The later band study-score timing differs slightly from Zen-On’s original chamber-work estimate.
 
-**Tim decision:** pending.
+**Tim decision:** Third Year.
 
+
+
+#### Follow-up for chat batch 4, October 12, 2026
+
+Zen-On’s official product page reconfirms the soprano/tenor/piano commission and October 2005 premiere, with approximately 12-minute duration. Added a direct performer-posted SoundCloud recording: Jia-Yu Yang saxophone recital, Nolan Thomas tenor saxophone, Rachel Aubuchon piano, April 28, 2017 at UNCG. Sources: https://shop.zen-on.co.jp/item/detail/560015/ ; https://soundcloud.com/user-538979524-385415459/jun-nagao-lovers-on-the-celestial-sphere-for-soprano-saxophone-tenor-saxophone-and-piano . Notation observations remain limited to the previously inspected opening score leaf in Zen-On’s four-page sample. Audio not auditioned.

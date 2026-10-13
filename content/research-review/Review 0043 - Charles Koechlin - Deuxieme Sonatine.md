@@ -3,10 +3,10 @@ title: "Review 0043: Charles Koechlin - Deuxieme Sonatine"
 added: 2026-10-11
 review-id: 43
 review-packet: 2
-review-decision: Pending
-review-applied: false
+review-decision: "Duplicate merged"
+review-applied: true
 notation-inspected: true
-catalog-entry: "[[Charles Koechlin - Deuxieme Sonatine]]"
+catalog-entry: "[[Charles Koechlin - Sonatine No. 2]]"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog entry: [[Charles Koechlin - Deuxieme Sonatine]].
+Catalog entry: [[Charles Koechlin - Sonatine No. 2]].
 
 Charles Koechlin, Deuxième Sonatine, Op. 194 no. 2 (composed 1942–43). IMSLP identifies a soprano saxophone-or-oboe d’amore solo with piano, and a separate ensemble version. The opened score scan is the ensemble version. A publisher catalogue lead describes an alto-or-tenor edition, so the assigned soprano instrument tag needs edition verification.
 [Schott Music](https://www.schott-music.com/en/deuxieme-sonatine-no70838.html) (search_index_only): Schott/Max Eschig identifies the edition as op. 194/2 for oboe d’amore or soprano saxophone and piano, with intermediate label and 18 pages.
@@ -50,3 +50,13 @@ Open questions: The inspected notation is the ensemble edition, not the assigned
 Searches checked:
 - Koechlin Deuxième Sonatine op 194 no 2 soprano saxophone piano score
 - Koechlin Sonatine No. 2 alto tenor sax piano catalogue
+
+
+#### Follow-up for chat batch 4, October 12, 2026
+
+Rechecked the ensemble scan, printed pp. 1–2: very soft slurred chromatic writing, triplets, and frequent meter changes. Groth ME8525 explicitly supplies piano accompaniment and soprano/oboe d’amore parts, resolving the earlier uncertainty about this purchase link. Added Piano and Max Eschig. Added composed 1943 from the Conservatorio Superior de Música de Navarra repertoire chronology. The separate vault entry Sonatine No. 2 is an ensemble entry already marked Fourth Year; this batch concerns the piano edition. Sources: https://www.grothmusic.com/p-109499.aspx ; https://www.schott-music.com/en/deuxieme-sonatine-no70838.html ; https://csmn.es/wp-content/uploads/2023/11/06-Guia-docente_Instrumento-principal.Pedagogia.II-2023-2024.pdf . Piano-edition notation and complete soprano range remain uninspected.
+
+
+### Catalog Merge, October 12, 2026
+
+Tim confirmed that Deuxième Sonatine and Sonatine No. 2 are the same work and authorized their merge. Retained the existing Fourth Year assignment, want-to-play flag, permanent slug, and recording association. Merged the piano purchase, composition year, publisher, and research. The duplicate URL now redirects here. The string-quartet tag was corrected to the six-string ensemble scoring. The original piano version is not merely a reduction of the ensemble version. The verified soprano/oboe d’amore scoring supersedes the older conflicting alto/tenor catalogue lead below. Source: [IMSLP](https://imslp.org/wiki/2_Sonatines,_Op.194_(Koechlin,_Charles)).

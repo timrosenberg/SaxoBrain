@@ -3,8 +3,8 @@ title: "Review 0382: Vittorio Monti - Czardas"
 added: 2026-10-11
 review-id: 382
 review-packet: 16
-review-decision: Pending
-review-applied: false
+review-decision: "Fourth Year"
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Vittorio Monti - Czardas]]"
 build:
@@ -19,6 +19,11 @@ build:
 
 > [!info] Your Decision
 > Record your choice in `review-decision`, or give it to Codex in chat using this work’s number. The catalog changes only when you ask Codex to apply the decision or edit the catalog entry yourself.
+
+
+## Applied Decision, October 12, 2026
+
+Tim assigned Fourth Year.
 
 ## Research
 
@@ -36,3 +41,8 @@ Catalog: [[Vittorio Monti - Czardas]]
 - Collection/use: Arrangement of Monti's violin/piano work; multiple saxophone arrangements with distinct editors and editions.
 - Review focus: Inference from this specific preview: review the transitions from the slow opening to quick scalar and sextuplet passages, plus coordination around repeated tempo changes and rallentandos.
 - Gaps: Only the Tierolff/Crépin sample was inspected; no score pages were viewed for the Lemoine/Muto, Carl Fischer/Roberts, Darok/Kovács, or Uetz/Terrett variants.; No performance recording was verified or auditioned.
+
+
+#### Follow-up for chat batch 4, October 12, 2026
+
+Freshly inspected the two-page Tierolff/Alain Crépin sample: slow Largo phrasing, sextuplet and other rapid runs, high ledger-line notes, repeated rallentandos and a later Allegro Vivo indication. Added a labeled purchase link for the exact previewed edition. This arrangement of Monti’s violin work has technical display passages; no evidence establishes it as a simplified lyrical adaptation for younger players. The existing J. Michael Leonard arranger field and other edition links are preserved. Sources: https://tierolff.nl/media/unicode/unifile/attach/csardas-3515sa.pdf ; https://tierolff.nl/en/csardas-3515sa.html . Two pages only; full range and remainder unassessed.

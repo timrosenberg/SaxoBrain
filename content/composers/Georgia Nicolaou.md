@@ -2,7 +2,7 @@
 title: Georgia Nicolaou
 slug: georgia-nicolaou
 nationality:
-  - 🇨🇾 Cyprus
+  - 🇨🇾 Cyprian
 gender: Female
 race:
   - Central Asian

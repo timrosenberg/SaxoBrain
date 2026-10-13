@@ -1,0 +1,203 @@
+{
+  "created": "2026-10-12",
+  "chat_batch": 5,
+  "decision_status": "Applied",
+  "scope": "Tim’s nine level assignments applied; Rabaud removed; Yip player fixed; Fading listed for soprano or tenor with tenor edition purchase labeled.",
+  "works": [
+    {
+      "chat_number": 1,
+      "review_id": 36,
+      "filename": "Carlos Micháns - Four City Nocturnes.md",
+      "review_note": "content/research-review/Review 0036 - Carlos Micháns - Four City Nocturnes.md",
+      "metadata_added": {
+        "composed": 2012,
+        "publisher": [
+          "Donemus"
+        ],
+        "added_purchase": [
+          "Donemus score and tenor part, D13128 · https://webshop.donemus.com/action/front/sheetmusic/13128"
+        ]
+      },
+      "notation_inspected": true,
+      "followup": "Freshly inspected Donemus D13128 public preview, PDF pp. 3–4 / printed pp. 1–2. The score is in C. The first movement begins Lento nervoso, quarter note = 36, with a piano introduction and saxophone figures grouped in 7, 3, 6, 5 and 9, frequent accidentals, large changes of dynamics and tempo, and alternation between solo figures and sustained phrasing. The following section is piu mosso, quarter note = 42. These observations describe concert-pitch score notation, not a transposed tenor range. Publisher confirms 2012 and approximately 11 minutes; added composed, publisher and the exact score/part purchase. McGill's April 22, 2025 bachelor's recital program documents all four movements. Sources: https://webshop.donemus.com/action/front/sheetmusic/13128 ; https://www.mcgill.ca/music/files/music/channels/attach/20250422t2030_bmus-tessmer.pdf . Full transposed range, later movements and a work-specific recording remain unverified.",
+      "assigned_level": "Advanced",
+      "decision": "Advanced",
+      "review_applied": true,
+      "decision_note": "Tim assigned Advanced."
+    },
+    {
+      "chat_number": 2,
+      "review_id": 47,
+      "filename": "Chiel Meijering - Another World.md",
+      "review_note": "content/research-review/Review 0047 - Chiel Meijering - Another World.md",
+      "metadata_added": {
+        "composed": 2013,
+        "publisher": [
+          "Donemus"
+        ],
+        "added_purchase": [
+          "Soprano saxophone and strings version, D20367 · https://webshop.donemus.com/action/front/sheetmusic/20367"
+        ],
+        "corrected_research_reference": true
+      },
+      "notation_inspected": true,
+      "followup": "Freshly inspected Donemus D20367 preview cover, instrumentation, PDF p. 3 / Part I p. 1 and PDF p. 10 / Part I p. 8. This is explicitly a soprano saxophone and string-orchestra version, resolving the old claim that no soprano version was found. Added composed 2013, publisher and exact purchase; replaced the incorrect research property with verified edition facts. The solo line is labelled real sound, so no written soprano range is inferred. The opening has marcato repeated/sustained notes over layered string patterns at quarter note = 80. Part I p. 8 moves through a rallentando to quarter note = 126 with repeated figures and syncopated/tied solo notes. Source: https://webshop.donemus.com/action/front/sheetmusic/20367 . The preview covers part of the 34-page score. Other instrumental versions, complete solo range, later parts and a recording of this exact soprano version remain unassessed.",
+      "assigned_level": "Second Year",
+      "decision": "Second Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Second Year."
+    },
+    {
+      "chat_number": 3,
+      "review_id": 48,
+      "filename": "Chiel Meijering - The Pizza Connection.md",
+      "review_note": "content/research-review/Review 0048 - Chiel Meijering - The Pizza Connection.md",
+      "metadata_added": {
+        "publisher": [
+          "Donemus"
+        ],
+        "added_purchase": [
+          "Donemus alto saxophone and piano, D5473 · https://webshop.donemus.com/action/front/sheetmusic/5473"
+        ]
+      },
+      "notation_inspected": true,
+      "followup": "Freshly inspected Donemus D5473 public preview, PDF pp. 3–4 / printed pp. 1–2. The alto staff is explicitly transposed. Menacing at quarter note = 62 opens with long notes and sudden dynamics against violent piano chords. The notation includes a flutter-tongue indication, compressed chromatic figures, and rapid alternation among meters including 5/16, 3/16, 4/16, 9/16, 6/16 and 2/4. Much of that changing-meter passage is piano writing while the saxophone rests, so coordination is a central practical consideration. Piano instructions include strings plucked if possible. Added Donemus and the exact score link; preserved composed 1989 and the existing streaming link. YouTube oEmbed confirms The Pizzaconnection - Chiel Meijering on the composer's channel. Sources: https://webshop.donemus.com/action/front/sheetmusic/5473 ; https://www.chielmeijering.com/works/all-works/saxophone/ ; https://www.youtube.com/watch?v=4CeoiU74TEo . Opening excerpt only; complete range remains unestablished; audio not auditioned.",
+      "assigned_level": "Fourth Year",
+      "decision": "Fourth Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Fourth Year."
+    },
+    {
+      "chat_number": 4,
+      "review_id": 71,
+      "filename": "Denis Joly - Cantilene et Danse.md",
+      "review_note": "content/research-review/Review 0071 - Denis Joly - Cantilene et Danse.md",
+      "metadata_added": {
+        "streaming": "https://open.spotify.com/track/2bnxLad3OlZOpyTLLN6pIb"
+      },
+      "notation_inspected": false,
+      "followup": "Freshly retrieved Scott D. Kallestad's 2005 University of North Texas DMA dissertation, printed pp. 43–44 / PDF pp. 51–52. His performance analysis identifies graceful slow-section lines, fast scales/arpeggios, sixteenth notes at dotted-quarter = 120, and a plus vite ending with a nine-measure optional cut that removes nearly all that section's sixteenths. Duration approximately 4:30 is his estimate. Appendix printed p. 87 lists the work on three college lists and labels it freshman; this is external evidence, not a SaxoBrain assignment. Hal Leonard/Alphonse Leduc reconfirms AL20698 and eight pages. Its online meter text contains an apparent typo, so the dissertation's account is used for the fast tempo. Added a verified Spotify track by Sandra Leonie Ritter and Chiaki Ohara (4:23). Sources: https://digital.library.unt.edu/ark:/67531/metadc4959/m2/1/high_res_d/dissertation.pdf ; https://www.halleonard.com/product/48181294/cantilene-et-danse-alto-saxophone-and-piano ; https://open.spotify.com/track/2bnxLad3OlZOpyTLLN6pIb . No actual score notation inspected this pass; original composition year remains unverified (1949 is documented as publication); audio not auditioned.",
+      "assigned_level": "Second Year",
+      "decision": "Second Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Second Year."
+    },
+    {
+      "chat_number": 5,
+      "review_id": 105,
+      "filename": "Gary Schocker - Nightsong.md",
+      "review_note": "content/research-review/Review 0105 - Gary Schocker - Nightsong.md",
+      "metadata_added": {
+        "publisher": [
+          "Theodore Presser Company"
+        ],
+        "added_purchase": [
+          "Theodore Presser, 114-41686 · https://www.presser.com/114-41686-nightsong.html"
+        ]
+      },
+      "notation_inspected": false,
+      "followup": "Freshly retrieved the official Theodore Presser product page for 114-41686. It identifies a 4:30 accompanied solo dedicated to Yo Matsushita, with melodic, jazz-tinged writing and an external intermediate-to-advanced label. Added publisher and official purchase. Preserved composed 2013; Sheet Music Plus explicitly reports composed December 16, 2013, consistent with the existing catalog citation. Sources: https://www.presser.com/114-41686-nightsong.html ; https://www.sheetmusicplus.com/en/product/nightsong-20147380.html . This is published as an alto saxophone work; no source found identifies it as a flute transcription or a simplified melody adaptation. No readable notation or matching recording was verified, so precise technical demands and range remain unknown.",
+      "assigned_level": "First Year",
+      "decision": "First Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned First Year."
+    },
+    {
+      "chat_number": 6,
+      "review_id": 150,
+      "filename": "Henri Rabaud - Solo de Concours.md",
+      "review_note": "content/research-review/Review 0150 - Henri Rabaud - Solo de Concours.md",
+      "metadata_added": {
+        "composed": 1901
+      },
+      "notation_inspected": false,
+      "followup": "Freshly verified Hal Leonard's Southern Music entry for Harry Gee's alto saxophone edition, SS748, Level 5, 16 pages. Pentaedre's authored concert note dates the original clarinet work to 1901, now added to composed. The publisher's related orchestral and band editions confirm that Gee made saxophone/piano and ensemble adaptations, with approximately six-minute duration for those ensemble versions. This is a transcription of a Conservatoire competition work. The available evidence does not establish it as a simplified lyrical adaptation for younger players. Sources: https://www.halleonard.com/product/3774409/solo-de-concours ; https://pentaedre.com/en/concerts/musical-works/competition-solo-op-10-clarinet-and-piano ; https://keiserproductions.com/catalog/southern-music/?ic=&sc=&tc=&tid=F939F850-DE53-4E58-8C3E-5CD1652BDAA9 . The publisher's Closer Look endpoint returned no sample; actual Gee saxophone notation, range and a matching recording remain unverified. Clarinet-original technique is not substituted for saxophone-edition evidence.",
+      "removed": true,
+      "retired_url": "/works/henri-rabaud-solo-de-concours/",
+      "redirect_to": "/",
+      "assigned_level": null,
+      "decision": "Removed",
+      "review_applied": true,
+      "decision_note": "Tim requested removal from the catalog. The private evidence log is retained."
+    },
+    {
+      "chat_number": 7,
+      "review_id": 154,
+      "filename": "Ho-kwen Austin Yip - Zerstreutes Hinausschaun.md",
+      "review_note": "content/research-review/Review 0154 - Ho-kwen Austin Yip - Zerstreutes Hinausschaun.md",
+      "metadata_added": {
+        "composed": 2017,
+        "streaming": "https://music.apple.com/us/album/zerstreutes-hinausschaun/1733030732?i=1733030739",
+        "added_instruments": [
+          "Piano"
+        ],
+        "added_purchase": [
+          "Orchestral score and piano reduction, D18125 · https://webshop.donemus.com/action/front/sheetmusic/18125",
+          "Soprano, alto and piano version, D20241 · https://webshop.donemus.com/action/front/sheetmusic/20241"
+        ],
+        "corrected_research_reference": true
+      },
+      "notation_inspected": true,
+      "followup": "Freshly inspected D18125 orchestra preview PDF p. 3 / printed p. 1 and PDF p. 10 / printed p. 8, plus D20241 piano-version preview PDF p. 5 / printed p. 3. The orchestral opening is Absent-minded at quarter note approximately 84 with delayed expressive soprano entrance. The later orchestra excerpt includes chromatic soprano figures and a rapid descending alto line. The piano excerpt shows alternating 3/4 and 4/4, sextuplet figures, passing melody between soprano and alto, sustained notes, rests and coordinated ritardando/a tempo. Added composed 2017, Piano, both exact purchase pages and a verified Apple Music track from Saxophone on Peninsula. Replaced the incorrect D16931 research reference; the correct orchestral item is D18125 and separate piano version D20241. Sources: https://webshop.donemus.com/action/front/sheetmusic/18125 ; https://webshop.donemus.com/action/front/sheetmusic/20241 ; https://music.apple.com/us/album/zerstreutes-hinausschaun/1733030732?i=1733030739 . Both are partial previews; full ranges remain unestablished. Youth-orchestra commission is context only and does not assign difficulty. Audio not auditioned.",
+      "assigned_level": "Second Year",
+      "decision": "Second Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Second Year. Added Apple Music embedding to work pages so the existing selected-track link displays a player. Preserved Tim’s current program note and purchase link."
+    },
+    {
+      "chat_number": 8,
+      "review_id": 166,
+      "filename": "Jaromír Weinberger - Concerto.md",
+      "review_note": "content/research-review/Review 0166 - Jaromír Weinberger - Concerto.md",
+      "metadata_added": {
+        "publisher": [
+          "Southern Music"
+        ],
+        "streaming": "https://holocaustmusic.ort.org/resistance-and-exile/jaromir-weinberger/",
+        "added_instruments": [
+          "Piano"
+        ],
+        "added_arranger-edition": [
+          "Tristan Willems, revised performance edition"
+        ]
+      },
+      "notation_inspected": false,
+      "followup": "Freshly retrieved the publisher's history and current revised alto/piano product page. The work was commissioned by Cecil Leeson, completed in piano score in 1940, premiered in 1946, and subsequently revised; Tristan Willems incorporated those revisions into the current performance edition. Preserved composed 1940 and current purchases; added Southern Music, Piano, editor information and an explicitly partial recording page. The ORT Music and the Holocaust page embeds the concerto's first movement with Czech National Symphony Orchestra and Tristan Willems. Its prose names Christopher Creviston but its player caption says Christopher Cranston, so that inconsistent soloist credit is not asserted in the new catalog fact. Sources: https://keiserproductions.com/jaromir-weinbergers-alto-saxophone-concerto-reemerges/ ; https://www.halleonard.com/product/298123/alto-saxophone-concerto-revised ; https://holocaustmusic.ort.org/resistance-and-exile/jaromir-weinberger/ . Publisher sample endpoint returned no excerpt; current revised-edition notation, complete range, technical demands and full-concerto recording remain unverified. Audio not auditioned.",
+      "assigned_level": "Third Year",
+      "decision": "Third Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Third Year."
+    },
+    {
+      "chat_number": 9,
+      "review_id": 254,
+      "filename": "Martyna Kosecka - Znikomek.md",
+      "review_note": "content/research-review/Review 0254 - Martyna Kosecka - Znikomek.md",
+      "metadata_added": {},
+      "notation_inspected": false,
+      "followup": "Freshly retrieved and visually inspected Donemus D16273 preview PDF p. 2, the explanation legend and program note. It requests changes of speed within figures, a forceful crack attack, slap tongue, whole-tone trills, quarter-tone bends, roar/flutter effect, highest possible sound, jazz slide and overblowing. The preview contains no actual musical passages, so notation-inspected remains false. The score's program note gives approximately 4:30; the composer's current list gives five minutes, original date 2010 and premiere by Dawid Pliskowski at the Music Academy in Krakow. The composer still links the existing SoundCloud recording, retained. Sources: https://webshop.donemus.com/action/front/sheetmusic/16273 ; https://www.martynakosecka.com/list-of-works/ ; https://soundcloud.com/martyna-kosecka/martyna-kosecka-znikomek . Technique inventory is confirmed, but frequency, transitions, exact range and stamina cannot be assessed from the legend. Audio not auditioned.",
+      "assigned_level": "Fourth Year",
+      "decision": "Fourth Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Fourth Year."
+    },
+    {
+      "chat_number": 10,
+      "review_id": 273,
+      "filename": "Nicoline Soeter - Fading.md",
+      "review_note": "content/research-review/Review 0273 - Nicoline Soeter - Fading.md",
+      "metadata_added": {
+        "added_instruments": [
+          "Unaccompanied"
+        ]
+      },
+      "notation_inspected": false,
+      "followup": "Freshly retrieved Donemus D16533 product page and two-page public preview. The preview confirms solo tenor saxophone and 2017, but contains only cover/copyright, with no notation. Publisher gives approximately nine minutes and a composer-attributed program note describing the melody's erosion and its component tones remaining in multiphonics near the end. Added Unaccompanied. A Concertzender radio listing documents Tom Sanderman performing Fading (6:54) in a mixed broadcast, but no work-specific recording URL was verified, so streaming remains blank. Sources: https://webshop.donemus.com/action/front/sheetmusic/16533 ; https://www.worldofjazz.nl/programma_componist/genevieve-murphy/ . Multiphonics are supported by the program note; fingerings, range, notation and their frequency remain unknown.",
+      "assigned_level": "Third Year",
+      "decision": "Third Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Third Year. Added soprano alongside tenor at Tim’s direction. Composer's composition list identifies Fading (2017) as a solo for soprano saxophone, written for Tom Sanderman. Donemus D16533 identifies tenor saxophone. Listed for soprano or tenor at Tim's direction; the purchase link is labeled tenor edition. Source: https://www.nicolinesoeter.nl/composities/ ."
+    }
+  ],
+  "decisions_applied": "2026-10-12"
+}

@@ -7,8 +7,8 @@ instruments:
   - "Tenor Saxophone"
   - "Trombone"
   - "Vibraphone"
-composed: 
-year-of-study: 
+composed: 2011
+year-of-study: "Advanced"
 streaming: 
 purchase: []
 added: 2025-04-16
@@ -49,3 +49,8 @@ Catalog: [[Randall Snyder - Chance Designs]]
 
 - Complete score: Verified edition link added. [Source](https://works.bepress.com/randall_snyder/181/)
 
+
+
+#### Follow-up for chat batch 4, October 12, 2026
+
+Freshly inspected the local university-hosted transposed score, PDF pp. 1–2. The cover and notation both explicitly date it 2011, now added to composed. The opening is Playful at quarter note = 84, with 4/4, 3/4 and 2/4, chromatic sixteenth-note figures, slurs and quick dynamic changes across tenor, trombone and vibraphone. Existing free-score link is preserved. Source: https://works.bepress.com/randall_snyder/181/ . Full range and later sections remain unassessed.

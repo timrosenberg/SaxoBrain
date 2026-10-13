@@ -3,14 +3,15 @@ title: "Review 0204: Joseph-Hector Fiocco - Allegro"
 added: 2026-10-11
 review-id: 204
 review-packet: 9
-review-decision: Pending
-review-applied: false
+review-decision: "First Year"
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Joseph-Hector Fiocco - Allegro]]"
 build:
   render: never
   list: never
   publishResources: false
+selected-edition: "John Tyndall, Belwin Master Solos, Volume 1"
 ---
 
 # Review 0204: Joseph-Hector Fiocco - Allegro
@@ -19,6 +20,12 @@ build:
 
 > [!info] Your Decision
 > Record your choice in `review-decision`, or give it to Codex in chat using this work’s number. The catalog changes only when you ask Codex to apply the decision or edit the catalog entry yourself.
+
+
+## Applied Decision, October 12, 2026
+
+Tim assigned First Year. Tim selected the inspected John Tyndall/Belwin arrangement. Replaced the Cordeiro arranger field and other editions’ purchase links with the matching Tyndall saxophone part and piano accompaniment.
+Earlier edition uncertainties and comparisons below are retained as research history.
 
 ## Research
 
@@ -44,4 +51,9 @@ Catalog: [Joseph-Hector Fiocco - Allegro.md](/Users/trosenberg/Documents/GitHub/
 - Only the opening two sample pages were inspected; later passages and full saxophone range remain unknown.
 - The separate Bourne/Rascher edition is a different arrangement and is not evaluated here.
 
-**Tim decision:** pending.
+**Tim decision:** First Year.
+
+
+#### Follow-up for chat batch 4, October 12, 2026
+
+Freshly inspected the John Tyndall/Belwin preview page, including the opening piano introduction and the saxophone entry with connected running figures and a trill. Musicnotes confirms quarter note = 105 and Belwin Master Solos, Volume 1. Added a labeled purchase link to that exact arrangement. This is a keyboard-work transcription in a teaching/contest collection. The existing Cordeiro arranger field and Rascher purchase lead are preserved; the observed Tyndall part does not establish their demands. Sources: https://www.musicnotes.com/sheetmusic/joseph-hector-fiocco/allegro/MN0040745 ; https://www.musicnotes.com/product/image/MN0040745/large . Composition year remains unknown; 1989 is this edition’s copyright year.

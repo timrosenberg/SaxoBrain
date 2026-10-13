@@ -2,6 +2,8 @@
 title: "SaxoBrain"
 # Retired work URLs redirect to the repertoire catalog.
 aliases:
+  - /works/henri-rabaud-solo-de-concours/
+  - /works/george-frideric-handel-adagio-and-allegro/
   - /works/alain-gagnon-fantasie-lyrique/
   - /works/antonin-dvorak-humoresque-op-101/
   - /works/antonin-dvorak-two-waltzes/

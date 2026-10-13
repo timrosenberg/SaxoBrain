@@ -7,57 +7,34 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
+year-of-study: "First Year"
 arranger-edition:
-  - "George Cordeiro"
+  - "John Tyndall, Belwin Master Solos, Volume 1"
 streaming: 
 purchase:
-  - https://www.grothmusic.com/p-37723.aspx
-  - https://www.grothmusic.com/p-140207.aspx
+  - "John Tyndall alto saxophone part, MN0040759 · https://www.musicnotes.com/sheetmusic/joseph-hector-fiocco/allegro/MN0040759"
+  - "John Tyndall piano accompaniment, MN0040745 · https://www.musicnotes.com/sheetmusic/joseph-hector-fiocco/allegro/MN0040745"
 added: 2024-03-08
 research:
-  - "Belwin Master Solos Volume 1 edition for alto saxophone and piano: C major, quarter note = 105, range G3 to D5 (as listed by the retailer) · https://www.musicnotes.com/sheetmusic/joseph-hector-fiocco/allegro/MN0040745"
-  - "Rascher edition published by Bourne Co.; retailer describes it as a lively solo showpiece emphasizing agility and articulation · https://www.stantons.com/sheet-music/title/allegro-b200337-263/103379/"
+  - "John Tyndall arrangement from Belwin Master Solos, Volume 1, published by Alfred; alto saxophone and piano · https://www.musicnotes.com/sheetmusic/joseph-hector-fiocco/allegro/MN0040745"
+  - "Separate alto saxophone part MN0040759: four pages, written A major, 4/4, quarter note = 105 · https://www.musicnotes.com/sheetmusic/joseph-hector-fiocco/allegro/MN0040759"
+  - "Matching piano accompaniment MN0040745: eight pages, C major, quarter note = 105; 1989 is the edition date, not a verified composition year · https://www.musicnotes.com/sheetmusic/joseph-hector-fiocco/allegro/MN0040745"
+  - "Inspected opening excerpt has an active piano introduction, connected saxophone figures, and a trill; complete written range remains unverified · https://www.musicnotes.com/sheetmusic/joseph-hector-fiocco/allegro/MN0040745"
 publisher:
   - "Alfred Publishing Co., Inc."
 aliases: []
 ---
+
+John Tyndall’s arrangement for alto saxophone and piano, from *Belwin Master Solos, Volume 1*. [Edition](https://www.musicnotes.com/sheetmusic/joseph-hector-fiocco/allegro/MN0040745).
+
 ## Research notes (private)
 
-- Belwin Master Solos Volume 1 edition for alto saxophone and piano: C major, quarter note = 105, range G3 to D5 (as listed by the retailer) · [musicnotes.com](https://www.musicnotes.com/sheetmusic/joseph-hector-fiocco/allegro/MN0040745)
-- Rascher edition published by Bourne Co.; retailer describes it as a lively solo showpiece emphasizing agility and articulation · [stantons.com](https://www.stantons.com/sheet-music/title/allegro-b200337-263/103379/)
+### Applied Decision, October 12, 2026
 
-<!-- saxobrain-research-review-2026-10-11 -->
+Tim assigned First Year. Tim selected the inspected John Tyndall/Belwin arrangement. Replaced the Cordeiro arranger field and other editions’ purchase links with the matching Tyndall saxophone part and piano accompaniment.
 
-### Research Review, October 11, 2026
+The saxophone part is in written A major; the matching piano accompaniment is in C major. Original composition year remains unknown. The 1989 edition date is not used as composed. Earlier comparisons with the Cordeiro and Rascher editions remain in the private review history.
 
-[[Review 0204 - Joseph-Hector Fiocco - Allegro|Full review note]]
+[[Review 0204 - Joseph-Hector Fiocco - Allegro|Full review note]].
 
-Catalog: [Joseph-Hector Fiocco - Allegro.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Joseph-Hector Fiocco - Allegro.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0204.json).
-
-**Identity and findings.** Musicnotes item MN0040745 identifies John Tyndall’s alto saxophone and piano arrangement of Fiocco’s Allegro, in C major, 4/4 at quarter note=105, from Belwin Master Solos, Volume 1. Musicnotes lists a separate Bourne/Rascher arrangement; details from that arrangement do not transfer to this one.
-
-**Sources checked.**
-- [Musicnotes / Belwin arrangement page](https://www.musicnotes.com/sheetmusic/joseph-hector-fiocco/allegro/MN0040745) (opened): Musicnotes identifies the Tyndall arrangement, key, meter, tempo, instrumentation and Belwin volume, and offers an eight-page solo/accompaniment preview. Pages 1 and 2 were visually inspected.
-- [J.W. Pepper / Bourne Rascher listing](https://www.jwpepper.com/allegro-7379993/p) (opened): Distinct Rascher arrangement described as containing dynamic contrasts and technical passages; retailer-generated product description, not score analysis.
-
-**Score observations.**
-- In the inspected opening excerpt for the Tyndall edition, the alto saxophone rests over an active, continuously moving piano part. In the next visible passage the saxophone enters with slurred moving figures while the piano retains flowing motion. Only the opening two sample pages were inspected; no complete range claim is made.
-
-**Score/sample.**
-- [Musicnotes preview for Tyndall/Belwin edition, eight pages; opening two pages visually inspected.](https://www.musicnotes.com/sheetmusic/joseph-hector-fiocco/allegro/MN0040745) (inspected).
-
-**Collection and audience context.** Transcription of an 18th-century keyboard work; multiple saxophone arrangements exist.
-
-**Review focus.** Inference from the inspected excerpt: assess entry after rests and coordination with the piano’s running texture; compare the full arrangement before judging its demands.
-
-**Open questions.**
-- Only the opening two sample pages were inspected; later passages and full saxophone range remain unknown.
-- The separate Bourne/Rascher edition is a different arrangement and is not evaluated here.
-
-**Tim decision:** pending.
-
-#### Catalog Details Added
-
-- Publisher: Alfred Publishing Co., Inc.. [Source](https://www.musicnotes.com/sheetmusic/joseph-hector-fiocco/allegro/MN0040745)
-
+The inspected opening excerpt includes an active piano introduction, connected saxophone figures, and a trill. The complete written range remains unverified. [Alto part](https://www.musicnotes.com/sheetmusic/joseph-hector-fiocco/allegro/MN0040759) · [Piano accompaniment](https://www.musicnotes.com/sheetmusic/joseph-hector-fiocco/allegro/MN0040745).

@@ -112,6 +112,7 @@ article.page.lists, article.page.lists .prose, article.page.lists .notice { max-
 /* Apple's player is near-white in light mode, so it gets an outline there; in dark mode it already stands out. */
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .applemusic { border-color: transparent; } }
 .applemusic iframe { height: 450px; }
+.applemusic.song iframe { height: 175px; }
 .player .video { max-width: none; margin: 0; }
 .video.has-tracks { border-radius: 10px 10px 0 0; }
 .tracks { margin: 0; border: 1px solid var(--line); border-top: 0; border-radius: 0 0 10px 10px; background: var(--surface); overflow: hidden; }

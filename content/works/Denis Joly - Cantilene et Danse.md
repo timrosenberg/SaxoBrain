@@ -7,8 +7,8 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
-streaming: 
+year-of-study: Second Year
+streaming: "https://open.spotify.com/track/2bnxLad3OlZOpyTLLN6pIb"
 purchase:
   - "https://www.grothmusic.com/p-37917.aspx"
   - "https://www.halleonard.com/product/48181294/cantilene-et-danse-alto-saxophone-and-piano"
@@ -16,11 +16,20 @@ added: 2024-03-08
 research:
   - "Publisher Alphonse Leduc, catalog number AL20698 · https://www.grothmusic.com/p-37917.aspx"
   - "Andantino cantabile, then Allegretto scherzando, a slower section and a fast close; difficulty upper-intermediate; 6 pages · https://www.grothmusic.com/p-37917.aspx"
+  - "Scott D. Kallestad's 2005 UNT DMA analysis describes lyrical phrasing, scales and arpeggios, sixteenth notes at dotted quarter = 120 and a faster closing section with a nine-measure optional cut · https://digital.library.unt.edu/ark:/67531/metadc4959/m2/1/high_res_d/dissertation.pdf"
+  - "Verified recording: Sandra Leonie Ritter and Chiaki Ohara, 4:23 · https://open.spotify.com/track/2bnxLad3OlZOpyTLLN6pIb"
 publisher:
   - "Alphonse Leduc"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat batch 05 follow-up, 2026-10-12
+
+Freshly retrieved Scott D. Kallestad's 2005 University of North Texas DMA dissertation, printed pp. 43–44 / PDF pp. 51–52. His performance analysis identifies graceful slow-section lines, fast scales/arpeggios, sixteenth notes at dotted-quarter = 120, and a plus vite ending with a nine-measure optional cut that removes nearly all that section's sixteenths. Duration approximately 4:30 is his estimate. Appendix printed p. 87 lists the work on three college lists and labels it freshman; this is external evidence, not a SaxoBrain assignment. Hal Leonard/Alphonse Leduc reconfirms AL20698 and eight pages. Its online meter text contains an apparent typo, so the dissertation's account is used for the fast tempo. Added a verified Spotify track by Sandra Leonie Ritter and Chiaki Ohara (4:23). Sources: https://digital.library.unt.edu/ark:/67531/metadc4959/m2/1/high_res_d/dissertation.pdf ; https://www.halleonard.com/product/48181294/cantilene-et-danse-alto-saxophone-and-piano ; https://open.spotify.com/track/2bnxLad3OlZOpyTLLN6pIb . No actual score notation inspected this pass; original composition year remains unverified (1949 is documented as publication); audio not auditioned.
+
+### Earlier research (retained)
+
 
 - Publisher Alphonse Leduc, catalog number AL20698 · [grothmusic.com](https://www.grothmusic.com/p-37917.aspx)
 - Andantino cantabile, then Allegretto scherzando, a slower section and a fast close; difficulty upper-intermediate; 6 pages · [grothmusic.com](https://www.grothmusic.com/p-37917.aspx)
@@ -60,4 +69,3 @@ Catalog: [Denis Joly - Cantilene et Danse.md](/Users/trosenberg/Documents/GitHub
 
 - Publisher: Alphonse Leduc. [Source](https://www.halleonard.com/product/48181294/cantilene-et-danse-alto-saxophone-and-piano)
 - Score purchase: Verified edition link added. [Source](https://www.halleonard.com/product/48181294/cantilene-et-danse-alto-saxophone-and-piano)
-

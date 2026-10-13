@@ -3,8 +3,8 @@ title: "Review 0177: Jean-Baptiste Singelée - Septieme Solo de Concert Op. 93"
 added: 2026-10-11
 review-id: 177
 review-packet: 8
-review-decision: Pending
-review-applied: false
+review-decision: "First Year"
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Jean-Baptiste Singelée - Septieme Solo de Concert Op. 93]]"
 build:
@@ -19,6 +19,12 @@ build:
 
 > [!info] Your Decision
 > Record your choice in `review-decision`, or give it to Codex in chat using this work’s number. The catalog changes only when you ask Codex to apply the decision or edit the catalog entry yourself.
+
+
+## Applied Decision, October 12, 2026
+
+Tim assigned First Year. Changed the instrument to baritone and retained piano. Added the inspected Paul Wehage/Musik Fabrik purchase and a verified baritone recording by Ulrich Berg and Guy Penson.
+Earlier edition uncertainties and comparisons below are retained as research history.
 
 ## Research
 
@@ -52,3 +58,8 @@ Searches checked:
 - Singelée Septième Solo Op.93 recording baritone saxophone
 - Jean-Baptiste Singelée Septième Solo Op. 93 Notendownload MFJBS011 preview
 - Public preview image page 2 and page 3 retrieved from Notendownload; inspected visually
+
+
+#### Follow-up for chat batch 4, October 12, 2026
+
+Freshly inspected the current Musik Fabrik/Paul Wehage preview images, printed pp. 2–3: baritone and piano, Allegro risoluto introduction, ascending slurred figures, ties and emphatic piano chords. Watermarks obscure much of the interior; no complete range claim. Groth’s Dorn DORN2016 edition explicitly includes separate E-flat and B-flat parts, so an alto application may depend on that edition. Added that labeled purchase link; preserved the current Alto Saxophone tag pending Tim’s edition decision. Sources: https://www.notendownload.com/solo-de-concert-no.-7-opus-93/mfjbs011 ; https://www.grothmusic.com/p-139749.aspx . A baritone recording by Ulrich Berg and Guy Penson is listed here: https://classical.music.apple.com/fr/recording/jean-baptiste-singelee-1812-pp26-1572077053 . It has not been auditioned or added as an alto-version streaming link.

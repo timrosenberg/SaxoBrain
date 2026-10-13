@@ -3,8 +3,8 @@ title: "Review 0191: Jeroen d' Hoe - Prayer"
 added: 2026-10-11
 review-id: 191
 review-packet: 8
-review-decision: Pending
-review-applied: false
+review-decision: "Second Year"
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Jeroen d' Hoe - Prayer]]"
 build:
@@ -19,6 +19,11 @@ build:
 
 > [!info] Your Decision
 > Record your choice in `review-decision`, or give it to Codex in chat using this work’s number. The catalog changes only when you ask Codex to apply the decision or edit the catalog entry yourself.
+
+
+## Applied Decision, October 12, 2026
+
+Tim assigned Second Year.
 
 ## Research
 
@@ -51,3 +56,8 @@ Searches checked:
 - Jeroen D’hoe Prayer Donemus 20960 saxophone violin piano preview score
 - Jeroen D’hoe Prayer 22176 2022 clarinet arrangement Donemus
 - Kugoni Trio Prayer Essence saxophone performance Jeroen D’hoe
+
+
+#### Follow-up for chat batch 4, October 12, 2026
+
+Freshly inspected Donemus 20960 preview pp. 2–4. This score is explicitly in C. It opens in 6/4 at quarter note = 64, with the saxophone entering in bar 9 at pp, quasi senza vibrato, and long slurred/tied phrases against bell-like piano writing. Performance notes request a closed C-sharp fingering in bars 36–37. Added the exact Prayer recording by Jeroen D’Hoe and Kugoni Trio after verifying Spotify’s track title. The catalog purchase already points to the correct saxophone trio; the older 22176 research reference concerns a clarinet arrangement. Sources: https://webshop.donemus.com/action/front/sheetmusic/20960/Prayer ; https://open.spotify.com/track/07AAjFuxFBN7aaBuChZYVt . Full transposed saxophone part remains uninspected; audio not auditioned.

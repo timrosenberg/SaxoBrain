@@ -3,8 +3,8 @@ title: "Review 0212: Jun Nagao - Lovers on the Celestial Sphere"
 added: 2026-10-11
 review-id: 212
 review-packet: 9
-review-decision: Pending
-review-applied: false
+review-decision: "Third Year"
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Jun Nagao - Lovers on the Celestial Sphere]]"
 build:
@@ -19,6 +19,11 @@ build:
 
 > [!info] Your Decision
 > Record your choice in `review-decision`, or give it to Codex in chat using this work’s number. The catalog changes only when you ask Codex to apply the decision or edit the catalog entry yourself.
+
+
+## Applied Decision, October 12, 2026
+
+Tim assigned Third Year.
 
 ## Research
 
@@ -49,4 +54,9 @@ Catalog: [Jun Nagao - Lovers on the Celestial Sphere.md](/Users/trosenberg/Docum
 - Only an opening score leaf and preface were available in the public sample; the remainder of the duo score was not inspected.
 - The later band study-score timing differs slightly from Zen-On’s original chamber-work estimate.
 
-**Tim decision:** pending.
+**Tim decision:** Third Year.
+
+
+#### Follow-up for chat batch 4, October 12, 2026
+
+Zen-On’s official product page reconfirms the soprano/tenor/piano commission and October 2005 premiere, with approximately 12-minute duration. Added a direct performer-posted SoundCloud recording: Jia-Yu Yang saxophone recital, Nolan Thomas tenor saxophone, Rachel Aubuchon piano, April 28, 2017 at UNCG. Sources: https://shop.zen-on.co.jp/item/detail/560015/ ; https://soundcloud.com/user-538979524-385415459/jun-nagao-lovers-on-the-celestial-sphere-for-soprano-saxophone-tenor-saxophone-and-piano . Notation observations remain limited to the previously inspected opening score leaf in Zen-On’s four-page sample. Audio not auditioned.
