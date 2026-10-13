@@ -5,19 +5,32 @@ composer:
   - "[[Aubert Lemeland]]"
 instruments:
   - "Soprano Saxophone"
+  - "Piano"
 composed: 
-year-of-study: 
+year-of-study: "Third Year"
 streaming: 
 purchase:
-  - https://www.grothmusic.com/p-63668.aspx
+  - "https://www.grothmusic.com/p-63668.aspx"
+  - "https://www.billaudot.com/gb3218-6.html"
 added: 2025-04-18
 research:
   - "Catalogued as 'Epitaph to John Coltrane', Op. 86, for B-flat soprano saxophone and piano, Billaudot 1981, about 5 minutes · https://www.nypl.org/research/research-catalog/bib/b10912519"
+  - "Current editionGB3218, BB sax+piano, named teaching collection and publisher label · https://www.billaudot.com/gb3218-6.html"
+  - "Soprano+piano, op 86, publication 1981, circa 5 min, dedication · https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf"
+  - "Distributor 524-03112 identifies soprano · https://www.tpcfassets.com/presser/catalogs/Presser_Fischer_Woodwind_catalog.pdf"
+  - "Three movement headings, tempi and alternating 3/8–5/8 described in teacher-authored guide · https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf"
 publisher:
   - "Éditions Billaudot"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat batch 06 follow-up, 2026-10-12
+
+Publisher-distributor and conservatoire records confirm soprano and piano, correcting the missing piano tag. A saxophone-teacher guide describes expressive outer movements and an alternating 3/8–5/8 middle movement. No score or exact-work Listen was verified; composition year remains unknown.
+
+[[Review 0017 - Aubert Lemeland - Epitaph for John Coltrane|Full evidence and open questions]]
+
 
 - Catalogued as 'Epitaph to John Coltrane', Op. 86, for B-flat soprano saxophone and piano, Billaudot 1981, about 5 minutes · [nypl.org](https://www.nypl.org/research/research-catalog/bib/b10912519)
 

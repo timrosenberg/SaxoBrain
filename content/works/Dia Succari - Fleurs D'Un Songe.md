@@ -10,13 +10,27 @@ composed:
 year-of-study: 
 streaming: 
 purchase:
-  - https://www.grothmusic.com/p-38111.aspx
+  - "https://www.grothmusic.com/p-38111.aspx"
+  - "Alto saxophone and piano, AL28899 · https://www.laflutedepan.com/partition/1029602/dia-succari-fleurs-d-un-songe-partition-saxophone-alto-et-piano.html"
 added: 2024-03-08
 research:
   - "Publisher Alphonse Leduc, catalog number AL28899 · https://www.grothmusic.com/p-38111.aspx"
+  - "AL28899 alto saxophone/piano edition; first page dedication Daniel Gremelle, duration 5:10, copyright 1994, common-time Andante expressif quarter = 66; ties/slurs, mp/f/ff and flowing active piano. · https://www.img-music.com/links/jpg/al28899_0001029602_003.jpg"
+  - "Exact alto saxophone and piano edition, AL28899 / ISMN 9790046288999. · https://www.laflutedepan.com/partition/1029602/dia-succari-fleurs-d-un-songe-partition-saxophone-alto-et-piano.html"
+  - "Publication1994 and duration 5:10; no original composition date supplied. · https://windmusic.org/index.php?id=11634&lvl=notice_display"
+  - "Title/instrumentation matches Fleurs d’un songe, alto saxophone/piano; upload describes June 2021 end-of-second-cycle saxophone examination, but lacks composer/edition credit. · https://www.youtube.com/watch?v=q6dM2epebZM"
 aliases: []
+publisher:
+  - "Alphonse Leduc"
 ---
 ## Research notes (private)
+
+### Chat batch 08 follow-up, 2026-10-13
+
+The AL28899 opening verifies a 5:10 alto/piano piece dedicated to Daniel Gremelle. Andante expressif at quarter = 66 uses tied/slurred sax phrasing over active piano. One page was inspected; written range is unverified. Publication 1994 is established; composition claims conflict. A second-cycle exam video needs composer confirmation. [Score](https://www.img-music.com/links/jpg/al28899_0001029602_003.jpg) · [Edition](https://www.laflutedepan.com/partition/1029602/dia-succari-fleurs-d-un-songe-partition-saxophone-alto-et-piano.html) · [Recording candidate](https://www.youtube.com/watch?v=q6dM2epebZM).
+
+[[Review 0073 - Dia Succari - Fleurs D'Un Songe|Full evidence and open questions]]
+
 
 - Publisher Alphonse Leduc, catalog number AL28899 · [grothmusic.com](https://www.grothmusic.com/p-38111.aspx)
 

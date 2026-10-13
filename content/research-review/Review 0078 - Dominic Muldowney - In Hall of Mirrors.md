@@ -30,3 +30,19 @@ Catalog: [[Dominic Muldowney - In Hall of Mirrors]]
 - Collection/use: Publisher search result labels the edition easy, while RIAM lists it on the Associate Diploma performer syllabus. The syllabus requires a varied recital no longer than 30 minutes; the piece is not marked as a required starred item. This is documented context, not a level recommendation.
 - Review focus: No score-based focus assigned. The publisher's 'easy' label and a syllabus appearance warrant checking the exact score and syllabus requirements before drawing a fit conclusion.
 - Gaps: No readable score sample, recording, or syllabus-linked performance was inspected; reconcile the publisher label with the diploma listing through direct score review.; The title differs between the catalog file (*In Hall of Mirrors*) and publisher title (*In a Hall of Mirrors*).
+
+## Chat batch 08 follow-up, 2026-10-13
+
+Schott’s edition page confirms John Harle as editor, alto and piano, UE17776, and an easy label. ABRSM’s 2023 LRSM saxophone repertoire list includes the complete titled work. This is diploma-use evidence independent of the shop label. Antwerp Conservatory library lists composition 1983 and publication 1988. An indexed first-performance chronology reports Harle/Lenehan performing it on 3 February 1980; that chronology PDF was not opened. The composition year needs resolution.
+
+Collection context: Original saxophone recital work represented in professional recordings and a diploma syllabus. Universal Saxophone Edition is a series designation; no simplified version established.
+
+Open questions: Catalog title In Hall of Mirrors omits a; edition title is In a Hall of Mirrors. Flag title correction for Tim. Composition 1983 in library conflicts with documented 1980 performance and performer-repertoire 1979 lead. Keep composed blank. No score notation inspected. Written range, technique and ensemble demands remain unknown. Do not translate easy label into a study placement.
+
+Sources checked:
+- [Schott Music London](https://schottmusiclondon.com/in-a-hall-of-mirrors-no98498.html): Alto and piano, UE17776, John Harle editor, easy shop label. (opened)
+- [Associated Board of the Royal Schools of Music](https://www.abrsm.com.tw/diploma/from2024/music%20performance/LRSM/Saxophone%20LRSM%20Repertoire.pdf): Work appears in November 2023 LRSM saxophone diploma repertoire. (opened)
+- [Simon Haram Topic, Universal Music Group release](https://www.youtube.com/watch?v=5gBGSNis27M): Exact 1997 Haram/Mitchell performance publicly playable. (opened)
+- [John Harle official discography](https://www.johnharle.com/discography.htm): Harle/Lenehan live track confirmed by performer. (opened)
+- [Antwerp Conservatory library saxophone holdings](https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf): Library claims composition 1983, publication 1988, 6 minutes. (opened)
+- [MusicWeb, First Musical Performances London 1900–2000](https://musicwebinternational.com/wp-content/uploads/2024/08/London-first-performances.pdf): Harle and Lenehan performed the work 3 February 1980 atPurcell Room. (search_index_only)

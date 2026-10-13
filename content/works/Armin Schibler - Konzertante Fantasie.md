@@ -7,16 +7,29 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
+year-of-study: "Third Year"
 streaming: 
 purchase:
-  - https://www.grothmusic.com/p-139885.aspx
+  - "https://www.grothmusic.com/p-139885.aspx"
+  - "https://www.bodensee-musikversand.de/product_info.php?products_id=234921"
 added: 2024-03-08
 research:
   - "Boosey & Hawkes lists Konzertante Fantasie for alto saxophone and piano · https://www.boosey.com/shop/directory/product/composer/Schibler-Armin/Schibler,%20Armin"
+  - "Original scoring, formal design, classical solo style, jazz-influenced accompaniment and premiere; catalog duration 19 minutes · https://www.arminschibler.ch/multimedia/DasWerk1986.pdf"
+  - "1977–78 composition; 1979 Eulenburg edition; 16:30 duration · https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf"
+  - "Current Kunzelmann GM902 piano reduction · https://www.bodensee-musikversand.de/product_info.php?products_id=234921"
 aliases: []
+publisher:
+  - "Edition Kunzelmann"
 ---
 ## Research notes (private)
+
+### Chat batch 06 follow-up, 2026-10-12
+
+Schibler’s own commentary supplies the missing musical profile: a classical saxophone line meets jazz-derived piano/percussion rhythm through fast, slow and Agitato sections. GM902 is the piano reduction of an original concerto. No notation or playable Listen verified; published durations disagree.
+
+[[Review 0012 - Armin Schibler - Konzertante Fantasie|Full evidence and open questions]]
+
 
 - Boosey & Hawkes lists Konzertante Fantasie for alto saxophone and piano · [boosey.com](https://www.boosey.com/shop/directory/product/composer/Schibler-Armin/Schibler,%20Armin)
 

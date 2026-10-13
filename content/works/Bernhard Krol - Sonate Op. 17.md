@@ -6,20 +6,31 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
-year-of-study: 
-streaming: 
+composed: 1954
+year-of-study: "Second Year"
+streaming: "https://www.eda-records.com/index.php?article_id=177&cd_id=68"
 purchase:
   - "https://www.grothmusic.com/p-143741.aspx"
   - "https://www.sheetmusicplus.com/title/Sonate-op-17/18162692"
 added: 2024-03-08
 research:
   - "Recorded by Frank Lunte (alto saxophone) and Tatjana Blome (piano) on the anthology Musik für Saxophon aus Deutschland 1952-1969, about 13:39 · https://www.prestomusic.com/classical/composers/3671--krol"
+  - "FH3129, alto and piano edition · https://www.hofmeister-musikverlag.com/holzblaeser_03-2025/"
+  - "1954 date, movement descriptions, provenance and Lunte/Blome recording · https://www.eda-records.com/index.php?article_id=177&cd_id=68"
+  - "Work-specific tracks and durations; Frank Lunte and Tatjana Blome · https://www.qobuz.com/fi-en/album/music-for-saxophone-from-germany-1952-1969-frank-lunte-and-tatjana-blome/apkaus9vp2u4d"
+  - "Institutional saxophone performance repertoire includes Sonate op.17 · https://www.conservatoriobraga.it/public/SAXOFONO-biennio-prog.pdf"
 publisher:
   - "Friedrich Hofmeister"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat batch 06 follow-up, 2026-10-12
+
+Hofmeister FH3129 is confirmed for alto and piano. EDA’s performer-authored notes explain staccato/piano exchange, lyrical Maestoso and a 6/8 fugal finale, with label-hosted listening samples. No notation was inspected; the primary label dates the work 1954, which should be checked against the complete score.
+
+[[Review 0022 - Bernhard Krol - Sonate Op. 17|Full evidence and open questions]]
+
 
 - Recorded by Frank Lunte (alto saxophone) and Tatjana Blome (piano) on the anthology Musik für Saxophon aus Deutschland 1952-1969, about 13:39 · [prestomusic.com](https://www.prestomusic.com/classical/composers/3671--krol)
 

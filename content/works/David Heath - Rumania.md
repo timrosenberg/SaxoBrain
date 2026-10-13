@@ -5,16 +5,35 @@ composer:
   - "[[David Heath]]"
 instruments:
   - "Soprano Saxophone"
+  - "Tenor Saxophone"
+  - "Piano"
 composed: 1979
 year-of-study: 
-streaming: 
-purchase: []
+streaming: "https://www.youtube.com/watch?v=_BsiCZY4X1I"
+purchase:
+  - "Soprano saxophone and piano, CP55122 · https://www.prestomusic.com/sheet-music/products/7012620--dave-heath-rumania"
 added: 2025-04-18
 research:
   - "Subject of a performer's guide dissertation (Lindsey Nicole O'Connor, Univ. of Nebraska-Lincoln) with Out of the Cool and Coltrane · https://digitalcommons.unl.edu/dissertations/AAI28086446"
+  - "Original Rumania 1979 violin/flute and piano; Kennedy/Lenehan premiere 1982; episodic structure, free slow rhythm, essential sustained/blurred piano pedalling and named musical influences. · https://www.wisemusicclassical.com/work/820/Rumania--David-Heath/"
+  - "Rumania arranged for saxophone by Heath; doctoral performance/analysis study, July 2020; full text not accessed. · https://digitalcommons.unl.edu/musicstudent/146/"
+  - "Rumania for soprano or tenor, Chester, in the 2026 diploma repertoire list. · https://www.trinitycollege.com/resource?id=8548"
+  - "John Harle soprano / John Lenehan piano, 10:09, exact publicly available composer upload. · https://www.youtube.com/watch?v=_BsiCZY4X1I"
+  - "Exact soprano saxophone and piano edition, Chester CP55122, 32 pages. · https://www.prestomusic.com/sheet-music/products/7012620--dave-heath-rumania"
 aliases: []
+publisher:
+  - "Chester Music"
+arranger-edition:
+  - "David Heath"
 ---
 ## Research notes (private)
+
+### Chat batch 08 follow-up, 2026-10-13
+
+Rumania (1979) is Heath’s own saxophone adaptation of a violin/flute and piano work. His program note calls for episodic contrasts, rhythmic freedom in slow sections, and precise sustaining/blurred piano pedalling. The composer’s Harle/Lenehan soprano recording is verified. Trinity’s 2026 list accepts soprano or tenor. No sax notation was inspected, and the detailed dissertation remains inaccessible. [Program note](https://www.wisemusicclassical.com/work/820/Rumania--David-Heath/) · [Listen](https://www.youtube.com/watch?v=_BsiCZY4X1I) · [Trinity p.3](https://www.trinitycollege.com/resource?id=8548).
+
+[[Review 0066 - David Heath - Rumania|Full evidence and open questions]]
+
 
 - Subject of a performer's guide dissertation (Lindsey Nicole O'Connor, Univ. of Nebraska-Lincoln) with Out of the Cool and Coltrane · [digitalcommons.unl.edu](https://digitalcommons.unl.edu/dissertations/AAI28086446)
 

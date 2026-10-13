@@ -31,3 +31,16 @@ Catalog: [[Dietrich Erdmann - Concerto]]
 - Collection/use: Full orchestra concerto documented, with both soprano and alto saxophone solo parts; do not conflate it with the shorter 1988 Concert Piece.
 - Review focus: Inference from the article: review should account for two solo instruments, the four-movement span, cadenza, extended sound effects, and interaction with percussion and orchestra. No notation inspected.
 - Gaps: No score notation inspected; verify the available soprano/alto part options and exact piano-reduction contents in the edition.; Article's analysis is a secondary source, not the score or a performance recording.
+
+## Chat batch 08 follow-up, 2026-10-13
+
+Groth explicitly identifies soprano saxophone doubling alto and piano, with score and solo part, 45 pages. Nico Schüler distinguishes this four-movement full concerto from the separate 1988 Concert Piece. He describes a solo cadenza, pizzicato/laugh effects, overblowing chords, chromatic tonal shifts and minor-second motives.
+
+Collection context: Full concerto with professional solo-instrument doubling; piano reduction is the purchasable catalog edition.
+
+Open questions: Current instruments omit Alto Saxophone and Piano. Append both for the verified reduction; do not remove Soprano Saxophone. No readable score notation found; instrument-switch locations and full written ranges remain unknown. Listen points to movement IV only; separate movement I and III links are also verified. Movement II remains unverified.
+
+Sources checked:
+- [Groth Music](https://www.grothmusic.com/p-143407.aspx): RE11390 is soprano doubling alto with piano, 45 pages, score and solo part. (opened)
+- [Nico Schüler, Modernism in Color](https://zurnalai.lmta.lt/wp-content/uploads/2023/01/MKP_III_Nico-Schuler.pdf): 1989 concerto uses soprano and alto in four movements, distinct from 1988 Concert Piece; premiere 4 December 1989; cadenza and sound effects discussed. (opened)
+- [Release Topic, Zebralution-supplied YouTube release](https://www.youtube.com/watch?v=mAA4JbK7Yq8): Fourth movement public and matched to Detlef Bensmann/Thüringen Philharmonie Suhl orchestra version. (opened)

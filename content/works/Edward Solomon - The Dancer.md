@@ -10,14 +10,27 @@ composed:
 year-of-study: 
 streaming: 
 purchase:
-  - https://www.grothmusic.com/p-143139.aspx
+  - "https://www.grothmusic.com/p-143139.aspx"
+  - "https://www.halleonard.com/product/3776251/the-dancer"
 added: 2024-03-08
 research:
   - "Publisher Southern, catalog number SU352 · https://www.grothmusic.com/p-143139.aspx"
   - "Listed as Dancer; page lists the composer as Ed Solomon · https://www.grothmusic.com/p-143139.aspx"
+  - "Southern Music SU352 / HL03776251, Edward Solomon, Level 1, four pages. · https://www.halleonard.com/product/3776251/the-dancer"
+  - "Piano score and alto saxophone part. · https://www.grothmusic.com/p-143139-dancer-alto-saxophone-and-piano.aspx"
+  - "Exact SU352 edition described as a graceful waltz and a young alto saxophonist’s first solo. · https://www.all-sheetmusic.com/Wind-Instruments/Saxophone/The-Dancer.html"
 aliases: []
+publisher:
+  - "Southern Music Company"
 ---
 ## Research notes (private)
+
+### Chat batch 08 follow-up, 2026-10-13
+
+Solomon, The Dancer: Southern Music’s [publisher page](https://www.halleonard.com/product/3776251/the-dancer) confirms SU352, four pages and its Level 1 descriptor. The [exact retailer page](https://www.all-sheetmusic.com/Wind-Instruments/Saxophone/The-Dancer.html) describes a graceful waltz intended as a young alto player’s first solo. That explicit audience context is useful for scope review. No notation or playable exact performance was available to establish the musical demands.
+
+[[Review 0086 - Edward Solomon - The Dancer|Full evidence and open questions]]
+
 
 - Publisher Southern, catalog number SU352 · [grothmusic.com](https://www.grothmusic.com/p-143139.aspx)
 - Listed as Dancer; page lists the composer as Ed Solomon · [grothmusic.com](https://www.grothmusic.com/p-143139.aspx)

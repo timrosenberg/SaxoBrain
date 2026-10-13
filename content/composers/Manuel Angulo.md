@@ -1,14 +1,16 @@
 ---
-title: "Manuel Angulo"
+title: Manuel Angulo
 slug: manuel-angulo
 nationality:
-gender:
+  - 🇪🇸 Spanish
+gender: Male
 race:
-born: 
-died: 
-wikidata: 
-photo: 
-photo-credit: 
-photo-source: 
+  - White
+born: 1930
+died: 2026
+wikidata:
+photo: "/media/composers/manuel-angulo.jpg"
+photo-credit:
+photo-source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfsSA3yP1B0uSba1bITZJq_Tmsg5IfY_I-jB1gIgNuTfEdS3T7i6-MP1g&s=10
 aliases: []
 ---

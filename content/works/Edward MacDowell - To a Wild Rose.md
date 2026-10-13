@@ -12,14 +12,27 @@ arranger-edition:
   - "Randall Hall"
 streaming: 
 purchase:
-  - https://www.grothmusic.com/p-145581.aspx
+  - "https://www.grothmusic.com/p-145581.aspx"
+  - "https://www.grothmusic.com/p-145581-to-a-wild-rose-alto-saxophone-and-piano.aspx"
 added: 2024-03-08
 research:
   - "Publisher Dorn Publications, catalog number DORN1345 · https://www.grothmusic.com/p-145581.aspx"
   - "Arranged by Richard Hall; 5 pages · https://www.grothmusic.com/p-145581.aspx"
+  - "Dorn DORN1345 is five pages, arranged by Richard Hall for alto saxophone and piano. · https://www.grothmusic.com/p-145581-to-a-wild-rose-alto-saxophone-and-piano.aspx"
+  - "The printed opening labels Alto Saxophone and credits Richard D. Hall; copyright 2003. Opening notation as described. · https://grothmusic.com/images/product/large/ae00-126443_2_.jpg"
+  - "Hall lists the E-flat saxophone and piano arrangement with dates 1896, 2001. · https://richallmusic.com/Works/Vocal-Solo.html"
 aliases: []
+publisher:
+  - "Dorn Publications"
 ---
 ## Research notes (private)
+
+### Chat batch 08 follow-up, 2026-10-13
+
+MacDowell, To a Wild Rose: the Dorn sample directly credits Richard D. Hall, while the existing arranger field says Randall Hall. Hall’s own catalog dates the arrangement to 2001; the printed score is ©2003. The opening has four piano-only bars, then lyrical alto phrases with ties, rests and hairpins over sustained chords. [Inspected score](https://grothmusic.com/images/product/large/ae00-126443_2_.jpg). A separately cataloged Coggins student-course edition should remain distinct. No exact Hall-edition listening link or full written range was verified.
+
+[[Review 0084 - Edward MacDowell - To a Wild Rose|Full evidence and open questions]]
+
 
 - Publisher Dorn Publications, catalog number DORN1345 · [grothmusic.com](https://www.grothmusic.com/p-145581.aspx)
 - Arranged by Richard Hall; 5 pages · [grothmusic.com](https://www.grothmusic.com/p-145581.aspx)

@@ -2,6 +2,30 @@
 title: "SaxoBrain"
 # Retired work URLs redirect to the repertoire catalog.
 aliases:
+  - /works/caix-d-hervelois-plainte-napolitana/
+  - /works/caix-d-hervelois-prelude-allegro/
+  - /works/carl-maria-von-weber-romance/
+  - /works/carl-reinecke-priere-du-soir/
+  - /works/carson-cooman-fantasia-on-american-hymns/
+  - /works/cecil-effinger-solitude/
+  - /works/charles-smith-metamorphosis-ii/
+  - /works/charles-w-smith-metamorphosis-ii/
+  - /works/charley-gerard-confluence/
+  - /works/clair-leonard-recitative-abracadabra/
+  - /works/clare-loveday-just-a-bite/
+  - /works/clare-loveday-wind-play/
+  - /works/claude-debussy-beau-soir/
+  - /works/claude-pichaureau-rafflesia-ssx-asx/
+  - /works/karlheinz-pichaureau-rafflesia-ssx-asx/
+  - /works/cecile-chaminade-reve-d-un-soir/
+  - /works/andre-vergauwen-pantomime/
+  - /works/anne-marie-mimet-complainte/
+  - /works/armando-ghidoni-paysages/
+  - /works/armando-ghidoni-piece-breve/
+  - /works/arnold-franchetti-sonata/
+  - /works/bernard-wystraete-alphonic/
+  - /works/bernard-wystraete-saxaubade/
+  - /works/bryan-kelly-don-quixote-suite/
   - /works/henri-rabaud-solo-de-concours/
   - /works/george-frideric-handel-adagio-and-allegro/
   - /works/alain-gagnon-fantasie-lyrique/

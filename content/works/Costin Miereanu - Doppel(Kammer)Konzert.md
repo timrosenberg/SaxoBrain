@@ -8,7 +8,7 @@ instruments:
   - "Percussion"
   - "Orchestra"
 composed: 1985
-year-of-study: 
+year-of-study: "Fourth Year"
 arranger-edition: 
 publisher:
   - "Salabert"
@@ -17,9 +17,18 @@ purchase: []
 added: 2026-10-09
 research:
   - "Wikipedia lists 'Doppel(kammer)konzert, for saxophone, percussion, and chamber orchestra (1985)' · https://en.wikipedia.org/wiki/Costin_Miereanu"
+  - "Composition, duration, instrumentation, commissioning and premiere. · https://www.durand-salabert-eschig.com/-/media/Images/DSE/PDFs/Brochures/M/miereanu_costin.ashx?hash=DB3940F1A0022C98EE93628A8FA342AAB67BA94A&la=en-GB"
+  - "Hire-symbol interpretation for orchestral materials. · https://www.durand-salabert-eschig.com/-/media/Images/DSE/PDFs/Brochures/M/miereanu_costin.ashx?hash=DB3940F1A0022C98EE93628A8FA342AAB67BA94A&la=en-GB"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat batch 07 follow-up, 2026-10-13
+
+Miereanu’s original 16:40 double concerto pairs saxophonist and percussionist with chamber orchestra. [Salabert’s catalog](https://www.durand-salabert-eschig.com/-/media/Images/DSE/PDFs/Brochures/M/miereanu_costin.ashx?hash=DB3940F1A0022C98EE93628A8FA342AAB67BA94A&la=en-GB) verifies the 1985 Metz premiere and hire materials. The saxophonist role spans multiple instruments. No actual score or exact recording was available, so instrument changes and detailed demands remain open.
+
+[[Review 0059 - Costin Miereanu - Doppel(Kammer)Konzert|Full evidence and open questions]]
+
 
 - Wikipedia lists 'Doppel(kammer)konzert, for saxophone, percussion, and chamber orchestra (1985)' · [en.wikipedia.org](https://en.wikipedia.org/wiki/Costin_Miereanu)
 

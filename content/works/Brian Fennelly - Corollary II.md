@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
+year-of-study: "Third Year"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-140140.aspx
@@ -15,9 +15,21 @@ added: 2024-03-08
 research:
   - "Publisher and catalog no.: Dorn Publications DORN0162 · https://www.grothmusic.com/p-140140.aspx"
   - "Develops material from the composer's Fantasy Variations for orchestra; dedicated to and premiered by David Pituch with the composer; about eight minutes · https://www.grothmusic.com/p-140140.aspx"
+  - "Dorn item 162, alto saxophone/piano edition · https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf"
+  - "Single movement, David Pituch origin/premiere, reuse of own orchestral themes,1988 authored-or-revised/publication fields and archival status · https://composers.com/products/fennelly-corollary-ii-for-saxophone-and-piano"
+  - "Published score in box 1221, alto and piano · https://nyplorg-data-archives.s3.amazonaws.com/uploads/collection/generated_finding_aids/mus24605.pdf"
 aliases: []
+publisher:
+  - "Dorn Publications"
 ---
 ## Research notes (private)
+
+### Chat batch 06 follow-up, 2026-10-12
+
+Dorn item 162 is confirmed for alto and piano. ACA identifies a single expressive/athletic movement written for David Pituch using Fennelly’s own orchestral themes. ACA’s archival request and NYPL box 1221 provide score-access leads; no notation or recording was verified, and original composition date remains unresolved.
+
+[[Review 0029 - Brian Fennelly - Corollary II|Full evidence and open questions]]
+
 
 - Publisher and catalog no.: Dorn Publications DORN0162 · [grothmusic.com](https://www.grothmusic.com/p-140140.aspx)
 - Develops material from the composer's Fantasy Variations for orchestra; dedicated to and premiered by David Pituch with the composer; about eight minutes · [grothmusic.com](https://www.grothmusic.com/p-140140.aspx)

@@ -7,7 +7,7 @@ instruments:
   - "Baritone Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
+year-of-study: "Second Year"
 streaming: "http://c-alanpublications.com/fusion-suite/"
 purchase:
   - https://www.grothmusic.com/p-39046.aspx
@@ -15,9 +15,22 @@ purchase:
 added: 2024-02-21
 research:
   - "C. Alan Publications grade: Medium; duration 12:15; three movements; dedicated to Lynn Klock, UMass Amherst; leans toward jazz-rock fusion · http://c-alanpublications.com/fusion-suite/"
+  - "Bari/piano, Medium, 12:15, dedication and program concept. · https://c-alanpublications.com/fusion-suite/"
+  - "Movement I tempo, rhythms, dynamics and copyright. · https://cdn10.bigcommerce.com/s-uhegu0/products/1631/images/5172/Fusion_Suite_Page_1__72497.1428335090.1280.1280.jpg?c=2"
+  - "Continuation of movement I saxophone/piano writing. · https://cdn10.bigcommerce.com/s-uhegu0/products/1631/images/5177/Fusion_Suite_Page_2__09671.1428335097.1280.1280.jpg?c=2"
+  - "Klock/McMichael recording on 2010 world-premiere album. · https://www.albanyrecords.com/catalog/troy1182/"
 aliases: []
+publisher:
+  - "C. Alan Publications"
 ---
 ## Research notes (private)
+
+### Chat batch 07 follow-up, 2026-10-13
+
+Fusion Suite’s first two musical pages are inspectable. Fusion opens at quarter note 92 with tied syncopations, slurred figures, accidentals, and changing dynamics in dialogue with piano. C. Alan labels the bari edition Medium and 12:15. Albany confirms Klock with McMichael on Connections. The remaining movements and full compass still need inspection. Score and publisher audio: https://c-alanpublications.com/fusion-suite/; named professional recording: https://www.albanyrecords.com/catalog/troy1182/.
+
+[[Review 0039 - Catherine McMichael - Fusion Suite|Full evidence and open questions]]
+
 
 - C. Alan Publications grade: Medium; duration 12:15; three movements; dedicated to Lynn Klock, UMass Amherst; leans toward jazz-rock fusion · [c-alanpublications.com](http://c-alanpublications.com/fusion-suite/)
 

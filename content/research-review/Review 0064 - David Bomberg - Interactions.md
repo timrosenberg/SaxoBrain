@@ -42,3 +42,16 @@ Catalog: [David Bomberg - Interactions.md](/Users/trosenberg/Documents/GitHub/Sa
 - Original versus arrangement status is unresolved.
 
 **Tim decision:** pending.
+
+## Chat batch 08 follow-up, 2026-10-13
+
+Groth Music confirms the exact soprano saxophone and piano edition, Dorn DORN0136. Tom Bergeron lists Interactions as a 1980 composition, published by Dorn in 1981, in Saxophone Multiphonics: A Scalar Model. His work index associates it with four coded multiphonic combinations. These are four distinct indexed combinations, not evidence of four occurrences. The J.W. Pepper description explicitly identifies itself as AI-assisted with no human-written description available. Its qualitative claims are excluded from the musical-demand assessment.
+
+Collection context: Individual accompanied piece; multiphonics documented by a technical reference. No youth simplification or teaching commission verified.
+
+Open questions: No publicly readable score preview or exact performance recording located after title/composer/instrument searches. Multiphonic placement, written range, rhythm, articulation, pacing and piano demands cannot be established without the score. Original saxophone composition versus adaptation remains undocumented.
+
+Sources checked:
+- [Groth Music product record](https://www.grothmusic.com/p-141738.aspx): Exact edition is soprano saxophone and piano, Dorn DORN0136. (opened)
+- [Tom Bergeron, Saxophone Multiphonics: A Scalar Model](https://tombergeron.us/download/sax-multiphonics.pdf): 1980 composition, Dorn 1981 publication; four coded multiphonic combinations indexed. (opened)
+- [J.W. Pepper product record](https://www.jwpepper.com/interactions-soprano-sax-piano-7480072/p): Qualitative description is explicitly AI-assisted and lacks a human-written source. (search_index_only)

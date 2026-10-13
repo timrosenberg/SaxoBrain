@@ -5,17 +5,28 @@ composer:
   - "[[Doïna Rotaru]]"
 instruments:
   - "Soprano Saxophone"
-composed: 
+composed: 1996
 year-of-study: 
-streaming: 
+streaming: "https://www.youtube.com/watch?v=xLCXpT_g4Hc"
 purchase:
   - "https://www.boosey.com/shop/prod/Rotaru-Doina-Legend-II-soprano-saxophone-solo-or-oboe-score/2172084"
 added: 2025-04-18
 research:
   - "Published by Lemoine, listed for soprano saxophone solo or oboe · https://www.boosey.com/shop/prod/Rotaru-Doina-Legend-II-soprano-saxophone-solo-or-oboe-score/2172084"
+  - "Legend II1996 for solo oboe, about 9 minutes. · https://cimec.ro/artele-spectacolului/doina-rotaru/"
+  - "Single movement 9 minutes; bisbigliando, quarter tones, flutter tongue, glissando, voice effects, multiphonics, time-based writing, circular breathing. · https://es.scribd.com/document/530056924/NUEVAS-GRAFIAS-EN-LOS-ESTUDIOS-DE-SAXOFON-ANDALUCIA"
 aliases: []
+publisher:
+  - "Henry Lemoine"
 ---
 ## Research notes (private)
+
+### Chat batch 08 follow-up, 2026-10-13
+
+Legend II is contemporary solo soprano repertoire with an exact public Salamanca graduation-recital recording by Antonio García Jorge. Browser playback works and shows a straight saxophone. The composition is dated 1996; the Lemoine edition copyright is 1998. Zagalaz’s thesis reports quarter tones, multiphonics, flutter tongue, glissandos and circular-breathing passages. That analysis supplies demands without pretending to inspect the score. The oboe/soprano origin chronology and complete written range remain open.
+
+[[Review 0080 - Doïna Rotaru - Legend 2|Full evidence and open questions]]
+
 
 - Published by Lemoine, listed for soprano saxophone solo or oboe · [boosey.com](https://www.boosey.com/shop/prod/Rotaru-Doina-Legend-II-soprano-saxophone-solo-or-oboe-score/2172084)
 

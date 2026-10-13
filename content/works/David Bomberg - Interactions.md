@@ -5,6 +5,7 @@ composer:
   - "[[David Bomberg]]"
 instruments:
   - "Soprano Saxophone"
+  - "Piano"
 composed: 1980
 year-of-study: 
 streaming: 
@@ -13,9 +14,20 @@ purchase:
 added: 2025-04-18
 research:
   - "Publisher Dorn Publications, catalog number DORN0136 · https://www.grothmusic.com/p-141738.aspx"
+  - "Exact edition is soprano saxophone and piano, Dorn DORN0136. · https://www.grothmusic.com/p-141738.aspx"
+  - "1980 composition, Dorn 1981 publication; four coded multiphonic combinations indexed. · https://tombergeron.us/download/sax-multiphonics.pdf"
 aliases: []
+publisher:
+  - "Dorn Publications"
 ---
 ## Research notes (private)
+
+### Chat batch 08 follow-up, 2026-10-13
+
+Interactions is confirmed as soprano saxophone and piano, Dorn DORN0136. Bergeron’s technical reference dates composition to 1980 and publication to 1981, and indexes four multiphonic combinations on printed p.87. The score and exact sax recording remain unavailable, so their frequency, range and other demands are unknown. [Edition](https://www.grothmusic.com/p-141738.aspx) · [Multiphonics reference](https://tombergeron.us/download/sax-multiphonics.pdf).
+
+[[Review 0064 - David Bomberg - Interactions|Full evidence and open questions]]
+
 
 - Publisher Dorn Publications, catalog number DORN0136 · [grothmusic.com](https://www.grothmusic.com/p-141738.aspx)
 

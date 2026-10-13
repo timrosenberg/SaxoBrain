@@ -3,8 +3,8 @@ title: "Review 0026: Boris Mersson - Fantasia"
 added: 2026-10-11
 review-id: 26
 review-packet: 2
-review-decision: Pending
-review-applied: false
+review-decision: "Second Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Boris Mersson - Fantasia]]"
 build:
@@ -40,3 +40,22 @@ Open questions: Readable score preview and a matching saxophone recording were n
 Searches checked:
 - "Boris Mersson" "Fantasia" op. 37 saxophone score
 - Antwerp saxophone repertoire PDF Mersson Fantasia 1979
+
+## Chat batch 06 follow-up, 2026-10-12
+
+Antwerp Conservatory’s library catalogue identifies a 1979 composition, the 1981 Zurich Kunzelmann score and part, dedication to Iwan Roth, and facsimile handwriting. It separately lists a 1982 alto-saxophone/orchestra version. Publication dates are kept separate from composition. · https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf The Philharmonie guide describes the musical span as a slow introduction connected to a rhythmic Allegro. Specialist dealer Van Cott lists three sections headed Andantino cantabile, Allegretto con moto and Allegro; those are dealer descriptions, not observed notation. · https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf Conservatorio Niccolò Paganini includes Fantasia op.37 among alto-saxophone/piano concert repertoire. The curriculum confirms formal performance use, without assigning a SaxoBrain study level. · https://www.conspaganini.it/sites/default/files/Prassi%20Esecutiva,%20Tecnica%20e%20Repertorio%201%20e%202%20-%20SASSOFONO.pdf Indexed Presto catalogue identifies Kunzelmann GM937 as piano reduction. This remains an exact purchasing lead; the current publisher site presented a browser check. · https://www.prestomusic.com/sheet-music/products/7130800--mersson-boris-fantasie-fur-saxofon
+
+Collection context: Dedicated concert repertoire for saxophonist Iwan Roth, with a separately catalogued orchestral version and conservatory performance use. No evidence of a lyrical transcription intended for younger players.
+
+Open questions: No musical pages visually inspected; exact written range, rhythmic patterns, articulations and advanced techniques remain unknown. No matching saxophone recording found after exact title, composer, opus and video searches. GM937 is verified through the dealer search index rather than an opened current publisher product; existing Groth purchase link should be preserved until an exact current alternative opens. Guide’s broad slow-to-fast description and dealer’s three tempo headings need reconciliation in the full score.
+
+Sources checked:
+- [Royal Conservatoire Antwerp library saxophone catalogue](https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf): Composition1979; Kunzelmann 1981 score and part; dedication Iwan Roth;1982 orchestral version (opened)
+- [Philharmonie de Paris, 10 ans avec le saxophone](https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf): Slow section leads to rhythmic Allegro (opened)
+- [Van Cott Information Services saxophone catalogue, entryS326](https://vcisinc.com/saxophonemusic.htm): Dealer describes three tempo sections (opened)
+- [Conservatorio Niccolò Paganini performance syllabus](https://www.conspaganini.it/sites/default/files/Prassi%20Esecutiva,%20Tecnica%20e%20Repertorio%201%20e%202%20-%20SASSOFONO.pdf): Fantasia op.37 in saxophone/piano performance repertoire (opened)
+- [Presto Music exact Kunzelmann item](https://www.prestomusic.com/sheet-music/products/7130800--mersson-boris-fantasie-fur-saxofon): Kunzelmann GM937 piano-reduction edition (search_index_only)
+
+## Chat Batch 06 Decision, 2026-10-13
+
+Tim assigned Second Year.

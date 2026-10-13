@@ -3,10 +3,10 @@ title: "Review 0052: Clare Loveday - Just a Bite"
 added: 2026-10-11
 review-id: 52
 review-packet: 3
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Clare Loveday - Just a Bite]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [Clare Loveday - Just a Bite.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Clare Loveday - Just a Bite.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0052.json).
+Catalog: removed at Tim’s request on 2026-10-13.
 
 **Identity and findings.** Just a Bite (2011) is for alto saxophone and piano. The composer says it was commissioned by SAMRO for The Book Project, which targets young players at Grade 3-5; Gerber’s University of Pretoria bibliography independently gives the same duration and commission, and describes this edition as a manuscript available from the composer.
 
@@ -42,4 +42,23 @@ Catalog: [Clare Loveday - Just a Bite.md](/Users/trosenberg/Documents/GitHub/Sax
 - No verified saxophone performance recording located.
 - Gerber’s chart encodes meter, key signature, tempo, note value, rhythm, articulation and range, but the indexed extract does not provide a legend for its numeric scale; do not interpret the scores.
 
-**Tim decision:** pending.
+**Tim decision:** Removed.
+
+## Chat batch 07 follow-up, 2026-10-13
+
+The composer confirms 2011, alto saxophone and piano, 2 minutes, commissioned by SAMRO for The Book Project for young players at Grade 3–5 standard. That is the commission’s stated audience, not a university study-year recommendation. Noa Even’s performer repository independently lists alto/piano, 2011 and 2 minutes.
+
+Score observations: Attributed analysis, not score inspection: Gerber describes wide leaps, abrupt dynamics, syncopation and varied articulation; her stated top note is E6. No visual range check was made.
+
+Collection context: Verified youth-oriented original commission. It is not established as a simplified transcription. Its short duration and source-described articulation, leaps and rhythmic profile give Tim concrete evidence for collection judgment.
+
+Open questions: No musical score was visually inspected. Gerber’s E6 is an attributed report, not independently confirmed notation or a claim of altissimo. The 2019 bibliography identifies a composer manuscript; current sale, score-access arrangements and publication status remain unknown. No exact playable recording or premiere was verified. The composer’s Just So for clarinet/piano is a different work. The 2019 source identifies a manuscript, so public publisher metadata is withheld until current publisher or composer distribution is confirmed.
+
+Sources checked:
+- [Clare Loveday compositions](https://clareloveday.co.za/compositions.html): Composer confirms identity,2minute duration and youth-oriented Grade 3–5 commission. (opened)
+- [Noa Even saxophone repository](https://www.noaevenmusic.com/saxandpiano): Alto/piano, 2011,2 minutes. (opened)
+- [Karlien Gerber, University of Pretoria bibliography, 2019](https://repository.up.ac.za/bitstreams/c85ea27d-b97a-4b47-bfa6-266368d61904/download): Manuscript available from composer; wide leaps, dynamic changes, syncopation, varied articulation and E6 maximum reported. (opened)
+
+## Chat Batch 07 Decision, 2026-10-13
+
+Tim requested removal from the catalog. The private evidence log is retained.

@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
+year-of-study: "First Year"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-63663.aspx
@@ -15,9 +15,17 @@ added: 2024-03-08
 research:
   - "Publisher and catalog no.: Shawnee Press LA123 · https://www.grothmusic.com/p-63663.aspx"
   - "Duration about 6 minutes · https://www.grothmusic.com/p-63663.aspx"
+  - "Frackenpohl Variations named among alto solos needing copies for review · https://www.mshsaa.org/resources/pdf/Saxophone%20Solos.pdf"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat batch 06 follow-up, 2026-10-12
+
+MSHSAA’s request for a review copy verifies title and instrument without establishing current approved repertoire. Shawnee LA123 remains a dealer lead. No notation or exact-work Listen was verified, so musical demands and edition details remain open.
+
+[[Review 0015 - Arthur Frackenpohl - Variations|Full evidence and open questions]]
+
 
 - Publisher and catalog no.: Shawnee Press LA123 · [grothmusic.com](https://www.grothmusic.com/p-63663.aspx)
 - Duration about 6 minutes · [grothmusic.com](https://www.grothmusic.com/p-63663.aspx)

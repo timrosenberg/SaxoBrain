@@ -3,10 +3,10 @@ title: "Review 0045: Charles W. Smith - Metamorphosis II"
 added: 2026-10-11
 review-id: 45
 review-packet: 2
-review-decision: Pending
-review-applied: false
-notation-inspected: false
-catalog-entry: "[[Charles W. Smith - Metamorphosis II]]"
+review-decision: "Removed"
+review-applied: true
+notation-inspected: true
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog entry: [[Charles W. Smith - Metamorphosis II]].
+Catalog: removed at Tim’s request on 2026-10-13.
 
 Charles W. Smith, Metamorphosis II, assigned as Dorn DORN1518 for alto saxophone and piano. Dorn’s searchable catalogs identify DORN1518 as English horn and piano. Together with soprano-solo DORN0150 in record 44, this could reflect duplicate titles or multiple distinct arrangements; no score/title page settles it.
 [Groth Music, assigned product link](https://www.grothmusic.com/p-139740.aspx) (search_index_only): Assignment snapshot gives a Groth listing for alto saxophone and piano, catalog number DORN1518.
@@ -42,3 +42,22 @@ Proposed correction for review: ["Verify the assigned saxophone instrumentation 
 Searches checked:
 - DORN1518 Metamorphosis II saxophone piano Charles W Smith
 - DORN1518 English horn piano Dorn Publications
+
+## Chat batch 07 follow-up, 2026-10-13
+
+The exact assigned Groth page explicitly identifies alto saxophone or English horn with piano, 20 pages. The inspected musical page gives the composer’s full name as Charles W. Smith. Dorn’s April 2025 catalog lists 1518 in both alto-and-piano and English-horn-and-piano sections. The English horn crosslisting does not invalidate the alto entry. The inspected score opening is in C and is dedicated to Janet Schlief Payne and Randall Allan Smith. Its copyright is 1987; composition year is not established.
+
+Score observations: The visible page shows a 3/4 solo line at quarter note 144, with a lyrical character and a quiet, sorrowful beginning. Long slurs, half-note sustains, ties and phrase-breath commas predominate. Stepwise descending and returning shapes support an inference of phrase shaping and sustained tone demands in this opening. The page expressly says Score in C. Its concert-pitch solo line must not be reported as alto saxophone written range. Piano notation and later pages were not shown.
+
+Collection context: Published saxophone/piano edition with English horn alternative. No youth simplification claim is supported.
+
+Open questions: Do not replace the existing alto instrumentation with English horn only. The exact purchase page and publisher catalog support alto. The relationship of Dorn 150 and 1518 needs comparison of complete scores. Shared title, composer and similar edition lengths alone do not authorize merging pages. The existing composer page names Charles W. Smith and the edition confirms that name. The Charles Smith composer page attached to ID 44 may represent the same person, but no composer merge is proposed. Copyright 1987 is verified; original composition date, duration, complete saxophone range, piano demands and exact playable recording remain unverified.
+
+Sources checked:
+- [Groth Music](https://www.grothmusic.com/p-139740.aspx): Exact edition 1518 supports alto or English horn with piano, 20 pages. (opened)
+- [Dorn Publications catalog](https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf): 1518 appears under alto/piano and English horn/piano; 150 is a separate soprano/piano catalog listing. (opened)
+- [Dorn musical preview hosted by Groth](https://grothmusic.com/images/product/large/ae00-23687_2_.jpg): Full composer name, dedication, concert-pitch labeling, 3/4, quarter 144, slurs, ties and 1987 copyright. (score_inspected)
+
+## Chat Batch 07 Decision, 2026-10-13
+
+Tim requested removal from the catalog. The private evidence log is retained.

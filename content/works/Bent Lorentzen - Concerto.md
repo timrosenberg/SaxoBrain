@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Band"
 composed: 1986
-year-of-study: 
+year-of-study: "Third Year"
 streaming: 
 purchase: []
 library-recording:
@@ -16,9 +16,21 @@ added: 2025-04-21
 research:
   - "Scored for solo alto saxophone with winds, piano and percussion (2.2.2.2/2.2.2.1/timp, 3 perc, piano); Edition Wilhelm Hansen; about 23 minutes · https://www.wisemusicclassical.com/work/22267/Saxofonkoncert--Bent-Lorentzen/"
   - "Dedicated to David Pituch; program note says it uses the saxophone in a classical way alongside avant-garde techniques · https://www.wisemusicclassical.com/work/22267/Saxofonkoncert--Bent-Lorentzen/"
+  - "Scoring, duration, rental and Pituch’s musical commentary · https://www.wisemusicclassical.com/work/22267/Saxofonkoncert--Bent-Lorentzen/"
+  - "Completion 10 June 1986 and 6 March 1987 premiere · https://www.danishmusicologyonline.dk/downloads/dmo_04/Bent_Lorentzen_Vaerkfortegnelse_090512.pdf"
+  - "Warsaw Autumn performance 23 September 1989, Pituch and Danish Radio Symphony Orchestra under Segerstam · https://archiwumcyfrowe.polmic.pl/pub/material?id=3216"
 aliases: []
+publisher:
+  - "Edition Wilhelm Hansen"
 ---
 ## Research notes (private)
+
+### Chat batch 06 follow-up, 2026-10-12
+
+Pituch’s publisher-hosted commentary supplies a clear musical profile. Premiere and festival performance are verified. Score and playable Listen remain unavailable.
+
+[[Review 0018 - Bent Lorentzen - Concerto|Full evidence and open questions]]
+
 
 - Scored for solo alto saxophone with winds, piano and percussion (2.2.2.2/2.2.2.1/timp, 3 perc, piano); Edition Wilhelm Hansen; about 23 minutes · [wisemusicclassical.com](https://www.wisemusicclassical.com/work/22267/Saxofonkoncert--Bent-Lorentzen/)
 - Dedicated to David Pituch; program note says it uses the saxophone in a classical way alongside avant-garde techniques · [wisemusicclassical.com](https://www.wisemusicclassical.com/work/22267/Saxofonkoncert--Bent-Lorentzen/)

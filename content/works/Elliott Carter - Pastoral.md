@@ -10,13 +10,28 @@ composed: 1940
 year-of-study: 
 streaming: "https://www.youtube.com/watch?v=wXuQJv7xIOc"
 purchase:
-  - https://www.grothmusic.com/p-37610.aspx
+  - "https://www.grothmusic.com/p-37610.aspx"
+  - "https://www.ficksmusic.com/products/carter-pastoral-for-alto-saxophone-piano-presser"
 added: 2024-02-21
 research:
   - "Publisher Presser, catalog number 14440005D · https://www.grothmusic.com/p-37610.aspx"
+  - "Exact E-flat alto saxophone and piano version, 1940, ten minutes, version of English-horn Pastoral. · https://www.elliottcarter.com/compositions/pastoral-eb-alto-saxophone-and-piano/"
+  - "Original English horn/piano 1940, revision 1982, alternate clarinet/piano 1945, viola/piano 1948, and English horn or saxophone with marimba/strings. · https://www.elliottcarter.com/compositions/pastoral/"
+  - "Presser exact saxophone catalog 14440005D. · https://www.grothmusic.com/p-37610-pastoral-alto-sax-and-piano.aspx"
+  - "144-40005D, 20 pages, ISBN9781491108741, printed/digital variants. · https://www.ficksmusic.com/products/carter-pastoral-for-alto-saxophone-piano-presser"
+  - "Saxophonist’s attributed profile: Allegretto accelerates, Giocoso interrupts, reprise/cadenza-like passages and lively coda. His 1945 composition date is inconsistent with official 1940. · https://neilmcgovern.weebly.com/carter---pastoral.html"
 aliases: []
+publisher:
+  - "Merion Music (Theodore Presser)"
 ---
 ## Research notes (private)
+
+### Chat batch 08 follow-up, 2026-10-13
+
+Carter, Pastoral: the [composer’s saxophone catalog](https://www.elliottcarter.com/compositions/pastoral-eb-alto-saxophone-and-piano/) confirms 1940 and ten minutes. Saxophonist [Neil McGovern](https://neilmcgovern.weebly.com/carter---pastoral.html) describes a gradually accelerating Allegretto, a quirky Giocoso interruption, a grander reprise, cadenza-like episodes and a lively coda. His 1945 date conflicts with the composer’s date. The [existing Sara Zazo/Eduardo Moreno video](https://www.youtube.com/watch?v=wXuQJv7xIOc) is verified playable and explicitly alto saxophone/piano. The composer page’s English-horn audio is a separate version. Exact Presser 144-40005D has printed and digital options; notation and written range remain gaps.
+
+[[Review 0087 - Elliott Carter - Pastoral|Full evidence and open questions]]
+
 
 - Publisher Presser, catalog number 14440005D · [grothmusic.com](https://www.grothmusic.com/p-37610.aspx)
 

@@ -6,18 +6,32 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
+composed: 1921
 year-of-study: 
 streaming: 
 purchase:
-  - https://www.grothmusic.com/p-146316.aspx
+  - "https://www.grothmusic.com/p-146316.aspx"
+  - "https://boileau-music.com/es/obras/dels-quatre-vents-UME21470"
 added: 2024-03-08
 research:
   - "Publisher Union Musical, catalog number UME21470 · https://www.grothmusic.com/p-146316.aspx"
   - "Listed as Dels Quatre Vents from Seis Sonetos · https://www.grothmusic.com/p-146316.aspx"
+  - "UME21470 alto/piano, 8+4 pages, medio-alto label, publisher Unión Musical Ediciones; cover adds horn option. · https://boileau-music.com/es/obras/dels-quatre-vents-UME21470"
+  - "Original Sis sonets 1921 for violin/piano; Dels quatre vents is fifth. Thesis-based description:slow, stately, Bmajor, extended cadence. · https://sites.google.com/site/eduardtoldra/eduard-toldr%C3%A0-i-soler/complete-catalog/sis-sonets"
+  - "Original violin manuscript visually inspected; low resolution prevents range claims. · https://sites.google.com/site/eduardtoldra/eduard-toldr%C3%A0-i-soler/complete-catalog/sis-sonets"
+  - "Exact UME saxophone title appears in entry-to-professional-studies repertoire. · https://www.laliraampostina.com/wp-content/uploads/orientacions.pdf?644ab3="
 aliases: []
+publisher:
+  - "Unión Musical Ediciones"
 ---
 ## Research notes (private)
+
+### Chat batch 08 follow-up, 2026-10-13
+
+Dels quatre vents is the 1921 violin-and-piano source movement in Sis sonets. UME21470 is confirmed for alto saxophone or horn and piano. Koontz’s analysis describes slow stately music and a cadence that intensifies its harmonic pace. The inspected original facsimile gives no reliable saxophone range. A Catalan entrance syllabus documents teaching use without demonstrating simplification. Exact saxophone listening and the arranger credit remain unresolved.
+
+[[Review 0081 - Eduard Toldrà - Dels Quatre Vents|Full evidence and open questions]]
+
 
 - Publisher Union Musical, catalog number UME21470 · [grothmusic.com](https://www.grothmusic.com/p-146316.aspx)
 - Listed as Dels Quatre Vents from Seis Sonetos · [grothmusic.com](https://www.grothmusic.com/p-146316.aspx)

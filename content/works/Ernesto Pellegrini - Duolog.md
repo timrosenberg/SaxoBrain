@@ -14,9 +14,21 @@ purchase:
 added: 2024-03-08
 research:
   - "Publisher Dorn Publications, catalog DORN0184 · https://www.grothmusic.com/p-145619.aspx"
+  - "Alto saxophone and piano edition, Ernesto Pellegrini, Dorn DORN0184. · https://www.grothmusic.com/p-145619.aspx"
+  - "Catalog item 184 lists Pellegrini Duolog in the alto saxophone and piano section. · https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf"
+  - "Duolog I recorded on CRS; instrumentation and album unlisted, so identity with the saxophone edition remains unconfirmed. · https://cardinalscholar.bsu.edu/bitstreams/1dbdd52d-a357-444d-b5f8-e0361766e3ad/download"
 aliases: []
+publisher:
+  - "Dorn Publications"
 ---
 ## Research notes (private)
+
+### Chat batch 08 follow-up, 2026-10-13
+
+The Dorn catalog confirms the alto saxophone and piano Duolog, DORN0184. No actual score preview or exact playable recording was located, so the musical demands remain unknown. A Ball State archive mentions a recording of Duolog I, but its instrumentation and album are unspecified. [Dorn edition](https://www.grothmusic.com/p-145619.aspx).
+
+[[Review 0090 - Ernesto Pellegrini - Duolog|Full evidence and open questions]]
+
 
 - Publisher Dorn Publications, catalog DORN0184 · [grothmusic.com](https://www.grothmusic.com/p-145619.aspx)
 

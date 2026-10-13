@@ -8,19 +8,32 @@ instruments:
   - "Piano"
 composed: 
 year-of-study: 
-streaming: 
+streaming: "https://www.youtube.com/watch?v=nyNmY5ydzxQ"
 purchase:
   - "https://www.grothmusic.com/p-33799.aspx"
   - "https://www.halleonard.com/product/3773701/an-abstract"
+  - "Music Minus One MMO4117, annotated solo part and audio · https://www.halleonard.com/product/1007397/advanced-alto-saxophone-solos-volume-3"
 added: 2024-03-08
 research:
   - "Publisher Southern, catalog number 03773701 · https://www.grothmusic.com/p-33799.aspx"
   - "8 pages · https://www.grothmusic.com/p-33799.aspx"
+  - "Southern Music SS101 / HL03773701; Ward; eight pages. · https://www.halleonard.com/product/3773701/an-abstract"
+  - "MMO4117 includes Ward; annotated alto part, Paul Brodie saxophone and Antonin Kubalek piano, complete/solo-omitted recorded versions. · https://www.halleonard.com/product/1007397/advanced-alto-saxophone-solos-volume-3"
+  - "Publisher closer-look player labels fifth MP3 as David Ward, An Abstract; direct public audio file returns200 audio/mpeg. · https://www.halleonard.com/viewcloserlook.action?itemId=00400747&name=advanced-alto-saxophone-solos-volume-3"
+  - "Exact title/composer; uploader identifies alto saxophone, without piano; public 3:50 rendition. · https://www.youtube.com/watch?v=nyNmY5ydzxQ"
+  - "Piano-only accompaniment; uploader identifies click introduction and coda click counts. · https://www.youtube.com/watch?v=WtoKzelbWIM"
 publisher:
   - "Southern Music"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat batch 08 follow-up, 2026-10-13
+
+An Abstract is the eight-page Southern SS101 alto saxophone and piano edition. Music Minus One MMO4117 supplies an annotated solo part and Paul Brodie/Antonin Kubalek recordings, with an exact public publisher audio sample. Breuer’s verified alto rendition omits piano; a separate piano-only practice video is also available. No score notation was inspected, and conflicting copyright dates do not establish composition year. [Edition](https://www.halleonard.com/product/3773701/an-abstract) · [Publisher sample](https://s3.amazonaws.com/halleonard-closerlook/00400747/MMO4117-CD01-05.mp3) · [Alto rendition](https://www.youtube.com/watch?v=nyNmY5ydzxQ) · [Piano practice](https://www.youtube.com/watch?v=WtoKzelbWIM).
+
+[[Review 0070 - David Ward - An Abstract|Full evidence and open questions]]
+
 
 - Publisher Southern, catalog number 03773701 · [grothmusic.com](https://www.grothmusic.com/p-33799.aspx)
 - 8 pages · [grothmusic.com](https://www.grothmusic.com/p-33799.aspx)

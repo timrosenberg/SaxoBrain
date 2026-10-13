@@ -7,16 +7,26 @@ instruments:
   - "Tenor Saxophone"
   - "Piano"
 composed: 2016
-year-of-study: 
+year-of-study: "Third Year"
 streaming: "https://www.youtube.com/watch?v=USbUIJJSszo"
 purchase:
   - "https://www.catherinemcmichael.com/product-page/duality"
 added: 2024-02-21
 research:
   - "Three movements (Polarity, Linearity, Circularity); about 11 minutes; commissioned in 2016 by Dr. Scott Sandburg (UND) · https://www.catherinemcmichael.com/product-page/duality"
+  - "Three movements, eleven minutes, 2016 commission and hard-copy/PDF availability. · https://www.catherinemcmichael.com/product-page/duality"
+  - "Existing Listen is Polarity with official performer/composer credits. · https://www.youtube.com/watch?v=USbUIJJSszo"
+  - "Three movement track links. · https://www.youtube.com/playlist?list=OLAK5uy_l5sGZD3HpR9BD4TDr28fmNhbt2w8AZR9M"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat batch 07 follow-up, 2026-10-13
+
+Duality is an eleven-minute original tenor saxophone/piano work in three movements. The composer confirms its 2016 commission. The current Listen URL is a verified official recording of Polarity only, and the album playlist supplies Linearity and Circularity. Score-specific demands remain unknown because the shop exposes no notation. Purchase: https://www.catherinemcmichael.com/product-page/duality; all movements: https://www.youtube.com/playlist?list=OLAK5uy_l5sGZD3HpR9BD4TDr28fmNhbt2w8AZR9M.
+
+[[Review 0038 - Catherine McMichael - Duality|Full evidence and open questions]]
+
 
 - Three movements (Polarity, Linearity, Circularity); about 11 minutes; commissioned in 2016 by Dr. Scott Sandburg (UND) · [catherinemcmichael.com](https://www.catherinemcmichael.com/product-page/duality)
 

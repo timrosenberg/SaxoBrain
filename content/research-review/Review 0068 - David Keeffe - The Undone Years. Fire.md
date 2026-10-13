@@ -43,3 +43,15 @@ Catalog: [David Keeffe - The Undone Years. Fire.md](/Users/trosenberg/Documents/
 - No score or complete recording inspected; full range and technical requirements remain unknown.
 
 **Tim decision:** pending.
+
+## Chat batch 08 follow-up, 2026-10-13
+
+The Australian Music Centre work record identifies 2010 as the work year and gives a 25-minute duration. The 2011 typeset publication is a separate date. The four movements are The undone years; The old lie; Spring wind; Legs as quick as lilac-shoots. The title and subject draw on Wilfred Owen’s World War I poetry. AMC documents a virtuosic solo part using altissimo and multiphonics. The orchestral parts are described as moderate. The composer’s note identifies serial construction within a largely consonant soundworld. These are source-attributed demands; no score notation was inspected. Commissioned by and dedicated to Jason Xanthoudakis. AMC records the premiere by Xanthoudakis, Bourbaki Ensemble and David Angell at St Stephen’s Church, Newtown, on 3 April 2011. The purchased item is a 52-page A3 portrait full score. Separate solo/orchestral parts or a piano reduction were not verified. The related Flood concerto is a distinct work.
+
+Collection context: Individual original tenor concerto. No documented youth simplification or teaching version found.
+
+Open questions: Actual notation and written saxophone range remain unverified. No public exact performance audio/video located; AMC record supplies no playable sample. Availability of solo/orchestral parts and any piano reduction remains unknown.
+
+Sources checked:
+- [Australian Music Centre work record](https://www.australianmusiccentre.com.au/work/keeffe-david-undone-years-fire): 2010 concerto, tenor saxophone with piano, timpani and strings; 25 minutes; four movements; altissimo and multiphonics; composer states serial yet consonant construction; commission and premiere. (opened)
+- [Australian Music Centre score record](https://www.australianmusiccentre.com.au/product/the-undone-years-fire-a-concerto-for-tenor-saxophone-with-strings-piano-and-timpani): Wirripang 2011 typeset score, 52 pages, A3 portrait, ISMN 9790720115283; includes program and biography notes. (opened)

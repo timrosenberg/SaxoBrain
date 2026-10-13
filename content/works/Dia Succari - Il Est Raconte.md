@@ -6,17 +6,30 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
+composed: 1987
 year-of-study: 
-streaming: 
+streaming: "https://www.youtube.com/watch?v=oBDAC2y9VPA"
 purchase:
   - https://www.grothmusic.com/p-38112.aspx
 added: 2024-03-08
 research:
   - "Publisher Alphonse Leduc, catalog number AL27701 · https://www.grothmusic.com/p-38112.aspx"
+  - "AL27701 is the Leduc alto saxophone and piano edition. · https://www.grothmusic.com/p-38112.aspx"
+  - "Continuous form; measured/improvised alternation; 3+2+2+3, varied accents, traditional notation, 11:35. · https://mediatheque.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf"
+  - "Exact saxophone performance and performers identified in upload description; public availability verified. · https://www.youtube.com/watch?v=oBDAC2y9VPA"
+  - "Work dated 1987; accelerandos and approximate-duration lines; alto and piano, one movement, about 11:30. · https://es.scribd.com/document/530056924/NUEVAS-GRAFIAS-EN-LOS-ESTUDIOS-DE-SAXOFON-ANDALUCIA"
 aliases: []
+publisher:
+  - "Alphonse Leduc"
 ---
 ## Research notes (private)
+
+### Chat batch 08 follow-up, 2026-10-13
+
+Il est raconté has a verified saxophone performance by its dedicatees, Christian Outtier and Michèle Edmond-Mariette, at Salle Cortot. The performer-authored saxophone guide supplies useful musical evidence: one continuous span, measured passages alternating with improvisation, and a 3+2+2+3 grouping with varied accents. Its printed duration is 11:35. The Leduc AL27701 edition is confirmed. No actual notation was available, so written range and the improvisation directions remain open.
+
+[[Review 0074 - Dia Succari - Il Est Raconte|Full evidence and open questions]]
+
 
 - Publisher Alphonse Leduc, catalog number AL27701 · [grothmusic.com](https://www.grothmusic.com/p-38112.aspx)
 

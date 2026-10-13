@@ -6,18 +6,32 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
-year-of-study: 
-streaming: 
+composed: 1926
+year-of-study: "Second Year"
+streaming: "https://open.spotify.com/track/2peuafXXET8hOBzOu9fWkF"
 purchase:
   - https://www.grothmusic.com/p-147006.aspx
 added: 2024-03-08
 research:
   - "Publisher Alphonse Leduc, catalog number AL20412 · https://www.grothmusic.com/p-147006.aspx"
+  - "Individual edition AL20412, alto saxophone and piano, six pages. · https://www.grothmusic.com/p-147006.aspx"
+  - "Parent set contents, Londeix revision and stated pedagogical audience. · https://www.halleonard.com/product/48184872/croquembouches-six-pieces-pour-saxophone-alto-and-piano-alto-sa"
+  - "Original piano cycle composition 1926 and first publication 1931; Linzer Tart is original No. 2. · https://imslp.org/wiki/Croquembouches_(Delvincourt,_Claude)"
+  - "Waltz designation, approximate 1:30 duration and saxophone-edition history. · https://mediatheque.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf"
+  - "Exact Spotify HTML verifies Linzer tart, Delvincourt, Christopher Creviston and Hannah Gruber, The Columbia Sessions, 117 seconds. · https://open.spotify.com/intl-fr/track/2peuafXXET8hOBzOu9fWkF"
 arranger-edition: "Jean-Marie Londeix"
 aliases: []
+publisher:
+  - "Alphonse Leduc"
 ---
 ## Research notes (private)
+
+### Chat batch 07 follow-up, 2026-10-13
+
+A short waltz from Delvincourt’s piano cycle, available as [alto-and-piano AL20412](https://www.grothmusic.com/p-147006.aspx). The Philharmonie guide calls it Allegro non troppo and estimates 1:30. The revised parent set has a documented teaching audience and professional recordings. No AL20412 notation was inspected. [Listen: Christopher Creviston and Hannah Gruber](https://open.spotify.com/track/2peuafXXET8hOBzOu9fWkF).
+
+[[Review 0055 - Claude Delvincourt - Linzer Tart|Full evidence and open questions]]
+
 
 - Publisher Alphonse Leduc, catalog number AL20412 · [grothmusic.com](https://www.grothmusic.com/p-147006.aspx)
 

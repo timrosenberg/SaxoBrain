@@ -15,9 +15,19 @@ added: 2024-03-08
 research:
   - "Publisher Maurer, catalog number MAURER04 · https://www.grothmusic.com/p-142041.aspx"
   - "Includes piano score and solo alto sax part · https://www.grothmusic.com/p-142041.aspx"
+  - "Exact composer, publisher/catalog number, forces, score-plus-part format and six pages. · https://www.grothmusic.com/p-142041.aspx"
 aliases: []
+publisher:
+  - "Maurer"
 ---
 ## Research notes (private)
+
+### Chat batch 07 follow-up, 2026-10-13
+
+[Maurer MAURER04](https://www.grothmusic.com/p-142041.aspx) is now verified through the live Groth page as Daniel Lefebvre’s alto-and-piano edition with score and separate part. The sample area is empty. Date, duration, form, original/transcription history, exact musical demands and a recording remain unknown.
+
+[[Review 0061 - Daniel Lefebvre - Diptyque|Full evidence and open questions]]
+
 
 - Publisher Maurer, catalog number MAURER04 · [grothmusic.com](https://www.grothmusic.com/p-142041.aspx)
 - Includes piano score and solo alto sax part · [grothmusic.com](https://www.grothmusic.com/p-142041.aspx)

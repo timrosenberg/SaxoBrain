@@ -71,5 +71,5 @@
 <li class="piece">
 <div class="main">{{ $titleHTML | safeHTML }}{{ range $saxes }} <span class="tag {{ .c }}">{{ .t }}</span>{{ end }}
 <div class="who">{{ $who | safeHTML }}{{ with $note }}<span class="note">{{ partial "resolve-links.html" (dict "html" (. | markdownify | string) "page" $page) | safeHTML }}</span>{{ end }}</div></div>
-<div class="acts">{{ with $listen }}<a class="act listen" href="{{ . }}" rel="noopener"><svg viewBox="0 0 10 10" aria-hidden="true"><path d="M2 1l7 4-7 4z"/></svg>Listen</a>{{ end }}{{ with $score }}<a class="act" href="{{ . }}" rel="noopener">{{ if $free }}Free score{{ else }}Score{{ end }}</a>{{ end }}</div>
+<div class="acts">{{ with $listen }}<a class="act listen" href="{{ . }}" rel="noopener"><svg viewBox="0 0 10 10" aria-hidden="true"><path d="M2 1l7 4-7 4z"/></svg>Listen</a>{{ end }}{{ with $score }}<a class="act" href="{{ . }}" rel="noopener">{{ if $free }}Download{{ else }}Score{{ end }}</a>{{ end }}</div>
 </li>

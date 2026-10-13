@@ -7,15 +7,26 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 2004
-year-of-study: 
+year-of-study: "Second Year"
 streaming: 
 purchase: []
 added: 2024-02-21
 research:
   - "Alto saxophone and piano, 5'30\"; premiered 16 April 2005, Wits University Atrium, by Ceri Moelwyn-Hughes and Gregory Mollenz · https://www.clareloveday.co.za/compositions.html"
+  - "Composer entry: alto 2004,5:30,16 April 2005 premiere; In Breath 2025 is distinct. · https://clareloveday.co.za/compositions.html"
+  - "Alto2004 and 5:30 independently listed. · https://www.noaevenmusic.com/saxandpiano"
+  - "Soprano2005 archive description and score-processing request form. · https://www.samroscores.org.za/work/breath/"
+  - "Soprano2005 catalog entry with alto premiere; long lines, standard range and repeated piano chords. · https://repository.up.ac.za/bitstreams/c85ea27d-b97a-4b47-bfa6-266368d61904/download"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat batch 07 follow-up, 2026-10-13
+
+Breath is the composer’s 5:30 alto-and-piano work of 2004. Gerber reports lyrical lines over repeated piano chords, but her entry labels soprano. [Composer](https://clareloveday.co.za/compositions.html). [SAMRO request](https://www.samroscores.org.za/work/breath/). Resolve the alto 2004/soprano 2005 discrepancy before applying archive-specific demands. No notation or exact recording was verified.
+
+[[Review 0051 - Clare Loveday - Breath|Full evidence and open questions]]
+
 
 - Alto saxophone and piano, 5'30"; premiered 16 April 2005, Wits University Atrium, by Ceri Moelwyn-Hughes and Gregory Mollenz · [clareloveday.co.za](https://www.clareloveday.co.za/compositions.html)
 

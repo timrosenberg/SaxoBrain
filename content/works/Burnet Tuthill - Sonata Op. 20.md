@@ -6,20 +6,32 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
-year-of-study: 
+composed: 1939
+year-of-study: "Second Year"
 streaming: 
 purchase:
-  - https://www.grothmusic.com/p-38316.aspx
-  - https://www.ficksmusic.com/products/tuthill-alto-saxophone-sonata-op-20-southern
+  - "https://www.grothmusic.com/p-38316.aspx"
+  - "https://www.ficksmusic.com/products/tuthill-alto-saxophone-sonata-op-20-southern"
+  - "https://www.halleonard.com/product/3774129/sonata"
 added: 2024-03-08
 research:
   - "Sheet Music Plus labels the Southern Music edition (SS497) Grade 5 · https://www.sheetmusicplus.com/en/product/sonata-191691.html"
+  - "SS497; alto saxophone; publisher Level 5. · https://www.halleonard.com/product/3774129/sonata"
+  - "Complete Op. 20 is on current ARSM list. · https://www.abrsm.com.tw/diploma/from2024/music%20performance/ARSM/ABRSM%20Saxophone%20Performance%20ARSM%20Repertoire%20from%202026.pdf"
+  - "1939 alto sonata and ENS-2002 recording. · https://cdm16850.contentdm.oclc.org/digital/api/collection/MusCnrtEvnt/id/4079/download"
+  - "Three movement titles and 1966 edition date. · https://vcisinc.com/saxophonemusic.htm"
 publisher:
   - "Southern Music"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat batch 07 follow-up, 2026-10-13
+
+Southern Music SS497 is a three-movement alto sonata with complete-work placement on the current ARSM diploma list. Hal Leonard labels it Level 5. The Leeson repertoire document gives 1939 and identifies his ENS-2002 recording. Those are useful historical and repertoire signals. The official preview is unavailable, so exact saxophone demands still need a score check. Score/purchase: https://www.halleonard.com/product/3774129/sonata; current diploma list: https://www.abrsm.com.tw/diploma/from2024/music%20performance/ARSM/ABRSM%20Saxophone%20Performance%20ARSM%20Repertoire%20from%202026.pdf.
+
+[[Review 0031 - Burnet Tuthill - Sonata Op. 20|Full evidence and open questions]]
+
 
 - Sheet Music Plus labels the Southern Music edition (SS497) Grade 5 · [sheetmusicplus.com](https://www.sheetmusicplus.com/en/product/sonata-191691.html)
 

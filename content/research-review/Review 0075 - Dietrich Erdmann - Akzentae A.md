@@ -47,3 +47,16 @@ Catalog: [Dietrich Erdmann - Akzentae A.md](/Users/trosenberg/Documents/GitHub/S
 - The EDA record says 1989/2003; catalog composition date is blank, so the relationship of revision year should be checked.
 
 **Tim decision:** pending.
+
+## Chat batch 08 follow-up, 2026-10-13
+
+EDA dates the alto version 1989/2003 and says it is based on the 1989 tenor saxophone and piano Akzente. Frank Lunte and Tatjana Blome describe unstable accents in 3/4, closing triplets, a lyrical middle movement with trills and sevenths, and finale slap tongue with a laughing instruction.
+
+Collection context: Professional recorded alto reworking. Do not confuse it with the earlier tenor Akzente.
+
+Open questions: Catalog title Akzentae A differs from verified Akzente A. Preserve filename; title correction needs Tim’s decision. 1989 is the source tenor work date; 2003 is associated with the alto version. Keep composed blank until the catalog date policy for this reworking is resolved. No readable score found; full written range unverified.
+
+Sources checked:
+- [Groth Music](https://www.grothmusic.com/p-143408.aspx): EB9138 supplies piano score and solo alto part; 21 pages. (opened)
+- [EDA Records, notes by Frank Lunte and Tatjana Blome](https://www.eda-records.com/177-1-CD-Details.html?cd_id=42): Alto reworking of 1989 tenor Akzente; dated 1989/2003. Performer notes discuss accents, triplets, trills, sevenths, slap tongue and laughing effect. (opened)
+- [Frank Lunte Topic, Naxos-supplied YouTube release](https://www.youtube.com/watch?v=_aqkOZqNF40): EDA recording, first and third movements, verified public with playback formats. (opened)

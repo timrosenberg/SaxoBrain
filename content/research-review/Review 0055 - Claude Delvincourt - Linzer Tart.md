@@ -3,8 +3,8 @@ title: "Review 0055: Claude Delvincourt - Linzer Tart"
 added: 2026-10-11
 review-id: 55
 review-packet: 3
-review-decision: Pending
-review-applied: false
+review-decision: "Second Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Claude Delvincourt - Linzer Tart]]"
 build:
@@ -52,4 +52,26 @@ Catalog: [Claude Delvincourt - Linzer Tart.md](/Users/trosenberg/Documents/GitHu
 - Catalog purchase link AL20412 and collection issue AL28191 appear to be different items; edition match remains unresolved.
 - No verified performance of the Londeix saxophone/piano edition was auditioned; Spotify metadata did not establish instrument or version.
 
-**Tim decision:** pending.
+**Tim decision:** Second Year.
+
+## Chat batch 07 follow-up, 2026-10-13
+
+Groth’s exact individual listing identifies alto saxophone and piano, Alphonse Leduc AL20412, six pages. The parent revised saxophone set AL28191 contains six dessert-named pieces. Hal Leonard credits Jean-Marie Londeix’s revision and describes an upper-beginner/intermediate audience for that set. This set-wide audience claim does not independently establish every demand of AL20412. IMSLP identifies the original Croquembouches as twelve pieces for solo piano composed 1926 and first published 1931. Linzer Tart is its second piece; in the six-piece saxophone set it is fourth. The Philharmonie de Paris’s digitized 10 ans avec le saxophone describes Linzer Tart as Allegro non troppo, a waltz movement, about 1:30. It gives 1946 for the saxophone set and a new edition in 1992. Spotify indexes Christopher Creviston and Hannah Gruber’s exact Linzer Tart track on The Columbia Sessions (Albany Records, 2012), 1:56. This is a saxophone/piano recording lead rather than verified current playback.
+
+Score observations: No musical notation inspected. Institutional descriptive text establishes waltz character; no written saxophone range or fingering demands inferred from piano source.
+
+Collection context: Dance miniature from a piano collection transcribed for saxophone; publisher describes the parent set for upper beginners/intermediate players, while professional recordings establish recital use.
+
+Open questions: Exact original composition year rests on IMSLP metadata; primary manuscript or composer catalog not found. Saxophone publication dates must stay separate. No readable AL20412 part inspected; exact range, altissimo, articulation density and pianist coordination remain unknown. Do not transfer a complete-suite institutional placement or publisher audience to an individual score as Tim’s level. The individual AL20412 arranger/revision credit was not visible on Groth; Londeix is explicitly credited for the parent set.
+
+Sources checked:
+- [Groth Music exact product record](https://www.grothmusic.com/p-147006.aspx): Individual edition AL20412, alto saxophone and piano, six pages. (opened)
+- [Hal Leonard / Alphonse Leduc](https://www.halleonard.com/product/48184872/croquembouches-six-pieces-pour-saxophone-alto-and-piano-alto-sa): Parent set contents, Londeix revision and stated pedagogical audience. (opened)
+- [IMSLP work catalog](https://imslp.org/wiki/Croquembouches_(Delvincourt,_Claude)): Original piano cycle composition 1926 and first publication 1931; Linzer Tart is original No. 2. (opened)
+- [Philharmonie de Paris, digitized repertoire guide](https://mediatheque.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf): Waltz designation, approximate 1:30 duration and saxophone-edition history. (opened)
+- [Spotify track index](https://open.spotify.com/intl-fr/track/2peuafXXET8hOBzOu9fWkF): Exact Spotify HTML verifies Linzer tart, Delvincourt, Christopher Creviston and Hannah Gruber, The Columbia Sessions, 117 seconds. (opened)
+- [Albany Records, The Columbia Sessions](https://www.albanyrecords.com/catalog/troy1341/): Croquembouches recorded for alto saxophone and piano by Christopher Creviston and Hannah Gruber on TROY1341 (opened)
+
+## Chat Batch 07 Decision, 2026-10-13
+
+Tim assigned Second Year.

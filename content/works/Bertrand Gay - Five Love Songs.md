@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
+year-of-study: "Second Year"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-147386.aspx
@@ -15,9 +15,20 @@ added: 2024-03-08
 research:
   - "Publisher and catalog no.: Editions Marc Reift EMR13406 · https://www.grothmusic.com/p-147386.aspx"
   - "Five movements titled for the days Monday through Friday; 38 pages; a tenor sax edition is also sold · https://www.grothmusic.com/p-147386.aspx"
+  - "EMR13406 alto/piano edition and inspected notation · https://www.abel.at/shop/prme/177951.pdf"
+  - "EMR13406 alto and EMR13407 tenor; publication2011; score31pages and separate part · https://ead.nb.admin.ch/web/sb-pdf/2012/sb201216.pdf"
 aliases: []
+publisher:
+  - "Editions Marc Reift"
 ---
 ## Research notes (private)
+
+### Chat batch 06 follow-up, 2026-10-12
+
+The inspected EMR13406 preview verifies the alto/piano edition. Swiss National Library distinguishes tenor EMR13407. Score excerpts show mixed meters, accidentals, expressive dynamics and active piano writing. No matching saxophone recording or composition year was verified.
+
+[[Review 0024 - Bertrand Gay - Five Love Songs|Full evidence and open questions]]
+
 
 - Publisher and catalog no.: Editions Marc Reift EMR13406 · [grothmusic.com](https://www.grothmusic.com/p-147386.aspx)
 - Five movements titled for the days Monday through Friday; 38 pages; a tenor sax edition is also sold · [grothmusic.com](https://www.grothmusic.com/p-147386.aspx)

@@ -6,6 +6,9 @@ composer:
 instruments:
   - "Tenor Saxophone"
   - "Orchestra"
+  - "Piano"
+  - "Timpani"
+  - "String Orchestra"
 composed: 2010
 year-of-study: 
 streaming: 
@@ -20,9 +23,20 @@ research:
   - "Australian Music Centre difficulty note: Advanced; the solo part is virtuosic and expects altissimo range and multiphonics, orchestral parts moderate · https://representation.australianmusiccentre.com.au/work/keeffe-david-undone-years-fire"
   - "Commissioned by and dedicated to Jason Xanthoudakis, who gave the first performance with the Bourbaki Ensemble, 3 April 2011 · https://representation.australianmusiccentre.com.au/work/keeffe-david-undone-years-fire"
   - "Published by Wirripang · https://representation.australianmusiccentre.com.au/work/keeffe-david-undone-years-fire"
+  - "2010 concerto, tenor saxophone with piano, timpani and strings; 25 minutes; four movements; altissimo and multiphonics; composer states serial yet consonant construction; commission and premiere. · https://www.australianmusiccentre.com.au/work/keeffe-david-undone-years-fire"
+  - "Wirripang 2011 typeset score, 52 pages, A3 portrait, ISMN 9790720115283; includes program and biography notes. · https://www.australianmusiccentre.com.au/product/the-undone-years-fire-a-concerto-for-tenor-saxophone-with-strings-piano-and-timpani"
 aliases: []
+publisher:
+  - "Wirripang"
 ---
 ## Research notes (private)
+
+### Chat batch 08 follow-up, 2026-10-13
+
+This 2010 tenor concerto lasts about 25 minutes and has four movements. AMC documents altissimo, multiphonics and a virtuosic solo part, with serial writing in a consonant soundworld. The 2011 Wirripang publication is a 52-page full score. Score notation, exact audio and separate performance parts remain unverified. [Work and composer notes](https://www.australianmusiccentre.com.au/work/keeffe-david-undone-years-fire) · [Full score](https://www.australianmusiccentre.com.au/product/the-undone-years-fire-a-concerto-for-tenor-saxophone-with-strings-piano-and-timpani).
+
+[[Review 0068 - David Keeffe - The Undone Years. Fire|Full evidence and open questions]]
+
 
 - Duration about 25 minutes · [representation.australianmusiccentre.com.au](https://representation.australianmusiccentre.com.au/work/keeffe-david-undone-years-fire)
 - Scored for solo tenor saxophone, piano, timpani and string orchestra; four movements · [representation.australianmusiccentre.com.au](https://representation.australianmusiccentre.com.au/work/keeffe-david-undone-years-fire)

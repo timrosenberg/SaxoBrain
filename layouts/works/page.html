@@ -9,7 +9,7 @@
 <p class="actions">
 {{ with partial "listen-url.html" . }}<a class="btn primary" href="{{ . }}" rel="noopener">Listen</a>{{ else }}<span class="btn missing">No recording linked yet</span>{{ end }}
 {{ range .Params.purchase }}{{ $b := partial "purchase-link.html" . }}<a class="btn" href="{{ $b.url }}" rel="noopener">{{ with $b.label }}Buy the {{ . }}{{ else }}Buy the score{{ end }}</a>{{ end }}
-{{ range .Params.download }}<a class="btn" href="{{ . }}" rel="noopener">Free score</a>{{ end }}
+{{ range .Params.download }}<a class="btn" href="{{ . }}" rel="noopener">Download</a>{{ end }}
 </p>
 
 {{- /* A YouTube recording link also plays on the page (youtube.com/watch?v=, youtu.be/, shorts/; a t= start time is kept),

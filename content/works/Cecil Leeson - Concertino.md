@@ -6,8 +6,10 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
-year-of-study: 
+  - "Band"
+  - "Orchestra"
+composed: 1948
+year-of-study: "Second Year"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-143006.aspx
@@ -15,9 +17,21 @@ added: 2024-03-08
 research:
   - "Publisher Southern, catalog number SS817 · https://www.grothmusic.com/p-143006.aspx"
   - "Three movements: Dialogue, Song and Recitation, In a Fairly Fast Four; originally for alto saxophone and wind symphonette or chamber orchestra; the final movement shows jazz influence · https://www.grothmusic.com/p-143006.aspx"
+  - "Original Concertino dated 1948. · https://cdm16850.contentdm.oclc.org/digital/api/collection/MusCnrtEvnt/id/4079/download"
+  - "Southern SS817 is the alto/piano reduction; three movements and composer explanation of their characters. · https://www.grothmusic.com/p-143006.aspx"
+  - "Opening tempo, chromatic line, active piano texture and actual-sounds saxophone labeling; copyright 1952. Original title specifies wind symphonette or chamber orchestra. · https://grothmusic.com/images/product/large/ae00-124620_2_.jpg"
 aliases: []
+publisher:
+  - "Southern Music Company"
 ---
 ## Research notes (private)
+
+### Chat batch 07 follow-up, 2026-10-13
+
+Leeson’s 1948 Concertino is an original alto concert work available as a piano reduction. The opening has chromatic slurred figures over an active piano texture. The composer identifies conversational, lyrical and jazz-influenced movement characters. [Buy](https://www.grothmusic.com/p-143006.aspx). [Score opening](https://grothmusic.com/images/product/large/ae00-124620_2_.jpg). Later demands and a playable exact recording remain unknown.
+
+[[Review 0041 - Cecil Leeson - Concertino|Full evidence and open questions]]
+
 
 - Publisher Southern, catalog number SS817 · [grothmusic.com](https://www.grothmusic.com/p-143006.aspx)
 - Three movements: Dialogue, Song and Recitation, In a Fairly Fast Four; originally for alto saxophone and wind symphonette or chamber orchestra; the final movement shows jazz influence · [grothmusic.com](https://www.grothmusic.com/p-143006.aspx)

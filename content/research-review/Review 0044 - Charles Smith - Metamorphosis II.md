@@ -3,10 +3,10 @@ title: "Review 0044: Charles Smith - Metamorphosis II"
 added: 2026-10-11
 review-id: 44
 review-packet: 2
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Charles Smith - Metamorphosis II]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog entry: [[Charles Smith - Metamorphosis II]].
+Catalog: removed at Tim’s request on 2026-10-13.
 
 Charles Smith, Metamorphosis II, assigned as Dorn DORN0150 for soprano saxophone solo. The searched Dorn catalogs did not confirm DORN0150; DORN1518 appears separately as English horn and piano by Charles W. Smith. The two queue entries may be duplicated, miskeyed, or distinct works/editions; evidence is insufficient to decide.
 [Groth Music, assigned product link](https://www.grothmusic.com/p-139733.aspx) (search_index_only): Assignment snapshot records Groth product DORN0150 and a composer-name discrepancy: catalog composer Charles Smith, product-page composer Charles W. Smith.
@@ -42,3 +42,22 @@ Proposed correction for review: ["Verify DORN0150 and DORN1518 against Dorn or s
 Searches checked:
 - DORN0150 Metamorphosis II Charles Smith soprano saxophone
 - DORN1518 Metamorphosis II Charles W Smith English horn piano
+
+## Chat batch 07 follow-up, 2026-10-13
+
+The exact assigned Groth page describes soprano saxophone or oboe with piano, 20 pages. Its actual edition cover confirms Charles W. Smith and the same instrumentation. Dorn’s April 2025 catalog places150 under soprano saxophone and piano. This entry is not an unaccompanied soprano work. Dorn 1518 is a separate alto-saxophone-or-English-horn with piano listing. The catalog and covers do not prove which version was original or whether the editions are otherwise identical.
+
+Score observations: The retrieved image is a title cover, not a musical page. No soprano-edition range, rhythms, articulation or technical requirements were visually inspected. Musical observations from the alto/English-horn edition cannot establish the exact soprano part.
+
+Collection context: Published soprano/piano edition with oboe alternative. No simplified youth-transcription evidence.
+
+Open questions: Proposed narrow correction: append Piano to existing instruments. Existing composer link Charles Smith should be reviewed against the cover’s Charles W. Smith; no composer merge is authorized. Do not merge this page with ID 45 solely on shared title and name. Complete score comparison and version history remain needed. Composition year, duration, soprano notation, whole-work demands and playable exact recording remain unknown.
+
+Sources checked:
+- [Groth Music](https://www.grothmusic.com/p-139733.aspx): Dorn 150 explicitly for soprano saxophone or oboe with piano, 20 pages. (opened)
+- [Dorn cover hosted by Groth](https://grothmusic.com/images/product/large/ae00-23287.jpg): Edition cover confirms instrumentation and composer Charles W. Smith. (opened)
+- [Dorn Publications catalog](https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf): Catalog 150 under soprano/piano;1518 under alto/piano and English horn/piano. (opened)
+
+## Chat Batch 07 Decision, 2026-10-13
+
+Tim requested removal from the catalog. The private evidence log is retained.

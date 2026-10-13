@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 1999
-year-of-study: 
+year-of-study: "First Year"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-144132.aspx
@@ -15,9 +15,23 @@ added: 2024-03-08
 research:
   - "Publisher Combre, catalog number C05990 · https://www.grothmusic.com/p-144132.aspx"
   - "Dedicated to Jean Ledieu · https://www.grothmusic.com/p-144132.aspx"
+  - "Exact edition and Jean Ledieu dedication. · https://www.grothmusic.com/p-144132.aspx"
+  - "Publication 1999 and score/part holdings. · https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf"
+  - "2000 saxophone E-flat examination selection under end of second cycle. · https://www.cmf-musique.org/wp-content/uploads/2024/10/Annales-Bois.pdf"
+  - "Actual preview shows changing dynamics, accidentals and slurred moving figures in an ensemble score. · https://www.sheetmusicplus.com/dw/image/v2/BJFX_PRD/on/demandware.static/-/Sites-smp-main/default/dw57bb2b7a/images/9895/19509895_file_1_page_0.png?sw=900&sh=1200&sm=fit"
+  - "Intermediate school/community label and score/part format. · https://www.sheetmusicplus.com/en/product/partita-19509895.html"
 aliases: []
+publisher:
+  - "Editions Combre"
 ---
 ## Research notes (private)
+
+### Chat batch 07 follow-up, 2026-10-13
+
+[Combre C05990](https://www.grothmusic.com/p-144132.aspx) is dedicated to Jean Ledieu. Antwerp holds its 1999 publication, and CMF documents a 2000 examination selection. A partial actual score preview shows slurred moving figures, accidentals and dynamic changes. Its full range and tempo remain unverified. Retailer labels conflict, and no exact-work playable recording was found.
+
+[[Review 0056 - Claude Pascal - Partita|Full evidence and open questions]]
+
 
 - Publisher Combre, catalog number C05990 · [grothmusic.com](https://www.grothmusic.com/p-144132.aspx)
 - Dedicated to Jean Ledieu · [grothmusic.com](https://www.grothmusic.com/p-144132.aspx)

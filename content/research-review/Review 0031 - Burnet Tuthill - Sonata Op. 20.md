@@ -3,8 +3,8 @@ title: "Review 0031: Burnet Tuthill - Sonata Op. 20"
 added: 2026-10-11
 review-id: 31
 review-packet: 2
-review-decision: Pending
-review-applied: false
+review-decision: "Second Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Burnet Tuthill - Sonata Op. 20]]"
 build:
@@ -42,3 +42,21 @@ Searches checked:
 - Burnet Tuthill Sonata Op. 20 alto saxophone piano Southern Music score
 - ABRSM ARSM Saxophone 2026 Tuthill Sonata Op 20
 - Burnet Tuthill Sonata Cecil Leeson manuscript 1939
+
+## Chat batch 07 follow-up, 2026-10-13
+
+Southern Music distributor Hal Leonard identifies SS497 for alto saxophone and labels it Level 5. The complete work appears on ABRSM’s ARSM saxophone diploma repertoire list valid from January 2026. This is diploma programming evidence, with no undergraduate-year implication. A Cecil Leeson repertoire and discography document dates the alto sonata 1939 and names its recording on The Art of Cecil Leeson, Volume I, Enchante ENS-2002. The specialist retailer Van Cott lists three movements: Allegro giocoso, Andante, and Presto molto vivace. Its 1966 edition date concerns the publication, not the composition.
+
+Collection context: Published as an alto saxophone sonata; substantial complete-work diploma use verified.
+
+Open questions: No musical page inspected. Written range, rapid articulation, finger patterns, and any extended techniques remain unknown. The historical discography verifies a Leeson recording but no playable exact-work link was recovered. Archive manuscript inventory separately gives 1939 in search indexing; that inventory could not be opened. The opened Leeson repertoire document is the basis for the proposed composition date.
+
+Sources checked:
+- [Hal Leonard / Southern Music](https://www.halleonard.com/product/3774129/sonata): SS497; alto saxophone; publisher Level 5. (opened)
+- [Associated Board of the Royal Schools of Music](https://www.abrsm.com.tw/diploma/from2024/music%20performance/ARSM/ABRSM%20Saxophone%20Performance%20ARSM%20Repertoire%20from%202026.pdf): Complete Op. 20 is on current ARSM list. (opened)
+- [Cecil Leeson repertoire/discography preserved in institutional digital collection](https://cdm16850.contentdm.oclc.org/digital/api/collection/MusCnrtEvnt/id/4079/download): 1939 alto sonata and ENS-2002 recording. (opened)
+- [Van Cott Information Services](https://vcisinc.com/saxophonemusic.htm): Three movement titles and 1966 edition date. (opened)
+
+## Chat Batch 07 Decision, 2026-10-13
+
+Tim assigned Second Year.

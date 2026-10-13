@@ -8,16 +8,33 @@ instruments:
   - "Piano"
 composed: 
 year-of-study: 
-streaming: 
+streaming: "https://www.youtube.com/watch?v=5gBGSNis27M"
 purchase:
-  - https://www.grothmusic.com/p-38000.aspx
+  - "https://www.grothmusic.com/p-38000.aspx"
+  - "https://schottmusiclondon.com/in-a-hall-of-mirrors-no98498.html"
 added: 2024-03-08
 research:
   - "Publisher Universal, catalog number UE17776 · https://www.grothmusic.com/p-38000.aspx"
   - "Listed as In a Hall of Mirrors · https://www.grothmusic.com/p-38000.aspx"
+  - "Alto and piano, UE17776, John Harle editor, easy shop label. · https://schottmusiclondon.com/in-a-hall-of-mirrors-no98498.html"
+  - "Work appears in November 2023 LRSM saxophone diploma repertoire. · https://www.abrsm.com.tw/diploma/from2024/music%20performance/LRSM/Saxophone%20LRSM%20Repertoire.pdf"
+  - "Exact 1997 Haram/Mitchell performance publicly playable. · https://www.youtube.com/watch?v=5gBGSNis27M"
+  - "Harle/Lenehan live track confirmed by performer. · https://www.johnharle.com/discography.htm"
+  - "Library claims composition 1983, publication 1988, 6 minutes. · https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf"
 aliases: []
+publisher:
+  - "Universal Edition"
+arranger-edition:
+  - "John Harle, editor; Universal Edition UE17776"
 ---
 ## Research notes (private)
+
+### Chat batch 08 follow-up, 2026-10-13
+
+In a Hall of Mirrors has exact public recordings by Simon Haram with Scott Mitchell and by John Harle with John Lenehan. Universal UE17776 is an alto-and-piano edition edited by Harle. Schott labels it easy, while ABRSM includes it in diploma repertoire. Those sources establish performance context. No readable score supports a technical judgment. The title omission and conflicting composition dates remain decision flags.
+
+[[Review 0078 - Dominic Muldowney - In Hall of Mirrors|Full evidence and open questions]]
+
 
 - Publisher Universal, catalog number UE17776 · [grothmusic.com](https://www.grothmusic.com/p-38000.aspx)
 - Listed as In a Hall of Mirrors · [grothmusic.com](https://www.grothmusic.com/p-38000.aspx)

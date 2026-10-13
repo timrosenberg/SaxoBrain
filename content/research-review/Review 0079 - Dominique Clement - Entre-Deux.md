@@ -29,3 +29,17 @@ Catalog: [[Dominique Clement - Entre-Deux]]
 - Leduc catalog lists *Entre-Deux* for alto saxophone and piano, AL30500. [Alphonse Leduc catalog](https://casamusicaledelrio.it/casamusicale/wp-content/uploads/2019/04/CAT-18-107-Leduc-Catalogue-2018-ss-GS-v6-NO-CROPS-LO-RESv2.pdf) (search_index_only).
 - Collection/use: An original alto saxophone and piano edition is identified; audience, musical demands, and collection use remain unverified.
 - Gaps: No readable preview or saxophone performance located.; No duration, composition date, or pedagogical placement verified.
+
+## Chat batch 08 follow-up, 2026-10-13
+
+Hal Leonard confirms AL30500, Clément, and alto/piano. Presto identifies Collection Vent de Sax. Slovak Music Centre’s composer profile lists an Entre-deux clarinet-and-piano version dated 2002. It does not establish which instrumentation was original. Huelva professional-conservatory syllabus indexes this alto-and-piano edition. Exact teaching placement is source context only.
+
+Collection context: A single alto/piano work in the Vent de Sax publishing series. Another clarinet/piano version exists. No youth-target, simplification or original-instrument chronology verified.
+
+Open questions: No readable score or exact saxophone performance found after publisher-preview and YouTube searches. Do not retain the earlier assertion that this is definitely an original saxophone composition: clarinet version documented, chronology unresolved. Presto lists 96 pages, while other edition leads differ. Do not infer length or difficulty from this uncorroborated count. Composition date, duration, written range and work-specific musical profile remain unknown.
+
+Sources checked:
+- [Hal Leonard, Leduc distributor](https://www.halleonard.com/product/48186310/clement-dominique-entre-deux-alto-saxophone-piano-bookclement-dominique-entre-deux-alto-saxophone-piano-book): Exact AL30500 alto and piano publication. (opened)
+- [Presto Music](https://www.prestomusic.com/sheet-music/products/7826722--clement-entre-deux): AL30500 belongs to Collection Vent de Sax. (search_index_only)
+- [Slovak Music Centre, Melos-Ethos composer profile](https://hc.sk/en/melos-etos/interpreti/o-1016): A clarinet/piano Entre-deux version is dated 2002; original-version chronology unstated. (opened)
+- [Conservatorio Profesional Javier Perianes, Huelva 2025–2026](https://blogsaverroes.juntadeandalucia.es/cpmjavierperianes/files/2025/11/Programacion-Saxofon-Huelva-2025-26.pdf): Entre-deux, Leduc, alto/piano appears in conservatory syllabus. (search_index_only)

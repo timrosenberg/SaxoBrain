@@ -3,8 +3,8 @@ title: "Review 0051: Clare Loveday - Breath"
 added: 2026-10-11
 review-id: 51
 review-packet: 3
-review-decision: Pending
-review-applied: false
+review-decision: "Second Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Clare Loveday - Breath]]"
 build:
@@ -46,4 +46,24 @@ Catalog: [Clare Loveday - Breath.md](/Users/trosenberg/Documents/GitHub/SaxoBrai
 - A verified saxophone recording matching the 2004 alto version remains unlocated.
 - Duration differs between the composer/performer listing (5:30) and independent catalogue (5:03); edition or timing basis is unresolved.
 
-**Tim decision:** pending.
+**Tim decision:** Second Year.
+
+## Chat batch 07 follow-up, 2026-10-13
+
+The composer identifies Breath 2004, alto/piano, 5:30, premiered16 April 2005 at Wits by Ceri Moelwyn-Hughes and Gregory Mollenz. Noa Even’s performer repository independently matches alto 2004 and 5:30. SAMRO’s Breath page dates the work 2005 and describes a soprano voice-like solo over restrained piano chords. Its score is still being processed and offered through a request form. Gerber’s 2019 University of Pretoria bibliography reports soprano 2005 but names an alto premiere. This internal discrepancy must be retained. The composer separately lists In Breath 2025,10 minutes; that newer work must not be substituted for this entry.
+
+Score observations: Attributed analysis, not score inspection: Gerber describes Breath with long melodic lines, standard saxophone range and a repeated-chord accompaniment. Her soprano-labeled edition requires version checking before those details are applied to the alto catalog entry.
+
+Collection context: Composer-listed original saxophone/piano work; no simplified transcription evidence. Archive-version uncertainty remains.
+
+Open questions: Do not change existing alto instrumentation or composition 2004 from the archive’s soprano 2005 entry without comparing versions. The independent South African Saxophone Catalogue gives 5:03, while composer and Noa Even give 5:30. No basis for replacing the composer’s duration is established. No actual score was visually inspected. Exact alto musical demands and a playable matching recording remain unknown. SAMRO acquisition is a request route with upload pending, not an immediately available score download or confirmed alto edition.
+
+Sources checked:
+- [Clare Loveday compositions](https://clareloveday.co.za/compositions.html): Composer entry: alto 2004,5:30,16 April 2005 premiere; In Breath 2025 is distinct. (opened)
+- [Noa Even saxophone repository](https://www.noaevenmusic.com/saxandpiano): Alto2004 and 5:30 independently listed. (opened)
+- [SAMRO Scores](https://www.samroscores.org.za/work/breath/): Soprano2005 archive description and score-processing request form. (opened)
+- [Karlien Gerber, University of Pretoria bibliography, 2019](https://repository.up.ac.za/bitstreams/c85ea27d-b97a-4b47-bfa6-266368d61904/download): Soprano2005 catalog entry with alto premiere; long lines, standard range and repeated piano chords. (opened)
+
+## Chat Batch 07 Decision, 2026-10-13
+
+Tim assigned Second Year.

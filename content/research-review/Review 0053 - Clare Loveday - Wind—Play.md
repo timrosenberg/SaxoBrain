@@ -3,10 +3,10 @@ title: "Review 0053: Clare Loveday - Wind—Play"
 added: 2026-10-11
 review-id: 53
 review-packet: 3
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Clare Loveday - Wind—Play]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [Clare Loveday - Wind-Play.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Clare Loveday - Wind; Play.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0053.json).
+Catalog: removed at Tim’s request on 2026-10-13.
 
 **Identity and findings.** The composer’s current compositions page identifies Wind-Play (2000) for soprano saxophone and piano, 3:30, premiered 22 August 2001; the composer also rewrote it for alto saxophone. SAMRO’s work archive dates its entry 2001 and describes a five-pulse piano opening motif and a saxophone line derived from suspended piano harmonies; the score upload is still being processed. An independent researcher’s catalogue gives a different duration (2:40), left unresolved.
 
@@ -51,4 +51,24 @@ Catalog: [Clare Loveday - Wind-Play.md](/Users/trosenberg/Documents/GitHub/SaxoB
 - Duration and composition-year metadata vary among performer, composer, archive and independent catalogue listings; do not treat one timing as a correction.
 - Linked video was not auditioned, and version/instrument of the video is not verified.
 
-**Tim decision:** pending.
+**Tim decision:** Removed.
+
+## Chat batch 07 follow-up, 2026-10-13
+
+Composer catalog gives 2000, 3:30, soprano saxophone and piano, plus an alto rewrite. Premiere: Adriaan Esterhuizen and Clare Loveday, Wits University Atrium, 22 August 2001. SAMRO describes a piece written for a young player, with kite imagery. A five-pulse piano motif supplies the tugging gesture; saxophone melody derives from suspended piano harmonies. Karlien Gerber’s University of Pretoria dissertation reports changing 5/8, 3/8, 6/8, 4/8 and 7/8 meters, crotchet = 118, mainly eighth-note material, contrasting lyrical and strident indications, and legato/staccato articulation. These are the researcher’s score-derived observations, not direct notation inspection here. Gerber reports conventional saxophone range and a light piano texture. Her entry concerns the soprano version, so it does not establish written pitches or range limits for the alto rewrite.
+
+Score observations: No actual musical pages inspected. SAMRO’s page still says the score is being processed; Gerber’s analytical prose is separate evidence.
+
+Collection context: Original saxophone miniature with documented young-player audience; alto version is a separate composer rewrite.
+
+Open questions: SAMRO and Gerber label the work 2001; the composer’s current catalog dates composition 2000 and premiere 2001. Preserve existing composed 2000. No full readable score, exact written range, or direct alto/soprano comparison inspected. Existing YouTube streaming value retained; it was not reverified in this pass. The composer MP3 belongs among private listening links. Historical performer credits come from a commented legacy recordings table; the audio file itself is available.
+
+Sources checked:
+- [Clare Loveday, composer catalog](https://clareloveday.co.za/compositions.html): Work date, original soprano/piano forces, alto rewrite, duration and premiere. (opened)
+- [SAMRO Scores, South African Music Rights Organisation work archive](https://www.samroscores.org.za/work/wind-play/): Young-player origin and kite-inspired rhythmic/melodic program. (opened)
+- [Karlien Gerber, University of Pretoria saxophone bibliography](https://repository.up.ac.za/bitstreams/c85ea27d-b97a-4b47-bfa6-266368d61904/download): Reported meters, tempo, articulations, conventional soprano range, duration and manuscript call number A05560. (opened)
+- [Clare Loveday, composer-hosted audio](https://clareloveday.co.za/MP3/Wind-Play.mp3): Direct exact-work audio file available from composer domain. (opened)
+
+## Chat Batch 07 Decision, 2026-10-13
+
+Tim requested removal from the catalog. The private evidence log is retained.

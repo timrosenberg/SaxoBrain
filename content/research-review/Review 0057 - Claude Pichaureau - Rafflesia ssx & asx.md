@@ -3,10 +3,10 @@ title: "Review 0057: Claude Pichaureau - Rafflesia ssx & asx"
 added: 2026-10-11
 review-id: 57
 review-packet: 3
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Claude Pichaureau - Rafflesia ssx & asx]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [Claude Pichaureau - Rafflesia ssx & asx.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Claude Pichaureau - Rafflesia ssx & asx.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0057.json).
+Catalog: removed at Tim’s request on 2026-10-13.
 
 **Identity and findings.** The exact Billaudot GB5479 title is Rafflesia, du prélude à l’épilogue (2e/3e mouvements), associated in catalog metadata with B-flat and E-flat saxophone and piano. This does not match the catalog note’s soprano/alto duet description. A Philharmonie reference guide clarifies the related three-movement saxophone/orchestra work, but does not identify the saxophone/piano GB5479 edition.
 
@@ -50,4 +50,24 @@ Catalog: [Claude Pichaureau - Rafflesia ssx & asx.md](/Users/trosenberg/Document
 - Review title and instrument fields against the official GB5479 score: publisher catalog describes the 2nd/3rd movements with B-flat and E-flat saxophone/piano classifications, not explicitly a soprano-and-alto duet. Do not change catalog until score mapping is verified.
 - The wider Rafflesia title family includes the three-movement saxophone/orchestra work described in the 1993 reference guide. Keep this distinct from the cataloged GB5479 piano edition until its cover and score clarify the intended version.
 
-**Tim decision:** pending.
+**Tim decision:** Removed.
+
+## Chat batch 07 follow-up, 2026-10-13
+
+Billaudot’s exact GB5479 page identifies movements 2 and 3 and classifies both B-flat and E-flat saxophone with piano. Groth specifies one player, two movements: Rafflesia for soprano and Epilogue for alto. The piano accompaniment and alto doubling are missing from existing instrument tags. The Philharmonie repertoire guide describes a full three-movement orchestral work, about fifteen minutes: an independently playable solo-alto Prélude, a soprano-and-orchestra Rafflesia adapted from the same-name quartet, and an alto-and-orchestra Epilogue. GB5479 contains only the latter two movements. Standalone Prélude GB4860 has a publisher copyright year 1990. That date is not established as the composition year of the cataloged two-movement GB5479 reduction.
+
+Score observations: No actual GB5479 musical pages inspected. Retrieved Groth and Billaudot HTML supplied catalogs and cover assets, with no readable notation preview.
+
+Collection context: Piano reduction of two movements from a three-movement concertante work; exclude quartet and standalone Prélude editions from exact-version evidence.
+
+Open questions: Existing soprano-only instrumentation is incomplete. Append Alto Saxophone and Piano for the exact GB5479 edition. No composition year verified for this version. Do not use a related score’s copyright date or fifteen-minute full-concerto duration. No readable exact-edition score or verified playable recording of the soprano/alto-and-piano reduction located. The quartet recording and full-band version do not establish GB5479’s pianistic texture or its exact saxophone demands.
+
+Sources checked:
+- [Editions Billaudot exact product](https://www.billaudot.com/gb5479-6.html): GB5479 comprises movements 2/3 and B-flat/E-flat saxophone with piano. (opened)
+- [Groth Music exact product record](https://www.grothmusic.com/p-38035.aspx): Single player uses soprano for Rafflesia and alto for Epilogue. (opened)
+- [Philharmonie de Paris, digitized repertoire guide](https://mediatheque.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf): Full orchestral work structure, quartet-derived middle movement, standalone Prélude and fifteen-minute full duration. (opened)
+- [Editions Billaudot related edition](https://www.billaudot.com/prelude-a-rafflesia-saxophone-alto-en-mib-solo.html): Separate solo-alto Prélude edition GB4860, copyright 1990. (search_index_only)
+
+## Chat Batch 07 Decision, 2026-10-13
+
+Tim requested removal from the catalog. The private evidence log is retained.

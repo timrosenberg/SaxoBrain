@@ -30,3 +30,16 @@ Catalog: [[Ernesto Pellegrini - Duolog]]
 - Pellegrini’s university program notes explain that in his *Duolog III* for bassoon and piano the title refers to equal participation as a duo, but this is a different work and does not establish the saxophone piece’s contents. [Ball State University concert program notes](https://cdm16850.contentdm.oclc.org/digital/api/collection/MusCnrtEvnt/id/18967/download) (search_index_only).
 - Collection/use: The term 'Duolog' is documented by the composer in notes for a separate double-reed work as referring to equal duo participation; do not transfer that description to the saxophone piece without its own score or notes.
 - Gaps: No saxophone score pages, actual recording, date, duration, or work-specific performance guide found.; No composer/publisher prose beyond title and instrumentation was found; technique claims in the AI-generated retailer text were excluded.
+
+## Chat batch 08 follow-up, 2026-10-13
+
+Groth Music and the Dorn Publications catalog confirm the alto saxophone and piano edition, catalog number DORN0184. No actual notation sample or exact playable recording was located. The J.W. Pepper product description is explicitly identified as AI-generated and was excluded from the musical profile. A Ball State retirement program says Duolog I was recorded on the CRS label. It does not specify instrumentation or identify the album, so the connection to this saxophone edition remains unconfirmed.
+
+Collection context: An individually published alto saxophone duo. No verified youth simplification or transcription context was found.
+
+Open questions: Written range, rhythms, techniques, duration and composition year remain unknown. The archival Duolog I recording lead has no confirmed album or instrumentation.
+
+Sources checked:
+- [Groth Music, Dorn distributor](https://www.grothmusic.com/p-145619.aspx): Alto saxophone and piano edition, Ernesto Pellegrini, Dorn DORN0184. (opened)
+- [Dorn Publications catalog](https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf): Catalog item 184 lists Pellegrini Duolog in the alto saxophone and piano section. (opened)
+- [Ball State retirement program, printed page 16](https://cardinalscholar.bsu.edu/bitstreams/1dbdd52d-a357-444d-b5f8-e0361766e3ad/download): Duolog I recorded on CRS; instrumentation and album unlisted, so identity with the saxophone edition remains unconfirmed. (opened)

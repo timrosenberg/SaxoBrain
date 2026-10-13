@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 1979
-year-of-study: 
+year-of-study: "Second Year"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-143811.aspx
@@ -15,11 +15,22 @@ added: 2024-03-08
 research:
   - "Publisher and catalog no.: Kunzelmann GM937 · https://www.grothmusic.com/p-143811.aspx"
   - "Groth lists it as Op. 37; 27 pages · https://www.grothmusic.com/p-143811.aspx"
+  - "Composition1979; Kunzelmann 1981 score and part; dedication Iwan Roth;1982 orchestral version · https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf"
+  - "Slow section leads to rhythmic Allegro · https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf"
+  - "Dealer describes three tempo sections · https://vcisinc.com/saxophonemusic.htm"
+  - "Fantasia op.37 in saxophone/piano performance repertoire · https://www.conspaganini.it/sites/default/files/Prassi%20Esecutiva,%20Tecnica%20e%20Repertorio%201%20e%202%20-%20SASSOFONO.pdf"
 publisher:
   - "Edition Albert J. Kunzelmann"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat batch 06 follow-up, 2026-10-12
+
+The Antwerp library confirms Fantasia op.37, composed 1979, Kunzelmann publication 1981 and dedication to Iwan Roth. The freshly retrieved Philharmonie guide describes a slow-to-rhythmic-Allegro span; Van Cott supplies three tempo headings. No notation or matching recording was verified, and GM937 remains an indexed exact-edition purchase lead.
+
+[[Review 0026 - Boris Mersson - Fantasia|Full evidence and open questions]]
+
 
 - Publisher and catalog no.: Kunzelmann GM937 · [grothmusic.com](https://www.grothmusic.com/p-143811.aspx)
 - Groth lists it as Op. 37; 27 pages · [grothmusic.com](https://www.grothmusic.com/p-143811.aspx)

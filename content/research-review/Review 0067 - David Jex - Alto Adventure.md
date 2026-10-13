@@ -46,3 +46,15 @@ Catalog: [David Jex - Alto Adventure.md](/Users/trosenberg/Documents/GitHub/Saxo
 - Piano edition and wind-ensemble recording relationship should be confirmed against the solo part.
 
 **Tim decision:** pending.
+
+## Chat batch 08 follow-up, 2026-10-13
+
+Wingert-Jones identifies alto saxophone with piano, product 3055131, duration six minutes, composed for Lynn Klock. The publisher describes technical passages over a driving piano part, lyrical upper-register melodies, rapid transitions into virtuosity, and an accelerating close. These are publisher-described demands, not observations from notation. The exact 2014 Albany recording with Lynn Klock, Virginia Wind Symphony and Dennis Zeisler is publicly available on YouTube. This recording uses wind ensemble accompaniment. The product page has a contradictory generic line naming Concert Band Conductor Score & Parts below its explicit Alto Saxophone w/Piano heading and piano-specific description. Its current price/item identity and independent retailer description point to the piano edition; request confirmation before ordering band parts from this item.
+
+Collection context: Individual concert piece written for Lynn Klock; no documented youth simplification located.
+
+Open questions: No notation inspected; written range and specific technical material remain unknown. Composition year and exact relationship/date of piano and band versions remain unverified. Publisher page contains conflicting package labels.
+
+Sources checked:
+- [Wingert-Jones Publications](https://wingertjones.com/product/3055131-alto-adventure-jex/): Alto saxophone with piano, 3055131, composed for Lynn Klock, six minutes; technical passages, upper-register melodies, driving piano, acceleration; product page contains conflicting band-package label. (opened)
+- [Lynn Klock Topic / Albany Records / Orchard distribution](https://www.youtube.com/watch?v=K1APvNEYTcc): Exact public 5:42 YouTube recording identifies David Jex, Lynn Klock, Virginia Wind Symphony and Dennis Zeisler; Albany 2014 and Wingert-Jones music publishing credits. (opened)

@@ -3,10 +3,10 @@ title: "Review 0060: Cécile Chaminade - Rêve d'un Soir"
 added: 2026-10-11
 review-id: 60
 review-packet: 3
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Cécile Chaminade - Rêve d'un Soir]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [Cécile Chaminade - Rêve d'un Soir.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Cécile Chaminade - Rêve d'un Soir.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0060.json).
+Catalog: removed at Tim’s request on 2026-10-13.
 
 **Identity and findings.** The cataloged soprano-saxophone item is a transcription of Cécile Chaminade’s song Rêve d’un soir, originally for voice and piano and first published in 1891. IMSLP and the University of Rochester’s Sibley Music Library provide the source song score, but not the cataloged saxophone arrangement.
 
@@ -44,4 +44,23 @@ Catalog: [Cécile Chaminade - Rêve d'un Soir.md](/Users/trosenberg/Documents/Gi
 - The cataloged soprano-saxophone transcription’s arranger, publisher, exact notation, range, and availability need confirmation.
 - The Saxophone Journal CD and playalong record were identified in a library catalog lead but no accessible recording was verified.
 
-**Tim decision:** pending.
+**Tim decision:** Removed.
+
+## Chat batch 07 follow-up, 2026-10-13
+
+Freshly retrieved Groth page identifies Dream of an Eve (Rêve d’un soir), originally voice and piano, transcribed by Frank Bongiorno for E-flat or B-flat saxophone and piano, Dorn Publications DORN0939. The exact product heading explicitly names alto saxophone. Dorn’s indexed November 2024 catalog lists order 939, Dream of an Eve, Frank Bongiorno, under soprano saxophone and piano. Groth’s explicit E-flat/B-flat description broadens the edition beyond the existing soprano-only metadata. IMSLP identifies the original voice-and-piano song, first published Paris: Enoch, 1891. Its scores are high- and low-voice originals, with no Bongiorno saxophone arrangement listed. Composition year is not separately established.
+
+Score observations: No musical pages inspected. Groth’s samples section was empty. Original vocal scores were cataloged but not visually inspected, and their range cannot stand in for Bongiorno’s transposed saxophone part.
+
+Collection context: Vocal art-song transcription; exact cataloged edition permits E-flat or B-flat saxophone and piano. Pedagogical journal/playalong lead is unresolved, not a reason to reject transcription as a category.
+
+Open questions: Composition year remains unknown; 1891 is verified publication year and must not automatically fill composed. Groth explicitly titles the exact product for Alto Saxophone (or other Saxophone) and Piano, and its description allows E-flat or B-flat saxophone. Append Alto Saxophone and Piano. Exact tenor/baritone suitability and written range still need the part. No verified playable exact-transcription recording found. The journal-CD/playalong claim could not be freshly verified at ECU. No direct score evidence supports breathing, altissimo, articulations or technical demands. Original lyrical vocal provenance is documented; the arrangement’s detailed handling remains unknown.
+
+Sources checked:
+- [Groth Music exact product record](https://www.grothmusic.com/p-141740.aspx): Exact English/French title match, Bongiorno arranger, Dorn DORN0939, E-flat/B-flat saxophone and piano. (opened)
+- [Dorn Publications, November 2024 music catalog](https://www.grothmusic.com/images/DP%20Catalog%20Nov%202024.pdf): Dorn order 939 is listed under soprano saxophone and piano. (search_index_only)
+- [IMSLP original-song catalog](https://imslp.org/wiki/R%C3%AAve_d%27un_soir_%28Chaminade%2C_C%C3%A9cile%29): Original vocal instrumentation and first publication 1891. (opened)
+
+## Chat Batch 07 Decision, 2026-10-13
+
+Tim requested removal from the catalog. The private evidence log is retained.

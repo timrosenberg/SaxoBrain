@@ -3,9 +3,9 @@ title: "Review 0041: Cecil Leeson - Concertino"
 added: 2026-10-11
 review-id: 41
 review-packet: 2
-review-decision: Pending
-review-applied: false
-notation-inspected: false
+review-decision: "Second Year"
+review-applied: true
+notation-inspected: true
 catalog-entry: "[[Cecil Leeson - Concertino]]"
 build:
   render: never
@@ -41,3 +41,22 @@ Searches checked:
 - Cecil Leeson Concertino Ball State University archival scan score
 - Ball State Cecil Leeson Archival Saxophone Collection Butler 1981 Concertino score
 - Cecil Leeson Concertino SS817 saxophone recording syllabus
+
+## Chat batch 07 follow-up, 2026-10-13
+
+The Ball State University archival repertory sheet dates the original Concertino to 1948. The inspected published opening bears copyright 1952, which is a separate publication date. Groth supplies Southern SS817, 31 pages, with piano reduction and separate alto part. Its composer note describes Dialogue as musical discussion, Song and Recitation as song followed by subtle continuous variation, and the finale as absorbed jazz influence. The edition is dedicated to Nellie Gwynne Dehnbostel. It is a reduction of an original saxophone concert work. The inspected title identifies the original accompaniment as wind symphonette or chamber orchestra; the supplied preview is the piano reduction.
+
+Score observations: The visible opening of Dialogue is marked Moderately Brisk, quarter note 126–132, with a footnote that metronome indications are approximate. The saxophone initially rests while the piano plays chordal figures with changing dynamics. The saxophone then enters with slurred eighth-note figures, chromatic accidentals, descending and ascending motion, and contrasts from quiet to forte. Piano chords, accidentals, accents and moving bass figures create an active ensemble texture. The sample labels the saxophone line actual sounds, so it does not establish the transposed written range. Only this opening page was inspected.
+
+Collection context: Original saxophone concert work in a substantive piano reduction; no simplified youth transcription evidence.
+
+Open questions: No complete score was inspected. Whole-work range, later movement demands, duration and any extended techniques remain unverified. No publicly playable recording of this exact Leeson Concertino was verified. Creston works dedicated to Leeson and other composers’ Concertinos are different works.
+
+Sources checked:
+- [Ball State University archival repertory sheet](https://cdm16850.contentdm.oclc.org/digital/api/collection/MusCnrtEvnt/id/4079/download): Original Concertino dated 1948. (opened)
+- [Groth Music](https://www.grothmusic.com/p-143006.aspx): Southern SS817 is the alto/piano reduction; three movements and composer explanation of their characters. (opened)
+- [Southern edition preview hosted by Groth](https://grothmusic.com/images/product/large/ae00-124620_2_.jpg): Opening tempo, chromatic line, active piano texture and actual-sounds saxophone labeling; copyright 1952. Original title specifies wind symphonette or chamber orchestra. (score_inspected)
+
+## Chat Batch 07 Decision, 2026-10-13
+
+Tim assigned Second Year.

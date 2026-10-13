@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
+year-of-study: "Second Year"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-145620.aspx
@@ -15,9 +15,22 @@ added: 2024-03-08
 research:
   - "Published by Dorn Publications as 'Towers of Dalmatia: A Rhapsody for Saxophone and Piano'; announced September 2012 · https://www.westminster.edu/about/news/release.cfm?id=3960"
   - "Written for and premiered at Westminster College by saxophonist James Flowers and pianist Nancy DeSalvo · https://www.westminster.edu/about/news/release.cfm?id=3960"
+  - "Alto saxophone and piano in composer worklist; direct sheet-music ordering route · https://www.danielperttu.com/compositions"
+  - "DORN1851 alto saxophone and piano; composed for Jim Flowers and Nancy DeSalvo · https://www.grothmusic.com/p-145620.aspx"
+  - "Dorn catalogue item1851, Towers of Dalmatia · https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf"
+  - "Premiere at Westminster by Flowers and DeSalvo; published by September2012 · https://www.westminster.edu/about/news/release.cfm?id=3960"
 aliases: []
+publisher:
+  - "Dorn Publications"
 ---
 ## Research notes (private)
+
+### Chat batch 07 follow-up, 2026-10-13
+
+Alto and piano, written for James Flowers and Nancy DeSalvo, who premiered it at Westminster College. Dorn DORN1851 is confirmed. No notation or matching recording was found, so musical demands remain unknown and a score copy is needed.
+
+[[Review 0062 - Daniel Perttu - Towers of Dalmatia|Full evidence and open questions]]
+
 
 - Published by Dorn Publications as 'Towers of Dalmatia: A Rhapsody for Saxophone and Piano'; announced September 2012 · [westminster.edu](https://www.westminster.edu/about/news/release.cfm?id=3960)
 - Written for and premiered at Westminster College by saxophonist James Flowers and pianist Nancy DeSalvo · [westminster.edu](https://www.westminster.edu/about/news/release.cfm?id=3960)

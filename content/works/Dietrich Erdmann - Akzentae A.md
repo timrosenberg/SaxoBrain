@@ -8,16 +8,28 @@ instruments:
   - "Piano"
 composed: 
 year-of-study: 
-streaming: 
+streaming: "https://www.youtube.com/watch?v=_aqkOZqNF40"
 purchase:
   - https://www.grothmusic.com/p-143408.aspx
 added: 2024-03-08
 research:
   - "Publisher Breitkopf, catalog number EB9138 · https://www.grothmusic.com/p-143408.aspx"
   - "Listed as Akzente A; three movements: Allegro con fuoco, Adagio expressivo, Presto grottesco; 21 pages · https://www.grothmusic.com/p-143408.aspx"
+  - "EB9138 supplies piano score and solo alto part; 21 pages. · https://www.grothmusic.com/p-143408.aspx"
+  - "Alto reworking of 1989 tenor Akzente; dated 1989/2003. Performer notes discuss accents, triplets, trills, sevenths, slap tongue and laughing effect. · https://www.eda-records.com/177-1-CD-Details.html?cd_id=42"
+  - "EDA recording, first and third movements, verified public with playback formats. · https://www.youtube.com/watch?v=_aqkOZqNF40"
 aliases: []
+publisher:
+  - "Breitkopf & Härtel"
 ---
 ## Research notes (private)
+
+### Chat batch 08 follow-up, 2026-10-13
+
+Akzente A is Erdmann’s alto reworking of the 1989 tenor Akzente. EDA dates it 1989/2003. Its performers describe turbulent displaced accents, triplet cascades, lyrical trills and sevenths, and slap tongue followed by a laughing effect. Exact recordings of all three movements by Frank Lunte and Tatjana Blome are publicly available. The title spelling and date relationship need decision flags. Score-based range remains unverified. The default Listen plays movement I; II and III have separate verified links.
+
+[[Review 0075 - Dietrich Erdmann - Akzentae A|Full evidence and open questions]]
+
 
 - Publisher Breitkopf, catalog number EB9138 · [grothmusic.com](https://www.grothmusic.com/p-143408.aspx)
 - Listed as Akzente A; three movements: Allegro con fuoco, Adagio expressivo, Presto grottesco; 21 pages · [grothmusic.com](https://www.grothmusic.com/p-143408.aspx)

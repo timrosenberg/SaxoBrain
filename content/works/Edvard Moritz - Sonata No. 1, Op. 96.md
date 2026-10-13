@@ -8,18 +8,33 @@ instruments:
   - "Piano"
 composed: 
 year-of-study: 
-streaming: 
+streaming: "https://www.youtube.com/watch?v=IjPCfMXpY9Y"
 purchase:
-  - https://www.grothmusic.com/p-37982.aspx
+  - "https://www.grothmusic.com/p-37982.aspx"
+  - "https://www.halleonard.com/product/viewproduct.do?itemid=3774461"
 added: 2024-03-08
 research:
   - "Publisher Southern, catalog number SS794 · https://www.grothmusic.com/p-37982.aspx"
   - "56 pages · https://www.grothmusic.com/p-37982.aspx"
+  - "Four movements, alto sax/piano, 27 minutes, dedication and catalog arranger credit Cecil Leeson; lyrical/technical contrasting description. · https://keiserproductions.com/catalog/southern-music/?ic=&sc=&tc=&tid=88C526BC-7F74-4338-AF3B-E3397778AED5"
+  - "SS794 / HL03774461, 56 pages, Level 4, UPC884088744687. · https://www.halleonard.com/product/viewproduct.do?itemid=3774461"
+  - "Musica reanimata 2019 event lists Sonata for E-flat alto saxophone/piano, Op. 96(1939), Enzel/Groschopp. · https://musica-reanimata.de/en/0050.review.html"
+  - "October 11, 2021 university recital identifies Sonata No. 1, Op. 96(1938), Molto andante, LJ Hollingsworth, alto saxophone and Karla Rocker, piano. · https://digitalcommons.georgiasouthern.edu/videos/2426/"
+  - "Full six-side Decca Op. 96 upload credits Cecil Leeson/Josef Wagner, names all four movements; playback advanced 4.97 seconds with readyState 4 and duration 25:02. · https://www.youtube.com/watch?v=IjPCfMXpY9Y"
 publisher:
   - "Southern Music"
 aliases: []
+arranger-edition:
+  - "Southern Music SS794; Cecil Leeson credited as arranger"
 ---
 ## Research notes (private)
+
+### Chat batch 08 follow-up, 2026-10-13
+
+Moritz, Sonata No. 1, Op. 96: [Southern Music](https://keiserproductions.com/catalog/southern-music/?ic=&sc=&tc=&tid=88C526BC-7F74-4338-AF3B-E3397778AED5) describes a 27-minute four-movement work that alternates lyrical writing and technical flair, dedicated to Cecil Leeson. The [complete Leeson/Josef Wagner archival recording](https://www.youtube.com/watch?v=IjPCfMXpY9Y) is verified playable and identifies Allegro molto, Molto andante, Scherzo and Finale. An institutional 2021 recital documents use of Molto andante. Program sources disagree on 1938/1939, so composition year remains blank. The exact 56-page SS794 edition is confirmed, while notation and written range remain unavailable.
+
+[[Review 0083 - Edvard Moritz - Sonata No. 1, Op. 96|Full evidence and open questions]]
+
 
 - Publisher Southern, catalog number SS794 · [grothmusic.com](https://www.grothmusic.com/p-37982.aspx)
 - 56 pages · [grothmusic.com](https://www.grothmusic.com/p-37982.aspx)

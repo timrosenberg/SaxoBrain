@@ -1,0 +1,2706 @@
+{
+  "created": "2026-10-12",
+  "chat_batch": 6,
+  "decision_status": "Applied",
+  "scope": "Tim’s seventeen level assignments applied; eight specified works removed from the catalog. Private research retained and retired URLs redirected to the catalog.",
+  "works": [
+    {
+      "chat_number": 1,
+      "review_id": 1,
+      "filename": "Albert Gower - Elegy & Presto.md",
+      "review_note": "content/research-review/Review 0001 - Albert Gower - Elegy & Presto.md",
+      "metadata_added": {
+        "publisher": [
+          "Tenuto Publications"
+        ],
+        "instruments": [
+          "Soprano Saxophone",
+          "Piano"
+        ]
+      },
+      "notation_inspected": false,
+      "research_record": {
+        "chat_number": 1,
+        "id": 1,
+        "batch": 6,
+        "filename": "Albert Gower - Elegy & Presto.md",
+        "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Albert Gower - Elegy & Presto.md",
+        "title": "Elegy & Presto",
+        "checked_on": "2026-10-12",
+        "status": "researched_with_gaps",
+        "identity": "Albert Gower, Elegy and Presto, Tenuto 494-01779, issued for oboe or B-flat soprano saxophone and piano.",
+        "findings": "Groth identifies a 14-page package containing piano score, oboe part, and a separate alternate B-flat soprano saxophone part. This settles that the saxophone edition has an actual transposed part. https://www.grothmusic.com/p-144593.aspx Theodore Presser/Carl Fischer woodwind catalog places 494-01779 under oboe and codes the publisher TT, Tenuto. This is stronger imprint evidence than the dealer grouping under Carl Fischer. https://www.tpcfassets.com/presser/catalogs/Presser_Fischer_Woodwind_catalog.pdf",
+        "evidence": [
+          {
+            "claim": "Published oboe/soprano option, catalog 494-01779, Tenuto imprint code TT.",
+            "url": "https://www.tpcfassets.com/presser/catalogs/Presser_Fischer_Woodwind_catalog.pdf",
+            "source_name": "Theodore Presser/Carl Fischer woodwind catalog",
+            "kind": "publisher",
+            "access": "opened",
+            "page": "printed p.50, PDF p.63"
+          },
+          {
+            "claim": "14 pages; piano score, oboe part and alternate B-flat soprano saxophone part.",
+            "url": "https://www.grothmusic.com/p-144593.aspx",
+            "source_name": "Groth Music",
+            "kind": "retailer",
+            "access": "opened"
+          }
+        ],
+        "score_observations": "",
+        "notation_inspected": false,
+        "score_links": [],
+        "listening": [],
+        "gaps": [
+          "No readable notation preview or matching saxophone performance located after title, composer, score and recital searches.",
+          "UMD supplied HTTP 202 with empty body; the old 4:10 duration is unverified.",
+          "1994 appears as a publication/copyright lead in CiNii search index, not a verified composition year.",
+          "Original instrument, adaptation history, range and intended audience remain unknown."
+        ],
+        "collection_flag": "Dual-instrument publication with dedicated soprano part. A transcription or young-player audience is unproved. Do not use the oboe range to judge the saxophone part.",
+        "searches": [
+          "Albert Gower Elegy Presto score soprano saxophone 49401779",
+          "\"Gower\" \"Elegy\" \"Presto\" saxophone",
+          "\"Elegy and Presto\" \"Gower\" performance",
+          "\"Gower\" \"Elegy\" score preview",
+          "\"Elegy and Presto\" Gower score Tenuto library duration",
+          "\"Albert Gower\" composer Elegy Presto soprano saxophone recital",
+          "Checked Groth full HTML, Presser catalog PDF, UMD empty HTTP202, CiNii index; rejected Scinto string-orchestra and Ketchum tuba-quartet name collisions."
+        ],
+        "metadata": {
+          "composed": null,
+          "publisher": [
+            "Tenuto Publications"
+          ],
+          "streaming": null,
+          "purchase": [
+            "https://www.grothmusic.com/p-144593.aspx"
+          ],
+          "download": [],
+          "instruments": [
+            "Soprano Saxophone",
+            "Piano"
+          ]
+        },
+        "proposed_corrections": [],
+        "review_focus": "",
+        "chat_summary": "1. Gower, Elegy & Presto: Tenuto 494-01779 includes a separate B-flat soprano part alongside the oboe part and piano score. [Score edition](https://www.grothmusic.com/p-144593.aspx). No notation or saxophone recording was located; duration, composition date, and adaptation history remain unknown."
+      },
+      "assigned_level": "First Year",
+      "decision": "First Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned First Year."
+    },
+    {
+      "chat_number": 2,
+      "review_id": 2,
+      "filename": "Albert Tepper - Concertino.md",
+      "review_note": "content/research-review/Review 0002 - Albert Tepper - Concertino.md",
+      "metadata_added": {
+        "purchase": [
+          "https://www.grothmusic.com/p-37470.aspx",
+          "https://boosey.com/shop/prod/Concertino-for-Soprano-Saxophone/2177697",
+          "https://www.halleonard.com/product/3776341/concertino-for-soprano-saxophone"
+        ],
+        "instruments": [
+          "Soprano Saxophone",
+          "Piano"
+        ]
+      },
+      "notation_inspected": false,
+      "research_record": {
+        "chat_number": 2,
+        "id": 2,
+        "batch": 6,
+        "filename": "Albert Tepper - Concertino.md",
+        "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Albert Tepper - Concertino.md",
+        "title": "Concertino",
+        "checked_on": "2026-10-12",
+        "status": "researched_with_gaps",
+        "identity": "Albert Tepper, Concertino for Soprano Saxophone and Piano, Southern Music SU427 / HL3776341, composer adaptation of Concertino for Oboe and Strings.",
+        "findings": "Southern Music gives eight minutes, three brief connected movements without pause, and extended tonality; it says the composer made the piano transcription, published in 1952. https://keiserproductions.com/catalog/southern-music/?ic=&sc=&tc=&tid=31FAE9B6-28C5-4C96-AE1B-4558F1010F1B In Bruce Duffie’s 2000 interview, Tepper explicitly dates the original oboe-and-strings composition to summer 1946 and says he wrote it for a competition. This independently strengthens the university program’s 1946 date while keeping 1952 as edition publication. https://www.bruceduffie.com/tepper.html University of South Alabama programmed it on Zander Westphal’s student saxophone recital with Scott Schwab, piano, February 16, 2022. https://www.southalabama.edu/colleges/music/archive/resources/202122/20220216westphalrecitalprogram.pdf Trinity’s May 2026 updated repertoire list includes the Southern soprano edition at Grade 7, Group A. This is external exam placement, without implying a SaxoBrain year level. https://www.trinitycollege.com/resource/?id=9985",
+        "evidence": [
+          {
+            "claim": "Eight-minute duration; extended tonality; three connected movements; composer-made adaptation and 1952 publication.",
+            "url": "https://keiserproductions.com/catalog/southern-music/?ic=&sc=&tc=&tid=31FAE9B6-28C5-4C96-AE1B-4558F1010F1B",
+            "source_name": "Southern Music / Keiser Productions",
+            "kind": "publisher",
+            "access": "opened"
+          },
+          {
+            "claim": "Composer states original Concertino for Oboe and Strings was composed summer 1946 for a competition.",
+            "url": "https://www.bruceduffie.com/tepper.html",
+            "source_name": "Albert Tepper interviewed by Bruce Duffie",
+            "kind": "composer",
+            "access": "opened"
+          },
+          {
+            "claim": "Soprano edition performed in university student recital, February16 2022.",
+            "url": "https://www.southalabama.edu/colleges/music/archive/resources/202122/20220216westphalrecitalprogram.pdf",
+            "source_name": "University of South Alabama Department of Music",
+            "kind": "institution",
+            "access": "opened"
+          },
+          {
+            "claim": "Grade7 accompanied soprano/tenor list includes Tepper soprano edition HL3776341.",
+            "url": "https://www.trinitycollege.com/resource/?id=9985",
+            "source_name": "Trinity College London",
+            "kind": "pedagogy",
+            "access": "opened"
+          },
+          {
+            "claim": "Publisher product identifies Southern edition; public closer-look endpoint returned null.",
+            "url": "https://www.halleonard.com/product/3776341/concertino-for-soprano-saxophone",
+            "source_name": "Hal Leonard / Southern Music",
+            "kind": "publisher",
+            "access": "opened"
+          }
+        ],
+        "score_observations": "",
+        "notation_inspected": false,
+        "score_links": [],
+        "listening": [],
+        "gaps": [
+          "No notation preview: Hal Leonard’s linked closer-look JSON returned closerLook:null.",
+          "No actual saxophone recording located through title/composer/recital/YouTube searches. Oboe recording references in composer interview are not saxophone listening evidence.",
+          "Actual written range, articulation demands and piano coordination remain unknown."
+        ],
+        "collection_flag": "Composer-made transcription from oboe and strings, with original competition purpose and documented university saxophone performance. No evidence supports a simplified lyrical-only young-player adaptation.",
+        "searches": [
+          "Albert Tepper Concertino soprano saxophone score preview recording",
+          "\"Tepper\" \"Concertino\" saxophone youtube",
+          "\"Concertino\" \"Tepper\" saxophone recital video",
+          "\"Tepper\" \"Concertino\" \"youtube.com/watch\"",
+          "\"Tepper\" \"Concertino\" soprano saxophone pdf",
+          "\"Tepper Concertino\" recording soprano",
+          "Checked Southern Music exact catalog, Hal Leonard product HTML and linked public closer-look JSON, Trinity May2026 syllabus, South Alabama recital, composer interview."
+        ],
+        "metadata": {
+          "composed": 1946,
+          "publisher": [
+            "Southern Music"
+          ],
+          "streaming": null,
+          "purchase": [
+            "https://www.halleonard.com/product/3776341/concertino-for-soprano-saxophone"
+          ],
+          "download": [],
+          "instruments": [
+            "Soprano Saxophone",
+            "Piano"
+          ]
+        },
+        "proposed_corrections": [],
+        "review_focus": "Inference from publisher description: continuity through linked movements and extended-tonal reading deserve review in the actual soprano part.",
+        "chat_summary": "2. Tepper, Concertino: the composer dated the original oboe-and-strings work to summer 1946 in [his interview](https://www.bruceduffie.com/tepper.html); Southern’s soprano/piano adaptation was published in 1952. [Publisher](https://keiserproductions.com/catalog/southern-music/?ic=&sc=&tc=&tid=31FAE9B6-28C5-4C96-AE1B-4558F1010F1B) describes eight minutes of extended tonality across three connected movements, and South Alabama documents a university saxophone recital. No notation or saxophone recording was located."
+      },
+      "assigned_level": "Second Year",
+      "decision": "Second Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Second Year."
+    },
+    {
+      "chat_number": 3,
+      "review_id": 5,
+      "filename": "Andrei Eshpai - Concerto.md",
+      "review_note": "content/research-review/Review 0005 - Andrei Eshpai - Concerto.md",
+      "metadata_added": {
+        "streaming": "https://music.apple.com/us/album/saxophone-concerto/624039906?i=624040295&uo=4",
+        "instruments": [
+          "Soprano Saxophone",
+          "Piano",
+          "Orchestra"
+        ]
+      },
+      "notation_inspected": false,
+      "research_record": {
+        "chat_number": 3,
+        "id": 5,
+        "batch": 6,
+        "filename": "Andrei Eshpai - Concerto.md",
+        "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Andrei Eshpai - Concerto.md",
+        "title": "Concerto",
+        "checked_on": "2026-10-12",
+        "status": "researched_with_gaps",
+        "identity": "Andrei Eshpai, Concerto for soprano saxophone and orchestra; Muzyka MZ16534 is the separate soprano-and-piano reduction.",
+        "findings": "Boosey/Sikorski specifies a 19-minute soprano concerto with large orchestra, including electric guitar, harp, celesta and three percussionists. The orchestral scoring establishes the original concerto context. https://www.boosey.com/cr/music/Andrey-Eshpay-Concerto-for-Soprano-Saxophone-and-Orchestra/109351 Composition-year conflict: Boosey/Sikorski gives 1985 while Wise/Schirmer Russian Music gives 1987 for the same scoring and duration. Ficks gives 1986 for the Muzyka reduction. Leave the composition field unresolved. https://www.boosey.com/cr/music/Andrey-Eshpay-Concerto-for-Soprano-Saxophone-and-Orchestra/109351 https://www.wisemusicclassical.com/work/44351/Concerto-for-Soprano-Saxophone-and-Orchestra--Andrei-Eshpai/ https://www.ficksmusic.com/products/eshpai-concerto-for-soprano-saxophone-muzyka Muzyka MZ16534, ISMN 9790660069585, supplies the soprano solo part and piano reduction in a 44-page publication. A piano reduction of a saxophone concerto does not make the solo a transcription from another instrument. https://www.ficksmusic.com/products/eshpai-concerto-for-soprano-saxophone-muzyka Jan Schulte-Bunert performs the concerto with Neue Philharmonie Westfalen and Heiko Mathias Förster on Solo Musica’s 2013 recording. Apple’s official catalog supplies the exact track and 19:48 running time; Spotify credits Eshpai. https://music.apple.com/us/album/saxophone-concerto/624039906?i=624040295&uo=4 https://open.spotify.com/track/4rXFNZLSfjyA6fzKpPsT8y",
+        "evidence": [
+          {
+            "claim": "Soprano concerto, 1985, 19 minutes, orchestration, Sikorski.",
+            "url": "https://www.boosey.com/cr/music/Andrey-Eshpay-Concerto-for-Soprano-Saxophone-and-Orchestra/109351",
+            "source_name": "Boosey & Hawkes / Sikorski",
+            "kind": "publisher",
+            "access": "opened"
+          },
+          {
+            "claim": "Same soprano work dated 1987; Schirmer Russian Music US/Canada hire rights.",
+            "url": "https://www.wisemusicclassical.com/work/44351/Concerto-for-Soprano-Saxophone-and-Orchestra--Andrei-Eshpai/",
+            "source_name": "Wise Music Classical / Schirmer Russian Music",
+            "kind": "publisher",
+            "access": "opened"
+          },
+          {
+            "claim": "Muzyka reduction MZ16534; 44 pages; solo part and piano; dealer date 1986.",
+            "url": "https://www.ficksmusic.com/products/eshpai-concerto-for-soprano-saxophone-muzyka",
+            "source_name": "Ficks Music",
+            "kind": "retailer",
+            "access": "opened"
+          },
+          {
+            "claim": "Exact concerto recording, musicians, 1188787 milliseconds and streamability.",
+            "url": "https://itunes.apple.com/search?term=Eshpai+Concerto+saxophone&entity=song&country=us&limit=10",
+            "source_name": "Apple iTunes catalog API",
+            "kind": "recording_catalog",
+            "access": "opened",
+            "local_evidence": "/tmp/saxobrain-batch06/apple-3.json"
+          },
+          {
+            "claim": "Eshpai composer credit and 19:48 recording.",
+            "url": "https://open.spotify.com/track/4rXFNZLSfjyA6fzKpPsT8y",
+            "source_name": "Spotify",
+            "kind": "recording_catalog",
+            "access": "fresh search result; direct opened page did not expose text"
+          }
+        ],
+        "score_observations": "",
+        "notation_inspected": false,
+        "score_links": [
+          {
+            "url": "https://www.ficksmusic.com/products/eshpai-concerto-for-soprano-saxophone-muzyka",
+            "type": "purchase",
+            "edition": "Muzyka MZ16534, soprano part and piano reduction"
+          }
+        ],
+        "listening": [
+          {
+            "url": "https://music.apple.com/us/album/saxophone-concerto/624039906?i=624040295&uo=4",
+            "performers": "Jan Schulte-Bunert; Neue Philharmonie Westfalen; Heiko Mathias Förster",
+            "instrument": "Soprano saxophone and orchestra",
+            "duration": "19:48",
+            "verified": "Official Apple API exact track; album and Spotify corroboration",
+            "audio_analyzed": false
+          }
+        ],
+        "gaps": [
+          "No readable notation preview found for the Muzyka reduction or Universal orchestral score lead. Solo range, articulation and extended-technique demands remain unverified.",
+          "Publisher and dealer composition dates conflict (1985, 1986 and 1987). The existing catalog value 1987 is retained and flagged for review.",
+          "Recording identity is verified; audio playback was not analyzed.",
+          "Exact creator/date of the piano reduction remains unverified."
+        ],
+        "collection_flag": "Original soprano orchestral concerto with published piano reduction. No young-player or simplified-arrangement evidence found. The 19-minute concerto context is verified; difficulty requires the solo score.",
+        "searches": [
+          "Eshpai Eschpaj Eshpay Concerto soprano score preview Muzyka16534 Universal18692",
+          "Eshpai saxophone concerto pdf Sikorski score",
+          "Eshpai Jan Schulte-Bunert Solo Musica Escapades booklet",
+          "Opened Boosey/Sikorski, Wise, Ficks, Apple album and official Apple API; Presto reduction/full-score leads offered no readable preview."
+        ],
+        "metadata": {
+          "composed": null,
+          "publisher": [
+            "Muzyka"
+          ],
+          "streaming": "https://music.apple.com/us/album/saxophone-concerto/624039906?i=624040295&uo=4",
+          "purchase": [
+            "https://www.ficksmusic.com/products/eshpai-concerto-for-soprano-saxophone-muzyka"
+          ],
+          "download": [],
+          "instruments": [
+            "Soprano Saxophone",
+            "Piano",
+            "Orchestra"
+          ]
+        },
+        "proposed_corrections": [],
+        "review_focus": "",
+        "chat_summary": "3. Eshpai, Concerto: a 19-minute original soprano concerto; [Muzyka score](https://www.ficksmusic.com/products/eshpai-concerto-for-soprano-saxophone-muzyka) supplies the solo part and piano reduction. [Listen: Jan Schulte-Bunert and Neue Philharmonie Westfalen](https://music.apple.com/us/album/saxophone-concerto/624039906?i=624040295&uo=4). Publisher dates conflict, and no notation preview was available to establish the solo demands."
+      },
+      "assigned_level": "Third Year",
+      "decision": "Third Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Third Year."
+    },
+    {
+      "chat_number": 4,
+      "review_id": 6,
+      "filename": "André Vergauwen - Pantomime.md",
+      "review_note": "content/research-review/Review 0006 - André Vergauwen - Pantomime.md",
+      "metadata_added": {
+        "publisher": [
+          "Andel Éditions"
+        ]
+      },
+      "notation_inspected": false,
+      "research_record": {
+        "chat_number": 4,
+        "id": 6,
+        "batch": 6,
+        "filename": "André Vergauwen - Pantomime.md",
+        "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/André Vergauwen - Pantomime.md",
+        "title": "Pantomime",
+        "checked_on": "2026-10-12",
+        "status": "researched_with_gaps",
+        "identity": "André Vergauwen, Pantomime, Andel Éditions ANDEL09, alto saxophone and piano.",
+        "findings": "Groth’s exact edition includes a piano score and alto saxophone solo part, six pages, under Andel ANDEL09. https://www.grothmusic.com/p-142022.aspx APSAM’s Belgian repertoire directory lists Pantomime with Andel for alto saxophone; it also lists works of this title for tenor saxophone and bassoon. Those parallel entries do not establish adaptation direction or the parts supplied in ANDEL09. https://www.apsam.be/wp-content/uploads/2022/12/Repertoire.pdf Bayard-Nizet’s composer biography says Vergauwen wrote many solo pieces for music-academy pupils. It does not identify Pantomime as one of them, so the audience of this exact work remains unknown. https://bayard-nizet.be/vergauwen-andre/",
+        "evidence": [
+          {
+            "claim": "ANDEL09, alto saxophone and piano, score plus solo part, six pages.",
+            "url": "https://www.grothmusic.com/p-142022.aspx",
+            "source_name": "Groth Music",
+            "kind": "retailer",
+            "access": "opened"
+          },
+          {
+            "claim": "Pantomime entries for alto, tenor and bassoon; Andel imprint.",
+            "url": "https://www.apsam.be/wp-content/uploads/2022/12/Repertoire.pdf",
+            "source_name": "APSAM repertoire directory",
+            "kind": "professional_association",
+            "access": "opened",
+            "page": "PDF pp.1,13,15"
+          },
+          {
+            "claim": "Composer wrote many academy-pupil solo works; no exact-work attribution.",
+            "url": "https://bayard-nizet.be/vergauwen-andre/",
+            "source_name": "Éditions Bayard-Nizet",
+            "kind": "publisher",
+            "access": "opened"
+          }
+        ],
+        "score_observations": "",
+        "notation_inspected": false,
+        "score_links": [
+          {
+            "url": "https://www.grothmusic.com/p-142022.aspx",
+            "type": "purchase",
+            "edition": "Andel ANDEL09, alto and piano"
+          }
+        ],
+        "listening": [],
+        "gaps": [
+          "No exact Andel publisher work page, readable score preview or matching saxophone recording found after alternate-instrument and exact-title searches.",
+          "Range, duration, composition date, movement structure and musical demands remain unknown.",
+          "The directory’s sonatine category is a directory classification, not verified evidence that the score is formally a sonatina.",
+          "Parallel alto, tenor, clarinet and bassoon leads require score comparison before calling this a transcription."
+        ],
+        "collection_flag": "Dedicated published alto part is verified. Composer-level teaching activity and cross-instrument editions are reasons to inspect the score, not proof this edition targets children or is a transcription.",
+        "searches": [
+          "André Vergauwen Pantomime saxophone score preview Andel09",
+          "Vergauwen Pantomime alto saxophone recording youtube",
+          "Vergauwen Pantomime Andel clarinet bassoon tenor",
+          "Opened Groth exact edition, APSAM directory and Bayard-Nizet biography; searched Andel publisher and music-conservatory performance sources."
+        ],
+        "metadata": {
+          "composed": null,
+          "publisher": [
+            "Andel Éditions"
+          ],
+          "streaming": null,
+          "purchase": [
+            "https://www.grothmusic.com/p-142022.aspx"
+          ],
+          "download": [],
+          "instruments": [
+            "Alto Saxophone",
+            "Piano"
+          ]
+        },
+        "proposed_corrections": [],
+        "review_focus": "",
+        "chat_summary": "4. Vergauwen, Pantomime: [Andel ANDEL09](https://www.grothmusic.com/p-142022.aspx) includes an alto part and piano score. A Belgian directory also lists tenor and bassoon versions, so transcription direction remains unresolved. No readable notation or matching recording was found to judge the musical demands."
+      },
+      "removed": true,
+      "retired_url": "/works/andre-vergauwen-pantomime/",
+      "redirect_to": "/",
+      "removed_work_snapshot": "---\ntitle: \"Pantomime\"\nslug: andre-vergauwen-pantomime\ncomposer:\n  - \"[[André Vergauwen]]\"\ninstruments:\n  - \"Alto Saxophone\"\n  - \"Piano\"\ncomposed: \nyear-of-study: \nstreaming: \npurchase:\n  - https://www.grothmusic.com/p-142022.aspx\nadded: 2024-03-08\nresearch:\n  - \"Publisher and catalog no.: Andel Editions ANDEL09 · https://www.grothmusic.com/p-142022.aspx\"\n  - \"ANDEL09, alto saxophone and piano, score plus solo part, six pages. · https://www.grothmusic.com/p-142022.aspx\"\n  - \"Pantomime entries for alto, tenor and bassoon; Andel imprint. · https://www.apsam.be/wp-content/uploads/2022/12/Repertoire.pdf\"\n  - \"Composer wrote many academy-pupil solo works; no exact-work attribution. · https://bayard-nizet.be/vergauwen-andre/\"\naliases: []\npublisher:\n  - \"Andel Éditions\"\n---\n## Research notes (private)\n\n### Chat batch 06 follow-up, 2026-10-12\n\nVergauwen, Pantomime: [Andel ANDEL09](https://www.grothmusic.com/p-142022.aspx) includes an alto part and piano score. A Belgian directory also lists tenor and bassoon versions, so transcription direction remains unresolved. No readable notation or matching recording was found to judge the musical demands.\n\n[[Review 0006 - André Vergauwen - Pantomime|Full evidence and open questions]]\n\n\n- Publisher and catalog no.: Andel Editions ANDEL09 · [grothmusic.com](https://www.grothmusic.com/p-142022.aspx)\n\n<!-- saxobrain-research-review-2026-10-11 -->\n\n### Research Review, October 11, 2026\n\n[[Review 0006 - André Vergauwen - Pantomime|Full review note]]\n\nCatalog: [[André Vergauwen - Pantomime]]\n\n- Identity: *Pantomime* is listed in a Belgian saxophone repertoire directory as a sonatina for alto saxophone, and Groth's existing listing points to Andel Editions ANDEL09. A composer/publisher page for Vergauwen states that several of his solo works were intended for music-academy students, but does not identify *Pantomime* specifically.\n- Belgian saxophone association directory classifies Pantomime as a sonatina for alto saxophone. [Association des Professeurs de Saxophone de Belgique repertoire list](https://www.apsam.be/wp-content/uploads/2022/12/Repertoire.pdf) (opened).\n- Composer biography says many solo works were intended for academy students, but does not tie that statement to this work. [Bayard-Nizet Editions, André Vergauwen](https://bayard-nizet.be/vergauwen-andre/) (opened).\n- Collection/use: Potential academy-student context is documented for some Vergauwen solo works; application to *Pantomime* is unresolved.\n- Gaps: No exact Andel listing, score preview, duration, or performance recording verified.; Need confirm title, accompaniment, and whether this work is the student-oriented item described by the composer page.\n\n",
+      "assigned_level": null,
+      "decision": "Removed",
+      "review_applied": true,
+      "decision_note": "Tim requested removal from the catalog. The private evidence log is retained."
+    },
+    {
+      "chat_number": 5,
+      "review_id": 7,
+      "filename": "Anne Marie Mimet - Complainte.md",
+      "review_note": "content/research-review/Review 0007 - Anne Marie Mimet - Complainte.md",
+      "metadata_added": {
+        "purchase": [
+          "https://www.grothmusic.com/p-37992.aspx",
+          "https://www.grothmusic.com/p-37992-complainte-alto-sax-and-piano-or-harp.aspx",
+          "https://www.billaudot.com/complainte-sur-un-theme-populaire.html"
+        ],
+        "instruments": [
+          "Alto Saxophone",
+          "Piano",
+          "Harp"
+        ]
+      },
+      "notation_inspected": false,
+      "research_record": {
+        "chat_number": 5,
+        "id": 7,
+        "batch": 6,
+        "filename": "Anne Marie Mimet - Complainte.md",
+        "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Anne Marie Mimet - Complainte.md",
+        "title": "Complainte",
+        "checked_on": "2026-10-12",
+        "status": "researched_with_gaps",
+        "identity": "Anne-Marie Mimet, Complainte sur un thème populaire, Billaudot GB2228, E-flat saxophone with piano or harp.",
+        "findings": "Billaudot identifies GB2228 and ISMN/EAN 9790043022282, with E-flat saxophone and piano or harp alternatives. https://www.billaudot.com/complainte-sur-un-theme-populaire.html Publisher places it in Georges Gourdet’s L’enseignement moderne du saxophone series and labels it moyennement difficile, cycle 2. This is explicit pedagogical audience evidence. https://www.billaudot.com/complainte-sur-un-theme-populaire.html",
+        "evidence": [
+          {
+            "claim": "Exact title, E-flat saxophone with piano/harp, GB2228, publisher teaching series and cycle 2 label.",
+            "url": "https://www.billaudot.com/complainte-sur-un-theme-populaire.html",
+            "source_name": "Éditions Billaudot",
+            "kind": "publisher",
+            "access": "opened"
+          }
+        ],
+        "score_observations": "",
+        "notation_inspected": false,
+        "score_links": [],
+        "listening": [],
+        "gaps": [
+          "Publisher page contains only a placeholder cover and no preview action or downloadable notation.",
+          "No matching saxophone performance found through exact full title, shortened title, composer and YouTube searches.",
+          "Composition year, duration, range and technical content remain unverified.",
+          "Folk-theme source and any relationship to another instrument’s work remain unknown."
+        ],
+        "collection_flag": "Documented teaching-series publication and cycle 2 audience. The popular-theme title does not establish transcription or simplification.",
+        "searches": [
+          "\"Anne-Marie Mimet\" \"Complainte\" score saxophone",
+          "\"Mimet\" \"Complainte\" saxophone youtube",
+          "\"Complainte\" \"GB2228\" partition extrait",
+          "\"Complainte sur un thème populaire\" saxophone performance Mimet",
+          "Checked Billaudot full HTML and retailer identification; publisher preview gallery empty."
+        ],
+        "metadata": {
+          "composed": null,
+          "publisher": [
+            "Éditions Billaudot"
+          ],
+          "streaming": null,
+          "purchase": [
+            "https://www.billaudot.com/complainte-sur-un-theme-populaire.html"
+          ],
+          "download": [],
+          "instruments": [
+            "Alto Saxophone",
+            "Piano",
+            "Harp"
+          ]
+        },
+        "proposed_corrections": [],
+        "review_focus": "",
+        "chat_summary": "5. Mimet, Complainte: Billaudot GB2228 is for E-flat saxophone with piano or harp in Gourdet’s modern saxophone teaching series. The publisher’s cycle 2 label documents its pedagogical context. [Publisher](https://www.billaudot.com/complainte-sur-un-theme-populaire.html). No score notation or matching recording was available to judge the actual demands."
+      },
+      "removed": true,
+      "retired_url": "/works/anne-marie-mimet-complainte/",
+      "redirect_to": "/",
+      "removed_work_snapshot": "---\ntitle: \"Complainte\"\nslug: anne-marie-mimet-complainte\ncomposer:\n  - \"[[Anne Marie Mimet]]\"\ninstruments:\n  - \"Alto Saxophone\"\n  - \"Piano\"\n  - \"Harp\"\ncomposed: \nyear-of-study: \nstreaming: \npurchase:\n  - \"https://www.grothmusic.com/p-37992.aspx\"\n  - \"https://www.grothmusic.com/p-37992-complainte-alto-sax-and-piano-or-harp.aspx\"\n  - \"https://www.billaudot.com/complainte-sur-un-theme-populaire.html\"\nadded: 2024-03-08\nresearch:\n  - \"Publisher and catalog no.: Billaudot GB2228 · https://www.grothmusic.com/p-37992.aspx\"\n  - \"Exact title, E-flat saxophone with piano/harp, GB2228, publisher teaching series and cycle 2 label. · https://www.billaudot.com/complainte-sur-un-theme-populaire.html\"\npublisher:\n  - \"Éditions Billaudot\"\naliases: []\n---\n## Research notes (private)\n\n### Chat batch 06 follow-up, 2026-10-12\n\nMimet, Complainte: Billaudot GB2228 is for E-flat saxophone with piano or harp in Gourdet’s modern saxophone teaching series. The publisher’s cycle 2 label documents its pedagogical context. [Publisher](https://www.billaudot.com/complainte-sur-un-theme-populaire.html). No score notation or matching recording was available to judge the actual demands.\n\n[[Review 0007 - Anne Marie Mimet - Complainte|Full evidence and open questions]]\n\n\n- Publisher and catalog no.: Billaudot GB2228 · [grothmusic.com](https://www.grothmusic.com/p-37992.aspx)\n\n<!-- saxobrain-research-review-2026-10-11 -->\n\n### Research Review, October 11, 2026\n\n[[Review 0007 - Anne Marie Mimet - Complainte|Full review note]]\n\nCatalog: [[Anne Marie Mimet - Complainte]]\n\n- Identity: Anne-Marie Mimet's *Complainte sur un thème populaire* is a Billaudot work for E-flat saxophone with piano or harp, catalog GB2228. Billaudot labels it 'moyennement difficile (cycle 2)' and places it in its modern saxophone teaching collection.\n- Official publisher confirms instrumentation, piano/harp options, collection, catalog number, and cycle 2 label. [Éditions Billaudot](https://www.billaudot.com/complainte-sur-un-theme-populaire.html) (opened).\n- A second dealer corroborates alto saxophone and piano/harp format. [Musikforum Demond](https://www.demond.de/anne-marie-mimet-complainte-sur-un-theme-populaire-pour-saxophone-alto-et-harpe-piano-516412) (opened).\n- Collection/use: Published in a pedagogy-oriented series with a stated cycle 2 audience and a moderately difficult label; this is relevant context, not an automatic exclusion.\n- Gaps: No score pages or matching performance inspected.; Duration and exact saxophone range remain unknown.\n\n#### Catalog Details Added\n\n- Publisher: Éditions Billaudot. [Source](https://www.billaudot.com/complainte-sur-un-theme-populaire.html)\n\n",
+      "assigned_level": null,
+      "decision": "Removed",
+      "review_applied": true,
+      "decision_note": "Tim requested removal from the catalog. The private evidence log is retained."
+    },
+    {
+      "chat_number": 6,
+      "review_id": 8,
+      "filename": "Antoine Tisné - Espaces Irradies.md",
+      "review_note": "content/research-review/Review 0008 - Antoine Tisné - Espaces Irradies.md",
+      "metadata_added": {
+        "composed": 1978,
+        "publisher": [
+          "Éditions Choudens"
+        ]
+      },
+      "notation_inspected": false,
+      "research_record": {
+        "chat_number": 6,
+        "id": 8,
+        "batch": 6,
+        "filename": "Antoine Tisné - Espaces Irradies.md",
+        "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Antoine Tisné - Espaces Irradies.md",
+        "title": "Espaces Irradies",
+        "checked_on": "2026-10-12",
+        "status": "researched_with_gaps",
+        "identity": "Antoine Tisné, Espaces irradiés, Choudens AC20883, alto saxophone and piano; four movements.",
+        "findings": "Philharmonie de Paris’s repertoire guide identifies Choudens AC20883 and four contrasting movements: improvisatory, freely incantatory, lunar, and static/free. Its nearby 15-minute marking belongs to Music for Stonehenge, not Espaces irradiés. https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf Saxophonist-researcher Bernardo Zagalaz Lijarcio’s 2015 University of Córdoba thesis dates the composition 1978 and gives approximately 24:30. His score analysis identifies unmetered/free passages alongside changing meters, quarter tones without supplied fingerings, flutter tonguing, small glissandi, multiphonics with fingerings, key sounds, tremolos, and graphic rhythm. These are the researcher’s observations, not an independently inspected score. https://helvia.uco.es/xmlui/bitstream/handle/10396/12998/2015000001186.pdf?isAllowed=y&sequence=1 The thesis explains proportional duration lines: the performer interprets approximate note lengths according to the drawn line lengths. This is a concrete rhythmic-reading demand beyond conventional meter. https://helvia.uco.es/xmlui/bitstream/handle/10396/12998/2015000001186.pdf?isAllowed=y&sequence=1 Antwerp Conservatory’s score-holding catalog identifies the 1980 Choudens publication, score and part, handwritten facsimile, and dedication to Serge Bichon. This publication date differs from the thesis’s composition date. https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf Billaudot’s composer discography documents 1983 Héraud/Muraro and 1987 Goury/Josset saxophone-piano recordings, with the latter labeled excerpts. Paganini Conservatory includes the work in its advanced saxophone repertoire program. https://www.billaudot.com/antoine-tisne-1.html https://www.conspaganini.it/sites/default/files/Prassi%20Esecutiva,%20Tecnica%20e%20Repertorio%201%20e%202%20-%20SASSOFONO.pdf",
+        "evidence": [
+          {
+            "claim": "Choudens AC20883, four movement characters; no duration attached to this entry.",
+            "url": "https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+            "source_name": "Philharmonie de Paris, 10 ans avec le saxophone",
+            "kind": "institutional_repertoire_guide",
+            "access": "PDF downloaded and catalog page visually inspected",
+            "page": "printed p.118; PDF p.111"
+          },
+          {
+            "claim": "1978, approximately 24:30, four movements and cataloged techniques; proportional timing explanation.",
+            "url": "https://helvia.uco.es/xmlui/bitstream/handle/10396/12998/2015000001186.pdf?isAllowed=y&sequence=1",
+            "source_name": "Bernardo Zagalaz Lijarcio, University of Córdoba / UCOPress, doctoral thesis",
+            "kind": "primary_research",
+            "access": "Full PDF text opened; notation screenshot/download unsuccessful",
+            "page": "printed pp.21,123; PDF pp.35,137"
+          },
+          {
+            "claim": "1980 publication, score and part, handwritten facsimile, Serge Bichon dedication.",
+            "url": "https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf",
+            "source_name": "Royal Conservatory Antwerp library",
+            "kind": "library_catalog",
+            "access": "opened",
+            "page": "PDF p.31"
+          },
+          {
+            "claim": "Saxophone/piano recording credits and excerpt qualification.",
+            "url": "https://www.billaudot.com/antoine-tisne-1.html",
+            "source_name": "Éditions Billaudot composer discography",
+            "kind": "publisher",
+            "access": "opened"
+          },
+          {
+            "claim": "Work listed in saxophone performance curriculum.",
+            "url": "https://www.conspaganini.it/sites/default/files/Prassi%20Esecutiva,%20Tecnica%20e%20Repertorio%201%20e%202%20-%20SASSOFONO.pdf",
+            "source_name": "Conservatorio Niccolò Paganini",
+            "kind": "institutional_curriculum",
+            "access": "opened",
+            "page": "PDF p.2"
+          }
+        ],
+        "score_observations": "",
+        "notation_inspected": false,
+        "score_links": [
+          {
+            "url": "https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf",
+            "type": "library_holding",
+            "edition": "Choudens, score and part, 1980"
+          },
+          {
+            "url": "https://helvia.uco.es/xmlui/bitstream/handle/10396/12998/2015000001186.pdf?isAllowed=y&sequence=1",
+            "type": "research_with_score_excerpt",
+            "notation_inspected": false
+          }
+        ],
+        "listening": [],
+        "gaps": [
+          "Full score notation could not be inspected. The thesis’s reproduced example is indexed, but screenshot failed and direct download/browser exposed only a button.",
+          "Range and exact fingerings remain unverified; technique inventory is attributed to the published researcher.",
+          "No publicly playable exact saxophone recording link located; discography records are not listening links.",
+          "1978 composition and 24:30 duration are supported by the researcher’s score analysis, not an opened original title page or composer worklist."
+        ],
+        "collection_flag": "Contemporary alto-and-piano repertoire with documented specialist performance demands and conservatory use. No transcription or child-targeting evidence found. Teacher review should focus on free timing, changing meters and unusual sound production.",
+        "searches": [
+          "Antoine Tisné Espaces irradiés score pdf AC20883",
+          "Espaces irradiés Héraud Muraro Goury Josset recording",
+          "Tisné Espaces quarter tones multiphonics notation",
+          "Opened Philharmonie guide, University Córdoba complete thesis text, Antwerp library, Billaudot discography and Paganini conservatory syllabus; attempted thesis notation screenshot and direct download."
+        ],
+        "metadata": {
+          "composed": 1978,
+          "publisher": [
+            "Éditions Choudens"
+          ],
+          "streaming": null,
+          "purchase": [],
+          "download": [],
+          "instruments": [
+            "Alto Saxophone",
+            "Piano"
+          ]
+        },
+        "proposed_corrections": [
+          "1978 is a supported composition-year proposal from the published score analyst; 1980 is publication and 1983 is recording.",
+          "Do not transfer the guide’s neighboring 15-minute duration from Music for Stonehenge."
+        ],
+        "review_focus": "",
+        "chat_summary": "6. Tisné, Espaces irradiés: Choudens AC20883 is a four-movement alto-and-piano work. A [University of Córdoba score analysis](https://helvia.uco.es/xmlui/bitstream/handle/10396/12998/2015000001186.pdf?isAllowed=y&sequence=1) identifies free timing, changing meters, quarter tones and multiphonics, and dates it 1978 with approximately 24:30 duration. No original notation or playable recording was inspected; the technical observations remain attributed to that researcher."
+      },
+      "assigned_level": "Advanced",
+      "decision": "Advanced",
+      "review_applied": true,
+      "decision_note": "Tim assigned Advanced."
+    },
+    {
+      "chat_number": 7,
+      "review_id": 9,
+      "filename": "Armando Ghidoni - Nocturne & Sicilienne.md",
+      "review_note": "content/research-review/Review 0009 - Armando Ghidoni - Nocturne & Sicilienne.md",
+      "metadata_added": {
+        "purchase": [
+          "https://www.grothmusic.com/p-77782.aspx",
+          "https://www.forsyths.co.uk/sheet-music/instruments/woodwind/saxophone-sheet-music/saxophone-ensemble/370997-ghidoni-armando-nocturne-et-sicilienne-alto-saxophone-piano-9790046295621.html"
+        ],
+        "instruments": [
+          "Soprano Saxophone",
+          "Alto Saxophone",
+          "Tenor Saxophone",
+          "Piano",
+          "Harp"
+        ]
+      },
+      "notation_inspected": true,
+      "research_record": {
+        "chat_number": 7,
+        "id": 9,
+        "batch": 6,
+        "filename": "Armando Ghidoni - Nocturne & Sicilienne.md",
+        "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Armando Ghidoni - Nocturne & Sicilienne.md",
+        "title": "Nocturne & Sicilienne",
+        "checked_on": "2026-10-12",
+        "status": "researched_with_gaps",
+        "identity": "Armando Ghidoni, Nocturne et Sicilienne, Alphonse Leduc AL29562, alto/soprano/tenor saxophone with piano or harp.",
+        "findings": "Leduc’s catalog confirms all three saxophone choices and piano/harp for AL29562. The separate clarinet version is AL29558 and must not be substituted for saxophone listening evidence. https://casamusicaledelrio.it/casamusicale/wp-content/uploads/2019/04/CAT-18-107-Leduc-Catalogue-2018-ss-GS-v6-NO-CROPS-LO-RESv2.pdf A readable Leduc score opening in Forsyth’s gallery confirms the exact instrumentation, dedication to Maricela Soliz, approximately five-minute duration and 2003 copyright. Copyright is publication evidence, not composition date. https://www.forsyths.co.uk/787862/ghidoni-armando-nocturne-et-sicilienne-alto-saxophone-piano.jpg The Royal Conservatory of Music’s saxophone syllabus includes Nocturne et Sicilienne at Grade 6 for both alto and tenor. Its inclusion documents pedagogical use without assigning a SaxoBrain study level. https://rcmusic-kentico-cdn.s3.amazonaws.com/rcm/media/main/documents/examinations/syllabi/s40_saxophonesyl_rcm_2016_online_secured.pdf California State University, Sacramento’s November 8, 2023 studio recital lists Darren Maracle performing it on alto with pianist John Cozza. The program gives 2002, a composition-date lead not independently corroborated by the score’s copyright. https://www.csus.edu/college/arts-letters/music/_internal/_documents/programs/11.8.23-saxes.pdf Il Saxofono Italiano’s author-comment field directs listeners to Emma N. Pigato on alto saxophone with harpist Alessandra Trentin. The performance identity is supported by the composer-comment source; Facebook playback availability could not be verified. https://www.ilsaxofonoitaliano.it/opere/nocturne-et-sicilienne/ https://www.facebook.com/Emmapigatosaxofonista/videos/1230819853712669/",
+        "evidence": [
+          {
+            "claim": "AL29562, alto/soprano/tenor and piano/harp; AL29558 is clarinet version.",
+            "url": "https://casamusicaledelrio.it/casamusicale/wp-content/uploads/2019/04/CAT-18-107-Leduc-Catalogue-2018-ss-GS-v6-NO-CROPS-LO-RESv2.pdf",
+            "source_name": "Alphonse Leduc catalog",
+            "kind": "publisher",
+            "access": "opened",
+            "page": "PDF p.172"
+          },
+          {
+            "claim": "Score first page: instrumentation, five-minute duration, dedication, 2003 copyright and opening notation.",
+            "url": "https://www.forsyths.co.uk/787862/ghidoni-armando-nocturne-et-sicilienne-alto-saxophone-piano.jpg",
+            "source_name": "Alphonse Leduc score sample via Forsyth Music",
+            "kind": "score",
+            "access": "Public image retrieved and visually inspected",
+            "local_evidence": "/tmp/saxobrain-batch06/lane1-assets/nocturne-787862.jpg"
+          },
+          {
+            "claim": "Grade 6 alto and tenor repertoire inclusion.",
+            "url": "https://rcmusic-kentico-cdn.s3.amazonaws.com/rcm/media/main/documents/examinations/syllabi/s40_saxophonesyl_rcm_2016_online_secured.pdf",
+            "source_name": "Royal Conservatory of Music",
+            "kind": "institutional_syllabus",
+            "access": "opened",
+            "page": "PDF p.41, printed p.41"
+          },
+          {
+            "claim": "Named alto/piano recital performance and 2002 work-date lead.",
+            "url": "https://www.csus.edu/college/arts-letters/music/_internal/_documents/programs/11.8.23-saxes.pdf",
+            "source_name": "California State University, Sacramento School of Music",
+            "kind": "performance_program",
+            "access": "opened"
+          },
+          {
+            "claim": "Author comment identifies named alto saxophonist and harpist, with video link.",
+            "url": "https://www.ilsaxofonoitaliano.it/opere/nocturne-et-sicilienne/",
+            "source_name": "Il Saxofono Italiano, composer comment",
+            "kind": "composer_statement",
+            "access": "opened"
+          }
+        ],
+        "score_observations": "Opening page only, concert-pitch full score: Andante in common time, with a piano introduction before the solo enters. https://www.forsyths.co.uk/787862/ghidoni-armando-nocturne-et-sicilienne-alto-saxophone-piano.jpg The saxophone entry is marked mf with an expressive instruction, with long slurred phrases and sustained notes interrupted by short flowing figures. A review should consider phrase shape and breath planning. https://www.forsyths.co.uk/787862/ghidoni-armando-nocturne-et-sicilienne-alto-saxophone-piano.jpg The piano part moves through triplet and faster arpeggiated figures with chromatic accidentals while the saxophone sustains and phrases more slowly. This makes ensemble coordination and harmonic listening relevant at the opening. https://www.forsyths.co.uk/787862/ghidoni-armando-nocturne-et-sicilienne-alto-saxophone-piano.jpg The preview does not include the Sicilienne or establish the complete range. No extended technique is visible on this opening page. https://www.forsyths.co.uk/787862/ghidoni-armando-nocturne-et-sicilienne-alto-saxophone-piano.jpg",
+        "notation_inspected": true,
+        "score_links": [
+          {
+            "url": "https://www.forsyths.co.uk/sheet-music/instruments/woodwind/saxophone-sheet-music/saxophone-ensemble/370997-ghidoni-armando-nocturne-et-sicilienne-alto-saxophone-piano-9790046295621.html",
+            "type": "purchase_with_gallery",
+            "edition": "Leduc AL29562"
+          },
+          {
+            "url": "https://www.forsyths.co.uk/787862/ghidoni-armando-nocturne-et-sicilienne-alto-saxophone-piano.jpg",
+            "type": "notation_preview",
+            "pages": "opening score page",
+            "inspected": true
+          }
+        ],
+        "listening": [
+          {
+            "url": "https://www.facebook.com/Emmapigatosaxofonista/videos/1230819853712669/",
+            "performers": "Emma N. Pigato, alto saxophone; Alessandra Trentin, harp",
+            "verified": "Identified in composer-comment source",
+            "availability": "Facebook page failed to expose playable content",
+            "source": "https://www.ilsaxofonoitaliano.it/opere/nocturne-et-sicilienne/",
+            "audio_analyzed": false
+          }
+        ],
+        "gaps": [
+          "Only the opening score page was inspected. The Sicilienne section, complete saxophone range, and transposed solo parts remain uninspected.",
+          "The soprano/tenor variants should be checked in their own parts before applying alto-register observations.",
+          "The composer-endorsed Facebook performance link was unavailable to verify playback; no audio analysis was made.",
+          "2002 in the recital program is a date lead; 2003 on the sample is copyright. Composition metadata remains empty."
+        ],
+        "collection_flag": "Published saxophone recital repertoire with documented exam and university-studio use. Multiple saxophone alternatives and a parallel clarinet edition do not establish transcription direction. No child-specific simplification claim is justified.",
+        "searches": [
+          "Ghidoni Nocturne Sicilienne score preview Leduc29562",
+          "Nocturne Sicilienne Emma Pigato Trentin harp saxophone",
+          "Ghidoni Nocturne university recital saxophone recording",
+          "Checked Leduc catalog, RCM syllabus, CSU Sacramento program and composer-comment recording link; retrieved Forsyth gallery images. Rejected Cindy Descamps clarinet album and piano-only accompaniment videos."
+        ],
+        "metadata": {
+          "composed": null,
+          "publisher": [
+            "Alphonse Leduc"
+          ],
+          "streaming": null,
+          "purchase": [
+            "https://www.grothmusic.com/p-77782.aspx",
+            "https://www.forsyths.co.uk/sheet-music/instruments/woodwind/saxophone-sheet-music/saxophone-ensemble/370997-ghidoni-armando-nocturne-et-sicilienne-alto-saxophone-piano-9790046295621.html"
+          ],
+          "download": [],
+          "instruments": [
+            "Alto Saxophone",
+            "Soprano Saxophone",
+            "Tenor Saxophone",
+            "Piano",
+            "Harp"
+          ]
+        },
+        "proposed_corrections": [],
+        "review_focus": "",
+        "chat_summary": "7. Ghidoni, Nocturne & Sicilienne: [Leduc opening score](https://www.forsyths.co.uk/787862/ghidoni-armando-nocturne-et-sicilienne-alto-saxophone-piano.jpg) confirms about five minutes and alto/soprano/tenor with piano or harp. The inspected opening combines expressive legato saxophone phrases with a busier chromatic piano part; the Sicilienne and complete range remain uninspected. A [composer-identified alto/harp performance](https://www.facebook.com/Emmapigatosaxofonista/videos/1230819853712669/) is linked, but playback availability is unverified."
+      },
+      "assigned_level": "First Year",
+      "decision": "First Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned First Year."
+    },
+    {
+      "chat_number": 8,
+      "review_id": 10,
+      "filename": "Armando Ghidoni - Paysages.md",
+      "review_note": "content/research-review/Review 0010 - Armando Ghidoni - Paysages.md",
+      "metadata_added": {
+        "streaming": "https://open.spotify.com/track/033diRvKUqtK1nTwss7Mn9",
+        "instruments": [
+          "Soprano Saxophone",
+          "Alto Saxophone",
+          "Tenor Saxophone",
+          "Piano"
+        ]
+      },
+      "notation_inspected": false,
+      "research_record": {
+        "chat_number": 8,
+        "id": 10,
+        "batch": 6,
+        "filename": "Armando Ghidoni - Paysages.md",
+        "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Armando Ghidoni - Paysages.md",
+        "title": "Paysages",
+        "checked_on": "2026-10-12",
+        "status": "researched_with_gaps",
+        "identity": "Armando Ghidoni, Paysages…, Alphonse Leduc AL29729, alto/soprano/tenor saxophone and piano.",
+        "findings": "Leduc identifies AL29729 for alto, soprano or tenor saxophone and piano. Groth confirms the purchased package contains the piano score, alto part and alternate tenor/soprano part. https://casamusicaledelrio.it/casamusicale/wp-content/uploads/2019/04/CAT-18-107-Leduc-Catalogue-2018-ss-GS-v6-NO-CROPS-LO-RESv2.pdf https://www.grothmusic.com/p-147606.aspx The CDMC Windmusic score record identifies a Nantes International Saxophone Competition commission and describes the piece as written for pupils to show expressive playing across ballad, sicilienne, waltz and rock styles. It calls the piece elementary; this library description establishes pedagogical intent but is not a notation-based difficulty assessment. https://windmusic.org/index.php?lvl=notice_display&id=8554 ABRSM’s 2026 Woodwind Performance Grades syllabus retains Paysages at Grade 7, item C5, requiring the printed cadenza and identifying the E-flat/B-flat Leduc edition. That explicit cadenza requirement is the most specific verified performance instruction found. https://www.abrsm.com.tw/performance%20grade%20syllabus/woodwind2026.pdf Spotify’s exact Paysages track credits Ghidoni, saxophonist Rob Buckland and pianist Peter Lawson, 3:40, on Alto Saxophone Exam Pieces, Starting 2014, ABRSM Grade 7. The same album has a separate piano-only accompaniment, which was excluded. https://open.spotify.com/track/033diRvKUqtK1nTwss7Mn9 Windmusic dates the Leduc publication 2005 and lists seven score pages plus a separate part; Groth’s eleven-page total may include those parts. Neither figure establishes composition date or full technical demands. https://windmusic.org/index.php?lvl=notice_display&id=8554 https://www.grothmusic.com/p-147606.aspx",
+        "evidence": [
+          {
+            "claim": "AL29729 saxophone alternatives with piano.",
+            "url": "https://casamusicaledelrio.it/casamusicale/wp-content/uploads/2019/04/CAT-18-107-Leduc-Catalogue-2018-ss-GS-v6-NO-CROPS-LO-RESv2.pdf",
+            "source_name": "Alphonse Leduc catalog",
+            "kind": "publisher",
+            "access": "opened",
+            "page": "PDF p.172"
+          },
+          {
+            "claim": "Piano score, alto part and alternate tenor/soprano part; eleven-page package.",
+            "url": "https://www.grothmusic.com/p-147606.aspx",
+            "source_name": "Groth Music",
+            "kind": "retailer",
+            "access": "opened"
+          },
+          {
+            "claim": "Nantes competition commission, student expressive purpose and four styles; 2005 publication; seven-page score plus part.",
+            "url": "https://windmusic.org/index.php?lvl=notice_display&id=8554",
+            "source_name": "CDMC Windmusic score catalog",
+            "kind": "library_catalog",
+            "access": "Full public HTML retrieved",
+            "local_evidence": "/tmp/saxobrain-batch06/lane1-assets/paysages-windmusic.html"
+          },
+          {
+            "claim": "Current Grade 7 C5, printed cadenza, E-flat/B-flat Leduc edition.",
+            "url": "https://www.abrsm.com.tw/performance%20grade%20syllabus/woodwind2026.pdf",
+            "source_name": "ABRSM 2026 Woodwind Performance Grades",
+            "kind": "institutional_syllabus",
+            "access": "opened",
+            "page": "PDF p.120, printed p.119"
+          },
+          {
+            "claim": "Exact Paysages saxophone track, Ghidoni/Buckland/Lawson credits, 3:40.",
+            "url": "https://open.spotify.com/track/033diRvKUqtK1nTwss7Mn9",
+            "source_name": "Spotify public recording catalog",
+            "kind": "recording_catalog",
+            "access": "Full exact track HTML retrieved",
+            "local_evidence": "/tmp/saxobrain-batch06/lane1-assets/paysages-exact-spotify.html"
+          },
+          {
+            "claim": "Album identifies Paysages with Buckland/Lawson separately from piano-only Paysages.",
+            "url": "https://mobile.anghami.com/album/1010000535",
+            "source_name": "Anghami public recording catalog",
+            "kind": "recording_catalog",
+            "access": "opened"
+          }
+        ],
+        "score_observations": "",
+        "notation_inspected": false,
+        "score_links": [
+          {
+            "url": "https://www.grothmusic.com/p-147606.aspx",
+            "type": "purchase",
+            "edition": "AL29729 all saxophone options"
+          },
+          {
+            "url": "https://www.justflutes.com/shop/product/paysages-armando-ghidoni",
+            "type": "purchase",
+            "edition": "AL29729"
+          }
+        ],
+        "listening": [
+          {
+            "url": "https://open.spotify.com/track/033diRvKUqtK1nTwss7Mn9",
+            "performers": "Rob Buckland, alto saxophone; Peter Lawson, piano",
+            "duration": "3:40",
+            "verified": "Exact Spotify HTML plus ABRSM alto saxophone album identity",
+            "audio_analyzed": false
+          }
+        ],
+        "gaps": [
+          "No readable notation preview located. Just Flutes supplies a cover only; dealer/publisher listings did not expose the cadenza or solo pages.",
+          "Cadenza notation, range, articulation and how the four styles are realized remain unverified.",
+          "Recording identity and exact saxophone track are verified; audio was not analyzed.",
+          "2005 is publication, not a verified composition year.",
+          "Library’s elementary label and ABRSM Grade 7 placement describe different contexts; they must not be equated or silently reconciled."
+        ],
+        "collection_flag": "Explicitly pedagogical, competition-commissioned composition for expressive playing in several styles. No transcription or simplification from another work is evidenced. Keep the original composition context visible, and inspect the printed cadenza before a teacher judges suitability.",
+        "searches": [
+          "Ghidoni Paysages AL29729 score preview printed cadenza",
+          "Ghidoni Paysages Rob Buckland Peter Lawson recording",
+          "Paysages saxophone Nantes commission Windmusic",
+          "Opened exact Windmusic score record, current ABRSM2026 official regional PDF, Groth part list, Just Flutes gallery, Spotify album track list and exact saxophone track. Excluded track3VDHCXU2zPuee9iK4froEp piano-only."
+        ],
+        "metadata": {
+          "composed": null,
+          "publisher": [
+            "Alphonse Leduc"
+          ],
+          "streaming": "https://open.spotify.com/track/033diRvKUqtK1nTwss7Mn9",
+          "purchase": [
+            "https://www.grothmusic.com/p-147606.aspx",
+            "https://www.justflutes.com/shop/product/paysages-armando-ghidoni"
+          ],
+          "download": [],
+          "instruments": [
+            "Alto Saxophone",
+            "Soprano Saxophone",
+            "Tenor Saxophone",
+            "Piano"
+          ]
+        },
+        "proposed_corrections": [],
+        "review_focus": "",
+        "chat_summary": "8. Ghidoni, Paysages: [Leduc AL29729](https://www.grothmusic.com/p-147606.aspx) supplies alto and soprano/tenor parts with piano. A library score record describes its pupil-oriented Nantes competition commission and ballad, sicilienne, waltz and rock styles; ABRSM2026 explicitly requires its printed cadenza. [Listen: Rob Buckland and Peter Lawson](https://open.spotify.com/track/033diRvKUqtK1nTwss7Mn9). No readable notation was available to inspect the cadenza or complete range."
+      },
+      "removed": true,
+      "retired_url": "/works/armando-ghidoni-paysages/",
+      "redirect_to": "/",
+      "removed_work_snapshot": "---\ntitle: \"Paysages\"\nslug: armando-ghidoni-paysages\ncomposer:\n  - \"[[Armando Ghidoni]]\"\ninstruments:\n  - \"Soprano Saxophone\"\n  - \"Alto Saxophone\"\n  - \"Tenor Saxophone\"\n  - \"Piano\"\ncomposed: \nyear-of-study: \nstreaming: \"https://open.spotify.com/track/033diRvKUqtK1nTwss7Mn9\"\npurchase:\n  - \"https://www.grothmusic.com/p-147606.aspx\"\n  - \"https://www.justflutes.com/shop/product/paysages-armando-ghidoni\"\nadded: 2025-04-18\nresearch:\n  - \"Publisher and catalog no.: Alphonse Leduc AL29729 · https://www.grothmusic.com/p-147606.aspx\"\n  - \"11 pages · https://www.grothmusic.com/p-147606.aspx\"\n  - \"AL29729 saxophone alternatives with piano. · https://casamusicaledelrio.it/casamusicale/wp-content/uploads/2019/04/CAT-18-107-Leduc-Catalogue-2018-ss-GS-v6-NO-CROPS-LO-RESv2.pdf\"\n  - \"Piano score, alto part and alternate tenor/soprano part; eleven-page package. · https://www.grothmusic.com/p-147606.aspx\"\n  - \"Nantes competition commission, student expressive purpose and four styles; 2005 publication; seven-page score plus part. · https://windmusic.org/index.php?lvl=notice_display&id=8554\"\n  - \"Current Grade 7 C5, printed cadenza, E-flat/B-flat Leduc edition. · https://www.abrsm.com.tw/performance%20grade%20syllabus/woodwind2026.pdf\"\n  - \"Exact Paysages saxophone track, Ghidoni/Buckland/Lawson credits, 3:40. · https://open.spotify.com/track/033diRvKUqtK1nTwss7Mn9\"\npublisher:\n  - \"Alphonse Leduc\"\naliases: []\n---\n## Research notes (private)\n\n### Chat batch 06 follow-up, 2026-10-12\n\nGhidoni, Paysages: [Leduc AL29729](https://www.grothmusic.com/p-147606.aspx) supplies alto and soprano/tenor parts with piano. A library score record describes its pupil-oriented Nantes competition commission and ballad, sicilienne, waltz and rock styles; ABRSM2026 explicitly requires its printed cadenza. [Listen: Rob Buckland and Peter Lawson](https://open.spotify.com/track/033diRvKUqtK1nTwss7Mn9). No readable notation was available to inspect the cadenza or complete range.\n\n[[Review 0010 - Armando Ghidoni - Paysages|Full evidence and open questions]]\n\n\n- Publisher and catalog no.: Alphonse Leduc AL29729 · [grothmusic.com](https://www.grothmusic.com/p-147606.aspx)\n- 11 pages · [grothmusic.com](https://www.grothmusic.com/p-147606.aspx)\n\n<!-- saxobrain-research-review-2026-10-11 -->\n\n### Research Review, October 11, 2026\n\n[[Review 0010 - Armando Ghidoni - Paysages|Full review note]]\n\nCatalog: [[Armando Ghidoni - Paysages]]\n\n- Identity: Armando Ghidoni's *Paysages* is an Alphonse Leduc saxophone-and-piano work, AL29729, available in E-flat and B-flat editions. The current ABRSM Woodwind syllabus lists it at Grade 7, item 5, with the printed cadenza; the notation's E-flat/B-flat edition designation does not by itself settle the exact saxophone instrument. The score was not inspected.\n- Dealer gives edition number, instrumentation, seven-page score, and a Grade 7 tenor-syllabus designation. [Just Flutes](https://www.justflutes.com/shop/product/paysages-armando-ghidoni) (opened).\n- Leduc catalog corroborates instrumentation and number. [Alphonse Leduc catalog](https://casamusicaledelrio.it/casamusicale/wp-content/uploads/2019/04/CAT-18-107-Leduc-Catalogue-2018-ss-GS-v6-NO-CROPS-LO-RESv2.pdf) (opened).\n- ABRSM's 2022-23 performance grades syllabus lists *Paysages* among Grade 7 pieces, item 5, with printed cadenza and E-flat/B-flat edition. [ABRSM Music Performance Grades syllabus](https://www.abrsm.org/sites/default/files/2023-10/performance-grades-qual-spec-woodwind-2022-230303-v3.pdf) (107; opened).\n- Collection/use: ABRSM Grade 7 syllabus placement with printed cadenza is documented; its E-flat/B-flat edition label leaves instrument-specific applicability to verify in the part.\n- Review focus: Inference from the syllabus's explicit printed-cadenza note: check the cadenza's notation and execution against the available saxophone edition. The score is not available here.\n- Gaps: No score preview or matching saxophone performance located, so the cadenza, range, and other musical demands remain unknown.; ABRSM identifies the edition as E-flat/B-flat but does not specify the instrument in the syllabus entry.\n\n#### Catalog Details Added\n\n- Publisher: Alphonse Leduc. [Source](https://casamusicaledelrio.it/casamusicale/wp-content/uploads/2019/04/CAT-18-107-Leduc-Catalogue-2018-ss-GS-v6-NO-CROPS-LO-RESv2.pdf)\n- Score purchase: Verified edition link added. [Source](https://www.justflutes.com/shop/product/paysages-armando-ghidoni)\n\n",
+      "assigned_level": null,
+      "decision": "Removed",
+      "review_applied": true,
+      "decision_note": "Tim requested removal from the catalog. The private evidence log is retained."
+    },
+    {
+      "chat_number": 9,
+      "review_id": 11,
+      "filename": "Armando Ghidoni - Piece Breve.md",
+      "review_note": "content/research-review/Review 0011 - Armando Ghidoni - Piece Breve.md",
+      "metadata_added": {
+        "purchase": [
+          "https://www.grothmusic.com/p-37747.aspx",
+          "https://www.halleonard.com/product/48185368/ghidoni-armando-piece-breve-saxophone-piano-book"
+        ],
+        "instruments": [
+          "Alto Saxophone",
+          "Piano",
+          "Tenor Saxophone",
+          "Soprano Saxophone"
+        ]
+      },
+      "notation_inspected": false,
+      "research_record": {
+        "chat_number": 9,
+        "id": 11,
+        "filename": "Armando Ghidoni - Piece Breve.md",
+        "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Armando Ghidoni - Piece Breve.md",
+        "title": "Piece Breve",
+        "checked_on": "2026-10-12",
+        "status": "researched_with_gaps",
+        "identity": "Armando Ghidoni’s Pièce brève is Alphonse Leduc AL28884 (Hal Leonard 48185368) for saxophone and piano. CDMC’s physical-score record names alto, tenor or soprano alternatives. The record’s 1994 is explicitly publication year, so composition year remains unknown.",
+        "findings": "Hal Leonard’s distributor record verifies the composer, publisher and AL28884 number. Its public Closer Look endpoint returned no sample. https://www.halleonard.com/product/48185368/ghidoni-armando-piece-breve-saxophone-piano-book London College of Music Examinations, University of West London, lists Pièce Brève in its Classical Saxophone DipLCM in Performance alto repertoire. The list permits published alternative saxophone versions. This documents diploma repertoire use without supplying notation demands. https://lcme.uwl.ac.uk/media/rzjfqioh/woodwind-diplomas-repertoire-list.pdf CDMC’s Windmusic library records a 2:25 duration and alto/tenor/soprano with piano. Its publication date must not become a composition date. https://windmusic.org/index.php?id=7192&lvl=notice_display",
+        "score_observations": "",
+        "notation_inspected": false,
+        "score_links": [
+          {
+            "url": "https://www.halleonard.com/product/48185368/ghidoni-armando-piece-breve-saxophone-piano-book",
+            "description": "Exact AL28884 product; Closer Look returned null, no notation available",
+            "inspected": false
+          }
+        ],
+        "listening": [],
+        "evidence": [
+          {
+            "claim": "Leduc AL28884; composer Armando Ghidoni; saxophone and piano title",
+            "url": "https://www.halleonard.com/product/48185368/ghidoni-armando-piece-breve-saxophone-piano-book",
+            "source_name": "Hal Leonard, official distributor of Alphonse Leduc",
+            "kind": "publisher",
+            "access": "opened"
+          },
+          {
+            "claim": "DipLCM in Performance alto repertoire includes Ghidoni Pièce Brève; alternative published saxophone versions permitted",
+            "url": "https://lcme.uwl.ac.uk/media/rzjfqioh/woodwind-diplomas-repertoire-list.pdf",
+            "source_name": "London College of Music Examinations",
+            "kind": "pedagogy",
+            "access": "opened",
+            "page": "PDF 26, printed 25"
+          },
+          {
+            "claim": "Alto, tenor or soprano and piano; duration 2:25; 1994 publication",
+            "url": "https://windmusic.org/index.php?id=7192&lvl=notice_display",
+            "source_name": "CDMC Windmusic score library",
+            "kind": "institution",
+            "access": "opened",
+            "access_detail": "Retrieved live through urllib; saved lane-2-wind-ghidoni.html"
+          }
+        ],
+        "collection_flag": "Documented diploma repertoire use. No evidence of a transcription from another instrument or a youth simplification located.",
+        "gaps": [
+          "No readable musical preview after distributor Closer Look check.",
+          "No exact-work playable saxophone recording located in title/composer/YouTube searches.",
+          "Composition year and concrete range or technique demands remain unknown."
+        ],
+        "metadata": {
+          "composed": null,
+          "publisher": [
+            "Alphonse Leduc"
+          ],
+          "streaming": null,
+          "purchase": [
+            "https://www.halleonard.com/product/48185368/ghidoni-armando-piece-breve-saxophone-piano-book"
+          ],
+          "download": [],
+          "instruments": [
+            "Alto Saxophone",
+            "Tenor Saxophone",
+            "Soprano Saxophone",
+            "Piano"
+          ]
+        },
+        "review_focus": "Inference: short duration can fit a compact recital slot, while diploma inclusion supports review for collection fit. Inspect the edition before judging musical demands.",
+        "proposed_corrections": [
+          "Consider adding Tenor Saxophone and Soprano Saxophone as published alternatives.",
+          "Do not use 1994 as composed year."
+        ],
+        "searches": [
+          "Ghidoni Pièce brève saxophone AL28884 score youtube",
+          "Ghidoni Piece Breve saxophone youtube",
+          "Ghidoni Pièce brève score",
+          "Ghidoni Piece Breve preview",
+          "Ghidoni Pièce brève youtube saxophone",
+          "Opened Hal Leonard official edition and followed Closer Look endpoint (null); retrieved Windmusic record; opened LCM diploma list."
+        ],
+        "chat_summary": "Leduc AL28884 offers alto, tenor or soprano with piano. Its documented DipLCM repertoire use adds a substantive collection lead. Score preview and exact-work Listen remain unavailable; 1994 is publication, not a verified composition year."
+      },
+      "removed": true,
+      "retired_url": "/works/armando-ghidoni-piece-breve/",
+      "redirect_to": "/",
+      "removed_work_snapshot": "---\ntitle: \"Piece Breve\"\nslug: armando-ghidoni-piece-breve\ncomposer:\n  - \"[[Armando Ghidoni]]\"\ninstruments:\n  - \"Alto Saxophone\"\n  - \"Piano\"\n  - \"Tenor Saxophone\"\n  - \"Soprano Saxophone\"\ncomposed: \nyear-of-study: \nstreaming: \npurchase:\n  - \"https://www.grothmusic.com/p-37747.aspx\"\n  - \"https://www.halleonard.com/product/48185368/ghidoni-armando-piece-breve-saxophone-piano-book\"\nadded: 2024-03-08\nresearch:\n  - \"Publisher and catalog no.: Alphonse Leduc AL28884 · https://www.grothmusic.com/p-37747.aspx\"\n  - \"Leduc AL28884; composer Armando Ghidoni; saxophone and piano title · https://www.halleonard.com/product/48185368/ghidoni-armando-piece-breve-saxophone-piano-book\"\n  - \"DipLCM in Performance alto repertoire includes Ghidoni Pièce Brève; alternative published saxophone versions permitted · https://lcme.uwl.ac.uk/media/rzjfqioh/woodwind-diplomas-repertoire-list.pdf\"\n  - \"Alto, tenor or soprano and piano; duration 2:25; 1994 publication · https://windmusic.org/index.php?id=7192&lvl=notice_display\"\npublisher:\n  - \"Alphonse Leduc\"\naliases: []\n---\n## Research notes (private)\n\n### Chat batch 06 follow-up, 2026-10-12\n\nLeduc AL28884 offers alto, tenor or soprano with piano. Its documented DipLCM repertoire use adds a substantive collection lead. Score preview and exact-work Listen remain unavailable; 1994 is publication, not a verified composition year.\n\n[[Review 0011 - Armando Ghidoni - Piece Breve|Full evidence and open questions]]\n\n\n- Publisher and catalog no.: Alphonse Leduc AL28884 · [grothmusic.com](https://www.grothmusic.com/p-37747.aspx)\n\n<!-- saxobrain-research-review-2026-10-11 -->\n\n### Research Review, October 11, 2026\n\n[[Review 0011 - Armando Ghidoni - Piece Breve|Full review note]]\n\nCatalog: [[Armando Ghidoni - Piece Breve]]\n\n- Identity: Armando Ghidoni's *Pièce brève* is a 1994 Alphonse Leduc work, AL28884, for alto, tenor, or soprano saxophone and piano. A specialist music library catalog records a duration of 2:25 and classifies it as Year 6 in its instrumental repertoire scheme.\n- Library catalog provides exact title, instrumentation, publisher number, publication year, duration, and its own Year 6 repertoire classification. [Windmusic specialist library catalog](https://windmusic.org/index.php?id=7192&lvl=notice_display) (opened).\n- Publisher catalog corroborates instrumentation and item number. [Alphonse Leduc catalog](https://casamusicaledelrio.it/casamusicale/wp-content/uploads/2019/04/CAT-18-107-Leduc-Catalogue-2018-ss-GS-v6-NO-CROPS-LO-RESv2.pdf) (opened).\n- Collection/use: Library catalog classifies it in a repertoire/pedagogy scheme; that is not a documented young-player transcription.\n- Gaps: No score preview or saxophone performance inspected.; The library's Year 6 scale is not defined on the record.\n\n#### Catalog Details Added\n\n- Publisher: Alphonse Leduc. [Source](https://windmusic.org/index.php?id=7192&lvl=notice_display)\n\n",
+      "assigned_level": null,
+      "decision": "Removed",
+      "review_applied": true,
+      "decision_note": "Tim requested removal from the catalog. The private evidence log is retained."
+    },
+    {
+      "chat_number": 10,
+      "review_id": 12,
+      "filename": "Armin Schibler - Konzertante Fantasie.md",
+      "review_note": "content/research-review/Review 0012 - Armin Schibler - Konzertante Fantasie.md",
+      "metadata_added": {
+        "publisher": [
+          "Edition Kunzelmann"
+        ],
+        "purchase": [
+          "https://www.grothmusic.com/p-139885.aspx",
+          "https://www.bodensee-musikversand.de/product_info.php?products_id=234921"
+        ]
+      },
+      "notation_inspected": false,
+      "research_record": {
+        "identity": "Armin Schibler’s Konzertante Fantasie is the 1977–78 alto-saxophone concerto for strings, two percussion groups and piano. Its GM902 piano-reduction/solo-part edition is currently catalogued under Edition Kunzelmann; Antwerp holds a 1979 Eulenburg score and part.",
+        "findings": "The composer’s own work commentary documents a 26 January 1979 premiere by Iwan Roth and Zürcher Camerata under Räto Tschupp. The original ensemble combines divided strings, two percussion groups and a predominantly rhythmic piano part. https://www.arminschibler.ch/multimedia/DasWerk1986.pdf Schibler describes a classically played saxophone line against jazz-derived ternary rhythms in piano and percussion. An introduction leads into a fast section, a three-part slow middle with a furious Agitato, and a fast finale over piano ostinatos. Material develops from the opening motive. These are composer statements, not inspected-score observations. https://www.arminschibler.ch/multimedia/DasWerk1986.pdf Antwerp’s institutional score record explicitly identifies composition as 1977–78 and duration 16:30. The composer catalogue gives 19 minutes, so duration is source-dependent. https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf The live dealer record identifies Kunzelmann GM902 for alto saxophone and piano. This clarifies that the catalog’s piano scoring is a concerto reduction. https://www.bodensee-musikversand.de/product_info.php?products_id=234921",
+        "evidence": [
+          {
+            "claim": "Original scoring, formal design, classical solo style, jazz-influenced accompaniment and premiere; catalog duration 19 minutes",
+            "url": "https://www.arminschibler.ch/multimedia/DasWerk1986.pdf",
+            "source_name": "Armin Schibler, Das Werk 1986 on composer archive",
+            "kind": "composer",
+            "access": "opened",
+            "page": "printed 90–91; PDF 92–93; retrieved live local PDF"
+          },
+          {
+            "claim": "1977–78 composition; 1979 Eulenburg edition; 16:30 duration",
+            "url": "https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf",
+            "source_name": "Royal Conservatoire Antwerp library",
+            "kind": "institution",
+            "access": "opened",
+            "page": "PDF 25 and 36"
+          },
+          {
+            "claim": "Current Kunzelmann GM902 piano reduction",
+            "url": "https://www.bodensee-musikversand.de/product_info.php?products_id=234921",
+            "source_name": "Bodensee Musikversand",
+            "kind": "retailer",
+            "access": "opened"
+          }
+        ],
+        "score_links": [
+          {
+            "url": "https://www.bodensee-musikversand.de/product_info.php?products_id=234921",
+            "description": "GM902 piano reduction and solo part purchase; no notation preview found",
+            "inspected": false
+          }
+        ],
+        "listening": [],
+        "collection_flag": "Original saxophone concerto written for Iwan Roth and professionally premiered. No youth transcription concern documented.",
+        "review_focus": "Inference: assess ensemble rhythmic coordination and the soloist’s continuity across fast, slow and Agitato sections. Composer commentary establishes stylistic contrasts; the actual part remains necessary for range and technical judgment.",
+        "gaps": [
+          "No readable score or solo-part preview located.",
+          "No playable exact-work saxophone recording verified; composer archive lists ELSC06 and Jecklin568, and SRG neo composer page did not expose this work.",
+          "Duration conflicts: composer catalogue 19 minutes; Antwerp score record 16:30.",
+          "Composition spans 1977–78; scalar year metadata requires a convention rather than pretending a single date is established."
+        ],
+        "metadata": {
+          "composed": null,
+          "publisher": [
+            "Edition Kunzelmann"
+          ],
+          "streaming": null,
+          "purchase": [
+            "https://www.bodensee-musikversand.de/product_info.php?products_id=234921"
+          ],
+          "download": [],
+          "instruments": [
+            "Alto Saxophone",
+            "Piano"
+          ]
+        },
+        "proposed_corrections": [
+          "Identify the catalogued saxophone/piano edition as the GM902 reduction of the concerto."
+        ],
+        "searches": [
+          "Armin Schibler Konzertante Fantasie saxophon score recording",
+          "Schibler Konzertante Fantasie",
+          "Konzertante Fantasie saxophon Kunzelmann",
+          "Schibler Konzertante Fantasie GM902",
+          "Konzertante Fantasie Iwan Roth audio",
+          "Konzertante Fantasie Schibler score preview",
+          "Opened and retrieved composer catalogue pp90–91, current GM902 dealer, Antwerp holdings, SRG neo composer page."
+        ],
+        "chat_summary": "Schibler’s own commentary supplies the missing musical profile: a classical saxophone line meets jazz-derived piano/percussion rhythm through fast, slow and Agitato sections. GM902 is the piano reduction of an original concerto. No notation or playable Listen verified; published durations disagree.",
+        "id": 12,
+        "chat_number": 10,
+        "filename": "Armin Schibler - Konzertante Fantasie.md",
+        "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Armin Schibler - Konzertante Fantasie.md",
+        "title": "Konzertante Fantasie",
+        "checked_on": "2026-10-12",
+        "status": "researched_with_gaps",
+        "notation_inspected": false,
+        "score_observations": ""
+      },
+      "assigned_level": "Third Year",
+      "decision": "Third Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Third Year."
+    },
+    {
+      "chat_number": 11,
+      "review_id": 13,
+      "filename": "Arnold Franchetti - Sonata.md",
+      "review_note": "content/research-review/Review 0013 - Arnold Franchetti - Sonata.md",
+      "metadata_added": {},
+      "notation_inspected": false,
+      "research_record": {
+        "identity": "Arnold Franchetti’s Sonata for Saxophone and Piano is catalogued as a published alto-saxophone-and-piano work in Albert Regni’s archive. Publisher and exact edition remain unresolved.",
+        "findings": "The Albert Regni Saxophone Solo Collection inventory specifically identifies Franchetti’s Sonata as alto saxophone and piano and marks the copy Published. This resolves the previous review’s uncertainty about saxophone type. https://livingjazzarchives.org/cms/wp-content/uploads/2021/04/Regni-Sax-Solo-Collection.pdf The Mondo Ladino 37 article discusses Saxophone Sonata (1970) as an example of imaginative, improvisatory writing. This is an attributed scholarly characterization, not evidence of required improvisation. Its citation refers to Grove; it does not provide a score. https://www.istladin.net/web/pdf/MondoLadino/ml2013.pdf",
+        "evidence": [
+          {
+            "claim": "Published alto saxophone and piano Sonata, row 59",
+            "url": "https://livingjazzarchives.org/cms/wp-content/uploads/2021/04/Regni-Sax-Solo-Collection.pdf",
+            "source_name": "Living Jazz Archives, Albert Regni Saxophone Solo Collection",
+            "kind": "archival inventory",
+            "access": "opened",
+            "page": "PDF 2"
+          },
+          {
+            "claim": "Article names Saxophone Sonata 1970 and characterizes writing; composer manuscripts held Hartford",
+            "url": "https://www.istladin.net/web/pdf/MondoLadino/ml2013.pdf",
+            "source_name": "Istituto Culturale Ladino, Mondo Ladino 37(2013)",
+            "kind": "scholarly secondary source",
+            "access": "opened",
+            "page": "PDF 116/printed 115"
+          }
+        ],
+        "score_links": [],
+        "listening": [],
+        "collection_flag": "Archive confirms a published alto-and-piano sonata. Instrumental origin and intended audience remain unverified; there is no evidence establishing a youth simplification.",
+        "review_focus": "No justified range, articulation, form, extended-technique or piano-demand assessment without score. The archival inventory is a concrete route to obtaining a review copy.",
+        "gaps": [
+          "No readable score preview or performer recording located.",
+          "Publisher, catalog number, duration, movements and dedication unverified.",
+          "1970 scholarly reference versus 1971 in indexed Sinta/dissertation material remains unresolved; leave composition year blank.",
+          "Groth catalog link blocked 403. Franchetti piano-solo sonata recordings are different works."
+        ],
+        "metadata": {
+          "composed": null,
+          "publisher": [],
+          "streaming": null,
+          "purchase": [],
+          "download": [],
+          "instruments": [
+            "Alto Saxophone",
+            "Piano"
+          ]
+        },
+        "searches": [
+          "Franchetti Sonata saxophone score Sinta",
+          "Franchetti Sonata Hartford saxophone",
+          "Franchetti Sonata Love be in the middle",
+          "Franchetti Sonata saxophone performance recording",
+          "Opened Regni Solo inventory and Mondo Ladino article; checked Groth, Sinta and UBC dissertation leads."
+        ],
+        "chat_summary": "The Regni archive confirms a published alto-and-piano sonata. No readable notation or exact-work Listen was verified. Edition identity and the 1970/1971 date discrepancy still require a copy or composer archive evidence.",
+        "id": 13,
+        "chat_number": 11,
+        "filename": "Arnold Franchetti - Sonata.md",
+        "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Arnold Franchetti - Sonata.md",
+        "title": "Sonata",
+        "checked_on": "2026-10-12",
+        "status": "researched_with_gaps",
+        "notation_inspected": false,
+        "score_observations": ""
+      },
+      "removed": true,
+      "retired_url": "/works/arnold-franchetti-sonata/",
+      "redirect_to": "/",
+      "removed_work_snapshot": "---\ntitle: Sonata\nslug: arnold-franchetti-sonata\ncomposer:\n  - \"[[Arnold Franchetti]]\"\ninstruments:\n  - Alto Saxophone\n  - Piano\ncomposed:\nyear-of-study:\nstreaming:\npurchase:\n  - https://www.grothmusic.com/p-142658.aspx\nadded: 2024-03-08\nresearch:\n  - \"VIAF lists 'Sonatas, saxophone, piano' among Franchetti's works; no date or saxophone type stated · https://viaf.org/viaf/29955865\"\n  - \"Published alto saxophone and piano Sonata, row 59 · https://livingjazzarchives.org/cms/wp-content/uploads/2021/04/Regni-Sax-Solo-Collection.pdf\"\n  - \"Article names Saxophone Sonata 1970 and characterizes writing; composer manuscripts held Hartford · https://www.istladin.net/web/pdf/MondoLadino/ml2013.pdf\"\naliases: []\n---\n## Research notes (private)\n\n### Chat batch 06 follow-up, 2026-10-12\n\nThe Regni archive confirms a published alto-and-piano sonata. No readable notation or exact-work Listen was verified. Edition identity and the 1970/1971 date discrepancy still require a copy or composer archive evidence.\n\n[[Review 0013 - Arnold Franchetti - Sonata|Full evidence and open questions]]\n\n\n- VIAF lists 'Sonatas, saxophone, piano' among Franchetti's works; no date or saxophone type stated · [viaf.org](https://viaf.org/viaf/29955865)\n\n<!-- saxobrain-research-review-2026-10-11 -->\n\n### Research Review, October 11, 2026\n\n[[Review 0013 - Arnold Franchetti - Sonata|Full review note]]\n\nCatalog: [[Arnold Franchetti - Sonata]]\n\n- Identity: A saxophone sonata attributed to Arnold Franchetti is listed in the Regni Sax Solo-Duet Collection index. A 2013 scholarly article identifies a *Saxophone Sonata* from 1970 in its discussion of Franchetti's works, and a dissertation excerpt connects Franchetti's saxophone writing to Donald Sinta. These sources support the work's existence, but saxophone type, instrumentation, edition, publisher, and score remain unverified. The 1970 and 1971 dates conflict across sources and remain unresolved.\n- Saxophone collection index lists Sonata for saxophone and piano under Franchetti. [Living Jazz Archives, Regni Sax Solo-Duet Collection](https://livingjazzarchives.org/cms/wp-content/uploads/2021/04/Regni-Sax-Solo-Duet-Collection.pdf) (opened).\n- VIAF lead lists saxophone/piano sonatas among works, but does not identify the saxophone type or edition. [VIAF](https://viaf.org/viaf/29955865) (search_index_only).\n- 2013 scholarly article identifies a Saxophone Sonata dated 1970 among Franchetti's works and describes its writing as imaginative and improvisatory. [Mondo Ladino 37 (2013), scholarly article](https://www.istladin.net/web/pdf/MondoLadino/ml2013.pdf) (115; opened).\n- A doctoral dissertation excerpt identifies Arnold Franchetti among composers commissioned by Donald Sinta to write for saxophone; its extracted work list identifies a Franchetti Sonata dated 1971. [Library and Archives Canada dissertation repository](https://www.collectionscanada.gc.ca/obj/thesescanada/vol2/BVAU/TC-BVAU-42002.pdf) (search_index_only).\n- Collection/use: Scholarly source confirms a saxophone sonata and a Donald Sinta commission context; exact intended audience and edition are unknown.\n- Review focus: Inference from the scholarly description of imaginative, improvisatory writing: inspect the score for notation or timing that realizes this character; no score pages were found.\n- Gaps: Sources report both 1970 and 1971; reconcile the date and establish saxophone type, accompaniment, publisher, and exact edition.; No readable score, verified saxophone recording, or specific college program located.\n\n",
+      "assigned_level": null,
+      "decision": "Removed",
+      "review_applied": true,
+      "decision_note": "Tim requested removal from the catalog. The private evidence log is retained."
+    },
+    {
+      "chat_number": 12,
+      "review_id": 14,
+      "filename": "Arthur Frackenpohl - Sonata (Soprano-Tenor).md",
+      "review_note": "content/research-review/Review 0014 - Arthur Frackenpohl - Sonata (Soprano-Tenor).md",
+      "metadata_added": {
+        "publisher": [
+          "Dorn Publications"
+        ],
+        "purchase": [
+          "https://www.grothmusic.com/p-139710.aspx",
+          "https://www.jwpepper.com/Sonata-Tenor-or-Soprano-Sax-Piano/7932619.item",
+          "https://www.jwpepper.com/sonata-tenor-or-soprano-sax-piano-7932619/p"
+        ]
+      },
+      "notation_inspected": false,
+      "research_record": {
+        "identity": "Arthur Frackenpohl’s Sonata for tenor or soprano saxophone and piano is Dorn Publications no. 141, copyright 1990. A Western Illinois University tenor recital performed its three Fast–Slow–Fast movements.",
+        "findings": "J.W. Pepper identifies Dorn no. 141 as Sonata-Tenor or Soprano Sax/Piano and specifies copyright 1990. That is an edition date, not secure composition evidence. https://www.jwpepper.com/sonata-tenor-or-soprano-sax-piano-7932619/p Western Illinois University’s 15 February 2015 Honors College Project Recital documents Steven Olson, tenor, and Liang-Yu Wang, piano. Its notes describe sonata-form first movement with playful and lyrical themes and considerable syncopation; a ternary D-major ballad with 9/8 B section; and a lively finale with 5/8 interruptions and active ensemble interaction. These are program-note descriptions, not visually inspected notation. https://www.wiu.edu/libinfo/fileserver/recitals/fileserver.php?target=1212896_program.pdf University of Oregon’s Fall 2026 audition document suggests Frackenpohl’s Dorn Sonata for tenor applicants. Central Washington University names its first movement among undergraduate tenor options. This documents college use without assigning a study year. https://musicanddance.uoregon.edu/sites/default/files/2025-06/ug-aud-req-2026.pdf https://www.cwu.edu/academics/music/audition-information/audition-requirements/saxophone-audition-requirements.php Saxophonist Ellery Eskelin’s 3 May 2018 post identifies a Tenor Tapestry excerpt, Sonata III. Fast, by James Houlik with Debra Ayers. The linked performer MP3 now returns 404, so it is a recording lead and cannot serve as a working Listen link. https://elleryeskelin.blogspot.com/2018/05/",
+        "evidence": [
+          {
+            "claim": "Dorn 141, tenor/soprano+piano, copyright 1990",
+            "url": "https://www.jwpepper.com/sonata-tenor-or-soprano-sax-piano-7932619/p",
+            "source_name": "J.W. Pepper edition catalog",
+            "kind": "retailer",
+            "access": "opened"
+          },
+          {
+            "claim": "Tenor performance, movements and musical/ensemble description",
+            "url": "https://www.wiu.edu/libinfo/fileserver/recitals/fileserver.php?target=1212896_program.pdf",
+            "source_name": "Western Illinois University School of Music, Steven Olson recital program",
+            "kind": "college performance program",
+            "access": "opened",
+            "page": "PDF 1–3"
+          },
+          {
+            "claim": "Dorn tenor Sonata suggested for Fall 2026 admissions",
+            "url": "https://musicanddance.uoregon.edu/sites/default/files/2025-06/ug-aud-req-2026.pdf",
+            "source_name": "University of Oregon School of Music and Dance",
+            "kind": "college audition requirements",
+            "access": "opened",
+            "page": "PDF 9"
+          },
+          {
+            "claim": "First movement tenor Sonata suggested",
+            "url": "https://www.cwu.edu/academics/music/audition-information/audition-requirements/saxophone-audition-requirements.php",
+            "source_name": "Central Washington University Music",
+            "kind": "college audition requirements",
+            "access": "opened"
+          },
+          {
+            "claim": "Houlik/Ayers Tenor Tapestry finale excerpt identified and linked",
+            "url": "https://elleryeskelin.blogspot.com/2018/05/",
+            "source_name": "Ellery Eskelin, saxophonist, Musings from a Saxophonist",
+            "kind": "performer commentary",
+            "access": "opened"
+          }
+        ],
+        "score_links": [
+          {
+            "url": "https://www.jwpepper.com/sonata-tenor-or-soprano-sax-piano-7932619/p",
+            "description": "Edition purchase page; only cover available",
+            "inspected": false
+          }
+        ],
+        "listening": [
+          {
+            "url": "http://jameshoulik.net/wp-content/uploads/2014/04/SonataIIIFast.mp3",
+            "description": "Historical performer-hosted third-movement excerpt; James Houlik tenor, Debra Ayers piano, Tenor Tapestry",
+            "status": "unavailable 404",
+            "verified_playable": false,
+            "source": "https://elleryeskelin.blogspot.com/2018/05/"
+          }
+        ],
+        "collection_flag": "Original saxophone sonata with direct college-recital and admissions use. No youth transcription or simplification evidence.",
+        "review_focus": "Inference from recital notes: ensemble syncopation, contrasting lyrical/playful character, and transitions into 9/8 and 5/8 deserve review. Exact range and articulation require score.",
+        "gaps": [
+          "No readable notation preview located.",
+          "Houlik excerpt source confirms a recording exists, but audio link is dead; no verified working Listen.",
+          "1990 is publisher copyright and recital work date; earlier 1982 lead remains unresolved, so do not populate composed.",
+          "Verify whether soprano and tenor alternatives use identical solo part, and assess piano difficulty from score."
+        ],
+        "metadata": {
+          "composed": null,
+          "publisher": [
+            "Dorn Publications"
+          ],
+          "streaming": null,
+          "purchase": [
+            "https://www.jwpepper.com/sonata-tenor-or-soprano-sax-piano-7932619/p"
+          ],
+          "download": [],
+          "instruments": [
+            "Soprano Saxophone",
+            "Tenor Saxophone",
+            "Piano"
+          ]
+        },
+        "searches": [
+          "Frackenpohl Sonata soprano tenor Dorn 141",
+          "Frackenpohl Sonata WIU program",
+          "Frackenpohl Tenor Tapestry Ayers",
+          "Frackenpohl Sonata saxophone video",
+          "James Houlik Tenor Tapestry listen",
+          "Checked WIU/CWU/Oregon college sources; performer MP3 HEAD 404 on bothHTTP/HTTPS."
+        ],
+        "chat_summary": "College recital notes describe syncopated ensemble writing, a lyrical 9/8 middle section, and 5/8 interruptions in the finale. Dorn 141 offers tenor or soprano with piano. The Houlik/Ayers finale excerpt is identified, but its audio link is dead; no notation was inspected.",
+        "id": 14,
+        "chat_number": 12,
+        "filename": "Arthur Frackenpohl - Sonata (Soprano-Tenor).md",
+        "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Arthur Frackenpohl - Sonata (Soprano-Tenor).md",
+        "title": "Sonata (Soprano/Tenor)",
+        "checked_on": "2026-10-12",
+        "status": "researched_with_gaps",
+        "notation_inspected": false,
+        "score_observations": ""
+      },
+      "assigned_level": "Second Year",
+      "decision": "Second Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Second Year."
+    },
+    {
+      "chat_number": 13,
+      "review_id": 15,
+      "filename": "Arthur Frackenpohl - Variations.md",
+      "review_note": "content/research-review/Review 0015 - Arthur Frackenpohl - Variations.md",
+      "metadata_added": {},
+      "notation_inspected": false,
+      "research_record": {
+        "identity": "Arthur Frackenpohl’s Variations is independently listed as an alto-saxophone solo by MSHSAA. The Shawnee Press LA123 alto-and-piano edition is a consistent dealer lead that still lacks freshly opened publisher corroboration.",
+        "findings": "The Missouri State High School Activities Association lists Variations by Frackenpohl under Alto Saxophone Solos. The document is a review-project appeal for copies not yet secured, so it establishes prior prescribed-list identity rather than current approval or a difficulty judgment. https://www.mshsaa.org/resources/pdf/Saxophone%20Solos.pdf An indexed used-score listing identifies Eb alto saxophone and piano, Shawnee Press LA123. Direct access failed; treat these exact-edition details as a lead. https://www.ebay.com/itm/158289369572",
+        "evidence": [
+          {
+            "claim": "Frackenpohl Variations named among alto solos needing copies for review",
+            "url": "https://www.mshsaa.org/resources/pdf/Saxophone%20Solos.pdf",
+            "source_name": "Missouri State High School Activities Association, Prescribed Graded Music List review appeal",
+            "kind": "institutional repertoire list",
+            "access": "opened",
+            "page": "PDF 1 introduction; PDF 9 Variations row"
+          },
+          {
+            "claim": "Seller identifies LA123, Shawnee Press, Eb alto/piano",
+            "url": "https://www.ebay.com/itm/158289369572",
+            "source_name": "Used-score seller musicality 2025",
+            "kind": "retailer lead",
+            "access": "search_index_only"
+          }
+        ],
+        "score_links": [],
+        "listening": [],
+        "collection_flag": "MSHSAA’s administrative request verifies title and instrument, without establishing current approved repertoire or school placement. No evidence identifies a transcription. Physical edition review is needed.",
+        "review_focus": "The work title alone cannot establish theme source, variation count or instrumental demands. Do not borrow descriptions of Frackenpohl’s tuba Cobbler’s Bench Variations or Variations on a March of Shostakovich.",
+        "gaps": [
+          "No freshly opened publisher or library edition record found.",
+          "No readable notation or exact saxophone performance found.",
+          "Composition year, duration, theme, variation structure, solo range and accompaniment demands remain unknown.",
+          "Groth and used-score page blocked 403; proposed publisher is withheld pending direct confirmation."
+        ],
+        "metadata": {
+          "composed": null,
+          "publisher": [],
+          "streaming": null,
+          "purchase": [],
+          "download": [],
+          "instruments": [
+            "Alto Saxophone",
+            "Piano"
+          ]
+        },
+        "searches": [
+          "Frackenpohl Variations saxophone LA123",
+          "Frackenpohl Variations saxophone Shawnee",
+          "Frackenpohl Variations site:flmusiced.org",
+          "AS 4022 saxophone",
+          "Frackenpohl Variations site:halleonard.com saxophone",
+          "Checked MSHSAA official PDF; retailer and Florida contest-list mirror leads; excluded tuba and Shostakovich variants."
+        ],
+        "chat_summary": "MSHSAA’s request for a review copy verifies title and instrument without establishing current approved repertoire. Shawnee LA123 remains a dealer lead. No notation or exact-work Listen was verified, so musical demands and edition details remain open.",
+        "id": 15,
+        "chat_number": 13,
+        "filename": "Arthur Frackenpohl - Variations.md",
+        "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Arthur Frackenpohl - Variations.md",
+        "title": "Variations",
+        "checked_on": "2026-10-12",
+        "status": "researched_with_gaps",
+        "notation_inspected": false,
+        "score_observations": ""
+      },
+      "assigned_level": "First Year",
+      "decision": "First Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned First Year."
+    },
+    {
+      "chat_number": 14,
+      "review_id": 16,
+      "filename": "Arthur Woodbury - Between Categories.md",
+      "review_note": "content/research-review/Review 0016 - Arthur Woodbury - Between Categories.md",
+      "metadata_added": {
+        "publisher": [
+          "C.F. Peters"
+        ],
+        "purchase": [
+          "https://www.grothmusic.com/p-146308.aspx",
+          "https://www.wisemusicclassical.com/work/76784/Between-Categories--Arthur-Woodbury/"
+        ]
+      },
+      "notation_inspected": false,
+      "research_record": {
+        "identity": "Arthur Woodbury’s Between Categories is an approximately seven-minute alto-saxophone-and-piano work represented by C.F. Peters EP67113. Wise Music verifies composer, scoring and duration.",
+        "findings": "Wise Music’s official work record verifies Arthur Woodbury, solo alto with piano, C.F. Peters and seven minutes. It offers score purchase options but no public perusal. https://www.wisemusicclassical.com/work/76784/Between-Categories--Arthur-Woodbury/ Van Cott Information Services quotes Woodbury’s own explanation that this piece integrates the jazz and classical music he had kept separate. The dealer identifies a 1989 Peters score of 24 pages plus a five-page solo part; its opinion that piano is harder remains retailer assessment. https://vcisinc.com/saxophonemusic.htm Stretta’s edition listing corroborates Arthur Woodbury, alto/piano and Peters 67113. Noten Roehr gives 1982 while Presto gives a 2001 publication date and incorrectly calls the composer Albert; none of these dates establishes composition year. https://www.stretta-music.ch/it/woodbury-arthur-between-categories-nr-381762.html",
+        "evidence": [
+          {
+            "claim": "Composer Arthur Woodbury, alto saxophone and piano, seven minutes, C.F. Peters",
+            "url": "https://www.wisemusicclassical.com/work/76784/Between-Categories--Arthur-Woodbury/",
+            "source_name": "Wise Music Classical / C.F. Peters",
+            "kind": "publisher",
+            "access": "opened",
+            "page": "retrieved live lane-2-woodbury-wise.html"
+          },
+          {
+            "claim": "Composer’s stylistic explanation quoted; Peters 1989 score 24+5 pages; accompaniment assessment is retailer opinion",
+            "url": "https://vcisinc.com/saxophonemusic.htm",
+            "source_name": "Van Cott Information Services music catalog",
+            "kind": "retailer",
+            "access": "opened"
+          }
+        ],
+        "score_links": [
+          {
+            "url": "https://www.wisemusicclassical.com/work/76784/Between-Categories--Arthur-Woodbury/",
+            "description": "Official score purchase record, no visible notation perusal",
+            "inspected": false
+          }
+        ],
+        "listening": [],
+        "collection_flag": "Composer describes an original synthesis of his jazz and classical backgrounds. No transcription or youth-simplification evidence.",
+        "review_focus": "Inference: stylistic integration and the piano partnership are useful review priorities. Dealer’s accompaniment comparison needs score verification.",
+        "gaps": [
+          "No readable score or part preview located.",
+          "No verified recording of this exact work.",
+          "Composition date unresolved; 1982/1989/2001 edition dates differ across retailers.",
+          "EP67113 dealer identity corroborated in search indexing; Stretta page direct open failed."
+        ],
+        "metadata": {
+          "composed": null,
+          "publisher": [
+            "C.F. Peters"
+          ],
+          "streaming": null,
+          "purchase": [
+            "https://www.wisemusicclassical.com/work/76784/Between-Categories--Arthur-Woodbury/"
+          ],
+          "download": [],
+          "instruments": [
+            "Alto Saxophone",
+            "Piano"
+          ]
+        },
+        "proposed_corrections": [
+          "Add C.F. Peters as publisher using official work record.",
+          "Do not use retailer edition dates for composed."
+        ],
+        "searches": [
+          "Arthur Woodbury Between Categories",
+          "Between Categories Woodbury score",
+          "Arthur Woodbury Between Categories performance",
+          "Between Categories Arthur Woodbury Wise Music",
+          "Between Categories saxophone 67113",
+          "Opened Van Cott catalog, found official Wise URL through indexed lead and retrieved live; checked Stretta, Roehr, Presto edition/date discrepancies."
+        ],
+        "chat_summary": "Woodbury’s composer explanation identifies an original integration of jazz and classical music. Wise Music verifies seven minutes, alto/piano and C.F. Peters. No score preview or Listen verified; retailer dates conflict and do not establish composition year.",
+        "id": 16,
+        "chat_number": 14,
+        "filename": "Arthur Woodbury - Between Categories.md",
+        "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Arthur Woodbury - Between Categories.md",
+        "title": "Between Categories",
+        "checked_on": "2026-10-12",
+        "status": "researched_with_gaps",
+        "notation_inspected": false,
+        "score_observations": ""
+      },
+      "assigned_level": "Third Year",
+      "decision": "Third Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Third Year."
+    },
+    {
+      "chat_number": 15,
+      "review_id": 17,
+      "filename": "Aubert Lemeland - Epitaph for John Coltrane.md",
+      "review_note": "content/research-review/Review 0017 - Aubert Lemeland - Epitaph for John Coltrane.md",
+      "metadata_added": {
+        "purchase": [
+          "https://www.grothmusic.com/p-63668.aspx",
+          "https://www.billaudot.com/gb3218-6.html"
+        ],
+        "instruments": [
+          "Soprano Saxophone",
+          "Piano"
+        ]
+      },
+      "notation_inspected": false,
+      "research_record": {
+        "identity": "Aubert Lemeland’s Epitaph to John Coltrane, op. 86, is for B-flat soprano saxophone and piano. Billaudot’s current edition is GB3218; its distributor lists 524-03112 explicitly for soprano.",
+        "findings": "Billaudot confirms B-flat saxophone and piano, GB3218, and placement in Georges Gourdet’s L’enseignement moderne du saxophone collection. Its own label is moderately difficult/cycle 2; this is publisher context rather than a proposed college year. https://www.billaudot.com/gb3218-6.html The Royal Conservatoire Antwerp library specifies soprano in B-flat and piano, op. 86, Billaudot 1981, about five minutes, dedicated to Jean-Pierre Bataglioli and Jean-Dominique Buroni. 1981 is publication. https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf The Theodore Presser/Carl Fischer publisher-distributor woodwind catalog labels Epitaph to John Coltrane 524-03112 Sopr. Sax. This corroborates soprano against misleading alto/tenor dealer headings. https://www.tpcfassets.com/presser/catalogs/Presser_Fischer_Woodwind_catalog.pdf The Philharmonie de Paris copy of the teacher-authored guide was retrieved and its entry visually checked: three movements, Andante espressivo (quarter=54), Vivo e ritmico with alternating 3/8 and 5/8 (dotted-quarter=96), and Lento espressivo (quarter=63). These are guide descriptions, not observed notation. https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+        "evidence": [
+          {
+            "claim": "Current editionGB3218, BB sax+piano, named teaching collection and publisher label",
+            "url": "https://www.billaudot.com/gb3218-6.html",
+            "source_name": "Éditions Billaudot",
+            "kind": "publisher",
+            "access": "opened"
+          },
+          {
+            "claim": "Soprano+piano, op 86, publication 1981, circa 5 min, dedication",
+            "url": "https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf",
+            "source_name": "Royal Conservatoire Antwerp Library saxophone holdings",
+            "kind": "institutional score catalog",
+            "access": "opened",
+            "page": "PDF 20–21"
+          },
+          {
+            "claim": "Distributor 524-03112 identifies soprano",
+            "url": "https://www.tpcfassets.com/presser/catalogs/Presser_Fischer_Woodwind_catalog.pdf",
+            "source_name": "Theodore Presser / Carl Fischer Woodwind Catalog",
+            "kind": "publisher distributor",
+            "access": "opened",
+            "page": "PDF 94/printed 81; retrieved live lane-2-presser.pdf"
+          },
+          {
+            "claim": "Three movement headings, tempi and alternating 3/8–5/8 described in teacher-authored guide",
+            "url": "https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+            "source_name": "Philharmonie de Paris, 10 ans avec le saxophone",
+            "kind": "performer/pedagogue repertoire guide",
+            "access": "opened",
+            "page": "PDF43 / printed46",
+            "local_file": "/tmp/saxobrain-batch06/lane1-assets/philharmonie.pdf"
+          }
+        ],
+        "score_links": [
+          {
+            "url": "https://www.billaudot.com/gb3218-6.html",
+            "description": "Current publisher purchase/identity record; no notation preview",
+            "inspected": false
+          }
+        ],
+        "listening": [],
+        "collection_flag": "Documented teaching-collection placement merits audience review, but no evidence identifies a youth transcription or warrants automatic exclusion.",
+        "review_focus": "Inference from teacher guide: contrast of expressive slow movements with a rhythmically active mixed-meter middle movement; confirm soprano tone/intonation, range and ensemble demands from score.",
+        "gaps": [
+          "No readable score or exact-work saxophone recording verified.",
+          "Composition date remains unknown; 1981 publication and unverified 1979 lead must not populate composed.",
+          "Movement descriptions were checked in the institutional teacher guide; actual musical notation remains unavailable.",
+          "Existing work metadata omits required Piano; add it."
+        ],
+        "metadata": {
+          "composed": null,
+          "publisher": [
+            "Éditions Billaudot"
+          ],
+          "streaming": null,
+          "purchase": [
+            "https://www.billaudot.com/gb3218-6.html"
+          ],
+          "download": [],
+          "instruments": [
+            "Soprano Saxophone",
+            "Piano"
+          ]
+        },
+        "proposed_corrections": [
+          "Add Piano to instrumentation.",
+          "Keep current GB3218 publisher identity separate from old guide catalog-number OCR."
+        ],
+        "searches": [
+          "Lemeland Epitaph to John Coltrane soprano piano score",
+          "Lemeland Epitaph Andante Vivo ritmico",
+          "Epitaph Lemeland youtube",
+          "Epitaph to John Coltrane recording",
+          "Opened Billaudot and Antwerp; retrieved publisher-distributor catalog; official 10 ansPDF 500, opened indexed mirror."
+        ],
+        "chat_summary": "Publisher-distributor and conservatoire records confirm soprano and piano, correcting the missing piano tag. A saxophone-teacher guide describes expressive outer movements and an alternating 3/8–5/8 middle movement. No score or exact-work Listen was verified; composition year remains unknown.",
+        "id": 17,
+        "chat_number": 15,
+        "filename": "Aubert Lemeland - Epitaph for John Coltrane.md",
+        "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Aubert Lemeland - Epitaph for John Coltrane.md",
+        "title": "Epitaph for John Coltrane",
+        "checked_on": "2026-10-12",
+        "status": "researched_with_gaps",
+        "notation_inspected": false,
+        "score_observations": ""
+      },
+      "assigned_level": "Third Year",
+      "decision": "Third Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Third Year."
+    },
+    {
+      "chat_number": 16,
+      "review_id": 18,
+      "filename": "Bent Lorentzen - Concerto.md",
+      "review_note": "content/research-review/Review 0018 - Bent Lorentzen - Concerto.md",
+      "metadata_added": {
+        "publisher": [
+          "Edition Wilhelm Hansen"
+        ]
+      },
+      "notation_inspected": false,
+      "research_record": {
+        "identity": "Bent Lorentzen’s 1986 alto Saxofonkoncert is represented by Edition Wilhelm Hansen’s wind-ensemble version.",
+        "findings": "Wise Music’s full work page verifies solo alto, the specified wind/brass ensemble with piano and percussion, 23 minutes and rental availability. https://www.wisemusicclassical.com/work/22267/Saxofonkoncert--Bent-Lorentzen/ Dedicatee David Pituch’s publisher-hosted note describes a through-composed single movement. Lorentzen combines classical repertoire influence with avant-garde saxophone practice and Latin music. Ensemble block harmonies alternate short and sustained textures; the solo line can deliberately be covered by the ensemble. Some passages place different simultaneous tempo marks on saxophone and winds to loosen strict meter. These are documented program-note claims, not score observations. https://www.wisemusicclassical.com/work/22267/Saxofonkoncert--Bent-Lorentzen/ The worklist records completion on 10 June 1986 and premiere on 6 March 1987 with Pituch, Danish Radio Symphony Orchestra and David Epstein. https://www.danishmusicologyonline.dk/downloads/dmo_04/Bent_Lorentzen_Vaerkfortegnelse_090512.pdf POLMIC’s Warsaw Autumn archive documents Pituch with the Danish Radio Symphony Orchestra under Leif Segerstam on 23 September 1989. https://archiwumcyfrowe.polmic.pl/pub/material?id=3216",
+        "evidence": [
+          {
+            "claim": "Scoring, duration, rental and Pituch’s musical commentary",
+            "url": "https://www.wisemusicclassical.com/work/22267/Saxofonkoncert--Bent-Lorentzen/",
+            "source_name": "Wise Music Classical / Edition Wilhelm Hansen, David Pituch program note",
+            "kind": "publisher",
+            "access": "opened",
+            "page": "retrieved live as lane-2-source-22267.html"
+          },
+          {
+            "claim": "Completion 10 June 1986 and 6 March 1987 premiere",
+            "url": "https://www.danishmusicologyonline.dk/downloads/dmo_04/Bent_Lorentzen_Vaerkfortegnelse_090512.pdf",
+            "source_name": "Danish Musicology Online, Bent Lorentzen worklist",
+            "kind": "institution",
+            "access": "opened",
+            "page": "PDF21, item81"
+          },
+          {
+            "claim": "Warsaw Autumn performance 23 September 1989, Pituch and Danish Radio Symphony Orchestra under Segerstam",
+            "url": "https://archiwumcyfrowe.polmic.pl/pub/material?id=3216",
+            "source_name": "POLMIC Polish Music Information Centre festival archive",
+            "kind": "institution",
+            "access": "opened"
+          }
+        ],
+        "score_links": [
+          {
+            "url": "https://www.wisemusicclassical.com/work/22267/Saxofonkoncert--Bent-Lorentzen/",
+            "description": "Official work/rental record; Scores tab has no readable perusal exposed",
+            "inspected": false
+          }
+        ],
+        "listening": [],
+        "collection_flag": "Original professional saxophone concerto with major festival performance documentation. No youth adaptation concern.",
+        "review_focus": "Inference: review rhythmic coordination and balance against the specified ensemble; concrete techniques need the part.",
+        "gaps": [
+          "No readable score or saxophone part inspected.",
+          "Exact contemporary techniques need score verification.",
+          "No playable exact-concerto recording verified; Pituch Sonoton album search led to other composers’ works.",
+          "Existing Band tag is broad; full publisher scoring is a symphonic wind ensemble with piano and percussion."
+        ],
+        "metadata": {
+          "composed": 1986,
+          "publisher": [
+            "Edition Wilhelm Hansen"
+          ],
+          "streaming": null,
+          "purchase": [],
+          "download": [],
+          "instruments": [
+            "Alto Saxophone",
+            "Band"
+          ]
+        },
+        "proposed_corrections": [
+          "Add Edition Wilhelm Hansen as publisher."
+        ],
+        "searches": [
+          "Bent Lorentzen saxophone concerto David Pituch score recording",
+          "Lorentzen Saxofonkoncert recording",
+          "Opened Wise full page through live urllib after web error; checked worklist, POLMIC Warsaw Autumn archive, Pituch Sonoton album."
+        ],
+        "chat_summary": "Pituch’s publisher-hosted commentary supplies a clear musical profile. Premiere and festival performance are verified. Score and playable Listen remain unavailable.",
+        "id": 18,
+        "chat_number": 16,
+        "filename": "Bent Lorentzen - Concerto.md",
+        "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Bent Lorentzen - Concerto.md",
+        "title": "Concerto",
+        "checked_on": "2026-10-12",
+        "status": "researched_with_gaps",
+        "notation_inspected": false,
+        "score_observations": ""
+      },
+      "assigned_level": "Third Year",
+      "decision": "Third Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Third Year."
+    },
+    {
+      "chat_number": 17,
+      "review_id": 19,
+      "filename": "Bernard van Beurden - For Now And Forever.md",
+      "review_note": "content/research-review/Review 0019 - Bernard van Beurden - For Now And Forever.md",
+      "metadata_added": {
+        "publisher": [
+          "Donemus"
+        ],
+        "streaming": "https://music.apple.com/us/album/for-now-and-forever-for-tenor-saxophone-solo-feat/1574640129?i=1574640132&uo=4",
+        "purchase": [
+          "https://webshop.donemus.nl/action/front/sheetmusic/13546"
+        ]
+      },
+      "notation_inspected": false,
+      "research_record": {
+        "id": 19,
+        "filename": "Bernard van Beurden - For Now And Forever.md",
+        "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Bernard van Beurden - For Now And Forever.md",
+        "title": "For Now And Forever",
+        "chat_number": 17,
+        "status": "researched_with_gaps",
+        "checked_on": "2026-10-12",
+        "identity": "Bernard van Beurden, For now and forever (2014), tenor saxophone solo, Donemus D13546. Publisher identifies one player, about five minutes, and an eight-page score.",
+        "findings": "Donemus offers printed and paid PDF/Newzik editions of the eight-page solo score. The public perusal retrieved through its preview form contains only title and dedication/copyright pages, with no notation. · https://webshop.donemus.nl/action/front/sheetmusic/13546 Andreas van Zoelen lists the work among compositions written for him, dated 2014, with premiere 9 November 2014 in Waldshut-Tingen, Germany. · https://vanzoelen.eu/wp-content/uploads/2024/10/works-written-for-andreas-van-zoelen-english.pdf Etcetera identifies the recording as track 1 of KTC1709, performed by Andreas van Zoelen. This primary label credit corrects the earlier review note attributing it to Elliot Riley. Van Zoelen connects this recording project with his doctoral research into Sax instrument sound and the Raschèr tradition. · https://www.etcetera-records.com/product/for-now-forever-andreas-van-zoelen/",
+        "evidence": [
+          {
+            "claim": "2014, solo tenor, five minutes, eight-page score, edition 13546, paid digital and printed products",
+            "url": "https://webshop.donemus.nl/action/front/sheetmusic/13546",
+            "source_name": "Donemus Publishing",
+            "kind": "publisher",
+            "access": "opened"
+          },
+          {
+            "claim": "dedicated to Andreas; D13546; public preview has two frontmatter pages only",
+            "url": "https://webshop.donemus.nl/action/front/sheetmusic/13546",
+            "source_name": "Donemus public perusal PDF",
+            "kind": "score",
+            "access": "opened",
+            "page": "preview pages 1–2",
+            "local_file": "/tmp/saxobrain-batch06/beurden-preview.pdf"
+          },
+          {
+            "claim": "written for Andreas van Zoelen, 2014 premiere details",
+            "url": "https://vanzoelen.eu/wp-content/uploads/2024/10/works-written-for-andreas-van-zoelen-english.pdf",
+            "source_name": "Andreas van Zoelen work list",
+            "kind": "performer",
+            "access": "opened",
+            "page": "PDF page 7"
+          },
+          {
+            "claim": "track 1 performed by Andreas van Zoelen, KTC1709",
+            "url": "https://www.etcetera-records.com/product/for-now-forever-andreas-van-zoelen/",
+            "source_name": "Etcetera Records",
+            "kind": "publisher",
+            "access": "opened"
+          },
+          {
+            "claim": "Work-specific Apple Music track1574640132, 308787milliseconds, Andreas van Zoelen album artist",
+            "url": "https://itunes.apple.com/lookup?id=1574640129&entity=song&country=us",
+            "source_name": "Apple iTunes official public catalog API",
+            "kind": "publisher",
+            "access": "opened"
+          }
+        ],
+        "score_observations": "",
+        "notation_inspected": false,
+        "score_links": [
+          {
+            "url": "https://webshop.donemus.nl/action/front/sheetmusic/13546",
+            "description": "Donemus D13546 purchase and public preview form; preview contains frontmatter only",
+            "inspected": false
+          }
+        ],
+        "listening": [
+          {
+            "url": "https://music.apple.com/us/album/for-now-and-forever-for-tenor-saxophone-solo-feat/1574640129?i=1574640132&uo=4",
+            "description": "Work-specific Apple Music track, 5:08, album artist Andreas van Zoelen",
+            "verification": "Fresh official Apple iTunes catalog API confirms album, title, track ID and duration; primary label confirms individual soloist; not auditioned"
+          },
+          {
+            "url": "https://www.etcetera-records.com/product/for-now-forever-andreas-van-zoelen/",
+            "description": "Etcetera KTC1709, track 1, Andreas van Zoelen, tenor saxophone",
+            "verification": "Opened label tracklist and performer credit; not auditioned; album reference rather than direct player"
+          }
+        ],
+        "review_focus": "",
+        "collection_flag": "Original solo saxophone commission documented by its dedicatee. No evidence of a simplified non-saxophone transcription. Professional provenance does not establish technical difficulty.",
+        "gaps": [
+          "No musical pages available in the public publisher preview; range, rhythm, articulation, extended techniques and formal plan remain unknown."
+        ],
+        "proposed_corrections": [
+          "Replace the private review attribution to Elliot Riley with Andreas van Zoelen, following the primary label tracklist."
+        ],
+        "metadata": {
+          "composed": 2014,
+          "publisher": [
+            "Donemus"
+          ],
+          "streaming": "https://music.apple.com/us/album/for-now-and-forever-for-tenor-saxophone-solo-feat/1574640129?i=1574640132&uo=4",
+          "purchase": [
+            "https://webshop.donemus.nl/action/front/sheetmusic/13546"
+          ],
+          "download": [],
+          "instruments": [
+            "Tenor Saxophone",
+            "Unaccompanied"
+          ]
+        },
+        "searches": [
+          "Bernard van Beurden \"For now and forever\" saxophone score",
+          "\"For Now and Forever\" \"Beurden\" site:youtube.com",
+          "\"For Now and Forever\" \"Andreas\" \"youtube\"",
+          "Opened Donemus edition 13546 and submitted its public preview form; opened performer work list and Etcetera current label page."
+        ],
+        "chat_summary": "Donemus D13546 verifies the 2014 solo tenor piece and offers its eight-page score. Its public preview has no notation. Etcetera credits Andreas van Zoelen for the recording, correcting the earlier private attribution. Technical demands remain unverified. A work-specific Apple Music track is now verified."
+      },
+      "assigned_level": "Third Year",
+      "decision": "Third Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Third Year."
+    },
+    {
+      "chat_number": 18,
+      "review_id": 20,
+      "filename": "Bernard Wystraete - Alphonic.md",
+      "review_note": "content/research-review/Review 0020 - Bernard Wystraete - Alphonic.md",
+      "metadata_added": {
+        "publisher": [
+          "Alphonse Leduc"
+        ]
+      },
+      "notation_inspected": false,
+      "research_record": {
+        "id": 20,
+        "filename": "Bernard Wystraete - Alphonic.md",
+        "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Bernard Wystraete - Alphonic.md",
+        "title": "Alphonic",
+        "chat_number": 18,
+        "status": "researched_with_gaps",
+        "checked_on": "2026-10-12",
+        "identity": "Bernard Wystraete, Alphonic, alto saxophone and piano, Alphonse Leduc AL27127; verified in the publisher’s catalogue.",
+        "findings": "Leduc’s publisher catalogue verifies AL27127 as alto saxophone and piano. · https://casamusicaledelrio.it/casamusicale/wp-content/uploads/2019/04/CAT-18-107-Leduc-Catalogue-2018-ss-GS-v6-NO-CROPS-LO-RESv2.pdf The Conservatorio de Música de Calahorra includes Alphonic in its elementary saxophone entrance repertoire. A contemporary Leduc advertisement preserved by the Confédération Musicale de France markets it in the Rougeron collection for beginning/preparatory players. · https://conservatoriodecalahorra.es/pdf/pruebas_acceso/SAXO.pdf The publisher advertisement explicitly supplies a beginning/preparatory educational audience; this supports flagging the work’s elementary teaching purpose when reviewing collection fit. · https://www.cmf-archives.org/files/original/e4b3275bd2b53f2aed012a61c33c27d962d6deba.pdf Philharmonie’s guide describes two minutes: opening Allegretto in 4/4 at quarter=92, faster contrasting section and opening-theme return. Two-bar groups alternate piano/forte, with half notes, quarters, dotted-quarter/eighth figures, eighth notes and varied two-/four-note or staccato articulations. Guide pitch labels are not converted to written saxophone range. · https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+        "evidence": [
+          {
+            "claim": "Alphonic, alto saxophone and piano, Leduc AL27127",
+            "url": "https://casamusicaledelrio.it/casamusicale/wp-content/uploads/2019/04/CAT-18-107-Leduc-Catalogue-2018-ss-GS-v6-NO-CROPS-LO-RESv2.pdf",
+            "source_name": "Alphonse Leduc 2018 publisher catalogue, retailer-hosted copy",
+            "kind": "publisher",
+            "access": "opened",
+            "page": "printed page 81 / PDF page 83"
+          },
+          {
+            "claim": "Conservatorio de Música de Calahorra includes Alphonic in elementary saxophone entrance repertoire.",
+            "url": "https://conservatoriodecalahorra.es/pdf/pruebas_acceso/SAXO.pdf",
+            "source_name": "Conservatorio de Música de Calahorra",
+            "kind": "pedagogy",
+            "access": "opened",
+            "page": "PDF page 1"
+          },
+          {
+            "claim": "Leduc/Rougeron advertisement identifies beginning/preparatory audience for Alphonic",
+            "url": "https://www.cmf-archives.org/files/original/e4b3275bd2b53f2aed012a61c33c27d962d6deba.pdf",
+            "source_name": "Leduc advertisement in CMF archival journal",
+            "kind": "publisher",
+            "access": "opened",
+            "page": "PDF page 22"
+          },
+          {
+            "claim": "Philharmonie’s guide describes two minutes: opening Allegretto in 4/4 at quarter=92, faster contrasting section and opening-theme return. Two-bar groups alternate piano/forte, with half notes, quarters, dotted-quarter/eighth figures, eighth notes and varied two-/four-note or staccato articulations. Guide pitch labels are not converted to written saxophone range.",
+            "url": "https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+            "source_name": "Philharmonie de Paris, 10 ans avec le saxophone",
+            "kind": "pedagogy",
+            "access": "opened",
+            "page": "printed page 16 / PDF page 15",
+            "local_file": "/tmp/saxobrain-batch06/lane1-assets/philharmonie.pdf",
+            "retrieval": "Official public PDF retrieved 2026-10-12 by lane1 and its relevant page visually checked in this lane"
+          }
+        ],
+        "score_observations": "",
+        "notation_inspected": false,
+        "score_links": [
+          {
+            "url": "https://www.lesinstantslibres.fr/product/show/9790046271274/bernard-wystraete-alphonic-saxophonealto-et-piano",
+            "description": "Exact Leduc edition listing; no readable musical preview verified",
+            "inspected": false
+          }
+        ],
+        "listening": [],
+        "review_focus": "Inference: documented elementary teaching use warrants reviewing the full score for whether it serves the collection’s college/professional focus. This does not establish a SaxoBrain level.",
+        "collection_flag": "Saxophone-specific original repertoire as catalogued, with documented elementary/preparatory teaching context. No evidence of a transcription from another instrument. Tim should judge collection fit; no deletion proposed.",
+        "gaps": [
+          "No notation inspected; full range, actual articulation and rhythm demands remain unconfirmed.",
+          "No matching saxophone recording found after title, composer spelling and video searches.",
+          "Composition year remains unverified; publisher/retailer dates are not used as composition dates.",
+          "Guide entry dates 1985 are not explicitly identified as composition dates; composed remains unset."
+        ],
+        "proposed_corrections": [],
+        "metadata": {
+          "composed": null,
+          "publisher": [
+            "Alphonse Leduc"
+          ],
+          "streaming": null,
+          "purchase": [],
+          "download": [],
+          "instruments": [
+            "Alto Saxophone",
+            "Piano"
+          ]
+        },
+        "searches": [
+          "Bernard Wystraete Alphonic score preview saxophone",
+          "\"Alphonic\" \"Wystraete\" recording",
+          "\"Alphonic\" site:youtube.com",
+          "\"Alphonic\" \"score\" preview",
+          "Opened Leduc publisher catalogue, institutional curriculum and specific retailer listing; attempted both Philharmonie PDF hosts and Sheet Music Plus preview access."
+        ],
+        "chat_summary": "Leduc AL27127 is verified for alto and piano. The freshly retrieved Philharmonie guide supplies two-section form, articulation and dynamic contrasts; no notation or recording was verified. Publisher and institutional sources document elementary teaching use, so collection fit remains Tim’s decision."
+      },
+      "removed": true,
+      "retired_url": "/works/bernard-wystraete-alphonic/",
+      "redirect_to": "/",
+      "removed_work_snapshot": "---\ntitle: \"Alphonic\"\nslug: bernard-wystraete-alphonic\ncomposer:\n  - \"[[Bernard Wystraete]]\"\ninstruments:\n  - \"Alto Saxophone\"\n  - \"Piano\"\ncomposed: \nyear-of-study: \nstreaming: \npurchase:\n  - https://www.grothmusic.com/p-143166.aspx\nadded: 2024-03-08\nresearch:\n  - \"Publisher and catalog no.: Alphonse Leduc AL27127 · https://www.grothmusic.com/p-143166.aspx\"\n  - \"Alphonic, alto saxophone and piano, Leduc AL27127 · https://casamusicaledelrio.it/casamusicale/wp-content/uploads/2019/04/CAT-18-107-Leduc-Catalogue-2018-ss-GS-v6-NO-CROPS-LO-RESv2.pdf\"\n  - \"Conservatorio de Música de Calahorra includes Alphonic in elementary saxophone entrance repertoire. · https://conservatoriodecalahorra.es/pdf/pruebas_acceso/SAXO.pdf\"\n  - \"Leduc/Rougeron advertisement identifies beginning/preparatory audience for Alphonic · https://www.cmf-archives.org/files/original/e4b3275bd2b53f2aed012a61c33c27d962d6deba.pdf\"\n  - \"Philharmonie’s guide describes two minutes: opening Allegretto in 4/4 at quarter=92, faster contrasting section and opening-theme return. Two-bar groups alternate piano/forte, with half notes, quarters, dotted-quarter/eighth figures, eighth notes and varied two-/four-note or staccato articulations. Guide pitch labels are not converted to written saxophone range. · https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf\"\naliases: []\npublisher:\n  - \"Alphonse Leduc\"\n---\n## Research notes (private)\n\n### Chat batch 06 follow-up, 2026-10-12\n\nLeduc AL27127 is verified for alto and piano. The freshly retrieved Philharmonie guide supplies two-section form, articulation and dynamic contrasts; no notation or recording was verified. Publisher and institutional sources document elementary teaching use, so collection fit remains Tim’s decision.\n\n[[Review 0020 - Bernard Wystraete - Alphonic|Full evidence and open questions]]\n\n\n- Publisher and catalog no.: Alphonse Leduc AL27127 · [grothmusic.com](https://www.grothmusic.com/p-143166.aspx)\n\n<!-- saxobrain-research-review-2026-10-11 -->\n\n### Research Review, October 11, 2026\n\n[[Review 0020 - Bernard Wystraete - Alphonic|Full review note]]\n\nCatalog: [[Bernard Wystraete - Alphonic]]\n\n- Identity: Bernard Wystraete's *Alphonic* is for alto saxophone and piano, Leduc AL27127. The Philharmonie guide describes two sections, gives an opening Allegretto at quarter note 92, and notes a return to the opening theme after a quicker contrasting section. It reports a low-E to high-C range; the pitch convention needs confirmation in the part. The guide says 'en ut pour le saxophone'; its pitch convention should be checked before applying the range to a transposed part.\n- Guide describes a two-section form, opening Allegretto in 4/4 at quarter note 92, faster contrasting section and return, dynamic/articulation contrasts, easy rhythms, and low E to high C range. [Philharmonie de Paris, *10 ans avec le saxophone*](https://mediatheque.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf) (printed p. 16 (PDF p. 15); opened).\n- Publisher catalog listing and number appears in the guide as Leduc AL27127. [Groth Music](https://www.grothmusic.com/p-143166.aspx) (search_index_only).\n- Collection/use: Repertoire guide gives concrete educational-use information; no evidence of a lyrical non-saxophone transcription.\n- Review focus: Inference from the guide: verify the faster middle section and return, dynamic contrast, and articulation patterns in the part.\n- Gaps: No score pages or matching recording inspected; verify the range against the edition and confirm the guide's pitch convention.\n\n",
+      "assigned_level": null,
+      "decision": "Removed",
+      "review_applied": true,
+      "decision_note": "Tim requested removal from the catalog. The private evidence log is retained."
+    },
+    {
+      "chat_number": 19,
+      "review_id": 21,
+      "filename": "Bernard Wystraete - Saxaubade.md",
+      "review_note": "content/research-review/Review 0021 - Bernard Wystraete - Saxaubade.md",
+      "metadata_added": {},
+      "notation_inspected": false,
+      "research_record": {
+        "id": 21,
+        "filename": "Bernard Wystraete - Saxaubade.md",
+        "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Bernard Wystraete - Saxaubade.md",
+        "title": "Saxaubade",
+        "chat_number": 19,
+        "status": "researched_with_gaps",
+        "checked_on": "2026-10-12",
+        "identity": "Bernard Wystraete, Saxaubade, alto saxophone and piano, Alphonse Leduc AL26206; verified in the publisher’s catalogue.",
+        "findings": "Leduc’s publisher catalogue verifies AL26206 as alto saxophone and piano. · https://casamusicaledelrio.it/casamusicale/wp-content/uploads/2019/04/CAT-18-107-Leduc-Catalogue-2018-ss-GS-v6-NO-CROPS-LO-RESv2.pdf The Bianchi-Virginio music high school includes Saxaubade among repertoire choices in its foundational saxophone program, alongside long-tone intonation, elementary technique and simple/compound-meter work. These are curriculum objectives, not claims that every technique occurs in this piece. · https://www.bianchivirginio.it/mus/Files/Programmi/SAX.pdf All-Sheetmusic confirms E-flat saxophone/piano, AL26206 and ISMN 9790046262067. Its 96-page value conflicts with the six-page Sheet Music Plus index; leave length unresolved. · https://www.all-sheetmusic.com/Wind-Instruments/Saxophone/Saxaubade.html Philharmonie’s guide describes a 2:20 neoclassical piece, Andantino in 4/4 at quarter=76, with one sharp at the key signature. Its range labels are left unconverted pending inspection of the transposed saxophone part. · https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+        "evidence": [
+          {
+            "claim": "Saxaubade, alto saxophone and piano, Leduc AL26206",
+            "url": "https://casamusicaledelrio.it/casamusicale/wp-content/uploads/2019/04/CAT-18-107-Leduc-Catalogue-2018-ss-GS-v6-NO-CROPS-LO-RESv2.pdf",
+            "source_name": "Alphonse Leduc 2018 publisher catalogue, retailer-hosted copy",
+            "kind": "publisher",
+            "access": "opened",
+            "page": "printed page 81 / PDF page 83"
+          },
+          {
+            "claim": "The Bianchi-Virginio music high school includes Saxaubade among repertoire choices in its foundational saxophone program, alongside long-tone intonation, elementary technique and simple/compound-meter work. These are curriculum objectives, not claims that every technique occurs in this piece.",
+            "url": "https://www.bianchivirginio.it/mus/Files/Programmi/SAX.pdf",
+            "source_name": "I.I.S. Bianchi-Virginio, Cuneo, music high school",
+            "kind": "pedagogy",
+            "access": "opened",
+            "page": "PDF pages 1–4"
+          },
+          {
+            "claim": "AL26206, E-flat saxophone and piano, ISMN 9790046262067",
+            "url": "https://www.all-sheetmusic.com/Wind-Instruments/Saxophone/Saxaubade.html",
+            "source_name": "All-Sheetmusic",
+            "kind": "retailer",
+            "access": "opened"
+          },
+          {
+            "claim": "Philharmonie’s guide describes a 2:20 neoclassical piece, Andantino in 4/4 at quarter=76, with one sharp at the key signature. Its range labels are left unconverted pending inspection of the transposed saxophone part.",
+            "url": "https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+            "source_name": "Philharmonie de Paris, 10 ans avec le saxophone",
+            "kind": "pedagogy",
+            "access": "opened",
+            "page": "printed page 31 / PDF page 29",
+            "local_file": "/tmp/saxobrain-batch06/lane1-assets/philharmonie.pdf",
+            "retrieval": "Official public PDF retrieved 2026-10-12 by lane1 and its relevant page visually checked in this lane"
+          }
+        ],
+        "score_observations": "",
+        "notation_inspected": false,
+        "score_links": [
+          {
+            "url": "https://www.all-sheetmusic.com/Wind-Instruments/Saxophone/Saxaubade.html",
+            "description": "Exact Leduc edition listing; no readable musical preview verified",
+            "inspected": false
+          }
+        ],
+        "listening": [],
+        "review_focus": "Inference: documented elementary teaching use warrants reviewing the full score for whether it serves the collection’s college/professional focus. This does not establish a SaxoBrain level.",
+        "collection_flag": "Saxophone-specific original repertoire as catalogued, with documented elementary/preparatory teaching context. No evidence of a transcription from another instrument. Tim should judge collection fit; no deletion proposed.",
+        "gaps": [
+          "No notation inspected; full range, actual articulation and rhythm demands remain unconfirmed.",
+          "No matching saxophone recording found after title, composer spelling and video searches.",
+          "Composition year remains unverified; publisher/retailer dates are not used as composition dates.",
+          "Guide entry dates 1983 are not explicitly identified as composition dates; composed remains unset."
+        ],
+        "proposed_corrections": [],
+        "metadata": {
+          "composed": null,
+          "publisher": [
+            "Alphonse Leduc"
+          ],
+          "streaming": null,
+          "purchase": [
+            "https://www.all-sheetmusic.com/Wind-Instruments/Saxophone/Saxaubade.html"
+          ],
+          "download": [],
+          "instruments": [
+            "Alto Saxophone",
+            "Piano"
+          ]
+        },
+        "searches": [
+          "Bernard Wystraete Saxaubade score preview saxophone",
+          "\"Saxaubade\" \"Wystraete\" recording",
+          "\"Saxaubade\" site:youtube.com",
+          "\"Saxaubade\" \"score\" preview",
+          "Opened Leduc publisher catalogue, institutional curriculum and specific retailer listing; attempted both Philharmonie PDF hosts and Sheet Music Plus preview access."
+        ],
+        "chat_summary": "Leduc AL26206 is verified for alto and piano. The freshly retrieved Philharmonie guide supplies Andantino, 4/4, quarter=76 and neoclassical character. No notation or matching recording was verified; guide range labels remain unconverted."
+      },
+      "removed": true,
+      "retired_url": "/works/bernard-wystraete-saxaubade/",
+      "redirect_to": "/",
+      "removed_work_snapshot": "---\ntitle: \"Saxaubade\"\nslug: bernard-wystraete-saxaubade\ncomposer:\n  - \"[[Bernard Wystraete]]\"\ninstruments:\n  - \"Alto Saxophone\"\n  - \"Piano\"\ncomposed: \nyear-of-study: \nstreaming: \npurchase:\n  - \"https://www.grothmusic.com/p-143167.aspx\"\n  - \"https://www.all-sheetmusic.com/Wind-Instruments/Saxophone/Saxaubade.html\"\nadded: 2024-03-08\nresearch:\n  - \"Publisher and catalog no.: Alphonse Leduc AL26206 · https://www.grothmusic.com/p-143167.aspx\"\n  - \"6 pages · https://www.grothmusic.com/p-143167.aspx\"\n  - \"Saxaubade, alto saxophone and piano, Leduc AL26206 · https://casamusicaledelrio.it/casamusicale/wp-content/uploads/2019/04/CAT-18-107-Leduc-Catalogue-2018-ss-GS-v6-NO-CROPS-LO-RESv2.pdf\"\n  - \"The Bianchi-Virginio music high school includes Saxaubade among repertoire choices in its foundational saxophone program, alongside long-tone intonation, elementary technique and simple/compound-meter work. These are curriculum objectives, not claims that every technique occurs in this piece. · https://www.bianchivirginio.it/mus/Files/Programmi/SAX.pdf\"\n  - \"AL26206, E-flat saxophone and piano, ISMN 9790046262067 · https://www.all-sheetmusic.com/Wind-Instruments/Saxophone/Saxaubade.html\"\n  - \"Philharmonie’s guide describes a 2:20 neoclassical piece, Andantino in 4/4 at quarter=76, with one sharp at the key signature. Its range labels are left unconverted pending inspection of the transposed saxophone part. · https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf\"\npublisher:\n  - \"Alphonse Leduc\"\naliases: []\n---\n## Research notes (private)\n\n### Chat batch 06 follow-up, 2026-10-12\n\nLeduc AL26206 is verified for alto and piano. The freshly retrieved Philharmonie guide supplies Andantino, 4/4, quarter=76 and neoclassical character. No notation or matching recording was verified; guide range labels remain unconverted.\n\n[[Review 0021 - Bernard Wystraete - Saxaubade|Full evidence and open questions]]\n\n\n- Publisher and catalog no.: Alphonse Leduc AL26206 · [grothmusic.com](https://www.grothmusic.com/p-143167.aspx)\n- 6 pages · [grothmusic.com](https://www.grothmusic.com/p-143167.aspx)\n\n<!-- saxobrain-research-review-2026-10-11 -->\n\n### Research Review, October 11, 2026\n\n[[Review 0021 - Bernard Wystraete - Saxaubade|Full review note]]\n\nCatalog: [[Bernard Wystraete - Saxaubade]]\n\n- Identity: Bernard Wystraete's *Saxaubade* is for E-flat alto saxophone and piano, Leduc AL26206. The Philharmonie guide gives Andantino, 4/4, quarter note 76, one-sharp key signature, low C-sharp to high E, and 2:20 duration; it places the work especially in year three of its initial-instrument curriculum.\n- Retailer identifies the Leduc item and alto saxophone/piano instrumentation; its 96-page count is an apparent metadata anomaly and is not used as musical length. [All-Sheetmusic.com](https://www.all-sheetmusic.com/Wind-Instruments/Saxophone/Saxaubade.html) (opened).\n- Philharmonie guide specifies alto saxophone in E-flat, Andantino 4/4 at quarter note 76, one-sharp key signature, low C-sharp to high E, 2:20 duration, neo-classical character, and an intended third-year initial-instrument context. [Groth Music](https://www.grothmusic.com/p-143167.aspx) (printed p. 31 (PDF p. 29); search_index_only).\n- Philharmonie guide describes Andantino, 4/4, quarter note 76, one-sharp key signature, low C-sharp to high E range, 2:20 duration, neo-classical character, and third-year initial-instrument curriculum placement. [Philharmonie de Paris, *10 ans avec le saxophone*](https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf) (printed p. 31 (PDF p. 29); opened).\n- Collection/use: The Philharmonie guide places it especially in year three of the initial-instrument curriculum; this is useful teaching context, not an automatic exclusion from college collections.\n- Review focus: Inference from the guide's tempo, meter, and range details: verify these against the edition and consider how the neo-classical character is realized.\n- Gaps: No readable score or matching saxophone recording found; actual notation and score availability remain unknown.\n\n#### Catalog Details Added\n\n- Publisher: Alphonse Leduc. [Source](https://www.all-sheetmusic.com/Wind-Instruments/Saxophone/Saxaubade.html)\n- Score purchase: Verified edition link added. [Source](https://www.all-sheetmusic.com/Wind-Instruments/Saxophone/Saxaubade.html)\n\n",
+      "assigned_level": null,
+      "decision": "Removed",
+      "review_applied": true,
+      "decision_note": "Tim requested removal from the catalog. The private evidence log is retained."
+    },
+    {
+      "chat_number": 20,
+      "review_id": 22,
+      "filename": "Bernhard Krol - Sonate Op. 17.md",
+      "review_note": "content/research-review/Review 0022 - Bernhard Krol - Sonate Op. 17.md",
+      "metadata_added": {
+        "composed": 1954,
+        "streaming": "https://www.eda-records.com/index.php?article_id=177&cd_id=68"
+      },
+      "notation_inspected": false,
+      "research_record": {
+        "id": 22,
+        "filename": "Bernhard Krol - Sonate Op. 17.md",
+        "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Bernhard Krol - Sonate Op. 17.md",
+        "title": "Sonate Op. 17",
+        "chat_number": 20,
+        "status": "researched_with_gaps",
+        "checked_on": "2026-10-12",
+        "identity": "Bernhard Krol, Sonate op.17, alto saxophone and piano, Friedrich Hofmeister FH3129. Primary recording-label notes date it 1954.",
+        "findings": "Friedrich Hofmeister’s current wind catalogue identifies the alto/piano edition FH3129. · https://www.hofmeister-musikverlag.com/holzblaeser_03-2025/ EDA33 records Frank Lunte with pianist Tatjana Blome. Performer-authored notes trace the sonata to pianist Ernst Gröschel’s suggestion. Presto introduces saxophone staccato answered by piano, a triplet-rich second idea and a lyrical development. Maestoso has extended cantilenas over a wide dynamic span. Allegro assai begins in dancing 6/8 before a fugue and a virtuosic conclusion. · https://www.eda-records.com/index.php?article_id=177&cd_id=68 Qobuz identifies the three movements as 4:02, 5:15 and 4:22, totaling about 13:39. This is a particular recording duration. · https://www.qobuz.com/fi-en/album/music-for-saxophone-from-germany-1952-1969-frank-lunte-and-tatjana-blome/apkaus9vp2u4d Conservatorio Braga includes this sonata in its saxophone degree performance repertoire. This supplies institutional concert-study context without an assigned SaxoBrain level. · https://www.conservatoriobraga.it/public/SAXOFONO-biennio-prog.pdf",
+        "evidence": [
+          {
+            "claim": "FH3129, alto and piano edition",
+            "url": "https://www.hofmeister-musikverlag.com/holzblaeser_03-2025/",
+            "source_name": "Friedrich Hofmeister March 2025 wind catalogue",
+            "kind": "publisher",
+            "access": "opened",
+            "page": "PDF page9"
+          },
+          {
+            "claim": "1954 date, movement descriptions, provenance and Lunte/Blome recording",
+            "url": "https://www.eda-records.com/index.php?article_id=177&cd_id=68",
+            "source_name": "EDA Records EDA33; performer-authored programme notes by Frank Lunte",
+            "kind": "record_label",
+            "access": "opened",
+            "local_file": "/tmp/saxobrain-batch06/eda.html"
+          },
+          {
+            "claim": "Work-specific tracks and durations; Frank Lunte and Tatjana Blome",
+            "url": "https://www.qobuz.com/fi-en/album/music-for-saxophone-from-germany-1952-1969-frank-lunte-and-tatjana-blome/apkaus9vp2u4d",
+            "source_name": "Qobuz EDA33 album listing",
+            "kind": "recording_catalogue",
+            "access": "opened",
+            "local_file": "/tmp/saxobrain-batch06/qobuz-krol.html"
+          },
+          {
+            "claim": "Institutional saxophone performance repertoire includes Sonate op.17",
+            "url": "https://www.conservatoriobraga.it/public/SAXOFONO-biennio-prog.pdf",
+            "source_name": "Conservatorio Braga degree saxophone programme",
+            "kind": "institution",
+            "access": "opened",
+            "page": "PDF page3"
+          }
+        ],
+        "score_observations": "",
+        "notation_inspected": false,
+        "score_links": [
+          {
+            "url": "https://www.hofmeister-musikverlag.com/holzblaeser_03-2025/",
+            "description": "Publisher catalogue entry FH3129; catalogue only, no notation",
+            "inspected": false
+          }
+        ],
+        "listening": [
+          {
+            "url": "https://www.eda-records.com/index.php?article_id=177&cd_id=68",
+            "description": "EDA33 album with label-hosted movement audio samples; Frank Lunte, alto saxophone, Tatjana Blome, piano",
+            "verification": "Opened label page and verified its audio source links; not auditioned"
+          },
+          {
+            "url": "https://www.eda-records.com/files/sax_iv_7_mp3.mp3",
+            "description": "Presto, label audio sample",
+            "verification": "Exact audio source URL extracted from opened EDA page; not auditioned"
+          },
+          {
+            "url": "https://www.eda-records.com/files/sax_iv_8_mp3.mp3",
+            "description": "Maestoso, label audio sample",
+            "verification": "Exact audio source URL extracted from opened EDA page; not auditioned"
+          },
+          {
+            "url": "https://www.eda-records.com/files/sax_iv_9_mp3.mp3",
+            "description": "Allegro assai, label audio sample",
+            "verification": "Exact audio source URL extracted from opened EDA page; not auditioned"
+          }
+        ],
+        "review_focus": "Inference from Lunte’s label notes: contrast incisive articulation with sustained lyrical phrasing, and rehearse exchanges with piano plus the finale’s fugal entries. Confirm exact technical requirements in FH3129.",
+        "collection_flag": "Original saxophone/piano sonata prompted by a pianist and documented in conservatory concert repertoire. No evidence of a younger-player transcription.",
+        "gaps": [
+          "No readable musical preview inspected; written range, exact rhythms and extended techniques remain unknown.",
+          "Label dates 1954; secondary listings sometimes give 1955. Prefer primary label provisionally, then confirm the date printed in the complete score.",
+          "Recording/sample links identified without audition.",
+          "Retailer grading labels are inconsistent and do not support an assigned study level."
+        ],
+        "proposed_corrections": [
+          "Consider composed 1954 based on primary EDA label notes; full-score date confirmation remains desirable."
+        ],
+        "metadata": {
+          "composed": 1954,
+          "publisher": [
+            "Friedrich Hofmeister"
+          ],
+          "streaming": "https://www.eda-records.com/index.php?article_id=177&cd_id=68",
+          "purchase": [],
+          "download": [],
+          "instruments": [
+            "Alto Saxophone",
+            "Piano"
+          ]
+        },
+        "searches": [
+          "Bernhard Krol Sonate op17 saxophon Hofmeister",
+          "Krol Sonate3129 Hofmeister score sample",
+          "Krol op17 saxophone score pdf",
+          "Krol Sonata Lunte Presto",
+          "Opened exact publisher catalogue, EDA label notes/audio markup, Qobuz album and Braga curriculum; retailer image access did not yield readable notation."
+        ],
+        "chat_summary": "Hofmeister FH3129 is confirmed for alto and piano. EDA’s performer-authored notes explain staccato/piano exchange, lyrical Maestoso and a 6/8 fugal finale, with label-hosted listening samples. No notation was inspected; the primary label dates the work 1954, which should be checked against the complete score."
+      },
+      "assigned_level": "Second Year",
+      "decision": "Second Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Second Year."
+    },
+    {
+      "chat_number": 21,
+      "review_id": 24,
+      "filename": "Bertrand Gay - Five Love Songs.md",
+      "review_note": "content/research-review/Review 0024 - Bertrand Gay - Five Love Songs.md",
+      "metadata_added": {
+        "publisher": [
+          "Editions Marc Reift"
+        ]
+      },
+      "notation_inspected": true,
+      "research_record": {
+        "id": 24,
+        "filename": "Bertrand Gay - Five Love Songs.md",
+        "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Bertrand Gay - Five Love Songs.md",
+        "title": "Five Love Songs",
+        "chat_number": 21,
+        "status": "researched_with_gaps",
+        "checked_on": "2026-10-12",
+        "identity": "Bertrand Gay, 5 Love-Songs / 5 Mélodies d’Amour / 5 Liebeslieder, alto saxophone and piano, Editions Marc Reift EMR13406. Exact edition verified on the publisher’s printed preview hosted by Musikverlag Abel.",
+        "findings": "The Swiss National Library distinguishes EMR13406 alto/piano from EMR13407 tenor/piano. Both have a 31-page score and separate part and are catalogued with publication date2011. This resolves the earlier review’s uncertainty about EMR13406; no composition year is established. · https://ead.nb.admin.ch/web/sb-pdf/2012/sb201216.pdf The publisher preview supplies alto part and piano-score excerpts. The alto/piano edition is secure; EMR22994 is a separately listed play-along product in retailer indexes and should not replace EMR13406 automatically. · https://www.abel.at/shop/prme/177951.pdf",
+        "evidence": [
+          {
+            "claim": "EMR13406 alto/piano edition and inspected notation",
+            "url": "https://www.abel.at/shop/prme/177951.pdf",
+            "source_name": "Editions Marc Reift public preview, hosted by Musikverlag Abel",
+            "kind": "score",
+            "access": "score_inspected",
+            "page": "preview spread1 and printed score7–10,15",
+            "local_file": "/tmp/saxobrain-batch06/gay-preview.pdf"
+          },
+          {
+            "claim": "EMR13406 alto and EMR13407 tenor; publication2011; score31pages and separate part",
+            "url": "https://ead.nb.admin.ch/web/sb-pdf/2012/sb201216.pdf",
+            "source_name": "Swiss National Library, Das Schweizer Buch2012/16",
+            "kind": "institution",
+            "access": "opened",
+            "page": "PDF92 / printed91"
+          },
+          {
+            "claim": "EMR22994 is retailer-indexed as alto/piano with playback/play-along CD, duration18:28",
+            "url": "https://www.sheetmusicplus.com/en/product/5-love-songs-20261351.html",
+            "source_name": "Sheet Music Plus",
+            "kind": "retailer",
+            "access": "search_index_only"
+          }
+        ],
+        "score_observations": "Preview spread1, transposed alto part: Monday’s Song starts in9/8, dotted-quarter=63; accidentals, sixteenth-note figures and contrasting dynamics occur. It changes to4/4 at quarter=60 and then a Più mosso3/4 passage. Printed score7–10 shows sustained tones, short fast figures, expressive hairpins and substantial piano writing. Printed score15 has an ad-lib struck-percussion passage on the piano’s lower staff while saxophone rests. Only these excerpts were inspected. · https://www.abel.at/shop/prme/177951.pdf",
+        "notation_inspected": true,
+        "score_links": [
+          {
+            "url": "https://www.abel.at/shop/prme/177951.pdf",
+            "description": "Exact EMR13406 publisher preview, eight PDF spreads",
+            "inspected": true
+          }
+        ],
+        "listening": [],
+        "review_focus": "Inference from inspected excerpts: meter/tempo transitions, accidentals, dynamic shaping and coordinating solo entries after rests matter alongside lyrical phrasing. The piano writing merits shared preparation.",
+        "collection_flag": "Multi-movement cycle issued for multiple wind instruments. Original instrumental origin and intended audience remain unresolved. The inspected saxophone notation has meter changes and active figurations, so no evidence supports describing it as a simple young-player melody transcription.",
+        "gaps": [
+          "Only partial EMR13406 preview inspected; complete range and all five songs remain unverified.",
+          "No matching saxophone listening player verified; play-along audio is advertised for EMR22994, whose contents/performer require direct publisher check.",
+          "Composition year not found."
+        ],
+        "proposed_corrections": [
+          "Remove the previous private review’s suggestion that EMR13406 may be the tenor edition; EMR13406 is verified alto, EMR13407 tenor."
+        ],
+        "metadata": {
+          "composed": null,
+          "publisher": [
+            "Editions Marc Reift"
+          ],
+          "streaming": null,
+          "purchase": [],
+          "download": [],
+          "instruments": [
+            "Alto Saxophone",
+            "Piano"
+          ]
+        },
+        "searches": [
+          "Bertrand Gay Five Love Songs EMR13406 preview",
+          "\"Gay\" \"5 Love-Songs\" \"22994\"",
+          "\"5 Love-Songs\" \"13406\"",
+          "\"Gay\" \"5 Love-Songs\" saxophone listening",
+          "Opened Swiss National Library bibliographic issue; retrieved and visually inspected EMR13406 publisher preview; tried current Reift shop, Stretta and Sheet Music Plus access."
+        ],
+        "chat_summary": "The inspected EMR13406 preview verifies the alto/piano edition. Swiss National Library distinguishes tenor EMR13407. Score excerpts show mixed meters, accidentals, expressive dynamics and active piano writing. No matching saxophone recording or composition year was verified."
+      },
+      "assigned_level": "Second Year",
+      "decision": "Second Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Second Year."
+    },
+    {
+      "chat_number": 22,
+      "review_id": 26,
+      "filename": "Boris Mersson - Fantasia.md",
+      "review_note": "content/research-review/Review 0026 - Boris Mersson - Fantasia.md",
+      "metadata_added": {},
+      "notation_inspected": false,
+      "research_record": {
+        "id": 26,
+        "filename": "Boris Mersson - Fantasia.md",
+        "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Boris Mersson - Fantasia.md",
+        "title": "Fantasia",
+        "chat_number": 22,
+        "status": "researched_with_gaps",
+        "checked_on": "2026-10-12",
+        "identity": "Boris Mersson, Fantasia op.37, alto saxophone and piano, Edition Albert J.Kunzelmann. Conservatory library identifies composition 1979, published 1981, dedicated to Iwan Roth. GM937 is the exact publisher item number in indexed dealer listings.",
+        "findings": "Antwerp Conservatory’s library catalogue identifies a 1979 composition, the 1981 Zurich Kunzelmann score and part, dedication to Iwan Roth, and facsimile handwriting. It separately lists a 1982 alto-saxophone/orchestra version. Publication dates are kept separate from composition. · https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf The Philharmonie guide describes the musical span as a slow introduction connected to a rhythmic Allegro. Specialist dealer Van Cott lists three sections headed Andantino cantabile, Allegretto con moto and Allegro; those are dealer descriptions, not observed notation. · https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf Conservatorio Niccolò Paganini includes Fantasia op.37 among alto-saxophone/piano concert repertoire. The curriculum confirms formal performance use, without assigning a SaxoBrain study level. · https://www.conspaganini.it/sites/default/files/Prassi%20Esecutiva,%20Tecnica%20e%20Repertorio%201%20e%202%20-%20SASSOFONO.pdf Indexed Presto catalogue identifies Kunzelmann GM937 as piano reduction. This remains an exact purchasing lead; the current publisher site presented a browser check. · https://www.prestomusic.com/sheet-music/products/7130800--mersson-boris-fantasie-fur-saxofon",
+        "evidence": [
+          {
+            "claim": "Composition1979; Kunzelmann 1981 score and part; dedication Iwan Roth;1982 orchestral version",
+            "url": "https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf",
+            "source_name": "Royal Conservatoire Antwerp library saxophone catalogue",
+            "kind": "institution",
+            "access": "opened",
+            "page": "PDF page37; orchestral version PDF page28"
+          },
+          {
+            "claim": "Slow section leads to rhythmic Allegro",
+            "url": "https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+            "source_name": "Philharmonie de Paris, 10 ans avec le saxophone",
+            "kind": "pedagogy",
+            "access": "opened",
+            "page": "printed87 / PDF82",
+            "local_file": "/tmp/saxobrain-batch06/lane1-assets/philharmonie.pdf",
+            "retrieval": "Official public PDF retrieved2026-10-12 by lane1; relevant page visually checked in this lane"
+          },
+          {
+            "claim": "Dealer describes three tempo sections",
+            "url": "https://vcisinc.com/saxophonemusic.htm",
+            "source_name": "Van Cott Information Services saxophone catalogue, entryS326",
+            "kind": "retailer",
+            "access": "opened"
+          },
+          {
+            "claim": "Fantasia op.37 in saxophone/piano performance repertoire",
+            "url": "https://www.conspaganini.it/sites/default/files/Prassi%20Esecutiva,%20Tecnica%20e%20Repertorio%201%20e%202%20-%20SASSOFONO.pdf",
+            "source_name": "Conservatorio Niccolò Paganini performance syllabus",
+            "kind": "institution",
+            "access": "opened",
+            "page": "PDF page3"
+          },
+          {
+            "claim": "Kunzelmann GM937 piano-reduction edition",
+            "url": "https://www.prestomusic.com/sheet-music/products/7130800--mersson-boris-fantasie-fur-saxofon",
+            "source_name": "Presto Music exact Kunzelmann item",
+            "kind": "retailer",
+            "access": "search_index_only"
+          }
+        ],
+        "score_observations": "",
+        "notation_inspected": false,
+        "score_links": [
+          {
+            "url": "https://www.prestomusic.com/sheet-music/products/7130800--mersson-boris-fantasie-fur-saxofon",
+            "description": "Exact GM937 piano-reduction purchasing lead; current full page/notation not verified",
+            "inspected": false
+          },
+          {
+            "url": "https://vcisinc.com/saxophonemusic.htm",
+            "description": "Specialist dealer description, no readable musical preview found",
+            "inspected": false
+          }
+        ],
+        "listening": [],
+        "review_focus": "Inference from the guide and dealer descriptions: assess phrasing and pacing between the slow cantabile and active rhythmic sections. Confirm how the piano reduction interacts with the saxophone before describing ensemble demands.",
+        "collection_flag": "Dedicated concert repertoire for saxophonist Iwan Roth, with a separately catalogued orchestral version and conservatory performance use. No evidence of a lyrical transcription intended for younger players.",
+        "gaps": [
+          "No musical pages visually inspected; exact written range, rhythmic patterns, articulations and advanced techniques remain unknown.",
+          "No matching saxophone recording found after exact title, composer, opus and video searches.",
+          "GM937 is verified through the dealer search index rather than an opened current publisher product; existing Groth purchase link should be preserved until an exact current alternative opens.",
+          "Guide’s broad slow-to-fast description and dealer’s three tempo headings need reconciliation in the full score."
+        ],
+        "proposed_corrections": [
+          "Add original composition 1979 from the conservatory library record, separately from publication 1981 and orchestral version 1982."
+        ],
+        "metadata": {
+          "composed": 1979,
+          "publisher": [
+            "Edition Kunzelmann"
+          ],
+          "streaming": null,
+          "purchase": [],
+          "download": [],
+          "instruments": [
+            "Alto Saxophone",
+            "Piano"
+          ]
+        },
+        "searches": [
+          "Boris Mersson Fantasia op37 score sample Kunzelmann",
+          "Mersson Fantasia Kunzelmann GM937",
+          "Mersson Fantasia recording saxophone",
+          "Boris Mersson Fantasia site:youtube.com",
+          "Opened Antwerp library, Paganini curriculum, Van Cott dealer and freshly retrieved Philharmonie guide; current publisher product access blocked and dealer product/image access yielded no score."
+        ],
+        "chat_summary": "The Antwerp library confirms Fantasia op.37, composed 1979, Kunzelmann publication 1981 and dedication to Iwan Roth. The freshly retrieved Philharmonie guide describes a slow-to-rhythmic-Allegro span; Van Cott supplies three tempo headings. No notation or matching recording was verified, and GM937 remains an indexed exact-edition purchase lead."
+      },
+      "assigned_level": "Second Year",
+      "decision": "Second Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Second Year."
+    },
+    {
+      "chat_number": 23,
+      "review_id": 28,
+      "filename": "Brenton Broadstock - I Touched Your Glistening Tears.md",
+      "review_note": "content/research-review/Review 0028 - Brenton Broadstock - I Touched Your Glistening Tears.md",
+      "metadata_added": {
+        "publisher": [
+          "Reed Music"
+        ],
+        "streaming": "https://soundcloud.com/reedmusic-com/rm011-i-touched-your-glistening-tears-by-brenton-broadstock",
+        "purchase": [
+          "https://representation.australianmusiccentre.com.au/product/i-touched-your-glistening-tears-soprano-saxophone-piano",
+          "https://www.reedmusic.com/store/woodwind/saxophone/saxophone-soprano/sax-soprano-piano/i-touched-your-glistening-tears/"
+        ],
+        "instruments": [
+          "Soprano Saxophone",
+          "Piano"
+        ]
+      },
+      "notation_inspected": true,
+      "research_record": {
+        "id": 28,
+        "filename": "Brenton Broadstock - I Touched Your Glistening Tears.md",
+        "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Brenton Broadstock - I Touched Your Glistening Tears.md",
+        "title": "I Touched Your Glistening Tears",
+        "chat_number": 23,
+        "status": "researched_with_gaps",
+        "checked_on": "2026-10-12",
+        "identity": "Brenton Broadstock, I touched your glistening tears..., original work dated 1998. Catalog purchase lead is the soprano saxophone/piano duo RM011, whose part labels this version 2000 and says written for Barry Cockcroft. Separate trio editions exist.",
+        "findings": "Reed’s RM011 preview explicitly identifies soprano saxophone and piano, 1998 (this version 2000), and Barry Cockcroft. This resolves the previous review’s uncertainty: the current catalog lead is the duo, so Piano is missing from instrumentation. · https://www.reedmusic.com/wp-content/uploads/i-touched-your-glistening-tears-brenton-broadstock-saxophone-soprano-piano-sample.webp The composer separately lists soprano/cello/piano and soprano/violin/piano trios, each dated 1998 and about nine minutes. Their musical details should not silently replace the duo’s. · https://www.brentonbroadstock.com/styled-14/ Joseph Lallo’s University of Melbourne thesis documents a soprano/cello/piano performance at Grant Street Theatre in 2018. He describes a gradual arc toward a dynamic peak and reproduces its opening notation. · https://minerva-access.unimelb.edu.au/server/api/core/bitstreams/a1d24534-fa49-4d40-af70-2d334e6ec75e/content",
+        "evidence": [
+          {
+            "claim": "RM011 soprano/piano, written for Cockcroft, original 1998, this version 2000; notation observations below",
+            "url": "https://www.reedmusic.com/wp-content/uploads/i-touched-your-glistening-tears-brenton-broadstock-saxophone-soprano-piano-sample.webp",
+            "source_name": "Reed Music RM011 public saxophone part preview",
+            "kind": "score",
+            "access": "score_inspected",
+            "page": "part page1",
+            "local_file": "/tmp/saxobrain-batch06/broadstock-duo-sample.webp"
+          },
+          {
+            "claim": "RM011 product identifies the duo and embeds publisher-hosted saxophone recording",
+            "url": "https://www.reedmusic.com/store/woodwind/saxophone/saxophone-soprano/sax-soprano-piano/i-touched-your-glistening-tears/",
+            "source_name": "Reed Music",
+            "kind": "publisher",
+            "access": "opened"
+          },
+          {
+            "claim": "separate soprano/cello/piano and soprano/violin/piano trios, 1998, nine minutes",
+            "url": "https://www.brentonbroadstock.com/styled-14/",
+            "source_name": "Brenton Broadstock ensemble catalogue",
+            "kind": "composer",
+            "access": "opened"
+          },
+          {
+            "claim": "2018 trio performance, arc toward dynamic peak, opening notation and tempo",
+            "url": "https://minerva-access.unimelb.edu.au/server/api/core/bitstreams/a1d24534-fa49-4d40-af70-2d334e6ec75e/content",
+            "source_name": "Joseph Lallo, The Performer/Curator, University of Melbourne thesis",
+            "kind": "institution",
+            "access": "score_inspected",
+            "page": "printed79 / PDF101; performance list PDF11",
+            "local_file": "/tmp/saxobrain-batch06/broadstock-thesis.pdf"
+          },
+          {
+            "claim": "RM024 chamber product and cello-score excerpt; different from RM011",
+            "url": "https://www.reedmusic.com/store/woodwind/saxophone/saxophone-chamber-music/sax-other-instruments/i-touched-your-glistening-tearsrm024/",
+            "source_name": "Reed Music",
+            "kind": "publisher",
+            "access": "opened"
+          }
+        ],
+        "score_observations": "RM011 part page1: 4/4 at quarter=80–90, with sadness and introspection; opening spans several bars under slurs at ppp/pp. Grace notes carry an explicit slur instruction. Triplet quarter-note figures enter around bars11–12, and dynamics grow to f near bar33. These observations concern the transposed soprano part only. · https://www.reedmusic.com/wp-content/uploads/i-touched-your-glistening-tears-brenton-broadstock-saxophone-soprano-piano-sample.webp RM024 chamber preview page2, bars9–20: saxophone and cello trade entries/cues while piano maintains repeated eighth-note patterns. Neither excerpt establishes the complete climactic section or full range. · https://www.reedmusic.com/wp-content/uploads/i-touched-your-glistening-tears-brenton-broadstock-cello-chamber-music-sample.webp The Lallo thesis reproduces trio opening bars1–4 with tied sustained saxophone notes over a moving piano figure. · https://minerva-access.unimelb.edu.au/server/api/core/bitstreams/a1d24534-fa49-4d40-af70-2d334e6ec75e/content",
+        "notation_inspected": true,
+        "score_links": [
+          {
+            "url": "https://www.reedmusic.com/wp-content/uploads/i-touched-your-glistening-tears-brenton-broadstock-saxophone-soprano-piano-sample.webp",
+            "description": "RM011 soprano saxophone part page1",
+            "inspected": true
+          },
+          {
+            "url": "https://www.reedmusic.com/store/woodwind/saxophone/saxophone-chamber-music/sax-other-instruments/i-touched-your-glistening-tearsrm024/",
+            "description": "RM024 chamber edition page2 sample, including sax/cello cues",
+            "inspected": true
+          },
+          {
+            "url": "https://minerva-access.unimelb.edu.au/server/api/core/bitstreams/a1d24534-fa49-4d40-af70-2d334e6ec75e/content",
+            "description": "Thesis reproduces trio opening bars1–4",
+            "inspected": true
+          }
+        ],
+        "listening": [
+          {
+            "url": "https://soundcloud.com/reedmusic-com/rm011-i-touched-your-glistening-tears-by-brenton-broadstock",
+            "description": "Publisher RM011 duo player",
+            "verification": "Canonical track resolved from the Reed duo embed by parent browser on 2026-10-12; title, reedmusic-com publisher and Play control verified; not auditioned"
+          },
+          {
+            "url": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F71304996",
+            "description": "Publisher RM024 chamber player, live Barry Cockcroft (sax)",
+            "verification": "Reed chamber page performer caption and embed verified; not auditioned"
+          }
+        ],
+        "review_focus": "Inference from the duo part: quiet sustained tone, shaping long slurs, grace-note timing and control through the printed crescendo deserve score review. For a trio performance, cue transfer and balance add separate chamber tasks.",
+        "collection_flag": "Original expressive concert work in multiple authorized scorings. The inspected RM011 is a saxophone/piano version of a 1998 work. Its lyrical content alone supplies no evidence of a younger-player transcription.",
+        "gaps": [
+          "Only opening duo part page and limited chamber excerpts inspected; full range, later climax and complete formal detail remain unknown.",
+          "Publisher embeds are identified but not auditioned.",
+          "The composer-hosted trio review and thesis describe slightly different climax locations; neither should be transferred to the duo without full score review."
+        ],
+        "proposed_corrections": [
+          "Add Piano to catalog instrumentation for the existing RM011 duo lead.",
+          "Consider composed 1998 under the repository rule to retain original-work composition date; preserve the RM011 version date2000 in edition/research text."
+        ],
+        "metadata": {
+          "composed": null,
+          "publisher": [
+            "Reed Music"
+          ],
+          "streaming": "https://soundcloud.com/reedmusic-com/rm011-i-touched-your-glistening-tears-by-brenton-broadstock",
+          "purchase": [
+            "https://www.reedmusic.com/store/woodwind/saxophone/saxophone-soprano/sax-soprano-piano/i-touched-your-glistening-tears/"
+          ],
+          "download": [],
+          "instruments": [
+            "Soprano Saxophone",
+            "Piano"
+          ]
+        },
+        "searches": [
+          "Brenton Broadstock I Touched Your Glistening Tears Reed Music score",
+          "Brenton Broadstock I Touched Your Glistening Tears soprano saxophone cello piano",
+          "Opened Reed catalogue to locate separate RM011/RM024 products; retrieved both score samples and publisher player URLs.",
+          "Opened composer ensemble catalogue and University of Melbourne Lallo thesis; visually inspected thesis opening and publisher samples."
+        ],
+        "chat_summary": "RM011 is soprano and piano, written for Barry Cockcroft. The part labels 1998, with this version 2000. The inspected opening has very quiet long slurs, slurred grace notes and a gradual crescendo. A publisher duo recording is verified. The catalog’s existing 2000 date is retained pending review of the original/version distinction.",
+        "proposed_date_correction": {
+          "existing": 2000,
+          "original": 1998,
+          "duo_version": 2000,
+          "status": "Retain existing date pending Tim decision; project convention uses original date for arrangements."
+        }
+      },
+      "assigned_level": "Second Year",
+      "decision": "Second Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Second Year."
+    },
+    {
+      "chat_number": 24,
+      "review_id": 29,
+      "filename": "Brian Fennelly - Corollary II.md",
+      "review_note": "content/research-review/Review 0029 - Brian Fennelly - Corollary II.md",
+      "metadata_added": {
+        "publisher": [
+          "Dorn Publications"
+        ]
+      },
+      "notation_inspected": false,
+      "research_record": {
+        "id": 29,
+        "filename": "Brian Fennelly - Corollary II.md",
+        "path": "/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Brian Fennelly - Corollary II.md",
+        "title": "Corollary II",
+        "chat_number": 24,
+        "status": "researched_with_gaps",
+        "checked_on": "2026-10-12",
+        "identity": "Brian Fennelly, Corollary II, alto saxophone and piano, Dorn Publications item 162. ACA separately maintains archival holding ACA-FENB-089; its 1988 authorship-or-revision field is not unambiguously original composition date.",
+        "findings": "Dorn’s publisher catalogue places item 162, CorollaryII, in the alto saxophone/piano section. This confirms the catalogued Dorn identity rather than replacing it with the ACA archival identifier. · https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf American Composers Alliance describes one expressive, athletic movement written for David Pituch, premiered by Pituch with Fennelly at piano. It uses thematic material from Fennelly’s own Fantasy Variations for orchestra. ACA labels 1988 as authored or revised and also published. Its holding may be available by request. · https://composers.com/products/fennelly-corollary-ii-for-saxophone-and-piano The New York Public Library finding aid identifies a published alto/piano score in American Music Center collection box1221. This supplies another concrete full-score consultation route; the finding aid is not a musical preview. · https://nyplorg-data-archives.s3.amazonaws.com/uploads/collection/generated_finding_aids/mus24605.pdf An indexed Jerome Rosen review in Notes 48/1, 1991, pages 298–299 pairs this score with Albright’s sonata. The article could not be opened, so no musical claims are taken from it. · https://www.jstor.org/stable/941842",
+        "evidence": [
+          {
+            "claim": "Dorn item 162, alto saxophone/piano edition",
+            "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+            "source_name": "Dorn Publications April 2025 music catalogue, hosted by Groth Music",
+            "kind": "publisher",
+            "access": "opened",
+            "page": "PDF page5"
+          },
+          {
+            "claim": "Single movement, David Pituch origin/premiere, reuse of own orchestral themes,1988 authored-or-revised/publication fields and archival status",
+            "url": "https://composers.com/products/fennelly-corollary-ii-for-saxophone-and-piano",
+            "source_name": "American Composers Alliance exact archival work entry",
+            "kind": "composer_association",
+            "access": "opened",
+            "local_file": "/tmp/saxobrain-batch06/fennelly.html"
+          },
+          {
+            "claim": "Published score in box 1221, alto and piano",
+            "url": "https://nyplorg-data-archives.s3.amazonaws.com/uploads/collection/generated_finding_aids/mus24605.pdf",
+            "source_name": "New York Public Library, American Music Center collection of published scores finding aid",
+            "kind": "institution",
+            "access": "opened",
+            "page": "PDF page375",
+            "local_file": "/tmp/saxobrain-batch06/fennelly-nypl.pdf"
+          },
+          {
+            "claim": "Bibliographic lead to Jerome Rosen’s1991 score review; contents unavailable",
+            "url": "https://www.jstor.org/stable/941842",
+            "source_name": "Notes journal/JSTOR review metadata",
+            "kind": "review",
+            "access": "search_index_only"
+          }
+        ],
+        "score_observations": "",
+        "notation_inspected": false,
+        "score_links": [
+          {
+            "url": "https://composers.com/products/fennelly-corollary-ii-for-saxophone-and-piano",
+            "description": "ACA archival request route; availability on request, no notation displayed",
+            "inspected": false
+          },
+          {
+            "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+            "description": "Dorn item 162 publisher catalogue; existing exact Groth product could not be refreshed",
+            "inspected": false
+          },
+          {
+            "url": "https://nyplorg-data-archives.s3.amazonaws.com/uploads/collection/generated_finding_aids/mus24605.pdf",
+            "description": "NYPL box 1221 full-score consultation lead; finding aid only",
+            "inspected": false
+          }
+        ],
+        "listening": [],
+        "review_focus": "Inference from ACA’s expressive/athletic description: inspect the full Dorn score for the balance of cantabile material and active passagework, and for how the two players share thematic development. Source does not establish exact technique or range.",
+        "collection_flag": "Saxophone duo written for David Pituch, using the composer’s own orchestral thematic material. Reuse of themes does not establish a younger-player transcription. No evidence supports a collection exclusion.",
+        "gaps": [
+          "No notation inspected; exact written range, rhythms, texture, extended techniques and full formal plan remain unknown.",
+          "No matching saxophone performance found after exact-title, composer, performer, recording and recital searches.",
+          "Original composition date is unresolved: ACA’s 1988 field may mean authorship or revision; an unrefreshed secondary work list gives 1987–88. Do not substitute publication year for composition.",
+          "Existing eight-minute duration is a prior retailer lead, not freshly confirmed.",
+          "Full Jerome Rosen score review was inaccessible; it may provide further musical evidence if obtained."
+        ],
+        "proposed_corrections": [],
+        "metadata": {
+          "composed": null,
+          "publisher": [
+            "Dorn Publications"
+          ],
+          "streaming": null,
+          "purchase": [],
+          "download": [],
+          "instruments": [
+            "Alto Saxophone",
+            "Piano"
+          ]
+        },
+        "searches": [
+          "Brian Fennelly CorollaryII score preview",
+          "Fennelly CorollaryII saxophone recording",
+          "CorollaryII Pituch",
+          "CorollaryII saxophone recital piano",
+          "CorollaryII Fennelly rhythms",
+          "Opened ACA exact archival entry, Dorn publisher catalogue and NYPL finding aid. Tried Groth exact product, JSTOR score review and secondary date list; none yielded readable notation or a matching recording."
+        ],
+        "chat_summary": "Dorn item 162 is confirmed for alto and piano. ACA identifies a single expressive/athletic movement written for David Pituch using Fennelly’s own orchestral themes. ACA’s archival request and NYPL box 1221 provide score-access leads; no notation or recording was verified, and original composition date remains unresolved."
+      },
+      "assigned_level": "Third Year",
+      "decision": "Third Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Third Year."
+    },
+    {
+      "chat_number": 25,
+      "review_id": 30,
+      "filename": "Bryan Kelly - Don Quixote Suite.md",
+      "review_note": "content/research-review/Review 0030 - Bryan Kelly - Don Quixote Suite.md",
+      "metadata_added": {
+        "publisher": [
+          "Emerson Edition"
+        ],
+        "purchase": [
+          "https://www.grothmusic.com/p-37426.aspx",
+          "Emerson E353 · https://www.chimesmusic.com/products/don-quixote-suite.html"
+        ],
+        "instruments": [
+          "Soprano Saxophone",
+          "Piano"
+        ]
+      },
+      "notation_inspected": false,
+      "research_record": {
+        "chat_number": 25,
+        "id": 30,
+        "filename": "Bryan Kelly - Don Quixote Suite.md",
+        "identity": "Emerson E353, for soprano saxophone or clarinet with piano.",
+        "findings": "London College of Music Examinations lists the complete suite for soprano saxophone in its DipLCM performance repertoire (updated December 14, 2023), PDF p.26 / printed p.25. Trinity College London lists Sarabande and Tarantella in its intermediate B-flat saxophone certificate repertoire, PDF p.7. These placements refer to different amounts of the suite. Chimes confirms Emerson E353 and soprano saxophone or clarinet with piano. The British Music Collection work entry names four movements: Don Quixote, Sancho Panza, Sarabande and Tarantella.",
+        "score_observations": "",
+        "notation_inspected": false,
+        "score_links": [
+          {
+            "url": "https://www.chimesmusic.com/products/don-quixote-suite.html",
+            "description": "Emerson E353 purchase; no notation preview verified",
+            "inspected": false
+          }
+        ],
+        "listening": [],
+        "evidence": [
+          {
+            "claim": "Complete suite on soprano DipLCM list",
+            "url": "https://lcme.uwl.ac.uk/media/rzjfqioh/woodwind-diplomas-repertoire-list.pdf",
+            "source_name": "London College of Music Examinations",
+            "access": "opened",
+            "page": "PDF26 / printed25"
+          },
+          {
+            "claim": "Sarabande and Tarantella in intermediate B-flat certificate repertoire",
+            "url": "https://www.trinitycollege.com/resource/?id=8879",
+            "source_name": "Trinity College London",
+            "access": "opened",
+            "page": "PDF7"
+          },
+          {
+            "claim": "Emerson E353 for soprano saxophone or clarinet and piano",
+            "url": "https://www.chimesmusic.com/products/don-quixote-suite.html",
+            "source_name": "Chimes Music edition listing",
+            "access": "opened"
+          },
+          {
+            "claim": "Suite for saxophone and piano",
+            "url": "https://britishmusiccollection.org.uk/composer/bryan-kelly",
+            "source_name": "British Music Collection",
+            "access": "opened"
+          },
+          {
+            "claim": "Four movements: Don Quixote, Sancho Panza, Sarabande and Tarantella; Emerson edition",
+            "url": "https://britishmusiccollection.org.uk/score/don-quixote-suite",
+            "source_name": "British Music Collection work record",
+            "access": "opened"
+          }
+        ],
+        "gaps": [
+          "No actual notation or matching saxophone recording verified after score and performance searches.",
+          "Composition year remains unverified; 1998 in a retailer title is insufficient to establish composition year.",
+          "Complete solo range and technical demands remain unknown."
+        ],
+        "collection_flag": "Listed as a saxophone suite in the British Music Collection. Complete work has diploma placement; selected movements have earlier certificate use. No evidence identifies it as a simplified lyrical transcription.",
+        "metadata": {
+          "publisher": [
+            "Emerson Edition"
+          ],
+          "purchase": [
+            "Emerson E353 · https://www.chimesmusic.com/products/don-quixote-suite.html"
+          ],
+          "instruments": [
+            "Piano"
+          ]
+        },
+        "searches": [
+          "Bryan Kelly Don Quixote Suite soprano saxophone score preview",
+          "Don Quixote Suite Kelly saxophone recording",
+          "LCM woodwind diploma repertoire saxophone Don Quixote Kelly pdf",
+          "Bryan Kelly Don Quixote Suite score pdf",
+          "Bryan Kelly Don Quixote Sarabande saxophone video"
+        ],
+        "chat_summary": "Soprano and piano, four movements. The complete suite appears on London College of Music’s DipLCM list; Trinity places Sarabande and Tarantella on its intermediate certificate list. Assess the complete suite separately from those extracts. No notation or matching recording verified."
+      },
+      "removed": true,
+      "retired_url": "/works/bryan-kelly-don-quixote-suite/",
+      "redirect_to": "/",
+      "removed_work_snapshot": "---\ntitle: \"Don Quixote Suite\"\nslug: bryan-kelly-don-quixote-suite\ncomposer:\n  - \"[[Bryan Kelly]]\"\ninstruments:\n  - \"Soprano Saxophone\"\n  - \"Piano\"\ncomposed: \nyear-of-study: \nstreaming: \npurchase:\n  - \"https://www.grothmusic.com/p-37426.aspx\"\n  - \"Emerson E353 · https://www.chimesmusic.com/products/don-quixote-suite.html\"\nadded: 2025-04-18\nresearch:\n  - \"Publisher and catalog no.: June Emerson EE353 · https://www.grothmusic.com/p-37426.aspx\"\n  - \"Complete suite on soprano DipLCM list · https://lcme.uwl.ac.uk/media/rzjfqioh/woodwind-diplomas-repertoire-list.pdf\"\n  - \"Sarabande and Tarantella in intermediate B-flat certificate repertoire · https://www.trinitycollege.com/resource/?id=8879\"\n  - \"Emerson E353 for soprano saxophone or clarinet and piano · https://www.chimesmusic.com/products/don-quixote-suite.html\"\n  - \"Suite for saxophone and piano · https://britishmusiccollection.org.uk/composer/bryan-kelly\"\n  - \"Four movements: Don Quixote, Sancho Panza, Sarabande and Tarantella; Emerson edition · https://britishmusiccollection.org.uk/score/don-quixote-suite\"\naliases: []\npublisher:\n  - \"Emerson Edition\"\n---\n## Research notes (private)\n\n### Chat batch 06 follow-up, 2026-10-12\n\nSoprano and piano, four movements. The complete suite appears on London College of Music’s DipLCM list; Trinity places Sarabande and Tarantella on its intermediate certificate list. Assess the complete suite separately from those extracts. No notation or matching recording verified.\n\n[[Review 0030 - Bryan Kelly - Don Quixote Suite|Full evidence and open questions]]\n\n\n- Publisher and catalog no.: June Emerson EE353 · [grothmusic.com](https://www.grothmusic.com/p-37426.aspx)\n\n<!-- saxobrain-research-review-2026-10-11 -->\n\n### Research Review, October 11, 2026\n\n[[Review 0030 - Bryan Kelly - Don Quixote Suite|Full review note]]\n\nCatalog entry: [[Bryan Kelly - Don Quixote Suite]].\n\nBryan Kelly, Don Quixote Suite (catalogued 1998), Emerson E353, soprano saxophone and piano (clarinet alternate also listed). Current edition details are retailer-derived; an institutional syllabus excerpt lists only movement 2, “Sancho Panza,” for Grade 5 soprano saxophone.\n[Forsyth Music](https://www.forsyths.co.uk/sheet-music/instruments/woodwind/saxophone-sheet-music/375570-kelly-bryan-don-quixote-suite-1998-9790570404711.html) (search_index_only): Music retailer specifies Emerson Edition E353, soprano saxophone and piano, and publisher grade C/D.\n[Universidad Distrital repository, syllabus scan](https://repository.udistrital.edu.co/server/api/core/bitstreams/7a8baca6-0762-4d29-9df6-c430c10ca402/content) (search_index_only, 73): A published university/exam syllabus includes Sancho Panza, movement 2, in an ABRSM Grade 5 soprano saxophone list.\n[British Music Collection](https://britishmusiccollection.org.uk/composer/bryan-kelly) (search_index_only): British Music Collection describes Don Quixote as a suite for saxophone and piano.\n[Forsyth Music Shop](https://www.forsyths.co.uk/sheet-music/instruments/woodwind/saxophone-sheet-music/375570-kelly-bryan-don-quixote-suite-1998-9790570404711.html) (search_index_only): Retailer search listing identifies Emerson E353 as soprano saxophone and piano, with a clarinet alternate, and labels skill level C/D; underlying product page returned a cache miss.\n[Universidad Distrital repository, saxophone syllabus](https://repository.udistrital.edu.co/server/api/core/bitstreams/7a8baca6-0762-4d29-9df6-c430c10ca402/content) (search_index_only): A University repository-hosted syllabus excerpt places “Sancho Panza,” the second movement, on a Grade 5 soprano saxophone list.\n\nCollection/transcription context: Original saxophone suite with documented school-syllabus use of one movement. This does not establish simplification or exclude college use.\n\nReview focus: Inference: compare the complete suite with the partial Grade 5 placement; the syllabus listing applies to one movement and cannot establish the whole suite’s demands.\n\nOpen questions: No opened publisher page, accessible score preview, saxophone recording, or college/professional performance was verified. Retailer skill label is not used as a difficulty recommendation.\n\nSearches checked:\n- Bryan Kelly Don Quixote Suite Emerson E353 soprano saxophone piano\n- \"Sancho Panza\" \"Don Quixote Suite\" saxophone Grade 5\n\n",
+      "assigned_level": null,
+      "decision": "Removed",
+      "review_applied": true,
+      "decision_note": "Tim requested removal from the catalog. The private evidence log is retained."
+    }
+  ],
+  "applied_on": "2026-10-13"
+}

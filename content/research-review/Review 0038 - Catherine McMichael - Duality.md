@@ -3,8 +3,8 @@ title: "Review 0038: Catherine McMichael - Duality"
 added: 2026-10-11
 review-id: 38
 review-packet: 2
-review-decision: Pending
-review-applied: false
+review-decision: "Third Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Catherine McMichael - Duality]]"
 build:
@@ -47,3 +47,21 @@ Open questions: Publisher score and notation unavailable in this pass. Recording
 Searches checked:
 - Catherine McMichael Duality tenor saxophone piano score 2018 commission Scott Sandberg
 - Albany Records Duality McMichael Sandberg Teepen
+
+## Chat batch 07 follow-up, 2026-10-13
+
+Opened composer shop describes an eleven-minute work commissioned by Dr. Scott Sandburg [composer’s spelling] at UND in 2016, available as hard copy or PDF. The existing YouTube URL is verified as the official NAXOS-supplied Scott Sandberg track for movement I, Polarity, with Keith Teepen and McMichael composer credit. The opened official album playlist supplies all three movements. The current Listen link reaches only movement I. The composer’s indexed complete catalog calls the work advanced and names Camellia as publisher. That table was not opened in this pass, so the descriptor is retained as a lead.
+
+Collection context: Original tenor work commissioned to expand the instrument’s repertoire, with professional recording verified.
+
+Open questions: No notation inspected. The movement titles alone do not establish their tempi, textures, written range or extended techniques. 2016 is verified as commission year. A separate 2018 program/premiere claim was not freshly verified here and does not warrant replacing existing composed metadata. Existing streaming is movement I only. Keep it unchanged; privately list II and III and the album playlist. Composer page spells the commissioner Sandburg, whereas the official recording credits Sandberg. Preserve performer’s verified recording spelling. Camellia publisher and advanced descriptor remain indexed leads; no publisher fill proposed without opening that table.
+
+Sources checked:
+- [Catherine McMichael](https://www.catherinemcmichael.com/product-page/duality): Three movements, eleven minutes, 2016 commission and hard-copy/PDF availability. (opened)
+- [Scott Sandberg Topic / NAXOS / Albany](https://www.youtube.com/watch?v=USbUIJJSszo): Existing Listen is Polarity with official performer/composer credits. (opened)
+- [Scott Sandberg official album playlist](https://www.youtube.com/playlist?list=OLAK5uy_l5sGZD3HpR9BD4TDr28fmNhbt2w8AZR9M): Three movement track links. (opened)
+- [Catherine McMichael](https://www.catherinemcmichael.com/all-compositions-1?comp-k8usns8a_page=3): Advanced descriptor and Camellia publishing lead. (search_index_only)
+
+## Chat Batch 07 Decision, 2026-10-13
+
+Tim assigned Third Year.

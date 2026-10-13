@@ -38,3 +38,16 @@ Catalog: [David Liptak - Fantasy.md](/Users/trosenberg/Documents/GitHub/SaxoBrai
 - No suitable score, performance, or college use evidence found.
 
 **Tim decision:** pending.
+
+## Chat batch 08 follow-up, 2026-10-13
+
+The composer’s own duo catalogue dates the saxophone Fantasy to 1980 and gives 14 minutes. Groth lists the Dorn edition as 13 minutes, dedicated to James Forger. The duration discrepancy should remain visible. Liptak’s catalogue embeds an exact performance by Chien-Kwan Lin, alto saxophone, and Pi-Lin Ni, piano. The same composer has a separate Fantasy for violin and piano, written in 2006 and lasting six minutes. That work’s lightness/clarity program note and high-school commission must not be transferred to this saxophone work. No public score sample or work-specific analytical program note for the 1980 saxophone Fantasy was located.
+
+Collection context: Individual saxophone duo; original instrumentation is supported by composer catalogue. The high-school violin commission belongs to another work.
+
+Open questions: No actual saxophone score notation inspected; written range and specific demands remain unknown. Composer gives 14 minutes while retailer gives 13 minutes. The original-work commission/premiere history was not established.
+
+Sources checked:
+- [David Liptak composer catalogue](https://www.dliptak.com/compositions/duo.html): 1980 alto saxophone and piano Fantasy, 14-minute catalogue duration; embedded performance identifies Chien-Kwan Lin and Pi-Lin Ni. Also separately lists violin Fantasy (2006), six minutes. (opened)
+- [Groth Music product record](https://www.grothmusic.com/p-145846.aspx): Dorn DORN0179 alto saxophone and piano edition; dedicated to James Forger; duration 13 minutes. (opened)
+- [David Liptak SoundCloud track](https://soundcloud.com/david-liptak-946907213/fantasy-1/s-Rw3HpG2gKbz): Exact composer-posted Fantasy audio is marked publicly streamable; duration 13:03. (opened)

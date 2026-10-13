@@ -3,9 +3,9 @@ title: "Review 0028: Brenton Broadstock - I Touched Your Glistening Tears"
 added: 2026-10-11
 review-id: 28
 review-packet: 2
-review-decision: Pending
-review-applied: false
-notation-inspected: false
+review-decision: "Second Year"
+review-applied: true
+notation-inspected: true
 catalog-entry: "[[Brenton Broadstock - I Touched Your Glistening Tears]]"
 build:
   render: never
@@ -47,3 +47,24 @@ Proposed correction for review: ["Check whether the work page needs piano, violi
 Searches checked:
 - Brenton Broadstock I Touched Your Glistening Tears soprano saxophone cello piano
 - composer page I touched your glistening tears sax violin version
+
+## Chat batch 06 follow-up, 2026-10-12
+
+Reed’s RM011 preview explicitly identifies soprano saxophone and piano, 1998 (this version 2000), and Barry Cockcroft. This resolves the previous review’s uncertainty: the current catalog lead is the duo, so Piano is missing from instrumentation. · https://www.reedmusic.com/wp-content/uploads/i-touched-your-glistening-tears-brenton-broadstock-saxophone-soprano-piano-sample.webp The composer separately lists soprano/cello/piano and soprano/violin/piano trios, each dated 1998 and about nine minutes. Their musical details should not silently replace the duo’s. · https://www.brentonbroadstock.com/styled-14/ Joseph Lallo’s University of Melbourne thesis documents a soprano/cello/piano performance at Grant Street Theatre in 2018. He describes a gradual arc toward a dynamic peak and reproduces its opening notation. · https://minerva-access.unimelb.edu.au/server/api/core/bitstreams/a1d24534-fa49-4d40-af70-2d334e6ec75e/content
+
+Score observations: RM011 part page1: 4/4 at quarter=80–90, with sadness and introspection; opening spans several bars under slurs at ppp/pp. Grace notes carry an explicit slur instruction. Triplet quarter-note figures enter around bars11–12, and dynamics grow to f near bar33. These observations concern the transposed soprano part only. · https://www.reedmusic.com/wp-content/uploads/i-touched-your-glistening-tears-brenton-broadstock-saxophone-soprano-piano-sample.webp RM024 chamber preview page2, bars9–20: saxophone and cello trade entries/cues while piano maintains repeated eighth-note patterns. Neither excerpt establishes the complete climactic section or full range. · https://www.reedmusic.com/wp-content/uploads/i-touched-your-glistening-tears-brenton-broadstock-cello-chamber-music-sample.webp The Lallo thesis reproduces trio opening bars1–4 with tied sustained saxophone notes over a moving piano figure. · https://minerva-access.unimelb.edu.au/server/api/core/bitstreams/a1d24534-fa49-4d40-af70-2d334e6ec75e/content
+
+Collection context: Original expressive concert work in multiple authorized scorings. The inspected RM011 is a saxophone/piano version of a 1998 work. Its lyrical content alone supplies no evidence of a younger-player transcription.
+
+Open questions: Only opening duo part page and limited chamber excerpts inspected; full range, later climax and complete formal detail remain unknown. Publisher embeds are identified but not auditioned. The composer-hosted trio review and thesis describe slightly different climax locations; neither should be transferred to the duo without full score review.
+
+Sources checked:
+- [Reed Music RM011 public saxophone part preview](https://www.reedmusic.com/wp-content/uploads/i-touched-your-glistening-tears-brenton-broadstock-saxophone-soprano-piano-sample.webp): RM011 soprano/piano, written for Cockcroft, original 1998, this version 2000; notation observations below (score_inspected)
+- [Reed Music](https://www.reedmusic.com/store/woodwind/saxophone/saxophone-soprano/sax-soprano-piano/i-touched-your-glistening-tears/): RM011 product identifies the duo and embeds publisher-hosted saxophone recording (opened)
+- [Brenton Broadstock ensemble catalogue](https://www.brentonbroadstock.com/styled-14/): separate soprano/cello/piano and soprano/violin/piano trios, 1998, nine minutes (opened)
+- [Joseph Lallo, The Performer/Curator, University of Melbourne thesis](https://minerva-access.unimelb.edu.au/server/api/core/bitstreams/a1d24534-fa49-4d40-af70-2d334e6ec75e/content): 2018 trio performance, arc toward dynamic peak, opening notation and tempo (score_inspected)
+- [Reed Music](https://www.reedmusic.com/store/woodwind/saxophone/saxophone-chamber-music/sax-other-instruments/i-touched-your-glistening-tearsrm024/): RM024 chamber product and cello-score excerpt; different from RM011 (opened)
+
+## Chat Batch 06 Decision, 2026-10-13
+
+Tim assigned Second Year.

@@ -3,10 +3,10 @@ title: "Review 0032: Caix d'Hervelois - Plainte & Napolitana"
 added: 2026-10-11
 review-id: 32
 review-packet: 2
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Caix d'Hervelois - Plainte & Napolitana]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog entry: [[Caix d'Hervelois - Plainte & Napolitana]].
+Catalog: removed at Tim’s request on 2026-10-13.
 
 Catalog ID 32 lists soprano saxophone, while the located Groth retailer entry appears to describe a tenor saxophone/piano edition. The retailer listing does not establish that the catalog tag is wrong; the intended edition and instrument remain unresolved.
 [Groth Music](https://www.grothmusic.com/p-139738.aspx) (search_index_only): Retailer listing identifies Plainte and La Neapolitaine from Suite in D minor in Robert C. Jones’s tenor saxophone/piano arrangement, reference DP0250; page could not be opened.
@@ -37,3 +37,20 @@ Open questions: Verify exact title spelling and publisher/edition. No saxophone 
 
 Searches checked:
 - Caix d'Hervelois Plainte La Neapolitaine tenor saxophone piano Robert Jones DP0250
+
+## Chat batch 07 follow-up, 2026-10-13
+
+The primary Dorn catalog places order 250, Jones’s arrangement, under tenor saxophone and piano. Groth’s opened page heading also says tenor, while its description says B-flat saxophone and piano. That wording alone does not establish an authorized soprano edition. June Emerson’s indexed title connects the two pieces with a Suite in D minor, but the source edition and original instrumental provenance were not verified from an opened original score.
+
+Collection context: Two-piece historical transcription; no verified young-player or simplified-edition claim.
+
+Open questions: Existing soprano tag preserved. Publisher catalogs a tenor edition; Groth’s broader B-flat wording leaves soprano suitability unresolved. Piano is explicit in the exact linked edition and can be appended; soprano versus tenor still needs an edition decision. No notation inspected. Duration, written compass, ornamentation, and degree of editorial alteration unknown. Original source suite, date and instrument remain unverified; earlier viola da gamba/flute claims should remain leads. Available Jones tenor edition purchase: https://www.grothmusic.com/p-139738-plainte-and-la-neapolitaine-tenor-sax-and-piano.aspx. No purchase proposal is added because the intended soprano edition remains unresolved.
+
+Sources checked:
+- [Dorn Publications music catalog](https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf): Order 250 appears in tenor saxophone/piano section with Jones arranger credit. (opened)
+- [Groth Music](https://www.grothmusic.com/p-139738-plainte-and-la-neapolitaine-tenor-sax-and-piano.aspx): Description says B-flat saxophone and piano; title says tenor; DORN0250 and Robert C. Jones. (opened)
+- [June Emerson Wind Music](https://www.juneemersonwindmusic.com/PLAINTE-and-LA-NEAPOLITAINE-from-Suite-in-d-minor.html): DP0250 title from Suite in D minor; tenor/piano. (search_index_only)
+
+## Chat Batch 07 Decision, 2026-10-13
+
+Tim requested removal from the catalog. The private evidence log is retained.

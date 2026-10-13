@@ -1,14 +1,16 @@
 ---
-title: "David Amram"
+title: David Amram
 slug: david-amram
 nationality:
-gender:
+  - 🇺🇸 American
+gender: Male
 race:
+  - White
 born: 1930
-died: 
+died:
 wikidata: Q1173090
-photo: 
-photo-credit: 
-photo-source: 
+photo: "/media/composers/david-amram.jpg"
+photo-credit: milkenarchive.org
+photo-source: https://www.milkenarchive.org/assets/Photos/David-Amram-107__ScaleMaxWidthWzUwMF0.jpg
 aliases: []
 ---

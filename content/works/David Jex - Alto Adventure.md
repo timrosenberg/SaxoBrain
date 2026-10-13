@@ -8,16 +8,28 @@ instruments:
   - "Piano"
 composed: 
 year-of-study: 
-streaming: 
+streaming: "https://www.youtube.com/watch?v=K1APvNEYTcc"
 purchase:
-  - https://www.grothmusic.com/p-143738.aspx
+  - "https://www.grothmusic.com/p-143738.aspx"
+  - "Alto saxophone and piano · https://wingertjones.com/product/3055131-alto-adventure-jex/"
 added: 2024-03-08
 research:
   - "Publisher Wingert-Jones, catalog number 3055131 · https://www.grothmusic.com/p-143738.aspx"
   - "Written for Lynn Klock; duration 6:00; brief soloistic piece mixing lyrical upper-register melodies with virtuosic passages, suited as a closer or encore · https://www.grothmusic.com/p-143738.aspx"
+  - "Alto saxophone with piano, 3055131, composed for Lynn Klock, six minutes; technical passages, upper-register melodies, driving piano, acceleration; product page contains conflicting band-package label. · https://wingertjones.com/product/3055131-alto-adventure-jex/"
+  - "Exact public 5:42 YouTube recording identifies David Jex, Lynn Klock, Virginia Wind Symphony and Dennis Zeisler; Albany 2014 and Wingert-Jones music publishing credits. · https://www.youtube.com/watch?v=K1APvNEYTcc"
 aliases: []
+publisher:
+  - "Wingert-Jones Publications"
 ---
 ## Research notes (private)
+
+### Chat batch 08 follow-up, 2026-10-13
+
+Alto Adventure was composed for Lynn Klock and is sold as alto saxophone with piano, Wingert-Jones 3055131, about six minutes. The publisher describes upper-register lyricism, technical passagework, a driving piano and an accelerating close. The exact Klock/Zeisler/Virginia Wind Symphony recording is verified, using wind ensemble. No notation or composition year was found. The publisher page has a conflicting generic band-package label. [Piano edition](https://wingertjones.com/product/3055131-alto-adventure-jex/) · [Listen](https://www.youtube.com/watch?v=K1APvNEYTcc).
+
+[[Review 0067 - David Jex - Alto Adventure|Full evidence and open questions]]
+
 
 - Publisher Wingert-Jones, catalog number 3055131 · [grothmusic.com](https://www.grothmusic.com/p-143738.aspx)
 - Written for Lynn Klock; duration 6:00; brief soloistic piece mixing lyrical upper-register melodies with virtuosic passages, suited as a closer or encore · [grothmusic.com](https://www.grothmusic.com/p-143738.aspx)

@@ -14,9 +14,19 @@ purchase:
 added: 2024-03-08
 research:
   - "Dorn Publications, copyright 1988 · https://www.jwpepper.com/suite-no-1-alto-sax-piano-7886773/p"
+  - "Title, full composer name, alto saxophone and piano scoring, Dorn publication and copyright 1988. · https://www.jwpepper.com/suite-no-1-alto-sax-piano-7886773/p"
 aliases: []
+publisher:
+  - "Dorn Publications"
 ---
 ## Research notes (private)
+
+### Chat batch 08 follow-up, 2026-10-13
+
+Nelson, Suite No. 1: [J.W. Pepper](https://www.jwpepper.com/suite-no-1-alto-sax-piano-7886773/p) now opens and explicitly identifies Edward R. Nelson, alto saxophone and piano, Dorn Publications and copyright 1988. The date is publication evidence. The available page supplies no score preview or musical description. Movement structure, duration, written range and playable listening remain unknown.
+
+[[Review 0085 - Edward R. Nelson - Suite No. 1|Full evidence and open questions]]
+
 
 - Dorn Publications, copyright 1988 · [jwpepper.com](https://www.jwpepper.com/suite-no-1-alto-sax-piano-7886773/p)
 

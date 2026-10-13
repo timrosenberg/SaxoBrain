@@ -7,17 +7,29 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
+year-of-study: "Third Year"
 streaming: 
 purchase:
-  - https://www.grothmusic.com/p-146308.aspx
+  - "https://www.grothmusic.com/p-146308.aspx"
+  - "https://www.wisemusicclassical.com/work/76784/Between-Categories--Arthur-Woodbury/"
 added: 2024-03-08
 research:
   - "Publisher and catalog no.: Peters EP67113 · https://www.grothmusic.com/p-146308.aspx"
   - "29 pages · https://www.grothmusic.com/p-146308.aspx"
+  - "Composer Arthur Woodbury, alto saxophone and piano, seven minutes, C.F. Peters · https://www.wisemusicclassical.com/work/76784/Between-Categories--Arthur-Woodbury/"
+  - "Composer’s stylistic explanation quoted; Peters 1989 score 24+5 pages; accompaniment assessment is retailer opinion · https://vcisinc.com/saxophonemusic.htm"
 aliases: []
+publisher:
+  - "C.F. Peters"
 ---
 ## Research notes (private)
+
+### Chat batch 06 follow-up, 2026-10-12
+
+Woodbury’s composer explanation identifies an original integration of jazz and classical music. Wise Music verifies seven minutes, alto/piano and C.F. Peters. No score preview or Listen verified; retailer dates conflict and do not establish composition year.
+
+[[Review 0016 - Arthur Woodbury - Between Categories|Full evidence and open questions]]
+
 
 - Publisher and catalog no.: Peters EP67113 · [grothmusic.com](https://www.grothmusic.com/p-146308.aspx)
 - 29 pages · [grothmusic.com](https://www.grothmusic.com/p-146308.aspx)

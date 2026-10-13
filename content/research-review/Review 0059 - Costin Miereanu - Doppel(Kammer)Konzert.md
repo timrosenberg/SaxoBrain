@@ -3,8 +3,8 @@ title: "Review 0059: Costin Miereanu - Doppel(Kammer)Konzert"
 added: 2026-10-11
 review-id: 59
 review-packet: 3
-review-decision: Pending
-review-applied: false
+review-decision: "Fourth Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Costin Miereanu - Doppel(Kammer)Konzert]]"
 build:
@@ -39,4 +39,23 @@ Catalog: [Costin Miereanu - Doppel(Kammer)Konzert.md](/Users/trosenberg/Document
 - No readable score or saxophone-specific part mapping was inspected.
 - No verified recording was located in this pass; confirm which saxophone(s) are required in the performed version before collection planning.
 
-**Tim decision:** pending.
+**Tim decision:** Fourth Year.
+
+## Chat batch 07 follow-up, 2026-10-13
+
+Salabert’s composer catalog gives 1985, 16:40, EAS18334, commissioned by C.E.R.M. Metz. The 1985 Metz premiere used Daniel Kientzy, Wim Koopman and the Hilversum Chamber Orchestra conducted by David Porcelijn. The publisher specifies a single saxophonist, a percussion soloist, and chamber orchestra: paired flutes, oboes, clarinets and bassoons, two horns, trumpet, trombone, two orchestral percussionists, piano, and strings 8/6/4/4/2. Publisher saxophone shorthand is sopranino.S.A.T.B. IRCAM’s independently indexed record spells out sopranino, soprano, alto, tenor and bass saxophone. The full solo-part instrument changes and pitch notation remain uninspected. Salabert marks EAS18334 with its hire symbol; the brochure explains that orchestral materials are rented through Salabert or its representatives. No piano reduction or individual checkout score was verified.
+
+Score observations: No actual musical pages of Doppel(Kammer)Konzert inspected. The publisher PDF includes score fragments of other works; these were excluded.
+
+Collection context: Original concertante chamber-orchestra work with two soloists; multi-saxophone role requires exact score confirmation before practical programming.
+
+Open questions: Existing Any Saxophone tag is too general to communicate the documented multi-instrument soloist role. Do not replace it with an assumed list of freely interchangeable alternatives. IRCAM indexed text explicitly says bass, while Salabert lists bare B in its saxophonist shorthand. Exact solo-part mapping and whether every listed instrument is obligatory require score confirmation. No readable score, full performance commentary, educational placement or verified exact-work recording found. Rental status is documented in an undated/older publisher brochure; current availability and practical rental quote remain unverified.
+
+Sources checked:
+- [Durand Salabert Eschig, Costin Miereanu catalog](https://www.durand-salabert-eschig.com/-/media/Images/DSE/PDFs/Brochures/M/miereanu_costin.ashx?hash=DB3940F1A0022C98EE93628A8FA342AAB67BA94A&la=en-GB): Composition, duration, instrumentation, commissioning and premiere. (opened)
+- [Durand Salabert Eschig, catalog legend](https://www.durand-salabert-eschig.com/-/media/Images/DSE/PDFs/Brochures/M/miereanu_costin.ashx?hash=DB3940F1A0022C98EE93628A8FA342AAB67BA94A&la=en-GB): Hire-symbol interpretation for orchestral materials. (opened)
+- [IRCAM Resources work record](https://ressources.ircam.fr/fr/work/doppel%28kammer%29konzert): Institutional detailed record spells out bass saxophone and confirms work identity. (search_index_only)
+
+## Chat Batch 07 Decision, 2026-10-13
+
+Tim assigned Fourth Year.

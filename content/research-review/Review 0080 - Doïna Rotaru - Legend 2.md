@@ -30,3 +30,19 @@ Catalog: [[Doïna Rotaru - Legend 2]]
 - CiNii bibliographic record independently lists *Legend II* for soprano saxophone or oboe, Lemoine, c.1998. [CiNii Books](https://ge.nii.ac.jp/ncid/BA54532324) (search_index_only).
 - Collection/use: Alternate saxophone edition of a work also cataloged for solo oboe; this is a transcription/alternate-instrument concern, not an automatic exclusion.
 - Gaps: No score pages or saxophone performance inspected; technical demands and intended saxophone audience remain unknown.; Publication date differs between undated IMEP record and c.1998 CiNii record.
+
+## Chat batch 08 follow-up, 2026-10-13
+
+Romanian National Heritage Institute’s work catalog dates Legend II 1996 for oboe solo, about 9 minutes. Claude Delangle’s performer repertoire independently lists solo soprano version 1996. Lemoine’s winds catalog identifies soprano saxophone, Collection Claude Delangle, HL26831, copyright 1998, four pages. The 1998 date is edition copyright. Bernardo Zagalaz Lijarcio’s thesis describes a single nine-minute movement with bisbigliando, quarter tones, flutter tongue, glissandos, growl/voice effects, multiphonics and approximate-duration notation. It says circular breathing serves passages with a breath after 25 seconds. These are attributed analysis, not our score observations.
+
+Collection context: Contemporary solo repertoire with documented college graduation performance. Dual oboe/soprano publication is verified; original commission and adaptation chronology remain unresolved. No simplification documented.
+
+Open questions: No score notation inspected. Full written soprano range and exact fingerings remain unverified. Composer catalog’s oboe designation does not prove the saxophone publication was a later arrangement; Delangle also dates soprano version 1996. Keep that chronology explicit. Thesis misstates composer birth year 1957; use its musical analysis with attribution, not biographical data. Publisher catalog and CiNii entries are indexed evidence; their direct endpoints were blocked or certificate-invalid.
+
+Sources checked:
+- [Romanian National Heritage Institute, CIMEC work catalog](https://cimec.ro/artele-spectacolului/doina-rotaru/): Legend II1996 for solo oboe, about 9 minutes. (opened)
+- [Claude Delangle official repertoire](https://www.sax-delangle.com/repertoire/): Solo soprano Legend II1996 listed in performer repertoire. (search_index_only)
+- [Henry Lemoine winds catalog 2016](https://www.henry-lemoine.com/assets/pdf/CATAWINDS.pdf): HL26831, soprano, Claude Delangle series, copyright 1998, four pages. (search_index_only)
+- [CiNii Books institutional bibliographic record](https://ge.nii.ac.jp/ncid/BA54532324): Edition for soprano or oboe, c 1998, four music pages. (search_index_only)
+- [Bernardo Zagalaz Lijarcio, 2015 doctoral thesis, public Scribd mirror](https://es.scribd.com/document/530056924/NUEVAS-GRAFIAS-EN-LOS-ESTUDIOS-DE-SAXOFON-ANDALUCIA): Single movement 9 minutes; bisbigliando, quarter tones, flutter tongue, glissando, voice effects, multiphonics, time-based writing, circular breathing. (opened)
+- [Antonio García Jorge YouTube upload](https://www.youtube.com/watch?v=xLCXpT_g4Hc): Exact saxophone graduation-recital performance; public formats and browser playback verified. (opened)

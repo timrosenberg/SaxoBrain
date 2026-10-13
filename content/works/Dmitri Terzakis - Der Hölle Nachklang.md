@@ -6,20 +6,33 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
+composed: 1992
 year-of-study: 
 streaming: "https://www.youtube.com/watch?v=4u7axlRrLNM"
 purchase:
-  - https://www.grothmusic.com/p-38334.aspx
+  - "https://www.grothmusic.com/p-38334.aspx"
+  - "https://www.editiongravis.de/verlag/product_info.php/info/p495_Der-Hoelle-Nachklang-I.html"
 added: 2024-02-21
 research:
   - "Publisher Gravis, catalog number EG322 · https://www.grothmusic.com/p-38334.aspx"
   - "Listed as Der Hoelle Nachklang · https://www.grothmusic.com/p-38334.aspx"
+  - "1992, alto and piano, eg 322, ca.15 minutes. Composer program note recalls the 1941–1944 German occupation of Greece. · https://www.editiongravis.de/verlag/product_info.php/info/p495_Der-Hoelle-Nachklang-I.html"
+  - "Opening transposed alto staff, 4/4, quarter note 60, slurs, triplet and ornament against repeated piano bass. · https://hellenicsax.gr/files/scores/score_359.jpg"
+  - "Technical aims include altissimo and microtones; premiere with Kelly/Versteegh in 1992. · https://hellenicsax.gr/works/359_der_holle_nachklang_i"
+  - "Exact recording public, title and duration verified. · https://www.youtube.com/watch?v=4u7axlRrLNM"
+  - "Kelly saxophone, Versteegh piano; track 9:55. · https://www.col-legno.com/en/shop/31891-kelly-versteegh-new-saxophone-chamber-music"
 publisher:
   - "Edition Gravis"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat batch 08 follow-up, 2026-10-13
+
+Der Hölle Nachklang I is dated 1992 on both publisher page and score opening. The inspected transposed alto incipit has a slow 4/4 opening with slurred ornamented entry and triplet over repeated quiet piano bass. The Hellenic Saxophone Library reports later altissimo and microtonal demands. The existing Kelly/Versteegh YouTube recording is public and exact. The full score remains blocked, and publisher versus recorded duration differs.
+
+[[Review 0077 - Dmitri Terzakis - Der Hölle Nachklang|Full evidence and open questions]]
+
 
 - Publisher Gravis, catalog number EG322 · [grothmusic.com](https://www.grothmusic.com/p-38334.aspx)
 - Listed as Der Hoelle Nachklang · [grothmusic.com](https://www.grothmusic.com/p-38334.aspx)

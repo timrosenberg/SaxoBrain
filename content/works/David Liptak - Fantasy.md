@@ -6,18 +6,30 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
+composed: 1980
 year-of-study: 
-streaming: 
+streaming: "https://soundcloud.com/david-liptak-946907213/fantasy-1/s-Rw3HpG2gKbz"
 purchase:
   - https://www.grothmusic.com/p-145846.aspx
 added: 2024-03-08
 research:
   - "Publisher Dorn Publications, catalog number DORN0179 · https://www.grothmusic.com/p-145846.aspx"
   - "Dedicated to James Forger; duration 13 minutes · https://www.grothmusic.com/p-145846.aspx"
+  - "1980 alto saxophone and piano Fantasy, 14-minute catalogue duration; embedded performance identifies Chien-Kwan Lin and Pi-Lin Ni. Also separately lists violin Fantasy (2006), six minutes. · https://www.dliptak.com/compositions/duo.html"
+  - "Dorn DORN0179 alto saxophone and piano edition; dedicated to James Forger; duration 13 minutes. · https://www.grothmusic.com/p-145846.aspx"
+  - "Exact composer-posted Fantasy audio is marked publicly streamable; duration 13:03. · https://soundcloud.com/david-liptak-946907213/fantasy-1/s-Rw3HpG2gKbz"
 aliases: []
+publisher:
+  - "Dorn Publications"
 ---
 ## Research notes (private)
+
+### Chat batch 08 follow-up, 2026-10-13
+
+Liptak’s own catalogue verifies Fantasy (1980) for alto saxophone and piano and identifies a recording by Chien-Kwan Lin and Pi-Lin Ni. It lists 14 minutes; Groth’s Dorn DORN0179 edition lists 13 minutes and dedication to James Forger. His six-minute 2006 violin Fantasy is a different piece, so its program note and youth commission do not apply. No sax score preview was located. [Composer catalogue and recording](https://www.dliptak.com/compositions/duo.html) · [Dorn edition](https://www.grothmusic.com/p-145846.aspx). [Listen: Lin/Ni](https://soundcloud.com/david-liptak-946907213/fantasy-1/s-Rw3HpG2gKbz).
+
+[[Review 0069 - David Liptak - Fantasy|Full evidence and open questions]]
+
 
 - Publisher Dorn Publications, catalog number DORN0179 · [grothmusic.com](https://www.grothmusic.com/p-145846.aspx)
 - Dedicated to James Forger; duration 13 minutes · [grothmusic.com](https://www.grothmusic.com/p-145846.aspx)

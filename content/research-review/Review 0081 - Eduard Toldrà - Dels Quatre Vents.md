@@ -31,3 +31,20 @@ Catalog: [[Eduard Toldrà - Dels Quatre Vents]]
 - Collection/use: Documented transcription of an original violin-and-piano movement. The exact arranger for UME21470 remains uncertain.
 - Review focus: Inference: confirm whether the saxophone part preserves violin-specific phrasing and range in the published sax transcription; no saxophone score was inspected.
 - Gaps: No readable saxophone score or saxophone recording found; musical details and exact adaptation cannot be assessed.; UME21470 and the institutional catalog’s UME21466 record appear to be different publication records; verify edition relationship.
+
+## Chat batch 08 follow-up, 2026-10-13
+
+Boileau’s exact UME21470 page identifies alto/piano, 8+4 pages, Unión Musical Ediciones, and a medio-alto label. Cover explicitly says alto saxophone or horn and piano. Eric Koontz’s thesis-based specialist catalog identifies the original violin/piano cycle 1921. For this movement he describes slow stately music, in B major, with a mostly regular harmonic rhythm accelerating into an extended cadence. This describes the original, not verified saxophone notation. Catalan 2016–2017 entrance guidance lists the UME saxophone work for entry to professional music studies. This documents teaching use without proving a simplified arrangement.
+
+Score observations: No UME21470 saxophone score notation was inspected. The original concert-pitch violin/piano manuscript facsimile was opened, but its degraded rendering prevented reliable musical detail extraction. No written saxophone range is inferred from the original.
+
+Collection context: Transcription of a violin/piano movement with documented conservatory-entry teaching use. No score evidence establishes simplification. Lyrical character alone supplies no fit verdict.
+
+Open questions: Arranger remains unresolved: José Amaz lead refers to a different plate; retailer URL suggests Bayer but product text gives no role. Do not fill arranger-edition. No exact saxophone recording verified. The inspected YouTube candidates are bassoon and violin versions; both were excluded from Listen. No UME21470 notation inspected; written saxophone range, transposition, key and any adaptation changes remain unknown.
+
+Sources checked:
+- [Boileau Music exact edition page](https://boileau-music.com/es/obras/dels-quatre-vents-UME21470): UME21470 alto/piano, 8+4 pages, medio-alto label, publisher Unión Musical Ediciones; cover adds horn option. (opened)
+- [Eduard Toldrà specialist catalog, analysis by Eric Koontz](https://sites.google.com/site/eduardtoldra/eduard-toldr%C3%A0-i-soler/complete-catalog/sis-sonets): Original Sis sonets 1921 for violin/piano; Dels quatre vents is fifth. Thesis-based description:slow, stately, Bmajor, extended cadence. (opened)
+- [Eduard Toldrà specialist catalog manuscript facsimile](https://sites.google.com/site/eduardtoldra/eduard-toldr%C3%A0-i-soler/complete-catalog/sis-sonets): Original violin manuscript visually inspected; low resolution prevents range claims. (score_inspected)
+- [Catalan Education Department 2016–2017 entrance guidance, hosted by La Lira Ampostina](https://www.laliraampostina.com/wp-content/uploads/orientacions.pdf?644ab3=): Exact UME saxophone title appears in entry-to-professional-studies repertoire. (opened)
+- [Forsyths edition listing](https://www.forsyths.co.uk/sheet-music/instruments/woodwind/saxophone-sheet-music/42115-toldra-dels-quatre-vents-bayer-for-alto-saxophone-5020679225585.html): Bayer name appears in retailer URL  for UME21470; role not corroborated. (search_index_only)
