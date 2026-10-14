@@ -5,18 +5,32 @@ composer:
   - "[[Gérard Gasparian]]"
 instruments:
   - "Soprano Saxophone"
-composed: 
+  - "Piano"
+composed: 1994
 year-of-study: 
-streaming: 
+streaming: "https://www.youtube.com/watch?v=NNDHgAdYEkI"
 purchase:
   - "https://www.grothmusic.com/p-144586.aspx"
 added: 2025-04-18
 research:
   - "Published by Combre, catalog C05757, soprano saxophone and piano, 23 pages · https://www.grothmusic.com/p-144586.aspx"
+  - "1994 composition, soprano saxophone and piano, Combre; separate oboe version; 1996 Musicora premiere and duo recording. · https://www.gerard-gasparian.com/works.php"
+  - "Includes piano score and soprano part, C05757. · https://www.grothmusic.com/p-144586.aspx"
+  - "Cycle III CEM soprano institutional repertoire. · https://www.federation-ffea.fr/medias/download/ffea_2022_saxophone-soprano-et-tenor.pdf"
+  - "Exact track title, composer, album and 7:10 duration. · https://classical.music.apple.com/ca/album/406863471"
 aliases:
   - /works/karen-gasparian-fantaisie/
+publisher:
+  - "Éditions Combre"
 ---
 ## Research notes (private)
+
+### Chat batch 10 follow-up, 2026-10-14
+
+Gasparian Fantaisie: composer confirms 1994, soprano saxophone and piano, Musicora 1996 premiere and Vérany duo recording. Add Piano and Combre. Institutional teaching use verified. The 7:10 Dédicaces track is exact; oboe transcription C05849 is excluded. Full verified public Topic recording found, 7:10.
+
+[[Review 0130 - Gérard Gasparian - Fantaisie|Full evidence and open questions]]
+
 
 - Published by Combre, catalog C05757, soprano saxophone and piano, 23 pages · [grothmusic.com](https://www.grothmusic.com/p-144586.aspx)
 

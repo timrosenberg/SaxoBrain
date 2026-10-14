@@ -45,3 +45,18 @@ Catalog: [Hans Engelmann - Integrale.md](/Users/trosenberg/Documents/GitHub/Saxo
 - The publisher/edition notation and saxophone subtype were not confirmed from score.
 
 **Tim decision:** pending.
+
+## Chat batch 10 follow-up, 2026-10-14
+
+Christopher DeLouis's 2021 West Virginia University DMA analytical bibliography identifies alto saxophone and piano, duration about 7 minutes, dedication to Matyas Seiber, and Ahn & Simrock (1959). Printed p.94 reports no extended/contemporary techniques in the saxophone part and changing asymmetrical meters in movement 2. These are a scholar's score-based observations, not direct notation inspection in this review. The Internationales Musikinstitut Darmstadt's archival chronology confirms 1954 and a 1987 performance by Tom de Vette and Annette Rogers. Private identity flag: the catalog composer link Hans Engelmann should be checked against Hans Ulrich Engelmann. All located exact-work sources credit Hans Ulrich Engelmann. Private recording-date correction: Taju's 2009 timestamp is repository accession metadata. The record says digitized April 25, 2008; neither date establishes the performance date.
+
+Score observations: No public notation page was located. Meter and technique observations above come from DeLouis's analytical bibliography; they are not visual score observations.
+
+Collection context: Original concert chamber work. No teaching arrangement or youth simplification established.
+
+Open questions: Public score preview and unrestricted exact-work audio not located. Detailed register, articulation and piano coordination remain unverified from notation. Existing Groth AS288 edition number could not be freshly confirmed; retain existing purchase URL without treating AS288 as verified.
+
+Sources checked:
+- [Christopher Mark DeLouis, West Virginia University DMA dissertation (2021)](https://fileserver-az.core.ac.uk/download/490623034.pdf): Seven-minute alto-and-piano work; asymmetrical changing meters in movement 2; no extended saxophone techniques; dedication and publication details. (opened)
+- [Internationales Musikinstitut Darmstadt archival chronology](https://internationales-musikinstitut.de/de/chronik/amsterdam-1987/): Composition year 1954 and documented 1987 saxophone/piano performance. (opened)
+- [University of the Arts Helsinki Taju archive](https://taju.uniarts.fi/items/48bf355a-f3af-483e-82ad-ff2dbe0e2360): Exact archived recording identity and workstation-only access. (search_index_only)

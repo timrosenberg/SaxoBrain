@@ -46,3 +46,17 @@ Catalog: [Henri Pousseur - Duel de Capricare.md](/Users/trosenberg/Documents/Git
 - {'field': 'instruments', 'current': ['Any Saxophone', 'Piano'], 'suggested': ['Alto Saxophone', 'Piano'], 'reason': 'IRCAM specifies alto saxophone and piano for this title/version.', 'evidence_urls': ['https://medias.ircam.fr/fr/work/duel-de-capricares']}
 
 **Tim decision:** pending.
+
+## Chat batch 10 follow-up, 2026-10-14
+
+Fresh IRCAM browser inspection confirms the plural title Duel de Capricares, composition 1996, duration 12 to 15 minutes, alto saxophone and piano, and Suvini Zerboni. CiNii describes a reproduced manuscript edition, copyright 1997, with five pages of performance instructions in French. It states that the saxophone part comes from Caprices de Saxicare and a newly composed piano part is added. Current direct page access was blank, so these bibliographic details remain search-index evidence. The publisher's indexed composer catalog identifies SZ11177 and describes Mobile per saxofono contralto e pianoforte. Direct publisher navigation timed out. Saxophonist Giovanni Nardi lists this exact duo in his performing repertoire. This is professional repertoire-use evidence, not a performance recording. Private catalog decision: the singular local title and Any Saxophone tag conflict with the exact IRCAM work. Preserve the slug and existing metadata pending Tim's title/instrument correction decision.
+
+Collection context: Professional repertoire use documented by Giovanni Nardi. Mobile-form chamber work with separate French performance instructions; no youth simplification context found.
+
+Open questions: No public notation preview located. No exact publicly playable saxophone/piano recording verified. The mobile performance-order rules, complete range and playing techniques remain unknown. Title and Any Saxophone conflict await Tim's decision; no address change proposed.
+
+Sources checked:
+- [IRCAM work database](https://medias.ircam.fr/fr/work/duel-de-capricares): Duel de Capricares 1996, mobile for alto saxophone and piano, 12 to 15 minutes, Suvini Zerboni. (opened)
+- [Suvini Zerboni publisher composer catalog](https://szsugar.it/autore/pousseur-henri/): SZ11177, Mobile per saxofono contralto e pianoforte. (search_index_only)
+- [CiNii Research library catalog](https://cir.nii.ac.jp/crid/1970304959838376079): Reproduced manuscript, reused saxophone material, new piano part and five pages of French performance instructions. (search_index_only)
+- [Giovanni Nardi performer website](https://www.giovanninardi.com/en/biography/): Exact alto/piano duo on professional repertoire list. (opened)

@@ -16,9 +16,18 @@ purchase: []
 added: 2026-10-09
 research:
   - "IRCAM Brahms catalogue lists 'Duel de Capricares', a mobile for alto saxophone and piano, 12 to 15 minutes, Suvini Zerboni (title spelled Capricares there) · https://brahms.ircam.fr/en/work/caprices-de-saxicare"
+  - "Duel de Capricares 1996, mobile for alto saxophone and piano, 12 to 15 minutes, Suvini Zerboni. · https://medias.ircam.fr/fr/work/duel-de-capricares"
+  - "Exact alto/piano duo on professional repertoire list. · https://www.giovanninardi.com/en/biography/"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat batch 10 follow-up, 2026-10-14
+
+IRCAM confirms Duel de Capricares (plural), 1996, alto/piano, 12 to 15 minutes. Professional use verified on Giovanni Nardi's repertoire list. CiNii reports five pages of French performance instructions and saxophone material reused from Caprices de Saxicare. No score or exact recording located; preserve title/instrument conflicts for Tim.
+
+[[Review 0149 - Henri Pousseur - Duel de Capricare|Full evidence and open questions]]
+
 
 - IRCAM Brahms catalogue lists 'Duel de Capricares', a mobile for alto saxophone and piano, 12 to 15 minutes, Suvini Zerboni (title spelled Capricares there) · [brahms.ircam.fr](https://brahms.ircam.fr/en/work/caprices-de-saxicare)
 

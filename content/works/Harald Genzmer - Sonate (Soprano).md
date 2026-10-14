@@ -16,9 +16,19 @@ added: 2024-03-10
 research:
   - "Publisher Ries & Erler, catalog RE24008 · https://www.grothmusic.com/p-144588.aspx"
   - "Described as a challenging choice for an experienced player · https://www.grothmusic.com/p-144588.aspx"
+  - "Edition RE24008, publisher, 34 pages, soprano saxophone or B-flat clarinet with piano; descriptive virtuosity commentary and conflicting contents. · https://www.grothmusic.com/p-144588-sonata-soprano-sax-or-clarinet-and-piano.aspx"
 aliases: []
+publisher:
+  - "Ries & Erler"
 ---
 ## Research notes (private)
+
+### Chat batch 10 follow-up, 2026-10-14
+
+The exact RE24008 soprano/piano edition is verified. Groth describes substantial writing for both players. Its prose says three movements while its contents lists four, so the earlier three-movement claim needs score confirmation. No notation or exact public saxophone recording was found.
+
+[[Review 0138 - Harald Genzmer - Sonate (Soprano)|Full evidence and open questions]]
+
 
 - Publisher Ries & Erler, catalog RE24008 · [grothmusic.com](https://www.grothmusic.com/p-144588.aspx)
 - Described as a challenging choice for an experienced player · [grothmusic.com](https://www.grothmusic.com/p-144588.aspx)

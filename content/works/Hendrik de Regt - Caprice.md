@@ -14,9 +14,21 @@ purchase:
 added: 2024-03-08
 research:
   - "Listed by Boosey & Hawkes as Digital Music Print DMP108046, alto saxophone and piano (from search snippet; page itself did not load) · https://boosey.com/shop/prod/Hendrik-de-Regt-Caprice/2454493"
+  - "Exact alto/piano edition, Digital Music Print and ISMN. · https://www.partitions-musicales.net/Vents/Saxophone/Caprice-nr.html"
+  - "Exact edition number, 2008 copyright, opening transposed notation and musical texture. · https://www.partitions-musicales.net/out/pictures/master/product/1/Art_653533_2.JPG"
+  - "Further runs, dynamics and meter changes in excerpt. · https://www.partitions-musicales.net/out/pictures/master/product/1/Art_653533_5.JPG"
 aliases: []
+publisher:
+  - "Digital Music Print"
 ---
 ## Research notes (private)
+
+### Chat batch 10 follow-up, 2026-10-14
+
+DMP108046 identity verified from actual score pages 3 and 6. Opening 3/8, written E-flat saxophone notation, chromatic runs, repeated-note figure, dynamic shaping and independent piano material are visible. 2008 is copyright only; no exact recording found.
+
+[[Review 0148 - Hendrik de Regt - Caprice|Full evidence and open questions]]
+
 
 - Listed by Boosey & Hawkes as Digital Music Print DMP108046, alto saxophone and piano (from search snippet; page itself did not load) · [boosey.com](https://boosey.com/shop/prod/Hendrik-de-Regt-Caprice/2454493)
 

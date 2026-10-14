@@ -15,9 +15,20 @@ purchase:
 added: 2024-03-08
 research:
   - "Publisher General, catalog no. GEN823 · https://www.grothmusic.com/p-37714.aspx"
+  - "General GEN823, Concerto for alto saxophone and piano, Farberman. · https://www.grothmusic.com/p-37714-concerto-alto-sax-and-piano.aspx"
+  - "Exact historical saxophone/string-orchestra recording; bluesy glissandos in Largo; work exists by March 1967. · https://www.worldradiohistory.com/Archive-All-Audio/Archive-High-Fidelity/60s/High-Fidelity-1967-03.pdf"
 aliases: []
+publisher:
+  - "General"
 ---
 ## Research notes (private)
+
+### Chat batch 10 follow-up, 2026-10-14
+
+GEN823 is freshly verified as Farberman's alto-and-piano Concerto. A 1967 review documents Harvey Estrin's string-orchestra recording and blues-inflected glissandos in the Largo. This supplies a concrete technique lead and establishes that 1984 is not the composition date. No score or public playback was inspected.
+
+[[Review 0141 - Harold Farberman - Concerto|Full evidence and open questions]]
+
 
 - Publisher General, catalog no. GEN823 · [grothmusic.com](https://www.grothmusic.com/p-37714.aspx)
 

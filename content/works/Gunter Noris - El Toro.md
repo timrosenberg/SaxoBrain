@@ -6,6 +6,8 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
+  - "Castanets"
+  - "Drum Set"
 composed: 
 year-of-study: 
 streaming: 
@@ -14,11 +16,20 @@ purchase:
 added: 2024-03-08
 research:
   - "Publisher Editions Marc Reift, catalog EMR2307E; optional castanets and drum set · https://www.grothmusic.com/p-147609.aspx"
+  - "Exact identity, 2/4 pasodoble at quarter=120, concert-pitch solo score, optional castanets/drum set and contrasting articulation. · https://files.reift.ch/files/scores/EMR2307E.pdf"
 publisher:
   - "Éditions Marc Reift"
 aliases: []
+multi-instruments: "Alto saxophone and piano, with optional castanets and drum set."
 ---
 ## Research notes (private)
+
+### Chat batch 10 follow-up, 2026-10-14
+
+El Toro: the official EMR2307E excerpt is readable and inspected. It confirms optional castanets/drum set, 2/4 pasodoble at quarter=120, repeated articulated eighths, then slurred triplets/chromatic figures. The solo line shown is concert pitch; full written alto range is still unknown.
+
+[[Review 0128 - Gunter Noris - El Toro|Full evidence and open questions]]
+
 
 - Publisher Editions Marc Reift, catalog EMR2307E; optional castanets and drum set · [grothmusic.com](https://www.grothmusic.com/p-147609.aspx)
 

@@ -15,9 +15,20 @@ added: 2024-03-08
 research:
   - "Publisher Alphonse Leduc, catalog no. AL21768 · https://www.grothmusic.com/p-148249.aspx"
   - "3 pages · https://www.grothmusic.com/p-148249.aspx"
+  - "Exact alto/piano AL21768 edition and three-page retailer count. · https://www.grothmusic.com/p-148249-elegie-alto-saxophone-and-piano.aspx"
+  - "Required school solo/ensemble circulation, ALTO SAX SOLO III, SG39054, LEDUC. · https://asboa.org/wp-content/uploads/2025/04/Solos-Updated-2025.pdf"
 aliases: []
+publisher:
+  - "Alphonse Leduc"
 ---
 ## Research notes (private)
+
+### Chat batch 10 follow-up, 2026-10-14
+
+AL21768 alto/piano edition verified. Arkansas's 2025 required list establishes school contest use under its own III category. 1957 is library publication dating only. No actual notation or exact public performance found; Wytko's Piece Concertante and Husa's Elegie et Rondeau are distinct.
+
+[[Review 0152 - Hermann Reutter - Elegie|Full evidence and open questions]]
+
 
 - Publisher Alphonse Leduc, catalog no. AL21768 · [grothmusic.com](https://www.grothmusic.com/p-148249.aspx)
 - 3 pages · [grothmusic.com](https://www.grothmusic.com/p-148249.aspx)

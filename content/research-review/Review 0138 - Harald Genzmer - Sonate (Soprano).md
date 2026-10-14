@@ -46,3 +46,17 @@ Catalog: [Harald Genzmer - Sonate (Soprano).md](/Users/trosenberg/Documents/GitH
 - Detailed range and articulation demands remain unknown.
 
 **Tim decision:** pending.
+
+## Chat batch 10 follow-up, 2026-10-14
+
+Groth's live exact-edition page verifies RE24008, Ries & Erler, 34 pages, and piano score with soprano saxophone or B-flat clarinet part. Clarinet is an alternative solo version, not an extra ensemble instrument. Groth's descriptive prose characterizes both solo and piano writing as more virtuosic and colorful than the earlier flute Sonata and recommends an experienced player. This is retailer/distributor commentary, not direct score analysis. Private movement-count conflict: Groth's description says three movements, while its contents explicitly lists I. Traquillo, II. Lento, III. Burlesque, IV. Finale. Do not present the prior three-movement claim as settled. A full score is needed to resolve the discrepancy. Stretta's indexed exact-edition record gives GeWV 246 (1982), RE24008 and ISMN 9790013240081. It gives edition release year 2002, which must not replace the composition year.
+
+Score observations: No public musical notation preview was located in the exact-edition Groth listing or publisher searches. Specific range, meters and articulation are unknown.
+
+Collection context: Original concert sonata with authorized alternative B-flat clarinet solo part. No youth simplification established.
+
+Open questions: Movement count is internally inconsistent in Groth's listing. No actual notation inspected or exact public saxophone recording verified. General virtuosic description does not establish specific register or technique requirements.
+
+Sources checked:
+- [Groth Music exact-edition product page](https://www.grothmusic.com/p-144588-sonata-soprano-sax-or-clarinet-and-piano.aspx): Edition RE24008, publisher, 34 pages, soprano saxophone or B-flat clarinet with piano; descriptive virtuosity commentary and conflicting contents. (opened)
+- [Stretta exact-edition catalog](https://www.stretta-music.cz/genzmer-sonate-sopran-sax-in-b-und-klavier-gewv-246-1982-nr-555944.html): GeWV 246 (1982), RE24008 and ISMN. (search_index_only)

@@ -14,9 +14,21 @@ purchase:
 added: 2024-03-08
 research:
   - "Publisher Shawnee Press, catalog no. 35002765 · https://www.grothmusic.com/p-37709.aspx"
+  - "Canto by Harry Gee, alto/piano, Shawnee Press 35002765, four pages. · https://www.grothmusic.com/p-37709-canto-alto-sax-and-piano.aspx"
+  - "Gee Canto, order 1260 under Alto Saxophone and Piano. · https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf"
+  - "LA0251 Canto is a flute edition, not the assigned saxophone edition. · https://www.stantons.com/sheet-music/title/canto/LA0251/"
 aliases: []
+publisher:
+  - "Shawnee Press"
 ---
 ## Research notes (private)
+
+### Chat batch 10 follow-up, 2026-10-14
+
+The exact four-page Shawnee 35002765 alto/piano edition is verified. Dorn also catalogs Gee's Canto as order 1260, but the editions have not been compared. No musical claims can be supported from notation or audio yet. The Stanton listing is for flute and was excluded.
+
+[[Review 0143 - Harry Gee - Canto|Full evidence and open questions]]
+
 
 - Publisher Shawnee Press, catalog no. 35002765 · [grothmusic.com](https://www.grothmusic.com/p-37709.aspx)
 

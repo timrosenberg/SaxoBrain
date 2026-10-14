@@ -14,9 +14,20 @@ purchase:
 added: 2024-03-08
 research:
   - "Publisher Dorn Publications, catalog no. DORN1759 · https://www.grothmusic.com/p-156785.aspx"
+  - "Exact composer, title, alto/piano instrumentation and included score/part, DORN1759. · https://www.grothmusic.com/p-156785-intrada-alto-saxophone-and-piano.aspx"
+  - "Intrada manuscript photocopy held in American Music Center collection box 1272. · https://nyplorg-data-archives.s3.amazonaws.com/uploads/collection/generated_finding_aids/mus24605.pdf"
 aliases: []
+publisher:
+  - "Dorn Publications"
 ---
 ## Research notes (private)
+
+### Chat batch 10 follow-up, 2026-10-14
+
+Dorn DORN1759 verified for alto saxophone and piano. NYPL has a manuscript photocopy in its American Music Center collection. No public notation or exact recording was verified, so musical demands remain unknown.
+
+[[Review 0145 - Harry Gee - Intrada|Full evidence and open questions]]
+
 
 - Publisher Dorn Publications, catalog no. DORN1759 · [grothmusic.com](https://www.grothmusic.com/p-156785.aspx)
 

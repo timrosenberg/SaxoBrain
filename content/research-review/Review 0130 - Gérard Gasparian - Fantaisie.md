@@ -49,3 +49,20 @@ Catalog: [Gérard Gasparian - Fantaisie.md](/Users/trosenberg/Documents/GitHub/S
 - {'field': 'instruments', 'current': ['Soprano Saxophone'], 'suggested': ['Soprano Saxophone', 'Piano'], 'reason': 'Combre catalog and French Federation syllabus identify the C05757 Fantaisie as a soprano saxophone work with piano accompaniment.', 'evidence_urls': ['https://www.henry-lemoine.com/assets/pdf/CATASAX.pdf', 'https://www.federation-ffea.fr/medias/download/ffea_2022_saxophone-soprano-et-tenor.pdf']}
 
 **Tim decision:** pending.
+
+## Chat batch 10 follow-up, 2026-10-14
+
+The composer’s live works page dates Fantaisie for soprano saxophone and piano to 1994. It names Combre, a separate oboe-and-piano version, premiere at Musicora in 1996 by the Portejoie-Lagarde Duo, and a Vérany recording by that duo. The official Combre/Lemoine saxophone catalog identifies C05757 as soprano saxophone and piano. Live Groth HTML independently confirms the piano score and soprano part, so Piano is a confirmed ensemble addition to the current instrument field. Fédération Française de l’Enseignement Artistique’s 2022 repertoire places C05757 under Cycle III CEM for soprano saxophone. The CMF archive also lists it in 1997 end-of-third-cycle B-flat repertoire; that historical B-flat listing alone is not enough to add tenor as a publisher-authorized instrument. Apple Music Classical confirms the exact Fantaisie pour saxo soprano & piano recording on Dédicaces, duration 7:10. Album personnel include additional players for other tracks; the composer identifies the relevant duo. Retail results titled Fantaisie pour saxophone can refer to the oboe transcription C05849. Its grade or notation must not be transferred to the target C05757.
+
+Collection context: Explicit French music-school/examination context verified. No explicit young-player simplification established. Professional duo premiere and recording documented by composer.
+
+Open questions: No readable score pages inspected. Official catalog PDF unavailable in web client; SMP preview blocked. Complete public recording metadata verified; playback has not been auditioned. Exact written soprano range, technique and piano coordination remain score-dependent.
+
+Sources checked:
+- [Gérard Gasparian official compositions page, live HTML](https://www.gerard-gasparian.com/works.php): 1994 composition, soprano saxophone and piano, Combre; separate oboe version; 1996 Musicora premiere and duo recording. (opened)
+- [Henry Lemoine/Combre official saxophone catalog](https://www.henry-lemoine.com/assets/pdf/CATASAX.pdf): C05757 is soprano saxophone and piano. (search_index_only)
+- [Groth Music live product HTML](https://www.grothmusic.com/p-144586.aspx): Includes piano score and soprano part, C05757. (opened)
+- [Fédération Française de l’Enseignement Artistique 2022 syllabus](https://www.federation-ffea.fr/medias/download/ffea_2022_saxophone-soprano-et-tenor.pdf): Cycle III CEM soprano institutional repertoire. (opened)
+- [Apple Music Classical](https://classical.music.apple.com/ca/album/406863471): Exact track title, composer, album and 7:10 duration. (opened)
+- [YouTube official Believe SAS/Arion Topic track metadata via yt-dlp](https://www.youtube.com/watch?v=NNDHgAdYEkI): Exact full 7:10 Fantaisie recording, composer Gasparian, duo personnel, public availability. (opened)
+- [Apple Music public lookup API, ID 406863471 with entity=song](https://music.apple.com/ca/album/fantaisie-pour-saxo-soprano-piano/406863471?i=406863520&uo=4): Exact Apple track identity and430124ms duration. (opened)

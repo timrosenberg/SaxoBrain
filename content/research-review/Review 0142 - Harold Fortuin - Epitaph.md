@@ -5,7 +5,7 @@ review-id: 142
 review-packet: 6
 review-decision: Pending
 review-applied: false
-notation-inspected: false
+notation-inspected: true
 catalog-entry: "[[Harold Fortuin - Epitaph]]"
 build:
   render: never
@@ -46,3 +46,18 @@ Catalog: [Harold Fortuin - Epitaph.md](/Users/trosenberg/Documents/GitHub/SaxoBr
 - Composer-linked MP3 was not played or auditioned.
 
 **Tim decision:** pending.
+
+## Chat batch 10 follow-up, 2026-10-14
+
+The composer's archived work table explicitly lists Epitaph for alto saxophone and piano (1991), duration 6:04, with links to a notation excerpt and MP3 excerpt. Groth's current edition listing verifies DORN0164, piano score and alto part, 20 pages, Christopher Creviston's commission, and premiere with pianist Karen Koch on March 21, 1991 at the Society of Composers Region V conference in Carbondale. The archive home page links ExptEpitaph.mp3, while the work table links EpitaphExcerpt.mp3. These are excerpt links and their current playback has not been established.
+
+Score observations: Visually inspected and magnified the composer's Epitaph Excerpt image, measures 80–83, headed Epitaph Excerpt. It contains one treble solo staff over a three-staff piano texture. Instrument labels and transposition statement are absent on this internal page, so its pitches cannot safely be classified as written saxophone or concert pitch. The displayed passage changes between 5/4 and 6/4 and contains dense chromatic thirty-second-note figures under small slurs, substantial ledger-line upper-register writing, short rests and abrupt p/f contrasts. These require fluent accidentals, coordinated fingers and subdivision through changing bar lengths. The piano sustains wide-register tones, uses octave displacement notation and repeated pedal changes beneath moving bass intervals and regular attacks. Balancing the rapid quiet solo figures against this sustained texture is a concrete ensemble issue visible in the sample. The excerpt supplies no tempo marking, opening context, fingering instructions or full-work range. No multiphonics or microtones were established from this sample.
+
+Collection context: Original commissioned concert chamber work. No youth simplification or teaching arrangement established.
+
+Open questions: Only measures 80–83 inspected; tempo and transposition policy absent. Exact public audio excerpt links are identified but their playback and performers remain unverified. Leave streaming empty. Full-range demands and any techniques outside the excerpt remain unknown.
+
+Sources checked:
+- [Harold Fortuin archived composer work catalog](https://www.oocities.org/harold_fortuin/HFCompos.html): 1991, alto saxophone and piano, duration 6:04, exact notation/audio excerpt links. (opened)
+- [Harold Fortuin composer-linked score excerpt](https://www.oocities.org/harold_fortuin/EpitaphExcerpt.JPG?t): Changing 5/4 and 6/4, chromatic thirty-second-note figures, upper-register writing, dynamic contrasts and piano texture. (score_inspected)
+- [Groth Music, Dorn exact-edition listing](https://www.grothmusic.com/p-142335-epitaph-alto-saxophone-and-piano.aspx): DORN0164, 20 pages, commission and premiere details. (opened)

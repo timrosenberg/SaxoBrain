@@ -42,3 +42,18 @@ Catalog: [Harold Farberman - Concerto.md](/Users/trosenberg/Documents/GitHub/Sax
 - No score, recording, movement structure or duration verified.
 
 **Tim decision:** pending.
+
+## Chat batch 10 follow-up, 2026-10-14
+
+Groth's live exact-edition listing independently verifies Harold Farberman, Concerto for alto saxophone and piano, publisher label General, catalog GEN823. The prior edition identity is now verified rather than merely inferred from indexed metadata. Steven Lowe's contemporary review in High Fidelity, March 1967, printed p.80, identifies a recording of Concerto for Alto Saxophone and String Orchestra by Harvey Estrin and the Stuttgart Philharmonia conducted by Farberman. The concerto's Largo includes blues-inflected glissandos, a specific performance technique reported by the reviewer. This historical recording proves the work predates the 1984 copyright recordation found in the prior review. Do not use 1984 as composition year. Baker's Biographical Dictionary, reproduced in indexed Encyclopedia.com text, dates the alto-and-strings concerto to 1965. This remains a secondary indexed lead here; leave composed empty until the original score or an opened authoritative catalog corroborates it. The GEN823 reduction has not been matched to the orchestral score by plate/incipit. Concertos for jazz drummer, cello and other works conducted by Farberman are distinct and were excluded.
+
+Score observations: No actual musical notation was found for GEN823. The glissando observation derives from a contemporary recording review, not direct notation inspection or audition.
+
+Collection context: Original concerto with an orchestral performance history and piano edition. No youth simplification or pedagogical arrangement established.
+
+Open questions: No notation inspected or unrestricted exact public recording located. GEN823 reduction-to-orchestral-score identity lacks plate or incipit corroboration. Composition year remains an indexed 1965 lead; duration, complete structure and solo range remain unknown.
+
+Sources checked:
+- [Groth Music exact-edition listing](https://www.grothmusic.com/p-37714-concerto-alto-sax-and-piano.aspx): General GEN823, Concerto for alto saxophone and piano, Farberman. (opened)
+- [Steven Lowe, High Fidelity March 1967](https://www.worldradiohistory.com/Archive-All-Audio/Archive-High-Fidelity/60s/High-Fidelity-1967-03.pdf): Exact historical saxophone/string-orchestra recording; bluesy glissandos in Largo; work exists by March 1967. (opened)
+- [Baker's Biographical Dictionary of Musicians via Encyclopedia.com](https://www.encyclopedia.com/arts/dictionaries-thesauruses-pictures-and-press-releases/farberman-harold): Indexed secondary composition-year lead 1965, alto saxophone and strings. (search_index_only)

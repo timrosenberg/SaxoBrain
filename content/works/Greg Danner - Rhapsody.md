@@ -14,9 +14,19 @@ purchase:
 added: 2024-03-08
 research:
   - "Publisher Avanti Music, catalog AV3613; dedicated to Phil Barham · https://www.grothmusic.com/p-143302.aspx"
+  - "Avanti AV3613, for Phil Barham, alto saxophone and piano, 28 pages. · https://www.grothmusic.com/p-143302.aspx"
 aliases: []
+publisher:
+  - "Avanti Music"
 ---
 ## Research notes (private)
+
+### Chat batch 10 follow-up, 2026-10-14
+
+Danner Rhapsody: exact AV3613 identity is now verified in the live retailer page, including 28 pages and Phil Barham dedication. No saxophone score or recording was found. The common Bryan Crisp excerpt is a trumpet lead and is excluded.
+
+[[Review 0125 - Greg Danner - Rhapsody|Full evidence and open questions]]
+
 
 - Publisher Avanti Music, catalog AV3613; dedicated to Phil Barham · [grothmusic.com](https://www.grothmusic.com/p-143302.aspx)
 

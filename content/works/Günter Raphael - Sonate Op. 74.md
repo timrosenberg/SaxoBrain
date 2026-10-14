@@ -6,19 +6,33 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
+composed: 1957
 year-of-study: 
-streaming: 
+streaming: "https://www.youtube.com/watch?v=gbiil0_2_Sw"
 purchase:
   - https://www.grothmusic.com/p-146416.aspx
 added: 2024-03-08
 research:
   - "Publisher Edition Tonger, catalog PJT2049; listed as Sonata for Alto Saxophone and Piano Op. 74a · https://www.grothmusic.com/p-146416.aspx"
+  - "Alto saxophone/piano Sonate 1957, Tonger; separate cello Divertimento Op. 74 (1952). · https://www.guenter-raphael.de/seiten/werkverzeichnis.html"
+  - "Op. 74a 1957, three movements, Manz dedication and in memoriam; expressive contrast in performer notes. · https://www.eda-records.com/index.php?article_id=177&cd_id=68"
+  - "Exact public complete first movement, 3:42, Raphael composer; Lunte and Blome, Naxos/EDA, Tonger. · https://www.youtube.com/watch?v=gbiil0_2_Sw"
+  - "Exact public complete second movement 4:25. · https://www.youtube.com/watch?v=GfZS47BlJpg"
+  - "Exact public complete third movement 4:23. · https://www.youtube.com/watch?v=t-047p5-lGI"
 publisher:
   - "Tonger"
 aliases: []
 ---
+The listening link plays the complete first movement, Con moto. Continue with [II. Vivace](https://www.youtube.com/watch?v=GfZS47BlJpg) and [III. Allegro molto energico](https://www.youtube.com/watch?v=t-047p5-lGI).
+
 ## Research notes (private)
+
+### Chat batch 10 follow-up, 2026-10-14
+
+Raphael Sonata: estate confirms 1957, and label confirms Op. 74a in memoriam Emil Manz. All three public Naxos/EDA movements verified, total 12:30. Existing title Op.74 is incomplete and risks confusion with cello Divertimento. No notation inspected.
+
+[[Review 0133 - Günter Raphael - Sonate Op. 74|Full evidence and open questions]]
+
 
 - Publisher Edition Tonger, catalog PJT2049; listed as Sonata for Alto Saxophone and Piano Op. 74a · [grothmusic.com](https://www.grothmusic.com/p-146416.aspx)
 

@@ -46,3 +46,18 @@ Catalog: [Harald Genzmer - Sonate (Alto).md](/Users/trosenberg/Documents/GitHub/
 - Detailed range and articulation demands remain unknown.
 
 **Tim decision:** pending.
+
+## Chat batch 10 follow-up, 2026-10-14
+
+The Harald Genzmer Foundation's work list verifies the alto-saxophone/piano Sonata, GeWV 249 (1984). Groth's live browser page independently confirms RE24010 and publisher Ries & Erler. Günter Priesner's contemporary review in Tibia 4/1986, printed p.306, gives specific musical evidence: first movement uses sonata form, characteristic seventh leaps and chord progressions, and flageolet playing up to written g''' (altissimo G). The Largo is a saxophone cantilena with the piano largely accompanying and includes the same high G. The finale's prominent 7/8 theme requires rhythmic precision and instrumental command, particularly in virtuosic runs. The review describes a traditional/neoclassical idiom. Its evaluation is commentary by a reviewer who examined the printed edition, not a direct score inspection in this session. The review cites old plate R.11347 E and publication in 1985. Current retail catalog uses RE24010. Composition year remains 1984.
+
+Score observations: No musical notation preview was found for RE24010. The publicly inspected Tibia page is a prose review, so notation_inspected remains false.
+
+Collection context: Original concert sonata. No youth simplification or teaching arrangement established.
+
+Open questions: No actual score notation was inspected. Register and technical claims are attributed to Priesner's review. No verified public exact alto-saxophone/piano recording located. Solo-saxophone sonata and other instrumental sonatas are separate works.
+
+Sources checked:
+- [Harald Genzmer Foundation work list](https://genzmer-stiftung.schott-campus.com/werke/): Composition year 1984 and GeWV 249, alto saxophone and piano. (opened)
+- [Groth Music exact-edition catalog](https://www.grothmusic.com/p-37738-sonata-alto-sax-and-piano.aspx): Current RE24010 edition, alto saxophone and piano, Ries & Erler. (opened)
+- [Günter Priesner, Tibia 4/1986, published by Moeck](https://www.moeck.com/fileadmin/Assets/Tibia/1986-4.pdf): Seventh leaps, sonata-form first movement, altissimo G, Largo cantilena, finale 7/8 and virtuosic runs. (opened)

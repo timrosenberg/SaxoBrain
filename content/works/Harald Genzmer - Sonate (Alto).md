@@ -14,11 +14,21 @@ purchase:
 added: 2024-03-08
 research:
   - "Publisher Ries & Erler, catalog RE24010 · https://www.grothmusic.com/p-37738.aspx"
+  - "Composition year 1984 and GeWV 249, alto saxophone and piano. · https://genzmer-stiftung.schott-campus.com/werke/"
+  - "Current RE24010 edition, alto saxophone and piano, Ries & Erler. · https://www.grothmusic.com/p-37738-sonata-alto-sax-and-piano.aspx"
+  - "Seventh leaps, sonata-form first movement, altissimo G, Largo cantilena, finale 7/8 and virtuosic runs. · https://www.moeck.com/fileadmin/Assets/Tibia/1986-4.pdf"
 publisher:
   - "Ries & Erler"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat batch 10 follow-up, 2026-10-14
+
+Genzmer's 1984 alto Sonata now has useful score-review evidence: seventh leaps, written altissimo G in the first movement and Largo, and a 7/8 finale with virtuosic runs. A contemporary Tibia reviewer supplies these observations. The actual notation remains unavailable for inspection.
+
+[[Review 0137 - Harald Genzmer - Sonate (Alto)|Full evidence and open questions]]
+
 
 - Publisher Ries & Erler, catalog RE24010 · [grothmusic.com](https://www.grothmusic.com/p-37738.aspx)
 

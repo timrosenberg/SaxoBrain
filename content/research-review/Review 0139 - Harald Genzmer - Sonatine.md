@@ -5,7 +5,7 @@ review-id: 139
 review-packet: 6
 review-decision: Pending
 review-applied: false
-notation-inspected: false
+notation-inspected: true
 catalog-entry: "[[Harald Genzmer - Sonatine]]"
 build:
   render: never
@@ -46,3 +46,18 @@ Catalog: [Harald Genzmer - Sonatine.md](/Users/trosenberg/Documents/GitHub/SaxoB
 - Detailed range and articulation demands remain unknown.
 
 **Tim decision:** pending.
+
+## Chat batch 10 follow-up, 2026-10-14
+
+Groth's current exact-edition product page verifies Ries & Erler RE24009, 31 pages, piano score and alto saxophone part, and movements Allegro, Andante tranquillo and Vivace. The title and ISMN are visible on the publisher notation sample reproduced by Groth. Stretta's live browser-opened exact edition identifies GeWV 247 (1982); its edition release year 2002 is distinct from composition year.
+
+Score observations: Visually inspected the first piano-score page, movement I, bars 1 through approximately 12. Title specifies E-flat alto saxophone and piano. Copyright 1987 is printed on the sample; it is not a composition date. Opening is Allegro moderato, quarter note approximately 160, in 3/4. Saxophone rests through the four-bar piano introduction. The piano alternates flowing slurred running figures with brief detached figures, so the solo entrance must fit an established accompaniment pulse. The solo entry begins with a sustained, accented/slurred note at mp and a swell. The following visible saxophone phrases combine quarter/eighth values, rests, triplets, short running groups, chromatic accidentals and contrasting p/mf dynamics. Tone shaping, chromatic reading and coordination are visible demands. This is a three-staff saxophone/piano score, not an original for another instrument. The sample does not explicitly declare concert pitch. No absolute range conclusion is drawn from this partial score page, and movements II and III were not inspected.
+
+Collection context: Original alto-and-piano concert work. No simplified teaching arrangement established.
+
+Open questions: Only the opening page was inspected; total register and later-movement demands remain unknown. No exact alto-and-piano public recording located. The widely indexed Sonatine for soprano and alto saxophones, GeWV 296, is a different work and was excluded.
+
+Sources checked:
+- [Groth Music exact-edition product page](https://www.grothmusic.com/p-144590-sonatine-alto-saxophone-and-piano.aspx): Edition, instrumentation, page count and three movement titles. (opened)
+- [Ries & Erler printed score sample via Groth](https://www.grothmusic.com/images/product/large/1071-RE24009_2_.jpg): Opening tempo, meter, solo entry, chromatic figures and dynamics; publisher imprint and ISMN. (score_inspected)
+- [Stretta exact-edition catalog](https://www.stretta-music.cz/genzmer-sonatine-alt-saxophon-in-es-und-klavier-gewv-247-1982-nr-105881.html): GeWV 247 (1982), RE24009 and ISMN. (opened)

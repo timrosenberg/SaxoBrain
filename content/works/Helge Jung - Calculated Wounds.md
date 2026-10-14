@@ -6,7 +6,9 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
+  - "Tenor Saxophone"
+  - "Baritone Saxophone"
+composed: 1988
 year-of-study: 
 streaming: 
 purchase:
@@ -15,9 +17,23 @@ added: 2024-03-08
 research:
   - "Publisher Hofmeister, catalog no. FH2407 · https://www.grothmusic.com/p-143808.aspx"
   - "69 pages; saxophonist switches between saxophones; pianist also needs a wooden stick and an iron chain · https://www.grothmusic.com/p-143808.aspx"
+  - "Alto/tenor/baritone doubling, wooden stick and iron chain, 69 pages, FH2407. · https://www.grothmusic.com/p-143808-calculated-wounds-altotenorbaritone-saxophone-and-piano.aspx"
+  - "1988/revised 1995 date and opening timed notation, string-playing and dynamics. · https://grothmusic.com/images/product/large/ae00-125551_2_.jpg"
+  - "Hofmeister classification 5 and FH2407. · https://www.hofmeister-musikverlag.com/wp-content/uploads/2023/02/katalog2019_2020_website.pdf"
+  - "1988 basset-horn original and 1995 saxophone revision. · https://www.deutsche-klarinetten-gesellschaft.de/media/musik-katalog_fuer_bassetthorn_und_bassettklarinette_32023.pdf"
 aliases: []
+publisher:
+  - "Friedrich Hofmeister Musikverlag"
+multi-instruments: "One saxophonist changes among alto, tenor and baritone saxophones; pianist also uses wooden stick and iron chain."
 ---
 ## Research notes (private)
+
+### Chat batch 10 follow-up, 2026-10-14
+
+Actual Part I notation verified: 1988/rev. 1995, timed seconds, broad dynamics and piano-string playing. Alto/tenor/baritone doubling and wooden stick/iron chain now verified in the retailer. Add tenor and baritone tags; instrument sequence, total range and recording remain unknown.
+
+[[Review 0147 - Helge Jung - Calculated Wounds|Full evidence and open questions]]
+
 
 - Publisher Hofmeister, catalog no. FH2407 · [grothmusic.com](https://www.grothmusic.com/p-143808.aspx)
 - 69 pages; saxophonist switches between saxophones; pianist also needs a wooden stick and an iron chain · [grothmusic.com](https://www.grothmusic.com/p-143808.aspx)

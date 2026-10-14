@@ -36,3 +36,14 @@ Searches checked:
 - "AV3613" saxophone Danner: No exact publisher or score record located.
 - "Phil Barham" "Rhapsody" Danner: Search results included an unrelated Rhapsody for other instruments; excluded as a match.
 - Greg Danner composer Rhapsody alto sax piano publisher: No exact target publisher, library, score, or performance source verified.
+
+## Chat batch 10 follow-up, 2026-10-14
+
+The live Groth product page confirms Avanti AV3613, alto saxophone and piano, dedication to Phil Barham, and a 28-page piano score plus solo alto part. Danner also has distinct Rhapsody works for trumpet and trombone. Bryan Crisp’s public audio page names a Rhapsody written for him in a trumpet context, so its excerpt does not verify AV3613. No work-specific musical structure, range, or performance practice could be established for this saxophone edition.
+
+Collection context: No explicit young-player simplification or teaching audience verified. Intended audience remains unknown.
+
+Open questions: No readable notation located. The product page’s sample section is empty. No exact public saxophone recording found in title, composer, catalog-code, and dedicatee searches. Composition year and duration remain unknown.
+
+Sources checked:
+- [Groth Music live product HTML](https://www.grothmusic.com/p-143302.aspx): Avanti AV3613, for Phil Barham, alto saxophone and piano, 28 pages. (opened)

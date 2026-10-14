@@ -14,9 +14,22 @@ purchase:
 added: 2024-03-08
 research:
   - "Publisher Billaudot, catalog GB6014 · https://www.grothmusic.com/p-147507.aspx"
+  - "Exact piano reduction GB6014, 48 pages, Daniel Gremelle collection, Difficult (cycle 3), 1996 copyright. · https://www.billaudot.com/ballade-pour-georges-reduction-saxophone-alto-mib-et-piano.html"
+  - "1997 end-of-third-cycle CMF repertoire entry specifies cut from 8 to 20. · https://www.cmf-musique.org/wp-content/uploads/2024/10/Annales-Bois.pdf"
 aliases: []
+publisher:
+  - "Éditions Billaudot"
+arranger-edition:
+  - "Piano reduction, Billaudot GB6014"
 ---
 ## Research notes (private)
+
+### Chat batch 10 follow-up, 2026-10-14
+
+Ballade pour Georges: exact GB6014 piano reduction now verified by Billaudot, 48 pages, Daniel Gremelle collection, Difficult (cycle 3). CMF documents a cut version in its 1997 end-of-third-cycle list. No notation or exact recording verified; 1994 remains provisional.
+
+[[Review 0129 - Guy Lacour - Ballade pour Georges|Full evidence and open questions]]
+
 
 - Publisher Billaudot, catalog GB6014 · [grothmusic.com](https://www.grothmusic.com/p-147507.aspx)
 

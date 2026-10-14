@@ -6,18 +6,35 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
+composed: 1968
 year-of-study: 
-streaming: 
+streaming: "https://www.youtube.com/watch?v=vzud9ozcHFI"
 purchase:
-  - https://www.grothmusic.com/p-34062.aspx
+  - "https://www.grothmusic.com/p-34062.aspx"
+  - "Schott ED5893 printed score or paid PDF · https://schottmusiclondon.com/piece-concertante-noc36087.html"
 added: 2024-03-08
 research:
   - "Publisher Schott, catalog no. ED5893 · https://www.grothmusic.com/p-34062.aspx"
   - "20 pages · https://www.grothmusic.com/p-34062.aspx"
+  - "1968 composition, alto saxophone and piano, 11 minutes, 20 pages, three sections and Schott ED5893. · https://schottmusiclondon.com/piece-concertante-noc36087.html"
+  - "Rhythmic motive development, fugue, hemiola and changing 5/8 and 6/8 meters are described by the performers. Recording features Frank Lunte and Tatjana Blome. · https://www.eda-records.com/index.php?article_id=177&cd_id=68"
+  - "Exact Reutter movement, Lunte/Blome performers and public availability. · https://www.youtube.com/watch?v=vzud9ozcHFI"
+  - "Exact Reutter movement, Lunte/Blome performers and public availability. · https://www.youtube.com/watch?v=dVHziH_hNHQ"
+  - "Exact Reutter movement, Lunte/Blome performers and public availability. · https://www.youtube.com/watch?v=5zIFokcQGC4"
 aliases: []
+publisher:
+  - "Schott Music"
 ---
+The embedded recording plays I. Exposition only (4:56). Listen also to [II. Berceuse](https://www.youtube.com/watch?v=5zIFokcQGC4) and [III. Combination](https://www.youtube.com/watch?v=dVHziH_hNHQ), performed by Frank Lunte and Tatjana Blome.
+
 ## Research notes (private)
+
+### Chat batch 10 follow-up, 2026-10-14
+
+A substantial original with recurring rhythmic motives, fugue and hemiola in the outer sections. The lyrical Berceuse changes between 5/8 and 6/8. These details come from performer notes; notation was unavailable. Three exact Lunte/Blome recordings are linked.
+
+[[Review 0153 - Hermann Reutter - Piece Concertante|Full evidence and open questions]]
+
 
 - Publisher Schott, catalog no. ED5893 · [grothmusic.com](https://www.grothmusic.com/p-34062.aspx)
 - 20 pages · [grothmusic.com](https://www.grothmusic.com/p-34062.aspx)

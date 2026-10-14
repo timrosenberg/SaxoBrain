@@ -16,11 +16,21 @@ research:
   - "Publisher Dorn Publications, catalog no. DORN0164 · https://www.grothmusic.com/p-142335.aspx"
   - "Commissioned by Christopher Creviston · https://www.grothmusic.com/p-142335.aspx"
   - "Premiered by Christopher Creviston and pianist Karen Koch on March 21, 1991, at the Society of Composers Region V Conference, Southern Illinois University at Carbondale · https://www.grothmusic.com/p-142335.aspx"
+  - "1991, alto saxophone and piano, duration 6:04, exact notation/audio excerpt links. · https://www.oocities.org/harold_fortuin/HFCompos.html"
+  - "Changing 5/4 and 6/4, chromatic thirty-second-note figures, upper-register writing, dynamic contrasts and piano texture. · https://www.oocities.org/harold_fortuin/EpitaphExcerpt.JPG?t"
+  - "DORN0164, 20 pages, commission and premiere details. · https://www.grothmusic.com/p-142335-epitaph-alto-saxophone-and-piano.aspx"
 publisher:
   - "Dorn Publications"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat batch 10 follow-up, 2026-10-14
+
+The composer provides a score excerpt and a 6:04 duration. Measures 80–83 show changing 5/4 and 6/4, rapid chromatic thirty-second notes, upper-register writing and p/f contrasts above sustained piano textures. These are direct notation observations from an internal excerpt. Its transposition and tempo are not stated, and audio remains unverified.
+
+[[Review 0142 - Harold Fortuin - Epitaph|Full evidence and open questions]]
+
 
 - Publisher Dorn Publications, catalog no. DORN0164 · [grothmusic.com](https://www.grothmusic.com/p-142335.aspx)
 - Commissioned by Christopher Creviston · [grothmusic.com](https://www.grothmusic.com/p-142335.aspx)

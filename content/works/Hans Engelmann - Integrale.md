@@ -6,7 +6,7 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
+composed: 1954
 year-of-study: 
 streaming: 
 purchase:
@@ -14,9 +14,20 @@ purchase:
 added: 2024-03-08
 research:
   - "Publisher Simrock, catalog AS288; listed as Integrale Op. 14a, composer Hans Ulrich Engelmann · https://www.grothmusic.com/p-143406.aspx"
+  - "Seven-minute alto-and-piano work; asymmetrical changing meters in movement 2; no extended saxophone techniques; dedication and publication details. · https://fileserver-az.core.ac.uk/download/490623034.pdf"
+  - "Composition year 1954 and documented 1987 saxophone/piano performance. · https://internationales-musikinstitut.de/de/chronik/amsterdam-1987/"
 aliases: []
+publisher:
+  - "Ahn & Simrock"
 ---
 ## Research notes (private)
+
+### Chat batch 10 follow-up, 2026-10-14
+
+Intégrale offers concrete work-specific evidence: about 7 minutes, no extended saxophone techniques according to DeLouis, and changing asymmetrical meters in movement 2. This is an original alto-and-piano concert work. No notation was inspected, and the identified archive audio is restricted.
+
+[[Review 0135 - Hans Engelmann - Integrale|Full evidence and open questions]]
+
 
 - Publisher Simrock, catalog AS288; listed as Integrale Op. 14a, composer Hans Ulrich Engelmann · [grothmusic.com](https://www.grothmusic.com/p-143406.aspx)
 

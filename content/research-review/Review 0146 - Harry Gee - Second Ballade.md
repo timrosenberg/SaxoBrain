@@ -41,3 +41,16 @@ Catalog: [Harry Gee - Second Ballade.md](/Users/trosenberg/Documents/GitHub/Saxo
 - No current college programming or verified performance link found.
 
 **Tim decision:** pending.
+
+## Chat batch 10 follow-up, 2026-10-14
+
+The exact alto-saxophone/piano edition has an opened June Emerson purchase listing naming Kendor Music. Its retailer skill label is C; the label definition was not established. The Pennsylvania Music Educators Association selective solo list places Second Ballade by Gee among its Alto Saxophone Solo, Level Four repertoire. This is external contest classification, not a SaxoBrain recommendation. New York Public Library holds a flute/piano Second Ballade by Gee. That separate version does not add flute to the saxophone ensemble or establish a saxophone recording. The previous Maryland lead gives c. 1980, 2:40 and Grade 4, but the current page was blank in the browser. Those older details could not be freshly confirmed and are not used to fill composition year.
+
+Collection context: Documented school solo/ensemble contest use. This is meaningful teaching context for Tim's college/professional collection review. No explicit simplification or youth dedication was established.
+
+Open questions: Public notation and an exact saxophone performance were not located. Maryland's previously cited duration/date/grade could not be freshly verified. Full range, phrase demands and accompaniment demands remain unknown.
+
+Sources checked:
+- [June Emerson Wind Music](https://www.juneemersonwindmusic.com/SECOND-BALLADE.html): Alto saxophone/piano edition; Kendor Music; retailer skill label C and purchase source. (opened)
+- [Pennsylvania Music Educators Association selective music list](https://www.pmea.net/wp-content/uploads/2014/06/sax.pdf): Second Ballade by Gee on Alto Saxophone Solo, Level Four list. (opened)
+- [New York Public Library American Music Center collection](https://nyplorg-data-archives.s3.amazonaws.com/uploads/collection/generated_finding_aids/mus24605.pdf): Separate flute/piano Second Ballade in box 1272. (opened)

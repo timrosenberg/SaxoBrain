@@ -6,6 +6,7 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
+  - "Soprano Saxophone"
 composed: 
 year-of-study: 
 streaming: 
@@ -15,10 +16,23 @@ added: 2024-03-08
 research:
   - "Publisher Dorn Publications, catalog no. DORN0188 · https://www.grothmusic.com/p-140129.aspx"
   - "Listed as \"Andando and Brillante\"; dedicated \"To Dale Underwood and the U.S. Navy Band\" · https://www.grothmusic.com/p-140129.aspx"
+  - "DORN0188, alternate soprano part, alto/piano edition, dedication and 24-page extent. · https://www.grothmusic.com/p-140129-andando-and-brillante-alto-sax-and-piano.aspx"
+  - "Andando and Brillante score heading and observed opening musical demands. · https://www.grothmusic.com/images/product/large/ae00-121730_2_.jpg"
+  - "Dorn order 188, Alto Saxophone and Piano catalog entry. · https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf"
 aliases:
   - /works/harley-rex-andano-brillante/
+publisher:
+  - "Dorn Publications"
+multi-instruments: "Alternate alto or soprano solo parts, with piano; not simultaneous doubling."
 ---
 ## Research notes (private)
+
+### Chat batch 10 follow-up, 2026-10-14
+
+A score preview supports assessment of the Andante opening: 4/4, an exposed p entrance, slurred phrases, triplets, upper-register writing and dynamic contrast. The Brillante section remains unseen. DORN0188 includes an alternate soprano part, so soprano should be added to the catalog's available instruments.
+
+[[Review 0140 - Harley Rex - Andando and Brillante|Full evidence and open questions]]
+
 
 - Publisher Dorn Publications, catalog no. DORN0188 · [grothmusic.com](https://www.grothmusic.com/p-140129.aspx)
 - Listed as "Andando and Brillante"; dedicated "To Dale Underwood and the U.S. Navy Band" · [grothmusic.com](https://www.grothmusic.com/p-140129.aspx)

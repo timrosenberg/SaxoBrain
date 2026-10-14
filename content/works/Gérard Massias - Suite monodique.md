@@ -8,18 +8,30 @@ instruments:
   - "Unaccompanied"
 composed: 1954
 year-of-study: 
-streaming: 
+streaming: "https://www.youtube.com/watch?v=gNHQergu50I"
 purchase:
   - https://www.grothmusic.com/p-147272.aspx
   - "https://www.ficksmusic.com/products/massias-suite-monodique-billaudot?srsltid=AfmBOoqmOI37uv89hQ66PCbqDVsDBrnBth7mNZ3ZFYCVd4cOUI6asPlG"
 added: 2025-04-16
 research:
   - "Publisher Billaudot, catalog MRB1068 · https://www.grothmusic.com/p-147272.aspx"
+  - "Solo MRB1068, Gourdet teaching collection and Difficult (cycle 3). · https://www.billaudot.com/mrb1068-6.html"
+  - "ARCT performance diploma repertoire for alto saxophone, unaccompanied list C. · https://rcmusic-production-strapi-media.s3.ca-central-1.amazonaws.com/s40_saxophonesyl_rcm_2016_online_secured_2ad7443853.pdf"
+  - "Five movements and public full performance with timings; home practice recording. · https://www.youtube.com/watch?v=gNHQergu50I"
+  - "Five-movement structure and shortened tone rows/repetition described in program-note compendium. · https://anyflip.com/dfzd/gplp/basic"
+  - "1954 composition, 7 pages, Gourdet dedication, 10:40. · https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf"
 publisher:
   - "Éditions Billaudot"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat batch 10 follow-up, 2026-10-14
+
+Suite monodique: exact full public Maillet performance verified, all five movements indexed, 9:22. Slow third movement lasts about 4 minutes. RCM performance diploma repertoire adds strong context to Billaudot teaching collection. No notation inspected.
+
+[[Review 0131 - Gérard Massias - Suite monodique|Full evidence and open questions]]
+
 
 - Publisher Billaudot, catalog MRB1068 · [grothmusic.com](https://www.grothmusic.com/p-147272.aspx)
 

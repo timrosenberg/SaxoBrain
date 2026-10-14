@@ -6,19 +6,32 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
+composed: 1951
 year-of-study: 
-streaming: 
+streaming: "https://www.youtube.com/watch?v=I3MjgHQIjcc"
 purchase:
   - https://www.grothmusic.com/p-38053.aspx
 added: 2024-03-08
 research:
   - "Publisher Breitkopf, catalog EB5986; piano reduction of the orchestra · https://www.grothmusic.com/p-38053.aspx"
+  - "Original Concertino Op. 71 for alto saxophone and orchestra composed1951, Breitkopf. · https://www.guenter-raphael.de/seiten/werkverzeichnis.html"
+  - "Professional performer assessment as highly virtuosic; WDR performance by Emil Manz and Wolfgang Sawallisch. · https://www.eda-records.com/index.php?article_id=177&cd_id=68"
+  - "Exact complete 15:23 public performer upload with alto saxophone and piano personnel. · https://www.youtube.com/watch?v=I3MjgHQIjcc"
+  - "EB5986 contains piano reduction of orchestra and saxophone part. · https://www.grothmusic.com/p-38053.aspx"
 publisher:
   - "Breitkopf & Härtel"
 aliases: []
+arranger-edition:
+  - "Piano reduction, Breitkopf EB5986"
 ---
 ## Research notes (private)
+
+### Chat batch 10 follow-up, 2026-10-14
+
+Raphael Concertino: estate directly verifies 1951. EB5986 is the piano reduction of the orchestral original. Lunte calls it highly virtuosic and documents Manz/Sawallisch WDR recording. Full public Piotrowska upload 15:23 names piano accompanist; no notation inspected.
+
+[[Review 0132 - Günter Raphael - Concertino Op. 71|Full evidence and open questions]]
+
 
 - Publisher Breitkopf, catalog EB5986; piano reduction of the orchestra · [grothmusic.com](https://www.grothmusic.com/p-38053.aspx)
 

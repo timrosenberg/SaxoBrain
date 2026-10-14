@@ -14,11 +14,20 @@ purchase:
 added: 2024-03-08
 research:
   - "Publisher Dorn Publications, catalog DORN0993; composed for Greg Banaszak; copyright 1994 · https://www.grothmusic.com/p-146148.aspx"
+  - "Alto saxophone and piano; commissioned by Dorn Music for Banaszak Double Vision; dated 1994 in publication list. · https://gregyasinitsky.com/files/525550/gregpublications-7-18.pdf"
+  - "Dorn order 993 under alto saxophone and piano. · https://www.grothmusic.com/images/DP%20Catalog%20Nov%202024.pdf"
 publisher:
   - "Dorn Publications"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat batch 10 follow-up, 2026-10-14
+
+Double Edge: the composer confirms Dorn commissioned it for Banaszak’s Double Vision album. The publication list dates it 1994; composition date remains unproven. Masterclass circulation adds teaching context, but notation and playable exact recording remain gaps.
+
+[[Review 0126 - Gregory Yasinitsky - Double Edge|Full evidence and open questions]]
+
 
 - Publisher Dorn Publications, catalog DORN0993; composed for Greg Banaszak; copyright 1994 · [grothmusic.com](https://www.grothmusic.com/p-146148.aspx)
 
