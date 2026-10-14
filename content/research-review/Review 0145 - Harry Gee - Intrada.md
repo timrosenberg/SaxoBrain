@@ -3,8 +3,8 @@ title: "Review 0145: Harry Gee - Intrada"
 added: 2026-10-11
 review-id: 145
 review-packet: 6
-review-decision: Pending
-review-applied: false
+review-decision: "First Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Harry Gee - Intrada]]"
 build:
@@ -53,3 +53,7 @@ Open questions: No publicly readable notation preview located. No exact public s
 Sources checked:
 - [Groth Music retailer listing](https://www.grothmusic.com/p-156785-intrada-alto-saxophone-and-piano.aspx): Exact composer, title, alto/piano instrumentation and included score/part, DORN1759. (opened)
 - [New York Public Library finding aid](https://nyplorg-data-archives.s3.amazonaws.com/uploads/collection/generated_finding_aids/mus24605.pdf): Intrada manuscript photocopy held in American Music Center collection box 1272. (opened)
+
+## Chat Batch 10 Decision, 2026-10-14
+
+Tim assigned First Year.

@@ -2,6 +2,14 @@
 title: "SaxoBrain"
 # Retired work URLs redirect to the repertoire catalog.
 aliases:
+  - /works/gunter-noris-el-toro/
+  - /works/harry-gee-canto/
+  - /works/harry-gee-homage-to-vaughan-williams/
+  - /works/harry-gee-homage-vaughn-williams/
+  - /works/harry-gee-second-ballade/
+  - /works/henri-pousseur-duel-de-capricare/
+  - /works/henri-sauguet-une-fleur/
+  - /works/hermann-reutter-elegie/
   - /composers/carla-bley/
   - /composers/rene-champagnac/
   - /works/carla-bley-utviklingssang/

@@ -8,7 +8,7 @@ instruments:
   - "Piano"
   - "Soprano Saxophone"
 composed: 
-year-of-study: 
+year-of-study: "Third Year"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-140129.aspx

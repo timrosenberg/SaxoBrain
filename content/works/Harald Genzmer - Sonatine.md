@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 1982
-year-of-study: 
+year-of-study: "Third Year"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-144590.aspx

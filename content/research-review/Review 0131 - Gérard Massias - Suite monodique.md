@@ -3,8 +3,8 @@ title: "Review 0131: Gérard Massias - Suite monodique"
 added: 2026-10-11
 review-id: 131
 review-packet: 6
-review-decision: Pending
-review-applied: false
+review-decision: "Third Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Gérard Massias - Suite monodique]]"
 build:
@@ -61,3 +61,7 @@ Sources checked:
 - [Traci N. Castleberry, Compendium of Program Notes of Works for Saxophone, mirrored AnyFlip copy](https://anyflip.com/dfzd/gplp/basic): Five-movement structure and shortened tone rows/repetition described in program-note compendium. (opened)
 - [Antwerp conservatory library bibliography](https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf): 1954 composition, 7 pages, Gourdet dedication, 10:40. (opened)
 - [Crystal Records official catalog](https://www.crystalrecords.com/saxophone.html): Bill Perconti CD 653 recording as saxophone solo. (opened)
+
+## Chat Batch 10 Decision, 2026-10-14
+
+Tim assigned Third Year.

@@ -3,10 +3,10 @@ title: "Review 0128: Gunter Noris - El Toro"
 added: 2026-10-11
 review-id: 128
 review-packet: 6
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: true
-catalog-entry: "[[Gunter Noris - El Toro]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [Gunter Noris - El Toro.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Gunter Noris - El Toro.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0128.json).
+Catalog: removed at Tim’s request on 2026-10-14.
 
 **Identity and findings.** Editions Marc Reift EMR2307E is identified as El Toro for alto saxophone and piano. A Swiss national bibliography also records separate alto-saxophone and tenor-saxophone editions, so the saxophone part must match the selected edition. The current catalog’s optional castanets/drum-set detail came from its seller listing and was not independently verified in the opened sources.
 
@@ -59,3 +59,7 @@ Open questions: Only concert-pitch score excerpt was visible, so complete writte
 Sources checked:
 - [Éditions Marc Reift official score sample](https://files.reift.ch/files/scores/EMR2307E.pdf): Exact identity, 2/4 pasodoble at quarter=120, concert-pitch solo score, optional castanets/drum set and contrasting articulation. (score_inspected)
 - [Swiss National Library, Le Livre suisse 2007/16](https://ead.nb.admin.ch/web/sb-pdf/2007/sb200716.pdf): Alto and tenor editions are cataloged separately in Swiss national bibliography; alto EMR2307E issued circa 2007, six-page score plus four parts. (search_index_only)
+
+## Chat Batch 10 Decision, 2026-10-14
+
+Tim requested removal from the catalog. The private evidence log is retained.

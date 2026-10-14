@@ -3,10 +3,10 @@ title: "Review 0149: Henri Pousseur - Duel de Capricare"
 added: 2026-10-11
 review-id: 149
 review-packet: 6
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Henri Pousseur - Duel de Capricare]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [Henri Pousseur - Duel de Capricare.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Henri Pousseur - Duel de Capricare.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0149.json).
+Catalog: removed at Tim’s request on 2026-10-14.
 
 **Identity and findings.** IRCAM identifies Henri Pousseur’s Duel de Capricares (1996) as a mobile for alto saxophone and piano, lasting 12-15 minutes. CiNii's library record for the 1997 reproduced holograph says the saxophone part derives from Caprices de Saxicare and that a new piano part was added. This supports a title/version relationship with the local record, though the catalogue’s singular spelling differs from the IRCAM title.
 
@@ -60,3 +60,7 @@ Sources checked:
 - [Suvini Zerboni publisher composer catalog](https://szsugar.it/autore/pousseur-henri/): SZ11177, Mobile per saxofono contralto e pianoforte. (search_index_only)
 - [CiNii Research library catalog](https://cir.nii.ac.jp/crid/1970304959838376079): Reproduced manuscript, reused saxophone material, new piano part and five pages of French performance instructions. (search_index_only)
 - [Giovanni Nardi performer website](https://www.giovanninardi.com/en/biography/): Exact alto/piano duo on professional repertoire list. (opened)
+
+## Chat Batch 10 Decision, 2026-10-14
+
+Tim requested removal from the catalog. The private evidence log is retained.

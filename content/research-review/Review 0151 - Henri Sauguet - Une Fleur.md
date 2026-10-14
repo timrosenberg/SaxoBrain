@@ -3,10 +3,10 @@ title: "Review 0151: Henri Sauguet - Une Fleur"
 added: 2026-10-11
 review-id: 151
 review-packet: 7
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Henri Sauguet - Une Fleur]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [[Henri Sauguet - Une Fleur]]
+Catalog: removed at Tim’s request on 2026-10-14.
 
 - Identity: Henri Sauguet, Une fleur, for alto saxophone and piano or organ. The Bornkamp recording booklet dates the piece 1985; Billaudot identifies the current edition as GB6425, 8 pages, copyright 1998.
 - Billaudot catalog lists saxophone with piano or organ, GB6425, 8 pages, copyright 1998. [Billaudot catalog](https://www.billaudot.com/gb6425-6.html) (search_index_only).
@@ -47,3 +47,7 @@ Sources checked:
 - [Apple Music exact track](https://music.apple.com/us/album/une-fleur/1738893899?i=1738893902): Exact track composer/performers/duration and playable ninety-second preview. (opened)
 - [Groth Music retailer](https://www.grothmusic.com/p-141397-une-fleur-alto-saxophone-and-piano.aspx): Includes piano score and alto part; six-page retailer count differs from publisher. (opened)
 - [Philharmonie de Paris, 10 ans avec le saxophone](https://mediatheque.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf): Singing character; low A octave adaptation in the phrase and approximate four-minute guide duration. (opened)
+
+## Chat Batch 10 Decision, 2026-10-14
+
+Tim requested removal from the catalog. The private evidence log is retained.

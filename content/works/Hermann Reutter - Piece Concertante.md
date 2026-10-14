@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 1968
-year-of-study: 
+year-of-study: "Second Year"
 streaming: "https://www.youtube.com/watch?v=vzud9ozcHFI"
 purchase:
   - "https://www.grothmusic.com/p-34062.aspx"

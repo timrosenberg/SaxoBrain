@@ -3,8 +3,8 @@ title: "Review 0139: Harald Genzmer - Sonatine"
 added: 2026-10-11
 review-id: 139
 review-packet: 6
-review-decision: Pending
-review-applied: false
+review-decision: "Third Year"
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Harald Genzmer - Sonatine]]"
 build:
@@ -61,3 +61,7 @@ Sources checked:
 - [Groth Music exact-edition product page](https://www.grothmusic.com/p-144590-sonatine-alto-saxophone-and-piano.aspx): Edition, instrumentation, page count and three movement titles. (opened)
 - [Ries & Erler printed score sample via Groth](https://www.grothmusic.com/images/product/large/1071-RE24009_2_.jpg): Opening tempo, meter, solo entry, chromatic figures and dynamics; publisher imprint and ISMN. (score_inspected)
 - [Stretta exact-edition catalog](https://www.stretta-music.cz/genzmer-sonatine-alt-saxophon-in-es-und-klavier-gewv-247-1982-nr-105881.html): GeWV 247 (1982), RE24009 and ISMN. (opened)
+
+## Chat Batch 10 Decision, 2026-10-14
+
+Tim assigned Third Year.

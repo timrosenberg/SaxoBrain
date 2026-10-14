@@ -3,10 +3,10 @@ title: "Review 0144: Harry Gee - Homage to Vaughan Williams"
 added: 2026-10-11
 review-id: 144
 review-packet: 6
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: true
-catalog-entry: "[[Harry Gee - Homage to Vaughan Williams]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [Harry Gee - Homage to Vaughan Williams.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Harry Gee - Homage to Vaughan Williams.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0144.json).
+Catalog: removed at Tim’s request on 2026-10-14.
 
 **Identity and findings.** Dorn Publications DORN0768 lists Harry Gee’s Homage to Vaughan Williams for alto saxophone and piano. The catalog’s alternate spelling of “Vaughn” is not used as a distinct title. No score or performance evidence was found.
 
@@ -56,3 +56,7 @@ Sources checked:
 - [Dorn score preview hosted by Groth](https://grothmusic.com/images/product/large/ae00-124437_2_.jpg): Grade 3, playing time 3:28, opening tempo, meter, phrase and accompaniment details. (score_inspected)
 - [The Clarinet, November/December 1993, music received list](https://clarinet.insightful.design/wp-content/uploads/2022/10/VOL21N1-NOVEMBER-DECEMBER1993_Compress.pdf): Dorn clarinet/piano publication listed as 1991, distinct from original composition dating. (search_index_only)
 - [Royal Conservatory shop contents](https://shopus.rcmusic.com/products/saxophone-orchestral-excerpts): Same-title RCM selection is by Christiaan Venter. (search_index_only)
+
+## Chat Batch 10 Decision, 2026-10-14
+
+Tim requested removal from the catalog. The private evidence log is retained.

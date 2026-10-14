@@ -9,7 +9,7 @@ build:
 
 # Chat Batch 10
 
-Twenty-five unassigned works. Give decisions using chat numbers 1–25. All difficulty levels remain for Tim to choose. Verified metadata is added to the work pages; evidence limits appear below. Recording verification and any audition limits are recorded per work.
+Decisions recorded 2026-10-14: fifteen level assignments, seven removals and three holds for unknown difficulty. Chat numbers 1–25 identify this batch. Verified metadata is added to the work pages; evidence limits appear below. Recording verification and any audition limits are recorded per work.
 
 ## 1. Greg Danner - Rhapsody
 
@@ -25,7 +25,7 @@ Danner Rhapsody: exact AV3613 identity is now verified in the live retailer page
 
 **Recording documentation:** [Bryan Crisp’s Rhapsody excerpt. Excluded from the saxophone work. (other-instrument version; not auditioned)](https://www.bryancrisp.com/audio/)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Fourth Year. Applied 2026-10-14.
 
 ## 2. Gregory Yasinitsky - Double Edge
 
@@ -41,11 +41,11 @@ Double Edge: the composer confirms Dorn commissioned it for Banaszak’s Double 
 
 **Recording documentation:** [Composer confirms Banaszak’s Double Vision recording as the commissioning project. (recording provenance only; not auditioned)](https://gregyasinitsky.com/files/525550/gregpublications-7-18.pdf)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Third Year. Applied 2026-10-14.
 
 ## 3. Gunter Noris - El Toro
 
-[[Gunter Noris - El Toro|Work page]] · [[Review 0128 - Gunter Noris - El Toro|Full review]]
+Removed from catalog · [[Review 0128 - Gunter Noris - El Toro|Full review]]
 
 El Toro: the official EMR2307E excerpt is readable and inspected. It confirms optional castanets/drum set, 2/4 pasodoble at quarter=120, repeated articulated eighths, then slurred triplets/chromatic figures. The solo line shown is concert pitch; full written alto range is still unknown.
 
@@ -59,7 +59,7 @@ El Toro: the official EMR2307E excerpt is readable and inspected. It confirms op
 
 **Score or purchase:** [Official alto saxophone edition sample: cover plus concert-pitch score excerpt, bars 1–60.](https://files.reift.ch/files/scores/EMR2307E.pdf)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Removed. Applied 2026-10-14.
 
 ## 4. Guy Lacour - Ballade pour Georges
 
@@ -73,7 +73,7 @@ Ballade pour Georges: exact GB6014 piano reduction now verified by Billaudot, 48
 
 **Sources:** [Éditions Billaudot live publisher page](https://www.billaudot.com/ballade-pour-georges-reduction-saxophone-alto-mib-et-piano.html) · [Confédération Musicale de France, Annales des pièces instrumentales bois 1996–2024](https://www.cmf-musique.org/wp-content/uploads/2024/10/Annales-Bois.pdf) · [Éditions Billaudot orchestral catalog](https://www.billaudot.com/gb6013-o-6.html) · [Scribd user-uploaded Lacour catalog](https://fr.scribd.com/document/475911890/lacourcatalogue-pdf)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Third Year. Applied 2026-10-14.
 
 ## 5. Gérard Gasparian - Fantaisie
 
@@ -91,7 +91,7 @@ Gasparian Fantaisie: composer confirms 1994, soprano saxophone and piano, Musico
 
 **Listen:** [Complete 7:10 Fantaisie, Duo Portejoie-Lagarde, official Believe/Arion auto-generated Topic track. (public full track metadata verified; not auditioned)](https://www.youtube.com/watch?v=NNDHgAdYEkI) · [Dédicaces album lists exact Fantaisie for soprano saxophone and piano, 7:10. (exact track metadata verified; album page; not auditioned)](https://classical.music.apple.com/ca/album/406863471) · [Exact Apple Music track, Fantaisie pour saxo soprano & piano. (exact track metadata verified)](https://music.apple.com/ca/album/fantaisie-pour-saxo-soprano-piano/406863471?i=406863520&uo=4)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Third Year. Applied 2026-10-14.
 
 ## 6. Gérard Massias - Suite monodique
 
@@ -107,7 +107,7 @@ Suite monodique: exact full public Maillet performance verified, all five moveme
 
 **Listen:** [Complete solo alto saxophone performance by Éric Maillet, approximately 9:22, five indexed movements. (complete public recording verified visually and by metadata; not auditioned)](https://www.youtube.com/watch?v=gNHQergu50I) · [Bill Perconti, Duo One Point Five CD 653, lists Suite monodique as solo saxophone. (label recording metadata only)](https://www.crystalrecords.com/saxophone.html)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Third Year. Applied 2026-10-14.
 
 ## 7. Günter Raphael - Concertino Op. 71
 
@@ -125,7 +125,7 @@ Raphael Concertino: estate directly verifies 1951. EB5986 is the piano reduction
 
 **Listen:** [Complete 15:23 Concertino performance uploaded by Katarzyna Piotrowska. (full public piano-reduction recording verified by performer metadata; not auditioned)](https://www.youtube.com/watch?v=I3MjgHQIjcc)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Third Year. Applied 2026-10-14.
 
 ## 8. Günter Raphael - Sonate Op. 74
 
@@ -141,7 +141,7 @@ Raphael Sonata: estate confirms 1957, and label confirms Op. 74a in memoriam Emi
 
 **Listen:** [I. Con moto, full first movement 3:42, Frank Lunte and Tatjana Blome, official Naxos/EDA Topic recording. (complete movement metadata verified; not auditioned)](https://www.youtube.com/watch?v=gbiil0_2_Sw) · [II. Vivace, full second movement 4:25, same recording. (complete movement metadata verified; not auditioned)](https://www.youtube.com/watch?v=GfZS47BlJpg) · [III. Allegro molto energico, full third movement 4:23, same recording. (complete movement metadata verified; not auditioned)](https://www.youtube.com/watch?v=t-047p5-lGI)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Second Year. Applied 2026-10-14.
 
 ## 9. Hans Engelmann - Integrale
 
@@ -159,7 +159,7 @@ Intégrale offers concrete work-specific evidence: about 7 minutes, no extended 
 
 **Recording documentation:** [Irene Schacker, saxophone, and Else Stock-Hug, piano; institutional MP3 record. (restricted institutional audio)](https://taju.uniarts.fi/items/48bf355a-f3af-483e-82ad-ff2dbe0e2360)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Hold (difficulty unknown). Remains unassigned.
 
 ## 10. Harald Genzmer - Sonate (Alto)
 
@@ -175,7 +175,7 @@ Genzmer's 1984 alto Sonata now has useful score-review evidence: seventh leaps, 
 
 **Sources:** [Harald Genzmer Foundation work list](https://genzmer-stiftung.schott-campus.com/werke/) · [Groth Music exact-edition catalog](https://www.grothmusic.com/p-37738-sonata-alto-sax-and-piano.aspx) · [Günter Priesner, Tibia 4/1986, published by Moeck](https://www.moeck.com/fileadmin/Assets/Tibia/1986-4.pdf)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Hold (difficulty unknown). Remains unassigned.
 
 ## 11. Harald Genzmer - Sonate (Soprano)
 
@@ -191,7 +191,7 @@ The exact RE24008 soprano/piano edition is verified. Groth describes substantial
 
 **Sources:** [Groth Music exact-edition product page](https://www.grothmusic.com/p-144588-sonata-soprano-sax-or-clarinet-and-piano.aspx) · [Stretta exact-edition catalog](https://www.stretta-music.cz/genzmer-sonate-sopran-sax-in-b-und-klavier-gewv-246-1982-nr-555944.html)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Fourth Year. Applied 2026-10-14.
 
 ## 12. Harald Genzmer - Sonatine
 
@@ -209,7 +209,7 @@ A public notation sample now supports concrete assessment: Allegro moderato at a
 
 **Score or purchase:** [Publisher-printed first piano-score page reproduced by Groth; movement I opening only.](https://www.grothmusic.com/images/product/large/1071-RE24009_2_.jpg)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Third Year. Applied 2026-10-14.
 
 ## 13. Harley Rex - Andando and Brillante
 
@@ -227,7 +227,7 @@ A score preview supports assessment of the Andante opening: 4/4, an exposed p en
 
 **Score or purchase:** [Dorn saxophone/piano score opening, approximately bars 1–16 only.](https://www.grothmusic.com/images/product/large/ae00-121730_2_.jpg)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Third Year. Applied 2026-10-14.
 
 ## 14. Harold Farberman - Concerto
 
@@ -245,7 +245,7 @@ GEN823 is freshly verified as Farberman's alto-and-piano Concerto. A 1967 review
 
 **Recording documentation:** [Contemporary disc review documents Harvey Estrin, alto saxophone, Stuttgart Philharmonia, Farberman conducting. (historical recording metadata only)](https://www.worldradiohistory.com/Archive-All-Audio/Archive-High-Fidelity/60s/High-Fidelity-1967-03.pdf)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Hold (difficulty unknown). Remains unassigned.
 
 ## 15. Harold Fortuin - Epitaph
 
@@ -265,11 +265,11 @@ The composer provides a score excerpt and a 6:04 duration. Measures 80–83 show
 
 **Recording documentation:** [Composer's exact Epitaph row links EpitaphExcerpt.mp3 and reports 6:04 total work duration. (excerpt link identified; playback unverified)](https://www.oocities.org/harold_fortuin/HFCompos.html)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Fourth Year. Applied 2026-10-14.
 
 ## 16. Harry Gee - Canto
 
-[[Harry Gee - Canto|Work page]] · [[Review 0143 - Harry Gee - Canto|Full review]]
+Removed from catalog · [[Review 0143 - Harry Gee - Canto|Full review]]
 
 The exact four-page Shawnee 35002765 alto/piano edition is verified. Dorn also catalogs Gee's Canto as order 1260, but the editions have not been compared. No musical claims can be supported from notation or audio yet. The Stanton listing is for flute and was excluded.
 
@@ -281,11 +281,11 @@ The exact four-page Shawnee 35002765 alto/piano edition is verified. Dorn also c
 
 **Sources:** [Groth Music exact-edition listing](https://www.grothmusic.com/p-37709-canto-alto-sax-and-piano.aspx) · [Dorn Publications April 2025 catalog](https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf) · [Stanton's Sheet Music](https://www.stantons.com/sheet-music/title/canto/LA0251/)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Removed. Applied 2026-10-14.
 
 ## 17. Harry Gee - Homage to Vaughan Williams
 
-[[Harry Gee - Homage to Vaughan Williams|Work page]] · [[Review 0144 - Harry Gee - Homage to Vaughan Williams|Full review]]
+Removed from catalog · [[Review 0144 - Harry Gee - Homage to Vaughan Williams|Full review]]
 
 Dorn first-page notation is now verified: 3:28, printed Grade 3, Moderato con moto in 3/4, legato phrases over broken piano accompaniment. Alternative clarinet/alto edition confirmed; full saxophone range and a recording remain unverified.
 
@@ -299,7 +299,7 @@ Dorn first-page notation is now verified: 3:28, printed Grade 3, Moderato con mo
 
 **Score or purchase:** [Public first score-page preview from the Groth listing.](https://grothmusic.com/images/product/large/ae00-124437_2_.jpg)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Removed. Applied 2026-10-14.
 
 ## 18. Harry Gee - Intrada
 
@@ -313,11 +313,11 @@ Dorn DORN1759 verified for alto saxophone and piano. NYPL has a manuscript photo
 
 **Sources:** [Groth Music retailer listing](https://www.grothmusic.com/p-156785-intrada-alto-saxophone-and-piano.aspx) · [New York Public Library finding aid](https://nyplorg-data-archives.s3.amazonaws.com/uploads/collection/generated_finding_aids/mus24605.pdf)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** First Year. Applied 2026-10-14.
 
 ## 19. Harry Gee - Second Ballade
 
-[[Harry Gee - Second Ballade|Work page]] · [[Review 0146 - Harry Gee - Second Ballade|Full review]]
+Removed from catalog · [[Review 0146 - Harry Gee - Second Ballade|Full review]]
 
 Kendor alto/piano edition and purchase source verified. PMEA documents school contest use under its own Level Four classification. No notation or exact saxophone recording verified; c. 1980 and 2:40 remain older unconfirmed leads.
 
@@ -327,7 +327,7 @@ Kendor alto/piano edition and purchase source verified. PMEA documents school co
 
 **Sources:** [June Emerson Wind Music](https://www.juneemersonwindmusic.com/SECOND-BALLADE.html) · [Pennsylvania Music Educators Association selective music list](https://www.pmea.net/wp-content/uploads/2014/06/sax.pdf) · [New York Public Library American Music Center collection](https://nyplorg-data-archives.s3.amazonaws.com/uploads/collection/generated_finding_aids/mus24605.pdf)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Removed. Applied 2026-10-14.
 
 ## 20. Helge Jung - Calculated Wounds
 
@@ -345,7 +345,7 @@ Actual Part I notation verified: 1988/rev. 1995, timed seconds, broad dynamics a
 
 **Score or purchase:** [Hofmeister printed page 3, Part I opening, hosted in Groth product preview.](https://grothmusic.com/images/product/large/ae00-125551_2_.jpg)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Advanced. Applied 2026-10-14.
 
 ## 21. Hendrik de Regt - Caprice
 
@@ -363,11 +363,11 @@ DMP108046 identity verified from actual score pages 3 and 6. Opening 3/8, writte
 
 **Score or purchase:** [Public opening score page 3, Digital Music Print DMP108046.](https://www.partitions-musicales.net/out/pictures/master/product/1/Art_653533_2.JPG) · [Public score page 6 showing further runs, dynamics and ensemble texture.](https://www.partitions-musicales.net/out/pictures/master/product/1/Art_653533_5.JPG)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Fourth Year. Applied 2026-10-14.
 
 ## 22. Henri Pousseur - Duel de Capricare
 
-[[Henri Pousseur - Duel de Capricare|Work page]] · [[Review 0149 - Henri Pousseur - Duel de Capricare|Full review]]
+Removed from catalog · [[Review 0149 - Henri Pousseur - Duel de Capricare|Full review]]
 
 IRCAM confirms Duel de Capricares (plural), 1996, alto/piano, 12 to 15 minutes. Professional use verified on Giovanni Nardi's repertoire list. CiNii reports five pages of French performance instructions and saxophone material reused from Caprices de Saxicare. No score or exact recording located; preserve title/instrument conflicts for Tim.
 
@@ -377,11 +377,11 @@ IRCAM confirms Duel de Capricares (plural), 1996, alto/piano, 12 to 15 minutes. 
 
 **Sources:** [IRCAM work database](https://medias.ircam.fr/fr/work/duel-de-capricares) · [Suvini Zerboni publisher composer catalog](https://szsugar.it/autore/pousseur-henri/) · [CiNii Research library catalog](https://cir.nii.ac.jp/crid/1970304959838376079) · [Giovanni Nardi performer website](https://www.giovanninardi.com/en/biography/)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Removed. Applied 2026-10-14.
 
 ## 23. Henri Sauguet - Une Fleur
 
-[[Henri Sauguet - Une Fleur|Work page]] · [[Review 0151 - Henri Sauguet - Une Fleur|Full review]]
+Removed from catalog · [[Review 0151 - Henri Sauguet - Une Fleur|Full review]]
 
 Billaudot GB6425 confirms piano or organ. Panorama Volume 2 is explicitly labelled préparatoire. The teaching guide describes singing phrasing and a low A to raise an octave. Bornkamp’s original alto/piano recording has a playable ninety-second Apple preview. No notation inspected.
 
@@ -393,11 +393,11 @@ Billaudot GB6425 confirms piano or organ. Panorama Volume 2 is explicitly labell
 
 **Listen:** [Arno Bornkamp, alto saxophone, and Leo van Doeselaar, piano, Une fleur, full track listed 3:11; ninety-second Apple Music preview publicly playable. (public excerpt playable; full track requires Apple Music access)](https://music.apple.com/us/album/une-fleur/1738893899?i=1738893902)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Removed. Applied 2026-10-14.
 
 ## 24. Hermann Reutter - Elegie
 
-[[Hermann Reutter - Elegie|Work page]] · [[Review 0152 - Hermann Reutter - Elegie|Full review]]
+Removed from catalog · [[Review 0152 - Hermann Reutter - Elegie|Full review]]
 
 AL21768 alto/piano edition verified. Arkansas's 2025 required list establishes school contest use under its own III category. 1957 is library publication dating only. No actual notation or exact public performance found; Wytko's Piece Concertante and Husa's Elegie et Rondeau are distinct.
 
@@ -407,7 +407,7 @@ AL21768 alto/piano edition verified. Arkansas's 2025 required list establishes s
 
 **Sources:** [Groth Music retailer](https://www.grothmusic.com/p-148249-elegie-alto-saxophone-and-piano.aspx) · [Arkansas School Band and Orchestra Association](https://asboa.org/wp-content/uploads/2025/04/Solos-Updated-2025.pdf) · [WorldCat library catalog](https://search.worldcat.org/title/4319498) · [Alphonse Leduc 2018 publisher catalog](https://casamusicaledelrio.it/casamusicale/wp-content/uploads/2019/04/CAT-18-107-Leduc-Catalogue-2018-ss-GS-v6-NO-CROPS-LO-RESv2.pdf) · [Joseph Wytko performer discography](https://www.josephwytkosaxophone.com/discography.html) · [Schott Music publisher](https://schottmusiclondon.com/epitaph-fuer-ophelia-no37128.html)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Removed. Applied 2026-10-14.
 
 ## 25. Hermann Reutter - Piece Concertante
 
@@ -427,4 +427,4 @@ A substantial original with recurring rhythmic motives, fugue and hemiola in the
 
 **Listen:** [Piece Concertante: I. Exposition, Frank Lunte and Tatjana Blome, 4:56 (complete movement)](https://www.youtube.com/watch?v=vzud9ozcHFI) · [Piece Concertante: III. Combination, Frank Lunte and Tatjana Blome, 2:55 (complete movement)](https://www.youtube.com/watch?v=dVHziH_hNHQ) · [Piece Concertante: II. Berceuse, Frank Lunte and Tatjana Blome, 3:35 (complete movement)](https://www.youtube.com/watch?v=5zIFokcQGC4)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Second Year. Applied 2026-10-14.

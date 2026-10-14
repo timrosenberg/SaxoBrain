@@ -3,8 +3,8 @@ title: "Review 0133: Günter Raphael - Sonate Op. 74"
 added: 2026-10-11
 review-id: 133
 review-packet: 6
-review-decision: Pending
-review-applied: false
+review-decision: "Second Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Günter Raphael - Sonate Op. 74]]"
 build:
@@ -63,3 +63,7 @@ Sources checked:
 - [Frank Lunte Topic, Naxos/EDA metadata via yt-dlp](https://www.youtube.com/watch?v=GfZS47BlJpg): Exact public complete second movement 4:25. (opened)
 - [Frank Lunte Topic, Naxos/EDA metadata via yt-dlp](https://www.youtube.com/watch?v=t-047p5-lGI): Exact public complete third movement 4:23. (opened)
 - [IMEP music library](https://biblio.imep.be/index.php?lvl=notice_display&id=5828): Tonger Saxophonar edition, 23 pages plus saxophone part. (search_index_only)
+
+## Chat Batch 10 Decision, 2026-10-14
+
+Tim assigned Second Year.

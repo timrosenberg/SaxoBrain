@@ -3,10 +3,10 @@ title: "Review 0146: Harry Gee - Second Ballade"
 added: 2026-10-11
 review-id: 146
 review-packet: 6
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Harry Gee - Second Ballade]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [Harry Gee - Second Ballade.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Harry Gee - Second Ballade.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0146.json).
+Catalog: removed at Tim’s request on 2026-10-14.
 
 **Identity and findings.** The University of Maryland NACWPI Score Collection catalogs Harry Gee’s Second Ballade for alto saxophone and piano, published by Kendor around 1980, with a 2:40 duration and a Grade 4 label. That label belongs to the collection record and is not a SaxoBrain level.
 
@@ -54,3 +54,7 @@ Sources checked:
 - [June Emerson Wind Music](https://www.juneemersonwindmusic.com/SECOND-BALLADE.html): Alto saxophone/piano edition; Kendor Music; retailer skill label C and purchase source. (opened)
 - [Pennsylvania Music Educators Association selective music list](https://www.pmea.net/wp-content/uploads/2014/06/sax.pdf): Second Ballade by Gee on Alto Saxophone Solo, Level Four list. (opened)
 - [New York Public Library American Music Center collection](https://nyplorg-data-archives.s3.amazonaws.com/uploads/collection/generated_finding_aids/mus24605.pdf): Separate flute/piano Second Ballade in box 1272. (opened)
+
+## Chat Batch 10 Decision, 2026-10-14
+
+Tim requested removal from the catalog. The private evidence log is retained.

@@ -3,8 +3,8 @@ title: "Review 0147: Helge Jung - Calculated Wounds"
 added: 2026-10-11
 review-id: 147
 review-packet: 6
-review-decision: Pending
-review-applied: false
+review-decision: "Advanced"
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Helge Jung - Calculated Wounds]]"
 build:
@@ -62,3 +62,7 @@ Sources checked:
 - [Friedrich Hofmeister score preview](https://grothmusic.com/images/product/large/ae00-125551_2_.jpg): 1988/revised 1995 date and opening timed notation, string-playing and dynamics. (score_inspected)
 - [Friedrich Hofmeister 2019/2020 catalog](https://www.hofmeister-musikverlag.com/wp-content/uploads/2023/02/katalog2019_2020_website.pdf): Hofmeister classification 5 and FH2407. (opened)
 - [Thomas Grass and Dietrich Demus, German Clarinet Society repertoire bibliography](https://www.deutsche-klarinetten-gesellschaft.de/media/musik-katalog_fuer_bassetthorn_und_bassettklarinette_32023.pdf): 1988 basset-horn original and 1995 saxophone revision. (opened)
+
+## Chat Batch 10 Decision, 2026-10-14
+
+Tim assigned Advanced.

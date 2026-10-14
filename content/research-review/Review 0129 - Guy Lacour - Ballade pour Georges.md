@@ -3,8 +3,8 @@ title: "Review 0129: Guy Lacour - Ballade pour Georges"
 added: 2026-10-11
 review-id: 129
 review-packet: 6
-review-decision: Pending
-review-applied: false
+review-decision: "Third Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Guy Lacour - Ballade pour Georges]]"
 build:
@@ -57,3 +57,7 @@ Sources checked:
 - [Confédération Musicale de France, Annales des pièces instrumentales bois 1996–2024](https://www.cmf-musique.org/wp-content/uploads/2024/10/Annales-Bois.pdf): 1997 end-of-third-cycle CMF repertoire entry specifies cut from 8 to 20. (opened)
 - [Éditions Billaudot orchestral catalog](https://www.billaudot.com/gb6013-o-6.html): Separate orchestral/string-quintet version GB6013 O, 15 minutes. (search_index_only)
 - [Scribd user-uploaded Lacour catalog](https://fr.scribd.com/document/475911890/lacourcatalogue-pdf): Provisional 1994 composition and 14:50 details in uploaded catalog. (search_index_only)
+
+## Chat Batch 10 Decision, 2026-10-14
+
+Tim assigned Third Year.

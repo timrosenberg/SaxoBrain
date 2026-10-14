@@ -1,8 +1,8 @@
 {
   "created": "2026-10-14",
   "chat_batch": 10,
-  "decision_status": "Pending",
-  "scope": "Fresh evidence and verified metadata for 25 unassigned works; Tim assigns every level.",
+  "decision_status": "Applied",
+  "scope": "Tim’s fifteen level assignments applied; seven specified works removed; three unknown difficulties recorded as holds. Private research retained and retired URLs redirected to the catalog.",
   "works": [
     {
       "chat_number": 1,
@@ -59,7 +59,11 @@
           "arranger-edition": []
         },
         "chat_summary": "1. Danner Rhapsody: exact AV3613 identity is now verified in the live retailer page, including 28 pages and Phil Barham dedication. No saxophone score or recording was found. The common Bryan Crisp excerpt is a trumpet lead and is excluded."
-      }
+      },
+      "assigned_level": "Fourth Year",
+      "decision": "Fourth Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Fourth Year."
     },
     {
       "chat_number": 2,
@@ -126,7 +130,11 @@
           "arranger-edition": []
         },
         "chat_summary": "2. Double Edge: the composer confirms Dorn commissioned it for Banaszak’s Double Vision album. The publication list dates it 1994; composition date remains unproven. Masterclass circulation adds teaching context, but notation and playable exact recording remain gaps."
-      }
+      },
+      "assigned_level": "Third Year",
+      "decision": "Third Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Third Year."
     },
     {
       "chat_number": 3,
@@ -196,7 +204,16 @@
           "multi-instruments": "Alto saxophone and piano, with optional castanets and drum set."
         },
         "chat_summary": "3. El Toro: the official EMR2307E excerpt is readable and inspected. It confirms optional castanets/drum set, 2/4 pasodoble at quarter=120, repeated articulated eighths, then slurred triplets/chromatic figures. The solo line shown is concert pitch; full written alto range is still unknown."
-      }
+      },
+      "removed": true,
+      "retired_url": "/works/gunter-noris-el-toro/",
+      "retired_aliases": [],
+      "redirect_to": "/",
+      "removed_work_snapshot": "---\ntitle: \"El Toro\"\nslug: gunter-noris-el-toro\ncomposer:\n  - \"[[Gunter Noris]]\"\ninstruments:\n  - \"Alto Saxophone\"\n  - \"Piano\"\n  - \"Castanets\"\n  - \"Drum Set\"\ncomposed: \nyear-of-study: \nstreaming: \npurchase:\n  - https://www.grothmusic.com/p-147609.aspx\nadded: 2024-03-08\nresearch:\n  - \"Publisher Editions Marc Reift, catalog EMR2307E; optional castanets and drum set · https://www.grothmusic.com/p-147609.aspx\"\n  - \"Exact identity, 2/4 pasodoble at quarter=120, concert-pitch solo score, optional castanets/drum set and contrasting articulation. · https://files.reift.ch/files/scores/EMR2307E.pdf\"\npublisher:\n  - \"Éditions Marc Reift\"\naliases: []\nmulti-instruments: \"Alto saxophone and piano, with optional castanets and drum set.\"\n---\n## Research notes (private)\n\n### Chat batch 10 follow-up, 2026-10-14\n\nEl Toro: the official EMR2307E excerpt is readable and inspected. It confirms optional castanets/drum set, 2/4 pasodoble at quarter=120, repeated articulated eighths, then slurred triplets/chromatic figures. The solo line shown is concert pitch; full written alto range is still unknown.\n\n[[Review 0128 - Gunter Noris - El Toro|Full evidence and open questions]]\n\n\n- Publisher Editions Marc Reift, catalog EMR2307E; optional castanets and drum set · [grothmusic.com](https://www.grothmusic.com/p-147609.aspx)\n\n<!-- saxobrain-research-review-2026-10-11 -->\n\n### Research Review, October 11, 2026\n\n[[Review 0128 - Gunter Noris - El Toro|Full review note]]\n\nCatalog: [Gunter Noris - El Toro.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Gunter Noris - El Toro.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0128.json).\n\n**Identity and findings.** Editions Marc Reift EMR2307E is identified as El Toro for alto saxophone and piano. A Swiss national bibliography also records separate alto-saxophone and tenor-saxophone editions, so the saxophone part must match the selected edition. The current catalog’s optional castanets/drum-set detail came from its seller listing and was not independently verified in the opened sources.\n\n**Sources checked.**\n- [Swiss Book national bibliography](https://ead.nb.admin.ch/web/sb-pdf/2007/sb200716.pdf) (opened, p.1690): Swiss National Library bibliography records El Toro as a 6-page alto saxophone and piano score with four parts, EMR2307E, issued by Marc Reift around 2007. It separately records a tenor edition.\n- [Musikforum Demond](https://www.demond.de/guenter-noris-el-toro-alto-saxophone-klavier-470712) (opened): Retailer identifies EMR2307E as alto saxophone and piano.\n\n**Score.**\n- No notation was visually inspected.\n\n**Score/sample.**\n- [Bibliographic record only, not notation.](https://ead.nb.admin.ch/web/sb-pdf/2007/sb200716.pdf).\n\n**Collection and audience context.** Available in distinct alto and tenor editions; the current alto catalog entry is consistent with one official bibliographic record.\n\n**Review focus.** Confirm which edition is held and what the optional percussion instructions require; no musical notation was inspected.\n\n**Open questions.**\n- Focused exact-code and publisher-domain searches for an EMR2307E public score PDF did not surface readable notation; no score pages were inspected.\n- Optional castanets/drum-set instrumentation needs confirmation from the score.\n\n**Tim decision:** pending.\n\n#### Catalog Details Added\n\n- Publisher: Éditions Marc Reift. [Source](https://www.demond.de/guenter-noris-el-toro-alto-saxophone-klavier-470712)\n\n",
+      "assigned_level": null,
+      "decision": "Removed",
+      "review_applied": true,
+      "decision_note": "Tim requested removal from the catalog. The private evidence log is retained."
     },
     {
       "chat_number": 4,
@@ -273,7 +290,11 @@
           ]
         },
         "chat_summary": "4. Ballade pour Georges: exact GB6014 piano reduction now verified by Billaudot, 48 pages, Daniel Gremelle collection, Difficult (cycle 3). CMF documents a cut version in its 1997 end-of-third-cycle list. No notation or exact recording verified; 1994 remains provisional."
-      }
+      },
+      "assigned_level": "Third Year",
+      "decision": "Third Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Third Year."
     },
     {
       "chat_number": 5,
@@ -399,7 +420,12 @@
           "arranger-edition": []
         },
         "chat_summary": "5. Gasparian Fantaisie: composer confirms 1994, soprano saxophone and piano, Musicora 1996 premiere and Vérany duo recording. Add Piano and Combre. Institutional teaching use verified. The 7:10 Dédicaces track is exact; oboe transcription C05849 is excluded. Full verified public Topic recording found, 7:10."
-      }
+      },
+      "assigned_level": "Third Year",
+      "decision": "Third Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Third Year.",
+      "recording_confirmed": "YouTube streaming already present and retained at Tim’s request."
     },
     {
       "chat_number": 6,
@@ -495,7 +521,11 @@
           "arranger-edition": []
         },
         "chat_summary": "6. Suite monodique: exact full public Maillet performance verified, all five movements indexed, 9:22. Slow third movement lasts about 4 minutes. RCM performance diploma repertoire adds strong context to Billaudot teaching collection. No notation inspected."
-      }
+      },
+      "assigned_level": "Third Year",
+      "decision": "Third Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Third Year."
     },
     {
       "chat_number": 7,
@@ -596,7 +626,12 @@
           ]
         },
         "chat_summary": "7. Raphael Concertino: estate directly verifies 1951. EB5986 is the piano reduction of the orchestral original. Lunte calls it highly virtuosic and documents Manz/Sawallisch WDR recording. Full public Piotrowska upload 15:23 names piano accompanist; no notation inspected."
-      }
+      },
+      "assigned_level": "Third Year",
+      "decision": "Third Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Third Year.",
+      "recording_confirmed": "YouTube streaming already present and retained at Tim’s request."
     },
     {
       "chat_number": 8,
@@ -698,7 +733,12 @@
         },
         "chat_summary": "8. Raphael Sonata: estate confirms 1957, and label confirms Op. 74a in memoriam Emil Manz. All three public Naxos/EDA movements verified, total 12:30. Existing title Op.74 is incomplete and risks confusion with cello Divertimento. No notation inspected.",
         "public_note": "The listening link plays the complete first movement, Con moto. Continue with [II. Vivace](https://www.youtube.com/watch?v=GfZS47BlJpg) and [III. Allegro molto energico](https://www.youtube.com/watch?v=t-047p5-lGI)."
-      }
+      },
+      "assigned_level": "Second Year",
+      "decision": "Second Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Second Year.",
+      "recording_confirmed": "YouTube streaming already present and retained at Tim’s request."
     },
     {
       "chat_number": 9,
@@ -771,7 +811,11 @@
           "arranger-edition": []
         },
         "chat_summary": "Intégrale offers concrete work-specific evidence: about 7 minutes, no extended saxophone techniques according to DeLouis, and changing asymmetrical meters in movement 2. This is an original alto-and-piano concert work. No notation was inspected, and the identified archive audio is restricted."
-      }
+      },
+      "assigned_level": null,
+      "decision": "Hold",
+      "review_applied": false,
+      "decision_note": "Tim marked the difficulty unknown. Review is on hold; the work remains unassigned."
     },
     {
       "chat_number": 10,
@@ -829,7 +873,11 @@
           "arranger-edition": []
         },
         "chat_summary": "Genzmer's 1984 alto Sonata now has useful score-review evidence: seventh leaps, written altissimo G in the first movement and Largo, and a 7/8 finale with virtuosic runs. A contemporary Tibia reviewer supplies these observations. The actual notation remains unavailable for inspection."
-      }
+      },
+      "assigned_level": null,
+      "decision": "Hold",
+      "review_applied": false,
+      "decision_note": "Tim marked the difficulty unknown. Review is on hold; the work remains unassigned."
     },
     {
       "chat_number": 11,
@@ -886,7 +934,11 @@
           "arranger-edition": []
         },
         "chat_summary": "The exact RE24008 soprano/piano edition is verified. Groth describes substantial writing for both players. Its prose says three movements while its contents lists four, so the earlier three-movement claim needs score confirmation. No notation or exact public saxophone recording was found."
-      }
+      },
+      "assigned_level": "Fourth Year",
+      "decision": "Fourth Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Fourth Year."
     },
     {
       "chat_number": 12,
@@ -952,7 +1004,11 @@
           "arranger-edition": []
         },
         "chat_summary": "A public notation sample now supports concrete assessment: Allegro moderato at about quarter note 160, a four-bar piano introduction, chromatic solo reading, triplets, short runs and carefully shaped dynamics. RE24009 is the alto-and-piano Sonatine; only its first movement opening was inspected."
-      }
+      },
+      "assigned_level": "Third Year",
+      "decision": "Third Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Third Year."
     },
     {
       "chat_number": 13,
@@ -1033,7 +1089,11 @@
           "multi-instruments": "Alternate alto or soprano solo parts, with piano; not simultaneous doubling."
         },
         "chat_summary": "A score preview supports assessment of the Andante opening: 4/4, an exposed p entrance, slurred phrases, triplets, upper-register writing and dynamic contrast. The Brillante section remains unseen. DORN0188 includes an alternate soprano part, so soprano should be added to the catalog's available instruments."
-      }
+      },
+      "assigned_level": "Third Year",
+      "decision": "Third Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Third Year."
     },
     {
       "chat_number": 14,
@@ -1105,7 +1165,11 @@
           "arranger-edition": []
         },
         "chat_summary": "GEN823 is freshly verified as Farberman's alto-and-piano Concerto. A 1967 review documents Harvey Estrin's string-orchestra recording and blues-inflected glissandos in the Largo. This supplies a concrete technique lead and establishes that 1984 is not the composition date. No score or public playback was inspected."
-      }
+      },
+      "assigned_level": null,
+      "decision": "Hold",
+      "review_applied": false,
+      "decision_note": "Tim marked the difficulty unknown. Review is on hold; the work remains unassigned."
     },
     {
       "chat_number": 15,
@@ -1177,7 +1241,11 @@
           "arranger-edition": []
         },
         "chat_summary": "The composer provides a score excerpt and a 6:04 duration. Measures 80–83 show changing 5/4 and 6/4, rapid chromatic thirty-second notes, upper-register writing and p/f contrasts above sustained piano textures. These are direct notation observations from an internal excerpt. Its transposition and tempo are not stated, and audio remains unverified."
-      }
+      },
+      "assigned_level": "Fourth Year",
+      "decision": "Fourth Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Fourth Year."
     },
     {
       "chat_number": 16,
@@ -1242,7 +1310,16 @@
           "arranger-edition": []
         },
         "chat_summary": "The exact four-page Shawnee 35002765 alto/piano edition is verified. Dorn also catalogs Gee's Canto as order 1260, but the editions have not been compared. No musical claims can be supported from notation or audio yet. The Stanton listing is for flute and was excluded."
-      }
+      },
+      "removed": true,
+      "retired_url": "/works/harry-gee-canto/",
+      "retired_aliases": [],
+      "redirect_to": "/",
+      "removed_work_snapshot": "---\ntitle: \"Canto\"\nslug: harry-gee-canto\ncomposer:\n  - \"[[Harry Gee]]\"\ninstruments:\n  - \"Alto Saxophone\"\n  - \"Piano\"\ncomposed: \nyear-of-study: \nstreaming: \npurchase:\n  - https://www.grothmusic.com/p-37709.aspx\nadded: 2024-03-08\nresearch:\n  - \"Publisher Shawnee Press, catalog no. 35002765 · https://www.grothmusic.com/p-37709.aspx\"\n  - \"Canto by Harry Gee, alto/piano, Shawnee Press 35002765, four pages. · https://www.grothmusic.com/p-37709-canto-alto-sax-and-piano.aspx\"\n  - \"Gee Canto, order 1260 under Alto Saxophone and Piano. · https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf\"\n  - \"LA0251 Canto is a flute edition, not the assigned saxophone edition. · https://www.stantons.com/sheet-music/title/canto/LA0251/\"\naliases: []\npublisher:\n  - \"Shawnee Press\"\n---\n## Research notes (private)\n\n### Chat batch 10 follow-up, 2026-10-14\n\nThe exact four-page Shawnee 35002765 alto/piano edition is verified. Dorn also catalogs Gee's Canto as order 1260, but the editions have not been compared. No musical claims can be supported from notation or audio yet. The Stanton listing is for flute and was excluded.\n\n[[Review 0143 - Harry Gee - Canto|Full evidence and open questions]]\n\n\n- Publisher Shawnee Press, catalog no. 35002765 · [grothmusic.com](https://www.grothmusic.com/p-37709.aspx)\n\n<!-- saxobrain-research-review-2026-10-11 -->\n\n### Research Review, October 11, 2026\n\n[[Review 0143 - Harry Gee - Canto|Full review note]]\n\nCatalog: [Harry Gee - Canto.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Harry Gee - Canto.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0143.json).\n\n**Identity and findings.** Shawnee Press catalog 35002765 identifies Harry Gee’s Canto for alto saxophone and piano. Search results were polluted by similar titles and Gee pieces, so no technical or programming claims are carried over from unrelated works.\n\n**Sources checked.**\n- [Groth Music, Shawnee Press listing](https://www.grothmusic.com/p-37709.aspx) (opened): Catalog listing identifies Shawnee Press 35002765 for Canto.\n\n**Score.**\n- No notation was visually inspected.\n\n**Collection and audience context.** No documented audience or pedagogical placement found.\n\n**Review focus.** Review score for melodic and rhythmic demands, phrasing and range; no work-specific musical evidence was located.\n\n**Open questions.**\n- No score preview, verified saxophone recording or college program found.\n- A same-composer work titled Canzona is distinct and its product description was excluded.\n\n**Tim decision:** pending.\n\n#### Unresolved Catalog Details\n\n- publisher: source URL is not among the record’s opened/verified evidence; no update proposed.\n\n",
+      "assigned_level": null,
+      "decision": "Removed",
+      "review_applied": true,
+      "decision_note": "Tim requested removal from the catalog. The private evidence log is retained."
     },
     {
       "chat_number": 17,
@@ -1320,7 +1397,18 @@
           "arranger-edition": []
         },
         "chat_summary": "Dorn first-page notation is now verified: 3:28, printed Grade 3, Moderato con moto in 3/4, legato phrases over broken piano accompaniment. Alternative clarinet/alto edition confirmed; full saxophone range and a recording remain unverified."
-      }
+      },
+      "removed": true,
+      "retired_url": "/works/harry-gee-homage-to-vaughan-williams/",
+      "retired_aliases": [
+        "/works/harry-gee-homage-vaughn-williams/"
+      ],
+      "redirect_to": "/",
+      "removed_work_snapshot": "---\ntitle: \"Homage to Vaughan Williams\"\nslug: harry-gee-homage-to-vaughan-williams\ncomposer:\n  - \"[[Harry Gee]]\"\ninstruments:\n  - \"Alto Saxophone\"\n  - \"Piano\"\ncomposed: \nyear-of-study: \nstreaming: \npurchase:\n  - https://www.grothmusic.com/p-142799.aspx\nadded: 2024-03-08\nresearch:\n  - \"Publisher Dorn Publications, catalog no. DORN0768 · https://www.grothmusic.com/p-142799.aspx\"\n  - \"Listed as \\\"Homage to Vaughan Williams\\\" · https://www.grothmusic.com/p-142799.aspx\"\n  - \"Alternative clarinet/alto saxophone and piano edition; Harry Gee; Dorn DORN0768. · https://www.grothmusic.com/p-142799-homage-to-vaughan-williams-b-flat-clarinet-or-e-flat-alto-saxophone-and-piano.aspx\"\n  - \"Grade 3, playing time 3:28, opening tempo, meter, phrase and accompaniment details. · https://grothmusic.com/images/product/large/ae00-124437_2_.jpg\"\naliases:\n  - /works/harry-gee-homage-vaughn-williams/\npublisher:\n  - \"Dorn Publications\"\n---\n## Research notes (private)\n\n### Chat batch 10 follow-up, 2026-10-14\n\nDorn first-page notation is now verified: 3:28, printed Grade 3, Moderato con moto in 3/4, legato phrases over broken piano accompaniment. Alternative clarinet/alto edition confirmed; full saxophone range and a recording remain unverified.\n\n[[Review 0144 - Harry Gee - Homage to Vaughan Williams|Full evidence and open questions]]\n\n\n- Publisher Dorn Publications, catalog no. DORN0768 · [grothmusic.com](https://www.grothmusic.com/p-142799.aspx)\n- Listed as \"Homage to Vaughan Williams\" · [grothmusic.com](https://www.grothmusic.com/p-142799.aspx)\n\n<!-- saxobrain-research-review-2026-10-11 -->\n\n### Research Review, October 11, 2026\n\n[[Review 0144 - Harry Gee - Homage to Vaughan Williams|Full review note]]\n\nCatalog: [Harry Gee - Homage to Vaughan Williams.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Harry Gee - Homage to Vaughan Williams.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0144.json).\n\n**Identity and findings.** Dorn Publications DORN0768 lists Harry Gee’s Homage to Vaughan Williams for alto saxophone and piano. The catalog’s alternate spelling of “Vaughn” is not used as a distinct title. No score or performance evidence was found.\n\n**Sources checked.**\n- [Groth Music, Dorn listing](https://www.grothmusic.com/p-142799.aspx) (opened): Dorn listing identifies DORN0768 and the title Homage to Vaughan Williams for alto saxophone and piano.\n\n**Score.**\n- No notation was visually inspected.\n\n**Collection and audience context.** No documented pedagogical or programming use found.\n\n**Review focus.** Review the score for any thematic quotation, phrasing demands and saxophone range; the title alone does not establish a quotation or musical style.\n\n**Open questions.**\n- No readable score, recording or independent work-specific analysis located.\n\n**Tim decision:** pending.\n\n",
+      "assigned_level": null,
+      "decision": "Removed",
+      "review_applied": true,
+      "decision_note": "Tim requested removal from the catalog. The private evidence log is retained."
     },
     {
       "chat_number": 18,
@@ -1378,7 +1466,11 @@
           "arranger-edition": []
         },
         "chat_summary": "Dorn DORN1759 verified for alto saxophone and piano. NYPL has a manuscript photocopy in its American Music Center collection. No public notation or exact recording was verified, so musical demands remain unknown."
-      }
+      },
+      "assigned_level": "First Year",
+      "decision": "First Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned First Year."
     },
     {
       "chat_number": 19,
@@ -1449,7 +1541,16 @@
           "arranger-edition": []
         },
         "chat_summary": "Kendor alto/piano edition and purchase source verified. PMEA documents school contest use under its own Level Four classification. No notation or exact saxophone recording verified; c. 1980 and 2:40 remain older unconfirmed leads."
-      }
+      },
+      "removed": true,
+      "retired_url": "/works/harry-gee-second-ballade/",
+      "retired_aliases": [],
+      "redirect_to": "/",
+      "removed_work_snapshot": "---\ntitle: \"Second Ballade\"\nslug: harry-gee-second-ballade\ncomposer:\n  - \"[[Harry Gee]]\"\ninstruments:\n  - \"Alto Saxophone\"\n  - \"Piano\"\ncomposed: \nyear-of-study: \nstreaming: \npurchase:\n  - \"https://www.juneemersonwindmusic.com/SECOND-BALLADE.html\"\nadded: 2024-03-08\nresearch:\n  - \"NACWPI Score Collection (University of Maryland) lists Second Ballade for alto saxophone and piano, Kendor (Delevan, NY), c. 1980, duration 2:40, Grade 4 · https://digital.lib.umd.edu/scores/id/00008356\"\n  - \"Alto saxophone/piano edition; Kendor Music; retailer skill label C and purchase source. · https://www.juneemersonwindmusic.com/SECOND-BALLADE.html\"\n  - \"Second Ballade by Gee on Alto Saxophone Solo, Level Four list. · https://www.pmea.net/wp-content/uploads/2014/06/sax.pdf\"\n  - \"Separate flute/piano Second Ballade in box 1272. · https://nyplorg-data-archives.s3.amazonaws.com/uploads/collection/generated_finding_aids/mus24605.pdf\"\naliases: []\npublisher:\n  - \"Kendor Music\"\n---\n## Research notes (private)\n\n### Chat batch 10 follow-up, 2026-10-14\n\nKendor alto/piano edition and purchase source verified. PMEA documents school contest use under its own Level Four classification. No notation or exact saxophone recording verified; c. 1980 and 2:40 remain older unconfirmed leads.\n\n[[Review 0146 - Harry Gee - Second Ballade|Full evidence and open questions]]\n\n\n- NACWPI Score Collection (University of Maryland) lists Second Ballade for alto saxophone and piano, Kendor (Delevan, NY), c. 1980, duration 2:40, Grade 4 · [digital.lib.umd.edu](https://digital.lib.umd.edu/scores/id/00008356)\n\n<!-- saxobrain-research-review-2026-10-11 -->\n\n### Research Review, October 11, 2026\n\n[[Review 0146 - Harry Gee - Second Ballade|Full review note]]\n\nCatalog: [Harry Gee - Second Ballade.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Harry Gee - Second Ballade.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0146.json).\n\n**Identity and findings.** The University of Maryland NACWPI Score Collection catalogs Harry Gee’s Second Ballade for alto saxophone and piano, published by Kendor around 1980, with a 2:40 duration and a Grade 4 label. That label belongs to the collection record and is not a SaxoBrain level.\n\n**Sources checked.**\n- [University of Maryland Digital Collections, NACWPI Score Collection](https://digital.lib.umd.edu/scores/id/00008356) (opened): University of Maryland NACWPI collection catalog record lists the Kendor alto-saxophone-and-piano Second Ballade, c.1980, duration 2:40, Grade 4.\n\n**Score.**\n- No notation was visually inspected.\n\n**Collection and audience context.** Documented NACWPI collection catalog Grade 4 and duration; collection classification is not a new level recommendation.\n\n**Review focus.** The collection record gives a 2:40 catalog duration and Grade 4 label. Both are record metadata; inspect the score for phrase length, range, and piano texture before drawing a technical conclusion.\n\n**Open questions.**\n- The Maryland record is catalog metadata for a score collection; it does not provide readable notation in the opened record, and no score pages were inspected.\n- No current college programming or verified performance link found.\n\n**Tim decision:** pending.\n\n",
+      "assigned_level": null,
+      "decision": "Removed",
+      "review_applied": true,
+      "decision_note": "Tim requested removal from the catalog. The private evidence log is retained."
     },
     {
       "chat_number": 20,
@@ -1541,7 +1642,11 @@
           "multi-instruments": "One saxophonist changes among alto, tenor and baritone saxophones; pianist also uses wooden stick and iron chain."
         },
         "chat_summary": "Actual Part I notation verified: 1988/rev. 1995, timed seconds, broad dynamics and piano-string playing. Alto/tenor/baritone doubling and wooden stick/iron chain now verified in the retailer. Add tenor and baritone tags; instrument sequence, total range and recording remain unknown."
-      }
+      },
+      "assigned_level": "Advanced",
+      "decision": "Advanced",
+      "review_applied": true,
+      "decision_note": "Tim assigned Advanced."
     },
     {
       "chat_number": 21,
@@ -1626,7 +1731,11 @@
           "arranger-edition": []
         },
         "chat_summary": "DMP108046 identity verified from actual score pages 3 and 6. Opening 3/8, written E-flat saxophone notation, chromatic runs, repeated-note figure, dynamic shaping and independent piano material are visible. 2008 is copyright only; no exact recording found."
-      }
+      },
+      "assigned_level": "Fourth Year",
+      "decision": "Fourth Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Fourth Year."
     },
     {
       "chat_number": 22,
@@ -1692,7 +1801,16 @@
           "arranger-edition": []
         },
         "chat_summary": "IRCAM confirms Duel de Capricares (plural), 1996, alto/piano, 12 to 15 minutes. Professional use verified on Giovanni Nardi's repertoire list. CiNii reports five pages of French performance instructions and saxophone material reused from Caprices de Saxicare. No score or exact recording located; preserve title/instrument conflicts for Tim."
-      }
+      },
+      "removed": true,
+      "retired_url": "/works/henri-pousseur-duel-de-capricare/",
+      "retired_aliases": [],
+      "redirect_to": "/",
+      "removed_work_snapshot": "---\ntitle: \"Duel de Capricare\"\nslug: henri-pousseur-duel-de-capricare\ncomposer:\n  - \"[[Henri Pousseur]]\"\ninstruments:\n  - \"Any Saxophone\"\n  - \"Piano\"\ncomposed: 1996\nyear-of-study: \narranger-edition: \npublisher:\n  - \"Suvini-Zerboni\"\nstreaming: \npurchase: []\nadded: 2026-10-09\nresearch:\n  - \"IRCAM Brahms catalogue lists 'Duel de Capricares', a mobile for alto saxophone and piano, 12 to 15 minutes, Suvini Zerboni (title spelled Capricares there) · https://brahms.ircam.fr/en/work/caprices-de-saxicare\"\n  - \"Duel de Capricares 1996, mobile for alto saxophone and piano, 12 to 15 minutes, Suvini Zerboni. · https://medias.ircam.fr/fr/work/duel-de-capricares\"\n  - \"Exact alto/piano duo on professional repertoire list. · https://www.giovanninardi.com/en/biography/\"\naliases: []\n---\n## Research notes (private)\n\n### Chat batch 10 follow-up, 2026-10-14\n\nIRCAM confirms Duel de Capricares (plural), 1996, alto/piano, 12 to 15 minutes. Professional use verified on Giovanni Nardi's repertoire list. CiNii reports five pages of French performance instructions and saxophone material reused from Caprices de Saxicare. No score or exact recording located; preserve title/instrument conflicts for Tim.\n\n[[Review 0149 - Henri Pousseur - Duel de Capricare|Full evidence and open questions]]\n\n\n- IRCAM Brahms catalogue lists 'Duel de Capricares', a mobile for alto saxophone and piano, 12 to 15 minutes, Suvini Zerboni (title spelled Capricares there) · [brahms.ircam.fr](https://brahms.ircam.fr/en/work/caprices-de-saxicare)\n\n<!-- saxobrain-research-review-2026-10-11 -->\n\n### Research Review, October 11, 2026\n\n[[Review 0149 - Henri Pousseur - Duel de Capricare|Full review note]]\n\nCatalog: [Henri Pousseur - Duel de Capricare.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Henri Pousseur - Duel de Capricare.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0149.json).\n\n**Identity and findings.** IRCAM identifies Henri Pousseur’s Duel de Capricares (1996) as a mobile for alto saxophone and piano, lasting 12-15 minutes. CiNii's library record for the 1997 reproduced holograph says the saxophone part derives from Caprices de Saxicare and that a new piano part was added. This supports a title/version relationship with the local record, though the catalogue’s singular spelling differs from the IRCAM title.\n\n**Sources checked.**\n- [IRCAM Resources](https://medias.ircam.fr/fr/work/duel-de-capricares) (opened): IRCAM's work record identifies Duel de Capricares (1996), mobile for alto saxophone and piano, 12-15 minutes, published by Suvini Zerboni.\n- [National Institute of Informatics CiNii](https://ci.nii.ac.jp/ncid/BA37981048) (opened): CiNii record says the saxophone part derives from Caprices de Saxicare, with a new piano part added; it describes a reproduced holograph and score materials.\n\n**Score.**\n- No notation was visually inspected.\n\n**Collection and audience context.** Mobile chamber work for alto saxophone and piano; no youth or course classification found.\n\n**Review focus.** Inference: the mobile-form designation warrants checking ordering/performance choices and coordination with the added piano part; the score has not been inspected.\n\n**Open questions.**\n- The direct record supports a relationship between Duel de Capricares and Caprices de Saxicare, but the exact edition/catalog title should be checked against the score.\n- No score or performance inspected; exact performance-order options are unknown.\n\n**Potential catalog corrections for Tim to assess.**\n- {'field': 'title', 'current': 'Duel de Capricare', 'suggested': 'Duel de Capricares', 'reason': \"IRCAM's primary work record and CiNii's record use Duel de Capricares; CiNii links the edition's saxophone part to Caprices de Saxicare with an added piano part.\", 'evidence_urls': ['https://medias.ircam.fr/fr/work/duel-de-capricares', 'https://ci.nii.ac.jp/ncid/BA37981048']}\n- {'field': 'instruments', 'current': ['Any Saxophone', 'Piano'], 'suggested': ['Alto Saxophone', 'Piano'], 'reason': 'IRCAM specifies alto saxophone and piano for this title/version.', 'evidence_urls': ['https://medias.ircam.fr/fr/work/duel-de-capricares']}\n\n**Tim decision:** pending.\n\n#### Catalog Details Added\n\n- Composition year: 1996. [Source](https://medias.ircam.fr/fr/work/duel-de-capricares)\n\n",
+      "assigned_level": null,
+      "decision": "Removed",
+      "review_applied": true,
+      "decision_note": "Tim requested removal from the catalog. The private evidence log is retained."
     },
     {
       "chat_number": 23,
@@ -1796,7 +1914,16 @@
         },
         "public_note": "The Apple Music link offers a ninety-second preview of Arno Bornkamp and Leo van Doeselaar. The complete recording lasts 3:11.",
         "chat_summary": "Billaudot GB6425 confirms piano or organ. Panorama Volume 2 is explicitly labelled préparatoire. The teaching guide describes singing phrasing and a low A to raise an octave. Bornkamp’s original alto/piano recording has a playable ninety-second Apple preview. No notation inspected."
-      }
+      },
+      "removed": true,
+      "retired_url": "/works/henri-sauguet-une-fleur/",
+      "retired_aliases": [],
+      "redirect_to": "/",
+      "removed_work_snapshot": "---\ntitle: \"Une Fleur\"\nslug: henri-sauguet-une-fleur\ncomposer:\n  - \"[[Henri Sauguet]]\"\ninstruments:\n  - \"Alto Saxophone\"\n  - \"Piano\"\n  - \"Organ\"\ncomposed: 1985\nyear-of-study: \nstreaming: \"https://music.apple.com/us/album/une-fleur/1738893899?i=1738893902\"\npurchase:\n  - https://www.grothmusic.com/p-141397.aspx\nadded: 2024-03-08\nresearch:\n  - \"Duration 3:11 on the Genuin album Bornkamp & Friends play Henri Sauguet (Arno Bornkamp, alto saxophone) · https://www.genuin.de/webbooklets/GEN24871_webbooklet.pdf\"\n  - \"Booklet calls it \\\"one of his last works\\\" (1985) · https://www.genuin.de/webbooklets/GEN24871_webbooklet.pdf\"\n  - \"GB6425, saxophone with piano or organ, eight pages, copyright 1998. · https://www.billaudot.com/gb6425-6.html\"\n  - \"Panorama Volume 2 includes Une fleur and is labelled préparatoire. · https://www.billaudot.com/gb3921-6.html\"\n  - \"Composition 1985, original alto/piano work, 3:11 world-premiere recording; work-specific floral note. · https://cdn.naxosmusiclibrary.com/sharedfiles/booklets/GEN/booklet-GEN24871.pdf\"\n  - \"Exact track composer/performers/duration and playable ninety-second preview. · https://music.apple.com/us/album/une-fleur/1738893899?i=1738893902\"\n  - \"Includes piano score and alto part; six-page retailer count differs from publisher. · https://www.grothmusic.com/p-141397-une-fleur-alto-saxophone-and-piano.aspx\"\naliases: []\npublisher:\n  - \"Éditions Billaudot\"\n---\nThe Apple Music link offers a ninety-second preview of Arno Bornkamp and Leo van Doeselaar. The complete recording lasts 3:11.\n\n## Research notes (private)\n\n### Chat batch 10 follow-up, 2026-10-14\n\nBillaudot GB6425 confirms piano or organ. Panorama Volume 2 is explicitly labelled préparatoire. The teaching guide describes singing phrasing and a low A to raise an octave. Bornkamp’s original alto/piano recording has a playable ninety-second Apple preview. No notation inspected.\n\n[[Review 0151 - Henri Sauguet - Une Fleur|Full evidence and open questions]]\n\n\n- Duration 3:11 on the Genuin album Bornkamp & Friends play Henri Sauguet (Arno Bornkamp, alto saxophone) · [genuin.de](https://www.genuin.de/webbooklets/GEN24871_webbooklet.pdf)\n- Booklet calls it \"one of his last works\" (1985) · [genuin.de](https://www.genuin.de/webbooklets/GEN24871_webbooklet.pdf)\n\n<!-- saxobrain-research-review-2026-10-11 -->\n\n### Research Review, October 11, 2026\n\n[[Review 0151 - Henri Sauguet - Une Fleur|Full review note]]\n\nCatalog: [[Henri Sauguet - Une Fleur]]\n\n- Identity: Henri Sauguet, Une fleur, for alto saxophone and piano or organ. The Bornkamp recording booklet dates the piece 1985; Billaudot identifies the current edition as GB6425, 8 pages, copyright 1998.\n- Billaudot catalog lists saxophone with piano or organ, GB6425, 8 pages, copyright 1998. [Billaudot catalog](https://www.billaudot.com/gb6425-6.html) (search_index_only).\n- Genuin booklet identifies the 1985 work for alto saxophone and piano and lists Arno Bornkamp’s recording at 3:11. [Genuin recording booklet](https://cdn.naxosmusiclibrary.com/sharedfiles/booklets/GEN/booklet-GEN24871.pdf) (search_index_only).\n- Recording: [Arno Bornkamp, Genuin booklet track entry, 3:11.](https://www.genuin.de/webbooklets/GEN24871_webbooklet.pdf) Recording metadata found; playback not auditioned.\n- Collection/use: Published saxophone work; a documented Bornkamp recording supports professional performance circulation.\n- Review focus: Inference: the verified short duration and dual piano/organ editions may make this a compact recital selection; check the printed part for range and phrasing before placement.\n- Gaps: Score pages not inspected; range and technical demands unknown.\n\n",
+      "assigned_level": null,
+      "decision": "Removed",
+      "review_applied": true,
+      "decision_note": "Tim requested removal from the catalog. The private evidence log is retained."
     },
     {
       "chat_number": 24,
@@ -1883,7 +2010,16 @@
           "arranger-edition": []
         },
         "chat_summary": "AL21768 alto/piano edition verified. Arkansas's 2025 required list establishes school contest use under its own III category. 1957 is library publication dating only. No actual notation or exact public performance found; Wytko's Piece Concertante and Husa's Elegie et Rondeau are distinct."
-      }
+      },
+      "removed": true,
+      "retired_url": "/works/hermann-reutter-elegie/",
+      "retired_aliases": [],
+      "redirect_to": "/",
+      "removed_work_snapshot": "---\ntitle: \"Elegie\"\nslug: hermann-reutter-elegie\ncomposer:\n  - \"[[Hermann Reutter]]\"\ninstruments:\n  - \"Alto Saxophone\"\n  - \"Piano\"\ncomposed: \nyear-of-study: \nstreaming: \npurchase:\n  - https://www.grothmusic.com/p-148249.aspx\nadded: 2024-03-08\nresearch:\n  - \"Publisher Alphonse Leduc, catalog no. AL21768 · https://www.grothmusic.com/p-148249.aspx\"\n  - \"3 pages · https://www.grothmusic.com/p-148249.aspx\"\n  - \"Exact alto/piano AL21768 edition and three-page retailer count. · https://www.grothmusic.com/p-148249-elegie-alto-saxophone-and-piano.aspx\"\n  - \"Required school solo/ensemble circulation, ALTO SAX SOLO III, SG39054, LEDUC. · https://asboa.org/wp-content/uploads/2025/04/Solos-Updated-2025.pdf\"\naliases: []\npublisher:\n  - \"Alphonse Leduc\"\n---\n## Research notes (private)\n\n### Chat batch 10 follow-up, 2026-10-14\n\nAL21768 alto/piano edition verified. Arkansas's 2025 required list establishes school contest use under its own III category. 1957 is library publication dating only. No actual notation or exact public performance found; Wytko's Piece Concertante and Husa's Elegie et Rondeau are distinct.\n\n[[Review 0152 - Hermann Reutter - Elegie|Full evidence and open questions]]\n\n\n- Publisher Alphonse Leduc, catalog no. AL21768 · [grothmusic.com](https://www.grothmusic.com/p-148249.aspx)\n- 3 pages · [grothmusic.com](https://www.grothmusic.com/p-148249.aspx)\n\n<!-- saxobrain-research-review-2026-10-11 -->\n\n### Research Review, October 11, 2026\n\n[[Review 0152 - Hermann Reutter - Elegie|Full review note]]\n\nCatalog: [[Hermann Reutter - Elegie]]\n\n- Identity: Hermann Reutter, Élégie for E-flat alto saxophone and piano, Alphonse Leduc AL21768; retailer listing gives 3 pages.\n- Alphonse Leduc’s catalog identifies the E-flat saxophone and piano edition AL21768. [Leduc catalog](https://casamusicaledelrio.it/casamusicale/wp-content/uploads/2019/04/CAT-18-107-Leduc-Catalogue-2018-ss-GS-v6-NO-CROPS-LO-RESv2.pdf) (search_index_only).\n- A current listing identifies AL21768 and the 3-page score. [Presto Music](https://www.prestomusic.com/sheet-music/products/7377502--reutter-elegie) (search_index_only).\n- Collection/use: unknown\n- Gaps: No accessible score, performance recording, or pedagogical placement located.\n\n",
+      "assigned_level": null,
+      "decision": "Removed",
+      "review_applied": true,
+      "decision_note": "Tim requested removal from the catalog. The private evidence log is retained."
     },
     {
       "chat_number": 25,
@@ -1994,7 +2130,13 @@
         },
         "chat_summary": "A substantial original with recurring rhythmic motives, fugue and hemiola in the outer sections. The lyrical Berceuse changes between 5/8 and 6/8. These details come from performer notes; notation was unavailable. Three exact Lunte/Blome recordings are linked.",
         "public_note": "The embedded recording plays I. Exposition only (4:56). Listen also to [II. Berceuse](https://www.youtube.com/watch?v=5zIFokcQGC4) and [III. Combination](https://www.youtube.com/watch?v=dVHziH_hNHQ), performed by Frank Lunte and Tatjana Blome."
-      }
+      },
+      "assigned_level": "Second Year",
+      "decision": "Second Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Second Year.",
+      "recording_confirmed": "YouTube streaming already present and retained at Tim’s request."
     }
-  ]
+  ],
+  "applied_on": "2026-10-14"
 }

@@ -3,8 +3,8 @@ title: "Review 0130: Gérard Gasparian - Fantaisie"
 added: 2026-10-11
 review-id: 130
 review-packet: 6
-review-decision: Pending
-review-applied: false
+review-decision: "Third Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Gérard Gasparian - Fantaisie]]"
 build:
@@ -66,3 +66,7 @@ Sources checked:
 - [Apple Music Classical](https://classical.music.apple.com/ca/album/406863471): Exact track title, composer, album and 7:10 duration. (opened)
 - [YouTube official Believe SAS/Arion Topic track metadata via yt-dlp](https://www.youtube.com/watch?v=NNDHgAdYEkI): Exact full 7:10 Fantaisie recording, composer Gasparian, duo personnel, public availability. (opened)
 - [Apple Music public lookup API, ID 406863471 with entity=song](https://music.apple.com/ca/album/fantaisie-pour-saxo-soprano-piano/406863471?i=406863520&uo=4): Exact Apple track identity and430124ms duration. (opened)
+
+## Chat Batch 10 Decision, 2026-10-14
+
+Tim assigned Third Year.

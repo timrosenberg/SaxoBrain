@@ -3,8 +3,8 @@ title: "Review 0132: Günter Raphael - Concertino Op. 71"
 added: 2026-10-11
 review-id: 132
 review-packet: 6
-review-decision: Pending
-review-applied: false
+review-decision: "Third Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Günter Raphael - Concertino Op. 71]]"
 build:
@@ -58,3 +58,7 @@ Sources checked:
 - [Katarzyna Piotrowska YouTube performer upload, full metadata via yt-dlp](https://www.youtube.com/watch?v=I3MjgHQIjcc): Exact complete 15:23 public performer upload with alto saxophone and piano personnel. (opened)
 - [Groth Music live exact-edition product HTML](https://www.grothmusic.com/p-38053.aspx): EB5986 contains piano reduction of orchestra and saxophone part. (opened)
 - [Katarzyna Piotrowska performer upload, visually inspected](https://www.youtube.com/watch?v=I3MjgHQIjcc): Title card confirms Allegro, Andante and Presto in full public player. (opened)
+
+## Chat Batch 10 Decision, 2026-10-14
+
+Tim assigned Third Year.

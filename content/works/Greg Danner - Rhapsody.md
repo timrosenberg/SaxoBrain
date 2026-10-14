@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
+year-of-study: "Fourth Year"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-143302.aspx

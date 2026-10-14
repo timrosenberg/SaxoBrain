@@ -3,7 +3,7 @@ title: "Review 0135: Hans Engelmann - Integrale"
 added: 2026-10-11
 review-id: 135
 review-packet: 6
-review-decision: Pending
+review-decision: "Hold"
 review-applied: false
 notation-inspected: false
 catalog-entry: "[[Hans Engelmann - Integrale]]"
@@ -60,3 +60,7 @@ Sources checked:
 - [Christopher Mark DeLouis, West Virginia University DMA dissertation (2021)](https://fileserver-az.core.ac.uk/download/490623034.pdf): Seven-minute alto-and-piano work; asymmetrical changing meters in movement 2; no extended saxophone techniques; dedication and publication details. (opened)
 - [Internationales Musikinstitut Darmstadt archival chronology](https://internationales-musikinstitut.de/de/chronik/amsterdam-1987/): Composition year 1954 and documented 1987 saxophone/piano performance. (opened)
 - [University of the Arts Helsinki Taju archive](https://taju.uniarts.fi/items/48bf355a-f3af-483e-82ad-ff2dbe0e2360): Exact archived recording identity and workstation-only access. (search_index_only)
+
+## Chat Batch 10 Decision, 2026-10-14
+
+Tim marked the difficulty unknown. Review is on hold; the work remains unassigned.

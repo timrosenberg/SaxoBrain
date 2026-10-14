@@ -3,8 +3,8 @@ title: "Review 0140: Harley Rex - Andando and Brillante"
 added: 2026-10-11
 review-id: 140
 review-packet: 6
-review-decision: Pending
-review-applied: false
+review-decision: "Third Year"
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Harley Rex - Andando and Brillante]]"
 build:
@@ -56,3 +56,7 @@ Sources checked:
 - [Groth Music, Dorn exact-edition listing](https://www.grothmusic.com/p-140129-andando-and-brillante-alto-sax-and-piano.aspx): DORN0188, alternate soprano part, alto/piano edition, dedication and 24-page extent. (opened)
 - [Dorn printed score sample via Groth](https://www.grothmusic.com/images/product/large/ae00-121730_2_.jpg): Andando and Brillante score heading and observed opening musical demands. (score_inspected)
 - [Dorn Publications April 2025 catalog](https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf): Dorn order 188, Alto Saxophone and Piano catalog entry. (opened)
+
+## Chat Batch 10 Decision, 2026-10-14
+
+Tim assigned Third Year.

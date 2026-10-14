@@ -3,8 +3,8 @@ title: "Review 0148: Hendrik de Regt - Caprice"
 added: 2026-10-11
 review-id: 148
 review-packet: 6
-review-decision: Pending
-review-applied: false
+review-decision: "Fourth Year"
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Hendrik de Regt - Caprice]]"
 build:
@@ -58,3 +58,7 @@ Sources checked:
 - [Digital Music Print score preview hosted by Partitions Musicales](https://www.partitions-musicales.net/out/pictures/master/product/1/Art_653533_2.JPG): Exact edition number, 2008 copyright, opening transposed notation and musical texture. (score_inspected)
 - [Digital Music Print score preview hosted by Partitions Musicales](https://www.partitions-musicales.net/out/pictures/master/product/1/Art_653533_5.JPG): Further runs, dynamics and meter changes in excerpt. (score_inspected)
 - [Harry Sparnaay, El clarinete bajo](https://fundacion-ninodiaz.org/wp-content/uploads/2018/05/003Elclarinetebajoes.pdf): Distinct bass-clarinet Caprice and Dance DMP107049 must not supply this work's classification. (search_index_only)
+
+## Chat Batch 10 Decision, 2026-10-14
+
+Tim assigned Fourth Year.

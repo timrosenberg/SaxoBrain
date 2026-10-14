@@ -3,8 +3,8 @@ title: "Review 0125: Greg Danner - Rhapsody"
 added: 2026-10-11
 review-id: 125
 review-packet: 5
-review-decision: Pending
-review-applied: false
+review-decision: "Fourth Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Greg Danner - Rhapsody]]"
 build:
@@ -47,3 +47,7 @@ Open questions: No readable notation located. The product page’s sample sectio
 
 Sources checked:
 - [Groth Music live product HTML](https://www.grothmusic.com/p-143302.aspx): Avanti AV3613, for Phil Barham, alto saxophone and piano, 28 pages. (opened)
+
+## Chat Batch 10 Decision, 2026-10-14
+
+Tim assigned Fourth Year.

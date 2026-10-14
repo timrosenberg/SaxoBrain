@@ -9,7 +9,7 @@ instruments:
   - "Tenor Saxophone"
   - "Baritone Saxophone"
 composed: 1988
-year-of-study: 
+year-of-study: "Advanced"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-143808.aspx

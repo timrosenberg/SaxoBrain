@@ -3,10 +3,10 @@ title: "Review 0143: Harry Gee - Canto"
 added: 2026-10-11
 review-id: 143
 review-packet: 6
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Harry Gee - Canto]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [Harry Gee - Canto.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Harry Gee - Canto.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0143.json).
+Catalog: removed at Tim’s request on 2026-10-14.
 
 **Identity and findings.** Shawnee Press catalog 35002765 identifies Harry Gee’s Canto for alto saxophone and piano. Search results were polluted by similar titles and Gee pieces, so no technical or programming claims are carried over from unrelated works.
 
@@ -56,3 +56,7 @@ Sources checked:
 - [Groth Music exact-edition listing](https://www.grothmusic.com/p-37709-canto-alto-sax-and-piano.aspx): Canto by Harry Gee, alto/piano, Shawnee Press 35002765, four pages. (opened)
 - [Dorn Publications April 2025 catalog](https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf): Gee Canto, order 1260 under Alto Saxophone and Piano. (opened)
 - [Stanton's Sheet Music](https://www.stantons.com/sheet-music/title/canto/LA0251/): LA0251 Canto is a flute edition, not the assigned saxophone edition. (opened)
+
+## Chat Batch 10 Decision, 2026-10-14
+
+Tim requested removal from the catalog. The private evidence log is retained.

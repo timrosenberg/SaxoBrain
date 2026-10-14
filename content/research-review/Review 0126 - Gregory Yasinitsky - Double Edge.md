@@ -3,8 +3,8 @@ title: "Review 0126: Gregory Yasinitsky - Double Edge"
 added: 2026-10-11
 review-id: 126
 review-packet: 6
-review-decision: Pending
-review-applied: false
+review-decision: "Third Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Gregory Yasinitsky - Double Edge]]"
 build:
@@ -57,3 +57,7 @@ Sources checked:
 - [Greg Yasinitsky, publications list linked from composer website](https://gregyasinitsky.com/files/525550/gregpublications-7-18.pdf): Alto saxophone and piano; commissioned by Dorn Music for Banaszak Double Vision; dated 1994 in publication list. (opened)
 - [Dorn Publications music catalog hosted by Groth Music](https://www.grothmusic.com/images/DP%20Catalog%20Nov%202024.pdf): Dorn order 993 under alto saxophone and piano. (opened)
 - [MATRIX composer profile and discography](https://www.matrixonline.net/profile/GregYasinitsky): Double Edge masterclass CD listed in 2005 Saxophone Journal. (search_index_only)
+
+## Chat Batch 10 Decision, 2026-10-14
+
+Tim assigned Third Year.

@@ -17,7 +17,7 @@ Each candidate will present **two works**:
 - **1 work with piano to be chosen from the following list**:
 - *[[Marcel De Jonghe - Concerto|Concerto]]* by Marcel De Jonghe - Ed. Lantro Music.
 - *[[Pierre Liémans - A la bonne heure|A la bonne heure]]* by Pierre Liémans - Ed. Bayard-Nizet - Rue des Ecoles, 6 - B-4970 Stavelot - contact@bayard-nizet.com
-- *[[Henri Pousseur - Duel de Capricare|Duel de Capricare]]* by Henri Pousseur - Ed. Suvini-Zerboni - MKT - Via Corsica, 305 - I-25125 Brescia (BS) - suvini.zerboni@sugarmusic.com. It is imperative for a candidate choosing to interpret this work to be accompanied by a private pianist. The number of movements interpreted is left to the choice of the candidate taking into account the time available for them to complete their round.
+- *Duel de Capricare* by Henri Pousseur - Ed. Suvini-Zerboni - MKT - Via Corsica, 305 - I-25125 Brescia (BS) - suvini.zerboni@sugarmusic.com. It is imperative for a candidate choosing to interpret this work to be accompanied by a private pianist. The number of movements interpreted is left to the choice of the candidate taking into account the time available for them to complete their round.
 - *[[Frederik van Rossum - Pathetic Story|Pathetic Story]]* by Frederik van Rossum - Cebedem - Avenue du Port, 86C Bte 214 - B-1000 Bruxelles - info@cebedem.be
 - *[[Willy Bauweraerts - Trilogie|Trilogie]]* by Willy Bauweraerts - Ed. Golden River Music - Deken Debostraat, 61 - B-8791 Beveren-Leie - goldenrivermusic@pandora.be
 - *[[Jean Absil - Sonate, Op. 115|Sonate]]* by Jean Absil - Ed. Lemoine - Rue Bayen, 41 - F-75017 Paris - info@editions-lemoine.fr

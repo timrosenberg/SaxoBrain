@@ -3,8 +3,8 @@ title: "Review 0138: Harald Genzmer - Sonate (Soprano)"
 added: 2026-10-11
 review-id: 138
 review-packet: 6
-review-decision: Pending
-review-applied: false
+review-decision: "Fourth Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Harald Genzmer - Sonate (Soprano)]]"
 build:
@@ -60,3 +60,7 @@ Open questions: Movement count is internally inconsistent in Groth's listing. No
 Sources checked:
 - [Groth Music exact-edition product page](https://www.grothmusic.com/p-144588-sonata-soprano-sax-or-clarinet-and-piano.aspx): Edition RE24008, publisher, 34 pages, soprano saxophone or B-flat clarinet with piano; descriptive virtuosity commentary and conflicting contents. (opened)
 - [Stretta exact-edition catalog](https://www.stretta-music.cz/genzmer-sonate-sopran-sax-in-b-und-klavier-gewv-246-1982-nr-555944.html): GeWV 246 (1982), RE24008 and ISMN. (search_index_only)
+
+## Chat Batch 10 Decision, 2026-10-14
+
+Tim assigned Fourth Year.

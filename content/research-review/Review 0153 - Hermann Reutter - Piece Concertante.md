@@ -3,8 +3,8 @@ title: "Review 0153: Hermann Reutter - Piece Concertante"
 added: 2026-10-11
 review-id: 153
 review-packet: 7
-review-decision: Pending
-review-applied: false
+review-decision: "Second Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Hermann Reutter - Piece Concertante]]"
 build:
@@ -48,3 +48,7 @@ Sources checked:
 - [Frank Lunte official Topic recording](https://www.youtube.com/watch?v=vzud9ozcHFI): Exact Reutter movement, Lunte/Blome performers and public availability. (opened)
 - [Frank Lunte official Topic recording](https://www.youtube.com/watch?v=dVHziH_hNHQ): Exact Reutter movement, Lunte/Blome performers and public availability. (opened)
 - [Frank Lunte official Topic recording](https://www.youtube.com/watch?v=5zIFokcQGC4): Exact Reutter movement, Lunte/Blome performers and public availability. (opened)
+
+## Chat Batch 10 Decision, 2026-10-14
+
+Tim assigned Second Year.

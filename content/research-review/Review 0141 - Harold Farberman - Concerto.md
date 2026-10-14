@@ -3,7 +3,7 @@ title: "Review 0141: Harold Farberman - Concerto"
 added: 2026-10-11
 review-id: 141
 review-packet: 6
-review-decision: Pending
+review-decision: "Hold"
 review-applied: false
 notation-inspected: false
 catalog-entry: "[[Harold Farberman - Concerto]]"
@@ -57,3 +57,7 @@ Sources checked:
 - [Groth Music exact-edition listing](https://www.grothmusic.com/p-37714-concerto-alto-sax-and-piano.aspx): General GEN823, Concerto for alto saxophone and piano, Farberman. (opened)
 - [Steven Lowe, High Fidelity March 1967](https://www.worldradiohistory.com/Archive-All-Audio/Archive-High-Fidelity/60s/High-Fidelity-1967-03.pdf): Exact historical saxophone/string-orchestra recording; bluesy glissandos in Largo; work exists by March 1967. (opened)
 - [Baker's Biographical Dictionary of Musicians via Encyclopedia.com](https://www.encyclopedia.com/arts/dictionaries-thesauruses-pictures-and-press-releases/farberman-harold): Indexed secondary composition-year lead 1965, alto saxophone and strings. (search_index_only)
+
+## Chat Batch 10 Decision, 2026-10-14
+
+Tim marked the difficulty unknown. Review is on hold; the work remains unassigned.

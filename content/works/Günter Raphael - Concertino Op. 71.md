@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 1951
-year-of-study: 
+year-of-study: "Third Year"
 streaming: "https://www.youtube.com/watch?v=I3MjgHQIjcc"
 purchase:
   - https://www.grothmusic.com/p-38053.aspx

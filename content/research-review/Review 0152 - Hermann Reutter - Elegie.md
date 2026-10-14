@@ -3,10 +3,10 @@ title: "Review 0152: Hermann Reutter - Elegie"
 added: 2026-10-11
 review-id: 152
 review-packet: 7
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Hermann Reutter - Elegie]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [[Hermann Reutter - Elegie]]
+Catalog: removed at Tim’s request on 2026-10-14.
 
 - Identity: Hermann Reutter, Élégie for E-flat alto saxophone and piano, Alphonse Leduc AL21768; retailer listing gives 3 pages.
 - Alphonse Leduc’s catalog identifies the E-flat saxophone and piano edition AL21768. [Leduc catalog](https://casamusicaledelrio.it/casamusicale/wp-content/uploads/2019/04/CAT-18-107-Leduc-Catalogue-2018-ss-GS-v6-NO-CROPS-LO-RESv2.pdf) (search_index_only).
@@ -45,3 +45,7 @@ Sources checked:
 - [Alphonse Leduc 2018 publisher catalog](https://casamusicaledelrio.it/casamusicale/wp-content/uploads/2019/04/CAT-18-107-Leduc-Catalogue-2018-ss-GS-v6-NO-CROPS-LO-RESv2.pdf): Leduc catalog identifies Élégie for E-flat saxophone/piano, AL21768. (search_index_only)
 - [Joseph Wytko performer discography](https://www.josephwytkosaxophone.com/discography.html): Wytko Reutter recording is Piece Concertante, not Élégie. (search_index_only)
 - [Schott Music publisher](https://schottmusiclondon.com/epitaph-fuer-ophelia-no37128.html): Elegie movement in Epitaph für Ophelia is a distinct violin work. (search_index_only)
+
+## Chat Batch 10 Decision, 2026-10-14
+
+Tim requested removal from the catalog. The private evidence log is retained.

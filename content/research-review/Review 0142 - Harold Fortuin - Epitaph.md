@@ -3,8 +3,8 @@ title: "Review 0142: Harold Fortuin - Epitaph"
 added: 2026-10-11
 review-id: 142
 review-packet: 6
-review-decision: Pending
-review-applied: false
+review-decision: "Fourth Year"
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Harold Fortuin - Epitaph]]"
 build:
@@ -61,3 +61,7 @@ Sources checked:
 - [Harold Fortuin archived composer work catalog](https://www.oocities.org/harold_fortuin/HFCompos.html): 1991, alto saxophone and piano, duration 6:04, exact notation/audio excerpt links. (opened)
 - [Harold Fortuin composer-linked score excerpt](https://www.oocities.org/harold_fortuin/EpitaphExcerpt.JPG?t): Changing 5/4 and 6/4, chromatic thirty-second-note figures, upper-register writing, dynamic contrasts and piano texture. (score_inspected)
 - [Groth Music, Dorn exact-edition listing](https://www.grothmusic.com/p-142335-epitaph-alto-saxophone-and-piano.aspx): DORN0164, 20 pages, commission and premiere details. (opened)
+
+## Chat Batch 10 Decision, 2026-10-14
+
+Tim assigned Fourth Year.

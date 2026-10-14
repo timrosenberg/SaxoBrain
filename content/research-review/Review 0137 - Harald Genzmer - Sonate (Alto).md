@@ -3,7 +3,7 @@ title: "Review 0137: Harald Genzmer - Sonate (Alto)"
 added: 2026-10-11
 review-id: 137
 review-packet: 6
-review-decision: Pending
+review-decision: "Hold"
 review-applied: false
 notation-inspected: false
 catalog-entry: "[[Harald Genzmer - Sonate (Alto)]]"
@@ -61,3 +61,7 @@ Sources checked:
 - [Harald Genzmer Foundation work list](https://genzmer-stiftung.schott-campus.com/werke/): Composition year 1984 and GeWV 249, alto saxophone and piano. (opened)
 - [Groth Music exact-edition catalog](https://www.grothmusic.com/p-37738-sonata-alto-sax-and-piano.aspx): Current RE24010 edition, alto saxophone and piano, Ries & Erler. (opened)
 - [Günter Priesner, Tibia 4/1986, published by Moeck](https://www.moeck.com/fileadmin/Assets/Tibia/1986-4.pdf): Seventh leaps, sonata-form first movement, altissimo G, Largo cantilena, finale 7/8 and virtuosic runs. (opened)
+
+## Chat Batch 10 Decision, 2026-10-14
+
+Tim marked the difficulty unknown. Review is on hold; the work remains unassigned.

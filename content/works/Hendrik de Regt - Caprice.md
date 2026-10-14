@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
+year-of-study: "Fourth Year"
 streaming: 
 purchase:
   - "https://boosey.com/shop/prod/Hendrik-de-Regt-Caprice/2454493"

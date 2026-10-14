@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Unaccompanied"
 composed: 1954
-year-of-study: 
+year-of-study: "Third Year"
 streaming: "https://www.youtube.com/watch?v=gNHQergu50I"
 purchase:
   - https://www.grothmusic.com/p-147272.aspx

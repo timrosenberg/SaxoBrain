@@ -7,7 +7,7 @@ instruments:
   - "Soprano Saxophone"
   - "Piano"
 composed: 1994
-year-of-study: 
+year-of-study: "Third Year"
 streaming: "https://www.youtube.com/watch?v=NNDHgAdYEkI"
 purchase:
   - "https://www.grothmusic.com/p-144586.aspx"

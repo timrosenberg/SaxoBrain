@@ -7,7 +7,7 @@ instruments:
   - "Soprano Saxophone"
   - "Piano"
 composed: 1982
-year-of-study: 
+year-of-study: "Fourth Year"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-144588.aspx
