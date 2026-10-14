@@ -1,14 +1,16 @@
 ---
-title: "Brenton Broadstock"
+title: Brenton Broadstock
 slug: brenton-broadstock
-nationality: []
-gender: 
-race: []
+nationality:
+  - 🇦🇺 Australian
+gender: Male
+race:
+  - White
 born: 1952
-died: 
+died:
 wikidata: Q392099
-photo: "/media/composers/brenton-broadstock.jpg"
-photo-credit: "Wikimedia Commons"
-photo-source: "https://commons.wikimedia.org/wiki/File:Brenton_Broadstock.jpg"
+photo: /media/composers/brenton-broadstock.jpg
+photo-credit: Wikimedia Commons
+photo-source: https://commons.wikimedia.org/wiki/File:Brenton_Broadstock.jpg
 aliases: []
 ---

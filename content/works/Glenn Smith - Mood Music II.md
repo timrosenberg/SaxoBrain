@@ -7,8 +7,9 @@ instruments:
   - "Any Saxophone"
   - "Unaccompanied"
 composed: 
-year-of-study: 
-arranger-edition: 
+year-of-study: "Second Year"
+arranger-edition:
+  - "LKM Music S152001 / Hal Leonard 00040180"
 publisher:
   - "Lauren Keiser Music Publishing"
 streaming: 
@@ -18,9 +19,19 @@ added: 2026-10-09
 research:
   - "Publisher grade IV-V (retailer listing) · https://www.musicarts.com/lauren-keiser-music-publishing-mood-music-2-unaccompanied-lkm-music-series-by-glenn-smith-main0362129"
   - "Listed as Mood Music 2 (Unaccompanied), for any two like saxophones; recorded by Eugene Rousseau and Dennis Bamber · https://www.musicarts.com/lauren-keiser-music-publishing-mood-music-2-unaccompanied-lkm-music-series-by-glenn-smith-main0362129"
+  - "Publisher identifies any two like saxophones, Grade IV–V and Rousseau/Bamber recording credits. · https://www.halleonard.com/product/40180/mood-music-2"
+  - "Public closer-look response contains no preview. · https://www.halleonard.com/viewcloserlook.action?itemId=00040180&name=mood-music-2&type=json"
 aliases: []
+multi-instruments: "Two saxophones of the same type, unaccompanied"
 ---
 ## Research notes (private)
+
+### Chat batch 09 follow-up, 2026-10-13
+
+Mood Music II is a duet for two saxophones of the same type. Publisher Grade IV–V and recording credits are verified. Music I quartet evidence is excluded. Public publisher preview returned null and no exact audio was located.
+
+[[Review 0119 - Glenn Smith - Mood Music II|Full evidence and open questions]]
+
 
 - Publisher grade IV-V (retailer listing) · [musicarts.com](https://www.musicarts.com/lauren-keiser-music-publishing-mood-music-2-unaccompanied-lkm-music-series-by-glenn-smith-main0362129)
 - Listed as Mood Music 2 (Unaccompanied), for any two like saxophones; recorded by Eugene Rousseau and Dennis Bamber · [musicarts.com](https://www.musicarts.com/lauren-keiser-music-publishing-mood-music-2-unaccompanied-lkm-music-series-by-glenn-smith-main0362129)

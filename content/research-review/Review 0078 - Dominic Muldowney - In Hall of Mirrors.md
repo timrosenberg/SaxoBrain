@@ -3,10 +3,10 @@ title: "Review 0078: Dominic Muldowney - In Hall of Mirrors"
 added: 2026-10-11
 review-id: 78
 review-packet: 4
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Dominic Muldowney - In Hall of Mirrors]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [[Dominic Muldowney - In Hall of Mirrors]]
+Catalog: removed at Tim’s request on 2026-10-13.
 
 - Identity: Dominic Muldowney's *In a Hall of Mirrors* (cataloged as *In Hall of Mirrors*) is an alto saxophone and piano work in Universal Edition's Universal Saxophone Edition, item UE17776, edited by John Harle. The publisher search result labels it easy. The Royal Irish Academy of Music includes it in the saxophone performer repertoire for its Associate Diploma.
 - Publisher product result identifies alto saxophone and piano, UE17776, John Harle as editor, Universal Saxophone Edition, and publisher difficulty label 'easy'; page opening failed with cache miss. [Schott/Universal Edition product page](https://schottmusiclondon.com/in-a-hall-of-mirrors-no98498.html) (search_index_only).
@@ -46,3 +46,7 @@ Sources checked:
 - [John Harle official discography](https://www.johnharle.com/discography.htm): Harle/Lenehan live track confirmed by performer. (opened)
 - [Antwerp Conservatory library saxophone holdings](https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf): Library claims composition 1983, publication 1988, 6 minutes. (opened)
 - [MusicWeb, First Musical Performances London 1900–2000](https://musicwebinternational.com/wp-content/uploads/2024/08/London-first-performances.pdf): Harle and Lenehan performed the work 3 February 1980 atPurcell Room. (search_index_only)
+
+## Chat Batch 08 Decision, 2026-10-13
+
+Tim requested removal from the catalog. The private evidence log is retained.

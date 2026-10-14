@@ -7,7 +7,7 @@ instruments:
   - "Soprano Saxophone"
   - "Piano"
 composed: 1980
-year-of-study: 
+year-of-study: "Advanced"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-141738.aspx

@@ -7,18 +7,31 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 1893
-year-of-study: 
+year-of-study: "First Year"
 arranger-edition:
   - "Daniel Deffayet"
-streaming: 
+streaming: "https://www.youtube.com/watch?v=IZPEs4bsp6g"
 purchase:
   - https://www.grothmusic.com/p-152636.aspx
 added: 2024-03-08
 research:
   - "Written in 1893 for a Molière production at the Paris Grand Théâtre that was later abandoned; typical duration about 3.5 to 4 minutes · https://en.wikipedia.org/wiki/Sicilienne_(Fauré)"
+  - "Exact Deffayet edition, instruments, and catalogue AL29027. · https://www.laflutedepan.com/partition/1024780/gabriel-faure-sicilienne-opus-78-partition-saxophone-alto-et-piano.html"
+  - "Exact score opening, 3:30 heading, Deffayet credit, Hamelle imprint and concert-pitch saxophone label. · https://www.img-music.com/links/jpg/alha09292_0001024780_002.jpg"
+  - "Deffayet alto saxophone/piano edition catalogued HA09292. · https://casamusicaledelrio.it/casamusicale/wp-content/uploads/2019/04/CAT-18-107-Leduc-Catalogue-2018-ss-GS-v6-NO-CROPS-LO-RESv2.pdf"
+  - "Public Fauré Sicilienne alto saxophone and piano performance; video duration 4:06; arranger unspecified. · https://www.youtube.com/watch?v=IZPEs4bsp6g"
 aliases: []
+publisher:
+  - "Hamelle"
 ---
 ## Research notes (private)
+
+### Chat batch 09 follow-up, 2026-10-13
+
+Fauré Sicilienne: readable exact Deffayet score opening shows Allegretto molto moderato in 6/8, soft arpeggiated piano, and p dolce legato saxophone phrasing. About 3:30. Score saxophone staff is concert pitch. Full written range remains unknown. Public alto saxophone and piano video verified, with arranger unspecified.
+
+[[Review 0101 - Gabriel Fauré - Sicilienne Op. 78|Full evidence and open questions]]
+
 
 - Written in 1893 for a Molière production at the Paris Grand Théâtre that was later abandoned; typical duration about 3.5 to 4 minutes · [en.wikipedia.org](https://en.wikipedia.org/wiki/Sicilienne_(Fauré))
 

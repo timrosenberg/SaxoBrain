@@ -3,8 +3,8 @@ title: "Review 0077: Dmitri Terzakis - Der Hölle Nachklang"
 added: 2026-10-11
 review-id: 77
 review-packet: 4
-review-decision: Pending
-review-applied: false
+review-decision: "Fourth Year"
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Dmitri Terzakis - Der Hölle Nachklang]]"
 build:
@@ -51,3 +51,7 @@ Sources checked:
 - [Hellenic Saxophone Library](https://hellenicsax.gr/works/359_der_holle_nachklang_i): Technical aims include altissimo and microtones; premiere with Kelly/Versteegh in 1992. (opened)
 - [John Edward Kelly Topic](https://www.youtube.com/watch?v=4u7axlRrLNM): Exact recording public, title and duration verified. (opened)
 - [col legno](https://www.col-legno.com/en/shop/31891-kelly-versteegh-new-saxophone-chamber-music): Kelly saxophone, Versteegh piano; track 9:55. (opened)
+
+## Chat Batch 08 Decision, 2026-10-13
+
+Tim assigned Fourth Year.

@@ -3,8 +3,8 @@ title: "Review 0089: Erland von Koch - Vision and Rondo"
 added: 2026-10-11
 review-id: 89
 review-packet: 4
-review-decision: Pending
-review-applied: false
+review-decision: "Second Year"
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Erland von Koch - Vision and Rondo]]"
 build:
@@ -42,3 +42,7 @@ Open questions: Only Vision’s opening score was available. Rondo contents, bot
 Sources checked:
 - [Groth Music exact edition page](https://www.grothmusic.com/p-145578-vision-and-rondo-alto-saxophone-and-piano.aspx): DORN0996, two short movements, six minutes, Bergman dedication, Prison theme, piano score in C plus separate E-flat sax part. (opened)
 - [Dorn Publications Vision score image hosted by Groth](https://grothmusic.com/images/product/large/ae00-126436.jpg): Vision opening, 1950 rev.1983, Andante espressivo quarter 60, concert-pitch score and active chromatic piano/solo writing. (score_inspected)
+
+## Chat Batch 08 Decision, 2026-10-13
+
+Tim assigned Second Year.

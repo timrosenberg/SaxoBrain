@@ -3,10 +3,10 @@ title: "Review 0070: David Ward - An Abstract"
 added: 2026-10-11
 review-id: 70
 review-packet: 3
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[David Ward - An Abstract]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [David Ward - An Abstract.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/David Ward - An Abstract.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0070.json).
+Catalog: removed at Tim’s request on 2026-10-13.
 
 **Identity and findings.** David Ward’s An Abstract is an alto saxophone and piano work published by Southern Music, copyright 1963. Hal Leonard identifies publisher level 3; WorldCat confirms score format and original publication. Fred Hemke recorded it; Paul Brodie also included it in a solo collection with practice recording. The Philharmonie guide and a 2005 UNT faculty-list survey use different historical pedagogical categories.
 
@@ -48,7 +48,7 @@ Catalog: [David Ward - An Abstract.md](/Users/trosenberg/Documents/GitHub/SaxoBr
 - No score pages inspected and no audio auditioned.
 - The publisher Level 3 and Music Minus One compilation context differ; neither should be translated directly into Tim’s study-year scale.
 
-**Tim decision:** pending.
+**Tim decision:** Removed.
 
 ## Chat batch 08 follow-up, 2026-10-13
 
@@ -65,3 +65,7 @@ Sources checked:
 - [Erik Breuer YouTube upload](https://www.youtube.com/watch?v=nyNmY5ydzxQ): Exact title/composer; uploader identifies alto saxophone, without piano; public 3:50 rendition. (opened)
 - [Concert Saxophone Accompaniments YouTube](https://www.youtube.com/watch?v=WtoKzelbWIM): Piano-only accompaniment; uploader identifies click introduction and coda click counts. (opened)
 - [WorldCat catalogue record](https://search.worldcat.org/title/4026579): Library metadata gives alto saxophone and piano and copyright 1963; different catalogue result gives copyright 1964. Neither is composition evidence. (search_index_only)
+
+## Chat Batch 08 Decision, 2026-10-13
+
+Tim requested removal from the catalog. The private evidence log is retained.

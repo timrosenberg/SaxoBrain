@@ -3,8 +3,8 @@ title: "Review 0068: David Keeffe - The Undone Years. Fire"
 added: 2026-10-11
 review-id: 68
 review-packet: 3
-review-decision: Pending
-review-applied: false
+review-decision: "Fourth Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[David Keeffe - The Undone Years. Fire]]"
 build:
@@ -42,7 +42,7 @@ Catalog: [David Keeffe - The Undone Years. Fire.md](/Users/trosenberg/Documents/
 - The 2011 program lists four movement titles, none called Fire; determine whether the catalog's Fire title refers to a later version, an alternate title, or a separate work.
 - No score or complete recording inspected; full range and technical requirements remain unknown.
 
-**Tim decision:** pending.
+**Tim decision:** Fourth Year.
 
 ## Chat batch 08 follow-up, 2026-10-13
 
@@ -55,3 +55,13 @@ Open questions: Actual notation and written saxophone range remain unverified. N
 Sources checked:
 - [Australian Music Centre work record](https://www.australianmusiccentre.com.au/work/keeffe-david-undone-years-fire): 2010 concerto, tenor saxophone with piano, timpani and strings; 25 minutes; four movements; altissimo and multiphonics; composer states serial yet consonant construction; commission and premiere. (opened)
 - [Australian Music Centre score record](https://www.australianmusiccentre.com.au/product/the-undone-years-fire-a-concerto-for-tenor-saxophone-with-strings-piano-and-timpani): Wirripang 2011 typeset score, 52 pages, A3 portrait, ISMN 9790720115283; includes program and biography notes. (opened)
+
+## Chat Batch 08 Decision, 2026-10-13
+
+Tim assigned Fourth Year.
+
+## Companion Version Confirmed, 2026-10-13
+
+The [Australian Music Centre Flood record](https://www.australianmusiccentre.com.au/work/keeffe-david-undone-years-flood) resolves the earlier Fire/Flood relationship question. The versions share much of their material and use different orchestration. [[David Keeffe - The Undone Years. Flood|Flood]] is the tenor saxophone and wind-ensemble version. Tim assigned Flood Fourth Year in chat batch 09 on 2026-10-13.
+
+The [official Wirripang Fire product](https://www.australiancomposers.com.au/products/undone-years-the) verifies the Fire edition and lists a 152-page digital option. Flood materials remain unverified.

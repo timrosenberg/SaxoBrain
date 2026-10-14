@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 1951
-year-of-study: 
+year-of-study: "Third Year"
 streaming: "https://www.youtube.com/watch?v=HmePahyMMuk"
 purchase:
   - "https://www.juneemersonwindmusic.com/SONATA-9ce623a5-6a19-4d4d-bf7a-f5018179cfbf.html"

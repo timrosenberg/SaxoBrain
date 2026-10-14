@@ -3,8 +3,8 @@ title: "Review 0075: Dietrich Erdmann - Akzentae A"
 added: 2026-10-11
 review-id: 75
 review-packet: 3
-review-decision: Pending
-review-applied: false
+review-decision: "Fourth Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Dietrich Erdmann - Akzentae A]]"
 build:
@@ -46,7 +46,7 @@ Catalog: [Dietrich Erdmann - Akzentae A.md](/Users/trosenberg/Documents/GitHub/S
 - No readable score preview or direct audio audition.
 - The EDA record says 1989/2003; catalog composition date is blank, so the relationship of revision year should be checked.
 
-**Tim decision:** pending.
+**Tim decision:** Fourth Year.
 
 ## Chat batch 08 follow-up, 2026-10-13
 
@@ -60,3 +60,7 @@ Sources checked:
 - [Groth Music](https://www.grothmusic.com/p-143408.aspx): EB9138 supplies piano score and solo alto part; 21 pages. (opened)
 - [EDA Records, notes by Frank Lunte and Tatjana Blome](https://www.eda-records.com/177-1-CD-Details.html?cd_id=42): Alto reworking of 1989 tenor Akzente; dated 1989/2003. Performer notes discuss accents, triplets, trills, sevenths, slap tongue and laughing effect. (opened)
 - [Frank Lunte Topic, Naxos-supplied YouTube release](https://www.youtube.com/watch?v=_aqkOZqNF40): EDA recording, first and third movements, verified public with playback formats. (opened)
+
+## Chat Batch 08 Decision, 2026-10-13
+
+Tim assigned Fourth Year.

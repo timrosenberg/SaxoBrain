@@ -7,21 +7,32 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 1888
-year-of-study: 
+year-of-study: "First Year"
 arranger-edition:
   - "Marcel Mule"
-streaming: 
+streaming: "https://www.youtube.com/watch?v=XQ0t1mdDXLs"
 purchase:
   - https://www.grothmusic.com/p-139763.aspx
   - https://www.grothmusic.com/p-38029.aspx
 added: 2024-03-08
 research:
   - "Canzonetta, Op. 19, for clarinet and piano, listed as 1888 (original instrumentation clarinet; assumes catalog entry is this piece) · https://en.wikipedia.org/wiki/Gabriel_Pierné"
+  - "Exact edition, original date, and publisher section/rhythm description. · https://www.halleonard.com/product/48180848/canzonette-op-19"
+  - "Grade 7 list names Pierné arr. Mule, Canzonetta, Leduc AL19414. · https://www.trinitycollege.com/resource?id=9985"
+  - "Public video metadata identifies Pierné Op.19, Mule arrangement, saxophonist Mule and pianist Gaveau; browser player loaded. · https://www.youtube.com/watch?v=XQ0t1mdDXLs"
+  - "Different arrangement visibly credited R. Scholfield; alto saxophonist and pianist visible during active public playback. · https://www.youtube.com/watch?v=AGpHDD5OJIM&t=2070s"
 publisher:
   - "Leduc"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat batch 09 follow-up, 2026-10-13
+
+Pierné Canzonetta: Mule AL19414 is verified. Publisher describes dotted siciliano-like opening rhythms, scherzando character, Più Vivo contrast, and theme return. Trinity lists the exact edition in Grade 7. Public Mule/Gaveau recording, 3:38, is playable. Notation remains uninspected.
+
+[[Review 0103 - Gabriel Pierné - Canzonetta|Full evidence and open questions]]
+
 
 - Canzonetta, Op. 19, for clarinet and piano, listed as 1888 (original instrumentation clarinet; assumes catalog entry is this piece) · [en.wikipedia.org](https://en.wikipedia.org/wiki/Gabriel_Pierné)
 

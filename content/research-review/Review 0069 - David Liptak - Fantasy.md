@@ -3,8 +3,8 @@ title: "Review 0069: David Liptak - Fantasy"
 added: 2026-10-11
 review-id: 69
 review-packet: 3
-review-decision: Pending
-review-applied: false
+review-decision: "Fourth Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[David Liptak - Fantasy]]"
 build:
@@ -37,7 +37,7 @@ Catalog: [David Liptak - Fantasy.md](/Users/trosenberg/Documents/GitHub/SaxoBrai
 - Exact work identity, instrumentation, publisher, and dedication remain unresolved.
 - No suitable score, performance, or college use evidence found.
 
-**Tim decision:** pending.
+**Tim decision:** Fourth Year.
 
 ## Chat batch 08 follow-up, 2026-10-13
 
@@ -51,3 +51,7 @@ Sources checked:
 - [David Liptak composer catalogue](https://www.dliptak.com/compositions/duo.html): 1980 alto saxophone and piano Fantasy, 14-minute catalogue duration; embedded performance identifies Chien-Kwan Lin and Pi-Lin Ni. Also separately lists violin Fantasy (2006), six minutes. (opened)
 - [Groth Music product record](https://www.grothmusic.com/p-145846.aspx): Dorn DORN0179 alto saxophone and piano edition; dedicated to James Forger; duration 13 minutes. (opened)
 - [David Liptak SoundCloud track](https://soundcloud.com/david-liptak-946907213/fantasy-1/s-Rw3HpG2gKbz): Exact composer-posted Fantasy audio is marked publicly streamable; duration 13:03. (opened)
+
+## Chat Batch 08 Decision, 2026-10-13
+
+Tim assigned Fourth Year.

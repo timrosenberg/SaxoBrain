@@ -3,8 +3,8 @@ title: "Review 0067: David Jex - Alto Adventure"
 added: 2026-10-11
 review-id: 67
 review-packet: 3
-review-decision: Pending
-review-applied: false
+review-decision: "Third Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[David Jex - Alto Adventure]]"
 build:
@@ -45,7 +45,7 @@ Catalog: [David Jex - Alto Adventure.md](/Users/trosenberg/Documents/GitHub/Saxo
 - No score preview inspected.
 - Piano edition and wind-ensemble recording relationship should be confirmed against the solo part.
 
-**Tim decision:** pending.
+**Tim decision:** Third Year.
 
 ## Chat batch 08 follow-up, 2026-10-13
 
@@ -58,3 +58,7 @@ Open questions: No notation inspected; written range and specific technical mate
 Sources checked:
 - [Wingert-Jones Publications](https://wingertjones.com/product/3055131-alto-adventure-jex/): Alto saxophone with piano, 3055131, composed for Lynn Klock, six minutes; technical passages, upper-register melodies, driving piano, acceleration; product page contains conflicting band-package label. (opened)
 - [Lynn Klock Topic / Albany Records / Orchard distribution](https://www.youtube.com/watch?v=K1APvNEYTcc): Exact public 5:42 YouTube recording identifies David Jex, Lynn Klock, Virginia Wind Symphony and Dennis Zeisler; Albany 2014 and Wingert-Jones music publishing credits. (opened)
+
+## Chat Batch 08 Decision, 2026-10-13
+
+Tim assigned Third Year.

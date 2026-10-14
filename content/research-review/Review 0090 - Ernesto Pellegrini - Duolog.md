@@ -3,10 +3,10 @@ title: "Review 0090: Ernesto Pellegrini - Duolog"
 added: 2026-10-11
 review-id: 90
 review-packet: 4
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Ernesto Pellegrini - Duolog]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [[Ernesto Pellegrini - Duolog]]
+Catalog: removed at Tim’s request on 2026-10-13.
 
 - Identity: The catalog identifies Ernesto Pellegrini’s *Duolog* as alto saxophone and piano, Dorn Publications DORN0184. Dorn’s catalog lists item 184 under Pellegrini as *Duolog*, and J.W. Pepper lists alto sax and piano. The available Pepper prose is explicitly AI-generated and is not treated as evidence of musical demands.
 - Dorn Publications catalog lists Pellegrini, *Duolog*, item 184. [Dorn Publications catalog copy hosted by Groth Music](https://www.grothmusic.com/images/DP%20Catalog%20Nov%202024.pdf) (search_index_only).
@@ -43,3 +43,7 @@ Sources checked:
 - [Groth Music, Dorn distributor](https://www.grothmusic.com/p-145619.aspx): Alto saxophone and piano edition, Ernesto Pellegrini, Dorn DORN0184. (opened)
 - [Dorn Publications catalog](https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf): Catalog item 184 lists Pellegrini Duolog in the alto saxophone and piano section. (opened)
 - [Ball State retirement program, printed page 16](https://cardinalscholar.bsu.edu/bitstreams/1dbdd52d-a357-444d-b5f8-e0361766e3ad/download): Duolog I recorded on CRS; instrumentation and album unlisted, so identity with the saxophone edition remains unconfirmed. (opened)
+
+## Chat Batch 08 Decision, 2026-10-13
+
+Tim requested removal from the catalog. The private evidence log is retained.

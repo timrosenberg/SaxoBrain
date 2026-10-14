@@ -3,8 +3,8 @@ title: "Review 0076: Dietrich Erdmann - Concerto"
 added: 2026-10-11
 review-id: 76
 review-packet: 4
-review-decision: Pending
-review-applied: false
+review-decision: "Fourth Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Dietrich Erdmann - Concerto]]"
 build:
@@ -44,3 +44,7 @@ Sources checked:
 - [Groth Music](https://www.grothmusic.com/p-143407.aspx): RE11390 is soprano doubling alto with piano, 45 pages, score and solo part. (opened)
 - [Nico Schüler, Modernism in Color](https://zurnalai.lmta.lt/wp-content/uploads/2023/01/MKP_III_Nico-Schuler.pdf): 1989 concerto uses soprano and alto in four movements, distinct from 1988 Concert Piece; premiere 4 December 1989; cadenza and sound effects discussed. (opened)
 - [Release Topic, Zebralution-supplied YouTube release](https://www.youtube.com/watch?v=mAA4JbK7Yq8): Fourth movement public and matched to Detlef Bensmann/Thüringen Philharmonie Suhl orchestra version. (opened)
+
+## Chat Batch 08 Decision, 2026-10-13
+
+Tim assigned Fourth Year.

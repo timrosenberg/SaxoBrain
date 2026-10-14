@@ -3,9 +3,9 @@ title: "Review 0101: Gabriel Fauré - Sicilienne Op. 78"
 added: 2026-10-11
 review-id: 101
 review-packet: 5
-review-decision: Pending
-review-applied: false
-notation-inspected: false
+review-decision: "First Year"
+review-applied: true
+notation-inspected: true
 catalog-entry: "[[Gabriel Fauré - Sicilienne Op. 78]]"
 build:
   render: never
@@ -42,3 +42,23 @@ Searches checked:
 - Fauré Sicilienne saxophone alto piano Deffayet score AL 29027
 - Opened La Flûte de Pan exact product listing and its linked score-thumbnail image
 - Searched Fauré Sicilienne original Pelléas saxophone edition and performer context
+
+## Chat batch 09 follow-up, 2026-10-13
+
+Exact Deffayet alto saxophone and piano edition is verified by the retailer and the opened 2018 Leduc catalogue. The readable exact-edition sample gives approximately 3:30, original key G minor, and the heading from Pelléas et Mélisande. It credits Deffayet as transcriber and adapter. The sampled piano score labels its saxophone staff sons réels, meaning concert pitch. Its pitches must not be described as written alto saxophone pitches.
+
+Score observations: Opening is Allegretto molto moderato in 6/8. The piano begins with soft arpeggiated eighth-note accompaniment and marked pedal changes. The saxophone enters p dolce after the piano introduction. The sampled melody combines eighth notes and longer notes under legato slurs, with ties across a barline and chromatic inflections. The visible continuation alternates linear accompaniment and chordal gestures. Coordination of the soft legato line with the changing piano texture is a plausible review focus. The sample establishes neither the full form nor the full written saxophone range.
+
+Collection context: Deffayet transcription and adaptation verified. No explicit simplification or young-player edition designation found.
+
+Open questions: Only the opening score page inspected. The transposed alto part and full written range remain uninspected. Public alto saxophone/piano video exists, but it does not identify the arranger. It is not confirmed as the Deffayet edition.
+
+Sources checked:
+- [La Flûte de Pan](https://www.laflutedepan.com/partition/1024780/gabriel-faure-sicilienne-opus-78-partition-saxophone-alto-et-piano.html): Exact Deffayet edition, instruments, and catalogue AL29027. (opened)
+- [Hamelle score sample via La Flûte de Pan](https://www.img-music.com/links/jpg/alha09292_0001024780_002.jpg): Exact score opening, 3:30 heading, Deffayet credit, Hamelle imprint and concert-pitch saxophone label. (score_inspected)
+- [Alphonse Leduc 2018 catalogue](https://casamusicaledelrio.it/casamusicale/wp-content/uploads/2019/04/CAT-18-107-Leduc-Catalogue-2018-ss-GS-v6-NO-CROPS-LO-RESv2.pdf): Deffayet alto saxophone/piano edition catalogued HA09292. (opened)
+- [Paul Barton on YouTube](https://www.youtube.com/watch?v=IZPEs4bsp6g): Public Fauré Sicilienne alto saxophone and piano performance; video duration 4:06; arranger unspecified. (opened)
+
+## Chat Batch 09 Decision, 2026-10-13
+
+Tim assigned First Year.

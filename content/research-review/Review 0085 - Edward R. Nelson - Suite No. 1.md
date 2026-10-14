@@ -3,10 +3,10 @@ title: "Review 0085: Edward R. Nelson - Suite No. 1"
 added: 2026-10-11
 review-id: 85
 review-packet: 4
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Edward R. Nelson - Suite No. 1]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [[Edward R. Nelson - Suite No. 1]]
+Catalog: removed at Tim’s request on 2026-10-13.
 
 - Identity: The current catalog identifies Edward R. Nelson’s *Suite No. 1* as an alto saxophone and piano work published by Dorn Publications in 1988. Searches for the exact composer-title combination did not surface a composer or publisher record; the existing J.W. Pepper listing is the only found commercial trail.
 - Commercial item URL identifies the piece as *Suite No. 1* for alto saxophone and piano, Dorn Publications; its page was not retrievable in this pass. [J.W. Pepper listing](https://www.jwpepper.com/suite-no-1-alto-sax-piano-7886773/p) (search_index_only).
@@ -39,3 +39,7 @@ Open questions: No score preview was exposed on the opened retailer page. Moveme
 
 Sources checked:
 - [J.W. Pepper product page](https://www.jwpepper.com/suite-no-1-alto-sax-piano-7886773/p): Title, full composer name, alto saxophone and piano scoring, Dorn publication and copyright 1988. (opened)
+
+## Chat Batch 08 Decision, 2026-10-13
+
+Tim requested removal from the catalog. The private evidence log is retained.

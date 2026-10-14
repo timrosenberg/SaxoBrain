@@ -1,14 +1,16 @@
 ---
-title: "Willy Bauweraerts"
+title: Willy Bauweraerts
 slug: willy-bauweraerts
 nationality:
-gender:
+  - 🇧🇪 Belgian
+gender: Male
 race:
-born: 
-died: 
-wikidata: 
-photo: 
-photo-credit: 
-photo-source: 
+  - White
+born:
+died:
+wikidata:
+photo:
+photo-credit:
+photo-source: https://soundcloud.com/user-18171037/sets/trilogie-for-saxophone-and-piano
 aliases: []
 ---

@@ -3,8 +3,8 @@ title: "Review 0066: David Heath - Rumania"
 added: 2026-10-11
 review-id: 66
 review-packet: 3
-review-decision: Pending
-review-applied: false
+review-decision: "Second Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[David Heath - Rumania]]"
 build:
@@ -48,7 +48,7 @@ Catalog: [David Heath - Rumania.md](/Users/trosenberg/Documents/GitHub/SaxoBrain
 - The full dissertation was linked but not downloaded/read.
 - The University of Nebraska dissertation record is open, but its full-text PDF download returned an access error; its detailed performance analysis has not been consulted.
 
-**Tim decision:** pending.
+**Tim decision:** Second Year.
 
 ## Chat batch 08 follow-up, 2026-10-13
 
@@ -64,3 +64,7 @@ Sources checked:
 - [Trinity College London 2026 saxophone diploma repertoire](https://www.trinitycollege.com/resource?id=8548): Rumania for soprano or tenor, Chester, in the 2026 diploma repertoire list. (opened)
 - [David C. Heath YouTube channel](https://www.youtube.com/watch?v=_BsiCZY4X1I): John Harle soprano / John Lenehan piano, 10:09, exact publicly available composer upload. (opened)
 - [Presto Music edition record](https://www.prestomusic.com/sheet-music/products/7012620--dave-heath-rumania): Exact soprano saxophone and piano edition, Chester CP55122, 32 pages. (opened)
+
+## Chat Batch 08 Decision, 2026-10-13
+
+Tim assigned Second Year.

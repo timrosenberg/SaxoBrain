@@ -6,17 +6,31 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
-year-of-study: 
+composed: 1976
+year-of-study: "Second Year"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-37912.aspx
 added: 2024-03-08
 research:
   - "Publisher June Emerson, catalog EE66 · https://www.grothmusic.com/p-37912.aspx"
+  - "Official work page gives date written 26 February 1976, wind band/piano scoring and all seven movement titles. · https://www.gordonjacob.net/w_misc.html"
+  - "E66 alto/piano edition, ISMN M570400690, seven movements and public notation samples. · https://www.juneemersonwindmusic.com/MISCELLANIES.html"
+  - "Saxophone-part excerpt for movement 2, showing rhythmic, articulation and character details. · https://www.juneemersonwindmusic.com/images/D/E66%20page%202.jpg"
+  - "Saxophone-part excerpt for movement 3, showing rhythmic, articulation and character details. · https://www.juneemersonwindmusic.com/images/D/E66%20page%203.jpg"
+  - "Historical premiere account conflicts with official scoring history. · https://www.musicweb-international.com/classrev/2001/july01/britsax.htm"
 aliases: []
+publisher:
+  - "Emerson Edition Ltd"
 ---
 ## Research notes (private)
+
+### Chat batch 09 follow-up, 2026-10-13
+
+Miscellanies has verified 1976 composition metadata and visually inspected alto-part previews. Folk Song contrasts lyrical/ornamented phrases with Moto Perpetuo’s slurred sixteenths. Flag the conflicting scoring-origin accounts rather than silently resolving them.
+
+[[Review 0123 - Gordon Jacob - Miscellanies|Full evidence and open questions]]
+
 
 - Publisher June Emerson, catalog EE66 · [grothmusic.com](https://www.grothmusic.com/p-37912.aspx)
 

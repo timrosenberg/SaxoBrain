@@ -3,10 +3,10 @@ title: "Review 0102: Gabriel Marie - Cinquantaine"
 added: 2026-10-11
 review-id: 102
 review-packet: 5
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: true
-catalog-entry: "[[Gabriel Marie - Cinquantaine]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog entry: [[Gabriel Marie - Cinquantaine]].
+Catalog: removed at Tim’s request on 2026-10-13.
 
 Gabriel-Marie, La Cinquantaine, for alto saxophone and piano, Billaudot CC2319, arranged by Georges Chauvet. This is a transcription of the composer’s 1887 cello/piano work.
 [Éditions Billaudot](https://www.billaudot.com/la-cinquantaine-38.html) (search_index_only): Billaudot identifies the alto saxophone and piano edition La Cinquantaine, catalog CC2319, arranged by Georges Chauvet, 8 pages.
@@ -47,3 +47,23 @@ Searches checked:
 - Gabriel Marie La Cinquantaine saxophone Billaudot CC2319 Chauvet: Targeted web search; results reviewed for exact edition, publisher, score, recording, and teaching context; unrelated instrument/edition results excluded.
 - Gabriel-Marie La Cinquantaine alto sax piano score preview: Targeted web search; results reviewed for exact edition, publisher, score, recording, and teaching context; unrelated instrument/edition results excluded.
 - La Cinquantaine saxophone recording publisher edition: Targeted web search; results reviewed for exact edition, publisher, score, recording, and teaching context; unrelated instrument/edition results excluded.
+
+## Chat batch 09 follow-up, 2026-10-13
+
+Opened Billaudot publisher page confirms Georges Chauvet, E-flat saxophone and piano, CC2319, eight pages. A separate Sheetmusic2print arrangement has a public sample and a score-video playback. It is credited MA-Comp and carries a Casa Multimedia Solutions imprint, so it does not establish the Chauvet edition's exact notes or range. That separate arrangement is in concert F minor, with a D minor alto saxophone staff, and the publisher assigns its own Grade 4 label. The label belongs only to this separate edition.
+
+Score observations: In the separate MA-Comp sample, the opening is Andantino in cut time. The transposed alto saxophone line has one flat in its signature against four in the piano. Slurred phrase groups, brief ornamental notes, trills, and held notes appear above a repeated chordal piano pulse. Soft dynamics are printed in the opening. These observations describe the sample arrangement only.
+
+Collection context: Chauvet is a saxophone transcription. The available Grade 4 teaching designation belongs to a separate MA-Comp edition and does not classify Chauvet's score.
+
+Open questions: No readable Chauvet CC2319 preview located. Target-edition notes and full range unknown. The Sheetmusic2print video is a publisher score playback; no human saxophonist is credited. It should not serve as a verified performance recording.
+
+Sources checked:
+- [Éditions Billaudot](https://www.billaudot.com/la-cinquantaine-38.html): Chauvet CC2319, E-flat saxophone/piano, Billaudot, eight pages. (opened)
+- [Sheetmusic2print / Casa Multimedia Solutions](https://sheetmusic2print.com/cdn/shop/products/Cinquantaine-Saxophone_2a3f7aa3-7070-4394-86e4-ef08b47b18f1_580x.png?v=1601227127): Separate MA-Comp alto arrangement sample inspected. (score_inspected)
+- [Sheetmusic2print](https://sheetmusic2print.com/products/gabriel-marie-cinquantaine-saxophone): Separate edition identifies F minor concert key, its Grade 4 rating and 4:27 score playback duration. (opened)
+- [Sheetmusic2print on YouTube](https://www.youtube.com/watch?v=vYqfe5Zic-c): Separate publisher score-video identifies alto saxophone/piano arrangement but credits no human performers. (search_index_only)
+
+## Chat Batch 09 Decision, 2026-10-13
+
+Tim requested removal from the catalog. The private evidence log is retained.

@@ -7,16 +7,26 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
+year-of-study: "Third Year"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-140075.aspx
 added: 2024-03-08
 research:
   - "Publisher Billaudot, catalog GB6513 · https://www.grothmusic.com/p-140075.aspx"
+  - "Exact scoring, collection, GB6513, 20 pages, publisher Difficile (cycle 3), copyright 1998 and EAN. · https://www.billaudot.com/terpsichore-et-la-danse-3.html"
 aliases: []
+publisher:
+  - "Éditions Billaudot"
 ---
 ## Research notes (private)
+
+### Chat batch 09 follow-up, 2026-10-13
+
+Terpsichore identity now verified from opened publisher HTML. Publisher Difficile cycle 3 and copyright 1998 remain attributed source facts. No notation/audio was accessible; Dinant use remains indexed-only.
+
+[[Review 0114 - Gilles Senon - Terpsichore et la Danse|Full evidence and open questions]]
+
 
 - Publisher Billaudot, catalog GB6513 · [grothmusic.com](https://www.grothmusic.com/p-140075.aspx)
 

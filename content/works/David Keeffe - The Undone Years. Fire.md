@@ -10,9 +10,10 @@ instruments:
   - "Timpani"
   - "String Orchestra"
 composed: 2010
-year-of-study: 
+year-of-study: "Fourth Year"
 streaming: 
 purchase:
+  - "Fire score and parts, Wirripang · https://www.australiancomposers.com.au/products/undone-years-the"
   - "https://www.australianmusiccentre.com.au/product/the-undone-years-fire-a-concerto-for-tenor-saxophone-with-strings-piano-and-timpani"
 library-recording:
   - "https://search.alexanderstreet.com/lti/view/work/bibliographic_entity|score|1689701"
@@ -29,7 +30,13 @@ aliases: []
 publisher:
   - "Wirripang"
 ---
+Companion version: [[David Keeffe - The Undone Years. Flood|The Undone Years. Flood]], for tenor saxophone and wind ensemble. [Australian Music Centre](https://www.australianmusiccentre.com.au/work/keeffe-david-undone-years-flood).
+
 ## Research notes (private)
+
+### Companion Version Confirmed, 2026-10-13
+
+AMC confirms Fire and Flood share much of their material with different orchestration. [[David Keeffe - The Undone Years. Flood|Flood]] uses wind ensemble. The [official Fire product](https://www.australiancomposers.com.au/products/undone-years-the) confirms the Fire edition and lists a 152-page digital option. Flood materials remain unverified.
 
 ### Chat batch 08 follow-up, 2026-10-13
 

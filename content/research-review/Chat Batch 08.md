@@ -9,7 +9,7 @@ build:
 
 # Chat Batch 08
 
-Twenty-five unassigned works. Give decisions using chat numbers 1–25. All difficulty levels remain for Tim to choose. Verified metadata is added to the work pages; evidence limits appear below. Recordings were identified, not auditioned.
+Decisions applied 2026-10-13: sixteen level assignments and nine removals. Chat numbers 1–25 identify this batch. Verified metadata is added to the work pages; evidence limits appear below. Recordings were identified, not auditioned.
 
 ## 1. David Bomberg - Interactions
 
@@ -23,7 +23,7 @@ Interactions is confirmed as soprano saxophone and piano, Dorn DORN0136. Bergero
 
 **Sources:** [Groth Music product record](https://www.grothmusic.com/p-141738.aspx) · [Tom Bergeron, Saxophone Multiphonics: A Scalar Model](https://tombergeron.us/download/sax-multiphonics.pdf) · [J.W. Pepper product record](https://www.jwpepper.com/interactions-soprano-sax-piano-7480072/p)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Advanced. Applied 2026-10-13.
 
 ## 2. David Heath - Gentle Dreams & Shiraz
 
@@ -39,7 +39,7 @@ CM115 pairs two jazz-rooted pieces in McChrystal’s soprano saxophone and piano
 
 **Listen:** [Gentle Dreams tenor demonstration and piano-only practice, starting at figure A; educational practice provider. (practice-preview/full-access-paid)](https://www.youronlinepianist.co.uk/index.php?id=20647&route=yop%2Ftrack)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Second Year. Applied 2026-10-13.
 
 ## 3. David Heath - Rumania
 
@@ -57,7 +57,7 @@ Rumania (1979) is Heath’s own saxophone adaptation of a violin/flute and piano
 
 **Listen:** [Composer upload: John Harle soprano saxophone, John Lenehan piano, 10:09.](https://www.youtube.com/watch?v=_BsiCZY4X1I)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Second Year. Applied 2026-10-13.
 
 ## 4. David Jex - Alto Adventure
 
@@ -75,7 +75,7 @@ Alto Adventure was composed for Lynn Klock and is sold as alto saxophone with pi
 
 **Listen:** [Lynn Klock with Virginia Wind Symphony, Dennis Zeisler; Albany 2014, 5:42, wind-ensemble accompaniment.](https://www.youtube.com/watch?v=K1APvNEYTcc)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Third Year. Applied 2026-10-13.
 
 ## 5. David Keeffe - The Undone Years. Fire
 
@@ -91,7 +91,7 @@ This 2010 tenor concerto lasts about 25 minutes and has four movements. AMC docu
 
 **Score or purchase:** [52-page full score for purchase; no public notation sample found.](https://www.australianmusiccentre.com.au/product/the-undone-years-fire-a-concerto-for-tenor-saxophone-with-strings-piano-and-timpani)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Fourth Year. Applied 2026-10-13.
 
 ## 6. David Liptak - Fantasy
 
@@ -107,11 +107,11 @@ Liptak’s own catalogue verifies Fantasy (1980) for alto saxophone and piano an
 
 **Listen:** [Composer-posted Fantasy, Chien-Kwan Lin alto saxophone and Pi-Lin Ni piano, 13:03.](https://soundcloud.com/david-liptak-946907213/fantasy-1/s-Rw3HpG2gKbz)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Fourth Year. Applied 2026-10-13.
 
 ## 7. David Ward - An Abstract
 
-[[David Ward - An Abstract|Work page]] · [[Review 0070 - David Ward - An Abstract|Full review]]
+Removed from catalog · [[Review 0070 - David Ward - An Abstract|Full review]]
 
 An Abstract is the eight-page Southern SS101 alto saxophone and piano edition. Music Minus One MMO4117 supplies an annotated solo part and Paul Brodie/Antonin Kubalek recordings, with an exact public publisher audio sample. Breuer’s verified alto rendition omits piano; a separate piano-only practice video is also available. No score notation was inspected, and conflicting copyright dates do not establish composition year. [Edition](https://www.halleonard.com/product/3773701/an-abstract) · [Publisher sample](https://s3.amazonaws.com/halleonard-closerlook/00400747/MMO4117-CD01-05.mp3) · [Alto rendition](https://www.youtube.com/watch?v=nyNmY5ydzxQ) · [Piano practice](https://www.youtube.com/watch?v=WtoKzelbWIM).
 
@@ -125,11 +125,11 @@ An Abstract is the eight-page Southern SS101 alto saxophone and piano edition. M
 
 **Listen:** [Publisher sample of Paul Brodie alto saxophone with Antonin Kubalek piano, from MMO4117. (verified-public-sample)](https://s3.amazonaws.com/halleonard-closerlook/00400747/MMO4117-CD01-05.mp3) · [Erik Breuer, alto saxophone rendition without piano, 3:50.](https://www.youtube.com/watch?v=nyNmY5ydzxQ) · [Piano-only accompaniment practice upload with click cues, 3:52.](https://www.youtube.com/watch?v=WtoKzelbWIM)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Removed. Applied 2026-10-13.
 
 ## 8. Dia Succari - Fleurs D'Un Songe
 
-[[Dia Succari - Fleurs D'Un Songe|Work page]] · [[Review 0073 - Dia Succari - Fleurs D'Un Songe|Full review]]
+Removed from catalog · [[Review 0073 - Dia Succari - Fleurs D'Un Songe|Full review]]
 
 The AL28899 opening verifies a 5:10 alto/piano piece dedicated to Daniel Gremelle. Andante expressif at quarter = 66 uses tied/slurred sax phrasing over active piano. One page was inspected; written range is unverified. Publication 1994 is established; composition claims conflict. A second-cycle exam video needs composer confirmation. [Score](https://www.img-music.com/links/jpg/al28899_0001029602_003.jpg) · [Edition](https://www.laflutedepan.com/partition/1029602/dia-succari-fleurs-d-un-songe-partition-saxophone-alto-et-piano.html) · [Recording candidate](https://www.youtube.com/watch?v=q6dM2epebZM).
 
@@ -145,7 +145,7 @@ The AL28899 opening verifies a 5:10 alto/piano piece dedicated to Daniel Gremell
 
 **Listen:** [Title-matched alto saxophone/piano second-cycle exam upload, June 2021,8:01; composer and exact edition absent from description. (candidate-composer-unconfirmed)](https://www.youtube.com/watch?v=q6dM2epebZM)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Removed. Applied 2026-10-13.
 
 ## 9. Dia Succari - Il Est Raconte
 
@@ -163,7 +163,7 @@ Il est raconté has a verified saxophone performance by its dedicatees, Christia
 
 **Listen:** [Christian Outtier, saxophone, and Michèle Edmond-Mariette, piano; Salle Cortot, 24 January 2014.](https://www.youtube.com/watch?v=oBDAC2y9VPA)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Third Year. Applied 2026-10-13.
 
 ## 10. Dietrich Erdmann - Akzentae A
 
@@ -181,7 +181,7 @@ Akzente A is Erdmann’s alto reworking of the 1989 tenor Akzente. EDA dates it 
 
 **Listen:** [Movement I, Frank Lunte and Tatjana Blome, EDA recording.](https://www.youtube.com/watch?v=_aqkOZqNF40) · [Movement II, Adagio espressivo, Frank Lunte and Tatjana Blome.](https://www.youtube.com/watch?v=KEBeMgM9eOM) · [Movement III, Presto grotesco, same EDA performers.](https://www.youtube.com/watch?v=GvtdiM9cDLk)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Fourth Year. Applied 2026-10-13.
 
 ## 11. Dietrich Erdmann - Concerto
 
@@ -199,7 +199,7 @@ The RE11390 reduction confirms soprano saxophone doubling alto, plus piano. Both
 
 **Listen:** [Fourth movement, Detlef Bensmann with Thüringen Philharmonie Suhl; 1996 recording.](https://www.youtube.com/watch?v=mAA4JbK7Yq8) · [Movement I, Sostenuto/Vivace, same Bensmann/orchestra recording.](https://www.youtube.com/watch?v=gs2-Z3TIV_E) · [Movement III, Adagio molto espressivo, same Bensmann/orchestra recording.](https://www.youtube.com/watch?v=RyGAtLd3csk)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Fourth Year. Applied 2026-10-13.
 
 ## 12. Dmitri Terzakis - Der Hölle Nachklang
 
@@ -219,11 +219,11 @@ Der Hölle Nachklang I is dated 1992 on both publisher page and score opening. T
 
 **Listen:** [John-Edward Kelly and Bob Versteegh, 1992 work.](https://www.youtube.com/watch?v=4u7axlRrLNM)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Fourth Year. Applied 2026-10-13.
 
 ## 13. Dominic Muldowney - In Hall of Mirrors
 
-[[Dominic Muldowney - In Hall of Mirrors|Work page]] · [[Review 0078 - Dominic Muldowney - In Hall of Mirrors|Full review]]
+Removed from catalog · [[Review 0078 - Dominic Muldowney - In Hall of Mirrors|Full review]]
 
 In a Hall of Mirrors has exact public recordings by Simon Haram with Scott Mitchell and by John Harle with John Lenehan. Universal UE17776 is an alto-and-piano edition edited by Harle. Schott labels it easy, while ABRSM includes it in diploma repertoire. Those sources establish performance context. No readable score supports a technical judgment. The title omission and conflicting composition dates remain decision flags.
 
@@ -237,11 +237,11 @@ In a Hall of Mirrors has exact public recordings by Simon Haram with Scott Mitch
 
 **Listen:** [Simon Haram, saxophone, Scott Mitchell, piano, On Fire; about 5:52.](https://www.youtube.com/watch?v=5gBGSNis27M) · [John Harle and John Lenehan, live recording, 5:56.](https://www.youtube.com/watch?v=0sACRTqYqjk)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Removed. Applied 2026-10-13.
 
 ## 14. Dominique Clement - Entre-Deux
 
-[[Dominique Clement - Entre-Deux|Work page]] · [[Review 0079 - Dominique Clement - Entre-Deux|Full review]]
+Removed from catalog · [[Review 0079 - Dominique Clement - Entre-Deux|Full review]]
 
 Entre-Deux is confirmed as Leduc AL30500 for alto saxophone and piano in Collection Vent de Sax. A festival composer profile also documents a clarinet-and-piano version from 2002, so original instrumentation and chronology need verification. The advertised Hal Leonard preview returns no content. No exact saxophone recording or reliable musical analysis was found. The current original-saxophone assertion should become an open question.
 
@@ -253,7 +253,7 @@ Entre-Deux is confirmed as Leduc AL30500 for alto saxophone and piano in Collect
 
 **Score or purchase:** [Exact AL30500 edition. Closer Look endpoint was checked and returned closerLook:null; no notation available.](https://www.halleonard.com/product/48186310/clement-dominique-entre-deux-alto-saxophone-piano-bookclement-dominique-entre-deux-alto-saxophone-piano-book)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Removed. Applied 2026-10-13.
 
 ## 15. Doïna Rotaru - Legend 2
 
@@ -271,11 +271,11 @@ Legend II is contemporary solo soprano repertoire with an exact public Salamanca
 
 **Listen:** [Antonio García Jorge, soprano saxophone, Salamanca conservatory graduation recital 11 June 2010, 9:08.](https://www.youtube.com/watch?v=xLCXpT_g4Hc) · [Jack Thorpe live performance at Kopleff Recital Hall, 5 August 2025, 8:09.](https://www.youtube.com/watch?v=w9hJkv72c5I)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Advanced. Applied 2026-10-13.
 
 ## 16. Eduard Toldrà - Dels Quatre Vents
 
-[[Eduard Toldrà - Dels Quatre Vents|Work page]] · [[Review 0081 - Eduard Toldrà - Dels Quatre Vents|Full review]]
+Removed from catalog · [[Review 0081 - Eduard Toldrà - Dels Quatre Vents|Full review]]
 
 Dels quatre vents is the 1921 violin-and-piano source movement in Sis sonets. UME21470 is confirmed for alto saxophone or horn and piano. Koontz’s analysis describes slow stately music and a cadence that intensifies its harmonic pace. The inspected original facsimile gives no reliable saxophone range. A Catalan entrance syllabus documents teaching use without demonstrating simplification. Exact saxophone listening and the arranger credit remain unresolved.
 
@@ -289,7 +289,7 @@ Dels quatre vents is the 1921 violin-and-piano source movement in Sis sonets. UM
 
 **Score or purchase:** [Original violin/piano autograph facsimile visually opened; too degraded for reliable notation reading. UME21470 saxophone edition not inspected.](https://sites.google.com/site/eduardtoldra/eduard-toldr%C3%A0-i-soler/complete-catalog/sis-sonets) · [Exact UME21470 printed score and solo part; cover inspected, notation absent.](https://boileau-music.com/es/obras/dels-quatre-vents-UME21470)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Removed. Applied 2026-10-13.
 
 ## 17. Eduard Tubin - Sonata
 
@@ -309,7 +309,7 @@ Tubin, Sonata: Harri Kiisk’s [BIS booklet](https://eclassical.textalk.se/shop/
 
 **Listen:** [Full Sonata, Virgo Veldi, saxophone, Johan Randvere, piano; live Tubin Hall, Tartu 2015; video 12:59; I 0:00, II 5:07, III 9:23. (verified playable, complete work)](https://www.youtube.com/watch?v=HmePahyMMuk)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Third Year. Applied 2026-10-13.
 
 ## 18. Edvard Moritz - Sonata No. 1, Op. 96
 
@@ -327,11 +327,11 @@ Moritz, Sonata No. 1, Op. 96: [Southern Music](https://keiserproductions.com/cat
 
 **Listen:** [Complete Op. 96, Cecil Leeson, alto saxophone, Josef Wagner, piano; Decca Personality Series album 187, six record sides; 25:02 video. (verified playable, complete historical recording)](https://www.youtube.com/watch?v=IjPCfMXpY9Y) · [Molto andante from Sonata No. 1, Op. 96, LJ Hollingsworth, alto saxophone and Karla Rocker, piano, October 11, 2021. (identified institutional recital, playback not verified)](https://digitalcommons.georgiasouthern.edu/videos/2426/)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Third Year. Applied 2026-10-13.
 
 ## 19. Edward MacDowell - To a Wild Rose
 
-[[Edward MacDowell - To a Wild Rose|Work page]] · [[Review 0084 - Edward MacDowell - To a Wild Rose|Full review]]
+Removed from catalog · [[Review 0084 - Edward MacDowell - To a Wild Rose|Full review]]
 
 MacDowell, To a Wild Rose: the Dorn sample directly credits Richard D. Hall, while the existing arranger field says Randall Hall. Hall’s own catalog dates the arrangement to 2001; the printed score is ©2003. The opening has four piano-only bars, then lyrical alto phrases with ties, rests and hairpins over sustained chords. [Inspected score](https://grothmusic.com/images/product/large/ae00-126443_2_.jpg). A separately cataloged Coggins student-course edition should remain distinct. No exact Hall-edition listening link or full written range was verified.
 
@@ -345,11 +345,11 @@ MacDowell, To a Wild Rose: the Dorn sample directly credits Richard D. Hall, whi
 
 **Score or purchase:** [Opening score page of Richard D. Hall arrangement, Dorn DORN1345, copyright 2003.](https://grothmusic.com/images/product/large/ae00-126443_2_.jpg)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Removed. Applied 2026-10-13.
 
 ## 20. Edward R. Nelson - Suite No. 1
 
-[[Edward R. Nelson - Suite No. 1|Work page]] · [[Review 0085 - Edward R. Nelson - Suite No. 1|Full review]]
+Removed from catalog · [[Review 0085 - Edward R. Nelson - Suite No. 1|Full review]]
 
 Nelson, Suite No. 1: [J.W. Pepper](https://www.jwpepper.com/suite-no-1-alto-sax-piano-7886773/p) now opens and explicitly identifies Edward R. Nelson, alto saxophone and piano, Dorn Publications and copyright 1988. The date is publication evidence. The available page supplies no score preview or musical description. Movement structure, duration, written range and playable listening remain unknown.
 
@@ -359,11 +359,11 @@ Nelson, Suite No. 1: [J.W. Pepper](https://www.jwpepper.com/suite-no-1-alto-sax-
 
 **Sources:** [J.W. Pepper product page](https://www.jwpepper.com/suite-no-1-alto-sax-piano-7886773/p)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Removed. Applied 2026-10-13.
 
 ## 21. Edward Solomon - The Dancer
 
-[[Edward Solomon - The Dancer|Work page]] · [[Review 0086 - Edward Solomon - The Dancer|Full review]]
+Removed from catalog · [[Review 0086 - Edward Solomon - The Dancer|Full review]]
 
 Solomon, The Dancer: Southern Music’s [publisher page](https://www.halleonard.com/product/3776251/the-dancer) confirms SU352, four pages and its Level 1 descriptor. The [exact retailer page](https://www.all-sheetmusic.com/Wind-Instruments/Saxophone/The-Dancer.html) describes a graceful waltz intended as a young alto player’s first solo. That explicit audience context is useful for scope review. No notation or playable exact performance was available to establish the musical demands.
 
@@ -373,7 +373,7 @@ Solomon, The Dancer: Southern Music’s [publisher page](https://www.halleonard.
 
 **Sources:** [Hal Leonard Southern Music publisher catalog](https://www.halleonard.com/product/3776251/the-dancer) · [Groth Music](https://www.grothmusic.com/p-143139-dancer-alto-saxophone-and-piano.aspx) · [All-Sheetmusic exact product page](https://www.all-sheetmusic.com/Wind-Instruments/Saxophone/The-Dancer.html) · [Stretta edition record](https://www.stretta-music.de/solomon-the-dancer-nr-927644.html) · [Copyright Encyclopedia transcription](https://www.copyrightencyclopedia.com/final-conflict-the-second-coming-the-dancer-no-cc4-the/)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Removed. Applied 2026-10-13.
 
 ## 22. Elliott Carter - Pastoral
 
@@ -391,7 +391,7 @@ Carter, Pastoral: the [composer’s saxophone catalog](https://www.elliottcarter
 
 **Listen:** [Sara Zazo, alto saxophone, and Eduardo Moreno, piano; live Fundación Juan March, Madrid, 2 February 2020; 9:34 video. (verified playable)](https://www.youtube.com/watch?v=wXuQJv7xIOc) · [Kyle Horch/Pamela Lidiard, Pastoral (Version for Alto Saxophone & Piano), Anglosax, 9:20. (cataloged, not playback verified)](https://open.spotify.com/track/3eVr4D0jV7RiC5q0WSsHnQ)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Third Year. Applied 2026-10-13.
 
 ## 23. Erland von Koch - Sonata
 
@@ -409,7 +409,7 @@ Koch, Sonata: the [Swedish Music and Theatre Library](https://discover.musikverk
 
 **Listen:** [Ronald L.Caravan, alto saxophone, Sar-Shalom Strong, piano; Single Reed Expressions Vol. 4; I.Allegro moderato, 4:12. (verified playable, first movement only)](https://www.youtube.com/watch?v=l2obtSUxdyM)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Second Year. Applied 2026-10-13.
 
 ## 24. Erland von Koch - Vision and Rondo
 
@@ -427,11 +427,11 @@ Koch, Vision and Rondo: [Dorn DORN0996 at Groth](https://www.grothmusic.com/p-14
 
 **Score or purchase:** [Actual Vision opening notation, concert-pitch piano score. Rondo not shown.](https://grothmusic.com/images/product/large/ae00-126436.jpg)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Second Year. Applied 2026-10-13.
 
 ## 25. Ernesto Pellegrini - Duolog
 
-[[Ernesto Pellegrini - Duolog|Work page]] · [[Review 0090 - Ernesto Pellegrini - Duolog|Full review]]
+Removed from catalog · [[Review 0090 - Ernesto Pellegrini - Duolog|Full review]]
 
 The Dorn catalog confirms the alto saxophone and piano Duolog, DORN0184. No actual score preview or exact playable recording was located, so the musical demands remain unknown. A Ball State archive mentions a recording of Duolog I, but its instrumentation and album are unspecified. [Dorn edition](https://www.grothmusic.com/p-145619.aspx).
 
@@ -443,5 +443,11 @@ The Dorn catalog confirms the alto saxophone and piano Duolog, DORN0184. No actu
 
 **Score or purchase:** [Dorn DORN0184 purchase record; no notation preview](https://www.grothmusic.com/p-145619.aspx)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Removed. Applied 2026-10-13.
 
+
+## Companion Work Added
+
+[[David Keeffe - The Undone Years. Flood|The Undone Years. Flood]] added as a separate, unassigned tenor saxophone and wind-ensemble entry. [[Review 0410 - David Keeffe - The Undone Years. Flood|Pending review]] records its evidence. Fire is Fourth Year.
+
+Flood was subsequently assigned Fourth Year in [[Chat Batch 09]] on 2026-10-13.

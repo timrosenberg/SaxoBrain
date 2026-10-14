@@ -3,8 +3,8 @@ title: "Review 0082: Eduard Tubin - Sonata"
 added: 2026-10-11
 review-id: 82
 review-packet: 4
-review-decision: Pending
-review-applied: false
+review-decision: "Third Year"
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Eduard Tubin - Sonata]]"
 build:
@@ -49,3 +49,7 @@ Sources checked:
 - [June Emerson Wind Music exact edition](https://www.juneemersonwindmusic.com/SONATA-9ce623a5-6a19-4d4d-bf7a-f5018179cfbf.html): Gehrmans NMS1998, alto sax/viola and piano, issue 1993, ISMN M661541998. (opened)
 - [International Eduard Tubin Society](https://www.tubinsociety.com/?lang=en&paged=2): Tubin Society explicitly links Virgo Veldi’s saxophone-sonata video. (opened)
 - [Johan Randvere performer YouTube channel](https://www.youtube.com/watch?v=HmePahyMMuk): Caption:1951 sonata, 2015 live Tubin Hall, Tartu, Virgo Veldi saxophone, Johan Randvere piano; movement starts 0:00, 5:07, 9:23; playback advanced 7.32 sec with readiness 4. (opened)
+
+## Chat Batch 08 Decision, 2026-10-13
+
+Tim assigned Third Year.

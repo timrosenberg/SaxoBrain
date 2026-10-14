@@ -2,6 +2,41 @@
 title: "SaxoBrain"
 # Retired work URLs redirect to the repertoire catalog.
 aliases:
+  - /composers/carla-bley/
+  - /composers/rene-champagnac/
+  - /works/carla-bley-utviklingssang/
+  - /works/rene-champagnac-eglogue/
+  - /composers/john-carmichael/
+  - /works/john-carmichael-aira-and-finale/
+  - /composers/roland-cardon/
+  - /works/roland-cardon-cricket-first/
+  - /works/fabian-rehfeld-aria/
+  - /works/francois-combelle-malbrough/
+  - /works/francois-couperin-les-cherubins/
+  - /works/frederick-koch-apocalyptic/
+  - /works/felix-lemaire-deuxieme-ballade/
+  - /works/gabriel-marie-cinquantaine/
+  - /works/gabriel-pierne-serenade/
+  - /works/georges-enescu-legend/
+  - /works/gilbert-vinter-concerto-burlando/
+  - /works/gilles-martin-cristalline/
+  - /works/gino-samyn-le-club-des-notes/
+  - /works/gioachino-rossini-rosine-s-aria-from-barber-of-seville/
+  - /composers/joshua-daniel-britt/
+  - /composers/william-boyce/
+  - /composers/william-byrd/
+  - /works/joshua-daniel-britt-folk-dance-sarabande-and-design/
+  - /works/william-boyce-moderato-larghetto/
+  - /works/william-byrd-pavana-and-galiardo/
+  - /works/david-ward-an-abstract/
+  - /works/dia-succari-fleurs-d-un-songe/
+  - /works/dominic-muldowney-in-hall-of-mirrors/
+  - /works/dominique-clement-entre-deux/
+  - /works/eduard-toldra-dels-quatre-vents/
+  - /works/edward-macdowell-to-a-wild-rose/
+  - /works/edward-r-nelson-suite-no-1/
+  - /works/edward-solomon-the-dancer/
+  - /works/ernesto-pellegrini-duolog/
   - /works/caix-d-hervelois-plainte-napolitana/
   - /works/caix-d-hervelois-prelude-allegro/
   - /works/carl-maria-von-weber-romance/

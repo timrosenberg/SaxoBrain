@@ -3,8 +3,8 @@ title: "Review 0118: Glenn Gass - Breathless"
 added: 2026-10-11
 review-id: 118
 review-packet: 5
-review-decision: Pending
-review-applied: false
+review-decision: "Third Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Glenn Gass - Breathless]]"
 build:
@@ -35,3 +35,19 @@ Searches checked:
 - "Glenn Gass" "Breathless" saxophone: Publisher catalog listing located; no notation inspected.
 - site:grothmusic.com "Glenn Gass" Breathless: Dorn catalog PDF opened; item appears as order no. 166 in alto saxophone and piano section.
 - "Breathless" "Glenn Gass" score recording: No independently verified matching score or recording located.
+
+## Chat batch 09 follow-up, 2026-10-13
+
+Dorn’s April 2025 music catalogue places Breathless by Gass, order 166, under Alto Saxophone and Piano. The preceding heading occurs on printed page 4 and the entry continues on printed page 5. Groth’s exact opened product page identifies Glenn Gass, Breathless, alto saxophone/piano and Dorn Publications. Its sample section contains no score or audio assets. The title alone gives no evidence of circular breathing, extended technique, nonstop writing or technical difficulty. No such claim is supported.
+
+Collection context: Exact saxophone/piano edition verified. No young-player simplification, intended audience, college/professional use or detailed musical demands established.
+
+Open questions: Composition year, duration, movement structure, range and techniques unknown. No public notation preview or exact playable recording verified.
+
+Sources checked:
+- [Dorn Publications April 2025 catalogue](https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf): Breathless by Gass, order 166, appears under Alto Saxophone and Piano. (opened)
+- [Groth Music](https://www.grothmusic.com/p-142660.aspx): Glenn Gass, alto saxophone/piano, Dorn Publications DORN0166; public samples empty. (opened)
+
+## Chat Batch 09 Decision, 2026-10-13
+
+Tim assigned Third Year.

@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 1940
-year-of-study: 
+year-of-study: "Third Year"
 streaming: "https://www.youtube.com/watch?v=wXuQJv7xIOc"
 purchase:
   - "https://www.grothmusic.com/p-37610.aspx"

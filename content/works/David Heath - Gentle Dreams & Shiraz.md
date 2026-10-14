@@ -8,7 +8,7 @@ instruments:
   - "Tenor Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
+year-of-study: "Second Year"
 streaming: 
 purchase:
   - "Soprano/tenor saxophone and piano, CM115 · https://stainer.co.uk/shop/cm115/"

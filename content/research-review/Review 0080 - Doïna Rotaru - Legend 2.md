@@ -3,8 +3,8 @@ title: "Review 0080: Doïna Rotaru - Legend 2"
 added: 2026-10-11
 review-id: 80
 review-packet: 4
-review-decision: Pending
-review-applied: false
+review-decision: "Advanced"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Doïna Rotaru - Legend 2]]"
 build:
@@ -46,3 +46,7 @@ Sources checked:
 - [CiNii Books institutional bibliographic record](https://ge.nii.ac.jp/ncid/BA54532324): Edition for soprano or oboe, c 1998, four music pages. (search_index_only)
 - [Bernardo Zagalaz Lijarcio, 2015 doctoral thesis, public Scribd mirror](https://es.scribd.com/document/530056924/NUEVAS-GRAFIAS-EN-LOS-ESTUDIOS-DE-SAXOFON-ANDALUCIA): Single movement 9 minutes; bisbigliando, quarter tones, flutter tongue, glissando, voice effects, multiphonics, time-based writing, circular breathing. (opened)
 - [Antonio García Jorge YouTube upload](https://www.youtube.com/watch?v=xLCXpT_g4Hc): Exact saxophone graduation-recital performance; public formats and browser playback verified. (opened)
+
+## Chat Batch 08 Decision, 2026-10-13
+
+Tim assigned Advanced.

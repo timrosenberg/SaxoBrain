@@ -3,8 +3,8 @@ title: "Review 0064: David Bomberg - Interactions"
 added: 2026-10-11
 review-id: 64
 review-packet: 3
-review-decision: Pending
-review-applied: false
+review-decision: "Advanced"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[David Bomberg - Interactions]]"
 build:
@@ -41,7 +41,7 @@ Catalog: [David Bomberg - Interactions.md](/Users/trosenberg/Documents/GitHub/Sa
 - No matching score or recording located; the reference does not establish where or how often multiphonics occur in the piece.
 - Original versus arrangement status is unresolved.
 
-**Tim decision:** pending.
+**Tim decision:** Advanced.
 
 ## Chat batch 08 follow-up, 2026-10-13
 
@@ -55,3 +55,7 @@ Sources checked:
 - [Groth Music product record](https://www.grothmusic.com/p-141738.aspx): Exact edition is soprano saxophone and piano, Dorn DORN0136. (opened)
 - [Tom Bergeron, Saxophone Multiphonics: A Scalar Model](https://tombergeron.us/download/sax-multiphonics.pdf): 1980 composition, Dorn 1981 publication; four coded multiphonic combinations indexed. (opened)
 - [J.W. Pepper product record](https://www.jwpepper.com/interactions-soprano-sax-piano-7480072/p): Qualitative description is explicitly AI-assisted and lacks a human-written source. (search_index_only)
+
+## Chat Batch 08 Decision, 2026-10-13
+
+Tim assigned Advanced.

@@ -6,17 +6,30 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
-year-of-study: 
+composed: 1998
+year-of-study: "Advanced"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-142657.aspx
 added: 2024-03-08
 research:
   - "Publisher Dorn Publications, catalog DORN1398 · https://www.grothmusic.com/p-142657.aspx"
+  - "1998, alto and piano, approximately 13 minutes, Thomas Liley commission, sectional single movement, techniques and 2008 recording status. · https://digital.library.unt.edu/ark:/67531/metadc9751/m2/1/high_res_d/dissertation.pdf"
+  - "Written B-flat3 to C-sharp7 range diagram; saxophone trill, growl, bend and slap examples in written pitch. · https://digital.library.unt.edu/ark:/67531/metadc9751/m2/1/high_res_d/dissertation.pdf"
+  - "Edition alto saxophone and piano, publisher Dorn Publications, DORN1398. · https://www.grothmusic.com/p-142657.aspx"
+  - "Composition listed under 1998. · https://blogs.iu.edu/jsomcomposition/frederick-fox/"
 aliases: []
+publisher:
+  - "Dorn Publications"
 ---
 ## Research notes (private)
+
+### Chat batch 09 follow-up, 2026-10-13
+
+About 13 minutes. Written range diagram reaches C-sharp7 from B-flat3. Inspected written-pitch excerpts confirm timbral trill, growl, downward bend and slap, with extended piano techniques documented. Full score and exact recording remain unavailable.
+
+[[Review 0094 - Frederick Fox - When the Thunder Speaks|Full evidence and open questions]]
+
 
 - Publisher Dorn Publications, catalog DORN1398 · [grothmusic.com](https://www.grothmusic.com/p-142657.aspx)
 

@@ -1,14 +1,16 @@
 ---
-title: "Andrew Bishop"
+title: Andrew Bishop
 slug: andrew-bishop
 nationality:
-gender:
+  - 🇺🇸 American
+gender: Male
 race:
-born: 
-died: 
-wikidata: 
-photo: 
-photo-credit: 
-photo-source: 
+  - White
+born: 1970
+died:
+wikidata:
+photo: "/media/composers/andrew-bishop.jpg"
+photo-credit: mighiganjazzfestival.org
+photo-source: https://michiganjazzfestival.org/wp-content/uploads/2026/05/Bishop_Andrew-scaled-e1778881716694.jpg
 aliases: []
 ---

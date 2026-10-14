@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 2014
-year-of-study: 
+year-of-study: "Fourth Year"
 streaming: 
 purchase:
   - https://www.uymp.co.uk/publications/george-nicholson-far-cry
@@ -17,9 +17,20 @@ added: 2025-04-21
 research:
   - "Duration about 17 minutes; composed 2014-5, published 2016 by University of York Music Press · https://www.uymp.co.uk/publications/george-nicholson-far-cry"
   - "Written for Anthony Brown (alto saxophone) and Leo Nicholson (piano), who gave the premiere on 14 November 2021 at St Andrew's Psalter Lane Church, Sheffield · https://www.uymp.co.uk/publications/george-nicholson-far-cry"
+  - "Exact instrumentation, duration, composition range, composer programme note, and premiere. · https://www.uymp.co.uk/publications/george-nicholson-far-cry"
+  - "Official perusal manifest exposes four image URLs; image content inaccessible. · https://admin.uymp.co.uk/api/v1/perusal/pdf/485.json"
 aliases: []
+publisher:
+  - "University of York Music Press"
 ---
 ## Research notes (private)
+
+### Chat batch 09 follow-up, 2026-10-13
+
+Nicholson Far Cry: publisher confirms 17 minutes. Nicholson says the piano begins as a passive resonator and gradually enters the musical argument, stimulating increasingly expansive saxophone writing. Written for Anthony Brown and Leo Nicholson. Composition is 2014 to 2015. Preview endpoint was found but notation could not be read.
+
+[[Review 0107 - George Nicholson - Far Cry|Full evidence and open questions]]
+
 
 - Duration about 17 minutes; composed 2014-5, published 2016 by University of York Music Press · [uymp.co.uk](https://www.uymp.co.uk/publications/george-nicholson-far-cry)
 - Written for Anthony Brown (alto saxophone) and Leo Nicholson (piano), who gave the premiere on 14 November 2021 at St Andrew's Psalter Lane Church, Sheffield · [uymp.co.uk](https://www.uymp.co.uk/publications/george-nicholson-far-cry)

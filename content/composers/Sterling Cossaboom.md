@@ -1,14 +1,15 @@
 ---
-title: "Sterling Cossaboom"
+title: Sterling Cossaboom
 slug: sterling-cossaboom
-nationality: []
-gender: 
+nationality:
+  - 🇺🇸 American
+gender: Male
 race: []
-born: 
-died: 
-wikidata: 
-photo: 
-photo-credit: 
-photo-source: 
+born: 1944
+died:
+wikidata:
+photo:
+photo-credit:
+photo-source:
 aliases: []
 ---

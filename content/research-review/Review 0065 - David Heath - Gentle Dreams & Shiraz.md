@@ -3,8 +3,8 @@ title: "Review 0065: David Heath - Gentle Dreams & Shiraz"
 added: 2026-10-11
 review-id: 65
 review-packet: 3
-review-decision: Pending
-review-applied: false
+review-decision: "Second Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[David Heath - Gentle Dreams & Shiraz]]"
 build:
@@ -40,7 +40,7 @@ Catalog: [David Heath - Gentle Dreams & Shiraz.md](/Users/trosenberg/Documents/G
 - No score preview or soprano performance recording verified.
 - Exam Grade 5 listing is for tenor saxophone and may reflect that syllabus arrangement only.
 
-**Tim decision:** pending.
+**Tim decision:** Second Year.
 
 ## Chat batch 08 follow-up, 2026-10-13
 
@@ -57,3 +57,7 @@ Sources checked:
 - [Your Online Pianist practice item](https://www.youronlinepianist.co.uk/index.php?id=20647&route=yop%2Ftrack): Gentle Dreams demonstrated on tenor; piano-only practice starts at figure A; preview/full educational-practice access described. (opened)
 - [Lindsey O’Connor DMA dissertation abstract, University of Nebraska-Lincoln](https://digitalcommons.unl.edu/musicstudent/146/): Original Gentle Dreams (1983) was written for cellist Julian Lloyd Webber; no paired-collection year implied. (opened)
 - [Trinity College London saxophone repertoire list, May 2026 update](https://trinitycollege.com/resource?id=9985): May 2026 Trinity repertoire list names CM115 for soprano/tenor exam use and specifies Shiraz ossia at the end. (opened)
+
+## Chat Batch 08 Decision, 2026-10-13
+
+Tim assigned Second Year.

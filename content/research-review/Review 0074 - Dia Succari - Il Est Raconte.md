@@ -3,8 +3,8 @@ title: "Review 0074: Dia Succari - Il Est Raconte"
 added: 2026-10-11
 review-id: 74
 review-packet: 3
-review-decision: Pending
-review-applied: false
+review-decision: "Third Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Dia Succari - Il Est Raconte]]"
 build:
@@ -41,7 +41,7 @@ Catalog: [Dia Succari - Il Est Raconte.md](/Users/trosenberg/Documents/GitHub/Sa
 **Open questions.**
 - No readable score notation, verified recording, or exact duration was located. The accessible 1993 reference provides work-specific rhythmic and structural information, but the notation and improvisation instructions were not inspected.
 
-**Tim decision:** pending.
+**Tim decision:** Third Year.
 
 ## Chat batch 08 follow-up, 2026-10-13
 
@@ -56,3 +56,7 @@ Sources checked:
 - [Claude Delangle et al., 10 ans avec le saxophone, Philharmonie de Paris scan](https://mediatheque.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf): Continuous form; measured/improvised alternation; 3+2+2+3, varied accents, traditional notation, 11:35. (opened)
 - [Monique Succari YouTube upload](https://www.youtube.com/watch?v=oBDAC2y9VPA): Exact saxophone performance and performers identified in upload description; public availability verified. (opened)
 - [Bernardo Zagalaz Lijarcio, 2015 doctoral thesis, public Scribd mirror](https://es.scribd.com/document/530056924/NUEVAS-GRAFIAS-EN-LOS-ESTUDIOS-DE-SAXOFON-ANDALUCIA): Work dated 1987; accelerandos and approximate-duration lines; alto and piano, one movement, about 11:30. (opened)
+
+## Chat Batch 08 Decision, 2026-10-13
+
+Tim assigned Third Year.

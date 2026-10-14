@@ -3,10 +3,10 @@ title: "Review 0081: Eduard Toldrà - Dels Quatre Vents"
 added: 2026-10-11
 review-id: 81
 review-packet: 4
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Eduard Toldrà - Dels Quatre Vents]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [[Eduard Toldrà - Dels Quatre Vents]]
+Catalog: removed at Tim’s request on 2026-10-13.
 
 - Identity: The saxophone publication *Dels Quatre Vents* (UME21470) is an alto saxophone and piano adaptation of the fifth movement in Eduard Toldrà’s *Sis Sonets*, originally written for violin and piano in 1921. A library catalog search result attributes a transcription under this title to José Amaz; exact relation of this edition to other transcriptions needs confirmation.
 - UME21470 is listed for alto saxophone and piano. [Presto Music sheet-music catalog](https://www.prestomusic.com/sheet-music/products/7007577--dels-quatre-vents) (search_index_only).
@@ -48,3 +48,7 @@ Sources checked:
 - [Eduard Toldrà specialist catalog manuscript facsimile](https://sites.google.com/site/eduardtoldra/eduard-toldr%C3%A0-i-soler/complete-catalog/sis-sonets): Original violin manuscript visually inspected; low resolution prevents range claims. (score_inspected)
 - [Catalan Education Department 2016–2017 entrance guidance, hosted by La Lira Ampostina](https://www.laliraampostina.com/wp-content/uploads/orientacions.pdf?644ab3=): Exact UME saxophone title appears in entry-to-professional-studies repertoire. (opened)
 - [Forsyths edition listing](https://www.forsyths.co.uk/sheet-music/instruments/woodwind/saxophone-sheet-music/42115-toldra-dels-quatre-vents-bayer-for-alto-saxophone-5020679225585.html): Bayer name appears in retailer URL  for UME21470; role not corroborated. (search_index_only)
+
+## Chat Batch 08 Decision, 2026-10-13
+
+Tim requested removal from the catalog. The private evidence log is retained.

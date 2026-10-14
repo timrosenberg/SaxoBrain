@@ -3,8 +3,8 @@ title: "Review 0083: Edvard Moritz - Sonata No. 1, Op. 96"
 added: 2026-10-11
 review-id: 83
 review-packet: 4
-review-decision: Pending
-review-applied: false
+review-decision: "Third Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Edvard Moritz - Sonata No. 1, Op. 96]]"
 build:
@@ -48,3 +48,7 @@ Sources checked:
 - [Musica reanimata lecture-recital archive](https://musica-reanimata.de/en/0050.review.html): Musica reanimata 2019 event lists Sonata for E-flat alto saxophone/piano, Op. 96(1939), Enzel/Groschopp. (opened)
 - [Georgia Southern University institutional recital archive](https://digitalcommons.georgiasouthern.edu/videos/2426/): October 11, 2021 university recital identifies Sonata No. 1, Op. 96(1938), Molto andante, LJ Hollingsworth, alto saxophone and Karla Rocker, piano. (opened)
 - [vacksbook archival recording upload, identifying Decca album labels](https://www.youtube.com/watch?v=IjPCfMXpY9Y): Full six-side Decca Op. 96 upload credits Cecil Leeson/Josef Wagner, names all four movements; playback advanced 4.97 seconds with readyState 4 and duration 25:02. (opened)
+
+## Chat Batch 08 Decision, 2026-10-13
+
+Tim assigned Third Year.

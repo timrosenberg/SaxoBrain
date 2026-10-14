@@ -6,7 +6,7 @@ composer:
 instruments:
   - "Soprano Saxophone"
 composed: 1996
-year-of-study: 
+year-of-study: "Advanced"
 streaming: "https://www.youtube.com/watch?v=xLCXpT_g4Hc"
 purchase:
   - "https://www.boosey.com/shop/prod/Rotaru-Doina-Legend-II-soprano-saxophone-solo-or-oboe-score/2172084"

@@ -7,16 +7,30 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
+year-of-study: "First Year"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-118908.aspx
 added: 2024-03-08
 research:
   - "Publisher Zimmermann, catalog ZM11840; listed as Summer Evening on the Mountain, subtitled Impression for English Horn/Alto Saxophone and piano · https://www.grothmusic.com/p-118908.aspx"
+  - "Exact edition contains English-horn part, alto-saxophone part and piano score; publisher Zimmermann, ZM11840. · https://www.grothmusic.com/p-118908.aspx"
+  - "Exact title/instrument alternatives, playing-time indication and opening piano/solo-cue notation. · https://grothmusic.com/images/product/large/1071-ZM11840_2_.jpg"
+  - "ZM11840 cor anglais/alto saxophone and piano. · https://www.juneemersonwindmusic.com/Saxophone/?page=69&sort=composer"
+  - "Alto saxophone, Mareczek, Zimmermann, official external 3e Divisie roster. · https://www.knmo.nl/wp-content/uploads/2014/05/05-Repertorium-Houtblazers-Solisten-Ensembles-2010.pdf"
+  - "Historical Recordings Vol. 2 (2010), Eero Linnala 1957 recordings. · https://www.suomensaksofoniseura.fi/julkaisut/"
 aliases: []
+publisher:
+  - "Zimmermann"
 ---
 ## Research notes (private)
+
+### Chat batch 09 follow-up, 2026-10-13
+
+The partly masked ZM11840 piano preview opens Andante rubato with decorated, flexible-tempo keyboard writing. The solo cue combines sustained/slurred notes and sixteenth-note connections, then more chromatic motion. The separate alto part is unavailable. Linnala’s 1957 saxophone recording is documented at 4:25, but playback was not verified.
+
+[[Review 0097 - Fritz Mareczek - Sommerabend am Berg|Full evidence and open questions]]
+
 
 - Publisher Zimmermann, catalog ZM11840; listed as Summer Evening on the Mountain, subtitled Impression for English Horn/Alto Saxophone and piano · [grothmusic.com](https://www.grothmusic.com/p-118908.aspx)
 

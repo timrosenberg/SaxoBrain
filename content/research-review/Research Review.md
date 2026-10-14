@@ -13,7 +13,7 @@ Research for 409 works, completed October 11, 2026. Each work has its own review
 
 ## Start Here
 
-Current chat batch: [[Chat Batch 08]] contains 25 works, numbered 1–25 for your reply.
+Current chat batch: [[Chat Batch 09]] contains 25 works, numbered 1–25 for your reply.
 
 1. Ask Codex for the next short review batch in chat, or open [[Research Packet 01]].
 2. Give decisions by number in chat, or enter them in `review-decision` in the table below.
@@ -23,6 +23,8 @@ Use `Pending` until you have decided. Level choices match the catalog: `Pre-coll
 
 > [!note] Decisions and Catalog Entries
 > A review decision records your choice. It does not automatically update the linked catalog entry. `review-applied` records whether Codex has applied that decision. No levels were assigned during research.
+
+New work added after batch 08: [[Review 0410 - David Keeffe - The Undone Years. Flood|The Undone Years. Flood, Fourth Year]]. Its review number is 410; the original 409-work archive is unchanged.
 
 ## Decision Table
 

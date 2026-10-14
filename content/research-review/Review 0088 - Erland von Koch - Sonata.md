@@ -3,8 +3,8 @@ title: "Review 0088: Erland von Koch - Sonata"
 added: 2026-10-11
 review-id: 88
 review-packet: 4
-review-decision: Pending
-review-applied: false
+review-decision: "Second Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Erland von Koch - Sonata]]"
 build:
@@ -46,3 +46,7 @@ Sources checked:
 - [Mark Records label catalog](https://markcustom.com/Markcustom_new/Menu2_ViewAlbum.asp?CDNum=52257-MCD): Volume 4 tracks 11–13 identify 1985 sonata and three movements; performers Ronald L.Caravan/Sar-Shalom Strong. (opened)
 - [Mark Records / NAXOS of America official YouTube track](https://www.youtube.com/watch?v=l2obtSUxdyM): NAXOS-provided official track identifies composer and both artists; successful browser playback, 4:12. (opened)
 - [California State University Sacramento saxophone studio recital program](https://www.csus.edu/college/arts-letters/music/_internal/_documents/programs/4.15.26-sax.pdf): Prior recital source actually lists Monolog No. 4, not Sonata. (opened)
+
+## Chat Batch 08 Decision, 2026-10-13
+
+Tim assigned Second Year.

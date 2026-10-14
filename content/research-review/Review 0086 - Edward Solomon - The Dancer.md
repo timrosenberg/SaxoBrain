@@ -3,10 +3,10 @@ title: "Review 0086: Edward Solomon - The Dancer"
 added: 2026-10-11
 review-id: 86
 review-packet: 4
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Edward Solomon - The Dancer]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [[Edward Solomon - The Dancer]]
+Catalog: removed at Tim’s request on 2026-10-13.
 
 - Identity: Edward Solomon’s *The Dancer* is a four-page Southern Music solo for E-flat alto saxophone and piano, item SU352. The catalog search result labels it Level 1; a separate retailer describes it as a graceful waltz intended as a young player’s first solo, but no score was inspected to verify style or notation.
 - Southern Music/Hal Leonard product page identifies alto sax, composer Edward Solomon, code SU352, four pages, and publisher Level 1. [Hal Leonard, Southern Music catalog](https://www.halleonard.com/product/3776251/the-dancer) (search_index_only).
@@ -46,3 +46,7 @@ Sources checked:
 - [All-Sheetmusic exact product page](https://www.all-sheetmusic.com/Wind-Instruments/Saxophone/The-Dancer.html): Exact SU352 edition described as a graceful waltz and a young alto saxophonist’s first solo. (opened)
 - [Stretta edition record](https://www.stretta-music.de/solomon-the-dancer-nr-927644.html): Publication 1996. (search_index_only)
 - [Copyright Encyclopedia transcription](https://www.copyrightencyclopedia.com/final-conflict-the-second-coming-the-dancer-no-cc4-the/): Creation 1996, publication June 1, 1996, Southern Music, alto saxophone and piano. (search_index_only)
+
+## Chat Batch 08 Decision, 2026-10-13
+
+Tim requested removal from the catalog. The private evidence log is retained.

@@ -8,7 +8,7 @@ instruments:
   - "Tenor Saxophone"
   - "Piano"
 composed: 1979
-year-of-study: 
+year-of-study: "Second Year"
 streaming: "https://www.youtube.com/watch?v=_BsiCZY4X1I"
 purchase:
   - "Soprano saxophone and piano, CP55122 · https://www.prestomusic.com/sheet-music/products/7012620--dave-heath-rumania"

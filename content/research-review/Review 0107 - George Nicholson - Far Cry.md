@@ -3,8 +3,8 @@ title: "Review 0107: George Nicholson - Far Cry"
 added: 2026-10-11
 review-id: 107
 review-packet: 5
-review-decision: Pending
-review-applied: false
+review-decision: "Fourth Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[George Nicholson - Far Cry]]"
 build:
@@ -37,3 +37,19 @@ Searches checked:
 - George Nicholson Far cry alto saxophone piano 2014 2015: Targeted web search; results reviewed for exact edition, publisher, score, recording, and teaching context; unrelated instrument/edition results excluded.
 - University of York Music Press Far Cry Nicholson score recording: Targeted web search; results reviewed for exact edition, publisher, score, recording, and teaching context; unrelated instrument/edition results excluded.
 - Far cry George Nicholson saxophone performance: Targeted web search; results reviewed for exact edition, publisher, score, recording, and teaching context; unrelated instrument/edition results excluded.
+
+## Chat batch 09 follow-up, 2026-10-13
+
+Publisher specifies 17 minutes and composition from 2014 to 2015, with publication in 2016. Preserve the existing 2014 field and flag the source range. Nicholson describes writing a substantial work for Anthony Brown and Leo Nicholson, prompted by Neolithic Orkney sites and ideas about resonance. The composer says the piano begins as a passive resonator and gradually develops a more active role in the musical argument. This is a primary account of the ensemble relationship. Publisher records the world premiere by Anthony Brown, alto saxophone, and Leo Nicholson, piano, on 14 November 2021 at St Andrew's Psalter Lane Church, Sheffield.
+
+Collection context: Composer explicitly frames this as a substantial work written for named duo performers. No young-player or simplified arrangement designation verified.
+
+Open questions: Publisher gives 2014 to 2015, while current composed field is 2014. Existing value preserved. Readable preview image content was unavailable, so notation and full range remain unknown. No public exact saxophone recording verified.
+
+Sources checked:
+- [University of York Music Press](https://www.uymp.co.uk/publications/george-nicholson-far-cry): Exact instrumentation, duration, composition range, composer programme note, and premiere. (opened)
+- [University of York Music Press](https://admin.uymp.co.uk/api/v1/perusal/pdf/485.json): Official perusal manifest exposes four image URLs; image content inaccessible. (opened)
+
+## Chat Batch 09 Decision, 2026-10-13
+
+Tim assigned Fourth Year.

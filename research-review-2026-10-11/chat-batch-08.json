@@ -1,8 +1,8 @@
 {
   "created": "2026-10-13",
   "chat_batch": 8,
-  "decision_status": "Pending",
-  "scope": "Fresh evidence and verified metadata for 25 unassigned works; Tim assigns every level.",
+  "decision_status": "Applied",
+  "scope": "Tim’s sixteen level assignments applied; nine specified works removed. Flood added separately and left unassigned. Private research retained and retired URLs redirected to the catalog.",
   "works": [
     {
       "chat_number": 1,
@@ -72,7 +72,11 @@
           ]
         },
         "chat_summary": "Interactions is confirmed as soprano saxophone and piano, Dorn DORN0136. Bergeron’s technical reference dates composition to 1980 and publication to 1981, and indexes four multiphonic combinations on printed p.87. The score and exact sax recording remain unavailable, so their frequency, range and other demands are unknown. [Edition](https://www.grothmusic.com/p-141738.aspx) · [Multiphonics reference](https://tombergeron.us/download/sax-multiphonics.pdf)."
-      }
+      },
+      "assigned_level": "Advanced",
+      "decision": "Advanced",
+      "review_applied": true,
+      "decision_note": "Tim assigned Advanced."
     },
     {
       "chat_number": 2,
@@ -181,7 +185,11 @@
           ]
         },
         "chat_summary": "CM115 pairs two jazz-rooted pieces in McChrystal’s soprano saxophone and piano arrangement. The official ABRSM syllabus uses this same soprano-titled edition for B-flat repertoire, so tenor use does not establish a separate adaptation. Shiraz’s exam instruction selects the upper ossia. No notation or complete exact sax recording of the pair was inspected; a tenor Gentle Dreams practice demo is verified. The two originals do not have a confirmed shared year. [Edition](https://stainer.co.uk/shop/cm115/) · [Exam evidence pp.129,137](https://www.abrsm.org/sites/default/files/2023-10/Woodwind%202022%20Practical%20syllabus%20(0%20ALL)%2020230911.pdf) · [Practice](https://www.youronlinepianist.co.uk/index.php?id=20647&route=yop%2Ftrack)."
-      }
+      },
+      "assigned_level": "Second Year",
+      "decision": "Second Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Second Year."
     },
     {
       "chat_number": 3,
@@ -296,7 +304,11 @@
           ]
         },
         "chat_summary": "Rumania (1979) is Heath’s own saxophone adaptation of a violin/flute and piano work. His program note calls for episodic contrasts, rhythmic freedom in slow sections, and precise sustaining/blurred piano pedalling. The composer’s Harle/Lenehan soprano recording is verified. Trinity’s 2026 list accepts soprano or tenor. No sax notation was inspected, and the detailed dissertation remains inaccessible. [Program note](https://www.wisemusicclassical.com/work/820/Rumania--David-Heath/) · [Listen](https://www.youtube.com/watch?v=_BsiCZY4X1I) · [Trinity p.3](https://www.trinitycollege.com/resource?id=8548)."
-      }
+      },
+      "assigned_level": "Second Year",
+      "decision": "Second Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Second Year."
     },
     {
       "chat_number": 4,
@@ -371,7 +383,11 @@
           "instruments": []
         },
         "chat_summary": "Alto Adventure was composed for Lynn Klock and is sold as alto saxophone with piano, Wingert-Jones 3055131, about six minutes. The publisher describes upper-register lyricism, technical passagework, a driving piano and an accelerating close. The exact Klock/Zeisler/Virginia Wind Symphony recording is verified, using wind ensemble. No notation or composition year was found. The publisher page has a conflicting generic band-package label. [Piano edition](https://wingertjones.com/product/3055131-alto-adventure-jex/) · [Listen](https://www.youtube.com/watch?v=K1APvNEYTcc)."
-      }
+      },
+      "assigned_level": "Third Year",
+      "decision": "Third Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Third Year."
     },
     {
       "chat_number": 5,
@@ -444,7 +460,11 @@
           ]
         },
         "chat_summary": "This 2010 tenor concerto lasts about 25 minutes and has four movements. AMC documents altissimo, multiphonics and a virtuosic solo part, with serial writing in a consonant soundworld. The 2011 Wirripang publication is a 52-page full score. Score notation, exact audio and separate performance parts remain unverified. [Work and composer notes](https://www.australianmusiccentre.com.au/work/keeffe-david-undone-years-fire) · [Full score](https://www.australianmusiccentre.com.au/product/the-undone-years-fire-a-concerto-for-tenor-saxophone-with-strings-piano-and-timpani)."
-      }
+      },
+      "assigned_level": "Fourth Year",
+      "decision": "Fourth Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Fourth Year."
     },
     {
       "chat_number": 6,
@@ -515,7 +535,11 @@
           "instruments": []
         },
         "chat_summary": "Liptak’s own catalogue verifies Fantasy (1980) for alto saxophone and piano and identifies a recording by Chien-Kwan Lin and Pi-Lin Ni. It lists 14 minutes; Groth’s Dorn DORN0179 edition lists 13 minutes and dedication to James Forger. His six-minute 2006 violin Fantasy is a different piece, so its program note and youth commission do not apply. No sax score preview was located. [Composer catalogue and recording](https://www.dliptak.com/compositions/duo.html) · [Dorn edition](https://www.grothmusic.com/p-145846.aspx). [Listen: Lin/Ni](https://soundcloud.com/david-liptak-946907213/fantasy-1/s-Rw3HpG2gKbz)."
-      }
+      },
+      "assigned_level": "Fourth Year",
+      "decision": "Fourth Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Fourth Year."
     },
     {
       "chat_number": 7,
@@ -628,7 +652,16 @@
           "instruments": []
         },
         "chat_summary": "An Abstract is the eight-page Southern SS101 alto saxophone and piano edition. Music Minus One MMO4117 supplies an annotated solo part and Paul Brodie/Antonin Kubalek recordings, with an exact public publisher audio sample. Breuer’s verified alto rendition omits piano; a separate piano-only practice video is also available. No score notation was inspected, and conflicting copyright dates do not establish composition year. [Edition](https://www.halleonard.com/product/3773701/an-abstract) · [Publisher sample](https://s3.amazonaws.com/halleonard-closerlook/00400747/MMO4117-CD01-05.mp3) · [Alto rendition](https://www.youtube.com/watch?v=nyNmY5ydzxQ) · [Piano practice](https://www.youtube.com/watch?v=WtoKzelbWIM)."
-      }
+      },
+      "removed": true,
+      "retired_url": "/works/david-ward-an-abstract/",
+      "retired_aliases": [],
+      "redirect_to": "/",
+      "removed_work_snapshot": "---\ntitle: \"An Abstract\"\nslug: david-ward-an-abstract\ncomposer:\n  - \"[[David Ward]]\"\ninstruments:\n  - \"Alto Saxophone\"\n  - \"Piano\"\ncomposed: \nyear-of-study: \nstreaming: \"https://www.youtube.com/watch?v=nyNmY5ydzxQ\"\npurchase:\n  - \"https://www.grothmusic.com/p-33799.aspx\"\n  - \"https://www.halleonard.com/product/3773701/an-abstract\"\n  - \"Music Minus One MMO4117, annotated solo part and audio · https://www.halleonard.com/product/1007397/advanced-alto-saxophone-solos-volume-3\"\nadded: 2024-03-08\nresearch:\n  - \"Publisher Southern, catalog number 03773701 · https://www.grothmusic.com/p-33799.aspx\"\n  - \"8 pages · https://www.grothmusic.com/p-33799.aspx\"\n  - \"Southern Music SS101 / HL03773701; Ward; eight pages. · https://www.halleonard.com/product/3773701/an-abstract\"\n  - \"MMO4117 includes Ward; annotated alto part, Paul Brodie saxophone and Antonin Kubalek piano, complete/solo-omitted recorded versions. · https://www.halleonard.com/product/1007397/advanced-alto-saxophone-solos-volume-3\"\n  - \"Publisher closer-look player labels fifth MP3 as David Ward, An Abstract; direct public audio file returns200 audio/mpeg. · https://www.halleonard.com/viewcloserlook.action?itemId=00400747&name=advanced-alto-saxophone-solos-volume-3\"\n  - \"Exact title/composer; uploader identifies alto saxophone, without piano; public 3:50 rendition. · https://www.youtube.com/watch?v=nyNmY5ydzxQ\"\n  - \"Piano-only accompaniment; uploader identifies click introduction and coda click counts. · https://www.youtube.com/watch?v=WtoKzelbWIM\"\npublisher:\n  - \"Southern Music\"\naliases: []\n---\n## Research notes (private)\n\n### Chat batch 08 follow-up, 2026-10-13\n\nAn Abstract is the eight-page Southern SS101 alto saxophone and piano edition. Music Minus One MMO4117 supplies an annotated solo part and Paul Brodie/Antonin Kubalek recordings, with an exact public publisher audio sample. Breuer’s verified alto rendition omits piano; a separate piano-only practice video is also available. No score notation was inspected, and conflicting copyright dates do not establish composition year. [Edition](https://www.halleonard.com/product/3773701/an-abstract) · [Publisher sample](https://s3.amazonaws.com/halleonard-closerlook/00400747/MMO4117-CD01-05.mp3) · [Alto rendition](https://www.youtube.com/watch?v=nyNmY5ydzxQ) · [Piano practice](https://www.youtube.com/watch?v=WtoKzelbWIM).\n\n[[Review 0070 - David Ward - An Abstract|Full evidence and open questions]]\n\n\n- Publisher Southern, catalog number 03773701 · [grothmusic.com](https://www.grothmusic.com/p-33799.aspx)\n- 8 pages · [grothmusic.com](https://www.grothmusic.com/p-33799.aspx)\n\n<!-- saxobrain-research-review-2026-10-11 -->\n\n### Research Review, October 11, 2026\n\n[[Review 0070 - David Ward - An Abstract|Full review note]]\n\nCatalog: [David Ward - An Abstract.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/David Ward - An Abstract.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0070.json).\n\n**Identity and findings.** David Ward’s An Abstract is an alto saxophone and piano work published by Southern Music, copyright 1963. Hal Leonard identifies publisher level 3; WorldCat confirms score format and original publication. Fred Hemke recorded it; Paul Brodie also included it in a solo collection with practice recording. The Philharmonie guide and a 2005 UNT faculty-list survey use different historical pedagogical categories.\n\n**Sources checked.**\n- [Hal Leonard / Southern Music](https://www.halleonard.com/product/3773701/an-abstract) (opened): Publisher page identifies David Ward, alto sax, Southern Music SS101, eight pages, Level 3.\n- [WorldCat](https://search.worldcat.org/title/An-abstract-%3A-for-alto-saxophone-and-piano/oclc/4026579) (opened): WorldCat lists the score as alto saxophone and piano, published 1963.\n- [University of North Texas dissertation](https://digital.library.unt.edu/ark%3A/67531/metadc330729/m2/1/high_res_d/1002715608-Lamar.pdf) (search_index_only): UNT dissertation table of recorded examples identifies Fred Hemke’s recording.\n- [Music Minus One catalog listing](https://hsiaoya.com/en/products/advanced-alto-saxophone-solos-volume-3-01400747) (search_index_only): Brodie advanced solo collection listing includes this work and a Paul Brodie alto performance with piano accompaniment.\n- [Claude Delangle et al., 10 ans avec le saxophone (Philharmonie de Paris digital scan)](https://mediatheque.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf) (opened, PDF p.45; printed p.48): The guide calls the work atonal and places it in its fifth-year framework.\n- [Scott D. Kallestad, University of North Texas DMA dissertation (2005)](https://digital.library.unt.edu/ark:/67531/metadc4959/m2/1/high_res_d/dissertation.pdf) (opened, Appendix, printed p.89 / PDF p.97): The 2005 UNT dissertation’s appendix reports that An Abstract appeared on one selected college/university repertoire list, labeled freshman by that list. This is a historical survey result, not a current placement recommendation.\n\n**Score.**\n- No notation was visually inspected.\n\n**Listening.**\n- [Paul Brodie, alto saxophone with Antonin Kubalek, piano; listed on Music Minus One collection.](https://hsiaoya.com/en/products/advanced-alto-saxophone-solos-volume-3-01400747): Metadata only; playback not auditioned.\n\n**Collection and audience context.** Original alto saxophone and piano work. Historical pedagogical sources place it in contrasting systems: fifth-year French guide and one U.S. college list’s freshman label.\n\n**Review focus.** No score inspected. Publisher level and advanced-solos compilation are conflicting difficulty signals; inspect the edition before interpreting.\n\n**Open questions.**\n- No score pages inspected and no audio auditioned.\n- The publisher Level 3 and Music Minus One compilation context differ; neither should be translated directly into Tim’s study-year scale.\n\n**Tim decision:** pending.\n\n#### Catalog Details Added\n\n- Publisher: Southern Music. [Source](https://www.halleonard.com/product/3773701/an-abstract)\n- Score purchase: Verified edition link added. [Source](https://www.halleonard.com/product/3773701/an-abstract)\n\n",
+      "assigned_level": null,
+      "decision": "Removed",
+      "review_applied": true,
+      "decision_note": "Tim requested removal from the catalog. The private evidence log is retained."
     },
     {
       "chat_number": 8,
@@ -738,7 +771,16 @@
           "instruments": []
         },
         "chat_summary": "The AL28899 opening verifies a 5:10 alto/piano piece dedicated to Daniel Gremelle. Andante expressif at quarter = 66 uses tied/slurred sax phrasing over active piano. One page was inspected; written range is unverified. Publication 1994 is established; composition claims conflict. A second-cycle exam video needs composer confirmation. [Score](https://www.img-music.com/links/jpg/al28899_0001029602_003.jpg) · [Edition](https://www.laflutedepan.com/partition/1029602/dia-succari-fleurs-d-un-songe-partition-saxophone-alto-et-piano.html) · [Recording candidate](https://www.youtube.com/watch?v=q6dM2epebZM)."
-      }
+      },
+      "removed": true,
+      "retired_url": "/works/dia-succari-fleurs-d-un-songe/",
+      "retired_aliases": [],
+      "redirect_to": "/",
+      "removed_work_snapshot": "---\ntitle: \"Fleurs D'Un Songe\"\nslug: dia-succari-fleurs-d-un-songe\ncomposer:\n  - \"[[Dia Succari]]\"\ninstruments:\n  - \"Alto Saxophone\"\n  - \"Piano\"\ncomposed: \nyear-of-study: \nstreaming: \npurchase:\n  - \"https://www.grothmusic.com/p-38111.aspx\"\n  - \"Alto saxophone and piano, AL28899 · https://www.laflutedepan.com/partition/1029602/dia-succari-fleurs-d-un-songe-partition-saxophone-alto-et-piano.html\"\nadded: 2024-03-08\nresearch:\n  - \"Publisher Alphonse Leduc, catalog number AL28899 · https://www.grothmusic.com/p-38111.aspx\"\n  - \"AL28899 alto saxophone/piano edition; first page dedication Daniel Gremelle, duration 5:10, copyright 1994, common-time Andante expressif quarter = 66; ties/slurs, mp/f/ff and flowing active piano. · https://www.img-music.com/links/jpg/al28899_0001029602_003.jpg\"\n  - \"Exact alto saxophone and piano edition, AL28899 / ISMN 9790046288999. · https://www.laflutedepan.com/partition/1029602/dia-succari-fleurs-d-un-songe-partition-saxophone-alto-et-piano.html\"\n  - \"Publication1994 and duration 5:10; no original composition date supplied. · https://windmusic.org/index.php?id=11634&lvl=notice_display\"\n  - \"Title/instrumentation matches Fleurs d’un songe, alto saxophone/piano; upload describes June 2021 end-of-second-cycle saxophone examination, but lacks composer/edition credit. · https://www.youtube.com/watch?v=q6dM2epebZM\"\naliases: []\npublisher:\n  - \"Alphonse Leduc\"\n---\n## Research notes (private)\n\n### Chat batch 08 follow-up, 2026-10-13\n\nThe AL28899 opening verifies a 5:10 alto/piano piece dedicated to Daniel Gremelle. Andante expressif at quarter = 66 uses tied/slurred sax phrasing over active piano. One page was inspected; written range is unverified. Publication 1994 is established; composition claims conflict. A second-cycle exam video needs composer confirmation. [Score](https://www.img-music.com/links/jpg/al28899_0001029602_003.jpg) · [Edition](https://www.laflutedepan.com/partition/1029602/dia-succari-fleurs-d-un-songe-partition-saxophone-alto-et-piano.html) · [Recording candidate](https://www.youtube.com/watch?v=q6dM2epebZM).\n\n[[Review 0073 - Dia Succari - Fleurs D'Un Songe|Full evidence and open questions]]\n\n\n- Publisher Alphonse Leduc, catalog number AL28899 · [grothmusic.com](https://www.grothmusic.com/p-38111.aspx)\n\n<!-- saxobrain-research-review-2026-10-11 -->\n\n### Research Review, October 11, 2026\n\n[[Review 0073 - Dia Succari - Fleurs D'Un Songe|Full review note]]\n\nCatalog: [Dia Succari - Fleurs D'Un Songe.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Dia Succari - Fleurs D'Un Songe.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0073.json).\n\n**Identity and findings.** Dia Succari’s Fleurs d’un songe (also rendered Fleur d’un songe) is an original alto saxophone and piano work published by Alphonse Leduc, AL28899. The CDMC Alsace library record gives 1994 publication, 5:10 duration and its internal year-8 rating. A 2026 CDMC regional repertoire document lists it in FC2.\n\n**Sources checked.**\n- [CDMC Alsace library catalogue](https://windmusic.org/index.php?id=11634&lvl=notice_display) (opened): Library record identifies alto sax and piano, 1994, AL28899, 5:10 and local year-8 difficulty code.\n- [CDMC Alsace](https://cdmcalsace.com/wp-content/uploads/2025/10/Repertoire-instrumental-saxophone-alto.pdf) (search_index_only): Official 2026 CDMC Alsace regional repertoire includes Fleurs d’un songe.\n- [Confédération Musicale de France catalog](https://cmf-media.org/index.php?id=2403&id_thes=1&lvl=categ_see&main=1) (search_index_only): French publisher listing identifies Alphonse Leduc and notes the title as a repertory selection in 1993-94.\n\n**Score.**\n- No notation was visually inspected.\n\n**Collection and audience context.** Original alto saxophone and piano piece with documented conservatory repertory and assessment use; no youth adaptation identified.\n\n**Review focus.** No score inspected. External scale labels (year 8, FC2) are local systems and remain unconverted.\n\n**Open questions.**\n- No score preview or matching saxophone recording inspected.\n- Duration and scale labels depend on the CDMC library/catalog system; do not map directly to SaxoBrain levels.\n\n**Tim decision:** pending.\n\n",
+      "assigned_level": null,
+      "decision": "Removed",
+      "review_applied": true,
+      "decision_note": "Tim requested removal from the catalog. The private evidence log is retained."
     },
     {
       "chat_number": 9,
@@ -822,7 +864,11 @@
           "instruments": []
         },
         "chat_summary": "Il est raconté has a verified saxophone performance by its dedicatees, Christian Outtier and Michèle Edmond-Mariette, at Salle Cortot. The performer-authored saxophone guide supplies useful musical evidence: one continuous span, measured passages alternating with improvisation, and a 3+2+2+3 grouping with varied accents. Its printed duration is 11:35. The Leduc AL27701 edition is confirmed. No actual notation was available, so written range and the improvisation directions remain open."
-      }
+      },
+      "assigned_level": "Third Year",
+      "decision": "Third Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Third Year."
     },
     {
       "chat_number": 10,
@@ -908,7 +954,11 @@
           "instruments": []
         },
         "chat_summary": "Akzente A is Erdmann’s alto reworking of the 1989 tenor Akzente. EDA dates it 1989/2003. Its performers describe turbulent displaced accents, triplet cascades, lyrical trills and sevenths, and slap tongue followed by a laughing effect. Exact recordings of all three movements by Frank Lunte and Tatjana Blome are publicly available. The title spelling and date relationship need decision flags. Score-based range remains unverified. The default Listen plays movement I; II and III have separate verified links."
-      }
+      },
+      "assigned_level": "Fourth Year",
+      "decision": "Fourth Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Fourth Year."
     },
     {
       "chat_number": 11,
@@ -1004,7 +1054,11 @@
           ]
         },
         "chat_summary": "The RE11390 reduction confirms soprano saxophone doubling alto, plus piano. Both missing instruments can be appended to the catalog. Nico Schüler’s article identifies a four-movement 1989 concerto with cadenza and unusual sound effects. It distinguishes the separate 1988 Concert Piece. The public fourth-movement recording matches Detlef Bensmann with orchestra. No score notation was inspected, so doubling locations and written ranges remain unverified. The default Listen plays movement IV only; I and III have separate verified links."
-      }
+      },
+      "assigned_level": "Fourth Year",
+      "decision": "Fourth Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Fourth Year."
     },
     {
       "chat_number": 12,
@@ -1100,7 +1154,11 @@
           "instruments": []
         },
         "chat_summary": "Der Hölle Nachklang I is dated 1992 on both publisher page and score opening. The inspected transposed alto incipit has a slow 4/4 opening with slurred ornamented entry and triplet over repeated quiet piano bass. The Hellenic Saxophone Library reports later altissimo and microtonal demands. The existing Kelly/Versteegh YouTube recording is public and exact. The full score remains blocked, and publisher versus recorded duration differs."
-      }
+      },
+      "assigned_level": "Fourth Year",
+      "decision": "Fourth Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Fourth Year."
     },
     {
       "chat_number": 13,
@@ -1216,7 +1274,16 @@
           ]
         },
         "chat_summary": "In a Hall of Mirrors has exact public recordings by Simon Haram with Scott Mitchell and by John Harle with John Lenehan. Universal UE17776 is an alto-and-piano edition edited by Harle. Schott labels it easy, while ABRSM includes it in diploma repertoire. Those sources establish performance context. No readable score supports a technical judgment. The title omission and conflicting composition dates remain decision flags."
-      }
+      },
+      "removed": true,
+      "retired_url": "/works/dominic-muldowney-in-hall-of-mirrors/",
+      "retired_aliases": [],
+      "redirect_to": "/",
+      "removed_work_snapshot": "---\ntitle: \"In Hall of Mirrors\"\nslug: dominic-muldowney-in-hall-of-mirrors\ncomposer:\n  - \"[[Dominic Muldowney]]\"\ninstruments:\n  - \"Alto Saxophone\"\n  - \"Piano\"\ncomposed: \nyear-of-study: \nstreaming: \"https://www.youtube.com/watch?v=5gBGSNis27M\"\npurchase:\n  - \"https://www.grothmusic.com/p-38000.aspx\"\n  - \"https://schottmusiclondon.com/in-a-hall-of-mirrors-no98498.html\"\nadded: 2024-03-08\nresearch:\n  - \"Publisher Universal, catalog number UE17776 · https://www.grothmusic.com/p-38000.aspx\"\n  - \"Listed as In a Hall of Mirrors · https://www.grothmusic.com/p-38000.aspx\"\n  - \"Alto and piano, UE17776, John Harle editor, easy shop label. · https://schottmusiclondon.com/in-a-hall-of-mirrors-no98498.html\"\n  - \"Work appears in November 2023 LRSM saxophone diploma repertoire. · https://www.abrsm.com.tw/diploma/from2024/music%20performance/LRSM/Saxophone%20LRSM%20Repertoire.pdf\"\n  - \"Exact 1997 Haram/Mitchell performance publicly playable. · https://www.youtube.com/watch?v=5gBGSNis27M\"\n  - \"Harle/Lenehan live track confirmed by performer. · https://www.johnharle.com/discography.htm\"\n  - \"Library claims composition 1983, publication 1988, 6 minutes. · https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf\"\naliases: []\npublisher:\n  - \"Universal Edition\"\narranger-edition:\n  - \"John Harle, editor; Universal Edition UE17776\"\n---\n## Research notes (private)\n\n### Chat batch 08 follow-up, 2026-10-13\n\nIn a Hall of Mirrors has exact public recordings by Simon Haram with Scott Mitchell and by John Harle with John Lenehan. Universal UE17776 is an alto-and-piano edition edited by Harle. Schott labels it easy, while ABRSM includes it in diploma repertoire. Those sources establish performance context. No readable score supports a technical judgment. The title omission and conflicting composition dates remain decision flags.\n\n[[Review 0078 - Dominic Muldowney - In Hall of Mirrors|Full evidence and open questions]]\n\n\n- Publisher Universal, catalog number UE17776 · [grothmusic.com](https://www.grothmusic.com/p-38000.aspx)\n- Listed as In a Hall of Mirrors · [grothmusic.com](https://www.grothmusic.com/p-38000.aspx)\n\n<!-- saxobrain-research-review-2026-10-11 -->\n\n### Research Review, October 11, 2026\n\n[[Review 0078 - Dominic Muldowney - In Hall of Mirrors|Full review note]]\n\nCatalog: [[Dominic Muldowney - In Hall of Mirrors]]\n\n- Identity: Dominic Muldowney's *In a Hall of Mirrors* (cataloged as *In Hall of Mirrors*) is an alto saxophone and piano work in Universal Edition's Universal Saxophone Edition, item UE17776, edited by John Harle. The publisher search result labels it easy. The Royal Irish Academy of Music includes it in the saxophone performer repertoire for its Associate Diploma.\n- Publisher product result identifies alto saxophone and piano, UE17776, John Harle as editor, Universal Saxophone Edition, and publisher difficulty label 'easy'; page opening failed with cache miss. [Schott/Universal Edition product page](https://schottmusiclondon.com/in-a-hall-of-mirrors-no98498.html) (search_index_only).\n- RIAM Diploma of Associate saxophone performer repertoire list includes Dominic Muldowney, *In the Hall of Mirrors*, Universal 17776. The syllabus page states candidates perform a varied recital of no more than 30 minutes and one marked piece; this work is not marked with an asterisk. [Royal Irish Academy of Music, Associate Diploma syllabus](https://www.riam.ie/sites/default/files/media/file-uploads/2023-03/Wind%2C%20Brass%20%26%20Percussion%20ARIAM%20%26%20LRIAM%20Syllabi%20%28Updated%2012.08.2022%20-%20A.Z.%29_0.pdf) (printed p. 31; opened).\n- Collection/use: Publisher search result labels the edition easy, while RIAM lists it on the Associate Diploma performer syllabus. The syllabus requires a varied recital no longer than 30 minutes; the piece is not marked as a required starred item. This is documented context, not a level recommendation.\n- Review focus: No score-based focus assigned. The publisher's 'easy' label and a syllabus appearance warrant checking the exact score and syllabus requirements before drawing a fit conclusion.\n- Gaps: No readable score sample, recording, or syllabus-linked performance was inspected; reconcile the publisher label with the diploma listing through direct score review.; The title differs between the catalog file (*In Hall of Mirrors*) and publisher title (*In a Hall of Mirrors*).\n\n",
+      "assigned_level": null,
+      "decision": "Removed",
+      "review_applied": true,
+      "decision_note": "Tim requested removal from the catalog. The private evidence log is retained."
     },
     {
       "chat_number": 14,
@@ -1287,7 +1354,16 @@
           "instruments": []
         },
         "chat_summary": "Entre-Deux is confirmed as Leduc AL30500 for alto saxophone and piano in Collection Vent de Sax. A festival composer profile also documents a clarinet-and-piano version from 2002, so original instrumentation and chronology need verification. The advertised Hal Leonard preview returns no content. No exact saxophone recording or reliable musical analysis was found. The current original-saxophone assertion should become an open question."
-      }
+      },
+      "removed": true,
+      "retired_url": "/works/dominique-clement-entre-deux/",
+      "retired_aliases": [],
+      "redirect_to": "/",
+      "removed_work_snapshot": "---\ntitle: \"Entre-Deux\"\nslug: dominique-clement-entre-deux\ncomposer:\n  - \"[[Dominique Clement]]\"\ninstruments:\n  - \"Alto Saxophone\"\n  - \"Piano\"\ncomposed: \nyear-of-study: \nstreaming: \npurchase:\n  - \"https://www.grothmusic.com/p-37618.aspx\"\n  - \"https://www.halleonard.com/product/48186310/clement-dominique-entre-deux-alto-saxophone-piano-bookclement-dominique-entre-deux-alto-saxophone-piano-book\"\nadded: 2024-03-08\nresearch:\n  - \"Publisher Alphonse Leduc, catalog number AL30500 · https://www.grothmusic.com/p-37618.aspx\"\n  - \"Exact AL30500 alto and piano publication. · https://www.halleonard.com/product/48186310/clement-dominique-entre-deux-alto-saxophone-piano-bookclement-dominique-entre-deux-alto-saxophone-piano-book\"\n  - \"A clarinet/piano Entre-deux version is dated 2002; original-version chronology unstated. · https://hc.sk/en/melos-etos/interpreti/o-1016\"\npublisher:\n  - \"Alphonse Leduc\"\naliases: []\n---\n## Research notes (private)\n\n### Chat batch 08 follow-up, 2026-10-13\n\nEntre-Deux is confirmed as Leduc AL30500 for alto saxophone and piano in Collection Vent de Sax. A festival composer profile also documents a clarinet-and-piano version from 2002, so original instrumentation and chronology need verification. The advertised Hal Leonard preview returns no content. No exact saxophone recording or reliable musical analysis was found. The current original-saxophone assertion should become an open question.\n\n[[Review 0079 - Dominique Clement - Entre-Deux|Full evidence and open questions]]\n\n\n- Publisher Alphonse Leduc, catalog number AL30500 · [grothmusic.com](https://www.grothmusic.com/p-37618.aspx)\n\n<!-- saxobrain-research-review-2026-10-11 -->\n\n### Research Review, October 11, 2026\n\n[[Review 0079 - Dominique Clement - Entre-Deux|Full review note]]\n\nCatalog: [[Dominique Clement - Entre-Deux]]\n\n- Identity: Dominique Clément's *Entre-Deux* is an alto saxophone and piano work published by Alphonse Leduc as AL30500. Hal Leonard's distributor catalog confirms the edition and instrumentation. No score sample, performance, or work-specific teaching placement was verified.\n- Leduc edition identified as alto saxophone and piano, product code AL30500, by composer Dominique Clément. [Hal Leonard distributor catalog](https://www.halleonard.com/product/48186310/clement-dominique-entre-deux-alto-saxophone-piano-bookclement-dominique-entre-deux-alto-saxophone-piano-book) (opened).\n- Leduc catalog lists *Entre-Deux* for alto saxophone and piano, AL30500. [Alphonse Leduc catalog](https://casamusicaledelrio.it/casamusicale/wp-content/uploads/2019/04/CAT-18-107-Leduc-Catalogue-2018-ss-GS-v6-NO-CROPS-LO-RESv2.pdf) (search_index_only).\n- Collection/use: An original alto saxophone and piano edition is identified; audience, musical demands, and collection use remain unverified.\n- Gaps: No readable preview or saxophone performance located.; No duration, composition date, or pedagogical placement verified.\n\n#### Catalog Details Added\n\n- Publisher: Alphonse Leduc. [Source](https://www.halleonard.com/product/48186310/clement-dominique-entre-deux-alto-saxophone-piano-bookclement-dominique-entre-deux-alto-saxophone-piano-book)\n- Score purchase: Verified edition link added. [Source](https://www.halleonard.com/product/48186310/clement-dominique-entre-deux-alto-saxophone-piano-bookclement-dominique-entre-deux-alto-saxophone-piano-book)\n\n",
+      "assigned_level": null,
+      "decision": "Removed",
+      "review_applied": true,
+      "decision_note": "Tim requested removal from the catalog. The private evidence log is retained."
     },
     {
       "chat_number": 15,
@@ -1393,7 +1469,11 @@
           "instruments": []
         },
         "chat_summary": "Legend II is contemporary solo soprano repertoire with an exact public Salamanca graduation-recital recording by Antonio García Jorge. Browser playback works and shows a straight saxophone. The composition is dated 1996; the Lemoine edition copyright is 1998. Zagalaz’s thesis reports quarter tones, multiphonics, flutter tongue, glissandos and circular-breathing passages. That analysis supplies demands without pretending to inspect the score. The oboe/soprano origin chronology and complete written range remain open."
-      }
+      },
+      "assigned_level": "Advanced",
+      "decision": "Advanced",
+      "review_applied": true,
+      "decision_note": "Tim assigned Advanced."
     },
     {
       "chat_number": 16,
@@ -1489,7 +1569,16 @@
           "instruments": []
         },
         "chat_summary": "Dels quatre vents is the 1921 violin-and-piano source movement in Sis sonets. UME21470 is confirmed for alto saxophone or horn and piano. Koontz’s analysis describes slow stately music and a cadence that intensifies its harmonic pace. The inspected original facsimile gives no reliable saxophone range. A Catalan entrance syllabus documents teaching use without demonstrating simplification. Exact saxophone listening and the arranger credit remain unresolved."
-      }
+      },
+      "removed": true,
+      "retired_url": "/works/eduard-toldra-dels-quatre-vents/",
+      "retired_aliases": [],
+      "redirect_to": "/",
+      "removed_work_snapshot": "---\ntitle: \"Dels Quatre Vents\"\nslug: eduard-toldra-dels-quatre-vents\ncomposer:\n  - \"[[Eduard Toldrà]]\"\ninstruments:\n  - \"Alto Saxophone\"\n  - \"Piano\"\ncomposed: 1921\nyear-of-study: \nstreaming: \npurchase:\n  - \"https://www.grothmusic.com/p-146316.aspx\"\n  - \"https://boileau-music.com/es/obras/dels-quatre-vents-UME21470\"\nadded: 2024-03-08\nresearch:\n  - \"Publisher Union Musical, catalog number UME21470 · https://www.grothmusic.com/p-146316.aspx\"\n  - \"Listed as Dels Quatre Vents from Seis Sonetos · https://www.grothmusic.com/p-146316.aspx\"\n  - \"UME21470 alto/piano, 8+4 pages, medio-alto label, publisher Unión Musical Ediciones; cover adds horn option. · https://boileau-music.com/es/obras/dels-quatre-vents-UME21470\"\n  - \"Original Sis sonets 1921 for violin/piano; Dels quatre vents is fifth. Thesis-based description:slow, stately, Bmajor, extended cadence. · https://sites.google.com/site/eduardtoldra/eduard-toldr%C3%A0-i-soler/complete-catalog/sis-sonets\"\n  - \"Original violin manuscript visually inspected; low resolution prevents range claims. · https://sites.google.com/site/eduardtoldra/eduard-toldr%C3%A0-i-soler/complete-catalog/sis-sonets\"\n  - \"Exact UME saxophone title appears in entry-to-professional-studies repertoire. · https://www.laliraampostina.com/wp-content/uploads/orientacions.pdf?644ab3=\"\naliases: []\npublisher:\n  - \"Unión Musical Ediciones\"\n---\n## Research notes (private)\n\n### Chat batch 08 follow-up, 2026-10-13\n\nDels quatre vents is the 1921 violin-and-piano source movement in Sis sonets. UME21470 is confirmed for alto saxophone or horn and piano. Koontz’s analysis describes slow stately music and a cadence that intensifies its harmonic pace. The inspected original facsimile gives no reliable saxophone range. A Catalan entrance syllabus documents teaching use without demonstrating simplification. Exact saxophone listening and the arranger credit remain unresolved.\n\n[[Review 0081 - Eduard Toldrà - Dels Quatre Vents|Full evidence and open questions]]\n\n\n- Publisher Union Musical, catalog number UME21470 · [grothmusic.com](https://www.grothmusic.com/p-146316.aspx)\n- Listed as Dels Quatre Vents from Seis Sonetos · [grothmusic.com](https://www.grothmusic.com/p-146316.aspx)\n\n<!-- saxobrain-research-review-2026-10-11 -->\n\n### Research Review, October 11, 2026\n\n[[Review 0081 - Eduard Toldrà - Dels Quatre Vents|Full review note]]\n\nCatalog: [[Eduard Toldrà - Dels Quatre Vents]]\n\n- Identity: The saxophone publication *Dels Quatre Vents* (UME21470) is an alto saxophone and piano adaptation of the fifth movement in Eduard Toldrà’s *Sis Sonets*, originally written for violin and piano in 1921. A library catalog search result attributes a transcription under this title to José Amaz; exact relation of this edition to other transcriptions needs confirmation.\n- UME21470 is listed for alto saxophone and piano. [Presto Music sheet-music catalog](https://www.prestomusic.com/sheet-music/products/7007577--dels-quatre-vents) (search_index_only).\n- Toldrà specialist catalog identifies the source cycle as six violin-and-piano sonnets and says there are adaptations for saxophone among other instruments. [Eduard Toldrà specialist catalog](https://sites.google.com/site/eduardtoldra/eduard-toldr%C3%A0-i-soler/complete-catalog/sis-sonets) (search_index_only).\n- Spanish performing-arts library record attributes a transcription of Dels quatre vents to José Amaz and describes the source as a printed violin-and-piano sonnet. It lists a different UME plate number, so its relationship to UME21470 is unresolved. [CDAEM performing arts library](https://bibliotecacdt.mcu.es/cgi-bin/koha/opac-detail.pl?biblionumber=61204) (search_index_only).\n- Collection/use: Documented transcription of an original violin-and-piano movement. The exact arranger for UME21470 remains uncertain.\n- Review focus: Inference: confirm whether the saxophone part preserves violin-specific phrasing and range in the published sax transcription; no saxophone score was inspected.\n- Gaps: No readable saxophone score or saxophone recording found; musical details and exact adaptation cannot be assessed.; UME21470 and the institutional catalog’s UME21466 record appear to be different publication records; verify edition relationship.\n\n",
+      "assigned_level": null,
+      "decision": "Removed",
+      "review_applied": true,
+      "decision_note": "Tim requested removal from the catalog. The private evidence log is retained."
     },
     {
       "chat_number": 17,
@@ -1603,7 +1692,11 @@
           ]
         },
         "chat_summary": "17. Tubin, Sonata: Harri Kiisk’s [BIS booklet](https://eclassical.textalk.se/shop/art28/BIS-CD-269_booklet_scan.pdf-cd34f8.pdf) explains the saxophone/piano thematic development, virtuosic runs into an unbroken transition to the Adagio, and a fast finale that exchanges material between the players. The slow movement has a cello Troubadour Song origin according to Eino Tubin’s biography. I inspected six short thematic examples, which do not establish written sax range. [Virgo Veldi and Johan Randvere’s complete video](https://www.youtube.com/watch?v=HmePahyMMuk) is verified playable, with movement starts 0:00, 5:07 and 9:23. NMS1998 is a 1993 Gehrmans edition of the 1951 work; premiere day remains disputed between two primary sources."
-      }
+      },
+      "assigned_level": "Third Year",
+      "decision": "Third Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Third Year."
     },
     {
       "chat_number": 18,
@@ -1713,7 +1806,11 @@
           ]
         },
         "chat_summary": "18. Moritz, Sonata No. 1, Op. 96: [Southern Music](https://keiserproductions.com/catalog/southern-music/?ic=&sc=&tc=&tid=88C526BC-7F74-4338-AF3B-E3397778AED5) describes a 27-minute four-movement work that alternates lyrical writing and technical flair, dedicated to Cecil Leeson. The [complete Leeson/Josef Wagner archival recording](https://www.youtube.com/watch?v=IjPCfMXpY9Y) is verified playable and identifies Allegro molto, Molto andante, Scherzo and Finale. An institutional 2021 recital documents use of Molto andante. Program sources disagree on 1938/1939, so composition year remains blank. The exact 56-page SS794 edition is confirmed, while notation and written range remain unavailable."
-      }
+      },
+      "assigned_level": "Third Year",
+      "decision": "Third Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Third Year."
     },
     {
       "chat_number": 19,
@@ -1799,7 +1896,16 @@
           ]
         },
         "chat_summary": "19. MacDowell, To a Wild Rose: the Dorn sample directly credits Richard D. Hall, while the existing arranger field says Randall Hall. Hall’s own catalog dates the arrangement to 2001; the printed score is ©2003. The opening has four piano-only bars, then lyrical alto phrases with ties, rests and hairpins over sustained chords. [Inspected score](https://grothmusic.com/images/product/large/ae00-126443_2_.jpg). A separately cataloged Coggins student-course edition should remain distinct. No exact Hall-edition listening link or full written range was verified."
-      }
+      },
+      "removed": true,
+      "retired_url": "/works/edward-macdowell-to-a-wild-rose/",
+      "retired_aliases": [],
+      "redirect_to": "/",
+      "removed_work_snapshot": "---\ntitle: \"To a Wild Rose\"\nslug: edward-macdowell-to-a-wild-rose\ncomposer:\n  - \"[[Edward MacDowell]]\"\ninstruments:\n  - \"Alto Saxophone\"\n  - \"Piano\"\ncomposed: 1896\nyear-of-study: \narranger-edition:\n  - \"Randall Hall\"\nstreaming: \npurchase:\n  - \"https://www.grothmusic.com/p-145581.aspx\"\n  - \"https://www.grothmusic.com/p-145581-to-a-wild-rose-alto-saxophone-and-piano.aspx\"\nadded: 2024-03-08\nresearch:\n  - \"Publisher Dorn Publications, catalog number DORN1345 · https://www.grothmusic.com/p-145581.aspx\"\n  - \"Arranged by Richard Hall; 5 pages · https://www.grothmusic.com/p-145581.aspx\"\n  - \"Dorn DORN1345 is five pages, arranged by Richard Hall for alto saxophone and piano. · https://www.grothmusic.com/p-145581-to-a-wild-rose-alto-saxophone-and-piano.aspx\"\n  - \"The printed opening labels Alto Saxophone and credits Richard D. Hall; copyright 2003. Opening notation as described. · https://grothmusic.com/images/product/large/ae00-126443_2_.jpg\"\n  - \"Hall lists the E-flat saxophone and piano arrangement with dates 1896, 2001. · https://richallmusic.com/Works/Vocal-Solo.html\"\naliases: []\npublisher:\n  - \"Dorn Publications\"\n---\n## Research notes (private)\n\n### Chat batch 08 follow-up, 2026-10-13\n\nMacDowell, To a Wild Rose: the Dorn sample directly credits Richard D. Hall, while the existing arranger field says Randall Hall. Hall’s own catalog dates the arrangement to 2001; the printed score is ©2003. The opening has four piano-only bars, then lyrical alto phrases with ties, rests and hairpins over sustained chords. [Inspected score](https://grothmusic.com/images/product/large/ae00-126443_2_.jpg). A separately cataloged Coggins student-course edition should remain distinct. No exact Hall-edition listening link or full written range was verified.\n\n[[Review 0084 - Edward MacDowell - To a Wild Rose|Full evidence and open questions]]\n\n\n- Publisher Dorn Publications, catalog number DORN1345 · [grothmusic.com](https://www.grothmusic.com/p-145581.aspx)\n- Arranged by Richard Hall; 5 pages · [grothmusic.com](https://www.grothmusic.com/p-145581.aspx)\n\n<!-- saxobrain-research-review-2026-10-11 -->\n\n### Research Review, October 11, 2026\n\n[[Review 0084 - Edward MacDowell - To a Wild Rose|Full review note]]\n\nCatalog: [[Edward MacDowell - To a Wild Rose]]\n\n- Identity: The cataloged alto saxophone and piano version is a Richard Hall arrangement published by Dorn Publications as DORN1345. This is distinct from the Willis Coggins arrangement in Belwin’s *Student Instrumental Course, Level Two*, which is cataloged separately and derives from MacDowell’s original solo-piano miniature in *Woodland Sketches*, Op. 51. The target DORN1345 score was not available for inspection.\n- Catalog lead identifies Dorn Publications DORN1345 and Richard Hall as arranger for the saxophone and piano item. [Groth Music catalog](https://www.grothmusic.com/p-145581.aspx) (search_index_only).\n- CiNii library record describes Coggins/Girlamo version for alto saxophone and piano as Level Two, first published by Belwin Mills circa 1970, and notes the source was originally solo piano. [CiNii Books, National Institute of Informatics](https://ci.nii.ac.jp/ncid/BA89778568) (search_index_only).\n- Belwin listing identifies the separate Willis Coggins arrangement as Grade 2 and its school/community usage label. [Sheet Music Plus distributor listing](https://www.sheetmusicplus.com/en/product/to-a-wild-rose-1414100.html) (search_index_only).\n- Faber Music identifies MacDowell’s original piano work as *To a Wild Rose*, Op. 51 No. 1. [Faber Music](https://www.fabermusic.com/shop/to-a-wild-rose-op51-no1-d24853) (search_index_only).\n- Collection/use: A transcription of MacDowell’s solo-piano piece. One separately cataloged Coggins saxophone edition carries a Level Two school-course designation; that descriptor does not establish the target Dorn edition’s difficulty.\n- Gaps: The arranger/version mismatch between the catalog’s Richard Hall DORN1345 item and the Coggins edition is unresolved; locate the Dorn publisher record or score.; No score or saxophone performance inspected for either edition.\n\n",
+      "assigned_level": null,
+      "decision": "Removed",
+      "review_applied": true,
+      "decision_note": "Tim requested removal from the catalog. The private evidence log is retained."
     },
     {
       "chat_number": 20,
@@ -1853,7 +1959,16 @@
           ]
         },
         "chat_summary": "20. Nelson, Suite No. 1: [J.W. Pepper](https://www.jwpepper.com/suite-no-1-alto-sax-piano-7886773/p) now opens and explicitly identifies Edward R. Nelson, alto saxophone and piano, Dorn Publications and copyright 1988. The date is publication evidence. The available page supplies no score preview or musical description. Movement structure, duration, written range and playable listening remain unknown."
-      }
+      },
+      "removed": true,
+      "retired_url": "/works/edward-r-nelson-suite-no-1/",
+      "retired_aliases": [],
+      "redirect_to": "/",
+      "removed_work_snapshot": "---\ntitle: \"Suite No. 1\"\nslug: edward-r-nelson-suite-no-1\ncomposer:\n  - \"[[Edward R. Nelson]]\"\ninstruments:\n  - \"Alto Saxophone\"\n  - \"Piano\"\ncomposed: \nyear-of-study: \nstreaming: \npurchase:\n  - \"https://www.jwpepper.com/suite-no-1-alto-sax-piano-7886773/p\"\nadded: 2024-03-08\nresearch:\n  - \"Dorn Publications, copyright 1988 · https://www.jwpepper.com/suite-no-1-alto-sax-piano-7886773/p\"\n  - \"Title, full composer name, alto saxophone and piano scoring, Dorn publication and copyright 1988. · https://www.jwpepper.com/suite-no-1-alto-sax-piano-7886773/p\"\naliases: []\npublisher:\n  - \"Dorn Publications\"\n---\n## Research notes (private)\n\n### Chat batch 08 follow-up, 2026-10-13\n\nNelson, Suite No. 1: [J.W. Pepper](https://www.jwpepper.com/suite-no-1-alto-sax-piano-7886773/p) now opens and explicitly identifies Edward R. Nelson, alto saxophone and piano, Dorn Publications and copyright 1988. The date is publication evidence. The available page supplies no score preview or musical description. Movement structure, duration, written range and playable listening remain unknown.\n\n[[Review 0085 - Edward R. Nelson - Suite No. 1|Full evidence and open questions]]\n\n\n- Dorn Publications, copyright 1988 · [jwpepper.com](https://www.jwpepper.com/suite-no-1-alto-sax-piano-7886773/p)\n\n<!-- saxobrain-research-review-2026-10-11 -->\n\n### Research Review, October 11, 2026\n\n[[Review 0085 - Edward R. Nelson - Suite No. 1|Full review note]]\n\nCatalog: [[Edward R. Nelson - Suite No. 1]]\n\n- Identity: The current catalog identifies Edward R. Nelson’s *Suite No. 1* as an alto saxophone and piano work published by Dorn Publications in 1988. Searches for the exact composer-title combination did not surface a composer or publisher record; the existing J.W. Pepper listing is the only found commercial trail.\n- Commercial item URL identifies the piece as *Suite No. 1* for alto saxophone and piano, Dorn Publications; its page was not retrievable in this pass. [J.W. Pepper listing](https://www.jwpepper.com/suite-no-1-alto-sax-piano-7886773/p) (search_index_only).\n- Collection/use: Audience and use unknown.\n- Gaps: Exact composer identity, edition number, composition/publication date, duration, score contents, and any recording remain unverified beyond the retailer lead.; No score preview, performer source, or pedagogical placement was located after targeted searches.\n\n",
+      "assigned_level": null,
+      "decision": "Removed",
+      "review_applied": true,
+      "decision_note": "Tim requested removal from the catalog. The private evidence log is retained."
     },
     {
       "chat_number": 21,
@@ -1939,7 +2054,16 @@
           ]
         },
         "chat_summary": "21. Solomon, The Dancer: Southern Music’s [publisher page](https://www.halleonard.com/product/3776251/the-dancer) confirms SU352, four pages and its Level 1 descriptor. The [exact retailer page](https://www.all-sheetmusic.com/Wind-Instruments/Saxophone/The-Dancer.html) describes a graceful waltz intended as a young alto player’s first solo. That explicit audience context is useful for scope review. No notation or playable exact performance was available to establish the musical demands."
-      }
+      },
+      "removed": true,
+      "retired_url": "/works/edward-solomon-the-dancer/",
+      "retired_aliases": [],
+      "redirect_to": "/",
+      "removed_work_snapshot": "---\ntitle: \"The Dancer\"\nslug: edward-solomon-the-dancer\ncomposer:\n  - \"[[Edward Solomon]]\"\ninstruments:\n  - \"Alto Saxophone\"\n  - \"Piano\"\ncomposed: \nyear-of-study: \nstreaming: \npurchase:\n  - \"https://www.grothmusic.com/p-143139.aspx\"\n  - \"https://www.halleonard.com/product/3776251/the-dancer\"\nadded: 2024-03-08\nresearch:\n  - \"Publisher Southern, catalog number SU352 · https://www.grothmusic.com/p-143139.aspx\"\n  - \"Listed as Dancer; page lists the composer as Ed Solomon · https://www.grothmusic.com/p-143139.aspx\"\n  - \"Southern Music SU352 / HL03776251, Edward Solomon, Level 1, four pages. · https://www.halleonard.com/product/3776251/the-dancer\"\n  - \"Piano score and alto saxophone part. · https://www.grothmusic.com/p-143139-dancer-alto-saxophone-and-piano.aspx\"\n  - \"Exact SU352 edition described as a graceful waltz and a young alto saxophonist’s first solo. · https://www.all-sheetmusic.com/Wind-Instruments/Saxophone/The-Dancer.html\"\naliases: []\npublisher:\n  - \"Southern Music Company\"\n---\n## Research notes (private)\n\n### Chat batch 08 follow-up, 2026-10-13\n\nSolomon, The Dancer: Southern Music’s [publisher page](https://www.halleonard.com/product/3776251/the-dancer) confirms SU352, four pages and its Level 1 descriptor. The [exact retailer page](https://www.all-sheetmusic.com/Wind-Instruments/Saxophone/The-Dancer.html) describes a graceful waltz intended as a young alto player’s first solo. That explicit audience context is useful for scope review. No notation or playable exact performance was available to establish the musical demands.\n\n[[Review 0086 - Edward Solomon - The Dancer|Full evidence and open questions]]\n\n\n- Publisher Southern, catalog number SU352 · [grothmusic.com](https://www.grothmusic.com/p-143139.aspx)\n- Listed as Dancer; page lists the composer as Ed Solomon · [grothmusic.com](https://www.grothmusic.com/p-143139.aspx)\n\n<!-- saxobrain-research-review-2026-10-11 -->\n\n### Research Review, October 11, 2026\n\n[[Review 0086 - Edward Solomon - The Dancer|Full review note]]\n\nCatalog: [[Edward Solomon - The Dancer]]\n\n- Identity: Edward Solomon’s *The Dancer* is a four-page Southern Music solo for E-flat alto saxophone and piano, item SU352. The catalog search result labels it Level 1; a separate retailer describes it as a graceful waltz intended as a young player’s first solo, but no score was inspected to verify style or notation.\n- Southern Music/Hal Leonard product page identifies alto sax, composer Edward Solomon, code SU352, four pages, and publisher Level 1. [Hal Leonard, Southern Music catalog](https://www.halleonard.com/product/3776251/the-dancer) (search_index_only).\n- Retailer listing describes a young player’s first solo and labels the item a graceful waltz. [All-Sheetmusic catalog](https://www.all-sheetmusic.com/Sheetmusic/Edward-Solomon-Saxophone-Sheet-Music/) (search_index_only).\n- Copyright catalog records the 1996 publication and identifies the title as for alto saxophone and piano. [U.S. Copyright Office record transcription](https://www.copyrightencyclopedia.com/final-conflict-the-second-coming-the-dancer-no-cc4-the/) (search_index_only).\n- Collection/use: Publisher Level 1 descriptor and a retail 'young player first solo' description document an explicitly early-study market; SaxoBrain placement remains Tim’s decision.\n- Review focus: Inference: inspect waltz character and written range in the score; the waltz description is from a retail listing and has not been checked against notation.\n- Gaps: No readable score sample, performance, or exact musical details beyond the retailer’s genre description located.\n\n",
+      "assigned_level": null,
+      "decision": "Removed",
+      "review_applied": true,
+      "decision_note": "Tim requested removal from the catalog. The private evidence log is retained."
     },
     {
       "chat_number": 22,
@@ -2058,7 +2182,11 @@
           ]
         },
         "chat_summary": "22. Carter, Pastoral: the [composer’s saxophone catalog](https://www.elliottcarter.com/compositions/pastoral-eb-alto-saxophone-and-piano/) confirms 1940 and ten minutes. Saxophonist [Neil McGovern](https://neilmcgovern.weebly.com/carter---pastoral.html) describes a gradually accelerating Allegretto, a quirky Giocoso interruption, a grander reprise, cadenza-like episodes and a lively coda. His 1945 date conflicts with the composer’s date. The [existing Sara Zazo/Eduardo Moreno video](https://www.youtube.com/watch?v=wXuQJv7xIOc) is verified playable and explicitly alto saxophone/piano. The composer page’s English-horn audio is a separate version. Exact Presser 144-40005D has printed and digital options; notation and written range remain gaps."
-      }
+      },
+      "assigned_level": "Third Year",
+      "decision": "Third Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Third Year."
     },
     {
       "chat_number": 23,
@@ -2159,7 +2287,11 @@
           ]
         },
         "chat_summary": "23. Koch, Sonata: the [Swedish Music and Theatre Library](https://discover.musikverket.se/bib/2749695) separates the 1985 saxophone work from its 1987 viola arrangement. The Dorn edition is 12–13 minutes. [Mark Records](https://markcustom.com/Markcustom_new/Menu2_ViewAlbum.asp?CDNum=52257-MCD) documents Allegro moderato, Andante sostenuto and Molto vivace, performed by Ronald Caravan and Sar-Shalom Strong. Their [first movement](https://www.youtube.com/watch?v=l2obtSUxdyM) is verified playable. The old Sacramento recital citation names Monolog No. 4 and does not support this sonata. No notation or full written range was verified."
-      }
+      },
+      "assigned_level": "Second Year",
+      "decision": "Second Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Second Year."
     },
     {
       "chat_number": 24,
@@ -2231,7 +2363,11 @@
           ]
         },
         "chat_summary": "24. Koch, Vision and Rondo: [Dorn DORN0996 at Groth](https://www.grothmusic.com/p-145578-vision-and-rondo-alto-saxophone-and-piano.aspx) is a six-minute pair dedicated to Ingmar Bergman. Vision uses a theme from Koch’s score for the 1949 film Prison. The [actual Vision preview](https://grothmusic.com/images/product/large/ae00-126436.jpg) shows Andante espressivo, chromatic slurred melody and an active piano part, dated 1950/rev.1983. Its staff is in C, so written sax range remains unknown. Rondo notation and exact paired-version listening remain gaps."
-      }
+      },
+      "assigned_level": "Second Year",
+      "decision": "Second Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Second Year."
     },
     {
       "chat_number": 25,
@@ -2296,7 +2432,35 @@
           ]
         },
         "chat_summary": "The Dorn catalog confirms the alto saxophone and piano Duolog, DORN0184. No actual score preview or exact playable recording was located, so the musical demands remain unknown. A Ball State archive mentions a recording of Duolog I, but its instrumentation and album are unspecified. [Dorn edition](https://www.grothmusic.com/p-145619.aspx)."
-      }
+      },
+      "removed": true,
+      "retired_url": "/works/ernesto-pellegrini-duolog/",
+      "retired_aliases": [],
+      "redirect_to": "/",
+      "removed_work_snapshot": "---\ntitle: \"Duolog\"\nslug: ernesto-pellegrini-duolog\ncomposer:\n  - \"[[Ernesto Pellegrini]]\"\ninstruments:\n  - \"Alto Saxophone\"\n  - \"Piano\"\ncomposed: \nyear-of-study: \nstreaming: \npurchase:\n  - https://www.grothmusic.com/p-145619.aspx\nadded: 2024-03-08\nresearch:\n  - \"Publisher Dorn Publications, catalog DORN0184 · https://www.grothmusic.com/p-145619.aspx\"\n  - \"Alto saxophone and piano edition, Ernesto Pellegrini, Dorn DORN0184. · https://www.grothmusic.com/p-145619.aspx\"\n  - \"Catalog item 184 lists Pellegrini Duolog in the alto saxophone and piano section. · https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf\"\n  - \"Duolog I recorded on CRS; instrumentation and album unlisted, so identity with the saxophone edition remains unconfirmed. · https://cardinalscholar.bsu.edu/bitstreams/1dbdd52d-a357-444d-b5f8-e0361766e3ad/download\"\naliases: []\npublisher:\n  - \"Dorn Publications\"\n---\n## Research notes (private)\n\n### Chat batch 08 follow-up, 2026-10-13\n\nThe Dorn catalog confirms the alto saxophone and piano Duolog, DORN0184. No actual score preview or exact playable recording was located, so the musical demands remain unknown. A Ball State archive mentions a recording of Duolog I, but its instrumentation and album are unspecified. [Dorn edition](https://www.grothmusic.com/p-145619.aspx).\n\n[[Review 0090 - Ernesto Pellegrini - Duolog|Full evidence and open questions]]\n\n\n- Publisher Dorn Publications, catalog DORN0184 · [grothmusic.com](https://www.grothmusic.com/p-145619.aspx)\n\n<!-- saxobrain-research-review-2026-10-11 -->\n\n### Research Review, October 11, 2026\n\n[[Review 0090 - Ernesto Pellegrini - Duolog|Full review note]]\n\nCatalog: [[Ernesto Pellegrini - Duolog]]\n\n- Identity: The catalog identifies Ernesto Pellegrini’s *Duolog* as alto saxophone and piano, Dorn Publications DORN0184. Dorn’s catalog lists item 184 under Pellegrini as *Duolog*, and J.W. Pepper lists alto sax and piano. The available Pepper prose is explicitly AI-generated and is not treated as evidence of musical demands.\n- Dorn Publications catalog lists Pellegrini, *Duolog*, item 184. [Dorn Publications catalog copy hosted by Groth Music](https://www.grothmusic.com/images/DP%20Catalog%20Nov%202024.pdf) (search_index_only).\n- J.W. Pepper lists the product as alto saxophone solo with piano and notes that its descriptive text is AI-generated because human description was unavailable. [J.W. Pepper](https://www.jwpepper.com/duolog-alto-sax-piano-7486376/p) (search_index_only).\n- Pellegrini’s university program notes explain that in his *Duolog III* for bassoon and piano the title refers to equal participation as a duo, but this is a different work and does not establish the saxophone piece’s contents. [Ball State University concert program notes](https://cdm16850.contentdm.oclc.org/digital/api/collection/MusCnrtEvnt/id/18967/download) (search_index_only).\n- Collection/use: The term 'Duolog' is documented by the composer in notes for a separate double-reed work as referring to equal duo participation; do not transfer that description to the saxophone piece without its own score or notes.\n- Gaps: No saxophone score pages, actual recording, date, duration, or work-specific performance guide found.; No composer/publisher prose beyond title and instrumentation was found; technique claims in the AI-generated retailer text were excluded.\n\n",
+      "assigned_level": null,
+      "decision": "Removed",
+      "review_applied": true,
+      "decision_note": "Tim requested removal from the catalog. The private evidence log is retained."
     }
-  ]
+  ],
+  "applied_on": "2026-10-13",
+  "companion_work_added": {
+    "filename": "David Keeffe - The Undone Years. Flood.md",
+    "slug": "david-keeffe-the-undone-years-flood",
+    "review_note": "content/research-review/Review 0410 - David Keeffe - The Undone Years. Flood.md",
+    "composed": 2010,
+    "instruments": [
+      "Tenor Saxophone",
+      "Band"
+    ],
+    "year_of_study": null,
+    "source": "https://www.australianmusiccentre.com.au/work/keeffe-david-undone-years-flood",
+    "source_access": "opened with direct HTTP, 2026-10-13",
+    "relationship": "Wind-ensemble version with largely shared material",
+    "metadata_gaps": [
+      "Publisher, exact recording and purchase/download links unverified."
+    ],
+    "level_note": "Fourth Year applies to Fire; Flood awaits Tim’s decision."
+  }
 }

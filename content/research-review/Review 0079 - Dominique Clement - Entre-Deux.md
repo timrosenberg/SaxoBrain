@@ -3,10 +3,10 @@ title: "Review 0079: Dominique Clement - Entre-Deux"
 added: 2026-10-11
 review-id: 79
 review-packet: 4
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Dominique Clement - Entre-Deux]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [[Dominique Clement - Entre-Deux]]
+Catalog: removed at Tim’s request on 2026-10-13.
 
 - Identity: Dominique Clément's *Entre-Deux* is an alto saxophone and piano work published by Alphonse Leduc as AL30500. Hal Leonard's distributor catalog confirms the edition and instrumentation. No score sample, performance, or work-specific teaching placement was verified.
 - Leduc edition identified as alto saxophone and piano, product code AL30500, by composer Dominique Clément. [Hal Leonard distributor catalog](https://www.halleonard.com/product/48186310/clement-dominique-entre-deux-alto-saxophone-piano-bookclement-dominique-entre-deux-alto-saxophone-piano-book) (opened).
@@ -43,3 +43,7 @@ Sources checked:
 - [Presto Music](https://www.prestomusic.com/sheet-music/products/7826722--clement-entre-deux): AL30500 belongs to Collection Vent de Sax. (search_index_only)
 - [Slovak Music Centre, Melos-Ethos composer profile](https://hc.sk/en/melos-etos/interpreti/o-1016): A clarinet/piano Entre-deux version is dated 2002; original-version chronology unstated. (opened)
 - [Conservatorio Profesional Javier Perianes, Huelva 2025–2026](https://blogsaverroes.juntadeandalucia.es/cpmjavierperianes/files/2025/11/Programacion-Saxofon-Huelva-2025-26.pdf): Entre-deux, Leduc, alto/piano appears in conservatory syllabus. (search_index_only)
+
+## Chat Batch 08 Decision, 2026-10-13
+
+Tim requested removal from the catalog. The private evidence log is retained.

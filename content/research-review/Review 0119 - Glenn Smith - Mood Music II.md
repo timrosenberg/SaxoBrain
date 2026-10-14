@@ -3,8 +3,8 @@ title: "Review 0119: Glenn Smith - Mood Music II"
 added: 2026-10-11
 review-id: 119
 review-packet: 5
-review-decision: Pending
-review-applied: false
+review-decision: "Second Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Glenn Smith - Mood Music II]]"
 build:
@@ -44,3 +44,19 @@ Searches checked:
 - Opened Hal Leonard official product page 40180 and verified scoring, grade label, pagination, and recording metadata
 - Attempted publisher closer-look viewer for score preview; response contained no score image
 - Searched publisher and score-preview leads for readable notation
+
+## Chat batch 09 follow-up, 2026-10-13
+
+The opened official publisher HTML explicitly says any two like saxophones. This requires two instruments of the same type. A solo work interpretation would be incorrect. Publisher identifies recordings by Eugene Rousseau and Dennis Bamber, but supplies no playable recording link in the inspected page. Publisher’s Grade IV–V is its own classification. It establishes no college-year placement. The closely named Mood Music I is a separate saxophone quartet. Scholarly quartet analysis, Wytko recordings and quartet previews found for Music I must not be attributed to this duet. The publisher’s public closer-look endpoint returns {"closerLook":null}. The apparent preview button therefore supplied no inspectable notation.
+
+Collection context: Unaccompanied chamber duet with same-type saxophones. No young-player simplification or intended audience documented. Distinguish from the separate Music I quartet.
+
+Open questions: Complete range, textures, rhythms, techniques and movement structure unknown. No exact public playable recording verified. Composition year unknown. Retail edition-release dates must not fill composed. Existing Any Saxophone tag describes flexibility but does not encode the required pair. Record duet scoring in review; do not silently replace established instrumentation.
+
+Sources checked:
+- [Hal Leonard / LKM Music](https://www.halleonard.com/product/40180/mood-music-2): Publisher identifies any two like saxophones, Grade IV–V and Rousseau/Bamber recording credits. (opened)
+- [Hal Leonard closer-look service](https://www.halleonard.com/viewcloserlook.action?itemId=00040180&name=mood-music-2&type=json): Public closer-look response contains no preview. (opened)
+
+## Chat Batch 09 Decision, 2026-10-13
+
+Tim assigned Second Year.

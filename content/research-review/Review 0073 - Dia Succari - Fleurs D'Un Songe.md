@@ -3,10 +3,10 @@ title: "Review 0073: Dia Succari - Fleurs D'Un Songe"
 added: 2026-10-11
 review-id: 73
 review-packet: 3
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: true
-catalog-entry: "[[Dia Succari - Fleurs D'Un Songe]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [Dia Succari - Fleurs D'Un Songe.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Dia Succari - Fleurs D'Un Songe.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0073.json).
+Catalog: removed at Tim’s request on 2026-10-13.
 
 **Identity and findings.** Dia Succari’s Fleurs d’un songe (also rendered Fleur d’un songe) is an original alto saxophone and piano work published by Alphonse Leduc, AL28899. The CDMC Alsace library record gives 1994 publication, 5:10 duration and its internal year-8 rating. A 2026 CDMC regional repertoire document lists it in FC2.
 
@@ -42,7 +42,7 @@ Catalog: [Dia Succari - Fleurs D'Un Songe.md](/Users/trosenberg/Documents/GitHub
 - No score preview or matching saxophone recording inspected.
 - Duration and scale labels depend on the CDMC library/catalog system; do not map directly to SaxoBrain levels.
 
-**Tim decision:** pending.
+**Tim decision:** Removed.
 
 ## Chat batch 08 follow-up, 2026-10-13
 
@@ -61,3 +61,7 @@ Sources checked:
 - [JeeP Shub YouTube upload](https://www.youtube.com/watch?v=q6dM2epebZM): Title/instrumentation matches Fleurs d’un songe, alto saxophone/piano; upload describes June 2021 end-of-second-cycle saxophone examination, but lacks composer/edition credit. (opened)
 - [El Argonauta description](https://www.elargonauta.com/partituras-y-ediciones-criticas/fleurs-dun-songe-saxophone/979-0-046-28899-9/): Retailer claims written 1994; conflicts with unverified secondary biography 1993. (search_index_only)
 - [French Wikipedia Succari work list](https://fr.wikipedia.org/wiki/Dia_Succari): Secondary work list dates the saxophone piece to 1993; indexed claim remains unverified against a primary chronology. (search_index_only)
+
+## Chat Batch 08 Decision, 2026-10-13
+
+Tim requested removal from the catalog. The private evidence log is retained.

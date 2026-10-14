@@ -8,7 +8,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 1989
-year-of-study: 
+year-of-study: "Fourth Year"
 streaming: "https://www.youtube.com/watch?v=mAA4JbK7Yq8"
 purchase:
   - https://www.grothmusic.com/p-143407.aspx

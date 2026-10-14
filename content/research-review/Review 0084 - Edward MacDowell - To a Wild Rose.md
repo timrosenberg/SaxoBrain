@@ -3,10 +3,10 @@ title: "Review 0084: Edward MacDowell - To a Wild Rose"
 added: 2026-10-11
 review-id: 84
 review-packet: 4
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: true
-catalog-entry: "[[Edward MacDowell - To a Wild Rose]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [[Edward MacDowell - To a Wild Rose]]
+Catalog: removed at Tim’s request on 2026-10-13.
 
 - Identity: The cataloged alto saxophone and piano version is a Richard Hall arrangement published by Dorn Publications as DORN1345. This is distinct from the Willis Coggins arrangement in Belwin’s *Student Instrumental Course, Level Two*, which is cataloged separately and derives from MacDowell’s original solo-piano miniature in *Woodland Sketches*, Op. 51. The target DORN1345 score was not available for inspection.
 - Catalog lead identifies Dorn Publications DORN1345 and Richard Hall as arranger for the saxophone and piano item. [Groth Music catalog](https://www.grothmusic.com/p-145581.aspx) (search_index_only).
@@ -47,3 +47,7 @@ Sources checked:
 - [Dorn Publications score preview hosted by Groth Music](https://grothmusic.com/images/product/large/ae00-126443_2_.jpg): The printed opening labels Alto Saxophone and credits Richard D. Hall; copyright 2003. Opening notation as described. (score_inspected)
 - [Richard D. Hall official works list](https://richallmusic.com/Works/Vocal-Solo.html): Hall lists the E-flat saxophone and piano arrangement with dates 1896, 2001. (opened)
 - [CiNii Books library record](https://ci.nii.ac.jp/ncid/BA89778568): Separate Coggins/Girlamo edition is Student instrumental course, level two, Belwin Mills c 1970, originally piano solo. (search_index_only)
+
+## Chat Batch 08 Decision, 2026-10-13
+
+Tim requested removal from the catalog. The private evidence log is retained.

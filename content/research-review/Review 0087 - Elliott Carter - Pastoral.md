@@ -3,8 +3,8 @@ title: "Review 0087: Elliott Carter - Pastoral"
 added: 2026-10-11
 review-id: 87
 review-packet: 4
-review-decision: Pending
-review-applied: false
+review-decision: "Third Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Elliott Carter - Pastoral]]"
 build:
@@ -48,3 +48,7 @@ Sources checked:
 - [Neil McGovern saxophone program note](https://neilmcgovern.weebly.com/carter---pastoral.html): Saxophonist’s attributed profile: Allegretto accelerates, Giocoso interrupts, reprise/cadenza-like passages and lively coda. His 1945 composition date is inconsistent with official 1940. (opened)
 - [University of Iowa Center for New Music program notes](https://cnm.uiowa.edu/concerts/2015/06/season-48-concert-6): Linear counterpoint and restrained jazz influenced by Piston; note accompanies a clarinet recital. (opened)
 - [Sara Zazo performer YouTube channel](https://www.youtube.com/watch?v=wXuQJv7xIOc): Caption identifies Sara Zazo and Eduardo Moreno on alto saxophone/piano, Fundación Juan March 2 Feb 2020; player advanced beyond 13 sec with readyState 4. (opened)
+
+## Chat Batch 08 Decision, 2026-10-13
+
+Tim assigned Third Year.

@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 1980
-year-of-study: 
+year-of-study: "Fourth Year"
 streaming: "https://soundcloud.com/david-liptak-946907213/fantasy-1/s-Rw3HpG2gKbz"
 purchase:
   - https://www.grothmusic.com/p-145846.aspx
