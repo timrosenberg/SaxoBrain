@@ -3,10 +3,10 @@ title: "Review 0227: Kumiko Tanaka - La Brise"
 added: 2026-10-11
 review-id: 227
 review-packet: 10
-review-decision: "Hold"
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Kumiko Tanaka - La Brise]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [[Kumiko Tanaka - La Brise]]
+Catalog: removed at Tim’s request on October 15, 2026.
 
 - Identity: Billaudot identifies Kumiko Tanaka’s La brise for E-flat saxophone and piano, GB7021. Its catalog labels it Cycle 1, facile. A library record dates the edition to 2001 and gives a 2:50 duration, 7-page score, and separate part.
 - Billaudot identifies composer, alto saxophone and piano, GB7021, and labels it facile, cycle 1. [Éditions Billaudot](https://www.billaudot.com/la-brise-3.html) (opened).
@@ -53,3 +53,32 @@ Sources checked:
 ## Chat Batch 13 Decision, 2026-10-14
 
 Tim marked the difficulty unknown. Review is on hold; the work remains unassigned.
+
+## Chat Batch 17 Follow-Up, October 15, 2026
+
+**Proposed decision:** Remove. **Confidence:** high. **Approval:** Recorded 2026-10-15.
+
+**Reason:** Pending removal based on the publisher’s explicit Facile, cycle 1 label. The exact composer, edition and alto/piano scoring are secure. No notation was available, and the removal rests on documented teaching audience.
+
+La brise by Kumiko Tanaka is Billaudot GB 7021 for E-flat saxophone and piano. Official publisher labels it Facile, cycle 1, in Daniel Gremelle’s collection.
+
+**Collection context:** Original elementary teaching piece; removal proposed for documented pre-college scope.
+
+**Remaining gaps:** Actual notation, composition date and exact recording unverified.
+
+**Sources:** [Éditions Billaudot](https://www.billaudot.com/la-brise-3.html) · [Groth Music](https://www.grothmusic.com/p-146320.aspx)
+
+**Score or edition:** [Cover only.](https://grothmusic.com/images/product/large/1071-524-08414.jpg)
+
+**Tim’s decision:** Removed. Applied 2026-10-15.
+
+### Source Verification
+
+- [Éditions Billaudot](https://www.billaudot.com/la-brise-3.html): Exact title, composer, scoring, edition and easy first-cycle classification. (opened).
+- [Groth Music](https://www.grothmusic.com/p-146320.aspx): Exact alto/piano GB 7021 retail edition; cover-only image. (opened).
+
+## Chat Batch 17 Decision, October 15, 2026
+
+Tim requested removal from the catalog. Original metadata and research are retained privately.
+
+**Tim’s decision:** Removed. Applied 2026-10-15.

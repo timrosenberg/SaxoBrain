@@ -3,10 +3,10 @@ title: "Review 0137: Harald Genzmer - Sonate (Alto)"
 added: 2026-10-11
 review-id: 137
 review-packet: 6
-review-decision: "Hold"
-review-applied: false
+review-decision: "Third Year"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Harald Genzmer - Sonate (Alto)]]"
+catalog-entry: "[[Harald Genzmer - Sonate]]"
 build:
   render: never
   list: never
@@ -65,3 +65,33 @@ Sources checked:
 ## Chat Batch 10 Decision, 2026-10-14
 
 Tim marked the difficulty unknown. Review is on hold; the work remains unassigned.
+
+## Chat Batch 17 Follow-Up, October 15, 2026
+
+**Proposed decision:** Third Year. **Confidence:** medium. **Approval:** Already assigned in catalog during preparation.
+
+**Reason:** Inference from Günter Priesner’s contemporary performer review, rather than direct notation. The documented range, rhythmic precision and virtuoso ending support Third Year. This is more specific evidence than a generic difficulty label, though complete score inspection could change the proposal.
+
+Genzmer Foundation lists Sonate for alto saxophone and piano, composed 1984, GeWV 249. Current edition is Ries & Erler RE 24010. Tibia’s 1986 review describes seventh leaps, required harmonics/altissimo to written G, a Largo cantilena and a rhythmically precise 7/8 finale with a virtuoso conclusion.
+
+**Collection context:** Original substantial sonata. Retain.
+
+**Remaining gaps:** No actual notation or exact streaming recording inspected.
+
+**Sources:** [Harald Genzmer Foundation](https://genzmer-stiftung.schott-campus.com/werke/) · [Tibia, 1986 issue 4, Günter Priesner](https://www.moeck.com/fileadmin/Assets/Tibia/1986-4.pdf) · [Groth Music](https://www.grothmusic.com/p-37738.aspx)
+
+**Score or edition:** [Cover only.](https://grothmusic.com/images/product/large/ae00-23464.jpg)
+
+**Current catalog decision:** Third Year, already assigned during preparation.
+
+### Source Verification
+
+- [Harald Genzmer Foundation](https://genzmer-stiftung.schott-campus.com/werke/): 1984 composition, alto/piano scoring and GeWV 249. (opened).
+- [Tibia, 1986 issue 4, Günter Priesner](https://www.moeck.com/fileadmin/Assets/Tibia/1986-4.pdf): Detailed performer review, PDF page 68. These are reported demands, not our notation inspection. (opened).
+- [Groth Music](https://www.grothmusic.com/p-37738.aspx): Current RE 24010 edition; cover-only gallery. (opened).
+
+## Chat Batch 17 Decision, October 15, 2026
+
+Tim confirmed the existing Third Year assignment.
+
+**Tim’s decision:** Third Year. Applied 2026-10-15.

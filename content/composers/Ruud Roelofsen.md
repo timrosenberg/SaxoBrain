@@ -1,16 +1,17 @@
 ---
-title: "Ruud Roelofsen"
+title: Ruud Roelofsen
 slug: ruud-roelofsen
 nationality:
-  - "🇳🇱 Dutch"
-gender: 
-race: []
+  - 🇳🇱 Dutch
+gender: Male
+race:
+  - White
 born: 1985
-died: 
+died:
 wikidata: Q133746726
-photo: 
-photo-credit: 
-photo-source: 
+photo: "/media/composers/ruud-roelofsen.jpg"
+photo-credit: Marije van den Berg Photography
+photo-source: https://ruudroelofsen.com/wp-content/uploads/2021/12/dsc2474-1bw.jpg?w=1368
 aliases: []
 website: https://ruudroelofsen.com/
 ---

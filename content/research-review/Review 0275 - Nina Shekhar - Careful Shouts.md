@@ -3,8 +3,8 @@ title: "Review 0275: Nina Shekhar - Careful Shouts"
 added: 2026-10-11
 review-id: 275
 review-packet: 11
-review-decision: Pending
-review-applied: false
+review-decision: "Third Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Nina Shekhar - Careful Shouts]]"
 build:
@@ -44,3 +44,32 @@ Searches checked:
 - Nina Shekhar Careful Shouts Timothy McAllister Liz Ames recording performance video
 - Opened composer product page and checked instrumentation, duration, commissioning/performance context and linked video; video not auditioned
 - Checked exact title and performer-name query for independent concert/program documentation
+
+## Chat Batch 14 Follow-Up, October 15, 2026
+
+**Proposed decision:** Retain, difficulty unknown. **Confidence:** low. **Approval:** Applied 2026-10-15.
+
+**Reason:** Original concert encore with verified professional performances; commission alone does not establish a level. No readable score preview or sufficiently specific documented demands found.
+
+2021; alto saxophone and piano; about4minutes. Commissioned by Timothy McAllister and Liz Ames; composer links their exact performance and Project Encore Vol.1 track. Composer music catalog identifies PDF score and part. Product page includes contradictory stock/checkout labels; actual availability unknown.
+
+**Collection context:** Original concert encore; retain.
+
+**Remaining gaps:** No notation inspected; technical demands and college-year placement unknown. Composer sales page has conflicting availability text; checkout not tested.
+
+**Sources:** [Nina Shekhar composer product page](https://www.ninashekhar.com/product/careful-shouts) · [Nina Shekhar composer album page](https://www.ninashekhar.com/album/careful-shouts-appears-on-project-encore-vol-1)
+
+**Score or edition:** [Composer score sales page; no notation sample found.](https://www.ninashekhar.com/product/careful-shouts)
+
+**Recording:** [Composer-linked McAllister/Ames performance.](https://www.youtube.com/watch?v=NToA8Uh-7Xo) · [Exact Project Encore track linked from composer album page.](https://timothymcallister.bandcamp.com/track/nina-shekhar-careful-shouts)
+
+**Tim’s decision:** Third Year. Applied 2026-10-15.
+
+### Source Verification
+
+- [Nina Shekhar composer product page](https://www.ninashekhar.com/product/careful-shouts): Year,scoring,duration,commission and McAllister/Ames performance link. (opened).
+- [Nina Shekhar composer album page](https://www.ninashekhar.com/album/careful-shouts-appears-on-project-encore-vol-1): Exact composer-linked Project Encore track. (opened).
+
+## Chat Batch 14 Decision, October 15, 2026
+
+Tim assigned Third Year.

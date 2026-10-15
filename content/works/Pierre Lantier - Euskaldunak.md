@@ -7,18 +7,29 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
+year-of-study: "First Year"
 streaming: 
 purchase:
-  - https://www.grothmusic.com/p-37934.aspx
+  - "https://www.grothmusic.com/p-37934.aspx"
+  - "https://www.billaudot.com/euskaldunak-3.html"
 added: 2024-03-08
 research:
   - "Publisher Billaudot, catalog no. MRB1109 · https://www.grothmusic.com/p-37934.aspx"
+  - "Title, edition and scoring. · https://www.billaudot.com/euskaldunak-3.html"
+  - "Explicit bachelor admission requirement. · https://www.conservatoriumvanamsterdam.nl/en/study/classical-music/principal-subjects/woodwinds/saxophone/"
+  - "Composition/edition distinction and seventh-study-year placement. · https://pdfcoffee.com/10-ans-avec-le-saxophonepdf-pdf-free.html"
 publisher:
   - "Éditions Billaudot"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat Batch 15 Follow-Up, October 15, 2026
+
+Billaudot MRB1109: alto saxophone and piano sonata, 10:40, 32 pages, copyright1967. Guide separately dates the work 1959 and the edition1967; three movements.
+
+[[Review 0291 - Pierre Lantier - Euskaldunak|Evidence and pending recommendation]]
+
 
 - Publisher Billaudot, catalog no. MRB1109 · [grothmusic.com](https://www.grothmusic.com/p-37934.aspx)
 

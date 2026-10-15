@@ -7,18 +7,29 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
+year-of-study: "First Year"
 streaming: 
 purchase:
-  - https://www.grothmusic.com/p-63657.aspx
+  - "https://www.grothmusic.com/p-63657.aspx"
+  - "https://www.halleonard.com/product/48182002/printemps-saxophone-alto-piano"
 added: 2024-03-08
 research:
   - "Publisher Alphonse Leduc, catalog no. AL22799 · https://www.grothmusic.com/p-63657.aspx"
+  - "Identity and edition. · https://www.halleonard.com/product/48182002/printemps-saxophone-alto-piano"
+  - "Bachelor audition repertoire example. · https://www.mdw.ac.at/fsi/mbp-/-bachelor/saxophon/"
+  - "1959 work date and rhythm description. · https://pdfcoffee.com/10-ans-avec-le-saxophonepdf-pdf-free.html"
 publisher:
   - "Alphonse Leduc"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat Batch 15 Follow-Up, October 15, 2026
+
+Hal Leonard confirms alto saxophone/piano, Alphonse Leduc AL22799. The institutional repertoire guide dates Printemps1959, duration2:40.
+
+[[Review 0290 - Pierre Gabaye - Printemps|Evidence and pending recommendation]]
+
 
 - Publisher Alphonse Leduc, catalog no. AL22799 · [grothmusic.com](https://www.grothmusic.com/p-63657.aspx)
 

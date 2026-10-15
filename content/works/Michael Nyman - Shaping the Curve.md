@@ -5,19 +5,31 @@ composer:
   - "[[Michael Nyman]]"
 instruments:
   - "Soprano Saxophone"
+  - "Piano"
 composed: 1990
-year-of-study: 
-streaming: 
+year-of-study: "Third Year"
+streaming: "https://open.spotify.com/track/6pwsOb3175obL3RZQjnkXQ"
 purchase:
-  - https://www.grothmusic.com/p-146522.aspx
+  - "https://www.grothmusic.com/p-146522.aspx"
+  - "https://www.halleonard.com/product/14023663/shaping-the-curve"
 added: 2025-04-18
 research:
   - "Publisher Chester, catalog no. CH61078; page says 'Composed for John Harle in 1990 and is based strictly on a sequence of four chords' · https://www.grothmusic.com/p-146522.aspx"
+  - "Composed1990, John Harle, soprano/piano, ChesterCH61078 and four-chord basis. · https://www.halleonard.com/product/14023663/shaping-the-curve"
+  - "Licentiate Teacher and Performer saxophone repertoire includes Shaping the Curve, PDFp55(printed55). · https://www.riam.ie/sites/default/files/media/file-uploads/2023-03/Wind%2C%20Brass%20%26%20Percussion%20ARIAM%20%26%20LRIAM%20Syllabi%20%28Updated%2012.08.2022%20-%20A.Z.%29_0.pdf"
+  - "Exact Nyman recording by Duo Dilemme,8:16,1998 Doron album. · https://open.spotify.com/track/6pwsOb3175obL3RZQjnkXQ"
 publisher:
   - "Chester Music"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat Batch 14 Follow-Up, October 15, 2026
+
+1990; soprano saxophone and piano; Chester Music CH61078, HL14023663. Publisher says composed for John Harle, based on four chords. RIAM Licentiate saxophone Teacher and Performer lists include this work alongside Desenclos and other substantial repertoire.
+
+[[Review 0267 - Michael Nyman - Shaping the Curve|Evidence and pending recommendation]]
+
 
 - Publisher Chester, catalog no. CH61078; page says 'Composed for John Harle in 1990 and is based strictly on a sequence of four chords' · [grothmusic.com](https://www.grothmusic.com/p-146522.aspx)
 

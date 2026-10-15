@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 2016
-year-of-study: 
+year-of-study: "Third Year"
 streaming: "https://www.youtube.com/watch?v=O9FTWSHfwww"
 purchase:
   - "https://roydontse.com/music-and-scores/silence-my-soul/"
@@ -15,10 +15,19 @@ added: 2024-02-21
 research:
   - "Composer's program note: 'the difficulty lies in the execution of the saxophone part which requires circular breathing from the performer'; 'a still and deliberately slow piece' on simple harmonies that move slowly · https://www.butlerartspresents.org/wp-content/uploads/2024/09/rev.DAS-Phil-Pierick-10-29-24-WEB.pdf"
   - "Commissioned by saxophonist Jeffrey Leung · https://www.butlerartspresents.org/wp-content/uploads/2024/09/rev.DAS-Phil-Pierick-10-29-24-WEB.pdf"
+  - "Year, scoring, duration, commission, slowly moving simple harmonies and exceptionally long notes. · https://roydontse.com/music-and-scores/silence-my-soul/"
+  - "Composer-attributed program note expressly requires circular breathing. · https://www.butlerartspresents.org/wp-content/uploads/2024/09/rev.DAS-Phil-Pierick-10-29-24-WEB.pdf"
 aliases:
   - /works/royden-tse-speak-my-soul/
 ---
 ## Research notes (private)
+
+### Chat Batch 16 Follow-Up, October 15, 2026
+
+Composer gives 2016, alto/piano, five minutes, Jeffrey Leung commission. Composer program note printed by Butler expressly requires circular breathing. Composer sells emailed PDF score/part; linked video O9FTWSHfwww.
+
+[[Review 0346 - Roydon Tse - Speak, my soul|Evidence and pending recommendation]]
+
 
 - Composer's program note: 'the difficulty lies in the execution of the saxophone part which requires circular breathing from the performer'; 'a still and deliberately slow piece' on simple harmonies that move slowly · [butlerartspresents.org](https://www.butlerartspresents.org/wp-content/uploads/2024/09/rev.DAS-Phil-Pierick-10-29-24-WEB.pdf)
 - Commissioned by saxophonist Jeffrey Leung · [butlerartspresents.org](https://www.butlerartspresents.org/wp-content/uploads/2024/09/rev.DAS-Phil-Pierick-10-29-24-WEB.pdf)

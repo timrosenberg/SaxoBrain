@@ -8,7 +8,7 @@ instruments:
   - "Orchestra"
   - "Piano"
 composed: 
-year-of-study: 
+year-of-study: "Fourth Year"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-146474.aspx
@@ -17,9 +17,21 @@ added: 2024-03-06
 research:
   - "Publisher Alphonse Leduc, catalog no. AL20337 · https://www.grothmusic.com/p-146474.aspx"
   - "Three movements: Allegro con brio, Largo, Vivace; 48 pages · https://www.grothmusic.com/p-146474.aspx"
+  - "Edition, original orchestra scoring, movement titles and piano edition. · https://www.grothmusic.com/p-146474.aspx"
+  - "Concerto opening with orchestral title, Mule dedication and piano reduction. · https://grothmusic.com/images/product/large/ae00-127391_2_.jpg"
+  - "One senior-year listing, not a universal college classification. · https://digital.library.unt.edu/ark:/67531/metadc4959/m1/92/high_res/"
 aliases: []
+publisher:
+  - "Alphonse Leduc"
 ---
 ## Research notes (private)
+
+### Chat Batch 16 Follow-Up, October 15, 2026
+
+Concerto is originally for alto saxophone and orchestra; the purchased edition includes piano reduction. Three movements: Allegro con brio, Largo and Vivace. Leduc AL 20337. Score dedication names Marcel Mule; copyright 1946 does not establish the composition year. Kallestad’s 2005 college-repertoire survey records the Challan Concerto on one senior-year repertoire list.
+
+[[Review 0317 - René Challan - Concerto|Evidence and pending recommendation]]
+
 
 - Publisher Alphonse Leduc, catalog no. AL20337 · [grothmusic.com](https://www.grothmusic.com/p-146474.aspx)
 - Three movements: Allegro con brio, Largo, Vivace; 48 pages · [grothmusic.com](https://www.grothmusic.com/p-146474.aspx)

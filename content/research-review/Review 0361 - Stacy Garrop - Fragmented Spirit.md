@@ -3,8 +3,8 @@ title: "Review 0361: Stacy Garrop - Fragmented Spirit"
 added: 2026-10-11
 review-id: 361
 review-packet: 15
-review-decision: Pending
-review-applied: false
+review-decision: "Fourth Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Stacy Garrop - Fragmented Spirit]]"
 build:
@@ -53,3 +53,34 @@ Catalog: [Stacy Garrop - Fragmented Spirit.md](/Users/trosenberg/Documents/GitHu
 - Composer’s primary description remains unverified. The cataloged recording was not auditioned.
 
 **Tim decision:** pending.
+
+## Chat Batch 16 Follow-Up, October 15, 2026
+
+**Proposed decision:** Fourth Year. **Confidence:** medium. **Approval:** Applied 2026-10-15.
+
+**Reason:** Fourth Year is an institutional comparison inference. Kallestad Appendix p86 gives Fragmented Spirit senior from one contributing list, while Desenclos is senior across13 lists. Tim Desenclos Fourth Year supplies a direct anchor; the small Garrop sample limits confidence.
+
+Presser 114-41106, alto/piano, score and parts, 7:30, dedicated to Steven Stusek. UCLA official program and Noa Even repertoire page date the work 1998. Kallestad 2005 appendix:Garrop senior, one list; Desenclos senior, 13 lists. Publisher gallery inspected but contains cover only; this does not count as notation inspection.
+
+**Collection context:** Original college/pro recital work; exact score dedicated to Steven Stusek.
+
+**Remaining gaps:** No notation preview beyond cover; precise range and techniques unresolved. One contributing difficulty list only; university survey is historical.
+
+**Sources:** [Theodore Presser](https://www.presser.com/114-41106-fragmented-spirit.html) · [UCLA Herb Alpert School of Music](https://schoolofmusic.ucla.edu/event/saxophone-studio-winter-recital/program/) · [Scott D. Kallestad, UNT 2005 DMA](https://digital.library.unt.edu/ark:/67531/metadc4959/m2/1/high_res_d/dissertation.pdf) · [Noa Even saxophone repertoire repository](https://www.noaevenmusic.com/saxandpiano)
+
+**Score or edition:** [Cover only, inspected; no notation](https://www.presser.com/media/catalog/product/cache/7c4d3d4dd8d58db6f6731e08bcecc508/1/1/114-41106_3.jpg)
+
+**Recording:** [Exact Fragmented Spirit audio link provided by saxophonist Noa Even repository.](https://www.youtube.com/watch?v=_hy_6U5Xeyk)
+
+**Tim’s decision:** Fourth Year. Applied 2026-10-15.
+
+### Source Verification
+
+- [Theodore Presser](https://www.presser.com/114-41106-fragmented-spirit.html): Exact score, scoring, dedication, duration and publisher. (opened).
+- [UCLA Herb Alpert School of Music](https://schoolofmusic.ucla.edu/event/saxophone-studio-winter-recital/program/): Work date 1998 and college performance. (opened).
+- [Scott D. Kallestad, UNT 2005 DMA](https://digital.library.unt.edu/ark:/67531/metadc4959/m2/1/high_res_d/dissertation.pdf): Appendix printed86:Garrop senior1 list; printed85:Desenclos senior13 lists. (opened).
+- [Noa Even saxophone repertoire repository](https://www.noaevenmusic.com/saxandpiano): Exact 1998 work and linked audio. (opened).
+
+## Chat Batch 16 Decision, October 15, 2026
+
+Tim assigned Fourth Year.

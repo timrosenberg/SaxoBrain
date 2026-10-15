@@ -14,9 +14,19 @@ purchase:
 added: 2024-03-08
 research:
   - "Publisher WIM, catalog no. AV316 · https://www.grothmusic.com/p-38086.aspx"
+  - "Cover for AV316 explicitly credits William Schmidt and alto saxophone with piano. Only cover available. · https://www.grothmusic.com/p-38086.aspx"
 aliases: []
+publisher:
+  - "Western International Music"
 ---
 ## Research notes (private)
+
+### Chat Batch 17 Follow-Up, October 15, 2026
+
+Western International Music AV316 is titled Variations on a Theme of Modest Moussorgsky for Alto Saxophone and Piano. The public gallery supplies the cover only. Searches also return Schmidt arrangements of Pictures at an Exhibition, including saxophone choir material. Those are different works and were excluded.
+
+[[Review 0401 - William Schmidt - Variations on a Theme of Mussorgsky|Evidence and pending recommendation]]
+
 
 - Publisher WIM, catalog no. AV316 · [grothmusic.com](https://www.grothmusic.com/p-38086.aspx)
 

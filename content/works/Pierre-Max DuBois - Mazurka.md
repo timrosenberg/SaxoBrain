@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
+year-of-study: "First Year"
 streaming: 
 purchase:
   - "https://www.halleonard.com/product/48182097/mazurka-for-alto-saxophone-and-piano"
@@ -15,9 +15,20 @@ added: 2024-03-08
 research:
   - "Subtitle Hommage à Chopin; Leduc edition dated 1961, 3 pages, about four minutes · https://www.halleonard.com/product/48182097/mazurka-for-alto-saxophone-and-piano"
   - "Retailer description: light-hearted, unusual harmonic and melodic textures; described as suited to advanced players · https://www.halleonard.com/product/48182097/mazurka-for-alto-saxophone-and-piano"
+  - "Exact edition, scoring,1961 publication statement and approximate duration. · https://www.halleonard.com/product/48182097/mazurka-for-alto-saxophone-and-piano"
+  - "Lento/Allegro vivo and seventh-year bracket, printed p64; Tcherepnin Sonatine Sportive shares the bracket, printed p69. · https://pdfcoffee.com/10-ans-avec-le-saxophonepdf-pdf-free.html"
 aliases: []
+publisher:
+  - "Alphonse Leduc"
 ---
 ## Research notes (private)
+
+### Chat Batch 15 Follow-Up, October 15, 2026
+
+Mazurka, Hommage à Chopin, alto saxophone and piano; Leduc AL 23010. Publisher states published 1961 and about 4 minutes; guide gives 3:10 and Lento/più mosso/Allegro vivo. These are edition and timing evidence, not a confirmed composition year.
+
+[[Review 0303 - Pierre-Max DuBois - Mazurka|Evidence and pending recommendation]]
+
 
 - Subtitle Hommage à Chopin; Leduc edition dated 1961, 3 pages, about four minutes · [halleonard.com](https://www.halleonard.com/product/48182097/mazurka-for-alto-saxophone-and-piano)
 - Retailer description: light-hearted, unusual harmonic and melodic textures; described as suited to advanced players · [halleonard.com](https://www.halleonard.com/product/48182097/mazurka-for-alto-saxophone-and-piano)

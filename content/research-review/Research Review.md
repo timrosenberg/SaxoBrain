@@ -13,7 +13,7 @@ Research for 409 works, completed October 11, 2026. Each work has its own review
 
 ## Start Here
 
-Current chat batch: [[Chat Batch 13]] contains 25 works, numbered 1–25 for your reply.
+Current chat batch: [[Chat Batch 17]]. Decisions recorded October 15, 2026: 18 new level assignments, 13 removals, 6 retained with difficulty unknown, and 1 existing Third Year assignment confirmed. No approvals remain pending for this batch. The six held works await further evidence.
 
 1. Ask Codex for the next short review batch in chat, or open [[Research Packet 01]].
 2. Give decisions by number in chat, or enter them in `review-decision` in the table below.
@@ -25,6 +25,8 @@ Use `Pending` until you have decided. Level choices match the catalog: `Pre-coll
 > A review decision records your choice. It does not automatically update the linked catalog entry. `review-applied` records whether Codex has applied that decision. No levels were assigned during research.
 
 New work added after batch 08: [[Review 0410 - David Keeffe - The Undone Years. Flood|The Undone Years. Flood, Fourth Year]]. Its review number is 410; the original 409-work archive is unchanged.
+
+Additional reviews created for Chat Batch 17: [[Review 0411 - Charles Koechlin - 24 Duos Op. 186]], [[Review 0412 - Charles Koechlin - Seven Pieces Op. 180]], and [[Review 0413 - Jean Sichler - La mémoire de l'onde]].
 
 ## Decision Table
 

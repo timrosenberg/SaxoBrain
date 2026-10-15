@@ -3,8 +3,8 @@ title: "Review 0345: Ross Lee Finney - Two Studies"
 added: 2026-10-11
 review-id: 345
 review-packet: 14
-review-decision: Pending
-review-applied: false
+review-decision: "Fourth Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Ross Lee Finney - Two Studies]]"
 build:
@@ -37,3 +37,30 @@ Open questions: No score pages, recording or college placement inspected. Creati
 Searches checked:
 - Ross Lee Finney Two Studies EP66445 score soprano alto sax
 - Finney Two Studies saxophones and piano recording
+
+## Chat Batch 16 Follow-Up, October 15, 2026
+
+**Proposed decision:** Fourth Year. **Confidence:** low. **Approval:** Applied 2026-10-15.
+
+**Reason:** Provisional inference from the specialist edition description: frequent doubling, extended techniques in both instruments, and equal-partner piano writing exceed the straightforward First/Second Year anchors. Exact techniques and notation remain unverified, so Fourth Year is tentative.
+
+Peters EP66445, one player alternating soprano and alto with piano; about ten minutes. VCIS lists 17+11 pages, frequent saxophone changes, extended techniques for both players, and equal musical partnership. Source dates conflict: catalog currently 1981, historical Peters advertisement indexed 1980; retail 1984/2001 are publication data.
+
+**Collection context:** Original recital work; one doubling saxophonist, not two players.
+
+**Remaining gaps:** Exact extended techniques and full range unknown; no public notation preview located. No exact recording verified; composition-year conflict unresolved.
+
+**Sources:** [Forsyth](https://www.forsyths.co.uk/sheet-music/instruments/woodwind/saxophone-sheet-music/289021-finney-ross-lee-two-studies-for-saxophones-and-piano-9790300722535.html) · [Van Cott Information Services](https://vcisinc.com/saxophonemusic.htm#S345)
+
+**Metadata correction:** One player alternates soprano and alto. Previous value: ['Alto Saxophone', 'Piano']. Corrected value: ['Soprano Saxophone', 'Alto Saxophone', 'Piano'].
+
+**Tim’s decision:** Fourth Year. Applied 2026-10-15.
+
+### Source Verification
+
+- [Forsyth](https://www.forsyths.co.uk/sheet-music/instruments/woodwind/saxophone-sheet-music/289021-finney-ross-lee-two-studies-for-saxophones-and-piano-9790300722535.html): Exact edition, scoring and product purchase. (opened).
+- [Van Cott Information Services](https://vcisinc.com/saxophonemusic.htm#S345): S345 describes extended techniques for both players and numerous soprano/alto changes. (opened).
+
+## Chat Batch 16 Decision, October 15, 2026
+
+Tim assigned Fourth Year.

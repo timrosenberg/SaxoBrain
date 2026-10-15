@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
+year-of-study: "Second Year"
 arranger-edition:
   - "Marcel Mule"
 streaming: 
@@ -16,9 +16,24 @@ purchase:
 added: 2024-03-08
 research:
   - "Publisher Alphonse Leduc, catalog no. AL21161 · https://www.grothmusic.com/p-148100.aspx"
+  - "Mule transcription credit and actual opening notation. · https://www.music8.com/upload/save_image/00000085120_sample_pdf.jfif"
+  - "Oboe/piano source, Mule transcription, AL21161, copyright 1946 and 8-page score plus part. · https://rozet.nl/catalogus/2338841/"
+  - "Gaubert Intermède champêtre appears in 2026 FTCL repertoire; Desenclos also in that broad category. · https://www.trinitycollege.com/resource?id=8548"
+  - "AL21161, alto/piano score and part, 12 pages. · https://www.grothmusic.com/p-148100.aspx"
 aliases: []
+publisher:
+  - "Alphonse Leduc"
+library-score:
+  - "https://rozet.nl/catalogus/2338841/"
 ---
 ## Research notes (private)
+
+### Chat Batch 15 Follow-Up, October 15, 2026
+
+Alphonse Leduc AL21161 is Marcel Mule's transcription for alto saxophone and piano. Rozet library explicitly identifies an oboe/piano original and a 1946 copyright edition; composition year remains unknown. Trinity's April 2026 diploma list places Intermède champêtre at FTCL. Groth lists score and solo part, 12 pages.
+
+[[Review 0287 - Philippe Gaubert - Intermede Champetre|Evidence and pending recommendation]]
+
 
 - Publisher Alphonse Leduc, catalog no. AL21161 · [grothmusic.com](https://www.grothmusic.com/p-148100.aspx)
 

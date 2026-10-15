@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
+year-of-study: "Fourth Year"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-139812.aspx
@@ -15,12 +15,20 @@ added: 2024-03-08
 research:
   - "Publisher Alphonse Leduc, catalog no. AL29061 · https://www.grothmusic.com/p-139812.aspx"
   - "Listed as Naissance de la Neige · https://www.grothmusic.com/p-139812.aspx"
+  - "Exact scoring, optional electric organ and AL29061. · https://www.halleonard.com/product/48185478/naissance-de-la-neige-saxophone-alto-piano"
 publisher:
   - "Alphonse Leduc"
 aliases:
   - /works/ryo-noda-naissance-de-la-neig/
 ---
 ## Research notes (private)
+
+### Chat Batch 16 Follow-Up, October 15, 2026
+
+Leduc AL29061, alto saxophone with piano or electric organ; distributor confirms exact scoring. UNAM thesis bibliography indexes 1992, but source does not yet establish whether this is composition or publication.
+
+[[Review 0352 - Ryo Noda - Naissance de la Neige|Evidence and pending recommendation]]
+
 
 - Publisher Alphonse Leduc, catalog no. AL29061 · [grothmusic.com](https://www.grothmusic.com/p-139812.aspx)
 - Listed as Naissance de la Neige · [grothmusic.com](https://www.grothmusic.com/p-139812.aspx)

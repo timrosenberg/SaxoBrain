@@ -57,3 +57,31 @@ Sources checked:
 ## Chat Batch 07 Decision, 2026-10-13
 
 Tim marked the difficulty unknown. Review is on hold; the work remains unassigned.
+
+## Chat Batch 17 Follow-Up, October 15, 2026
+
+**Proposed decision:** Retain, difficulty unknown. **Confidence:** high. **Approval:** Recorded 2026-10-15.
+
+**Reason:** Retain without a level. The accessible retailer image is only the cover, which confirms title and forces. Fresh searches did not produce a legitimate notation preview, documented target audience or exact performance. Nothing establishes a pre-college scope mismatch.
+
+Daniel Lefebvre’s Diptyque is for alto saxophone and piano, Éditions J. Maurer, MAURER 04. Groth lists score plus solo part and six pages.
+
+**Collection context:** Original work; no evidence justifying removal.
+
+**Remaining gaps:** Notation, date, intended audience and exact recording remain unknown after fresh searches.
+
+**Sources:** [Groth Music](https://www.grothmusic.com/p-142041.aspx)
+
+**Score or edition:** [Cover only.](https://grothmusic.com/images/product/large/ae00-123698.jpg)
+
+**Tim’s decision:** Hold. Recorded 2026-10-15.
+
+### Source Verification
+
+- [Groth Music](https://www.grothmusic.com/p-142041.aspx): Exact composer, title, scoring and edition; cover inspected. (opened).
+
+## Chat Batch 17 Decision, October 15, 2026
+
+Tim retained the work with difficulty unknown. The catalog level remains unassigned.
+
+**Tim’s decision:** Hold. Recorded 2026-10-15.

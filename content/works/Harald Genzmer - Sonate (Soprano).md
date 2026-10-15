@@ -1,25 +1,25 @@
 ---
-title: "Sonate (Soprano)"
+title: Sonate, GeWV. 246
 slug: harald-genzmer-sonate-soprano
 composer:
   - "[[Harald Genzmer]]"
 instruments:
-  - "Soprano Saxophone"
-  - "Piano"
+  - Soprano Saxophone
+  - Piano
 composed: 1982
-year-of-study: "Fourth Year"
-streaming: 
+year-of-study: Fourth Year
+streaming:
 purchase:
   - https://www.grothmusic.com/p-144588.aspx
-  - "https://www.amazon.com/GENZMER-H-Saxofon-Soprano-Clatinete/dp/B0745DKLMW"
+  - https://www.amazon.com/GENZMER-H-Saxofon-Soprano-Clatinete/dp/B0745DKLMW
 added: 2024-03-10
 research:
-  - "Publisher Ries & Erler, catalog RE24008 · https://www.grothmusic.com/p-144588.aspx"
-  - "Described as a challenging choice for an experienced player · https://www.grothmusic.com/p-144588.aspx"
-  - "Edition RE24008, publisher, 34 pages, soprano saxophone or B-flat clarinet with piano; descriptive virtuosity commentary and conflicting contents. · https://www.grothmusic.com/p-144588-sonata-soprano-sax-or-clarinet-and-piano.aspx"
+  - Publisher Ries & Erler, catalog RE24008 · https://www.grothmusic.com/p-144588.aspx
+  - Described as a challenging choice for an experienced player · https://www.grothmusic.com/p-144588.aspx
+  - Edition RE24008, publisher, 34 pages, soprano saxophone or B-flat clarinet with piano; descriptive virtuosity commentary and conflicting contents. · https://www.grothmusic.com/p-144588-sonata-soprano-sax-or-clarinet-and-piano.aspx
 aliases: []
 publisher:
-  - "Ries & Erler"
+  - Ries & Erler
 ---
 ## Research notes (private)
 

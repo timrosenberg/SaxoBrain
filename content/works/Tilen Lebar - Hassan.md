@@ -7,9 +7,10 @@ instruments:
   - "Alto Saxophone"
   - "Electronics"
 composed: 2022
-year-of-study: 
+year-of-study: "Advanced"
 streaming: 
-purchase: []
+purchase:
+  - "https://webshop.donemus.com/action/front/sheetmusic/21530"
 library-recording:
   - "https://search.alexanderstreet.com/lti/view/work/bibliographic_entity|score|5227970"
 added: 2025-04-21
@@ -17,9 +18,21 @@ research:
   - "Duration 11 minutes; alto saxophone and tape (prepared saxophone, fixed media) · https://donemus.nl/events/tilen-lebar-hassan/"
   - "Program note: whistle tone appears first in the tape then in acoustic form; natural spectral multiphonics on a prepared saxophone; very introverted dynamics · https://donemus.nl/events/tilen-lebar-hassan/"
   - "Dedicated to Matjaž Drevenšek; performer on Donemus listings Henrique Portovedo · https://donemus.nl/events/tilen-lebar-hassan/"
+  - "Composer catalog identifies 2022 alto saxophone and tape work, eleven minutes, linked to Donemus D 21530. · https://tilenlebar.com/compositions/"
+  - "Exact publisher edition D 21530 offers score for alto saxophone and tape. · https://webshop.donemus.com/action/front/sheetmusic/21530"
+  - "Public score preview contains preparation/technique legend and first two notation pages with time alignment and rhythmic multiphonics. · https://webshop.donemus.com/action/front/sheetmusic?preview=1&numdon=21530"
 aliases: []
+publisher:
+  - "Donemus"
 ---
 ## Research notes (private)
+
+### Chat Batch 16 Follow-Up, October 15, 2026
+
+Hassan (2022), for alto saxophone and tape, runs about eleven minutes. Donemus D 21530 was commissioned for SAXGO 22 and dedicated to Matjaž Drevenšek. Performance notes require an unamplified saxophonist with a stereo pair of studio monitors and carefully matched loud/soft balances.
+
+[[Review 0371 - Tilen Lebar - Hassan|Evidence and pending recommendation]]
+
 
 - Duration 11 minutes; alto saxophone and tape (prepared saxophone, fixed media) · [donemus.nl](https://donemus.nl/events/tilen-lebar-hassan/)
 - Program note: whistle tone appears first in the tape then in acoustic form; natural spectral multiphonics on a prepared saxophone; very introverted dynamics · [donemus.nl](https://donemus.nl/events/tilen-lebar-hassan/)

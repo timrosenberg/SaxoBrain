@@ -6,20 +6,30 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
-year-of-study: 
+composed: 1976
+year-of-study: "Third Year"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-143134.aspx
 added: 2024-03-08
 research:
   - "Publisher Dorn Publications, catalog no. DORN0871 · https://www.grothmusic.com/p-143134.aspx"
+  - "Exact Dorn 0871 alto/piano edition. · https://www.grothmusic.com/p-143134-saxophrenia-alto-saxophone-and-piano.aspx"
+  - "First score page verifies July 1976 dedication, Presto chromatic sixteenths and portamento ad libitum. · https://grothmusic.com/images/product/large/ae00-124752.jpg"
+  - "Appendix printed 152 dates Saxophrenia 1976, alto and band or piano. · https://scispace.com/pdf/a-thematic-catalog-of-the-tuba-and-euphonium-literature-of-2dsw9vmjim.pdf"
 publisher:
   - "Dorn Publications"
   - "Molenaar"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat Batch 17 Follow-Up, October 15, 2026
+
+Dorn 0871 is alto saxophone and piano. Manuscript dedication says for Ted Hegvik, July 1976; copyright 1977 is a separate publication date. A band version exists through Molenaar; retain edition distinction rather than treating its full-band grade as the piano-version solo level.
+
+[[Review 0389 - Walter Hartley - Saxophrenia|Evidence and pending recommendation]]
+
 
 - Publisher Dorn Publications, catalog no. DORN0871 · [grothmusic.com](https://www.grothmusic.com/p-143134.aspx)
 
@@ -42,4 +52,3 @@ Catalog: [[Walter Hartley - Saxophrenia]]
 #### Catalog Details Added
 
 - Publisher: Dorn Publications, Molenaar. [Source](https://windmusic.org/index.php?lvl=notice_display&id=38697)
-

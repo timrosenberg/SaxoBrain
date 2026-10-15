@@ -7,16 +7,27 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
+year-of-study: "First Year"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-148239.aspx
 added: 2024-03-08
 research:
   - "Publisher Alphonse Leduc, catalog no. AL29593 · https://www.grothmusic.com/p-148239.aspx"
+  - "Instrumentation, duration, Cycle 2 designation and complete three-page saxophone part. · https://www.pascal-proust.fr/catalogue/bois/saxophone/saxophone-et-piano/strophes/"
+  - "Exact LeducAL29593 Strophes score sales listing. · https://www.grothmusic.com/p-148239.aspx"
 aliases: []
+publisher:
+  - "Alphonse Leduc"
 ---
 ## Research notes (private)
+
+### Chat Batch 14 Follow-Up, October 15, 2026
+
+Alto saxophone and piano; three movements; six minutes; composer classifies Cycle 2/intermediate. Score copyright 2004 is publication evidence; composed year unknown.
+
+[[Review 0276 - Pascal Proust - Strophes|Evidence and pending recommendation]]
+
 
 - Publisher Alphonse Leduc, catalog no. AL29593 · [grothmusic.com](https://www.grothmusic.com/p-148239.aspx)
 

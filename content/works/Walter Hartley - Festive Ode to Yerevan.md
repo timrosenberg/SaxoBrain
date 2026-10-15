@@ -6,19 +6,29 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
-year-of-study: 
+composed: 1998
+year-of-study: "Third Year"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-143819.aspx
 added: 2024-03-08
 research:
   - "Publisher Dorn Publications, catalog no. DORN1988; piano score and separate sax part (an alto sax with two pianos edition also exists at https://www.grothmusic.com/p-146393.aspx) · https://www.grothmusic.com/p-143819.aspx"
+  - "Exact alto/one-piano edition and separate saxophone part. · https://www.grothmusic.com/p-143819-festive-ode-to-yerevan-alto-saxophone-and-piano.aspx"
+  - "First score page verifies 1998 title, score in C, original piano-duet note, chromatic flourishes and tempo contrast. · https://grothmusic.com/images/product/large/ae00-125562.jpg"
+  - "Appendix printed 157 dates original Festive Ode 1998 for alto and piano duet. · https://scispace.com/pdf/a-thematic-catalog-of-the-tuba-and-euphonium-literature-of-2dsw9vmjim.pdf"
 publisher:
   - "Dorn Publications"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat Batch 17 Follow-Up, October 15, 2026
+
+Dorn 1988 is the alto saxophone and one-piano version. Manuscript title dates the work 1998. Printed note says originally for saxophone and piano duet, dedicated to Sasha, Olga and Elena Manoukian. The separate two-piano edition is not the same accompaniment layout. The displayed full score is in C; do not read its pitches as a transposed alto part.
+
+[[Review 0387 - Walter Hartley - Festive Ode to Yerevan|Evidence and pending recommendation]]
+
 
 - Publisher Dorn Publications, catalog no. DORN1988; piano score and separate sax part (an alto sax with two pianos edition also exists at https://www.grothmusic.com/p-146393.aspx) · [grothmusic.com](https://www.grothmusic.com/p-143819.aspx)
 
@@ -41,4 +51,3 @@ Catalog: [[Walter Hartley - Festive Ode to Yerevan]]
 #### Catalog Details Added
 
 - Publisher: Dorn Publications. [Source](https://www.walterhartley.com/Saxophone_2.htm)
-

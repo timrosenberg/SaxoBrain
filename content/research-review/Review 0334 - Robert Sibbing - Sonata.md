@@ -3,8 +3,8 @@ title: "Review 0334: Robert Sibbing - Sonata"
 added: 2026-10-11
 review-id: 334
 review-packet: 14
-review-decision: Pending
-review-applied: false
+review-decision: "Third Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Robert Sibbing - Sonata]]"
 build:
@@ -36,3 +36,32 @@ Open questions: No primary score/publisher evidence or recording credit verifica
 Searches checked:
 - Robert Sibbing Soprano Saxophone Sonata score
 - Lois Anderson Soprano Summit Robert Sibbing track credits
+
+## Chat Batch 16 Follow-Up, October 15, 2026
+
+**Proposed decision:** Retain, difficulty unknown. **Confidence:** high. **Approval:** Applied 2026-10-15.
+
+**Reason:** Ravello verifies a substantial three-movement soprano and piano sonata and professional recording. Its notes establish expressive contrasts but cannot establish technical difficulty; retain pending score access.
+
+Three movements; recording totals about 13 minutes. Paul Cohen recalls the work already written by their early-1970s meeting; exact composition year remains unknown.
+
+**Collection context:** Original concert work.
+
+**Remaining gaps:** No score preview found. Publisher site unavailable; exact purchase page unresolved. Exact composition year unknown.
+
+**Sources:** [Ravello Records, Soprano Summit](https://www.ravellorecords.com/catalog/rr8062/) · [Apple public catalog API](https://itunes.apple.com/lookup?id=1606452820&entity=song)
+
+**Metadata correction:** Verified source includes piano accompaniment missing from current tags. Previous value: ['Soprano Saxophone']. Corrected value: ['Soprano Saxophone', 'Piano'].
+
+**Recording:** [Soprano Saxophone Sonata: I. Allegro moderato; Paul Cohen & Allison Brewster Franzetti](https://music.apple.com/us/album/soprano-saxophone-sonata-i-allegro-moderato/1606452820?i=1606452832) · [Soprano Saxophone Sonata: II. Andante; Paul Cohen & Allison Brewster Franzetti](https://music.apple.com/us/album/soprano-saxophone-sonata-ii-andante/1606452820?i=1606452833) · [Soprano Saxophone Sonata: III. Allegro scherzando; Paul Cohen & Allison Brewster Franzetti](https://music.apple.com/us/album/soprano-saxophone-sonata-iii-allegro-scherzando/1606452820?i=1606452834)
+
+**Tim’s decision:** Third Year. Applied 2026-10-15.
+
+### Source Verification
+
+- [Ravello Records, Soprano Summit](https://www.ravellorecords.com/catalog/rr8062/): Tracks 7-9 credit Sibbing Sonata to Paul Cohen, soprano, and Allison Brewster Franzetti, piano; publisher To the Fore. Notes describe three contrasting movements. (opened).
+- [Apple public catalog API](https://itunes.apple.com/lookup?id=1606452820&entity=song): Exact movement titles, artist credits and individual track URLs checked; only the correct work movements are linked. (opened).
+
+## Chat Batch 16 Decision, October 15, 2026
+
+Tim assigned Third Year.

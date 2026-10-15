@@ -3,8 +3,8 @@ title: "Review 0188: Jean-Paul Rieunier - Lineal"
 added: 2026-10-11
 review-id: 188
 review-packet: 8
-review-decision: "Hold"
-review-applied: false
+review-decision: "Fourth Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Jean-Paul Rieunier - Lineal]]"
 build:
@@ -62,3 +62,33 @@ Sources checked:
 ## Chat Batch 12 Decision, 2026-10-14
 
 Tim marked the difficulty unknown. Review is on hold; the work remains unassigned.
+
+## Chat Batch 17 Follow-Up, October 15, 2026
+
+**Proposed decision:** Fourth Year. **Confidence:** medium. **Approval:** Recorded 2026-10-15.
+
+**Reason:** Inference from direct institutional placement rather than unseen notation. Faculdade de Música do Espírito Santo places Linéal in both seventh- and eighth-period bachelor saxophone study. That supports provisional Fourth Year. The score cover independently identifies the Paris Conservatoire concours origin.
+
+Linéal for alto saxophone and piano is Leduc AL 24400, score plus part. Publisher cover identifies Concours du Conservatoire National Supérieur de Musique. Official FAMES curriculum lists Linéal in seventh and eighth periods of bachelor saxophone, PDF pages 34-35. CDMC exact holding lists publication 1970 and Année 9; neither is a composition-date claim.
+
+**Collection context:** Original advanced college concert/concours work. Retain.
+
+**Remaining gaps:** Composition date, actual notation and exact streaming recording unverified.
+
+**Sources:** [Groth Music](https://www.grothmusic.com/p-141693.aspx) · [Faculdade de Música do Espírito Santo](https://fames.es.gov.br/Media/Fames/Ensino/Gerenciar%20Bacharelado%20em%20M%C3%BAsica%20-%20Habilita%C3%A7%C3%A3o%20em%20Instrumento/PROGRAMAS%20DO%20N%C3%9ACLEO%20DE%20SOPROS%20E%20PERCUSS%C3%83O.pdf) · [CDMC library catalog](https://windmusic.org/index.php?lvl=notice_display&id=5425)
+
+**Score or edition:** [Publisher cover only.](https://grothmusic.com/images/product/large/ae00-123236.jpg)
+
+**Tim’s decision:** Fourth Year. Applied 2026-10-15.
+
+### Source Verification
+
+- [Groth Music](https://www.grothmusic.com/p-141693.aspx): Exact edition and concours origin on publisher cover. (opened).
+- [Faculdade de Música do Espírito Santo](https://fames.es.gov.br/Media/Fames/Ensino/Gerenciar%20Bacharelado%20em%20M%C3%BAsica%20-%20Habilita%C3%A7%C3%A3o%20em%20Instrumento/PROGRAMAS%20DO%20N%C3%9ACLEO%20DE%20SOPROS%20E%20PERCUSS%C3%83O.pdf): Seventh/eighth-period bachelor placement, PDF pages 34-35. (opened).
+- [CDMC library catalog](https://windmusic.org/index.php?lvl=notice_display&id=5425): Exact AL 24400 holding, publication year and local curriculum classification. (opened).
+
+## Chat Batch 17 Decision, October 15, 2026
+
+Tim assigned Fourth Year.
+
+**Tim’s decision:** Fourth Year. Applied 2026-10-15.

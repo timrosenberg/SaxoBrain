@@ -6,7 +6,7 @@ review-packet: 14
 review-decision: Advanced
 review-applied: true
 notation-inspected: true
-catalog-entry: "[[Ruud Roelofsen - Fracture Iv]]"
+catalog-entry: "[[Ruud Roelofsen - Fracture IV]]"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog entry: [[Ruud Roelofsen - Fracture Iv]].
+Catalog entry: [[Ruud Roelofsen - Fracture IV]].
 
 Ruud Roelofsen’s Fracture IV (2013) is a solo for baritone saxophone, dedicated to Michael Jamieson; the Donemus preview gives duration about 6'15 and catalog D13451.
 [Donemus score and preview](https://webshop.donemus.com/action/front/sheetmusic/13451/Fracture+IV) (score_inspected): Donemus work preview identifies Fracture IV for baritone saxophone, dedicated to Michael Jamieson, and gives duration about 6'15.

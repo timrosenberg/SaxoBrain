@@ -6,21 +6,33 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
-year-of-study: 
+  - "Organ"
+composed: 1908
+year-of-study: "First Year"
 arranger-edition:
   - "Trent Kynaston"
 streaming: 
 purchase:
-  - https://www.grothmusic.com/p-144214.aspx
+  - "https://www.grothmusic.com/p-144214.aspx"
+  - "https://www.alfred.com/products/aria-opus-103a-no-3-01-adv7056"
 added: 2024-03-08
 research:
   - "Aria Op. 103a, No. 3; transcribed by Trent Kynaston; publisher Advance Music, catalog no. ADV7056; from Reger's Suite in A Minor, Op. 103a · https://www.grothmusic.com/p-144214.aspx"
+  - "Identity, transcription and accompaniment. · https://www.alfred.com/products/aria-opus-103a-no-3-01-adv7056"
+  - "Opening notation and copyright. · https://content.alfred.com/catpages/01-ADV7056.pdf"
+  - "Source Suite Op.103a dates to 1908. · https://www.max-reger-institut.de/de/startseite/news-archiv/308-max-reger-festival-in-moskau"
 publisher:
   - "Advance Music"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat Batch 14 Follow-Up, October 15, 2026
+
+Advance Music 7056 is Trent Kynaston’s alto saxophone transcription of the Aria from Reger’s Suite in A minor, Op.103a. Piano or organ accompaniment is specified. Publisher sample has 2002 Advance Music copyright, which does not establish Reger composition year. Max-Reger-Institut dates the source Suite Op.103a to 1908; 2002 is the transcription copyright.
+
+[[Review 0260 - Max Reger - Aria|Evidence and pending recommendation]]
+
 
 - Aria Op. 103a, No. 3; transcribed by Trent Kynaston; publisher Advance Music, catalog no. ADV7056; from Reger's Suite in A Minor, Op. 103a · [grothmusic.com](https://www.grothmusic.com/p-144214.aspx)
 

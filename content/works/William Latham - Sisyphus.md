@@ -8,15 +8,27 @@ instruments:
   - "Orchestra"
   - "Piano"
 composed: 
-year-of-study: 
+year-of-study: "Second Year"
 streaming: 
-purchase: []
+purchase:
+  - "https://www.billaudot.com/sisyphus-1971-3.html"
 added: 2025-04-16
 research:
   - "Billaudot edition MRB1412 listed on Boosey & Hawkes as 'Sisyphus 1971' for saxophone Mi b (E-flat) and piano; the catalog entry also lists Orchestra, check which version · https://boosey.com/shop/prod/Latham-William-P-Sisyphus-1971/2293157"
+  - "Exact MRB1412, piano scoring, 18 pages and copyright 1971. · https://www.billaudot.com/sisyphus-1971-3.html"
+  - "Appendix printed 87/86: exact Sisyphus and Lunde/Heiden comparative placements. · https://digital.library.unt.edu/ark:/67531/metadc4959/m2/1/high_res_d/dissertation.pdf"
 aliases: []
+publisher:
+  - "Éditions Billaudot"
 ---
 ## Research notes (private)
+
+### Chat Batch 17 Follow-Up, October 15, 2026
+
+Billaudot MRB1412, Sisyphus 1971 for E-flat saxophone and piano, 18 pages, copyright 1971. Kallestad’s 2005 appendix printed 87 lists exact work sophomore, two lists; Lunde sophomore, nine lists; Heiden sophomore, thirteen lists. The current catalog Orchestra instrument remains unverified. Exact publisher product is saxophone/piano. 1971 occurs in the title and copyright field; independent composition date is not yet established.
+
+[[Review 0396 - William Latham - Sisyphus|Evidence and pending recommendation]]
+
 
 - Billaudot edition MRB1412 listed on Boosey & Hawkes as 'Sisyphus 1971' for saxophone Mi b (E-flat) and piano; the catalog entry also lists Orchestra, check which version · [boosey.com](https://boosey.com/shop/prod/Latham-William-P-Sisyphus-1971/2293157)
 
@@ -34,4 +46,3 @@ Catalog: [[William Latham - Sisyphus]]
 - Older reference describes Sisyphus 1971 as alto saxophone and piano. [Encyclopedia.com reference](https://www.encyclopedia.com/arts/dictionaries-thesauruses-pictures-and-press-releases/latham-william-peters) (search_index_only).
 - Collection/use: Published alto saxophone/piano work; orchestral version has not been verified.
 - Gaps: No score or recording located; determine whether an orchestral version exists and how it relates to MRB1412.
-

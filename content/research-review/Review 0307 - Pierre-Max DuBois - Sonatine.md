@@ -3,8 +3,8 @@ title: "Review 0307: Pierre-Max DuBois - Sonatine"
 added: 2026-10-11
 review-id: 307
 review-packet: 13
-review-decision: Pending
-review-applied: false
+review-decision: "Second Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Pierre-Max DuBois - Sonatine]]"
 build:
@@ -32,3 +32,34 @@ Catalog: [[Pierre-Max DuBois - Sonatine]]
 - Review focus: Inference: a conservatory library’s duration and contest note make formal pacing relevant; the distinct second sonatina is a separate work.
 - Gaps: No score or recording inspected; verify date and dedication against Leduc's primary score page if available.
 - Proposed correction: Retain 1966 for Sonatine AL23742 from the conservatory library list. Keep 1968 attached to the distinct Deuxième Sonatine AL23963.
+
+## Chat Batch 15 Follow-Up, October 15, 2026
+
+**Proposed decision:** Second Year. **Confidence:** medium. **Approval:** Applied 2026-10-15.
+
+**Reason:** Inference from publisher-documented complex rhythms, flourishing semiquavers, chromaticism and ensemble work, plus the documented recitative/Allegro vivo and Prestissimo finale: Second Year is a practical provisional fit near the Heiden/Lunde anchors. No score-derived range claim is made.
+
+Sonatine/Sonatina for alto saxophone and piano, Leduc AL 23742; about 8 minutes; distinct from Deuxième Sonatine AL 23963. Specialist retailer identifies François Daneels dedication, Brussels Royal Conservatory competition context and three movements: Allegro vivo, Andante, Allegretto/Prestissimo. Antwerp lists 1966 publication; publisher description says 1968 publication. Neither proves composition date.
+
+**Collection context:** Original competition sonatina; retain separately from Deuxième Sonatine.
+
+**Remaining gaps:** No notation inspected. Composition date unverified; do not treat 1966 or 1968 publication as composed year.
+
+**Sources:** [Hal Leonard / Alphonse Leduc product page](https://www.halleonard.com/product/48182486/sonatina-for-alto-saxophone-and-piano) · [Van Cott specialist saxophone catalog](https://vcisinc.com/saxophonemusic.htm) · [Royal Conservatoire Antwerp library catalog](https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf) · [Spotify exact track](https://open.spotify.com/track/0DbdwLRArUdM1Ol0G1PYse)
+
+**Score or edition:** [Publisher CloserLook tested; reports preview unavailable.](https://www.halleonard.com/product/48182486/sonatina-for-alto-saxophone-and-piano)
+
+**Recording:** [Sonatine I. Lent-Allegro vivo, Sándor Rigó and Christina Leeb-Grill.](https://open.spotify.com/track/0DbdwLRArUdM1Ol0G1PYse) · [Sonatine II.Andante, same album.](https://open.spotify.com/track/2Xfpfa58xN8LHw92ofZCP3) · [Sonatine III.Allegretto, same album.](https://open.spotify.com/track/2NuRNhmYl1ZR6OXUsuOiEj)
+
+**Tim’s decision:** Second Year. Applied 2026-10-15.
+
+### Source Verification
+
+- [Hal Leonard / Alphonse Leduc product page](https://www.halleonard.com/product/48182486/sonatina-for-alto-saxophone-and-piano): Exact AL23742 edition, eight-minute span and stated complex rhythms, semiquavers, varied articulation, chromaticism and ensemble demands. (opened).
+- [Van Cott specialist saxophone catalog](https://vcisinc.com/saxophonemusic.htm): Daneels dedication, competition context, movement sequence and recitative introduction. (opened).
+- [Royal Conservatoire Antwerp library catalog](https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf): Sonatine1966edition and Daneels dedication; this date is publication rather than an explicit composition field. (opened).
+- [Spotify exact track](https://open.spotify.com/track/0DbdwLRArUdM1Ol0G1PYse): Exact first movement recording from the matching three-movement Sonatine album grouping. (opened).
+
+## Chat Batch 15 Decision, October 15, 2026
+
+Tim assigned Second Year.

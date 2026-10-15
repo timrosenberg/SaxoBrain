@@ -6,18 +6,31 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
-year-of-study: 
-streaming: 
+composed: 1966
+year-of-study: "Fourth Year"
+streaming: "https://soundcloud.com/randall-snyder-579762769/sonata-for-alto-saxophone-and"
 purchase:
-  - https://www.grothmusic.com/p-38108.aspx
+  - "https://www.grothmusic.com/p-38108.aspx"
   - "https://www.grothmusic.com/p-38108-sonata-alto-sax-and-piano.aspx"
+  - "https://www.presser.com/494-00057-sonata.html"
 added: 2025-04-16
 research:
   - "Publisher Tenuto, catalog no. 49400057 · https://www.grothmusic.com/p-38108.aspx"
+  - "Exact sonata, scoring, publisher and edition format. · https://www.presser.com/494-00057-sonata.html"
+  - "Tenuto 49400057 retail listing. · https://www.grothmusic.com/p-38108.aspx"
+  - "Composer identifies original composition in 1966, slight revision in 2005 and exact recorded performers. · https://soundcloud.com/randall-snyder-579762769/sonata-for-alto-saxophone-and"
 aliases: []
+publisher:
+  - "Tritone Press & Tenuto Publications"
 ---
 ## Research notes (private)
+
+### Chat Batch 16 Follow-Up, October 15, 2026
+
+Official publisher identifies Sonata for alto saxophone and piano by Randall Snyder, SKU 494-00057. Published by Tritone Press & Tenuto Publications, made available from the composer’s original edition as score and parts. The two existing Groth purchase entries repeat the same edition. Composer’s recording notes date the sonata to 1966, with slight revision in 2005. Composer-hosted recording credits Paul Haar, alto saxophone, and Christy Zuniga, piano. Composer describes three motivically related movements: sonata form with passacaglia conclusion, arch-form slow movement, and finale combining rondo and variation features.
+
+[[Review 0315 - Randall Snyder - Sonata|Evidence and pending recommendation]]
+
 
 - Publisher Tenuto, catalog no. 49400057 · [grothmusic.com](https://www.grothmusic.com/p-38108.aspx)
 

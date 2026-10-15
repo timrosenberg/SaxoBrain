@@ -61,3 +61,34 @@ Sources checked:
 ## Chat Batch 10 Decision, 2026-10-14
 
 Tim marked the difficulty unknown. Review is on hold; the work remains unassigned.
+
+## Chat Batch 17 Follow-Up, October 15, 2026
+
+**Proposed decision:** Retain, difficulty unknown. **Confidence:** high. **Approval:** Recorded 2026-10-15.
+
+**Reason:** Retain the original concerto and recital reduction. Primary cover and the musicians’ union’s memorial verify identity, original string scoring and a professional recording. Neither the concerto genre nor its professional performer determines difficulty; no actual notation was located.
+
+Concerto is originally for alto saxophone and string orchestra. General Music Publishing GEN 823 is a recital version with piano reduction. American Federation of Musicians Local 802 documents that Harvey Estrin recorded this concerto, which was written for him.
+
+**Collection context:** Original string-orchestra concerto with recital piano reduction. Retain.
+
+**Remaining gaps:** No notation, verified composition date, credited piano reducer or direct recording player located.
+
+**Sources:** [Groth Music](https://www.grothmusic.com/p-37714.aspx) · [American Federation of Musicians Local 802](https://www.local802afm.org/allegro/articles/requiem-24/)
+
+**Score or edition:** [Publisher cover: original string orchestra and recital piano reduction; no notation.](https://grothmusic.com/images/product/large/ae00-23446.jpg)
+
+**Recording:** [Institutional documentation of Harvey Estrin’s exact Farberman concerto recording.](https://www.local802afm.org/allegro/articles/requiem-24/)
+
+**Tim’s decision:** Hold. Recorded 2026-10-15.
+
+### Source Verification
+
+- [Groth Music](https://www.grothmusic.com/p-37714.aspx): Exact edition and original scoring visible on publisher cover. (opened).
+- [American Federation of Musicians Local 802](https://www.local802afm.org/allegro/articles/requiem-24/): Harvey Estrin recorded Farberman’s Concerto for Alto Saxophone and String Orchestra, written for him. (opened).
+
+## Chat Batch 17 Decision, October 15, 2026
+
+Tim retained the work with difficulty unknown. The catalog level remains unassigned.
+
+**Tim’s decision:** Hold. Recorded 2026-10-15.

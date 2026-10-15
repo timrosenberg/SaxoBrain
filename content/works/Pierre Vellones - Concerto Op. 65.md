@@ -7,15 +7,28 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 1934
-year-of-study: 
+year-of-study: "Third Year"
 streaming: 
-purchase: []
+purchase:
+  - "https://www.sheetmusicplus.com/en/product/concerto-op-65-2191586.html"
 added: 2024-03-08
 research:
   - "Concerto for alto saxophone and orchestra, Op. 65; Marcel Mule gave a first performance of a complete concerto on 16 November 1935, described as this work; Henry Lemoine handles performance material (the source does not label it explicitly as the premiere) · https://repertoire-explorer.musikmph.de/prefaces/4559.html"
+  - "Work date and technical/formal analysis. · https://repertoire-explorer.musikmph.de/prefaces/4559.html?x=1"
+  - "Reduction scoring, publisher and extent. · https://www.sheetmusicplus.com/en/product/concerto-op-65-2191586.html"
+  - "Public piano-reduction sample notation. · https://www.img-music.com/links/pdf/0001019846.pdf"
 aliases: []
+publisher:
+  - "Henry Lemoine"
 ---
 ## Research notes (private)
+
+### Chat Batch 15 Follow-Up, October 15, 2026
+
+Höflich’s publisher preface dates the concerto1934 and identifies alto saxophone and orchestra. Lemoine23950 is the alto saxophone/piano reduction, score44 pages plus11-page part.
+
+[[Review 0294 - Pierre Vellones - Concerto Op. 65|Evidence and pending recommendation]]
+
 
 - Concerto for alto saxophone and orchestra, Op. 65; Marcel Mule gave a first performance of a complete concerto on 16 November 1935, described as this work; Henry Lemoine handles performance material (the source does not label it explicitly as the premiere) · [repertoire-explorer.musikmph.de](https://repertoire-explorer.musikmph.de/prefaces/4559.html)
 

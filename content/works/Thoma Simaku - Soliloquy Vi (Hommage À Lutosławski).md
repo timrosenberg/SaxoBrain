@@ -7,8 +7,8 @@ instruments:
   - "Soprano Saxophone"
   - "Unaccompanied"
 composed: 2013
-year-of-study: 
-streaming: 
+year-of-study: "Advanced"
+streaming: "https://www.youtube.com/watch?v=snVba1PySus"
 purchase: []
 library-recording:
   - "https://search.alexanderstreet.com/lti/view/work/bibliographic_entity|score|2439783"
@@ -17,9 +17,20 @@ research:
   - "Written for Anders Paulsson as part of the Solitary Poems soprano saxophone project; premiered 20 Nov 2021, Kungsholm Church, Stockholm · https://www.uymp.co.uk/news/2023-11-04-simakus-soliloquy-vi-released-on-bis"
   - "Composer's note: concentrates on the expressive qualities of the 'singing saxophone', with virtuosic passages across the instrument's range · https://www.uymp.co.uk/news/2023-11-04-simakus-soliloquy-vi-released-on-bis"
   - "Recorded on BIS2644 (Anders Paulsson, Solitary Poems); US premiere by Eric Troiano, Ithaca College, April 2023 · https://www.ithaca.edu/intercom/2023-04-11-composer-thomas-simaku-residence-week-lectures-and-works-will-be-featured-wednesday-concert-whalen-center"
+  - "Composer analyzes the saxophone solo within his highly virtuosic Soliloquy cycle and cites Paulsson’s exact video. · https://www.cambridge.org/core/journals/tempo/article/thinking-aloud-the-soliloquy-cycle/808411DF51043AECBDD472FA4491A690"
+  - "Performer identifies Soliloquy VI, Uppsala Cathedral recording, filmmaker Markus Heggestad and UYMP score availability. · https://www.anderspaulsson.se/solitary-poems-for-soprano-saxophone"
 aliases: []
+publisher:
+  - "University of York Music Press"
 ---
 ## Research notes (private)
+
+### Chat Batch 16 Follow-Up, October 15, 2026
+
+Unaccompanied soprano work performed by Anders Paulsson in the Solitary Poems project; recording available in Uppsala Cathedral. University of York Music Press edition YKM 570369928 is four pages, published 2022. Date conflict:2019 Tempo scholarship identifies Soliloquy VI as 2013, while the composer’s 2024 account describes the resulting piece as written for the pandemic project. Existing 2013 is preserved pending clarification.
+
+[[Review 0369 - Thoma Simaku - Soliloquy Vi (Hommage À Lutosławski)|Evidence and pending recommendation]]
+
 
 - Written for Anders Paulsson as part of the Solitary Poems soprano saxophone project; premiered 20 Nov 2021, Kungsholm Church, Stockholm · [uymp.co.uk](https://www.uymp.co.uk/news/2023-11-04-simakus-soliloquy-vi-released-on-bis)
 - Composer's note: concentrates on the expressive qualities of the 'singing saxophone', with virtuosic passages across the instrument's range · [uymp.co.uk](https://www.uymp.co.uk/news/2023-11-04-simakus-soliloquy-vi-released-on-bis)

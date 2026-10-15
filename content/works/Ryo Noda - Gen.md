@@ -7,17 +7,29 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
+year-of-study: "Fourth Year"
 streaming: 
 purchase:
   - "https://www.grothmusic.com/p-38005.aspx"
 added: 2024-03-08
 research:
   - "Groth lists it as 'Gen Concerto - Alto Sax and Piano', Alphonse Leduc AL27329 · https://www.grothmusic.com/p-38005.aspx"
+  - "Orchestral original, alto solo, 15 minutes. · https://www.wisemusicclassical.com/work/51441/Gen---Concerto-for-Alto-Saxophone--Ryo-Noda/"
+  - "Gen appears in same group as Desenclos Prélude, Cadence et Finale. · https://fr.scribd.com/document/981701217/Applied-Saxophone-Lesson-Packet"
+  - "Exact alto/piano Leduc product and AL27329. · https://www.halleonard.com/product/48184348/gen-saxophone-alto-piano"
 arranger-edition: "Ryo Noda"
 aliases: []
+publisher:
+  - "Alphonse Leduc"
 ---
 ## Research notes (private)
+
+### Chat Batch 16 Follow-Up, October 15, 2026
+
+Leduc AL27329 is the composer piano transcription of the alto concerto. 10 ans guide describes approximately18 minutes and altissimo E-flat; Wise orchestral page gives15 minutes for orchestral form. Lesson-packet mirror lists Gen in the group containing Desenclos.
+
+[[Review 0351 - Ryo Noda - Gen|Evidence and pending recommendation]]
+
 
 - Groth lists it as 'Gen Concerto - Alto Sax and Piano', Alphonse Leduc AL27329 · [grothmusic.com](https://www.grothmusic.com/p-38005.aspx)
 

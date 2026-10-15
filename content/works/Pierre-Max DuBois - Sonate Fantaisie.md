@@ -6,17 +6,31 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
-year-of-study: 
+composed: 1979
+year-of-study: "Second Year"
 streaming: 
 purchase:
-  - https://www.grothmusic.com/p-142878.aspx
+  - "https://www.grothmusic.com/p-142878.aspx"
+  - "https://www.billaudot.com/sonate-fantaisie-3.html"
 added: 2024-03-08
 research:
   - "Three movements: I. Ave souplesse et lyrisme, II. Incantatoire, III. Serenade; dedicated 'For George Gourdet'; publisher Billaudot, catalog no. GB3038 · https://www.grothmusic.com/p-142878.aspx"
+  - "Exact edition, scoring and13:30duration. · https://www.billaudot.com/sonate-fantaisie-3.html"
+  - "Explicit1979composition, separate1980publication, Georges Gourdet dedication. · https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf"
+  - "Three movement characters and technical focus, printed p64. · https://pdfcoffee.com/10-ans-avec-le-saxophonepdf-pdf-free.html"
+  - "Same repertoire bracket as Tcherepnin Sonatine Sportive and Heiden Sonata, PDFp16. · https://conservatorio-viseu.org/wp-content/uploads/2024/07/Criterios-de-Avaliacao-e-Planificacoes-%E2%80%93-Saxofone.pdf"
 aliases: []
+publisher:
+  - "Éditions Billaudot"
 ---
 ## Research notes (private)
+
+### Chat Batch 15 Follow-Up, October 15, 2026
+
+Alto saxophone and piano, Billaudot GB 3038,13:30. Antwerp catalog explicitly identifies 1979 as composition year,1980 as publication; dedicated to Georges Gourdet. Guide headings: Avec souplesse et lyrisme; Incantatoire, modéré molto rubato, begins with cadenza; Sérénade, molto vivace, staccato.
+
+[[Review 0306 - Pierre-Max DuBois - Sonate Fantaisie|Evidence and pending recommendation]]
+
 
 - Three movements: I. Ave souplesse et lyrisme, II. Incantatoire, III. Serenade; dedicated 'For George Gourdet'; publisher Billaudot, catalog no. GB3038 · [grothmusic.com](https://www.grothmusic.com/p-142878.aspx)
 

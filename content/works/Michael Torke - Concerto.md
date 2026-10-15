@@ -6,17 +6,30 @@ composer:
 instruments:
   - "Soprano Saxophone"
   - "Orchestra"
+  - "Piano"
 composed: 1993
-year-of-study: 
-streaming: 
+year-of-study: "Fourth Year"
+streaming: "https://classical.music.apple.com/ca/recording/michael-torke-1961-pp70-1452384939"
 purchase:
-  - https://www.grothmusic.com/p-37451.aspx
+  - "https://www.grothmusic.com/p-37451.aspx"
+  - "https://billholabmusic.com/product/saxophone-concerto/"
 added: 2025-04-21
 research:
   - "Concerto for Soprano Sax and Piano; publisher Adjustable, catalog no. ADJUST02 · https://www.grothmusic.com/p-37451.aspx"
+  - "Year, scoring,18-minute duration,premiere,versions and movement-specific musical description. · https://www.michaeltorke.com/saxophone-concerto"
+  - "Piano reduction/part and study-score sale; orchestral/band rental. · https://billholabmusic.com/product/saxophone-concerto/"
+  - "Torke Concerto appears in graduate saxophone audition suggestions. · https://arts.psu.edu/how-to-apply/music-admission-information/graduate-audition-requirements"
+  - "Exact Saxophone Concerto recording credits John Harle,soprano; Albany Symphony; David Alan Miller. · https://classical.music.apple.com/ca/recording/michael-torke-1961-pp70-1452384939"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat Batch 14 Follow-Up, October 15, 2026
+
+1993; soprano saxophone and orchestra; three movements; 18 minutes; band version and piano reduction exist. Composer documents flowing sixteenth-note decorations and a long, plaintive second-movement melody. Penn State lists Torke Concerto among suggested graduate saxophone audition works. Bill Holab sells piano reduction/solo part and study-score versions; orchestral/band performance material rented.
+
+[[Review 0268 - Michael Torke - Concerto|Evidence and pending recommendation]]
+
 
 - Concerto for Soprano Sax and Piano; publisher Adjustable, catalog no. ADJUST02 · [grothmusic.com](https://www.grothmusic.com/p-37451.aspx)
 

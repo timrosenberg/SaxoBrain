@@ -5,19 +5,31 @@ composer:
   - "[[Ronald Caravan]]"
 instruments:
   - "Soprano Saxophone"
+  - "Piano"
 composed: 1984
-year-of-study: 
-streaming: 
+year-of-study: "First Year"
+streaming: "https://music.apple.com/us/album/soprano-saxophone-sonata-i-prologue/1182417172?i=1182417661"
 purchase:
-  - https://www.grothmusic.com/p-37410.aspx
+  - "https://www.grothmusic.com/p-37410.aspx"
+  - "https://ethospublications.com/ecc_eps/music-for-saxophone/soprano-saxophone-solos/sonata-for-soprano-saxophone-piano-ronald-l-caravan/"
 added: 2025-04-18
 research:
   - "Publisher Ethos, catalog no. ET070209 · https://www.grothmusic.com/p-37410.aspx"
+  - "Four movements in a Dorian approach; moderate difficulty, appropriate for advanced students; approximately twelve minutes; composed 1984. Publisher names recordings by Jacob Swanson and Ronald Caravan. · https://ethospublications.com/ecc_eps/music-for-saxophone/soprano-saxophone-solos/sonata-for-soprano-saxophone-piano-ronald-l-caravan/"
+  - "Album lists four Caravan soprano sonata movements, total12:18, Ronald L.Caravan and Sar-Shalom Strong. · https://classical.music.apple.com/us/album/1182417172"
+  - "Exact movement titles, artist credits and individual track URLs checked; only the correct work movements are linked. · https://itunes.apple.com/lookup?id=1182417172&entity=song"
 publisher:
   - "Ethos Publications"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat Batch 16 Follow-Up, October 15, 2026
+
+Piano accompaniment missing from current instrument tags.
+
+[[Review 0344 - Ronald Caravan - Sonata|Evidence and pending recommendation]]
+
 
 - Publisher Ethos, catalog no. ET070209 · [grothmusic.com](https://www.grothmusic.com/p-37410.aspx)
 

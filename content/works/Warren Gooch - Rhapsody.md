@@ -6,17 +6,29 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
-year-of-study: 
+composed: 2003
+year-of-study: "Third Year"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-142802.aspx
 added: 2024-03-08
 research:
   - "Publisher Dorn Publications, catalog no. DORN1362 · https://www.grothmusic.com/p-142802.aspx"
+  - "Exact Dorn 1362 alto/piano score. · https://www.grothmusic.com/p-142802-rhapsody-alto-saxophone-and-piano.aspx"
+  - "First score page shows quarter note = 120, changing meters, rapid chromatic ornamentation and irregular subdivisions. · https://grothmusic.com/images/product/large/ae00-124442.jpg"
+  - "Printed program page 13: composer note establishes 2003 creation, dedicatees/premiere and five-section structure. · https://www.music.org/pdf/conf/reg/ProgramShell.pdf"
 aliases: []
+publisher:
+  - "Dorn Publications"
 ---
 ## Research notes (private)
+
+### Chat Batch 17 Follow-Up, October 15, 2026
+
+Dorn 1362 for alto saxophone and piano. Composer-attributed College Music Society program note states composed 2003 for Randall Smith and Patrice Ewoldt, who premiered it at the World Saxophone Congress in Minneapolis. One continuous work in five sections: Marcato, dialogue-like cadenza, Cantabile, perpetual motion and energetic scherzo with opening return. Score copyright 2004 is publication data.
+
+[[Review 0391 - Warren Gooch - Rhapsody|Evidence and pending recommendation]]
+
 
 - Publisher Dorn Publications, catalog no. DORN1362 · [grothmusic.com](https://www.grothmusic.com/p-142802.aspx)
 
@@ -34,4 +46,3 @@ Catalog: [[Warren Gooch - Rhapsody]]
 - Collection/use: Commissioned for named performers and programmed at a saxophone festival; no score observed.
 - Review focus: Inference: the extended cadenza and succession of contrasting sections focus review on pacing, formal continuity, and saxophone-piano dialogue.
 - Gaps: No notation inspected and no recording playback auditioned.
-

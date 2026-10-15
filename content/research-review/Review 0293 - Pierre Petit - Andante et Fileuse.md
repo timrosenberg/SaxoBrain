@@ -3,10 +3,10 @@ title: "Review 0293: Pierre Petit - Andante et Fileuse"
 added: 2026-10-11
 review-id: 293
 review-packet: 12
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Pierre Petit - Andante et Fileuse]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [Pierre Petit - Andante et Fileuse.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Pierre Petit - Andante et Fileuse.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0293.json).
+Catalog: removed at Tim’s request on October 15, 2026.
 
 **Identity and findings.** Wind Music’s institutional catalog identifies Pierre Petit’s Andante et fileuse for alto saxophone in E-flat and piano, published by Leduc in 1959 as AL22805. The record gives an extent of 5+12 pages but does not specify which page count belongs to the piano score versus the saxophone part.
 
@@ -42,3 +42,29 @@ Catalog: [Pierre Petit - Andante et Fileuse.md](/Users/trosenberg/Documents/GitH
 - The catalog’s 5+12-page extent does not identify which extent is the score and which is the saxophone part; verify from the physical or previewed edition.
 
 **Tim decision:** pending.
+
+## Chat Batch 15 Follow-Up, October 15, 2026
+
+**Proposed decision:** First Year. **Confidence:** low. **Approval:** Applied 2026-10-15.
+
+**Reason:** A Lisbon conservatory-pedagogy master’s study offers Petit among sixth-grade repertoire survey candidates alongside Tcherepnin Sonatine Sportive. A historic French examination list calls it pré-supérieur. First Year follows the user’s Tcherepnin anchor, provisionally, without implying a direct numerical equivalence.
+
+Hal Leonard confirms Pierre Petit, alto saxophone and piano, Leduc AL22805.
+
+**Collection context:** Original work, retained; distinguish from Fernande Decruck’s different work with the same title.
+
+**Remaining gaps:** No notation inspected; Hal Leonard closer-look endpoint returned no sample. 1959 edition year does not establish composition year.
+
+**Sources:** [Hal Leonard / Alphonse Leduc](https://www.halleonard.com/product/48182007/andante-et-fileuse-saxophone-alto-piano?searchcategory=11&whatsnew=90) · [Hélder Filipe Costa Alves,2015 music-teaching master’s report, Instituto Politécnico de Lisboa](https://repositorio.ipl.pt/bitstream/10400.21/8761/1/tese1.pdf) · [Confédération Musicale de France examination repertoire archive](https://cmf-archives.bibliossimo.net/files/original/4646ebc22546f93e4c8ab38600b7c844fbf14a40.pdf)
+
+**Tim’s decision:** Removed. Applied 2026-10-15.
+
+### Source Verification
+
+- [Hal Leonard / Alphonse Leduc](https://www.halleonard.com/product/48182007/andante-et-fileuse-saxophone-alto-piano?searchcategory=11&whatsnew=90): Composer, publisher and edition. (opened).
+- [Hélder Filipe Costa Alves,2015 music-teaching master’s report, Instituto Politécnico de Lisboa](https://repositorio.ipl.pt/bitstream/10400.21/8761/1/tese1.pdf): Sixth-grade candidate repertoire includes Petit and Tcherepnin Sportive, printedp96; this is a survey option, not a verified adoption. (opened).
+- [Confédération Musicale de France examination repertoire archive](https://cmf-archives.bibliossimo.net/files/original/4646ebc22546f93e4c8ab38600b7c844fbf14a40.pdf): Historic French examination list places Petit at pré-supérieur, PDFp25. (opened).
+
+## Chat Batch 15 Decision, October 15, 2026
+
+Tim requested removal from the catalog. Original metadata and research are retained privately.

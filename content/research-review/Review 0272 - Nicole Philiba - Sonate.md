@@ -3,8 +3,8 @@ title: "Review 0272: Nicole Philiba - Sonate"
 added: 2026-10-11
 review-id: 272
 review-packet: 11
-review-decision: Pending
-review-applied: false
+review-decision: "Third Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Nicole Philiba - Sonate]]"
 build:
@@ -40,3 +40,29 @@ Searches checked:
 - Nicole Philiba Sonate saxophone piano
 - Opened Éditions Billaudot product page MRB1140; checked instrumentation, series, difficulty label, and PDF availability
 - No downloadable preview was available on the opened publisher page
+
+## Chat Batch 14 Follow-Up, October 15, 2026
+
+**Proposed decision:** Retain, difficulty unknown. **Confidence:** low. **Approval:** Applied 2026-10-15.
+
+**Reason:** Publisher Cycle3/difficult classification supports retention. No accessible notation or work-specific demands justify mapping that French label to Tim's college years.
+
+Nicole Philiba Sonate for E-flat saxophone and piano, Billaudot MRB1140, L’Enseignement moderne du saxophone. Publisher labels Difficile(cycle3); product data reports no PDF preview.
+
+**Collection context:** Original sonata in teaching series; retain. No elementary mismatch established.
+
+**Remaining gaps:** Composition year unknown. Publisher webpage datePublished1896 is not established as the work’s composition year and was excluded. No notation preview, recording or calibrated musical-demand documentation verified.
+
+**Sources:** [Éditions Billaudot exact product page](https://www.billaudot.com/sonate-saxophone-et-piano-3.html)
+
+**Score or edition:** [Publisher listing; no PDF sample supplied.](https://www.billaudot.com/sonate-saxophone-et-piano-3.html)
+
+**Tim’s decision:** Third Year. Applied 2026-10-15.
+
+### Source Verification
+
+- [Éditions Billaudot exact product page](https://www.billaudot.com/sonate-saxophone-et-piano-3.html): Composer, scoring, series, exact edition, Cycle3/difficult classification and hasPdfFile=false. (opened).
+
+## Chat Batch 14 Decision, October 15, 2026
+
+Tim assigned Third Year.

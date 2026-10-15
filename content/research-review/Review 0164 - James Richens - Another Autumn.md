@@ -3,10 +3,10 @@ title: "Review 0164: James Richens - Another Autumn"
 added: 2026-10-11
 review-id: 164
 review-packet: 7
-review-decision: "Hold"
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: true
-catalog-entry: "[[James Richens - Another Autumn]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [[James Richens - Another Autumn]]
+Catalog: removed at Tim’s request on October 15, 2026.
 
 - Identity: James Richens, Another Autumn, for alto saxophone with band; a piano-accompaniment edition is also catalogued as Dorn DORN0190. A 1976 Billboard report identifies the work as an eight-minute commission for the Bicentennial Band and soloist Al Chochran, premiered in Toronto.
 - Billboard’s contemporary report identifies the band-and-soloist scoring, commission, premiere, approximate duration, and soloist. [Billboard](https://www.worldradiohistory.com/Archive-All-Music/Billboard/70s/1976/Billboard%201976-10-02.pdf) (search_index_only).
@@ -49,3 +49,35 @@ Sources checked:
 ## Chat Batch 11 Decision, 2026-10-14
 
 Tim marked the difficulty unknown. Review is on hold; the work remains unassigned.
+
+## Chat Batch 17 Follow-Up, October 15, 2026
+
+**Proposed decision:** Retain, difficulty unknown. **Confidence:** high. **Approval:** Recorded 2026-10-15.
+
+**Reason:** Retain this original concert solo and piano version. The inspected page contains only piano introduction under a resting solo cue. It cannot establish saxophone demands. A substantial professional commission confirms scope but does not justify choosing a college year.
+
+Dorn DORN 0190 is for alto saxophone and piano; sample dedication reads Alfred Cochran. The score sample bears copyright 1987, not a composition date. Billboard on October 2,1976 reports an eight-minute work commissioned by the United States Armed Forces Bicentennial Band and premiered at the Canadian National Exposition, Toronto, by its saxophone soloist. The historical report spells the soloist Al Chochran; retain the score’s Alfred Cochran spelling when citing its dedication.
+
+**Score observations:** Piano introduction inspected: Moderato, quarter =72, chromatic harmonies and varied meter. Saxophone cue staff rests throughout. No solo range, articulation, technique or difficulty can be inferred.
+
+**Collection context:** Original solo commissioned with band; piano edition retained. Professional commission establishes scope, not level.
+
+**Remaining gaps:** Sounding solo notation, exact composition year, pianist/reducer credit and direct recording player unknown.
+
+**Sources:** [Groth Music](https://www.grothmusic.com/p-146052.aspx) · [Publisher preview via Groth Music](https://grothmusic.com/images/product/large/ae00-126911.jpg) · [Billboard, October 2,1976](https://www.worldradiohistory.com/Archive-All-Music/Billboard/70s/1976/Billboard%201976-10-02.pdf)
+
+**Score or edition:** [Piano introduction with resting saxophone cue only.](https://grothmusic.com/images/product/large/ae00-126911.jpg)
+
+**Tim’s decision:** Removed. Applied 2026-10-15.
+
+### Source Verification
+
+- [Groth Music](https://www.grothmusic.com/p-146052.aspx): Exact alto/piano edition DORN 0190. (opened).
+- [Publisher preview via Groth Music](https://grothmusic.com/images/product/large/ae00-126911.jpg): Piano introduction, dedication and copyright 1987; no sounding saxophone notation. (opened).
+- [Billboard, October 2,1976](https://www.worldradiohistory.com/Archive-All-Music/Billboard/70s/1976/Billboard%201976-10-02.pdf): Band commission and 1976 premiere report, PDF page 122. (opened).
+
+## Chat Batch 17 Decision, October 15, 2026
+
+Tim requested removal from the catalog. Original metadata and research are retained privately.
+
+**Tim’s decision:** Removed. Applied 2026-10-15.

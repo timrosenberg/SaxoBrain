@@ -6,21 +6,36 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
+  - "Soprano Saxophone"
+  - "Baritone Saxophone"
+  - "Orchestra"
 composed: 1977
-year-of-study: 
+year-of-study: "Fourth Year"
 streaming: 
 purchase:
-  - https://www.grothmusic.com/p-38104.aspx
+  - "https://www.grothmusic.com/p-38104.aspx"
+  - "https://www.schott-music.com/en/ricercari-notturni-no138077.html"
 added: 2024-03-08
 research:
   - "POLMIC lists Ricercari notturni for saxophone or clarinet and orchestra (1977) · https://polmic.pl/en/encyclopedia/subject-entries/s/skrowaczewski-stanislaw-en"
   - "Prabook biography dates it 1978 and notes 3rd prize, Kennedy Center Friedheim Competition · https://prabook.com/web/stanislaw.skrowaczewski/238364"
   - "Schott edition listed for alto saxophone and piano · https://www.musicarts.com/schott-ricerari-notturni-schott-series-main0325798"
+  - "Exact piano-reduction EA432 sales page. · https://www.schott-music.com/en/ricercari-notturni-no138077.html"
+  - "1977, 27 minutes, orchestral original and linked EA432 reduction. · https://www.schott-music.com/en/ricercari-notturni-no195611.html"
+  - "One saxophone soloist doubles soprano, alto, baritone. · https://daniels-orchestral.com/stanislaw-skrowaczewski/ricercari-notturni/"
 publisher:
   - "Schott"
 aliases: []
+multi-instruments: "One player doubling soprano, alto and baritone saxophones, with piano (or orchestra)"
 ---
 ## Research notes (private)
+
+### Chat Batch 16 Follow-Up, October 15, 2026
+
+Schott exact EA432 is piano reduction with solo part; orchestral original 1977, 27 minutes. Daniels orchestral catalog identifies one soloist doubling soprano, alto and baritone. IMEP library catalogs piano reduction with saxophone part and alternate clarinet/bass clarinet part.
+
+[[Review 0362 - Stanislaw Skrowaczewski - Ricercari Notturni|Evidence and pending recommendation]]
+
 
 - POLMIC lists Ricercari notturni for saxophone or clarinet and orchestra (1977) · [polmic.pl](https://polmic.pl/en/encyclopedia/subject-entries/s/skrowaczewski-stanislaw-en)
 - Prabook biography dates it 1978 and notes 3rd prize, Kennedy Center Friedheim Competition · [prabook.com](https://prabook.com/web/stanislaw.skrowaczewski/238364)

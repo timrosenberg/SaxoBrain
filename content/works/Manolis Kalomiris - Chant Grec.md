@@ -5,17 +5,34 @@ composer:
   - "[[Manolis Kalomiris]]"
 instruments:
   - "Soprano Saxophone"
+  - "Alto Saxophone"
+  - "Piano"
 composed: 1929
-year-of-study: 
+year-of-study: "First Year"
 streaming: 
 purchase:
   - "https://www.bladmuziekplus.nl/product/kalomiris-chant-grec-9790046294792/"
+  - "https://www.prestomusic.com/sheet-music/products/7381193--manolis-kalomiris-chant-grec"
 added: 2025-04-18
 research:
   - "About 4 minutes, two sections (Andante con moto, Scherzando); retailer describes it as suitable for upper-intermediate players or above · https://www.bladmuziekplus.nl/product/kalomiris-chant-grec-9790046294792/"
+  - "Publisher catalog AL29479 for alto or soprano saxophone and piano. · https://casamusicaledelrio.it/casamusicale/wp-content/uploads/2019/04/CAT-18-107-Leduc-Catalogue-2018-ss-GS-v6-NO-CROPS-LO-RESv2.pdf"
+  - "Kerkezos arrangement, vocal original, 1929 first publication, upper-intermediate description and two sections. · https://www.prestomusic.com/sheet-music/products/7381193--manolis-kalomiris-chant-grec"
+  - "2018/19 entrance repertoire includes Chant Grec. · https://www.conservatoire.strasbourg.eu/wp-content/uploads/2019/07/saxophone.pdf"
 aliases: []
+publisher:
+  - "Alphonse Leduc"
+arranger-edition:
+  - "Théodore Kerkezos"
 ---
 ## Research notes (private)
+
+### Chat Batch 14 Follow-Up, October 15, 2026
+
+Leduc AL29479 supports alto OR soprano saxophone with piano. The current soprano-only metadata omits the piano. Arranged by Théodore Kerkezos from voice and piano. Presto identifies 1929 as first publication, not explicitly composition. Publisher description calls it upper intermediate or above and describes Andante con moto and Scherzando sections. Strasbourg Conservatory lists it in its 2018/19 saxophone entrance repertoire.
+
+[[Review 0241 - Manolis Kalomiris - Chant Grec|Evidence and pending recommendation]]
+
 
 - About 4 minutes, two sections (Andante con moto, Scherzando); retailer describes it as suitable for upper-intermediate players or above · [bladmuziekplus.nl](https://www.bladmuziekplus.nl/product/kalomiris-chant-grec-9790046294792/)
 

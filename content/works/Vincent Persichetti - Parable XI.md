@@ -6,21 +6,37 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Unaccompanied"
-composed: 
-year-of-study: 
+composed: 1972
+year-of-study: "Third Year"
 streaming: "https://www.youtube.com/watch?v=5K8I1Hc9M5s"
 purchase:
-  - https://www.grothmusic.com/p-33832.aspx
+  - "https://www.grothmusic.com/p-33832.aspx"
   - "https://www.grothmusic.com/p-33832-parable-alto-sax-unaccompanied.aspx"
+  - "https://www.presser.com/164-00106-parable-for-alto-saxophone.html"
 added: 2025-04-16
 research:
   - "Publisher Elkan-Vogel, catalog no. 16400106; listed as Parable for unaccompanied alto sax, 4 pages, duration 7:00 (page does not give the Parable number or opus) · https://www.grothmusic.com/p-33832.aspx"
+  - "Parable XI, solo alto saxophone, commissioned by Brian Minor, duration 7 minutes, catalog 164-00106. · https://www.presser.com/164-00106-parable-for-alto-saxophone.html"
+  - "Op. 123: pencil manuscript 1972, original master copy and sounding score in C; publication 1973. · https://nyplorg-data-archives.s3.amazonaws.com/uploads/collection/pdf_finding_aid/muspersi.pdf"
+  - "Describes ABA form, very fast articulated B, three-line cadenza, 2.5-octave span, pitch bends, fast vibrato and approximately ten tone colors. Explicitly says written 1972. · https://digital.library.unt.edu/ark:/67531/metadc277610/m2/1/high_res_d/1002720499-zoloth.pdf"
+  - "Guide entry recommends Parable Op. 123 for the seventh year; the source is a text mirror of the institutional repertoire guide. · https://pdfcoffee.com/10-ans-avec-le-saxophonepdf-pdf-free.html"
+  - "oEmbed title Parable XI for solo alto saxophone - V.Persichetti; author Ana Parejo Belando. · https://www.youtube.com/watch?v=5K8I1Hc9M5s"
+  - "Exact Parable XI track, Brian Minor, 6:53. · https://classical.music.apple.com/us/album/1672459945"
 aliases: []
+publisher:
+  - "Theodore Presser Company"
 ---
 
 [https://www.youtube.com/watch?v=5K8I1Hc9M5s](https://www.youtube.com/watch?v=5K8I1Hc9M5s)
 
 ## Research notes (private)
+
+### Chat Batch 17 Follow-Up, October 15, 2026
+
+Unaccompanied form, fast articulation and extensive tone color control support a provisional second-year placement.
+
+[[Review 0381 - Vincent Persichetti - Parable XI|Evidence and pending recommendation]]
+
 
 - Publisher Elkan-Vogel, catalog no. 16400106; listed as Parable for unaccompanied alto sax, 4 pages, duration 7:00 (page does not give the Parable number or opus) · [grothmusic.com](https://www.grothmusic.com/p-33832.aspx)
 
@@ -47,4 +63,3 @@ Catalog: [[Vincent Persichetti - Parable XI]]
 #### Unresolved Catalog Details
 
 - Sources give a 1972 manuscript and a 1973 published score, but do not establish the original composition year; composed remains withheld.
-

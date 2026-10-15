@@ -7,15 +7,25 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 1992
-year-of-study: 
+year-of-study: "Third Year"
 streaming: 
 purchase: []
 added: 2024-03-08
 research:
   - "Wikipedia work list: Come back, for alto sax and piano (1992) · https://en.wikipedia.org/wiki/Pierre_Max_Dubois"
+  - "Sixteen-minute duo, movement sequence, harmonics, easy multiphonics and agile Vivo; printed p86. · https://pdfcoffee.com/10-ans-avec-le-saxophonepdf-pdf-free.html"
 aliases: []
+publisher:
+  - "Éditions Billaudot"
 ---
 ## Research notes (private)
+
+### Chat Batch 15 Follow-Up, October 15, 2026
+
+Duo concertant for alto saxophone and piano; Billaudot GB 4637; about 16 minutes. Guide describes linked Lent et récité/animated 6/8/free solo, then Prestement 2/4 and Vivo requiring agility. Guide dates 1992; library catalog explicitly calls 1992 publication year, so composition date is not newly asserted.
+
+[[Review 0302 - Pierre-Max DuBois - Come Back|Evidence and pending recommendation]]
+
 
 - Wikipedia work list: Come back, for alto sax and piano (1992) · [en.wikipedia.org](https://en.wikipedia.org/wiki/Pierre_Max_Dubois)
 

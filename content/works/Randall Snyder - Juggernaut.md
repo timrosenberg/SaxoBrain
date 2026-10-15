@@ -8,19 +8,29 @@ instruments:
   - "French Horn"
   - "Trombone"
 composed: 
-year-of-study: 
+year-of-study: "Third Year"
 streaming: 
 purchase: []
 added: 2025-04-16
 research:
   - "Score listed for tenor sax, horn in F and trombone, 20 pages, copyright 2007 · https://digitalcommons.unl.edu/musicsnyder/37"
+  - "Instrumentation,20-page length, copyright 2007 and withdrawal notice. · https://digitalcommons.unl.edu/musicsnyder/37"
 aliases: []
 third-party-files: true
+library-score:
+  - "https://digitalcommons.unl.edu/musicsnyder/37"
 ---
 
 [Snyder - Juggernaut](/media/works/randall-snyder-juggernaut/fulltext.pdf)
 
 ## Research notes (private)
+
+### Chat Batch 16 Follow-Up, October 15, 2026
+
+UNL identifies Juggernaut by Randall Snyder for tenor saxophone, horn in F and trombone,20 pages. The institutional record carries copyright 2007. UNL explicitly states that this item has been withdrawn.
+
+[[Review 0314 - Randall Snyder - Juggernaut|Evidence and pending recommendation]]
+
 
 - Score listed for tenor sax, horn in F and trombone, 20 pages, copyright 2007 · [digitalcommons.unl.edu](https://digitalcommons.unl.edu/musicsnyder/37)
 

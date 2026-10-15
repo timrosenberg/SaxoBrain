@@ -6,18 +6,29 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
-year-of-study: 
+composed: 1992
+year-of-study: "Advanced"
 arranger-edition: 
-streaming: 
+streaming: "https://www.youtube.com/watch?v=OodQhYU0G4k"
 purchase:
   - https://www.grothmusic.com/p-38064.aspx
 added: 2026-10-09
 research:
   - "Publisher DSS, catalog no. DSS1362; alto sax and piano · https://www.grothmusic.com/p-38064.aspx"
+  - "Composer’s dated worklist places Godba in 1992, alto/piano, 14 minutes, and gives premiere and performance links. · https://www.uros-rojko.de/sl/werke/kammerwerke"
+  - "Official SAXGO 22 competition list includes Godba. · https://kulturnidom-ng.si/news/tekmovalni-program-9-mednarodnega-tekmovanja-saksofonistov/"
 aliases: []
+publisher:
+  - "Društvo slovenskih skladateljev"
 ---
 ## Research notes (private)
+
+### Chat Batch 16 Follow-Up, October 15, 2026
+
+Composer catalog identifies Godba under 1992 for alto/piano, approximately 14 minutes, premiered in Ljubljana by John-Edward Kelly and Bojan Gorišek. DSS 2012 catalog’s 1954 workdate is contradicted by composer chronology and its own composer birth year. The 2003 date belongs to edition publication. Composer’s works page supplies two exact You Tube performance links.
+
+[[Review 0374 - Uroš Rojko - Godba|Evidence and pending recommendation]]
+
 
 - Publisher DSS, catalog no. DSS1362; alto sax and piano · [grothmusic.com](https://www.grothmusic.com/p-38064.aspx)
 

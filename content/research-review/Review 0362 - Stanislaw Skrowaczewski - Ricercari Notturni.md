@@ -3,8 +3,8 @@ title: "Review 0362: Stanislaw Skrowaczewski - Ricercari Notturni"
 added: 2026-10-11
 review-id: 362
 review-packet: 15
-review-decision: Pending
-review-applied: false
+review-decision: "Fourth Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Stanislaw Skrowaczewski - Ricercari Notturni]]"
 build:
@@ -39,3 +39,30 @@ Catalog: [Stanislaw Skrowaczewski - Ricercari Notturni.md](/Users/trosenberg/Doc
 - Durations conflict across sources and versions; do not treat the guide's duration as a correction to Schott's current record.
 
 **Tim decision:** pending.
+
+## Chat Batch 16 Follow-Up, October 15, 2026
+
+**Proposed decision:** Retain, difficulty unknown. **Confidence:** high. **Approval:** Applied 2026-10-15.
+
+**Reason:** Retain this serious concerto reduction. Three-instrument doubling and27 minutes signal preparation and endurance, but do not establish specific note-level demands. Accessible publisher preview failed, so a precise year would overstate current evidence.
+
+Schott exact EA432 is piano reduction with solo part; orchestral original 1977, 27 minutes. Daniels orchestral catalog identifies one soloist doubling soprano, alto and baritone. IMEP library catalogs piano reduction with saxophone part and alternate clarinet/bass clarinet part.
+
+**Collection context:** Concerto reduction; do not mistake orchestral instrumentation or clarinet alternative for saxophone version.
+
+**Remaining gaps:** No readable score preview or exact saxophone recording verified. Verify actual reduction part before changing instrument field; soprano/alto/baritone doubling is confirmed in opened Daniels orchestral catalog.
+
+**Sources:** [Schott Music](https://www.schott-music.com/en/ricercari-notturni-no138077.html) · [Schott Music](https://www.schott-music.com/en/ricercari-notturni-no195611.html) · [Daniels Orchestral Music Online](https://daniels-orchestral.com/stanislaw-skrowaczewski/ricercari-notturni/) · [IMEP music library](https://biblio.imep.be/index.php?lvl=notice_display&id=5829)
+
+**Tim’s decision:** Fourth Year. Applied 2026-10-15.
+
+### Source Verification
+
+- [Schott Music](https://www.schott-music.com/en/ricercari-notturni-no138077.html): Exact piano-reduction EA432 sales page. (opened).
+- [Schott Music](https://www.schott-music.com/en/ricercari-notturni-no195611.html): 1977, 27 minutes, orchestral original and linked EA432 reduction. (opened).
+- [Daniels Orchestral Music Online](https://daniels-orchestral.com/stanislaw-skrowaczewski/ricercari-notturni/): One saxophone soloist doubles soprano, alto, baritone. (opened).
+- [IMEP music library](https://biblio.imep.be/index.php?lvl=notice_display&id=5829): Piano reduction40 pages plus saxophone and alternate clarinet parts. (search_index_only).
+
+## Chat Batch 16 Decision, October 15, 2026
+
+Tim assigned Fourth Year.

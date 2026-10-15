@@ -3,9 +3,9 @@ title: "Review 0271: Ned McGowan - Ricochet"
 added: 2026-10-11
 review-id: 271
 review-packet: 11
-review-decision: Pending
-review-applied: false
-notation-inspected: false
+review-decision: "Fourth Year"
+review-applied: true
+notation-inspected: true
 catalog-entry: "[[Ned McGowan - Ricochet]]"
 build:
   render: never
@@ -42,3 +42,32 @@ Searches checked:
 - Ned McGowan Ricochet Donemus version bass clarinet contrabass flute score
 - Opened Donemus search result record through public search listing; indexed scoring and duration were read, product page fetch failed
 - Attempted Ned McGowan composer work page for Ricochet; web retrieval returned cache miss
+
+## Chat Batch 14 Follow-Up, October 15, 2026
+
+**Proposed decision:** Fourth Year. **Confidence:** medium. **Approval:** Applied 2026-10-15.
+
+**Reason:** Inference from four previewed score pages: rapid meter changes, low-A baritone attacks, wide register shifts and persistent interlocking saxophone/percussion rhythms warrant upper-college preparation near the Fourth Year anchors.
+
+Ricochet, version for baritone saxophone and percussion; 2014; 12 minutes; Donemus 13753. Score available as paid PDF or print.
+
+**Score observations:** Notes require baritone with low A and list floor tom, triangle, wood block, flexatone and three cymbals or gongs. Inspected score pages 1-4. Opening quarter=64 alternates 4/4,6/4,5/4,7/4 then eighth- and sixteenth-denominator meters. Accented saxophone attacks align with displaced percussion attacks. Later preview pages show continuous articulated sixteenth-note and dotted-eighth groupings, chromatic changes, register leaps and changing 5/8,6/8,7/8.
+
+**Collection context:** Verified baritone/percussion version; earlier composer-list omission is resolved.
+
+**Remaining gaps:** Remaining twelve score pages and performance not inspected; proposal is provisional. No baritone-version recording verified.
+
+**Sources:** [Donemus publisher product page](https://webshop.donemus.com/action/front/sheetmusic/13753)
+
+**Score or edition:** [Public preview form yields cover, notes and first four score pages; all notation pages inspected.](https://webshop.donemus.com/action/front/sheetmusic/13753)
+
+**Tim’s decision:** Fourth Year. Applied 2026-10-15.
+
+### Source Verification
+
+- [Donemus publisher product page](https://webshop.donemus.com/action/front/sheetmusic/13753): Exact baritone/percussion version, year, duration, edition and paid PDF/print options. (opened).
+- [Donemus Ricochet public preview](https://webshop.donemus.com/action/front/sheetmusic/13753): Low-A baritone requirement; changing meters, accented attacks and continuous later rhythmic cells on score pp.1-4. (score_inspected).
+
+## Chat Batch 14 Decision, October 15, 2026
+
+Tim assigned Fourth Year.

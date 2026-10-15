@@ -3,8 +3,8 @@ title: "Review 0378: Vincent David - Éveil de la Toupie"
 added: 2026-10-11
 review-id: 378
 review-packet: 16
-review-decision: Pending
-review-applied: false
+review-decision: "Fourth Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Vincent David - Éveil de la Toupie]]"
 build:
@@ -31,3 +31,37 @@ Catalog: [[Vincent David - Éveil de la Toupie]]
 - Collection/use: Billaudot's catalog labels it difficult in cycle 3 and lists adults as its audience. This is the publisher's own placement, not a SaxoBrain level.
 - Review focus: Inference: the specified asymmetric groupings and 8:30 duration make meter/rhythm, continuity, and pacing concrete review points.
 - Gaps: Billaudot links a Calaméo excerpt, but the public reader returned an empty response in the browser; notation remains uninspected.; No saxophone performance recording verified.
+
+## Chat Batch 17 Follow-Up, October 15, 2026
+
+**Proposed decision:** Fourth Year. **Confidence:** medium. **Approval:** Recorded 2026-10-15.
+
+**Reason:** Billaudot explicitly describes a fast asymmetrical musette waltz using 3/3/2/3 and 3/3/3/2 groupings, labels it difficult, cycle 3, and gives 8:30 duration. Fourth Year is an inference from those specific rhythmic and continuity demands and documented professional recital use. The publisher-linked reader again failed in requests and Chrome, so no notation claim supports this proposal.
+
+Publisher-documented fast asymmetrical waltz and sustained concert scale support a provisional upper-college placement.
+
+**Score observations:** Only covers inspected at LMI; no notation inspected. The rhythm description is publisher text.
+
+**Collection context:** Original saxophone concert repertoire.
+
+**Remaining gaps:** Notation unavailable after repeated public-reader attempts. Local image assets are covers only. Full technical range and extended techniques unverified. Embedded audio duration and completeness not independently verified.
+
+**Sources:** [Éditions Billaudot](https://www.billaudot.com/gb10105-6.html) · [IRCAM Brahms work catalog](https://brahms.ircam.fr/en/work/eveil-de-la-toupie-2020-01-01) · [Henri SELMER Paris artist page](https://www.selmer.fr/en/blogs/artistes/alessandro-malagnino)
+
+**Score or edition:** [Publisher-linked excerpt. Reader returned empty response in Chrome and HTTP retrieval.](https://fr.calameo.com/read/005229272ceb14f69041f)
+
+**Recording:** [Alessandro Malagnino performance embedded on official Selmer artist page. Pianist not credited in the audio metadata.](https://www.selmer.fr/en/blogs/artistes/alessandro-malagnino)
+
+**Tim’s decision:** Fourth Year. Applied 2026-10-15.
+
+### Source Verification
+
+- [Éditions Billaudot](https://www.billaudot.com/gb10105-6.html): GB10105, alto saxophone and piano, 8:30, 44 pages, difficult cycle 3, adults; fast asymmetrical 3/3/2/3 and 3/3/3/2 groupings. Copyright 2020. (opened).
+- [IRCAM Brahms work catalog](https://brahms.ircam.fr/en/work/eveil-de-la-toupie-2020-01-01): Explicit composition date 2018; alto saxophone and piano; Billaudot GB10105. (opened).
+- [Henri SELMER Paris artist page](https://www.selmer.fr/en/blogs/artistes/alessandro-malagnino): Official artist page offers audio labeled Alessandro Malagnino L eveil de la toupie Vincent David. (opened).
+
+## Chat Batch 17 Decision, October 15, 2026
+
+Tim assigned Fourth Year.
+
+**Tim’s decision:** Fourth Year. Applied 2026-10-15.

@@ -3,9 +3,9 @@ title: "Review 0407: Yvonne Desportes - Chambery"
 added: 2026-10-11
 review-id: 407
 review-packet: 17
-review-decision: Pending
-review-applied: false
-notation-inspected: false
+review-decision: "Third Year"
+review-applied: true
+notation-inspected: true
 catalog-entry: "[[Yvonne Desportes - Chambery]]"
 build:
   render: never
@@ -38,3 +38,35 @@ Open questions: No soprano-saxophone notation or matching performance was inspec
 Searches checked:
 - Yvonne Desportes Chambery soprano sax organ Dorn 858 score
 - BnF Chambery oboe organ Desportes
+
+## Chat Batch 17 Follow-Up, October 15, 2026
+
+**Proposed decision:** Third Year. **Confidence:** medium. **Approval:** Recorded 2026-10-15.
+
+**Reason:** Propose Third Year from the actual soprano part and opening score. The five-piece set combines exposed soprano writing with organ coordination. Only the first piece was available, so the placement remains provisional for the complete set.
+
+Dorn 858 is a five-piece set for soprano saxophone or oboe and organ, with separate solo parts. Groth lists 60 pages. The cover titles are Chambéry, La Fontaine des Éléphants, Les Charmettes, Le Saint Suaire and La Sainte Chapelle. Several retailer transcriptions of those names are incorrect. The inspected edition bears a 1981 copyright. That is not confirmed as the composition date or the date of the saxophone version.
+
+**Correction to earlier research:** Use the movement names printed on the publisher cover: La Fontaine des Éléphants, Les Charmettes, Le Saint Suaire and La Sainte Chapelle. Retailer spellings such as La Fontina and Le Gaint Guaire are errors.
+
+**Score observations:** Inspected the opening score and the actual soprano saxophone part for Chambéry. Changing meters, chromatic eighth- and sixteenth-note figures, articulation changes, abrupt dynamics and tempo contrasts sit over independent organ writing. The preview covers only the opening piece, not the demands of the remaining four.
+
+**Collection context:** Original chamber repertoire for soprano or oboe with organ. Organ accompaniment was missing from the catalog tags.
+
+**Remaining gaps:** Complete set not inspected. No verified exact-work recording or composition date located. The oboe version’s bibliographic history should not be used automatically to date the saxophone edition.
+
+**Sources:** [Groth Music Dorn publisher preview](https://www.grothmusic.com/p-142740.aspx)
+
+**Score or edition:** [Five-piece cover, score and actual soprano part](https://www.grothmusic.com/p-142740.aspx)
+
+**Tim’s decision:** Third Year. Applied 2026-10-15.
+
+### Source Verification
+
+- [Groth Music Dorn publisher preview](https://www.grothmusic.com/p-142740.aspx): Dorn 858 cover confirms soprano saxophone or oboe with organ and five movement titles. Actual score and soprano part from the first piece inspected. (score_inspected).
+
+## Chat Batch 17 Decision, October 15, 2026
+
+Tim assigned Third Year.
+
+**Tim’s decision:** Third Year. Applied 2026-10-15.

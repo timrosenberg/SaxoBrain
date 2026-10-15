@@ -7,18 +7,27 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
+year-of-study: "Third Year"
 streaming: 
 purchase:
-  - https://www.grothmusic.com/p-141695.aspx
+  - "https://www.grothmusic.com/p-141695.aspx"
+  - "https://www.billaudot.com/sonate-saxophone-et-piano-3.html"
 added: 2024-03-08
 research:
   - "Three movements: I. Allegro moderato molto marcato, II. Lento, III. Allegro molto; dedicated 'For Daniel Deffayet'; publisher Billaudot, catalog no. MRB1140 · https://www.grothmusic.com/p-141695.aspx"
+  - "Composer, scoring, series, exact edition, Cycle3/difficult classification and hasPdfFile=false. · https://www.billaudot.com/sonate-saxophone-et-piano-3.html"
 publisher:
   - "Éditions Billaudot"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat Batch 14 Follow-Up, October 15, 2026
+
+Nicole Philiba Sonate for E-flat saxophone and piano, Billaudot MRB1140, L’Enseignement moderne du saxophone. Publisher labels Difficile(cycle3); product data reports no PDF preview.
+
+[[Review 0272 - Nicole Philiba - Sonate|Evidence and pending recommendation]]
+
 
 - Three movements: I. Allegro moderato molto marcato, II. Lento, III. Allegro molto; dedicated 'For Daniel Deffayet'; publisher Billaudot, catalog no. MRB1140 · [grothmusic.com](https://www.grothmusic.com/p-141695.aspx)
 

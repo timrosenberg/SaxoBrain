@@ -5,7 +5,8 @@ composer:
   - "[[William Presser]]"
 instruments:
   - "Soprano Saxophone"
-composed: 
+  - "Piano"
+composed: 1980
 year-of-study: 
 streaming: 
 purchase:
@@ -14,9 +15,21 @@ purchase:
 added: 2025-04-18
 research:
   - "Soprano saxophone (or clarinet) and piano, published by Tritone Press & Tenuto Publications (CF 494-00600) · https://performersmusicchicago.com/arioso-presser-cf-494-00600"
+  - "Exact 494-00600/TT2560, imprint and accompanied-solo format. · https://www.presser.com/494-00600-arioso.html"
+  - "Exact T256, soprano/clarinet and piano, five pages. · https://www.grothmusic.com/p-147491-arioso-for-soprano-saxophone-or-clarinet-and-piano.aspx"
+  - "Transcription of US registration PA0000212332 explicitly separates creation 1980 from publication May 21, 1984. · https://www.copyrightencyclopedia.com/the-hound-of-heaven-arioso-ballad-for-diana/"
 aliases: []
+publisher:
+  - "Tritone Press & Tenuto Publications"
 ---
 ## Research notes (private)
+
+### Chat Batch 17 Follow-Up, October 15, 2026
+
+Tenuto T256/494-00600, soprano saxophone or clarinet and piano; Groth lists five pages. Contemporary 1985 Clarinet review indexes creation 1980 and publication 1984. An opened transcription of US registration PA0000212332 independently confirms creation 1980 and publication May 21, 1984. Cover confirms required piano; current catalog lists soprano alone.
+
+[[Review 0397 - William Presser - Arioso|Evidence and pending recommendation]]
+
 
 - Soprano saxophone (or clarinet) and piano, published by Tritone Press & Tenuto Publications (CF 494-00600) · [performersmusicchicago.com](https://performersmusicchicago.com/arioso-presser-cf-494-00600)
 

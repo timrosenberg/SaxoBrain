@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 2005
-year-of-study: 
+year-of-study: "Second Year"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-156792.aspx
@@ -16,9 +16,20 @@ research:
   - "Publisher Dorn Publications, catalog no. DORN1528 · https://www.grothmusic.com/p-156792.aspx"
   - "Duration about 5:30 · https://www.grothmusic.com/p-156792.aspx"
   - "Dedicated to Paul Harr · https://www.grothmusic.com/p-156792.aspx"
+  - "Edition, alto/piano scoring and duration. · https://www.grothmusic.com/p-156792.aspx"
+  - "Excursions opening, dated 2005 and dedicated to Paul Haar. · https://grothmusic.com/images/product/large/ae00-136273.jpg"
 aliases: []
+publisher:
+  - "Dorn Publications"
 ---
 ## Research notes (private)
+
+### Chat Batch 16 Follow-Up, October 15, 2026
+
+Excursions is dated 2005, for alto saxophone and piano, duration circa 5:30. Score dedication reads Paul Haar; retailer description spells Paul Harr. Dorn DORN 1528 is the published edition; 2014 on score footer is copyright.
+
+[[Review 0313 - Randall Snyder - Excursions|Evidence and pending recommendation]]
+
 
 - Publisher Dorn Publications, catalog no. DORN1528 · [grothmusic.com](https://www.grothmusic.com/p-156792.aspx)
 - Duration about 5:30 · [grothmusic.com](https://www.grothmusic.com/p-156792.aspx)

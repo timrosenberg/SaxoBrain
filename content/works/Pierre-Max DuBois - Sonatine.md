@@ -7,16 +7,29 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
-streaming: 
+year-of-study: "Second Year"
+streaming: "https://open.spotify.com/track/0DbdwLRArUdM1Ol0G1PYse"
 purchase:
   - https://www.grothmusic.com/p-37696.aspx
 added: 2024-03-08
 research:
   - "Publisher Alphonse Leduc, catalog no. AL23742; page says published 1968; duration about 8 minutes; three movements; rated for advanced performers · https://www.grothmusic.com/p-37696.aspx"
+  - "Exact AL23742 edition, eight-minute span and stated complex rhythms, semiquavers, varied articulation, chromaticism and ensemble demands. · https://www.halleonard.com/product/48182486/sonatina-for-alto-saxophone-and-piano"
+  - "Daneels dedication, competition context, movement sequence and recitative introduction. · https://vcisinc.com/saxophonemusic.htm"
+  - "Sonatine1966edition and Daneels dedication; this date is publication rather than an explicit composition field. · https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf"
+  - "Exact first movement recording from the matching three-movement Sonatine album grouping. · https://open.spotify.com/track/0DbdwLRArUdM1Ol0G1PYse"
 aliases: []
+publisher:
+  - "Alphonse Leduc"
 ---
 ## Research notes (private)
+
+### Chat Batch 15 Follow-Up, October 15, 2026
+
+Sonatine/Sonatina for alto saxophone and piano, Leduc AL 23742; about 8 minutes; distinct from Deuxième Sonatine AL 23963. Specialist retailer identifies François Daneels dedication, Brussels Royal Conservatory competition context and three movements: Allegro vivo, Andante, Allegretto/Prestissimo. Antwerp lists 1966 publication; publisher description says 1968 publication. Neither proves composition date.
+
+[[Review 0307 - Pierre-Max DuBois - Sonatine|Evidence and pending recommendation]]
+
 
 - Publisher Alphonse Leduc, catalog no. AL23742; page says published 1968; duration about 8 minutes; three movements; rated for advanced performers · [grothmusic.com](https://www.grothmusic.com/p-37696.aspx)
 

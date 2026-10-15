@@ -6,16 +6,26 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
-year-of-study: 
+composed: 2021
+year-of-study: "Third Year"
 streaming: "https://www.youtube.com/watch?v=NToA8Uh-7Xo"
-purchase: []
+purchase:
+  - "https://www.ninashekhar.com/product/careful-shouts"
 added: 2024-02-21
 research:
   - "Performed for alto saxophone and piano by Chet Jenkins and Stephen Estep, Cedarville University faculty recital, April 25, 2023 (recital listing; no duration or difficulty given) · https://www.cedarville.edu/cf/calendar/viewsingleevent/id/EE0026E5-E853-027E-3B33-43459D3B1699"
+  - "Year,scoring,duration,commission and McAllister/Ames performance link. · https://www.ninashekhar.com/product/careful-shouts"
+  - "Exact composer-linked Project Encore track. · https://www.ninashekhar.com/album/careful-shouts-appears-on-project-encore-vol-1"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat Batch 14 Follow-Up, October 15, 2026
+
+2021; alto saxophone and piano; about4minutes. Commissioned by Timothy McAllister and Liz Ames; composer links their exact performance and Project Encore Vol.1 track. Composer music catalog identifies PDF score and part. Product page includes contradictory stock/checkout labels; actual availability unknown.
+
+[[Review 0275 - Nina Shekhar - Careful Shouts|Evidence and pending recommendation]]
+
 
 - Performed for alto saxophone and piano by Chet Jenkins and Stephen Estep, Cedarville University faculty recital, April 25, 2023 (recital listing; no duration or difficulty given) · [cedarville.edu](https://www.cedarville.edu/cf/calendar/viewsingleevent/id/EE0026E5-E853-027E-3B33-43459D3B1699)
 

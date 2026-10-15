@@ -8,19 +8,34 @@ instruments:
   - "Tenor Saxophone"
   - "Piano"
 composed: 2009
-year-of-study: 
+year-of-study: "Second Year"
 arranger-edition: 
 publisher:
   - "Zen-On"
-streaming: 
+streaming: "https://www.youtube.com/watch?v=ZRZgO_LqVOw"
 purchase:
   - "https://shop.zen-on.co.jp/downloads/detail/50954600/"
+  - "https://shop.zen-on.co.jp/item/detail/509546/"
 added: 2026-10-09
 research:
   - "Publisher catalogue lists the 2009 work for alto or tenor saxophone, about 5 minutes · https://www.eamdc.com/audio/presskit/9e75b192-1866-4a02-8b3f-d2233176d17e/"
+  - "Scoring, duration, premiere, publication and score edition. · https://shop.zen-on.co.jp/item/detail/509546/"
+  - "Composer preface and score pages 4,5,7,9 visually inspected. · https://www.zen-on.co.jp/trial/509546/HTML5/pc.html#/page/5"
+  - "Composer performance link from official publisher page. · https://www.zen-on.co.jp/en/news/detail/50/"
+  - "Score holdings and edition. · https://ci.nii.ac.jp/ncid/BD03777563"
+  - "Video title identifies Dreaming Stone for Alto Saxophone and Piano on Masa Matsuura’s channel. · https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=ZRZgO_LqVOw&format=json"
 aliases: []
+library-score:
+  - "https://ci.nii.ac.jp/ncid/BD03777563"
 ---
 ## Research notes (private)
+
+### Chat Batch 14 Follow-Up, October 15, 2026
+
+Zen-On gives alto or tenor saxophone and piano, ca.4:40; first performance 1 November 2009 by Sumichika Arimura and Masa Matsuura; published 15 July 2023. Composer’s English preface says the work was conceived for alto and adapted by her to allow tenor for publication. Publisher links the composer’s YouTube alto performance; video title and channel verified through YouTube oEmbed metadata; audio not auditioned.
+
+[[Review 0257 - Masa Matsuura - Dreaming Stone|Evidence and pending recommendation]]
+
 
 - Publisher catalogue lists the 2009 work for alto or tenor saxophone, about 5 minutes · [eamdc.com](https://www.eamdc.com/audio/presskit/9e75b192-1866-4a02-8b3f-d2233176d17e/)
 

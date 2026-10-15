@@ -6,20 +6,32 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
-year-of-study: 
-streaming: 
+composed: 1991
+year-of-study: "Fourth Year"
+streaming: "https://www.youtube.com/watch?v=XFK8WY-gpBg"
 purchase:
   - https://www.grothmusic.com/p-146138.aspx
 added: 2024-03-08
 research:
   - "Publisher Dorn Publications, catalog no. DORN0201 · https://www.grothmusic.com/p-146138.aspx"
   - "Originally for alto sax solo with wind ensemble, reduced for piano; composed for Kenneth Fischer and the UGA Wind Ensemble; 1992 copyright; 35 pages · https://www.grothmusic.com/p-146138.aspx"
+  - "Concerto for Alto Saxophone and Winds (1991), Advanced, sixteen minutes; alto/piano reduction listed under Needham Publishing Corp linked to Dorn. · https://rogercraigvogel.com/ORCHESTRABANDMUSIC.html"
+  - "Vogel Concerto listed under alto saxophone and piano as order201; wind version order442. · https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf"
+  - "ACA linked product is horn and piano reduction of 1980 horn concerto, not saxophone. · https://composers.com/products/vogel-concerto-piano"
 publisher:
   - "Dorn Publications"
 aliases: []
 ---
 ## Research notes (private)
+
+**Earlier research superseded:** ACA https://composers.com/products/vogel-concerto-piano is the 1980 horn concerto reduction, not the saxophone concerto. Correct source is https://rogercraigvogel.com/ORCHESTRABANDMUSIC.html
+
+### Chat Batch 16 Follow-Up, October 15, 2026
+
+Primary composer work page confirms composition year 1991. Composer-linked YouTube title and channel independently verified through public oEmbed.
+
+[[Review 0339 - Roger C. Vogel - Concerto|Evidence and pending recommendation]]
+
 
 - Publisher Dorn Publications, catalog no. DORN0201 · [grothmusic.com](https://www.grothmusic.com/p-146138.aspx)
 - Originally for alto sax solo with wind ensemble, reduced for piano; composed for Kenneth Fischer and the UGA Wind Ensemble; 1992 copyright; 35 pages · [grothmusic.com](https://www.grothmusic.com/p-146138.aspx)

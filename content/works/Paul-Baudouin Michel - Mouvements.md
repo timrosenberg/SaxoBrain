@@ -6,17 +6,31 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
-year-of-study: 
+composed: 1977
+year-of-study: "Third Year"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-147498.aspx
 added: 2024-03-08
 research:
   - "Publisher Cebedem, catalog no. CEBEDEM0004; 16 pages · https://www.grothmusic.com/p-147498.aspx"
+  - "Opening score, date 1977, instrumentation and 6:30 timing. · https://grothmusic.com/images/product/large/ae00-127939_2_.jpg"
+  - "Score/part, CeBeDeM listing and 16 pages. · https://www.grothmusic.com/p-147498.aspx"
+  - "CeBeDeM 1977 publication,4+12 pages and exact holding. · https://pmb.artsaucarre.be/opac_css/index.php?dcote=&id=29&lcote=&location=8&lvl=section_see&main=&nbr_lignes=1099&nc=&page=31&plettreaut=M&ssub="
+  - "Composition 1977 and duration6:30. · https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf"
+  - "Track 7 Mouvements by Michel, 1977, Shner/Kotova and 6:57 duration. · https://originarts.com/c/recording.php?TitleID=33017"
 aliases: []
+publisher:
+  - "CeBeDeM"
 ---
 ## Research notes (private)
+
+### Chat Batch 15 Follow-Up, October 15, 2026
+
+Mouvements is for alto saxophone and piano; score header gives 1977 and approximately 6:30. CeBeDeM CEBEDEM0004 listing totals 16 pages; ARTS² catalogs 4-page part and 12-page score, matching that total. Antwerp explicitly records composition year 1977. Origin Classical 33017 records Idit Shner and Svetlana Kotova performing Mouvements, track 7, 6:57.
+
+[[Review 0284 - Paul-Baudouin Michel - Mouvements|Evidence and pending recommendation]]
+
 
 - Publisher Cebedem, catalog no. CEBEDEM0004; 16 pages · [grothmusic.com](https://www.grothmusic.com/p-147498.aspx)
 

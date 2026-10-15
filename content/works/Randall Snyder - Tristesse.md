@@ -6,17 +6,28 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
-year-of-study: 
+composed: 1999
+year-of-study: "Second Year"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-146114.aspx
 added: 2024-03-08
 research:
   - "Publisher Dorn Publications, catalog no. DORN0189 · https://www.grothmusic.com/p-146114.aspx"
+  - "Exact Dorn edition and instrumentation. · https://www.grothmusic.com/p-146114.aspx"
+  - "Tristesse score opening, dated 1999 and dedicated to Larry Gwozdz. · https://grothmusic.com/images/product/large/ae00-126955.jpg"
 aliases: []
+publisher:
+  - "Dorn Publications"
 ---
 ## Research notes (private)
+
+### Chat Batch 16 Follow-Up, October 15, 2026
+
+Tristesse for alto saxophone and piano is dated 1999 in the score. Dedicated to Larry Gwozdz; Dorn edition DORN 0189 bears copyright 2000.
+
+[[Review 0316 - Randall Snyder - Tristesse|Evidence and pending recommendation]]
+
 
 - Publisher Dorn Publications, catalog no. DORN0189 · [grothmusic.com](https://www.grothmusic.com/p-146114.aspx)
 

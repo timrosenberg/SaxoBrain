@@ -3,8 +3,8 @@ title: "Review 0290: Pierre Gabaye - Printemps"
 added: 2026-10-11
 review-id: 290
 review-packet: 12
-review-decision: Pending
-review-applied: false
+review-decision: "First Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Pierre Gabaye - Printemps]]"
 build:
@@ -41,3 +41,29 @@ Catalog: [Pierre Gabaye - Printemps.md](/Users/trosenberg/Documents/GitHub/SaxoB
 - No notation or performance recording located.
 
 **Tim decision:** pending.
+
+## Chat Batch 15 Follow-Up, October 15, 2026
+
+**Proposed decision:** First Year. **Confidence:** medium. **Approval:** Applied 2026-10-15.
+
+**Reason:** Vienna’s music-pedagogy bachelor audition examples explicitly include Printemps. The institutional guide describes lively syncopation and many meter changes. First Year is inferred from that college-entry use, with no score-based range claim.
+
+Hal Leonard confirms alto saxophone/piano, Alphonse Leduc AL22799. The institutional repertoire guide dates Printemps1959, duration2:40.
+
+**Collection context:** Original compact concert solo; specific bachelor-entry evidence supports retaining.
+
+**Remaining gaps:** No notation inspected; Hal Leonard public sample endpoint returned null. No exact recording verified. The pedagogical guide dates the edition/work to 1959 without explicitly distinguishing composition from publication; composed is left empty.
+
+**Sources:** [Hal Leonard / Alphonse Leduc](https://www.halleonard.com/product/48182002/printemps-saxophone-alto-piano) · [University of Music and Performing Arts Vienna, Franz Schubert Institute](https://www.mdw.ac.at/fsi/mbp-/-bachelor/saxophon/) · [Delangle and colleagues, 10 ans avec le saxophone, institutional guide mirrored online](https://pdfcoffee.com/10-ans-avec-le-saxophonepdf-pdf-free.html)
+
+**Tim’s decision:** First Year. Applied 2026-10-15.
+
+### Source Verification
+
+- [Hal Leonard / Alphonse Leduc](https://www.halleonard.com/product/48182002/printemps-saxophone-alto-piano): Identity and edition. (opened).
+- [University of Music and Performing Arts Vienna, Franz Schubert Institute](https://www.mdw.ac.at/fsi/mbp-/-bachelor/saxophon/): Bachelor audition repertoire example. (opened).
+- [Delangle and colleagues, 10 ans avec le saxophone, institutional guide mirrored online](https://pdfcoffee.com/10-ans-avec-le-saxophonepdf-pdf-free.html): 1959 work date and rhythm description. (opened).
+
+## Chat Batch 15 Decision, October 15, 2026
+
+Tim assigned First Year.

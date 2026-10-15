@@ -7,19 +7,32 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 2013
-year-of-study: 
+year-of-study: "Second Year"
 streaming: 
 purchase:
   - "https://www.australianmusiccentre.com.au/product/song-for-jit-for-alto-saxophone-and-piano"
+  - "https://www.australiancomposers.com.au/products/song-for-jit"
 library-recording:
   - "https://search.alexanderstreet.com/lti/view/work/bibliographic_entity|score|2703757"
 added: 2025-04-21
 research:
   - "Duration 5:50; Wirripang edition, 13-page score plus part · https://www.australianmusiccentre.com.au/product/song-for-jit-for-alto-saxophone-and-piano"
   - "Program note: inspired by Kandy, Sri Lanka; draws on bebop, blues and Baroque styles; a clarinet and piano version exists · https://www.australianmusiccentre.com.au/product/song-for-jit-for-alto-saxophone-and-piano"
+  - "Publisher exact sale explicitly says composed 2013, alto/piano, roughly 5:50, and provides score and audio samples. · https://www.australiancomposers.com.au/products/song-for-jit"
+  - "Publisher’s senior woodwind repertoire page places Song for Jit under Grade 7 saxophone. · https://www.australiancomposers.com.au/products/senior-music-for-woodwind-flute"
+  - "AMC offered preview shows opening and following system, including fast swing, chromaticism and rhythmic coordination. · https://awscdn.australianmusiccentre.com.au/documents/ds_52622_17068.pdf"
 aliases: []
+publisher:
+  - "Wirripang"
 ---
 ## Research notes (private)
+
+### Chat Batch 16 Follow-Up, October 15, 2026
+
+Song for Jit, subtitled Kandy Sonatina, is an original alto and piano work composed 2013 and published by Wirripang in June 2014. Publisher describes a roughly 5:50 work inspired by Kandy, Sri Lanka. Publisher offers a free audio sample; performer names and whether it is complete are not specified.
+
+[[Review 0373 - Tony Wheeler - Song for Jit|Evidence and pending recommendation]]
+
 
 - Duration 5:50; Wirripang edition, 13-page score plus part · [australianmusiccentre.com.au](https://www.australianmusiccentre.com.au/product/song-for-jit-for-alto-saxophone-and-piano)
 - Program note: inspired by Kandy, Sri Lanka; draws on bebop, blues and Baroque styles; a clarinet and piano version exists · [australianmusiccentre.com.au](https://www.australianmusiccentre.com.au/product/song-for-jit-for-alto-saxophone-and-piano)

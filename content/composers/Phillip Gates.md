@@ -1,5 +1,5 @@
 ---
-title: "Phillip Gates"
+title: "Philip Gates"
 slug: phillip-gates
 nationality:
   - "🏴󠁧󠁢󠁥󠁮󠁧󠁿 English"

@@ -5,16 +5,28 @@ composer:
   - "[[Robert Sibbing]]"
 instruments:
   - "Soprano Saxophone"
+  - "Piano"
 composed: 
-year-of-study: 
-streaming: 
+year-of-study: "Third Year"
+streaming: "https://music.apple.com/us/album/soprano-saxophone-sonata-i-allegro-moderato/1606452820?i=1606452832"
 purchase: []
 added: 2025-04-18
 research:
   - "An Apple Music album lists 'Robert Sibbing: Soprano Saxophone Sonata' (A. Harberg album, with Paul Cohen, saxophone) · https://classical.music.apple.com/cd/album/1606452820"
+  - "Tracks 7-9 credit Sibbing Sonata to Paul Cohen, soprano, and Allison Brewster Franzetti, piano; publisher To the Fore. Notes describe three contrasting movements. · https://www.ravellorecords.com/catalog/rr8062/"
+  - "Exact movement titles, artist credits and individual track URLs checked; only the correct work movements are linked. · https://itunes.apple.com/lookup?id=1606452820&entity=song"
 aliases: []
+publisher:
+  - "To the Fore Publishers"
 ---
 ## Research notes (private)
+
+### Chat Batch 16 Follow-Up, October 15, 2026
+
+Three movements; recording totals about 13 minutes. Paul Cohen recalls the work already written by their early-1970s meeting; exact composition year remains unknown.
+
+[[Review 0334 - Robert Sibbing - Sonata|Evidence and pending recommendation]]
+
 
 - An Apple Music album lists 'Robert Sibbing: Soprano Saxophone Sonata' (A. Harberg album, with Paul Cohen, saxophone) · [classical.music.apple.com](https://classical.music.apple.com/cd/album/1606452820)
 

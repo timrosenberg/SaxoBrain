@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
+year-of-study: "Fourth Year"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-141693.aspx
@@ -19,6 +19,9 @@ research:
   - "Exact Leduc score is dedicated to Daniel Daffayet. · https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf"
   - "Linéal in seventh/eighth-period bachelor saxophone repertoire. · https://fames.es.gov.br/Media/Fames/Ensino/Gerenciar%20Bacharelado%20em%20M%C3%BAsica%20-%20Habilita%C3%A7%C3%A3o%20em%20Instrumento/PROGRAMAS%20DO%20N%C3%9ACLEO%20DE%20SOPROS%20E%20PERCUSS%C3%83O.pdf"
   - "AL24400 alto saxophone/piano score and part. · https://www.grothmusic.com/p-141693.aspx"
+  - "Exact edition and concours origin on publisher cover. · https://www.grothmusic.com/p-141693.aspx"
+  - "Seventh/eighth-period bachelor placement, PDF pages 34-35. · https://fames.es.gov.br/Media/Fames/Ensino/Gerenciar%20Bacharelado%20em%20M%C3%BAsica%20-%20Habilita%C3%A7%C3%A3o%20em%20Instrumento/PROGRAMAS%20DO%20N%C3%9ACLEO%20DE%20SOPROS%20E%20PERCUSS%C3%83O.pdf"
+  - "Exact AL 24400 holding, publication year and local curriculum classification. · https://windmusic.org/index.php?lvl=notice_display&id=5425"
 publisher:
   - "A. Leduc"
 aliases: []
@@ -26,6 +29,13 @@ library-score:
   - "https://windmusic.org/index.php?lvl=notice_display&id=5425"
 ---
 ## Research notes (private)
+
+### Chat Batch 17 Follow-Up, October 15, 2026
+
+Linéal for alto saxophone and piano is Leduc AL 24400, score plus part. Publisher cover identifies Concours du Conservatoire National Supérieur de Musique. Official FAMES curriculum lists Linéal in seventh and eighth periods of bachelor saxophone, PDF pages 34-35. CDMC exact holding lists publication 1970 and Année 9; neither is a composition-date claim.
+
+[[Review 0188 - Jean-Paul Rieunier - Lineal|Evidence and pending recommendation]]
+
 
 ### Chat batch 12 follow-up, 2026-10-14
 
@@ -69,4 +79,3 @@ Searches checked:
 #### Catalog Details Added
 
 - Publisher: A. Leduc. [Source](https://windmusic.org/index.php?lvl=notice_display&id=5425)
-

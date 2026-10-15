@@ -17,11 +17,20 @@ research:
   - "Publisher General, catalog no. GEN823 · https://www.grothmusic.com/p-37714.aspx"
   - "General GEN823, Concerto for alto saxophone and piano, Farberman. · https://www.grothmusic.com/p-37714-concerto-alto-sax-and-piano.aspx"
   - "Exact historical saxophone/string-orchestra recording; bluesy glissandos in Largo; work exists by March 1967. · https://www.worldradiohistory.com/Archive-All-Audio/Archive-High-Fidelity/60s/High-Fidelity-1967-03.pdf"
+  - "Exact edition and original scoring visible on publisher cover. · https://www.grothmusic.com/p-37714.aspx"
+  - "Harvey Estrin recorded Farberman’s Concerto for Alto Saxophone and String Orchestra, written for him. · https://www.local802afm.org/allegro/articles/requiem-24/"
 aliases: []
 publisher:
   - "General"
 ---
 ## Research notes (private)
+
+### Chat Batch 17 Follow-Up, October 15, 2026
+
+Concerto is originally for alto saxophone and string orchestra. General Music Publishing GEN 823 is a recital version with piano reduction. American Federation of Musicians Local 802 documents that Harvey Estrin recorded this concerto, which was written for him.
+
+[[Review 0141 - Harold Farberman - Concerto|Evidence and pending recommendation]]
+
 
 ### Chat batch 10 follow-up, 2026-10-14
 

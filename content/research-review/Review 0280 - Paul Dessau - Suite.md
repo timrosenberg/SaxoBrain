@@ -3,10 +3,10 @@ title: "Review 0280: Paul Dessau - Suite"
 added: 2026-10-11
 review-id: 280
 review-packet: 12
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Paul Dessau - Suite]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [Paul Dessau - Suite.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Paul Dessau - Suite.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0280.json).
+Catalog: removed at Tim’s request on October 15, 2026.
 
 **Identity and findings.** IRCAM identifies Paul Dessau’s Suite for alto saxophone and piano, composed in 1935, about 10 minutes, with four movements. Boosey & Hawkes lists the 1989 premiere in Berlin, recommends the Frank Lunte/Tatjana Blome recording and gives a shorter duration of eight minutes. Publisher and institutional records differ on duration; do not force a correction.
 
@@ -45,3 +45,32 @@ Catalog: [Paul Dessau - Suite.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/c
 - No score notation or performance playback inspected.
 
 **Tim decision:** pending.
+
+## Chat Batch 15 Follow-Up, October 15, 2026
+
+**Proposed decision:** Retain, difficulty unknown. **Confidence:** high. **Approval:** Applied 2026-10-15.
+
+**Reason:** Retain this original concert suite. Publisher and recording evidence establish the work and published three-movement form; neither recording metadata nor descriptive notes support an exact level without notation.
+
+Boosey identifies composition in 1935, alto saxophone and piano, Bote & Bock publication, duration eight minutes. Publisher gives premiere March 31, 1989 in Berlin, Detlef Bensmann and Michael Rische. Publisher sales edition is BB 2400178, ISMN 9790202516140. EDA 22 contains Petite Ouverture, Air and Serenade performed by Frank Lunte and Tatjana Blome. IRCAM lists a fourth variations movement and ten minutes; this conflicts with the published/recorded three-movement form.
+
+**Collection context:** Original concert suite. Retain. Do not silently append IRCAM's conflicting fourth movement to the current edition.
+
+**Remaining gaps:** No notation inspected; exact college-year difficulty unknown. IRCAM four-part description differs from publisher/label edition evidence.
+
+**Sources:** [Boosey & Hawkes](https://www.boosey.com/cr/music/Paul-Dessau-Suite-fur-Altsaxophon-und-Klavier/109740) · [Boosey & Hawkes](https://boosey.com/shop/prod/Suite-Alto-Sax/606630) · [EDA Records](https://eda-records.com/177-1-CD-Details.html?cd_id=47) · [IRCAM](https://ressources.ircam.fr/fr/work/suite-1999)
+
+**Recording:** [Frank Lunte/Tatjana Blome, EDA22, three suite movements with playback selections.](https://eda-records.com/177-1-CD-Details.html?cd_id=47)
+
+**Tim’s decision:** Removed. Applied 2026-10-15.
+
+### Source Verification
+
+- [Boosey & Hawkes](https://www.boosey.com/cr/music/Paul-Dessau-Suite-fur-Altsaxophon-und-Klavier/109740): 1935, scoring, publisher, premiere and eight-minute duration. (opened).
+- [Boosey & Hawkes](https://boosey.com/shop/prod/Suite-Alto-Sax/606630): Current sale edition BB2400178, ISMN9790202516140. (opened).
+- [EDA Records](https://eda-records.com/177-1-CD-Details.html?cd_id=47): Three-movement suite and performer-written notes on the work. (opened).
+- [IRCAM](https://ressources.ircam.fr/fr/work/suite-1999): Four-part record and ten-minute duration conflict with published/recorded form. (opened).
+
+## Chat Batch 15 Decision, October 15, 2026
+
+Tim requested removal from the catalog. Original metadata and research are retained privately.

@@ -3,10 +3,10 @@ title: "Review 0289: Phillip Gates - Mood Music"
 added: 2026-10-11
 review-id: 289
 review-packet: 12
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Phillip Gates - Mood Music]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [Phillip Gates - Mood Music.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Phillip Gates - Mood Music.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0289.json).
+Catalog: removed at Tim’s request on October 15, 2026.
 
 **Identity and findings.** Camden CM061 Mood Music is a six-piece alto saxophone and piano collection credited in retailer catalogues to Philip or Phillip Gates; composer spelling remains unresolved across those listings. The National College of Music, London’s alto/baritone syllabus includes Wonderland, one title from the collection, on its Grade 5 solo list.
 
@@ -42,3 +42,29 @@ Catalog: [Phillip Gates - Mood Music.md](/Users/trosenberg/Documents/GitHub/Saxo
 - No notation or verified recording inspected.
 
 **Tim decision:** pending.
+
+## Chat Batch 15 Follow-Up, October 15, 2026
+
+**Proposed decision:** Retain, difficulty unknown. **Confidence:** medium. **Approval:** Applied 2026-10-15.
+
+**Reason:** Retain provisionally rather than extrapolating one Grade 5 selection to six pieces. Publisher confirms a concert collection bridging classical and jazz. No notation is available to establish the difficulty span or college value of all six pieces.
+
+Camden CM061, ISMN9790570340613, contains six alto saxophone/piano pieces. Publisher and printed cover both name Philip Gates, with one l; existing composer link uses Phillip. Contents: Wonderland, March Hare, Pipe Dream, Coquette, Saxe Blue, Soft Shoe. National College of Music London lists Wonderland at Grade 5; publisher also identifies its Trinity Grade 5 listing. These placements concern that selection only.
+
+**Collection context:** Six-piece original collection. One selection is demonstrably pre-college exam repertoire; collection-wide difficulty remains unverified. No whole-collection removal inferred.
+
+**Remaining gaps:** No notation inspected. No composition date or exact-work streaming verified. College suitability of remaining five pieces is unknown.
+
+**Sources:** [Camden Music](https://www.camdenmusic.com/catalog-item.php?id=00000075) · [Camden cover via Groth Music](https://grothmusic.com/images/product/large/ae00-127831.jpg) · [National College of Music, London](https://ncm-london.co.uk/wp/wp-content/uploads/2020/03/syllabus-saxophone-alto-baritone.pdf)
+
+**Tim’s decision:** Removed. Applied 2026-10-15.
+
+### Source Verification
+
+- [Camden Music](https://www.camdenmusic.com/catalog-item.php?id=00000075): Composer spelling, exact edition, scoring, six titles and Wonderland-specific syllabus reference. (opened).
+- [Camden cover via Groth Music](https://grothmusic.com/images/product/large/ae00-127831.jpg): Printed cover spells PHILIP GATES and identifies six pieces for alto saxophone/piano. (opened).
+- [National College of Music, London](https://ncm-london.co.uk/wp/wp-content/uploads/2020/03/syllabus-saxophone-alto-baritone.pdf): Wonderland at Grade 5, List B; no grade for other pieces. (opened).
+
+## Chat Batch 15 Decision, October 15, 2026
+
+Tim requested removal from the catalog. Original metadata and research are retained privately.

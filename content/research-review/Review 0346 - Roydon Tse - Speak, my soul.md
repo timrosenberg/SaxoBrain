@@ -3,8 +3,8 @@ title: "Review 0346: Roydon Tse - Speak, my soul"
 added: 2026-10-11
 review-id: 346
 review-packet: 14
-review-decision: Pending
-review-applied: false
+review-decision: "Third Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Roydon Tse - Speak, my soul]]"
 build:
@@ -38,3 +38,30 @@ Searches checked:
 - Roydon Tse Speak my soul composer page score video
 - Opened composer page and read work description, commission and linked-score information
 - Searched Speak my soul Jeffrey Leung saxophone performance
+
+## Chat Batch 16 Follow-Up, October 15, 2026
+
+**Proposed decision:** Third Year. **Confidence:** medium. **Approval:** Applied 2026-10-15.
+
+**Reason:** Third Year is a comparative inference: the composer explicitly requires circular breathing while keeping harmony and pace simple. Its specialized sustained-tone control fits upper undergraduate preparation without evidence of the broad virtuosity of Fourth Year anchors.
+
+Composer gives 2016, alto/piano, five minutes, Jeffrey Leung commission. Composer program note printed by Butler expressly requires circular breathing. Composer sells emailed PDF score/part; linked video O9FTWSHfwww.
+
+**Collection context:** Original commissioned recital work.
+
+**Remaining gaps:** No notation preview; exact range and circular-breathing phrase lengths unknown.
+
+**Sources:** [Roydon Tse](https://roydontse.com/music-and-scores/silence-my-soul/) · [Butler Arts and Events Center, Phil Pierick recital program](https://www.butlerartspresents.org/wp-content/uploads/2024/09/rev.DAS-Phil-Pierick-10-29-24-WEB.pdf)
+
+**Recording:** [Exact video embedded on composer work page.](https://www.youtube.com/watch?v=O9FTWSHfwww)
+
+**Tim’s decision:** Third Year. Applied 2026-10-15.
+
+### Source Verification
+
+- [Roydon Tse](https://roydontse.com/music-and-scores/silence-my-soul/): Year, scoring, duration, commission, slowly moving simple harmonies and exceptionally long notes. (opened).
+- [Butler Arts and Events Center, Phil Pierick recital program](https://www.butlerartspresents.org/wp-content/uploads/2024/09/rev.DAS-Phil-Pierick-10-29-24-WEB.pdf): Composer-attributed program note expressly requires circular breathing. (opened).
+
+## Chat Batch 16 Decision, October 15, 2026
+
+Tim assigned Third Year.

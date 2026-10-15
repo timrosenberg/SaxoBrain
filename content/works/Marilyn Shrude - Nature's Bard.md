@@ -7,16 +7,31 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 2020
-year-of-study: 
-streaming: "https://www.youtube.com/watch?v=QrPN9_LICuA"
-purchase: []
+year-of-study: "Fourth Year"
+streaming: "https://www.youtube.com/watch?v=TQGS7U9-TUo"
+purchase:
+  - "https://composers.com/products/natures-bard-dickinsons-autumn"
 added: 2024-02-21
 research:
   - "Full title Nature's Bard: Dickinson's Autumn; duration ca. 12:30; commissioned by and dedicated to James Umble; premiered March 7, 2020 at the NASA Biennial Conference, ASU, with James Umble and Liz Ames; published by American Composers Alliance · https://www.marilynshrude.com/works/natures-bard-dickinsons-autumn/"
   - "Program note: uses Emily Dickinson's imagery to portray autumn's changing moods · https://www.marilynshrude.com/works/natures-bard-dickinsons-autumn/"
+  - "Date, instrumentation, commission and duration. · https://www.marilynshrude.com/works/natures-bard-dickinsons-autumn/"
+  - "Score/part, publication, digital edition and preview notation. · https://composers.com/products/natures-bard-dickinsons-autumn"
+  - "Performer site labels and links the Nature’s Bard video. Actual audio not auditioned. · https://www.johnwsampen.com/video-links"
+  - "Existing video is titled Lacrimosa by Marilyn Shrude. · https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=QrPN9_LICuA&format=json"
+  - "Replacement video title is BGSU NMF 2020 - Marilyn Shrude, Nature’s Bard (Dickinson’s Autumn); channel BGSU College of Musical Arts. · https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=TQGS7U9-TUo&format=json"
 aliases: []
+publisher:
+  - "American Composers Alliance"
 ---
 ## Research notes (private)
+
+### Chat Batch 14 Follow-Up, October 15, 2026
+
+Original 2020 alto saxophone and piano work, commissioned by James Umble; composer gives ca. 12:30. ACA offers score and part in physical or licensed PDF formats; publication 2025; its 11-minute duration differs from composer.
+
+[[Review 0250 - Marilyn Shrude - Nature's Bard|Evidence and pending recommendation]]
+
 
 - Full title Nature's Bard: Dickinson's Autumn; duration ca. 12:30; commissioned by and dedicated to James Umble; premiered March 7, 2020 at the NASA Biennial Conference, ASU, with James Umble and Liz Ames; published by American Composers Alliance · [marilynshrude.com](https://www.marilynshrude.com/works/natures-bard-dickinsons-autumn/)
 - Program note: uses Emily Dickinson's imagery to portray autumn's changing moods · [marilynshrude.com](https://www.marilynshrude.com/works/natures-bard-dickinsons-autumn/)

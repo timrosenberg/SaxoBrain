@@ -3,9 +3,9 @@ title: "Review 0371: Tilen Lebar - Hassan"
 added: 2026-10-11
 review-id: 371
 review-packet: 15
-review-decision: Pending
-review-applied: false
-notation-inspected: false
+review-decision: "Advanced"
+review-applied: true
+notation-inspected: true
 catalog-entry: "[[Tilen Lebar - Hassan]]"
 build:
   render: never
@@ -49,3 +49,33 @@ Catalog: [Tilen Lebar - Hassan.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/
 - No score preview inspected; exact rhythmic notation and setup instructions remain unknown.
 
 **Tim decision:** pending.
+
+## Chat Batch 16 Follow-Up, October 15, 2026
+
+**Proposed decision:** Advanced. **Confidence:** high. **Approval:** Applied 2026-10-15.
+
+**Reason:** Advanced is strongly supported by the actual publisher preview. Specialized sound production, prepared instrument, extreme soft dynamics and close coordination with fixed media are central requirements. The second notation page adds rhythmic multiphonics and irregular groupings.
+
+Hassan (2022), for alto saxophone and tape, runs about eleven minutes. Donemus D 21530 was commissioned for SAXGO 22 and dedicated to Matjaž Drevenšek. Performance notes require an unamplified saxophonist with a stereo pair of studio monitors and carefully matched loud/soft balances.
+
+**Score observations:** Visually inspected technique legend and first two notation pages. Legend specifies whistle tones, natural multiphonics on prepared saxophone, rhythmic multiphonics, squeaks and a glass jar mute. Score aligns saxophone gestures with a tape waveform and timestamps; microtonal inflections, bisbigliando, long glissandi and pppp are explicit. Second page introduces interlocking five-note groupings and changing multiphonic fingerings.
+
+**Collection context:** Original concert repertoire; no evidence of a simplified youth transcription.
+
+**Remaining gaps:** Full score and exact performance recording not verified. Tape delivery and preparation materials must be obtained with the purchased edition.
+
+**Sources:** [Tilen Lebar official catalog](https://tilenlebar.com/compositions/) · [Donemus exact work sale](https://webshop.donemus.com/action/front/sheetmusic/21530) · [Donemus offered score preview](https://webshop.donemus.com/action/front/sheetmusic?preview=1&numdon=21530)
+
+**Score or edition:** [Donemus six-page offered preview, including two notation pages](https://webshop.donemus.com/action/front/sheetmusic?preview=1&numdon=21530)
+
+**Tim’s decision:** Advanced. Applied 2026-10-15.
+
+### Source Verification
+
+- [Tilen Lebar official catalog](https://tilenlebar.com/compositions/): Composer catalog identifies 2022 alto saxophone and tape work, eleven minutes, linked to Donemus D 21530. (opened).
+- [Donemus exact work sale](https://webshop.donemus.com/action/front/sheetmusic/21530): Exact publisher edition D 21530 offers score for alto saxophone and tape. (opened).
+- [Donemus offered score preview](https://webshop.donemus.com/action/front/sheetmusic?preview=1&numdon=21530): Public score preview contains preparation/technique legend and first two notation pages with time alignment and rhythmic multiphonics. (score_inspected).
+
+## Chat Batch 16 Decision, October 15, 2026
+
+Tim assigned Advanced.

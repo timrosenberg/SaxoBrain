@@ -3,10 +3,10 @@ title: "Review 0357: Sherwood Shaffer - Summer Nocturne"
 added: 2026-10-11
 review-id: 357
 review-packet: 15
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Sherwood Shaffer - Summer Nocturne]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [Sherwood Shaffer - Summer Nocturne.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Sherwood Shaffer - Summer Nocturne.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0357.json).
+Catalog: removed at Tim’s request on October 15, 2026.
 
 **Identity and findings.** Sherwood Shaffer’s Summer Nocturne is an alto saxophone and piano work in Dorn DORN1405. Andrew Paul Hays’s 2007 DMA dissertation at the University of North Carolina at Greensboro identifies it as a five-movement continuous work written for Jonathan Helton during his undergraduate study at North Carolina School of the Arts.
 
@@ -43,3 +43,33 @@ Catalog: [Sherwood Shaffer - Summer Nocturne.md](/Users/trosenberg/Documents/Git
 - No verified recording located.
 
 **Tim decision:** pending.
+
+## Chat Batch 16 Follow-Up, October 15, 2026
+
+**Proposed decision:** Third Year. **Confidence:** medium. **Approval:** Applied 2026-10-15.
+
+**Reason:** Third Year is a comparative inference from Hays specific performance description: the saxophone part is moderately difficult, while piano and ensemble are demanding. The linked sixteen-minute form and subtle meter work merit preparation beyond lyrical First Year anchors. Senior-recital history is supporting context, not the grading basis.
+
+Groth composer note states written 1981 for Jonathan Helton; five movements without major pauses. Hays describes moderate saxophone difficulty, very difficult piano and complicated ensemble. Groth says premiere 1981; Hays interviewed account says spring 1982 senior recital. Preserve discrepancy. Jonathan Helton official discography verifies Centaur 3065 with Barbara Gonzalez-Palmer.
+
+**Collection context:** Complete five-movement original cycle, not isolated movement entries.
+
+**Remaining gaps:** No notation inspected; difficulty analysis currently search-index-only because full Hays PDF fetch is blocked. Premiere date differs between sources.
+
+**Sources:** [Groth Music](https://www.grothmusic.com/p-146118-summer-nocturne-alto-saxophone-and-piano.aspx) · [Andrew Paul Hays, UNCG 2007 DMA](https://libres.uncg.edu/ir/uncg/f/umi-uncg-1440.pdf) · [Jonathan Helton](https://www.jonathanhelton.com/p/discography.html) · [Apple Music Classical](https://classical.music.apple.com/us/album/450601120) · [Apple public catalog API](https://itunes.apple.com/lookup?id=450601120&entity=song)
+
+**Recording:** [Summer Nocturne: I. Verse: The Dark Has a Star of Its Own; Jonathan Helton & Barbara Gonzalez-Palmer](https://music.apple.com/us/album/summer-nocturne-i-verse-the-dark-has-a-star-of-its-own/450601120?i=450601197) · [Summer Nocturne: II. Go and Catch a Falling Star; Jonathan Helton & Barbara Gonzalez-Palmer](https://music.apple.com/us/album/summer-nocturne-ii-go-and-catch-a-falling-star/450601120?i=450601198) · [Summer Nocturne: III. Verse (Reprise); Jonathan Helton & Barbara Gonzalez-Palmer](https://music.apple.com/us/album/summer-nocturne-iii-verse-reprise/450601120?i=450601199) · [Summer Nocturne: IV. The Night in Silence Under Many a Star; Jonathan Helton & Barbara Gonzalez-Palmer](https://music.apple.com/us/album/summer-nocturne-iv-the-night-in-silence-under-many-a-star/450601120?i=450601200) · [Summer Nocturne: V. Verse (Envoi); Jonathan Helton & Barbara Gonzalez-Palmer](https://music.apple.com/us/album/summer-nocturne-v-verse-envoi/450601120?i=450601201)
+
+**Tim’s decision:** Removed. Applied 2026-10-15.
+
+### Source Verification
+
+- [Groth Music](https://www.grothmusic.com/p-146118-summer-nocturne-alto-saxophone-and-piano.aspx): 1981 creation, poetic program, five connected movements and Dorn 1405. (opened).
+- [Andrew Paul Hays, UNCG 2007 DMA](https://libres.uncg.edu/ir/uncg/f/umi-uncg-1440.pdf): Printed page13 describes moderate solo part, very difficult piano, complicated ensemble and 1982 senior recital. (search_index_only).
+- [Jonathan Helton](https://www.jonathanhelton.com/p/discography.html): Exact recorded work and performers on Centaur 3065. (opened).
+- [Apple Music Classical](https://classical.music.apple.com/us/album/450601120): Exact five-track Summer Nocturne performance, 16:10, Helton and Gonzalez-Palmer. (opened).
+- [Apple public catalog API](https://itunes.apple.com/lookup?id=450601120&entity=song): Exact movement titles, artist credits and individual track URLs checked; only the correct work movements are linked. (opened).
+
+## Chat Batch 16 Decision, October 15, 2026
+
+Tim requested removal from the catalog. Original metadata and research are retained privately.

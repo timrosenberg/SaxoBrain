@@ -7,16 +7,36 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
+year-of-study: "Third Year"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-141082.aspx
 added: 2024-03-08
 research:
   - "Three movements: I. Allegro ma non troppo, II. Andante, III. Agitato; publisher Andel Editions, catalog no. 9790365114313; 21 pages · https://www.grothmusic.com/p-141082.aspx"
+  - "Andel edition, 21 pages, score/parts and movement headings. · https://www.grothmusic.com/p-141082.aspx"
+  - "Edition imprint, alto/piano scoring, dedication and opening notation. · https://grothmusic.com/images/product/large/ae00-122478_2_.jpg"
+  - "Opening score: Paul Sana Concerto for alto saxophone and piano, Andel; dedicated to Alain Crépin. · https://grothmusic.com/images/product/large/ae00-122478_2_.jpg"
+  - "Exact edition, three movements and 21 pages. · https://www.grothmusic.com/p-141082.aspx"
 aliases: []
+publisher:
+  - "Andel Editions"
 ---
 ## Research notes (private)
+
+### Chat Batch 17 Follow-Up, October 15, 2026
+
+The concerto opening remains too brief for grading; fresh federation repertoire evidence supports retention.
+
+[[Review 0283 - Paul Sana - Concerto|Evidence and pending recommendation]]
+
+
+### Chat Batch 15 Follow-Up, October 15, 2026
+
+Andel edition 9790365114313 is alto saxophone and piano, 21 pages, three movements. Retailer movement labels: Allegro ma non troppo, Andante, Agitato. Score opening is dedicated to Alain Crépin and begins Largo rubato before Maestoso and Allegro ma non troppo.
+
+[[Review 0283 - Paul Sana - Concerto|Evidence and pending recommendation]]
+
 
 - Three movements: I. Allegro ma non troppo, II. Andante, III. Agitato; publisher Andel Editions, catalog no. 9790365114313; 21 pages · [grothmusic.com](https://www.grothmusic.com/p-141082.aspx)
 
@@ -46,4 +66,3 @@ Catalog: [Paul Sana - Concerto.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/
 - No score notation or recording located.
 
 **Tim decision:** pending.
-

@@ -16,11 +16,19 @@ research:
   - "Publisher Maurer, catalog number MAURER04 · https://www.grothmusic.com/p-142041.aspx"
   - "Includes piano score and solo alto sax part · https://www.grothmusic.com/p-142041.aspx"
   - "Exact composer, publisher/catalog number, forces, score-plus-part format and six pages. · https://www.grothmusic.com/p-142041.aspx"
+  - "Exact composer, title, scoring and edition; cover inspected. · https://www.grothmusic.com/p-142041.aspx"
 aliases: []
 publisher:
   - "Maurer"
 ---
 ## Research notes (private)
+
+### Chat Batch 17 Follow-Up, October 15, 2026
+
+Daniel Lefebvre’s Diptyque is for alto saxophone and piano, Éditions J. Maurer, MAURER 04. Groth lists score plus solo part and six pages.
+
+[[Review 0061 - Daniel Lefebvre - Diptyque|Evidence and pending recommendation]]
+
 
 ### Chat batch 07 follow-up, 2026-10-13
 

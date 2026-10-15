@@ -3,9 +3,9 @@ title: "Review 0276: Pascal Proust - Strophes"
 added: 2026-10-11
 review-id: 276
 review-packet: 12
-review-decision: Pending
-review-applied: false
-notation-inspected: false
+review-decision: "First Year"
+review-applied: true
+notation-inspected: true
 catalog-entry: "[[Pascal Proust - Strophes]]"
 build:
   render: never
@@ -42,3 +42,32 @@ Catalog: [Pascal Proust - Strophes.md](/Users/trosenberg/Documents/GitHub/SaxoBr
 - The composer’s and retailers’ page-count/duration details should be confirmed against score/performance.
 
 **Tim decision:** pending.
+
+## Chat Batch 14 Follow-Up, October 15, 2026
+
+**Proposed decision:** First Year. **Confidence:** medium. **Approval:** Applied 2026-10-15.
+
+**Reason:** Inference from complete solo part: six minutes of chromatic phrasing, changing meters and articulated upper-register passages fit early college study near the Tcherepnin anchor. Composer labels Cycle 2; this is a substantial original teaching piece.
+
+Alto saxophone and piano; three movements; six minutes; composer classifies Cycle 2/intermediate. Score copyright 2004 is publication evidence; composed year unknown.
+
+**Score observations:** Inspected all three solo-part pages. I begins with an unbarred accented gesture, then changing 4/4,2/4,5/4 and a short free passage; flutter is ad libitum. II: Lento quarter=48, chromatic accidentals, triplet and quintuplet groups, long dynamics, and changing 3/4,4/4,2/4,6/4. III: Allegro dotted-quarter=120 in 6/8; repeated staccato eighths, chromatic triplets in 2/4 and register leaps; no required multiphonics seen.
+
+**Collection context:** Original pedagogical concert work; retain despite Cycle 2 label.
+
+**Remaining gaps:** Composition year and recording unverified. Piano part not inspected.
+
+**Sources:** [Pascal Proust composer catalog](https://www.pascal-proust.fr/catalogue/bois/saxophone/saxophone-et-piano/strophes/) · [Groth Music exact score sale](https://www.grothmusic.com/p-148239.aspx)
+
+**Score or edition:** [Complete solo-part page 1](https://www.pascal-proust.fr/wp-content/uploads/2020/02/img20240721_11472588.jpg) · [Complete solo-part page 2](https://www.pascal-proust.fr/wp-content/uploads/2020/02/img20240721_11475394.jpg) · [Complete solo-part page 3](https://www.pascal-proust.fr/wp-content/uploads/2020/02/img20240721_11482669.jpg)
+
+**Tim’s decision:** First Year. Applied 2026-10-15.
+
+### Source Verification
+
+- [Pascal Proust composer catalog](https://www.pascal-proust.fr/catalogue/bois/saxophone/saxophone-et-piano/strophes/): Instrumentation, duration, Cycle 2 designation and complete three-page saxophone part. (opened).
+- [Groth Music exact score sale](https://www.grothmusic.com/p-148239.aspx): Exact LeducAL29593 Strophes score sales listing. (opened).
+
+## Chat Batch 14 Decision, October 15, 2026
+
+Tim assigned First Year.

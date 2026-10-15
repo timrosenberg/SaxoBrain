@@ -6,17 +6,32 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
+  - "Soprano Saxophone"
+  - "Tenor Saxophone"
 composed: 
-year-of-study: 
+year-of-study: "Third Year"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-143412.aspx
 added: 2024-03-08
 research:
   - "Triangle: Ballad for 1 Player and 3 Saxophones and Piano; three movements: I. Caprice, II. Lied, III. Rondo; publisher Rideau Rouge, catalog no. RR1217 · https://www.grothmusic.com/p-143412.aspx"
+  - "One player, three named saxophones, piano and movement titles. · https://www.grothmusic.com/p-143412.aspx"
+  - "Piano-score opening: concert-pitch staff and Vermeeren dedication. · https://grothmusic.com/images/product/large/ae00-125093_2_.jpg"
+  - "Alto-part opening of Caprice. · https://grothmusic.com/images/product/large/ae00-125093_3_.jpg"
 aliases: []
+publisher:
+  - "Éditions Rideau Rouge"
+multi-instruments: "One player doubling soprano, alto and tenor saxophones, with piano"
 ---
 ## Research notes (private)
+
+### Chat Batch 16 Follow-Up, October 15, 2026
+
+Triangle is for one player using soprano, alto and tenor saxophones, with piano. Rideau Rouge RR 1217 contains Caprice, Lied and Rondo. Score is dedicated to Jean-Pierre Vermeeren and bears copyright 1975.
+
+[[Review 0308 - Pierre-Max DuBois - Triangle|Evidence and pending recommendation]]
+
 
 - Triangle: Ballad for 1 Player and 3 Saxophones and Piano; three movements: I. Caprice, II. Lied, III. Rondo; publisher Rideau Rouge, catalog no. RR1217 · [grothmusic.com](https://www.grothmusic.com/p-143412.aspx)
 

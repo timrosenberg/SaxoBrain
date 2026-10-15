@@ -1,24 +1,24 @@
 ---
-title: "Sonatine"
+title: Sonatine, GeWV. 247
 slug: harald-genzmer-sonatine
 composer:
   - "[[Harald Genzmer]]"
 instruments:
-  - "Alto Saxophone"
-  - "Piano"
+  - Alto Saxophone
+  - Piano
 composed: 1982
-year-of-study: "Third Year"
-streaming: 
+year-of-study: Third Year
+streaming:
 purchase:
   - https://www.grothmusic.com/p-144590.aspx
 added: 2024-03-08
 research:
   - "Publisher Ries & Erler, catalog RE24009; three movements: Allegro, Andante tranquillo, Vivace · https://www.grothmusic.com/p-144590.aspx"
-  - "Edition, instrumentation, page count and three movement titles. · https://www.grothmusic.com/p-144590-sonatine-alto-saxophone-and-piano.aspx"
-  - "Opening tempo, meter, solo entry, chromatic figures and dynamics; publisher imprint and ISMN. · https://www.grothmusic.com/images/product/large/1071-RE24009_2_.jpg"
-  - "GeWV 247 (1982), RE24009 and ISMN. · https://www.stretta-music.cz/genzmer-sonatine-alt-saxophon-in-es-und-klavier-gewv-247-1982-nr-105881.html"
+  - Edition, instrumentation, page count and three movement titles. · https://www.grothmusic.com/p-144590-sonatine-alto-saxophone-and-piano.aspx
+  - Opening tempo, meter, solo entry, chromatic figures and dynamics; publisher imprint and ISMN. · https://www.grothmusic.com/images/product/large/1071-RE24009_2_.jpg
+  - GeWV 247 (1982), RE24009 and ISMN. · https://www.stretta-music.cz/genzmer-sonatine-alt-saxophon-in-es-und-klavier-gewv-247-1982-nr-105881.html
 publisher:
-  - "Ries & Erler"
+  - Ries & Erler
 aliases: []
 ---
 ## Research notes (private)

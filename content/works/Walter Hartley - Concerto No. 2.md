@@ -7,17 +7,28 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 1989
-year-of-study: 
+year-of-study: "Third Year"
 streaming: 
-purchase: []
+purchase:
+  - "https://www.grothmusic.com/p-139980.aspx"
 added: 2024-03-08
 research:
   - "Concerto No. 2 for alto saxophone and small orchestra, 1989; Dorn Publications; ca. 10:30 (ECU library record) · https://lib.ecu.edu/catalog-preview/catalog/958336"
+  - "Exact piano reduction and alto solo part, 33 pages, DP1055; three movements Allegro/Adagio/Presto; 1989; for Dale Underwood. · https://www.grothmusic.com/p-139980.aspx"
+  - "Manuscript score opening explicitly titled Concerto No. 2 for alto saxophone and small orchestra 1989; for Dale Underwood; Allegro quarter note 126, score in C. · https://grothmusic.com/images/product/large/ae00-121578_2_.jpg"
+  - "Catalog lists DP1055 among alto saxophone and piano works and DP431 as small-orchestra score and parts. · https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf"
 publisher:
   - "Dorn Publications"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat Batch 17 Follow-Up, October 15, 2026
+
+Prior estate no. 173 is an estate work-list index, not the current Dorn piano catalog number. Current piano edition is DP1055; orchestral score/parts DP431.
+
+[[Review 0385 - Walter Hartley - Concerto No. 2|Evidence and pending recommendation]]
+
 
 - Concerto No. 2 for alto saxophone and small orchestra, 1989; Dorn Publications; ca. 10:30 (ECU library record) · [lib.ecu.edu](https://lib.ecu.edu/catalog-preview/catalog/958336)
 
@@ -39,4 +50,3 @@ Catalog: [[Walter Hartley - Concerto No. 2]]
 #### Catalog Details Added
 
 - Publisher: Dorn Publications. [Source](https://www.walterhartley.com/Saxophone_2.htm)
-

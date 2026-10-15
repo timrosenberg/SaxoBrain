@@ -6,18 +6,29 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
-year-of-study: 
-streaming: 
-purchase: []
+composed: 2018
+year-of-study: "Fourth Year"
+streaming: "https://www.selmer.fr/en/blogs/artistes/alessandro-malagnino"
+purchase:
+  - "https://www.billaudot.com/gb10105-6.html"
 added: 2024-02-23
 research:
   - "Billaudot's Saxophone Sound Technique (Vincent David) builds exercises around this piece among others · https://billaudot.com/saxophone-sound-technique.html"
+  - "GB10105, alto saxophone and piano, 8:30, 44 pages, difficult cycle 3, adults; fast asymmetrical 3/3/2/3 and 3/3/3/2 groupings. Copyright 2020. · https://www.billaudot.com/gb10105-6.html"
+  - "Explicit composition date 2018; alto saxophone and piano; Billaudot GB10105. · https://brahms.ircam.fr/en/work/eveil-de-la-toupie-2020-01-01"
+  - "Official artist page offers audio labeled Alessandro Malagnino L eveil de la toupie Vincent David. · https://www.selmer.fr/en/blogs/artistes/alessandro-malagnino"
 publisher:
   - "Éditions Billaudot"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat Batch 17 Follow-Up, October 15, 2026
+
+Publisher-documented fast asymmetrical waltz and sustained concert scale support a provisional upper-college placement.
+
+[[Review 0378 - Vincent David - Éveil de la Toupie|Evidence and pending recommendation]]
+
 
 - Billaudot's Saxophone Sound Technique (Vincent David) builds exercises around this piece among others · [billaudot.com](https://billaudot.com/saxophone-sound-technique.html)
 
@@ -40,4 +51,3 @@ Catalog: [[Vincent David - Éveil de la Toupie]]
 #### Catalog Details Added
 
 - Publisher: Éditions Billaudot. [Source](https://www.billaudot.com/eveil-de-la-toupie.html)
-

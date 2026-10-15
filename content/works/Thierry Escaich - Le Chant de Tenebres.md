@@ -5,17 +5,30 @@ composer:
   - "[[Thierry Escaich]]"
 instruments:
   - "Soprano Saxophone"
+  - "Piano"
 composed: 
-year-of-study: 
+year-of-study: "Advanced"
 streaming: 
 purchase:
-  - https://www.grothmusic.com/p-37415.aspx
+  - "https://www.grothmusic.com/p-37415.aspx"
+  - "https://www.billaudot.com/le-chant-des-tenebres-3.html"
 added: 2025-04-18
 research:
   - "Publisher Billaudot, catalog no. GB5367; soprano (or tenor) sax and piano · https://www.grothmusic.com/p-37415.aspx"
+  - "Exact GB 5367 publisher sale identifies soprano saxophone or B-flat clarinet and piano, fifteen minutes, concert level. · https://www.billaudot.com/le-chant-des-tenebres-3.html"
+  - "Specialist edition description identifies the piano reduction as advanced and states altissimo to B; no multiphonics or extended articulation techniques reported. · https://vcisinc.com/saxophonemusic.htm"
 aliases: []
+publisher:
+  - "Éditions Billaudot"
 ---
 ## Research notes (private)
+
+### Chat Batch 16 Follow-Up, October 15, 2026
+
+Billaudot GB 5367 is the piano reduction of the concerto for soprano saxophone and twelve saxophones. Publisher nomenclature specifies soprano saxophone or B-flat clarinet and piano; it does not explicitly authorize tenor saxophone. The original concerto is dated 1992 in the composer catalog; Billaudot marks the reduction concert level, contemporary, fifteen minutes.
+
+[[Review 0367 - Thierry Escaich - Le Chant de Tenebres|Evidence and pending recommendation]]
+
 
 - Publisher Billaudot, catalog no. GB5367; soprano (or tenor) sax and piano · [grothmusic.com](https://www.grothmusic.com/p-37415.aspx)
 

@@ -6,21 +6,33 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
+  - "Organ"
 composed: 
-year-of-study: 
+year-of-study: "First Year"
 arranger-edition:
   - "Trent Kynaston"
 streaming: 
 purchase:
-  - https://www.grothmusic.com/p-144217.aspx
+  - "https://www.grothmusic.com/p-144217.aspx"
+  - "https://www.ficksmusic.com/products/reger-romance-arr-for-alto-sax-piano-advance"
 added: 2024-03-08
 research:
   - "Transcribed by Trent Kynaston; publisher Advance Music, catalog no. ADV7054 · https://www.grothmusic.com/p-144217.aspx"
+  - "Exact edition, transcriber and instrumentation. · https://www.schott-music.com/en/series/classics-for-saxophone"
+  - "Andante con moto quarter=72,6/8, slurred chromatic melodic line and expressive tempo/dynamic markings on scorep2. · https://content.alfred.com/catpages/01-ADV7054.pdf"
+  - "Exact score sale ADV7054. Original work identification remains retailer-sourced. · https://www.ficksmusic.com/products/reger-romance-arr-for-alto-sax-piano-advance"
 publisher:
   - "Advance Music"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat Batch 14 Follow-Up, October 15, 2026
+
+Advance Music ADV7054, Trent Kynaston transcription for alto saxophone and piano or organ. Edition preview copyright2002 is not composition date.
+
+[[Review 0261 - Max Reger - Romanze|Evidence and pending recommendation]]
+
 
 - Transcribed by Trent Kynaston; publisher Advance Music, catalog no. ADV7054 · [grothmusic.com](https://www.grothmusic.com/p-144217.aspx)
 

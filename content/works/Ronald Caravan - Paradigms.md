@@ -8,7 +8,7 @@ instruments:
 tags:
   - "Etude"
 composed: 
-year-of-study: 
+year-of-study: "Third Year"
 arranger-edition: 
 publisher:
   - "Dorn"
@@ -19,9 +19,20 @@ purchase:
 added: 2026-10-09
 research:
   - "Paradigms I (Dorn Publications DORN1148): ten graded pieces using contemporary techniques (quarter tones, multiphonics, slap tongue, key clicks); 20 pages; commissioned by The Saxophone Service, dedicated to Everett Gates · https://www.grothmusic.com/p-144055.aspx"
+  - "Dorn study catalog lists Paradigms I order1148 and Paradigms II order1106 separately. · https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf"
+  - "Senior BA recital April24 2022 includes Paradigms I, Ballad in Color and Graphics. Program describes ten graded concert pieces for alto adaptable to other saxophones and unconventional techniques. · https://frontpage.gcsu.edu/sites/default/files/uploadedfiles/Dakota%20Snow%20Program.pdf"
+  - "Paradigms I is included among selected saxophone etudes. · https://home.uncg.edu/~scstusek/etudes.html"
+  - "Educator chronology dates composition of ParadigmsI to 1976, not a date for the combinedI/II entry. · https://www.stevestusek.com/saxophone-history-timeline"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat Batch 16 Follow-Up, October 15, 2026
+
+Existing two purchase URLs refer to different numbered volumes; title should clarify scope before any difficulty assignment. An educator chronology dates composition of Paradigms I to 1976; do not apply one composition year to a combined I/II entry.
+
+[[Review 0343 - Ronald Caravan - Paradigms|Evidence and pending recommendation]]
+
 
 - Paradigms I (Dorn Publications DORN1148): ten graded pieces using contemporary techniques (quarter tones, multiphonics, slap tongue, key clicks); 20 pages; commissioned by The Saxophone Service, dedicated to Everett Gates · [grothmusic.com](https://www.grothmusic.com/p-144055.aspx)
 

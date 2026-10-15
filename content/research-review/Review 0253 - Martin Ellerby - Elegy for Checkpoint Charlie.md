@@ -3,10 +3,10 @@ title: "Review 0253: Martin Ellerby - Elegy for Checkpoint Charlie"
 added: 2026-10-11
 review-id: 253
 review-packet: 11
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Martin Ellerby - Elegy for Checkpoint Charlie]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog entry: [[Martin Ellerby - Elegy for Checkpoint Charlie]].
+Catalog: removed at Tim’s request on October 15, 2026.
 
 Martin Ellerby, Elegy for 'Checkpoint Charlie' (2003), for E-flat alto saxophone and junior concert band, with a piano-accompaniment edition. The composer says the solo part was designed at ABRSM Grade 5 level to play with a typical school wind ensemble around Grade 2+; the piano version retains the main contours. Wind Music catalogues the 2005 Studio Music alto/piano score separately from a 2012 concert-band recording.
 [Martin Ellerby composer work page](https://www.martinellerby.com/cb-elegy-for-checkpoint-charlie) (opened): Composer lists the 2003 solo E-flat alto saxophone and junior concert band version, plus piano accompaniment; the note describes the intended contrast between an ABRSM Grade 5 solo part and a typical school band around Grade 2+, and calls piano a familiarization/accompaniment alternative.
@@ -45,3 +45,27 @@ Searches checked:
 - Martin Ellerby Elegy for Checkpoint Charlie alto saxophone piano score
 - Opened composer work page and read its performance/teaching note
 - Opened Wind Music archive score and separate band-recording entries
+
+## Chat Batch 14 Follow-Up, October 15, 2026
+
+**Proposed decision:** Remove. **Confidence:** high. **Approval:** Applied 2026-10-15.
+
+**Reason:** Composer explicitly designed the solo for ABRSM Grade 5 alongside a junior school wind band. That pedagogical target is concrete evidence of mismatch with the college/pro scope.
+
+Composer identifies ABRSM Grade 5 solo with approximately grade 2+ school wind ensemble, duration ca. 3:30, published by Studio Music. Piano accompaniment is recomposed, preserves the main contours, and may serve independently or for familiarization.
+
+**Collection context:** Original pedagogical work, not a simplified transcription. Proposed removal remains pending.
+
+**Remaining gaps:** No notation inspected. Composition year 2003 retained from catalog but not reverified on opened work page.
+
+**Sources:** [Martin Ellerby, composer](https://www.martinellerby.com/cb-elegy-for-checkpoint-charlie)
+
+**Tim’s decision:** Removed. Applied 2026-10-15.
+
+### Source Verification
+
+- [Martin Ellerby, composer](https://www.martinellerby.com/cb-elegy-for-checkpoint-charlie): Intended school-band audience, solo grade, publisher and piano-version explanation. (opened).
+
+## Chat Batch 14 Decision, October 15, 2026
+
+Tim requested removal. Original metadata and research are retained privately.

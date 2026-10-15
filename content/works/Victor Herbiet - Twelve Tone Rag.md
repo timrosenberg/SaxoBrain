@@ -7,16 +7,28 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
-streaming: 
+year-of-study: "Second Year"
+streaming: "https://music.apple.com/us/album/twelve-tone-rag/1377267433?i=1377268108"
 purchase:
   - https://www.grothmusic.com/p-143499.aspx
 added: 2024-03-08
 research:
   - "Publisher Dorn Publications, catalog no. DORN1947; alto sax and piano · https://www.grothmusic.com/p-143499.aspx"
+  - "Composer catalog confirms original alto/piano work and Dorn publisher. · https://www.victorherbiet.com/complete-composition-catalog"
+  - "Actual opening score shows quarter 100 introduction, Fast Rag quarter 120, chromatic syncopated solo and independent piano accompaniment. · https://www.grothmusic.com/x-mc-product-picture.aspx?ProductID=143499&ErrorExisted=0"
+  - "Exact track title, Herbiet/Lacroix artistcredit and track URL verified in Apple publiccatalog API. · https://itunes.apple.com/lookup?id=1377267433&entity=song"
 aliases: []
+publisher:
+  - "Dorn Publications"
 ---
 ## Research notes (private)
+
+### Chat Batch 16 Follow-Up, October 15, 2026
+
+Composer’s own catalog identifies Twelve Tone Rag as original alto/piano music published by Dorn. The inspected score has 2015 copyright, which is not assumed to be composition date. Exact 2018 recording by Victor Herbiet and Frédéric Lacroix is five minutes, on The Roadtothe Ethereal Gate.
+
+[[Review 0377 - Victor Herbiet - Twelve Tone Rag|Evidence and pending recommendation]]
+
 
 - Publisher Dorn Publications, catalog no. DORN1947; alto sax and piano · [grothmusic.com](https://www.grothmusic.com/p-143499.aspx)
 

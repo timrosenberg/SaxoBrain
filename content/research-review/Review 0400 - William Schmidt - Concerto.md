@@ -3,9 +3,9 @@ title: "Review 0400: William Schmidt - Concerto"
 added: 2026-10-11
 review-id: 400
 review-packet: 16
-review-decision: Pending
-review-applied: false
-notation-inspected: false
+review-decision: "Fourth Year"
+review-applied: true
+notation-inspected: true
 catalog-entry: "[[William Schmidt - Concerto]]"
 build:
   render: never
@@ -30,3 +30,34 @@ Catalog: [[William Schmidt - Concerto]]
 - Collection/use: Performed on a university senior recital; accompaniment setting may be piano reduction rather than orchestra.
 - Review focus: Inference: concerto format plus a full recital performance provide a concrete college-programming precedent; inspect score for actual solo and accompaniment demands.
 - Gaps: Recital audio was not downloaded or auditioned; no score notation inspected; duration and orchestration remain unresolved.
+
+## Chat Batch 17 Follow-Up, October 15, 2026
+
+**Proposed decision:** Fourth Year. **Confidence:** medium. **Approval:** Recorded 2026-10-15.
+
+**Reason:** Propose Fourth Year from the actual opening score and documented university recital use. This is an inference from a limited excerpt, so the complete solo part could justify a different placement.
+
+Western International Music AV257 is the alto concerto dedicated to Douglas Masek. The cover specifies symphonic winds and a piano reduction by the composer, edited by Sharon Davis. Groth lists 62 pages. The preview bears a 1994 copyright, which is not confirmed as the composition year. The University of Arkansas archive lists William Schmidt’s Concerto in Will Brani’s April 25, 2015 saxophone recital with pianist S. Michael Shuman. The public page supplies program metadata, not an accessible player verified here.
+
+**Score observations:** Opening marked quarter note 108-112. The inspected first page moves between 6/4 and 4/4, with rapid chromatic figures, changing articulations, wide expressive gestures and a busy independent piano reduction. The excerpt does not establish the full range or every later technical demand.
+
+**Collection context:** Original alto concerto with winds and a piano reduction. University recital use supports retaining it.
+
+**Remaining gaps:** Full solo part, total duration and later extended techniques not verified. No accessible exact-work streaming player confirmed. Do not confuse with Schmidt’s tenor concerto for Roger Greenberg.
+
+**Sources:** [Groth Music publisher-supplied score preview](https://www.grothmusic.com/p-143369.aspx) · [University of Arkansas ScholarWorks recital archive](https://scholarworks.uark.edu/musccr/127/)
+
+**Score or edition:** [AV257 cover and actual opening score](https://www.grothmusic.com/p-143369.aspx)
+
+**Tim’s decision:** Fourth Year. Applied 2026-10-15.
+
+### Source Verification
+
+- [Groth Music publisher-supplied score preview](https://www.grothmusic.com/p-143369.aspx): AV257 cover identifies alto saxophone and symphonic winds, piano reduction by the composer, edited by Sharon Davis, dedicated to Douglas Masek. First score page visually inspected. (score_inspected).
+- [University of Arkansas ScholarWorks recital archive](https://scholarworks.uark.edu/musccr/127/): University recital record credits Schmidt Concerto, Will Brani and S. Michael Shuman, April 25, 2015. (opened).
+
+## Chat Batch 17 Decision, October 15, 2026
+
+Tim assigned Fourth Year.
+
+**Tim’s decision:** Fourth Year. Applied 2026-10-15.

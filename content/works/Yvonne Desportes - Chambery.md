@@ -5,19 +5,30 @@ composer:
   - "[[Yvonne Desportes]]"
 instruments:
   - "Soprano Saxophone"
+  - "Organ"
 composed: 
-year-of-study: 
+year-of-study: "Third Year"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-142740.aspx
 added: 2025-04-18
 research:
   - "Publisher Dorn Publications, catalog no. DORN0858; soprano sax (or oboe) and organ; 60 pages; five movements: Chambery, La Fontina des Elephants, Les Charmettes, Le Gaint Guaire, La Gainte Chapelle · https://www.grothmusic.com/p-142740.aspx"
+  - "Dorn 858 cover confirms soprano saxophone or oboe with organ and five movement titles. Actual score and soprano part from the first piece inspected. · https://www.grothmusic.com/p-142740.aspx"
 publisher:
   - "Dorn Publications"
 aliases: []
 ---
 ## Research notes (private)
+
+**Earlier research superseded:** Use the movement names printed on the publisher cover: La Fontaine des Éléphants, Les Charmettes, Le Saint Suaire and La Sainte Chapelle. Retailer spellings such as La Fontina and Le Gaint Guaire are errors.
+
+### Chat Batch 17 Follow-Up, October 15, 2026
+
+Dorn 858 is a five-piece set for soprano saxophone or oboe and organ, with separate solo parts. Groth lists 60 pages. The cover titles are Chambéry, La Fontaine des Éléphants, Les Charmettes, Le Saint Suaire and La Sainte Chapelle. Several retailer transcriptions of those names are incorrect. The inspected edition bears a 1981 copyright. That is not confirmed as the composition date or the date of the saxophone version.
+
+[[Review 0407 - Yvonne Desportes - Chambery|Evidence and pending recommendation]]
+
 
 - Publisher Dorn Publications, catalog no. DORN0858; soprano sax (or oboe) and organ; 60 pages; five movements: Chambery, La Fontina des Elephants, Les Charmettes, Le Gaint Guaire, La Gainte Chapelle · [grothmusic.com](https://www.grothmusic.com/p-142740.aspx)
 
@@ -47,4 +58,3 @@ Searches checked:
 #### Catalog Details Added
 
 - Publisher: Dorn Publications. [Source](https://www.grothmusic.com/images/DP%20Catalog%20Nov%202024.pdf)
-

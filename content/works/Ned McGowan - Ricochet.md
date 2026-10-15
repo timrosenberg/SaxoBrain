@@ -6,18 +6,30 @@ composer:
 instruments:
   - "Baritone Saxophone"
   - "Percussion"
-composed: 
-year-of-study: 
+composed: 2014
+year-of-study: "Fourth Year"
 streaming: 
-purchase: []
+purchase:
+  - "https://webshop.donemus.com/action/front/sheetmusic/13753"
 library-recording:
   - "https://search.alexanderstreet.com/lti/view/work/bibliographic_entity|score|5282983"
 added: 2025-04-21
 research:
   - "Composer's site lists Ricochet (2014) for contrabass flute and percussion, with alternates for bass clarinet; no baritone sax version listed, so composed year may not apply to this catalog entry · https://www.nedmcgowan.com/list-of-works-2/"
+  - "Exact baritone/percussion version, year, duration, edition and paid PDF/print options. · https://webshop.donemus.com/action/front/sheetmusic/13753"
+  - "Low-A baritone requirement; changing meters, accented attacks and continuous later rhythmic cells on score pp.1-4. · https://webshop.donemus.com/action/front/sheetmusic/13753"
 aliases: []
+publisher:
+  - "Donemus"
 ---
 ## Research notes (private)
+
+### Chat Batch 14 Follow-Up, October 15, 2026
+
+Ricochet, version for baritone saxophone and percussion; 2014; 12 minutes; Donemus 13753. Score available as paid PDF or print.
+
+[[Review 0271 - Ned McGowan - Ricochet|Evidence and pending recommendation]]
+
 
 - Composer's site lists Ricochet (2014) for contrabass flute and percussion, with alternates for bass clarinet; no baritone sax version listed, so composed year may not apply to this catalog entry · [nedmcgowan.com](https://www.nedmcgowan.com/list-of-works-2/)
 

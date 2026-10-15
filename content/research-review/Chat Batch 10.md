@@ -163,7 +163,7 @@ Intégrale offers concrete work-specific evidence: about 7 minutes, no extended 
 
 ## 10. Harald Genzmer - Sonate (Alto)
 
-[[Harald Genzmer - Sonate (Alto)|Work page]] · [[Review 0137 - Harald Genzmer - Sonate (Alto)|Full review]]
+[[Harald Genzmer - Sonate|Work page]] · [[Review 0137 - Harald Genzmer - Sonate (Alto)|Full review]]
 
 Genzmer's 1984 alto Sonata now has useful score-review evidence: seventh leaps, written altissimo G in the first movement and Largo, and a 7/8 finale with virtuosic runs. A contemporary Tibia reviewer supplies these observations. The actual notation remains unavailable for inspection.
 

@@ -3,10 +3,10 @@ title: "Review 0356: Sherwood Shaffer - Sicilienne"
 added: 2026-10-11
 review-id: 356
 review-packet: 15
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Sherwood Shaffer - Sicilienne]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [Sherwood Shaffer - Sicilienne.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Sherwood Shaffer - Sicilienne.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0356.json).
+Catalog: removed at Tim’s request on October 15, 2026.
 
 **Identity and findings.** Groth Music lists Sherwood Shaffer’s Sicilienne as DORN1403 for alto or baritone saxophone and piano. Hays’s 2007 UNCG dissertation describes a single-movement five-minute work composed in 1991, with two versions for saxophone-family pairs; whether DORN1403 matches one particular version is unresolved.
 
@@ -45,3 +45,28 @@ Catalog: [Sherwood Shaffer - Sicilienne.md](/Users/trosenberg/Documents/GitHub/S
 - No readable score or verified recording located.
 
 **Tim decision:** pending.
+
+## Chat Batch 16 Follow-Up, October 15, 2026
+
+**Proposed decision:** Retain, difficulty unknown. **Confidence:** high. **Approval:** Applied 2026-10-15.
+
+**Reason:** Retain: Hays documents a request from saxophone professors for a more accessible work. That supports pedagogical value but does not prove pre-college scope. The edition has no public score sample, so neither Remove nor a precise college year is justified.
+
+Groth identifies Dorn 1403, alto saxophone and piano, ten pages. Hays composer-interview dissertation indexes 1991, five minutes, and separate E-flat/B-flat saxophone versions. The statement about optional altissimo immediately before Sicilienne in indexed dissertation text belongs to the preceding work and is not evidence about Sicilienne.
+
+**Collection context:** Accessible pedagogical original; no concrete pre-college mismatch established.
+
+**Remaining gaps:** Dissertation full PDF fetch blocked; dates/variant information currently index-only. No public notation or exact recording verified. Baritone option should be checked in the actual Dorn 1403 part before instrument-field expansion.
+
+**Sources:** [Groth Music](https://www.grothmusic.com/p-146111-sicilienne-alto-saxophone-and-piano.aspx) · [Andrew Paul Hays, UNCG 2007 DMA, composer interviews](https://libres.uncg.edu/ir/uncg/f/umi-uncg-1440.pdf)
+
+**Tim’s decision:** Removed. Applied 2026-10-15.
+
+### Source Verification
+
+- [Groth Music](https://www.grothmusic.com/p-146111-sicilienne-alto-saxophone-and-piano.aspx): Exact alto/piano edition, Dorn 1403, ten pages. (opened).
+- [Andrew Paul Hays, UNCG 2007 DMA, composer interviews](https://libres.uncg.edu/ir/uncg/f/umi-uncg-1440.pdf): Printed page21 identifies 1991, five minutes, and commission request from professors for less advanced students. (search_index_only).
+
+## Chat Batch 16 Decision, October 15, 2026
+
+Tim requested removal from the catalog. Original metadata and research are retained privately.

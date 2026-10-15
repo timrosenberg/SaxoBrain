@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
+year-of-study: "Second Year"
 arranger-edition:
   - "Michael Golemo"
 streaming: 
@@ -17,9 +17,20 @@ added: 2024-03-08
 research:
   - "Publisher Dorn Publications, catalog no. DORN1193 · https://www.grothmusic.com/p-146059.aspx"
   - "Arranged by Michael Golemo; 7 pages · https://www.grothmusic.com/p-146059.aspx"
+  - "Exact alto/piano Golemo edition, Dorn 1193, seven pages. · https://www.grothmusic.com/p-146059-saxophobia-alto-saxophone-and-piano.aspx"
+  - "Exact Golemo arrangement and comparison repertoire appear in the same group; institutional original currently returns error. · https://fr.scribd.com/document/981701217/Applied-Saxophone-Lesson-Packet"
 aliases: []
+publisher:
+  - "Dorn Publications"
 ---
 ## Research notes (private)
+
+### Chat Batch 16 Follow-Up, October 15, 2026
+
+Dorn 1193, Michael Golemo arrangement, alto/piano, seven pages. Mt San Antonio applied lesson packet mirror places this exact arrangement with Heiden/Milhaud/Maurice.
+
+[[Review 0348 - Rudy Wiedoeft - Saxophobia|Evidence and pending recommendation]]
+
 
 - Publisher Dorn Publications, catalog no. DORN1193 · [grothmusic.com](https://www.grothmusic.com/p-146059.aspx)
 - Arranged by Michael Golemo; 7 pages · [grothmusic.com](https://www.grothmusic.com/p-146059.aspx)

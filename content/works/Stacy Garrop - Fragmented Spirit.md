@@ -6,18 +6,32 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
-year-of-study: 
+composed: 1998
+year-of-study: "Fourth Year"
 streaming: "https://www.youtube.com/watch?v=_hy_6U5Xeyk"
 purchase:
-  - https://www.grothmusic.com/p-153014.aspx
+  - "https://www.grothmusic.com/p-153014.aspx"
+  - "https://www.presser.com/114-41106-fragmented-spirit.html"
 added: 2024-02-21
 research:
   - "Recorded by Michael Duke (saxophone) and David Howie (piano) on a Saxophone Classics anthology, track 9:15, recorded 2012 at the Sydney Conservatorium · https://sactx.aspendiscovery.org/NaxosMusicLibrary/on1034803276"
   - "Programmed on a University of Texas master's thesis recital with works by Muczynski, Albright and Russell Peck · https://repositories.lib.utexas.edu/handle/2152/23356?show=full"
+  - "Exact score, scoring, dedication, duration and publisher. · https://www.presser.com/114-41106-fragmented-spirit.html"
+  - "Work date 1998 and college performance. · https://schoolofmusic.ucla.edu/event/saxophone-studio-winter-recital/program/"
+  - "Appendix printed86:Garrop senior1 list; printed85:Desenclos senior13 lists. · https://digital.library.unt.edu/ark:/67531/metadc4959/m2/1/high_res_d/dissertation.pdf"
+  - "Exact 1998 work and linked audio. · https://www.noaevenmusic.com/saxandpiano"
 aliases: []
+publisher:
+  - "Theodore Presser Company"
 ---
 ## Research notes (private)
+
+### Chat Batch 16 Follow-Up, October 15, 2026
+
+Presser 114-41106, alto/piano, score and parts, 7:30, dedicated to Steven Stusek. UCLA official program and Noa Even repertoire page date the work 1998. Kallestad 2005 appendix:Garrop senior, one list; Desenclos senior, 13 lists. Publisher gallery inspected but contains cover only; this does not count as notation inspection.
+
+[[Review 0361 - Stacy Garrop - Fragmented Spirit|Evidence and pending recommendation]]
+
 
 - Recorded by Michael Duke (saxophone) and David Howie (piano) on a Saxophone Classics anthology, track 9:15, recorded 2012 at the Sydney Conservatorium · [sactx.aspendiscovery.org](https://sactx.aspendiscovery.org/NaxosMusicLibrary/on1034803276)
 - Programmed on a University of Texas master's thesis recital with works by Muczynski, Albright and Russell Peck · [repositories.lib.utexas.edu](https://repositories.lib.utexas.edu/handle/2152/23356?show=full)

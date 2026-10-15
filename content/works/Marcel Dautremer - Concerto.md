@@ -8,16 +8,29 @@ instruments:
   - "Piano"
   - "Orchestra"
 composed: 
-year-of-study: 
+year-of-study: "Second Year"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-143303.aspx
 added: 2024-03-08
 research:
   - "Lemoine HL24084; piano reduction; movements Allegro, Largo cantabile, Allegro giocoso; 35 pages · https://www.grothmusic.com/p-143303.aspx"
+  - "Piano reduction, solo part, three movements, Lemoine HL24084 and 35 pages. · https://www.grothmusic.com/p-143303.aspx"
+  - "Original string-orchestra scoring, Gourdet dedication, Allegro opening, copyright 1964. · https://grothmusic.com/images/product/large/ae00-124965_2_.jpg"
+  - "Orchestral score holding, UM-BSAX-DAUTR-conc-1. · https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf"
+  - "Broad Class A contest listing, which also contains several disparate Tim anchors. · https://www.mshsaa.org/resources/pdf/Saxophone%20Solos.pdf"
 aliases: []
+publisher:
+  - "Henry Lemoine"
 ---
 ## Research notes (private)
+
+### Chat Batch 14 Follow-Up, October 15, 2026
+
+Original scoring is E-flat alto saxophone and string orchestra. Lemoine 24084 provides piano reduction and solo part. Groth lists three movements: Allegro, Largo cantabile, Allegro giocoso, 35 pages. Opening sample dedicates the concerto to Georges Gourdet and bears copyright 1964. Antwerp holds an orchestral score; MSHSAA lists it in broad Class A repertoire.
+
+[[Review 0242 - Marcel Dautremer - Concerto|Evidence and pending recommendation]]
+
 
 - Lemoine HL24084; piano reduction; movements Allegro, Largo cantabile, Allegro giocoso; 35 pages · [grothmusic.com](https://www.grothmusic.com/p-143303.aspx)
 

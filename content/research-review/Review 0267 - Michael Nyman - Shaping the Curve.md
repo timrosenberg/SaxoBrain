@@ -3,8 +3,8 @@ title: "Review 0267: Michael Nyman - Shaping the Curve"
 added: 2026-10-11
 review-id: 267
 review-packet: 11
-review-decision: Pending
-review-applied: false
+review-decision: "Third Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Michael Nyman - Shaping the Curve]]"
 build:
@@ -46,3 +46,33 @@ Searches checked:
 - Opened IRCAM work record for date and instrumentation
 - Opened Hal Leonard product page for composer note and four-chord description
 - Opened RIAM ARIAM/LRIAM PDF and checked saxophone Teacher and Performer lists
+
+## Chat Batch 14 Follow-Up, October 15, 2026
+
+**Proposed decision:** Retain, difficulty unknown. **Confidence:** low. **Approval:** Applied 2026-10-15.
+
+**Reason:** Retain a verified diploma-repertoire soprano/piano work. Four-chord construction and diploma-list inclusion do not establish its note-level demands well enough for a calibrated college year.
+
+1990; soprano saxophone and piano; Chester Music CH61078, HL14023663. Publisher says composed for John Harle, based on four chords. RIAM Licentiate saxophone Teacher and Performer lists include this work alongside Desenclos and other substantial repertoire.
+
+**Collection context:** Original soprano/piano work; current catalog omission of Piano is incorrect.
+
+**Remaining gaps:** No readable authorized score preview found. Complete range, texture and technical endurance unverified.
+
+**Sources:** [Hal Leonard / Chester exact edition](https://www.halleonard.com/product/14023663/shaping-the-curve) · [Royal Irish Academy of Music diploma syllabus](https://www.riam.ie/sites/default/files/media/file-uploads/2023-03/Wind%2C%20Brass%20%26%20Percussion%20ARIAM%20%26%20LRIAM%20Syllabi%20%28Updated%2012.08.2022%20-%20A.Z.%29_0.pdf) · [Spotify exact track](https://open.spotify.com/track/6pwsOb3175obL3RZQjnkXQ)
+
+**Score or edition:** [Publisher CloserLook link was tested but yielded no readable notation.](https://www.halleonard.com/product/14023663/shaping-the-curve)
+
+**Recording:** [Duo Dilemme: Shaping the Curve, Nouvelle musique pour saxophone et piano,8:16.](https://open.spotify.com/track/6pwsOb3175obL3RZQjnkXQ)
+
+**Tim’s decision:** Third Year. Applied 2026-10-15.
+
+### Source Verification
+
+- [Hal Leonard / Chester exact edition](https://www.halleonard.com/product/14023663/shaping-the-curve): Composed1990, John Harle, soprano/piano, ChesterCH61078 and four-chord basis. (opened).
+- [Royal Irish Academy of Music diploma syllabus](https://www.riam.ie/sites/default/files/media/file-uploads/2023-03/Wind%2C%20Brass%20%26%20Percussion%20ARIAM%20%26%20LRIAM%20Syllabi%20%28Updated%2012.08.2022%20-%20A.Z.%29_0.pdf): Licentiate Teacher and Performer saxophone repertoire includes Shaping the Curve, PDFp55(printed55). (opened).
+- [Spotify exact track](https://open.spotify.com/track/6pwsOb3175obL3RZQjnkXQ): Exact Nyman recording by Duo Dilemme,8:16,1998 Doron album. (opened).
+
+## Chat Batch 14 Decision, October 15, 2026
+
+Tim assigned Third Year.

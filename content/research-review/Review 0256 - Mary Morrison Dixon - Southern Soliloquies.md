@@ -3,10 +3,10 @@ title: "Review 0256: Mary Morrison Dixon - Southern Soliloquies"
 added: 2026-10-11
 review-id: 256
 review-packet: 11
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Mary Morrison Dixon - Southern Soliloquies]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog entry: [[Mary Morrison Dixon - Southern Soliloquies]].
+Catalog: removed at Tim’s request on October 15, 2026.
 
 Dorn Publications’ catalog lists Southern Soliloquies by Dixon in its alto saxophone and piano section as order 752. The listing gives only the surname, so the match to the catalog’s full composer name Mary Morrison Dixon remains plausible but not independently resolved from this source. No notation preview is provided.
 [Dorn Publications, April 2025 catalog (hosted by Groth Music)](https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf) (opened, PDF p. 5 / catalog index p. 4): Dorn Publications’ April 2025 catalog lists Southern Soliloquies by Dixon, order 752, under “Alto Saxophone and Piano.” The catalog entry does not print the composer’s full name and contains no notation.
@@ -41,3 +41,27 @@ Searches checked:
 - Southern Soliloquies Mary Morrison Dixon alto saxophone piano publisher
 - Mary Morrison Dixon Southern Soliloquies score recording
 - Opened Dorn Publications April 2025 catalog PDF and checked the Alto Saxophone and Piano section, PDF p. 5 / catalog index p. 4
+
+## Chat Batch 14 Follow-Up, October 15, 2026
+
+**Proposed decision:** Retain, difficulty unknown. **Confidence:** low. **Approval:** Applied 2026-10-15.
+
+**Reason:** Dorn confirms the work and instrumentation, but provides no score or difficulty evidence. No concrete mismatch warrants removal.
+
+Dorn lists Southern Soliloquies, Dixon, no.752 under alto saxophone and piano.
+
+**Collection context:** Retain pending score access; full composer-name matching remains unresolved from the primary catalog.
+
+**Remaining gaps:** No notation preview, performance or level evidence. Year, full composer name and streaming unknown. Existing Groth item page inaccessible.
+
+**Sources:** [Dorn Publications official catalog hosted by Groth](https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf)
+
+**Tim’s decision:** Removed. Applied 2026-10-15.
+
+### Source Verification
+
+- [Dorn Publications official catalog hosted by Groth](https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf): Title, surname, product and instrumentation, PDF p.5. (opened).
+
+## Chat Batch 14 Decision, October 15, 2026
+
+Tim requested removal. Original metadata and research are retained privately.

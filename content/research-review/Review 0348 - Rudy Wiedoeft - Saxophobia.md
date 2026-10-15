@@ -3,8 +3,8 @@ title: "Review 0348: Rudy Wiedoeft - Saxophobia"
 added: 2026-10-11
 review-id: 348
 review-packet: 14
-review-decision: Pending
-review-applied: false
+review-decision: "Second Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Rudy Wiedoeft - Saxophobia]]"
 build:
@@ -40,3 +40,28 @@ Open questions: No target edition score or performance inspected; original C par
 Searches checked:
 - Wiedoeft Saxophobia Dorn 1193 Golemo score
 - Saxophobia original 1920 C part score
+
+## Chat Batch 16 Follow-Up, October 15, 2026
+
+**Proposed decision:** Second Year. **Confidence:** medium. **Approval:** Applied 2026-10-15.
+
+**Reason:** Second Year is an inference from within-list comparisons, not automatic adoption of a school year label. The exact Michael Golemo arrangement appears alongside Tim Second Year anchors Heiden Sonata, Scaramouche and Tableaux. The mirrored list has duplicated/inconsistent placements elsewhere, reducing confidence.
+
+Dorn 1193, Michael Golemo arrangement, alto/piano, seven pages. Mt San Antonio applied lesson packet mirror places this exact arrangement with Heiden/Milhaud/Maurice.
+
+**Collection context:** Virtuosic popular concert transcription retained; original-version recordings should not be treated as this arrangement.
+
+**Remaining gaps:** No exact-arrangement notation or recording located. Original composition date and original public-domain score require separate verification.
+
+**Sources:** [Groth Music](https://www.grothmusic.com/p-146059-saxophobia-alto-saxophone-and-piano.aspx) · [Mt San Antonio lesson packet, Scribd mirror](https://fr.scribd.com/document/981701217/Applied-Saxophone-Lesson-Packet)
+
+**Tim’s decision:** Second Year. Applied 2026-10-15.
+
+### Source Verification
+
+- [Groth Music](https://www.grothmusic.com/p-146059-saxophobia-alto-saxophone-and-piano.aspx): Exact alto/piano Golemo edition, Dorn 1193, seven pages. (opened).
+- [Mt San Antonio lesson packet, Scribd mirror](https://fr.scribd.com/document/981701217/Applied-Saxophone-Lesson-Packet): Exact Golemo arrangement and comparison repertoire appear in the same group; institutional original currently returns error. (opened).
+
+## Chat Batch 16 Decision, October 15, 2026
+
+Tim assigned Second Year.

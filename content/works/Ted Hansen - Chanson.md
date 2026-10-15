@@ -7,16 +7,27 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
+year-of-study: "Third Year"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-143132.aspx
 added: 2024-03-08
 research:
   - "Publisher Dorn Publications, catalog no. DORN1298; 23 pages; dedicated to Roy Allen · https://www.grothmusic.com/p-143132.aspx"
+  - "Published alto/piano score is dedicated to Roy Allen; first two pages show chromatic lyricism, rapid irregular groups and upper-register continuation. · https://www.grothmusic.com/x-mc-product-picture.aspx?ProductID=143132&ErrorExisted=0"
+  - "Composer catalog dates the Dorn item 2003 while the same page lists a March 2002 performance by Roy Allen and Wesley Beal. · https://www.drtedhansen.com/biography"
 aliases: []
+publisher:
+  - "Dorn Publications"
 ---
 ## Research notes (private)
+
+### Chat Batch 16 Follow-Up, October 15, 2026
+
+Dorn 1298 is dedicated to saxophonist Roy Allen. Hansen’s official biography lists the work under Dorn with date 2003, but separately documents a Roy Allen/Wesley Beal performance in March 2002. The score copyright is 2003. Composition date remains unresolved.
+
+[[Review 0366 - Ted Hansen - Chanson|Evidence and pending recommendation]]
+
 
 - Publisher Dorn Publications, catalog no. DORN1298; 23 pages; dedicated to Roy Allen · [grothmusic.com](https://www.grothmusic.com/p-143132.aspx)
 
