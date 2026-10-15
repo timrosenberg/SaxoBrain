@@ -1,7 +1,8 @@
 ---
 title: "Rolf Rudin"
 slug: rolf-rudin
-nationality: []
+nationality:
+  - "🇩🇪 German"
 gender: 
 race: []
 born: 1961

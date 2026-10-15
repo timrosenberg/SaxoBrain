@@ -1,7 +1,8 @@
 ---
 title: "Edward Solomon"
 slug: edward-solomon
-nationality: []
+nationality:
+  - "🏴󠁧󠁢󠁥󠁮󠁧󠁿 English"
 gender: 
 race: []
 born: 1855

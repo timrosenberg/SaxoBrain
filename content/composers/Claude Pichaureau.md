@@ -1,10 +1,11 @@
 ---
 title: "Claude Pichaureau"
 slug: claude-pichaureau
-nationality: []
+nationality:
+  - "🇫🇷 French"
 gender: 
 race: []
-born: 
+born: 1940
 died: 
 wikidata: 
 photo: 

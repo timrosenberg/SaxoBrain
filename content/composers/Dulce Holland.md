@@ -1,7 +1,8 @@
 ---
 title: "Dulce Holland"
 slug: dulce-holland
-nationality: []
+nationality:
+  - "🇦🇺 Australian"
 gender: 
 race: []
 born: 1913

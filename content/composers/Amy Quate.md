@@ -6,7 +6,7 @@ nationality:
 gender: "Female"
 race:
   - "White"
-born: 
+born: 1953
 died: 
 wikidata: 
 photo: 

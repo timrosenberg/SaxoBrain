@@ -1,0 +1,176 @@
+[
+  {
+    "date": "2026-10-14",
+    "name": "Noël Samyn",
+    "file": "content/composers/Noël Samyn.md",
+    "previous_nationality": [
+      "🇫🇷 French"
+    ],
+    "nationality": [
+      "🇨🇦 Canadian"
+    ],
+    "bio_added": "Noël Samyn is a Belgian-born Canadian saxophonist and composer.",
+    "evidence": [
+      {
+        "fields": [
+          "nationality",
+          "birthplace"
+        ],
+        "source": "Tim Rosenberg, direct confirmation in this conversation",
+        "detail": "Noel Samyn is a belgian-born, canadien"
+      },
+      {
+        "fields": [
+          "birthplace"
+        ],
+        "source": "Noël Samyn official biography",
+        "url": "https://noelsamyn.com/biographie.htm",
+        "detail": "States that Noël Samyn was born in Menin, Belgium. Live indexed lookup October 14, 2026."
+      }
+    ]
+  },
+  {
+    "date": "2026-10-14",
+    "name": "Ramon Ricker",
+    "previous_name": "Raymond Ricker",
+    "professional_name": "Ray Ricker",
+    "file": "content/composers/Ramon Ricker.md",
+    "work_file": "content/works/Ramon Ricker - Jazz Sonata.md",
+    "composer_slug_preserved": "raymond-ricker",
+    "work_slug_preserved": "raymond-ricker-jazz-sonata",
+    "evidence": [
+      {
+        "source": "Tim Rosenberg, direct confirmation in this conversation",
+        "detail": "Raymond Ricker is incorrect. It is Ramon Ricker; but, he went by Ray."
+      },
+      {
+        "source": "Eastman School of Music official biography",
+        "url": "https://www.esm.rochester.edu/directory/ricker-ramon/",
+        "detail": "Heading Ramon Ricker; biography also refers to his studio as Ray’s studio."
+      }
+    ]
+  },
+  {
+    "date": "2026-10-14",
+    "name": "Charles Ruggiero",
+    "file": "content/composers/Charles Ruggiero.md",
+    "previous_born": 1971,
+    "born": 1947,
+    "previous_wikidata": "Q68754563",
+    "wikidata": null,
+    "rejected_wikidata_match_blocked": true,
+    "evidence": [
+      {
+        "source": "Tim Rosenberg, direct identity confirmation",
+        "detail": "Charles Ruggiero is a composer who lives in Michigan."
+      },
+      {
+        "source": "Michigan State University official biography",
+        "url": "https://music.msu.edu/faculty/charles-ruggiero/",
+        "detail": "Identifies retired MSU composition, music theory, and jazz studies faculty member."
+      },
+      {
+        "source": "New World Records / Composers Recordings, Inc. Freeway liner notes",
+        "url": "https://nwr-site-liner-notes.s3.amazonaws.com/nwcr876.pdf",
+        "detail": "Lists Interplay and explicitly states born Bridgeport, Connecticut, June 19, 1947."
+      }
+    ]
+  },
+  {
+    "date": "2026-10-14",
+    "name": "Walter Skolnik",
+    "previous_credit": "Edward Skolnik",
+    "composer_file": "content/composers/Walter Skolnik.md",
+    "work_file": "content/works/Walter Skolnik - Arioso and Dance.md",
+    "original_record_preserved": "scripts/migration/composer-research-2026-10-14/superseded/Edward Skolnik.md",
+    "redirect_added": "/composers/edward-skolnik/",
+    "work_slug_preserved": "edward-skolnik-arioso-and-dance",
+    "evidence": [
+      {
+        "source": "Tim Rosenberg, direct attribution correction",
+        "detail": "Edward Skolnik should be Walter."
+      },
+      {
+        "source": "Schott Music London publisher listing",
+        "url": "https://schottmusiclondon.com/arioso-danza-no440674.html",
+        "detail": "Credits Arioso & Danza for soprano saxophone or clarinet and piano to Walter Skolnik."
+      },
+      {
+        "source": "Wind Music library catalogue",
+        "url": "https://windmusic.org/index.php?id=11434&lvl=notice_display",
+        "detail": "1978 Tenuto score Arioso and danza attributed to Walter Skolnik."
+      }
+    ]
+  },
+  {
+    "date": "2026-10-14",
+    "name": "Michel Meriot",
+    "previous_name": "Michael Meriot",
+    "renamed_files": {
+      "content/composers/Michael Meriot.md": "content/composers/Michel Meriot.md",
+      "content/works/Michael Meriot - Comme Un Dimanche.md": "content/works/Michel Meriot - Comme Un Dimanche.md",
+      "content/works/Michael Meriot - Sicilienne et Danse.md": "content/works/Michel Meriot - Sicilienne et Danse.md",
+      "content/research-review/Review 0265 - Michael Meriot - Comme Un Dimanche.md": "content/research-review/Review 0265 - Michel Meriot - Comme Un Dimanche.md",
+      "content/research-review/Review 0266 - Michael Meriot - Sicilienne et Danse.md": "content/research-review/Review 0266 - Michel Meriot - Sicilienne et Danse.md"
+    },
+    "preserved_slugs": {
+      "content/composers/Michel Meriot.md": "michael-meriot",
+      "content/works/Michel Meriot - Comme Un Dimanche.md": "michael-meriot-comme-un-dimanche",
+      "content/works/Michel Meriot - Sicilienne et Danse.md": "michael-meriot-sicilienne-et-danse"
+    },
+    "evidence": [
+      {
+        "source": "Tim Rosenberg, direct name correction",
+        "detail": "Michael Meriot should be Michel."
+      },
+      {
+        "source": "United Music Publishers saxophone catalogue",
+        "url": "https://johanvanderlinden.com/saxophone_catalogue_2010.pdf",
+        "detail": "Both Comme un dimanche and Sicilienne et Danse are credited to Michel Meriot."
+      }
+    ]
+  },
+  {
+    "date": "2026-10-14",
+    "name": "Willy van Dorsselaer",
+    "file": "content/composers/Willy van Dorsselaer.md",
+    "previous_born": 1916,
+    "born": 1918,
+    "evidence": [
+      {
+        "source": "Tim Rosenberg, direct correction request",
+        "detail": "Change Willy van Dorsselaer birth year to 1918."
+      },
+      {
+        "source": "HeBu Music publisher biography",
+        "url": "https://www.hebu-music.com/en/musician/willy-van-dorsselaer.19832/?layout=line",
+        "detail": "Gives birth August 5, 1918."
+      },
+      {
+        "source": "Bibliotheque nationale de France authority",
+        "url": "https://data.bnf.fr/en/ark%3A/12148/cb14805446q.pdf",
+        "detail": "Identifies Willy Van Dorsselaer as 1918 to 2017."
+      }
+    ]
+  },
+  {
+    "date": "2026-10-14",
+    "name": "Yuan-Chen Li",
+    "previous_name": "Yuanzhen Li",
+    "file": "content/composers/Yuan-Chen Li.md",
+    "work_file": "content/works/Yuan-Chen Li - Spell.md",
+    "composer_slug_preserved": "yuanzhen-li",
+    "work_slug_preserved": "yuanzhen-li-spell",
+    "evidence": [
+      {
+        "source": "Tim Rosenberg, direct name correction",
+        "detail": "Change Yuanzhen Li to Yuan-Chen Li."
+      },
+      {
+        "source": "Composer official biography and works catalogue",
+        "url": "https://yclimusic.com/bio/",
+        "detail": "Identifies composer as Yuan-Chen Li; Spell appears in her own works list at https://yclimusic.com/work/."
+      }
+    ]
+  }
+]

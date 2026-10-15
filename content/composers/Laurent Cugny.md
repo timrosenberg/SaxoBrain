@@ -13,4 +13,5 @@ photo: "/media/composers/laurent-cugny.jpg"
 photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Laurent_Cugny.jpg"
 aliases: []
+website: https://www.laurentcugny.fr/
 ---

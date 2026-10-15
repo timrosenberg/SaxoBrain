@@ -13,4 +13,5 @@ photo: "/media/composers/augusta-reed-thomas.jpg"
 photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Augusta_Read_Thomas_in_March_2022.jpg"
 aliases: []
+website: https://www.augustareadthomas.com/
 ---

@@ -13,4 +13,5 @@ photo: "/media/composers/fernande-decruck.jpg"
 photo-credit: 
 photo-source: "Notion upload"
 aliases: []
+website: https://fernandedecruck.fr
 ---

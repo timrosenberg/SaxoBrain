@@ -45,3 +45,17 @@ Catalog: [Jérôme Naulais - Kansax-City.md](/Users/trosenberg/Documents/GitHub/
 - No readable score preview inspected.
 
 **Tim decision:** pending.
+
+## Chat batch 13 follow-up, 2026-10-14
+
+Groth confirms piano score and alto part; June Emerson catalog gives 2:20 and issue year 1992, not a composition date. Publisher cover in Jean-Yves Fourmeau’s L’Enseignement moderne du saxophone series explicitly labels Degré: Préparatoire. Verified full-work performance upload credits Daniel Simón, saxophone, and Oscar Carreras, piano; Billaudot edition explicitly named.
+
+Collection context: Individual pedagogical work in a teaching series. Preparatory publisher label; no evidence of youth simplification or transcription.
+
+Open questions: Only a publisher cover exposed by Groth; no notation inspected. Composition year unknown; 1992 is issue year. No exact institutional library-score record opened.
+
+Sources checked:
+- [Groth Music](https://www.grothmusic.com/p-144548.aspx): GB5255 includes piano score and alto part. (opened)
+- [Billaudot cover via Groth](https://grothmusic.com/images/product/large/ae00-125997.jpg): Preparatory publisher label and teaching-series identity. (opened)
+- [June Emerson Wind Music](https://www.juneemersonwindmusic.com/KANSAX-CITY.html): Duration 2:20, issue year 1992. (opened)
+- [Breath&Play Saxophone / YouTube](https://www.youtube.com/watch?v=BjC35XmVyfw): Composer, alto/piano, Billaudot, named performers and public availability. (opened)

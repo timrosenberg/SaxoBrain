@@ -1,7 +1,8 @@
 ---
 title: "Caix d'Hervelois"
 slug: caix-d-hervelois
-nationality: []
+nationality:
+  - "🇫🇷 French"
 gender: 
 race: []
 born: 1680

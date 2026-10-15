@@ -6,7 +6,7 @@ nationality:
 gender: "Male"
 race:
   - "White"
-born: 
+born: 1948
 died: 
 wikidata: 
 photo: 

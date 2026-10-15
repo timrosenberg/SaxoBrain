@@ -14,9 +14,22 @@ purchase:
 added: 2024-03-08
 research:
   - "Dorn DORN1935 · https://www.grothmusic.com/p-143820.aspx"
+  - "The opened Groth product identifies Meditation No. 2 by Kevin Howard, for alto saxophone and piano, published by Dorn Publications, catalog DORN1935. The current purchase listing is exact-work evidence. · https://www.grothmusic.com/p-143820.aspx"
+  - "First notation page visually inspected; scope and observations are recorded above. · https://www.grothmusic.com/images/product/large/ae00-125563.jpg"
+  - "Groth reports acquisition of Dorn Publications and transfer of Dorn and Needham copyrights on February 21, 2024, supporting its role as the current publisher source. · https://www.grothmusic.com/t-dorn.aspx"
+  - "Dorn publisher catalog lists the exact work under Alto Saxophone and Piano. · https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf"
 aliases: []
+publisher:
+  - "Dorn Publications"
 ---
 ## Research notes (private)
+
+### Chat batch 13 follow-up, 2026-10-14
+
+Groth confirms Meditation No. 2 for alto saxophone and piano, Dorn DORN1935. The opening piano sample shows Adagio in 5/8, sustained chromatic low chords and later slurred treble figures. Literal subtitle and arranger placeholders leave source status unresolved. No saxophone notation, verified composition date or exact recording was located.
+
+[[Review 0224 - Kevin Howard - Meditation No. 2|Full evidence and open questions]]
+
 
 - Dorn DORN1935 · [grothmusic.com](https://www.grothmusic.com/p-143820.aspx)
 

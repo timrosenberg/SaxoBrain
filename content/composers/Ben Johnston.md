@@ -1,7 +1,8 @@
 ---
 title: "Ben Johnston"
 slug: ben-johnston
-nationality: []
+nationality:
+  - "🇺🇸 American"
 gender: 
 race: []
 born: 1926

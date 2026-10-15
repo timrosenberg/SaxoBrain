@@ -1,7 +1,8 @@
 ---
 title: "Wolfgang Hildemann"
 slug: wolfgang-hildemann
-nationality: []
+nationality:
+  - "🇩🇪 German"
 gender: 
 race: []
 born: 1925

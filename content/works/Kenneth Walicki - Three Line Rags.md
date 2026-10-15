@@ -14,9 +14,29 @@ purchase:
 added: 2024-03-08
 research:
   - "Dorn DORN0203; listed as '3 Line Rags' · https://www.grothmusic.com/p-146139.aspx"
+  - "Three Line Rags: 1984, 10 minutes, alto saxophone and piano. · https://www.kenwalicki.com/compositions-commissions"
+  - "DORN0203, composer and scoring. · https://www.grothmusic.com/p-146139.aspx"
+  - "Dorn catalog number 203 lists Three Line Rags. · https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf"
+  - "Opening notation and pitch scope personally inspected. · https://grothmusic.com/images/product/large/ae00-126998.jpg"
+  - "Composer-hosted complete revised score, three movement names, explicit composition January 1983, transposed alto and slide notation inspected. · https://storage.googleapis.com/production-netfirms-v1-0-5/355/1939355/UDClDPQr/264a83f47cdd43eba65f2b12f31646b3?fileName=3%20Line%20Rags-COMPLETE.pdf"
 aliases: []
+publisher:
+  - "Dorn Publications"
+download:
+  - "https://storage.googleapis.com/production-netfirms-v1-0-5/355/1939355/UDClDPQr/264a83f47cdd43eba65f2b12f31646b3?fileName=3%20Line%20Rags-COMPLETE.pdf"
+library-score:
+  - "https://nyplorg-data-archives.s3.amazonaws.com/uploads/collection/generated_finding_aids/mus24605.pdf"
 ---
+The free download is the composer’s revised edition, with Loxodromus Rag, Rhumb Line Rag and Longitudinal Madness Rag. The Dorn purchase edition preview uses different movement titles, beginning with Kredit Kard Krash Rag.
+
 ## Research notes (private)
+
+### Chat batch 13 follow-up, 2026-10-14
+
+Three Line Rags has substantial chromatic, syncopated saxophone and piano writing. The complete composer edition supplies transposed alto notation, slide instructions and three contrasting rags. Its movement titles differ from the Dorn purchase preview. Composition dates conflict between 1983 and 1984, and no exact recording was verified.
+
+[[Review 0219 - Kenneth Walicki - Three Line Rags|Full evidence and open questions]]
+
 
 - Dorn DORN0203; listed as '3 Line Rags' · [grothmusic.com](https://www.grothmusic.com/p-146139.aspx)
 

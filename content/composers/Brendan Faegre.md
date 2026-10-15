@@ -1,15 +1,17 @@
 ---
-title: "Brendan Faegre"
+title: Brendan Faegre
 slug: brendan-faegre
-nationality: []
-gender: 
-race: []
+nationality:
+  - 🇺🇸 American
+gender: Male
+race:
+  - White
 born: 1985
-died: 
+died:
 wikidata: Q51885400
-photo: 
-photo-credit: 
-photo-source: 
+photo: "/media/composers/brendan-faegre.jpg"
+photo-credit: Spotify
+photo-source: https://i.scdn.co/image/ab6761610000e5ebf3bebe67462d7d1850cbf713
 website: https://brendanfaegre.com
 aliases: []
 ---

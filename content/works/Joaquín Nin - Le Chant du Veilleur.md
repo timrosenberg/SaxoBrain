@@ -7,21 +7,35 @@ instruments:
   - "Alto Saxophone"
   - "Voice"
   - "Piano"
-composed: 
-year-of-study: 
+composed: 1933
+year-of-study: "First Year"
 arranger-edition: "Jean-Marie Londeix (transcription)"
 publisher:
   - "Max Eschig"
-streaming: 
+streaming: "https://www.youtube.com/watch?v=_wClgHm9gm4"
 purchase:
   - https://www.grothmusic.com/p-61031.aspx
 added: 2026-10-09
 research:
   - "Publisher Eschig, catalog no. ME4522 · https://www.grothmusic.com/p-61031.aspx"
   - "Separate parts for mezzo-soprano, violin and alto sax; text in German and French · https://www.grothmusic.com/p-61031.aspx"
+  - "Exact title, mezzo/violin-or-saxophone/piano, Londeix transcription and copyright 1937. · https://ci.nii.ac.jp/ncid/BA4413119X"
+  - "Exact ME4522 with separate mezzo, violin and alto parts; German/French text. · https://www.grothmusic.com/p-61031.aspx"
+  - "Work date 1933 and university performance in a distinct student arrangement. · https://chopin.edu.pl/wp-content/uploads/2018/03/05-III-2018_program_long.pdf"
+  - "ME4522 publication 1937 with 1933 in work notes. · https://anet.be/awlijst/2010-10/Anet/awh.pdf"
+  - "Official label track with exact title, composer and saxophone-version personnel. · https://www.youtube.com/watch?v=_wClgHm9gm4"
 aliases: []
+library-score:
+  - "https://ci.nii.ac.jp/ncid/BA4413119X"
 ---
 ## Research notes (private)
+
+### Chat batch 12 follow-up, 2026-10-14
+
+Nin Le Chant du Veilleur: original 1933 date and Londeix alto transcription verified. Official Warner/Londeix recording found. University use involves a distinct student arrangement. Actual notation remains unknown.
+
+[[Review 0192 - Joaquín Nin - Le Chant du Veilleur|Full evidence and open questions]]
+
 
 - Publisher Eschig, catalog no. ME4522 · [grothmusic.com](https://www.grothmusic.com/p-61031.aspx)
 - Separate parts for mezzo-soprano, violin and alto sax; text in German and French · [grothmusic.com](https://www.grothmusic.com/p-61031.aspx)

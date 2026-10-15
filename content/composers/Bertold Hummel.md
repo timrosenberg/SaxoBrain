@@ -1,7 +1,8 @@
 ---
 title: "Bertold Hummel"
 slug: bertold-hummel
-nationality: []
+nationality:
+  - "🇩🇪 German"
 gender: 
 race: []
 born: 1925

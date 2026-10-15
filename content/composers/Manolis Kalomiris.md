@@ -1,7 +1,8 @@
 ---
 title: "Manolis Kalomiris"
 slug: manolis-kalomiris
-nationality: []
+nationality:
+  - "🇬🇷 Greek"
 gender: 
 race: []
 born: 1883

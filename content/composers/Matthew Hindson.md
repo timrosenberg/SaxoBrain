@@ -1,7 +1,8 @@
 ---
 title: "Matthew Hindson"
 slug: matthew-hindson
-nationality: []
+nationality:
+  - "🇦🇺 Australian"
 gender: 
 race: []
 born: 1968

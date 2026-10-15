@@ -46,3 +46,17 @@ Catalog: [Karsten Fundal - A Portrait of Silence.md](/Users/trosenberg/Documents
 - An assignment listing says “2011 release”; composition year verified as 2011 from composer database.
 
 **Tim decision:** pending.
+
+## Chat batch 13 follow-up, 2026-10-14
+
+Danish Composers’ Society work list confirms 2011 and scoring as alto saxophone, percussion and piano. Verified premiere recording upload names Trio ZOOM and performance at percussionist Ying-Hsueh Chen’s debut concert, October 26, 2011, DKDM Concert Hall, Copenhagen. Credits: Tanja Zapolski, piano; Stefan Baur, saxophone; Ying-Hsueh Chen, percussion. Dacapo label page lists Ekkozone recording as album track 8, duration 11:13, with an excerpt player. Wilhelm Hansen WH31416 score is an existing exact purchase lead; automated exact-product access failed this pass, so no new publisher or purchase proposal is made.
+
+Collection context: Individual original chamber work for Trio ZOOM. No youth simplification or transcription documented.
+
+Open questions: No public readable notation located after exact-title/publisher and retailer preview attempts. WH31416 existing purchase lead was not independently opened successfully in this pass; retailer search listings corroborate the identity only. Percussion instruments and player-count requirements not verified from score. No exact institutional library-score record opened; local Alexander Street link is existing metadata, not independently verified.
+
+Sources checked:
+- [Danish Composers’ Society database](https://komponistbasen.dk/node/8390): 2011 composition and alto saxophone/percussion/piano scoring. (opened)
+- [Ying-Hsueh Chen / YouTube](https://www.youtube.com/watch?v=PGMELfXzmkQ): Trio ZOOM premiere, 2011, performers, venue and public performance. (opened)
+- [Dacapo Records](https://www.dacapo-records.dk/en/recordings/fundal-ekkozone-performs-karsten-fundal): Ekkozone track 8,11:13, excerpt player. (opened)
+- [All Sheet Music](https://www.all-sheetmusic.com/Sheetmusic/Karsten-Fundal-Sheet-Music-for-Ensemble/): WH31416, Wilhelm Hansen, alto/percussion/piano, written for ensemble Zoom. (search_index_only)

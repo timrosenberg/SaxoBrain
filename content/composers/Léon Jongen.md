@@ -1,7 +1,8 @@
 ---
 title: "Léon Jongen"
 slug: leon-jongen
-nationality: []
+nationality:
+  - "🇧🇪 Belgian"
 gender: 
 race: []
 born: 1884

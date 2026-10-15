@@ -1,16 +1,16 @@
 ---
-title: "Michael Cunningham"
+title: Michael Cunningham
 slug: michael-cunningham
 nationality:
-  - "🇺🇸 American"
-gender: "Male"
+  - 🇺🇸 American
+gender: Male
 race:
-  - "White"
-born: 
-died: 
-wikidata: 
-photo: 
-photo-credit: 
-photo-source: 
+  - White
+born: 1937
+died: 2022
+wikidata:
+photo: "/media/composers/michael-cunningham.jpg"
+photo-credit: navonarecords.com
+photo-source: https://www.navonarecords.com/nv/wp-content/uploads/2020/11/Cunningham_square-1200x1200.jpg
 aliases: []
 ---

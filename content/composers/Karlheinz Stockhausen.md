@@ -13,4 +13,5 @@ photo: "/media/composers/karlheinz-stockhausen.jpg"
 photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Stockhausen_March_2004_excerpt.jpg"
 aliases: []
+website: https://www.karlheinzstockhausen.org
 ---

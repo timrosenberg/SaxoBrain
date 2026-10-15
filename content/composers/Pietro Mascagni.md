@@ -1,7 +1,8 @@
 ---
 title: "Pietro Mascagni"
 slug: pietro-mascagni
-nationality: []
+nationality:
+  - "🇮🇹 Italian"
 gender: 
 race: []
 born: 1863

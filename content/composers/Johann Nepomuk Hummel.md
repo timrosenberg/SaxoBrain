@@ -1,7 +1,8 @@
 ---
 title: "Johann Nepomuk Hummel"
 slug: johann-nepomuk-hummel
-nationality: []
+nationality:
+  - "🇦🇹 Austrian"
 gender: 
 race: []
 born: 1778

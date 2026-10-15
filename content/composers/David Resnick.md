@@ -1,7 +1,8 @@
 ---
 title: "David Resnick"
 slug: david-resnick
-nationality: []
+nationality:
+  - "🇺🇸 American"
 gender: 
 race: []
 born: 1953

@@ -1,7 +1,8 @@
 ---
 title: "Petr Eben"
 slug: petr-eben
-nationality: []
+nationality:
+  - "🇨🇿 Czech"
 gender: 
 race: []
 born: 1929

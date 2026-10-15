@@ -1,7 +1,8 @@
 ---
 title: "Leo Weiner"
 slug: leo-weiner
-nationality: []
+nationality:
+  - "🇭🇺 Hungarian"
 gender: 
 race: []
 born: 1885

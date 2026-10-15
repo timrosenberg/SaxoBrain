@@ -399,6 +399,7 @@ a.t:hover { color: var(--accent); text-decoration: underline; text-underline-off
   .work .byline { font-size: 18px; }
   .group .label-sm { width: 100%; }
   .start small { display: none; }
+  .bar { position: static; }
   .row { grid-template-columns: 1fr; }
   .cover { float: none; margin: 0 0 1rem; }
   .cover.wide { display: none; }

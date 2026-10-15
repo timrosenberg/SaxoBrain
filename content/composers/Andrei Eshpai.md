@@ -1,7 +1,8 @@
 ---
 title: "Andrei Eshpai"
 slug: andrei-eshpai
-nationality: []
+nationality:
+  - "🇷🇺 Russian"
 gender: 
 race: []
 born: 1925

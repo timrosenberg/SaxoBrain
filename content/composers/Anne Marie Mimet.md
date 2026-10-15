@@ -4,7 +4,7 @@ slug: anne-marie-mimet
 nationality: []
 gender: "Female"
 race: []
-born: 
+born: 1942
 died: 
 wikidata: 
 photo: 

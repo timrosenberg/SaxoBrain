@@ -1,7 +1,8 @@
 ---
 title: "Serge Lancen"
 slug: serge-lancen
-nationality: []
+nationality:
+  - "🇫🇷 French"
 gender: 
 race: []
 born: 1922

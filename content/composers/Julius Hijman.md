@@ -1,7 +1,9 @@
 ---
 title: "Julius Hijman"
 slug: julius-hijman
-nationality: []
+nationality:
+  - "🇺🇸 American"
+  - "🇳🇱 Dutch"
 gender: 
 race: []
 born: 1901

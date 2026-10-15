@@ -1,7 +1,8 @@
 ---
 title: "Philippe Portejoie"
 slug: philippe-portejoie
-nationality: []
+nationality:
+  - "🇫🇷 French"
 gender: 
 race: []
 born: 1956

@@ -1,7 +1,8 @@
 ---
 title: "Harley Rex"
 slug: harley-rex
-nationality: []
+nationality:
+  - "🇺🇸 American"
 gender: 
 race: []
 born: 1930

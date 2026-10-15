@@ -2,6 +2,7 @@
 title: "Marcel De Jonghe"
 slug: marcel-de-jonghe
 nationality:
+  - "🇧🇪 Belgian"
 gender:
 race:
 born: 1943

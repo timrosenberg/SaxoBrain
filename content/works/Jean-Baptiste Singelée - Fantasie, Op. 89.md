@@ -5,17 +5,34 @@ composer:
   - "[[Jean-Baptiste Singelée]]"
 instruments:
   - "Soprano Saxophone"
+  - "Piano"
 composed: 
-year-of-study: 
-streaming: 
+year-of-study: "Second Year"
+streaming: "https://www.youtube.com/watch?v=Llr9_H3-uXw"
 purchase:
   - https://www.grothmusic.com/p-37467.aspx
 added: 2025-04-18
 research:
   - "Publisher Roncorp, catalog no. RON1069 · https://www.grothmusic.com/p-37467.aspx"
+  - "Exact linked soprano/piano RON1069 edition and Ronkin credit. · https://www.grothmusic.com/p-37467.aspx"
+  - "Roncorp opening recitative, chromatic runs, fermatas and più lento melody. · https://brain-music.com/www/score/TPN1069.pdf"
+  - "Wehage edition’s opening colla parte marking and corresponding recitative texture. Product description says contest in 1862 while indexed score title says 1863. · https://www.sheetmusicplus.com/en/product/jean-baptiste-singelee-fantaisie-opus-89-pour-saxophone-soprano-et-piano-20057660.html"
+  - "Fantaisie op.89 Roncorp listed in second-cycle repertoire. · https://www.acadmusge.ch/fr/download/file/fid/1909"
+  - "Fantaisie op.89 appears in master’s performance repertoire accompanying a Singelée thesis. · https://www.daion.ac.jp/media/2023dai62gou_2024.3.22ss.pdf"
 aliases: []
+publisher:
+  - "Roncorp"
+arranger-edition:
+  - "Bruce Ronkin"
 ---
 ## Research notes (private)
+
+### Chat batch 11 follow-up, 2026-10-14
+
+Exact Ronkin RON1069 soprano/piano preview inspected. Recitative entrances, chromatic sixteenths, high fermatas, più lento melody and flexible piano coordination are concrete demands. School second-cycle syllabus and Osaka master’s program both document use. Commercial Dynamic track verified. Piano omission and conflicting date evidence remain private.
+
+[[Review 0176 - Jean-Baptiste Singelée - Fantasie, Op. 89|Full evidence and open questions]]
+
 
 - Publisher Roncorp, catalog no. RON1069 · [grothmusic.com](https://www.grothmusic.com/p-37467.aspx)
 

@@ -1,7 +1,8 @@
 ---
 title: "Alain Mayrand"
 slug: alain-mayrand
-nationality: []
+nationality:
+  - "🇨🇦 Canadian"
 gender: 
 race: []
 born: 1972
@@ -11,4 +12,5 @@ photo:
 photo-credit: 
 photo-source: 
 aliases: []
+website: https://alainmayrand.com/
 ---

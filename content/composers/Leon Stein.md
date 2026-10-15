@@ -2,6 +2,7 @@
 title: "Leon Stein"
 slug: leon-stein
 nationality:
+  - "🇺🇸 American"
 gender:
 race:
 born: 1910

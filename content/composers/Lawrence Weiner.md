@@ -2,6 +2,7 @@
 title: "Lawrence Weiner"
 slug: lawrence-weiner
 nationality:
+  - "🇺🇸 American"
 gender:
 race:
 born: 1932

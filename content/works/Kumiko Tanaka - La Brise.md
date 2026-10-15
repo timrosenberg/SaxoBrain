@@ -14,9 +14,26 @@ purchase:
 added: 2024-03-08
 research:
   - "Billaudot GB7021 · https://www.grothmusic.com/p-146320.aspx"
+  - "Exact work, composer, E-flat saxophone and piano, GB7021, Daniel Gremelle collection and publisher cycle label. · https://www.billaudot.com/la-brise-3.html"
+  - "Exact GB7021 purchase listing for alto saxophone and piano. · https://www.grothmusic.com/p-146320.aspx"
+  - "c2001 edition, 2:50, score 7 pages plus part 3 pages, Kunitachi College of Music Library holding. · https://ci.nii.ac.jp/ncid/BC09150656"
+  - "2001 publication, 2:50, score plus part and CDMC score holding. · https://windmusic.org/index.php?id=10401&lvl=notice_display"
+  - "2002 end-of-first-cycle saxophone examination selection, G7021B. · https://www.cmf-musique.org/wp-content/uploads/2024/10/Annales-Bois.pdf"
 aliases: []
+publisher:
+  - "Éditions Billaudot"
+library-score:
+  - "https://ci.nii.ac.jp/ncid/BC09150656"
+  - "https://windmusic.org/index.php?id=10401&lvl=notice_display"
 ---
 ## Research notes (private)
+
+### Chat batch 13 follow-up, 2026-10-14
+
+Billaudot confirms La brise for alto saxophone and piano, GB7021, in the Daniel Gremelle series. Its Cycle 1 context is corroborated by CMF examination annals. Libraries date the edition to 2001 and give 2:50 duration. No notation or accessible recording was verified, so specific demands remain unknown.
+
+[[Review 0227 - Kumiko Tanaka - La Brise|Full evidence and open questions]]
+
 
 - Billaudot GB7021 · [grothmusic.com](https://www.grothmusic.com/p-146320.aspx)
 

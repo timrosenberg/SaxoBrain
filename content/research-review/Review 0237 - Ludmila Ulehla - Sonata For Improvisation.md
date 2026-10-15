@@ -33,3 +33,17 @@ Catalog: [[Ludmila Ulehla - Sonata For Improvisation]]
 - Gaps: Full-text repository PDF returned 403; exact chapter analysis, performance guide details, and score examples remain unverified.; Schott preview and actual notation have not yet been inspected.
 - Proposed correction: Add piano accompaniment to instrumentation.
 - Proposed correction: Qualify saxophone version as adaptation of original clarinet work.
+
+## Chat batch 13 follow-up, 2026-10-14
+
+Opened Schott publisher page identifies Advance Music ADV8310, clarinet in B-flat or soprano saxophone and piano, score and part, ISMN9790206301636 and 14 pages. Publisher says the original clarinet solo was adapted by the composer for soprano range; both solo parts are included, and tenor is an option. Publisher identifies free improvisation and dedication to Richie Beirach; its Advanced/difficult descriptors are source statements, without study-year mapping. Opened LSU record identifies John M. Perrine’s 2002 Doctor of Musical Arts major paper, not a master’s paper. Its abstract studies this work with Woods and Dobbins as sonatas integrating jazz improvisation and established formal models. Schott preview endpoint, Studio Music linked PDF and LSU full-text PDF were attempted but returned HTTP 403. No specific chapter or notation-based demands are claimed.
+
+Collection context: Legitimate composer-authored clarinet-to-saxophone adaptation retained for judgment. Publisher and doctoral-study context identify serious contemporary improvisation repertoire; no evidence of a young-player simplification.
+
+Open questions: Composition year unknown; 1997 lead was not independently verified and is not proposed. Notation previews and doctoral full text blocked, so full range, exact improvised sections and concrete notated techniques remain unknown. Exact recording and exact institutional/library score catalog not verified.
+
+Sources checked:
+- [Schott Music / Advance Music](https://www.schott-music.com/en/sonata-for-improvisation-no307720.html): Exact edition, clarinet origin, composer adaptation, optional tenor, improvisation and dedication. (opened)
+- [Studio Music](https://www.studio-music.co.uk/adv08310a): Exact stockist edition and linked PDF preview. (opened)
+- [Louisiana State University](https://repository.lsu.edu/gradschool_majorpapers/19/): DMA study abstract, 2002 date and integral improvisation. (opened)
+- [eJazzLines](https://www.ejazzlines.com/sonata-for-improvisation-written-and-arranged-by-ludmila-ulehla): Independent stockist confirms publisher description and adaptation. (opened)

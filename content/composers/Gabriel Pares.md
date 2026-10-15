@@ -1,7 +1,8 @@
 ---
 title: "Gabriel Pares"
 slug: gabriel-pares
-nationality: []
+nationality:
+  - "🇫🇷 French"
 gender: 
 race: []
 born: 1860

@@ -6,7 +6,7 @@ nationality:
 gender: "Male"
 race:
   - "East-Asian"
-born: 
+born: 1928
 died: 
 wikidata: 
 photo: 

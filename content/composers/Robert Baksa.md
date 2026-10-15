@@ -7,10 +7,11 @@ gender: "Male"
 race:
   - "White"
 born: 1938
-died: 
+died: 2023
 wikidata: Q98593193
 photo: "/media/composers/robert-baksa.jpg"
 photo-credit: 
 photo-source: "Notion upload"
 aliases: []
+website: https://www.robertbaksa.org/
 ---

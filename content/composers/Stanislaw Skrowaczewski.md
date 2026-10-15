@@ -1,7 +1,8 @@
 ---
 title: "Stanislaw Skrowaczewski"
 slug: stanislaw-skrowaczewski
-nationality: []
+nationality:
+  - "🇵🇱 Polish"
 gender: 
 race: []
 born: 1923

@@ -14,11 +14,21 @@ purchase:
 added: 2024-03-08
 research:
   - "Dorn DORN0172; dedicated to David Jacobsen and Caryl Conger; three movements: Invocation, Elegy, Tarantella; 61 pages · https://www.grothmusic.com/p-140165.aspx"
+  - "Exact DORN0172, score and alto part, dedication, three movements and 61-page listing. · https://www.grothmusic.com/p-140165.aspx"
+  - "Opening notation and1996 copyright inspected. · https://grothmusic.com/images/product/large/ae00-121776_2_.jpg"
+  - "Dorn catalog identifies Holliday Sonata under alto saxophone and piano. · https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf"
 publisher:
   - "Dorn Publications"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat batch 13 follow-up, 2026-10-14
+
+Holliday’s three-movement Sonata includes a piano score and alto part. The inspected Invocation opening shows an accelerating piano introduction, followed by freely marked chromatic saxophone phrases with colla parte accompaniment. This creates visible timing and ensemble demands. Full range, later movements, composition date and an exact recording remain unverified.
+
+[[Review 0220 - Kent Holliday - Sonata|Full evidence and open questions]]
+
 
 - Dorn DORN0172; dedicated to David Jacobsen and Caryl Conger; three movements: Invocation, Elegy, Tarantella; 61 pages · [grothmusic.com](https://www.grothmusic.com/p-140165.aspx)
 

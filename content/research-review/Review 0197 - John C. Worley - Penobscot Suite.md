@@ -3,9 +3,9 @@ title: "Review 0197: John C. Worley - Penobscot Suite"
 added: 2026-10-11
 review-id: 197
 review-packet: 8
-review-decision: Pending
-review-applied: false
-notation-inspected: false
+review-decision: "Third Year"
+review-applied: true
+notation-inspected: true
 catalog-entry: "[[John C. Worley - Penobscot Suite]]"
 build:
   render: never
@@ -42,3 +42,22 @@ Searches checked:
 - John C. Worley Penobscot Suite saxophone Dorn 0888 score preview
 - John C. Worley Penobscot Suite saxophone performance
 - John C. Worley Penobscot Suite syllabus repertoire
+
+## Chat batch 12 follow-up, 2026-10-14
+
+The first score page carries Worley’s manuscript date 1967, distinct from its 1988 Dorn copyright. Groth identifies Dorn DORN0888 for alto saxophone and piano. The opening page lists six movements with landscape captions: Moderato, Adagio, Vivo furioso, Largo, Allegro con brio, and Maestoso/Allegro/Adagio/Allegro. Gayle Fredenburgh’s memorial, published by Vintage Sax, explicitly identifies Penobscot Suite among Worley’s original compositions. No source examined documents a youth teaching version, simplification, or work-specific college/professional programming. A dedication alone does not establish performance history.
+
+Score observations: Inspected one public opening score page with the six-movement list and the opening of movement I. The solo staff is not explicitly labeled as a transposed alto part. Its initial key signature matches the piano, so no written alto range is claimed from this score image. The opening Maestoso includes a sextuplet group, a chromatic thirty-second-note run, slurred continuation and a fermata. At measure 5 the marking becomes Moderato, quarter note 80–84, with a quieter sustained solo melody above repeated piano eighth-note figures. The visible introduction and following section require flexible pacing and coordination with the piano.
+
+Collection context: Original six-movement suite for alto saxophone and piano. No youth simplification documented.
+
+Open questions: Only one opening page was inspected. Complete movement contents, full written saxophone range, later techniques and total duration remain unverified. No exact accessible recording or work-specific youth/college/professional programming was verified. No verified full-score download or library score record was located.
+
+Sources checked:
+- [Groth Music](https://www.grothmusic.com/p-146143.aspx): Exact title, scoring and catalog number DORN0888. (opened)
+- [Dorn public score via Groth Music](https://grothmusic.com/images/product/large/ae00-127009.jpg): Manuscript identity, date when present, and visible opening notation. (score_inspected)
+- [Gayle Fredenburgh memorial at Vintage Sax](https://vintagesax.com/john-worley/): Penobscot Suite is an original Worley composition. (opened)
+
+## Chat Batch 12 Decision, 2026-10-14
+
+Tim assigned Third Year.

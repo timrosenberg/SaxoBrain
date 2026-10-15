@@ -15,11 +15,24 @@ added: 2024-03-08
 research:
   - "Publisher Alphonse Leduc, catalog no. AL24400 · https://www.grothmusic.com/p-141693.aspx"
   - "14 pages · https://www.grothmusic.com/p-141693.aspx"
+  - "AL24400, alto and piano, CNSM concours; publication 1970 and local Année 9 classification. · https://windmusic.org/index.php?lvl=notice_display&id=5425"
+  - "Exact Leduc score is dedicated to Daniel Daffayet. · https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf"
+  - "Linéal in seventh/eighth-period bachelor saxophone repertoire. · https://fames.es.gov.br/Media/Fames/Ensino/Gerenciar%20Bacharelado%20em%20M%C3%BAsica%20-%20Habilita%C3%A7%C3%A3o%20em%20Instrumento/PROGRAMAS%20DO%20N%C3%9ACLEO%20DE%20SOPROS%20E%20PERCUSS%C3%83O.pdf"
+  - "AL24400 alto saxophone/piano score and part. · https://www.grothmusic.com/p-141693.aspx"
 publisher:
   - "A. Leduc"
 aliases: []
+library-score:
+  - "https://windmusic.org/index.php?lvl=notice_display&id=5425"
 ---
 ## Research notes (private)
+
+### Chat batch 12 follow-up, 2026-10-14
+
+Linéal, Leduc AL24400: conservatory competition provenance and bachelor curriculum use verified, with a dedication to Daniel Daffayet. No readable notation or exact recording was found. The 1970 publication date does not establish composition year. Technical demands remain unknown.
+
+[[Review 0188 - Jean-Paul Rieunier - Lineal|Full evidence and open questions]]
+
 
 - Publisher Alphonse Leduc, catalog no. AL24400 · [grothmusic.com](https://www.grothmusic.com/p-141693.aspx)
 - 14 pages · [grothmusic.com](https://www.grothmusic.com/p-141693.aspx)

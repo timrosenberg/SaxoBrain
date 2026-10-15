@@ -1,7 +1,8 @@
 ---
 title: "Dominic Muldowney"
 slug: dominic-muldowney
-nationality: []
+nationality:
+  - "🇬🇧 British"
 gender: 
 race: []
 born: 1952

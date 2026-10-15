@@ -1,7 +1,8 @@
 ---
 title: "Vincent Paulet"
 slug: vincent-paulet
-nationality: []
+nationality:
+  - "🇫🇷 French"
 gender: 
 race: []
 born: 1962

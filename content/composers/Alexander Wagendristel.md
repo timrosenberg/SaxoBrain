@@ -1,7 +1,8 @@
 ---
 title: "Alexander Wagendristel"
 slug: alexander-wagendristel
-nationality: []
+nationality:
+  - "🇦🇹 Austrian"
 gender: 
 race: []
 born: 1965

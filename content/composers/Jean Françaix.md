@@ -13,4 +13,5 @@ photo: "/media/composers/jean-francaix.jpg"
 photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Jean_Fran%C3%A7aix.jpg"
 aliases: []
+website: https://www.jeanfrancaix.com/fr/
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Chiel Meijering"
 slug: chiel-meijering
-nationality: []
+nationality:
+  - "🇳🇱 Dutch"
 gender: 
 race: []
 born: 1954

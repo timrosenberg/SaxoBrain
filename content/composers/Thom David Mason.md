@@ -4,8 +4,8 @@ slug: thom-david-mason
 nationality: []
 gender: 
 race: []
-born: 
-died: 
+born: 1941
+died: 2022
 wikidata: 
 photo: 
 photo-credit: 

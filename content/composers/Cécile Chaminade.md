@@ -1,7 +1,8 @@
 ---
 title: "Cécile Chaminade"
 slug: cecile-chaminade
-nationality: []
+nationality:
+  - "🇫🇷 French"
 gender: 
 race: []
 born: 1857

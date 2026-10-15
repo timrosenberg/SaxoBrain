@@ -6,8 +6,8 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
-year-of-study: 
+composed: 1974
+year-of-study: "Fourth Year"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-147255.aspx
@@ -15,9 +15,23 @@ added: 2024-03-08
 research:
   - "Publisher Lemoine, catalog no. HL24663 · https://www.grothmusic.com/p-147255.aspx"
   - "29 pages · https://www.grothmusic.com/p-147255.aspx"
+  - "Original 1974 printed independently of ©1983; opening notation and special fingerings. · https://grothmusic.com/images/product/large/ae00-127711_2_.jpg"
+  - "Publisher edition 24663, alto/piano, Claude Delangle series, premiere Decouais and Delangle Duo performances. · https://www.henry-lemoine.com/en/partitions-par-instrument/868-seve.html"
+  - "Explicit composition year 1974 and publication 1983. · https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf"
+  - "Sève listed in saxophone multiphonics repertoire. · https://tombergeron.us/download/sax-multiphonics.pdf"
+  - "Work included in composer’s original compositions for alto and piano. · https://www.jeanpierreleguay.com/biographie"
 aliases: []
+publisher:
+  - "Henry Lemoine"
 ---
 ## Research notes (private)
+
+### Chat batch 12 follow-up, 2026-10-14
+
+Leguay Sève: composition 1974 verified separately from publication 1983. Actual opening alto part shows flutter tongue, abrupt dynamic contrasts and retained low-C fingering effects. Publisher documents Decouais premiere and Delangle Duo use. Recording remains unknown.
+
+[[Review 0189 - Jean-Pierre Leguay - Seve|Full evidence and open questions]]
+
 
 - Publisher Lemoine, catalog no. HL24663 · [grothmusic.com](https://www.grothmusic.com/p-147255.aspx)
 - 29 pages · [grothmusic.com](https://www.grothmusic.com/p-147255.aspx)

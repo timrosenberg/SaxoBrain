@@ -4,8 +4,8 @@ slug: jean-paul-rieunier
 nationality: []
 gender: 
 race: []
-born: 
-died: 
+born: 1933
+died: 1992
 wikidata: 
 photo: 
 photo-credit: 

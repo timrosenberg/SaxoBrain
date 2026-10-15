@@ -29,8 +29,8 @@ Works 251 through 275. Open an individual review note for its research and decis
 | 262 | [[Review 0262 - Melvin Solomon - Sonatina\|Melvin Solomon - Sonatina]] |
 | 263 | [[Review 0263 - Michael Cunningham - Sonata\|Michael Cunningham - Sonata]] |
 | 264 | [[Review 0264 - Michael Mauldin - Three Songs\|Michael Mauldin - Three Songs]] |
-| 265 | [[Review 0265 - Michael Meriot - Comme Un Dimanche\|Michael Meriot - Comme Un Dimanche]] |
-| 266 | [[Review 0266 - Michael Meriot - Sicilienne et Danse\|Michael Meriot - Sicilienne et Danse]] |
+| 265 | [[Review 0265 - Michel Meriot - Comme Un Dimanche\|Michel Meriot - Comme Un Dimanche]] |
+| 266 | [[Review 0266 - Michel Meriot - Sicilienne et Danse\|Michel Meriot - Sicilienne et Danse]] |
 | 267 | [[Review 0267 - Michael Nyman - Shaping the Curve\|Michael Nyman - Shaping the Curve]] |
 | 268 | [[Review 0268 - Michael Torke - Concerto\|Michael Torke - Concerto]] |
 | 269 | [[Review 0269 - Michio Kitazume - Air\|Michio Kitazume - Air]] |

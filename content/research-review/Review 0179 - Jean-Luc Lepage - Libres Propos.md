@@ -3,10 +3,10 @@ title: "Review 0179: Jean-Luc Lepage - Libres Propos"
 added: 2026-10-11
 review-id: 179
 review-packet: 8
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Jean-Luc Lepage - Libres Propos]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog entry: [[Jean-Luc Lepage - Libres Propos]].
+Catalog: removed at Tim’s request on 2026-10-14.
 
 IMEP’s opened library record identifies Jean-Luc Lepage’s Libres propos for alto saxophone and piano, Combre, Arc-en-ciel, ten pages plus saxophone booklet. Forsyths independently matches the current Combre HXC06233 issue.
 [IMEP Media Library catalog](https://biblio.imep.be/index.php?lvl=notice_display&id=5848) (opened): The opened IMEP record identifies Libres propos for alto saxophone and piano, Combre, Arc-en-ciel, 10 pages plus saxophone booklet.
@@ -42,3 +42,20 @@ Searches checked:
 - Jean-Luc Lepage Libres Propos Combre HXC06233 score preview
 - Jean-Luc Lepage Libres Propos recording saxophone
 - Jean-Luc Lepage Libres Propos saxophone conservatory repertoire
+
+## Chat batch 11 follow-up, 2026-10-14
+
+Publisher catalog directly confirms alto/piano, Combre C06233, Arc en ciel, and its own label 3. Moyen. The label belongs to the publisher’s scale. IMEP’s library record describes ten pages plus a saxophone booklet. This is pagination, not duration or technical evidence. Libres Propos appears in the Confédération Musicale de France journal, June 2003, under the alto/piano list among new publications. It is evidence of publication by that date, not a composition year or an examination assignment. The publisher credits Lepage without an arranger or source-work attribution. Original saxophone/piano provenance is a reasonable catalog-based inference, but no composer statement or score title page was located.
+
+Collection context: Single cataloged alto/piano publication in Arc en ciel. Publisher’s medium label is documented; no simplified edition or exact work-specific school/college curriculum placement verified.
+
+Open questions: No public saxophone notation found at publisher or retailer preview routes. Actual range, tempo, passagework and ensemble demands remain unknown. No exact saxophone recording found after work/composer searches and YouTube metadata search; irrelevant Libres Propos results were rejected. Composition year, duration and pedagogical or college/professional performance use remain unknown. Retailer Forsyths label 4 differs from publisher 3. Moyen; no equivalence is assumed.
+
+Sources checked:
+- [Combre / Henry Lemoine](https://www.henry-lemoine.com/fr/partitions-par-instrument/8549-libres-propos.html): Exact publisher edition, scoring, collection and 3. Moyen label; opened in CUA browser. (opened)
+- [IMEP Media Library](https://biblio.imep.be/index.php?lvl=notice_display&id=5848): Ten pages plus saxophone booklet, Arc-en-ciel. (search_index_only)
+- [Confédération Musicale de France, Journal no.506](https://cmf-archives.bibliossimo.net/files/original/d7f75dca0fcbbe443876d629a58e170934026e35.pdf): Libres Propos was listed under alto saxophone and piano in June 2003 new-publication coverage; no teaching level stated. (opened)
+
+## Chat Batch 11 Decision, 2026-10-14
+
+Tim requested removal from the catalog. The private evidence log is retained.

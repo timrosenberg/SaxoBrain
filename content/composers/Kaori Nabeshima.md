@@ -1,7 +1,8 @@
 ---
 title: "Kaori Nabeshima"
 slug: kaori-nabeshima
-nationality: []
+nationality:
+  - "🇯🇵 Japanese"
 gender: 
 race: []
 born: 1960

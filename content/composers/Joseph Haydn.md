@@ -1,7 +1,8 @@
 ---
 title: "Joseph Haydn"
 slug: joseph-haydn
-nationality: []
+nationality:
+  - "🇦🇹 Austrian"
 gender: 
 race: []
 born: 1732

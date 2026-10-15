@@ -4,7 +4,7 @@ slug: james-greeson
 nationality: []
 gender: 
 race: []
-born: 
+born: 1951
 died: 
 wikidata: 
 photo: 

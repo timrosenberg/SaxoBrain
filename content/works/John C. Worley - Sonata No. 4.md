@@ -6,8 +6,8 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
-year-of-study: 
+composed: 1994
+year-of-study: "Third Year"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-146146.aspx
@@ -15,11 +15,20 @@ added: 2024-03-08
 research:
   - "Publisher Dorn Publications, catalog no. DORN0209 · https://www.grothmusic.com/p-146146.aspx"
   - "Page gives a 1994 copyright · https://www.grothmusic.com/p-146146.aspx"
+  - "Exact title, scoring and catalog number DORN0209. · https://www.grothmusic.com/p-146146.aspx"
+  - "Manuscript identity, date when present, and visible opening notation. · https://grothmusic.com/images/product/large/ae00-127012.jpg"
 publisher:
   - "Dorn Publications"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat batch 12 follow-up, 2026-10-14
+
+From Penn’s Woods, dated 1994, for alto and piano. The inspected Andante cantabile opening at quarter note 80–86 has slurred phrases, rising runs, a trill, triplets and chromatic changes over moving piano voices. The solo score is in concert pitch. Only one page was inspected; complete range and recording remain unknown.
+
+[[Review 0199 - John C. Worley - Sonata No. 4|Full evidence and open questions]]
+
 
 - Publisher Dorn Publications, catalog no. DORN0209 · [grothmusic.com](https://www.grothmusic.com/p-146146.aspx)
 - Page gives a 1994 copyright · [grothmusic.com](https://www.grothmusic.com/p-146146.aspx)

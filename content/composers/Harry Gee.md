@@ -6,8 +6,8 @@ nationality:
 gender: "Male"
 race:
   - "White"
-born: 
-died: 
+born: 1924
+died: 2014
 wikidata: 
 photo: "/media/composers/harry-gee.jpg"
 photo-credit: 

@@ -1,7 +1,8 @@
 ---
 title: "Georges Guilhaud"
 slug: georges-guilhaud
-nationality: []
+nationality:
+  - "🇫🇷 French"
 gender: 
 race: []
 born: 1851

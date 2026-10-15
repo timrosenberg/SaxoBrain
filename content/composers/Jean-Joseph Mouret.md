@@ -1,7 +1,8 @@
 ---
 title: "Jean-Joseph Mouret"
 slug: jean-joseph-mouret
-nationality: []
+nationality:
+  - "🇫🇷 French"
 gender: 
 race: []
 born: 1682

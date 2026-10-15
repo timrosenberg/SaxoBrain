@@ -1,23 +1,23 @@
 ---
-title: "Catch"
+title: Catch
 slug: mary-finsterer-catch
 composer:
   - "[[Mary Finsterer]]"
 instruments:
-  - "Soprano Saxophone"
-  - "Bass Clarinet"
-  - "Piano"
+  - Soprano Saxophone
+  - Bass Clarinet
+  - Piano
 composed: 1992
-year-of-study: 
-streaming: 
+year-of-study: Advanced
+streaming: https://open.spotify.com/track/0yKqF2vEiz4zLbFDPxNnuk?si=e5334cbfd0ce40f6
 purchase:
   - https://www.australianmusiccentre.com.au/product/catch-soprano-saxophone-bass-clarinet-piano
 library-recording:
-  - "https://search.alexanderstreet.com/lti/view/work/bibliographic_entity|score|1689668"
+  - https://search.alexanderstreet.com/lti/view/work/bibliographic_entity|score|1689668
 added: 2025-04-21
 research:
-  - "Duration 5 mins 30 sec; composed for the Albert Maggs Award 1992, dedicated to the Caravan Trio · https://www.australianmusiccentre.com.au/product/catch-soprano-saxophone-bass-clarinet-piano"
-  - "Recorded by Sydney Alpha Ensemble on the CD Catch · https://www.australianmusiccentre.com.au/product/catch-soprano-saxophone-bass-clarinet-piano"
+  - Duration 5 mins 30 sec; composed for the Albert Maggs Award 1992, dedicated to the Caravan Trio · https://www.australianmusiccentre.com.au/product/catch-soprano-saxophone-bass-clarinet-piano
+  - Recorded by Sydney Alpha Ensemble on the CD Catch · https://www.australianmusiccentre.com.au/product/catch-soprano-saxophone-bass-clarinet-piano
 aliases: []
 ---
 ## Research notes (private)

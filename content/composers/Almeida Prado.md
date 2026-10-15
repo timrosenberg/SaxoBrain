@@ -1,7 +1,8 @@
 ---
 title: "Almeida Prado"
 slug: almeida-prado
-nationality: []
+nationality:
+  - "🇧🇷 Brazilian"
 gender: 
 race: []
 born: 1943

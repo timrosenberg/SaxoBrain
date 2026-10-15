@@ -1,7 +1,8 @@
 ---
 title: "Bryan Kelly"
 slug: bryan-kelly
-nationality: []
+nationality:
+  - "🏴󠁧󠁢󠁥󠁮󠁧󠁿 English"
 gender: 
 race: []
 born: 1934

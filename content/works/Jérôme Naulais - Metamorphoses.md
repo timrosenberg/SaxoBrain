@@ -8,15 +8,31 @@ instruments:
   - "Piano"
 composed: 
 year-of-study: 
-streaming: 
+streaming: "https://www.youtube.com/watch?v=ObedOM6IEqI"
 purchase:
   - https://www.grothmusic.com/p-144547.aspx
 added: 2024-03-08
 research:
   - "Billaudot GB6204 · https://www.grothmusic.com/p-144547.aspx"
+  - "Exact GB6204 score/alto part package. · https://www.grothmusic.com/p-144547.aspx"
+  - "GB6204, 6:45, cycle-2 publisher classification. · https://www.billaudot.com/gb6204-6.html"
+  - "Notation and transposed alto scoring personally inspected. · https://grothmusic.com/images/product/large/ae00-125995_2_.jpg"
+  - "Exact institutional score holding and publication 1997. · https://windmusic.org/index.php?id=7130&lvl=notice_display"
+  - "Exact work, performers and public complete-work performance. · https://www.youtube.com/watch?v=ObedOM6IEqI"
 aliases: []
+publisher:
+  - "Éditions Billaudot"
+library-score:
+  - "https://windmusic.org/index.php?id=7130&lvl=notice_display"
 ---
 ## Research notes (private)
+
+### Chat batch 13 follow-up, 2026-10-14
+
+Métamorphoses exposes a freely paced opening with rapid grouped runs, accidentals and dynamic changes over sustained piano chords. The inspected score uses transposed alto notation. Billaudot gives 6:45 and a cycle-2 classification. A credited complete-work performance is available; the remaining score and full range still require inspection.
+
+[[Review 0215 - Jérôme Naulais - Metamorphoses|Full evidence and open questions]]
+
 
 - Billaudot GB6204 · [grothmusic.com](https://www.grothmusic.com/p-144547.aspx)
 

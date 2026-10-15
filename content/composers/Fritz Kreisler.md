@@ -1,7 +1,8 @@
 ---
 title: "Fritz Kreisler"
 slug: fritz-kreisler
-nationality: []
+nationality:
+  - "🇦🇹 Austrian"
 gender: 
 race: []
 born: 1875

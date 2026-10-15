@@ -1,7 +1,8 @@
 ---
 title: "Nicole Philiba"
 slug: nicole-philiba
-nationality: []
+nationality:
+  - "🇫🇷 French"
 gender: 
 race: []
 born: 1937

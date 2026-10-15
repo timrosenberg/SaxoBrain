@@ -6,8 +6,8 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
-year-of-study: 
+composed: 1991
+year-of-study: "Second Year"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-146142.aspx
@@ -15,11 +15,23 @@ added: 2024-03-08
 research:
   - "Publisher Dorn Publications, catalog no. DORN0207 · https://www.grothmusic.com/p-146142.aspx"
   - "Listed as \"A Coastal Sonata: Four Places In Maine\"; four movements: I. Monhegan Island, II. Christmas Cove, III. Boothbay Harbor, IV. Cadillac Mountain; dedicated to Lawrence Gwozdz; 55 pages; page shows 1991 · https://www.grothmusic.com/p-146142.aspx"
+  - "Groth Music identifies a piano score and separate solo alto part, dedicated to Lawrence Gwozdz. The four movements are Monhegan Island, Christmas Cove, Boothbay Harbor, and Cadillac Mountain. · https://www.grothmusic.com/p-146142.aspx"
+  - "Composer date 1991 and visible musical demands of this edition. · https://grothmusic.com/images/product/large/ae00-127008_2_.jpg"
+  - "Composer date 1991 and visible musical demands of this edition. · https://grothmusic.com/images/product/large/ae00-127008_3_.jpg"
+  - "Composer date 1991 and visible musical demands of this edition. · https://grothmusic.com/images/product/large/ae00-127008_4_.jpg"
+  - "Composer date 1991 and visible musical demands of this edition. · https://grothmusic.com/images/product/large/ae00-127008_5_.jpg"
 publisher:
   - "Dorn Publications"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat batch 12 follow-up, 2026-10-14
+
+Four movements for alto and piano, composed in 1991. Samples across all four show chromatic runs, triplets, high written passages, a staccato 6/8 scherzo and a cadenza with irregular subdivisions. Both concert-pitch score and transposed alto part were inspected. No exact recording was found.
+
+[[Review 0194 - John C. Worley - A Coastal Sonata|Full evidence and open questions]]
+
 
 - Publisher Dorn Publications, catalog no. DORN0207 · [grothmusic.com](https://www.grothmusic.com/p-146142.aspx)
 - Listed as "A Coastal Sonata: Four Places In Maine"; four movements: I. Monhegan Island, II. Christmas Cove, III. Boothbay Harbor, IV. Cadillac Mountain; dedicated to Lawrence Gwozdz; 55 pages; page shows 1991 · [grothmusic.com](https://www.grothmusic.com/p-146142.aspx)

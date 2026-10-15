@@ -2,6 +2,7 @@
 title: "Wolfgang Jacobi"
 slug: wolfgang-jacobi
 nationality:
+  - "🇩🇪 German"
 gender:
 race:
 born: 1894

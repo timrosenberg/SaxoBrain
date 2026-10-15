@@ -6,8 +6,8 @@ nationality:
   - "🇫🇷 French"
 gender: "Male"
 race: []
-born: 
-died: 
+born: 1929
+died: 2017
 wikidata: 
 photo: 
 photo-credit: 

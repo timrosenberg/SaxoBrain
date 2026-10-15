@@ -7,18 +7,31 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
+year-of-study: "Second Year"
 publisher:
   - "Adolphe Sax"
-streaming: 
+streaming: "https://www.youtube.com/watch?v=85aolCfVXVY"
 purchase:
   - https://www.grothmusic.com/p-38097.aspx
 added: 2024-03-08
 research:
   - "Publisher Roncorp, catalog no. RON1164 · https://www.grothmusic.com/p-38097.aspx"
+  - "Exact RON1164 current edition credits Bruce Ronkin. · https://www.grothmusic.com/p-38097.aspx"
+  - "Original Adolphe Sax plate A.S.95, score and part cataloged. · https://imslp.org/wiki/Solo_de_concert_No.5,_Op.91_(Singel%C3%A9e,_Jean_Baptiste)"
+  - "Wehage edition preview shows opening and later chromatic sixteenth writing, and identifies original saxophone contest work. · https://www.sheetmusicplus.com/en/product/jean-baptiste-singelee-solo-de-concert-no-5-opus-91-pour-saxophone-alto-et-piano-20057148.html"
+  - "University faculty and guest pianist performance, exact title and instruments, full metadata. · https://www.youtube.com/watch?v=85aolCfVXVY"
 aliases: []
+arranger-edition:
+  - "Bruce Ronkin"
 ---
 ## Research notes (private)
+
+### Chat batch 11 follow-up, 2026-10-14
+
+RON1164 is Ronkin’s alto/piano edition. Wehage public pages 2 and 5 show sustained/high-register phrasing and extensive chromatic sixteenths. Exact faculty recording and youth-competition program found. Original Sax scan is verification-blocked. Composition 1862/1863 and current-publisher distinctions preserved as review issues.
+
+[[Review 0174 - Jean-Baptiste Singelée - Cinquieme Solo De Concert Op. 91|Full evidence and open questions]]
+
 
 - Publisher Roncorp, catalog no. RON1164 · [grothmusic.com](https://www.grothmusic.com/p-38097.aspx)
 

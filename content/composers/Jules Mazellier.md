@@ -1,7 +1,8 @@
 ---
 title: "Jules Mazellier"
 slug: jules-mazellier
-nationality: []
+nationality:
+  - "🇫🇷 French"
 gender: 
 race: []
 born: 1879

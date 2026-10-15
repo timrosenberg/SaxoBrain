@@ -13,4 +13,5 @@ photo: "/media/composers/jacob-ter-veldhuis.jpg"
 photo-credit: 
 photo-source: "Notion upload"
 aliases: []
+website: https://www.jacobtv.net/
 ---

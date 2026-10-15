@@ -1,7 +1,8 @@
 ---
 title: "Patrick Mancone"
 slug: patrick-mancone
-nationality: []
+nationality:
+  - "🇫🇷 French"
 gender: 
 race: []
 born: 

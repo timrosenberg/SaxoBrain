@@ -1,7 +1,8 @@
 ---
 title: "Hanna Kulenty"
 slug: hanna-kulenty
-nationality: []
+nationality:
+  - "🇵🇱 Polish"
 gender: 
 race: []
 born: 1961

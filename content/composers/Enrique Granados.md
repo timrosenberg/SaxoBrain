@@ -1,7 +1,8 @@
 ---
 title: "Enrique Granados"
 slug: enrique-granados
-nationality: []
+nationality:
+  - "🇪🇸 Spanish"
 gender: 
 race: []
 born: 1867

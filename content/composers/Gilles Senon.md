@@ -5,7 +5,7 @@ nationality: []
 gender: 
 race: []
 born: 1932
-died: 
+died: 2015
 wikidata: Q133653875
 photo: 
 photo-credit: 

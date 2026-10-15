@@ -13,4 +13,5 @@ photo: "/media/composers/nina-senk.jpg"
 photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Nina_%C5%A0enk_Kosem.jpg"
 aliases: []
+website: https://ninasenk.net/
 ---

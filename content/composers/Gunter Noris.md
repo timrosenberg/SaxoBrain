@@ -1,7 +1,8 @@
 ---
 title: "Gunter Noris"
 slug: gunter-noris
-nationality: []
+nationality:
+  - "🇩🇪 German"
 gender: 
 race: []
 born: 1935

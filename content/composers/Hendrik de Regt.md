@@ -1,10 +1,11 @@
 ---
 title: "Hendrik de Regt"
 slug: hendrik-de-regt
-nationality: []
+nationality:
+  - "🇳🇱 Dutch"
 gender: 
 race: []
-born: 
+born: 1950
 died: 
 wikidata: Q111803440
 photo: 

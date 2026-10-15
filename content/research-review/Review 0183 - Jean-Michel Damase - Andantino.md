@@ -3,8 +3,8 @@ title: "Review 0183: Jean-Michel Damase - Andantino"
 added: 2026-10-11
 review-id: 183
 review-packet: 8
-review-decision: Pending
-review-applied: false
+review-decision: "Pre-college"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Jean-Michel Damase - Andantino]]"
 build:
@@ -42,3 +42,20 @@ Searches checked:
 - Jean-Michel Damase Andantino AL29507 alto saxophone score preview
 - Damase Andantino 167531 Broekmans 1er cycle
 - Damase Andantino saxophone recording
+
+## Chat batch 12 follow-up, 2026-10-14
+
+Exact AL29507 cover identifies alto saxophone and piano and prints 1er cycle. This is the publisher’s French teaching-cycle label. It does not establish a college year. Groth confirms piano score and separate solo alto part. Andantino pastoral AL29594 is a distinct title and was excluded. Elias Borges’s upload identifies Andantino by Jean-Michel Damase for alto saxophone, with Borges and Regina Lacerda credited in its description. The upload is 5:05; this is the recording length, not a verified score duration.
+
+Collection context: A single pedagogical piece in the publisher’s first-cycle repertoire. No transcription, simplified derivative or college syllabus was verified.
+
+Open questions: No notation preview found in the exact Groth image endpoint, which exposed only the cover. Written range, articulation and rhythmic demands remain unknown. Composition year unknown. No original completion date verified. No exact college/professional institutional placement verified. A second upload describes a ten-year-old performer, but it contains two works and was excluded from streaming.
+
+Sources checked:
+- [Groth Music exact-edition listing](https://www.grothmusic.com/p-147310.aspx): AL29507 includes piano score and solo alto part. (opened)
+- [Alphonse Leduc printed cover via Groth](https://grothmusic.com/images/product/large/1001-48185785.jpg): Exact AL29507 cover prints first-cycle pedagogical label. (opened)
+- [Elias Borges performer upload](https://www.youtube.com/watch?v=Uq_FIAKpDmQ): Work-specific recording title and performers. (opened)
+
+## Chat Batch 12 Decision, 2026-10-14
+
+Tim assigned Pre-college.

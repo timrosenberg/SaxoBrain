@@ -6,7 +6,7 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
+composed: 1977
 year-of-study: 
 streaming: 
 purchase:
@@ -14,9 +14,21 @@ purchase:
 added: 2024-03-08
 research:
   - "Dorn DORN0178 · https://www.grothmusic.com/p-145580.aspx"
+  - "Exact Dorn edition and scoring. · https://www.grothmusic.com/p-145580.aspx"
+  - "1977 work date, 1979 copyright, dedication and opening notation. · https://grothmusic.com/images/product/large/ae00-126439.jpg"
+  - "Institutional published-score holding listed under Kraft, box 1535. · https://nyplorg-data-archives.s3.amazonaws.com/uploads/collection/generated_finding_aids/mus24605.pdf"
 aliases: []
+publisher:
+  - "Dorn Publications"
 ---
 ## Research notes (private)
+
+### Chat batch 13 follow-up, 2026-10-14
+
+Kraft’s first score page gives 1977, separately from its 1979 copyright. The opening combines chromatic slurred lines, beamed runs, triplet and quintuplet groupings, changing meters, and active piano writing. This is an original published duo, with no simplification evidence. The complete score, full range, and exact recording remain unverified.
+
+[[Review 0230 - Leo Kraft - Three Pieces|Full evidence and open questions]]
+
 
 - Dorn DORN0178 · [grothmusic.com](https://www.grothmusic.com/p-145580.aspx)
 

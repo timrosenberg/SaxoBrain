@@ -1,7 +1,8 @@
 ---
 title: "Albert Tepper"
 slug: albert-tepper
-nationality: []
+nationality:
+  - "🇺🇸 American"
 gender: 
 race: []
 born: 1921

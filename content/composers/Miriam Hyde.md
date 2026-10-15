@@ -1,7 +1,8 @@
 ---
 title: "Miriam Hyde"
 slug: miriam-hyde
-nationality: []
+nationality:
+  - "🇦🇺 Australian"
 gender: 
 race: []
 born: 1913

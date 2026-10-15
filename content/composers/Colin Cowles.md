@@ -1,16 +1,16 @@
 ---
-title: "Colin Cowles"
+title: Colin Cowles
 slug: colin-cowles
 nationality:
-  - "🏴󠁧󠁢󠁥󠁮󠁧󠁿 English"
-gender: "Male"
+  - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English
+gender: Male
 race:
-  - "White"
-born: 
-died: 
-wikidata: 
-photo: 
-photo-credit: 
-photo-source: 
+  - White
+born: 1940
+died:
+wikidata:
+photo: "/media/composers/colin-cowles.jpg"
+photo-credit:
+photo-source: https://www.scoreexchange.com/publisher_images/500/1559834772/7909.jpg
 aliases: []
 ---

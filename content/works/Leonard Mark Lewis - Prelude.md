@@ -10,14 +10,29 @@ composed:
 year-of-study: 
 streaming: 
 purchase:
-  - https://www.grothmusic.com/p-157265.aspx
-  - https://www.leonardmarklewis.com/prelude-for-soprano-sax
+  - "https://www.grothmusic.com/p-157265.aspx"
+  - "https://www.leonardmarklewis.com/prelude-for-soprano-sax"
+  - "https://www.leonardmarklewis.com/product-page/prelude-for-soprano-saxophone"
 added: 2025-04-16
 research:
   - "Composer's page titles it \"Prelude (for soprano saxophone)\" under Solo/Duo, with no piano mentioned (catalog lists soprano saxophone and piano) · https://www.leonardmarklewis.com/prelude-for-soprano-sax"
+  - "Scoring and purchase. · https://www.leonardmarklewis.com/product-page/prelude-for-soprano-saxophone"
+  - "Exact current Dorn edition. · https://www.grothmusic.com/p-157265.aspx"
+  - "2004 composition listing, approximate duration and Crystal CD658 association. · https://www.kenneth-tse.com/compositions"
+  - "Opening notation and dedication. · https://www.leonardmarklewis.com/_files/ugd/e74338_20164dca7ec2490892992546949083e9.pdf"
+  - "Exact album identity, soprano/piano performers and Prelude work inclusion. · https://www.kenneth-tse.com/discography/lyric-soprano"
 aliases: []
+publisher:
+  - "Dorn Publications"
 ---
 ## Research notes (private)
+
+### Chat batch 13 follow-up, 2026-10-14
+
+Prelude’s eight-bar preview shows a sustained soprano line with long slurs, dynamic shaping, ties, and quarter-note triplets over continuous piano arpeggios. The B-flat staff is transposed. Kenneth Tse and Alan Huckleberry recorded it on Lyric Soprano. Full demands remain unknown, and Tse’s 2004 date conflicts with a 2006 conference-program lead.
+
+[[Review 0232 - Leonard Mark Lewis - Prelude|Full evidence and open questions]]
+
 
 - Composer's page titles it "Prelude (for soprano saxophone)" under Solo/Duo, with no piano mentioned (catalog lists soprano saxophone and piano) · [leonardmarklewis.com](https://www.leonardmarklewis.com/prelude-for-soprano-sax)
 

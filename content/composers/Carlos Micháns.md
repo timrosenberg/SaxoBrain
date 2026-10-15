@@ -1,7 +1,8 @@
 ---
 title: "Carlos Micháns"
 slug: carlos-michans
-nationality: []
+nationality:
+  - "🇳🇱 Dutch"
 gender: 
 race: []
 born: 1950

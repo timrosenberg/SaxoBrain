@@ -8,15 +8,28 @@ instruments:
   - "Piano"
 composed: 
 year-of-study: 
-streaming: 
+streaming: "https://www.youtube.com/watch?v=BjC35XmVyfw"
 purchase:
   - https://www.grothmusic.com/p-144548.aspx
 added: 2024-03-08
 research:
   - "Billaudot GB5255 · https://www.grothmusic.com/p-144548.aspx"
+  - "GB5255 includes piano score and alto part. · https://www.grothmusic.com/p-144548.aspx"
+  - "Preparatory publisher label and teaching-series identity. · https://grothmusic.com/images/product/large/ae00-125997.jpg"
+  - "Duration 2:20, issue year 1992. · https://www.juneemersonwindmusic.com/KANSAX-CITY.html"
+  - "Composer, alto/piano, Billaudot, named performers and public availability. · https://www.youtube.com/watch?v=BjC35XmVyfw"
 aliases: []
+publisher:
+  - "Éditions Billaudot"
 ---
 ## Research notes (private)
+
+### Chat batch 13 follow-up, 2026-10-14
+
+Kansax-City is Billaudot’s alto and piano piece, with an explicit preparatory label on its cover. A credited saxophone-and-piano performance is publicly available. The retailer gives 2:20, but notation was not exposed. Its pedagogical positioning is clear; specific range, rhythms and articulation remain unverified.
+
+[[Review 0214 - Jérôme Naulais - Kansax-City|Full evidence and open questions]]
+
 
 - Billaudot GB5255 · [grothmusic.com](https://www.grothmusic.com/p-144548.aspx)
 

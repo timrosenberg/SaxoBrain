@@ -1,7 +1,8 @@
 ---
 title: "Paul-Baudouin Michel"
 slug: paul-baudouin-michel
-nationality: []
+nationality:
+  - "🇧🇪 Belgian"
 gender: 
 race: []
 born: 1930

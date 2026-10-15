@@ -15,11 +15,20 @@ purchase:
 added: 2024-03-08
 research:
   - "Rubank 04471880; three movements: Prelude, Chaconne, Presto · https://www.grothmusic.com/p-63638.aspx"
+  - "Rubank edition, scoring, 12 pages and publisher difficulty label. · https://www.halleonard.com/product/4471880/suite-for-alto-saxophone"
+  - "Three movement titles. · https://www.grothmusic.com/p-63638.aspx"
 publisher:
   - "Rubank"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat batch 13 follow-up, 2026-10-14
+
+Ostransky’s original Suite has three movements, Prelude, Chaconne and Presto, in the verified Rubank alto-and-piano edition. Publisher Level 4 and the Solo/Ensemble series provide context without assigning a study year. The available preview does not expose notation. Specific range and technical demands, composition date, and recording remain unknown.
+
+[[Review 0234 - Leroy Ostransky - Suite|Full evidence and open questions]]
+
 
 - Rubank 04471880; three movements: Prelude, Chaconne, Presto · [grothmusic.com](https://www.grothmusic.com/p-63638.aspx)
 

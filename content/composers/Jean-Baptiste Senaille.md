@@ -1,7 +1,8 @@
 ---
 title: "Jean-Baptiste Senaille"
 slug: jean-baptiste-senaille
-nationality: []
+nationality:
+  - "🇫🇷 French"
 gender: 
 race: []
 born: 1687

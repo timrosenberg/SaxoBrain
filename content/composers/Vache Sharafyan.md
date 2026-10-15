@@ -13,4 +13,5 @@ photo: "/media/composers/vache-sharafyan.jpg"
 photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Vache_Sharafyan.jpg"
 aliases: []
+website: https://sharafyanv.wixsite.com/sharafyan
 ---

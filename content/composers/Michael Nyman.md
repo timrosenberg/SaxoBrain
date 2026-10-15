@@ -1,7 +1,8 @@
 ---
 title: "Michael Nyman"
 slug: michael-nyman
-nationality: []
+nationality:
+  - "🏴󠁧󠁢󠁥󠁮󠁧󠁿 English"
 gender: 
 race: []
 born: 1944
@@ -11,4 +12,5 @@ photo: "/media/composers/michael-nyman.jpg"
 photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Michael_Nyman_Sant_Cugat.jpg"
 aliases: []
+website: https://www.michaelnyman.com/
 ---

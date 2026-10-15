@@ -1,11 +1,12 @@
 ---
 title: "Ludmila Ulehla"
 slug: ludmila-ulehla
-nationality: []
+nationality:
+  - "🇺🇸 American"
 gender: 
 race: []
-born: 
-died: 
+born: 1923
+died: 2009
 wikidata: 
 photo: 
 photo-credit: 

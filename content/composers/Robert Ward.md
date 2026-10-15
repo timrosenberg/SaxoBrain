@@ -2,6 +2,7 @@
 title: "Robert Ward"
 slug: robert-ward
 nationality:
+  - "🇺🇸 American"
 gender:
 race:
 born: 1917

@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
+year-of-study: "Second Year"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-141576.aspx
@@ -15,9 +15,22 @@ added: 2024-03-08
 research:
   - "Publisher Alphonse Leduc, catalog no. AL24211 · https://www.grothmusic.com/p-141576.aspx"
   - "Four movements: Hispano, Gipsy, Duetto, Aria; 22 pages · https://www.grothmusic.com/p-141576.aspx"
+  - "Four named pieces, AL24211 and alto/piano edition. · https://www.grothmusic.com/p-141576.aspx"
+  - "Opening notation, approximately seven minutes and Jean Lemaire attribution. · https://grothmusic.com/images/product/large/1001-48182696_2_.jpg"
+  - "1969 edition, alto/piano and approximately seven minutes. · https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf"
+  - "Advertised as 1969 Paris Conservatoire competition repertoire. · https://www.cmf-archives.org/files/original/28c6c3567e6c5ebd3332b43c43a495d97e84e362.pdf"
 aliases: []
+publisher:
+  - "Alphonse Leduc"
 ---
 ## Research notes (private)
+
+### Chat batch 11 follow-up, 2026-10-14
+
+The inspected Hispano opening asks for light precise playing around quarter note 80, detached and accented upper notes, slurred runs and grace figures over chromatic piano chords. A contemporary Leduc advertisement identifies the work as the 1969 Paris Conservatoire saxophone competition piece. Three other pieces remain uninspected.
+
+[[Review 0168 - Jean Lemaire - Musiques Legeres|Full evidence and open questions]]
+
 
 - Publisher Alphonse Leduc, catalog no. AL24211 · [grothmusic.com](https://www.grothmusic.com/p-141576.aspx)
 - Four movements: Hispano, Gipsy, Duetto, Aria; 22 pages · [grothmusic.com](https://www.grothmusic.com/p-141576.aspx)

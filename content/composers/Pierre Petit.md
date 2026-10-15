@@ -1,7 +1,8 @@
 ---
 title: "Pierre Petit"
 slug: pierre-petit
-nationality: []
+nationality:
+  - "🇫🇷 French"
 gender: 
 race: []
 born: 1922

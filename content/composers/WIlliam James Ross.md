@@ -1,7 +1,8 @@
 ---
 title: "WIlliam James Ross"
 slug: william-james-ross
-nationality: []
+nationality:
+  - "🇺🇸 American"
 gender: 
 race: []
 born: 1937

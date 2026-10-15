@@ -1,7 +1,8 @@
 ---
 title: "Denis Joly"
 slug: denis-joly
-nationality: []
+nationality:
+  - "🇫🇷 French"
 gender: 
 race: []
 born: 1906

@@ -7,8 +7,8 @@ instruments:
   - "Soprano Saxophone"
   - "Piano"
   - "Orchestra"
-composed: 
-year-of-study: 
+composed: 1949
+year-of-study: "Fourth Year"
 arranger-edition:
   - "Grégoire Nicole"
 streaming: 
@@ -19,12 +19,26 @@ added: 2024-03-10
 research:
   - "Publisher Alphonse Leduc, catalog no. AL29268 · https://www.grothmusic.com/p-147587.aspx"
   - "Arrangement of Ibert's work for oboe and orchestra; movements I. Allegro con moto, II. Adagio ma non troppo, III. Allegro brilliante; 55 pages · https://www.grothmusic.com/p-147587.aspx"
+  - "Original completed 1949, oboe and strings, 27 minutes; Nicole AL29268 soprano/piano transcription. · https://www.jacquesibert.fr/ibert/Catalogue_files/Catalogue.pdf"
+  - "AL29268 is soprano saxophone and piano, 46-page publication. · https://www.halleonard.com/product/48185596/symphonie-concertante-saxophone-soprano-piano"
+  - "Actual Nicole soprano part title and opening notation. · https://grothmusic.com/images/product/large/ae00-128029_3_.jpg"
+  - "Opening reduction notation on AL29268 page 1. · https://grothmusic.com/images/product/large/ae00-128029_2_.jpg"
+  - "Ibert/Nicole soprano/piano, originally oboe/orchestra, in GOLD examination list. · https://www.blasmusik-verband.at/media/1909/saxofon-gold_ergaenzungsliste.pdf"
 aliases: []
+publisher:
+  - "Alphonse Leduc"
 ---
 
 Originally for Oboe and Orchestra
 
 ## Research notes (private)
+
+### Chat batch 11 follow-up, 2026-10-14
+
+Ibert Symphonie concertante: original completed 1949; actual AL29268 score confirms Nicole’s soprano-and-piano transcription. Opening previews show chromatic slurs, triplets, long counted rests and active piano reduction. School/examination use verified. Exact saxophone recording remains unknown; alto metadata and Orchestra field conflicts flagged.
+
+[[Review 0159 - Jacques Ibert - Symphonie Concertante|Full evidence and open questions]]
+
 
 - Publisher Alphonse Leduc, catalog no. AL29268 · [grothmusic.com](https://www.grothmusic.com/p-147587.aspx)
 - Arrangement of Ibert's work for oboe and orchestra; movements I. Allegro con moto, II. Adagio ma non troppo, III. Allegro brilliante; 55 pages · [grothmusic.com](https://www.grothmusic.com/p-147587.aspx)

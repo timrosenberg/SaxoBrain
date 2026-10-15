@@ -2,6 +2,7 @@
 title: "Jenő Takács"
 slug: jeno-takacs
 nationality:
+  - "🇭🇺 Hungarian"
 gender:
 race:
 born: 1902

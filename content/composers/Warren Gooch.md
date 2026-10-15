@@ -1,14 +1,16 @@
 ---
-title: "Warren Gooch"
+title: Warren Gooch
 slug: warren-gooch
-nationality: []
-gender: 
-race: []
+nationality:
+  - 🇺🇸 American
+gender: Male
+race:
+  - White
 born: 1953
-died: 
+died:
 wikidata: Q15455455
-photo: 
-photo-credit: 
-photo-source: 
+photo:
+photo-credit: navonarecords.com
+photo-source: https://www.navonarecords.com/artists/warren-gooch/
 aliases: []
 ---

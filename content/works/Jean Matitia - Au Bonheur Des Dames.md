@@ -7,18 +7,31 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
-streaming: 
+year-of-study: "Third Year"
+streaming: "https://www.youtube.com/watch?v=8xbFsL0cXDE"
 purchase:
   - https://www.grothmusic.com/p-147273.aspx
 added: 2024-03-08
 research:
   - "Publisher Lemoine, catalog no. HL27975 · https://www.grothmusic.com/p-147273.aspx"
   - "Listed as \"Au Bonheur Des Dames\"; 22 pages · https://www.grothmusic.com/p-147273.aspx"
+  - "27975, alto part and piano score, 22 pages. · https://www.grothmusic.com/p-147273.aspx"
+  - "Exact 27975 title in Cycle III CEM pedagogical repertoire. · https://www.federation-ffea.fr/medias/download/ffea_2022_saxophone-alto.pdf"
+  - "Exact full-work-titled live video, alto/piano personnel and film-suite provenance. · https://www.youtube.com/watch?v=8xbFsL0cXDE"
+  - "Reported altissimo G-sharp and Bornkamp arrangement, with publisher error explicitly qualified. · https://vcisinc.com/saxophonemusic.htm#S745"
 aliases:
   - /works/jean-matitia-au-bonheur-des-dammes/
+publisher:
+  - "Henry Lemoine"
 ---
 ## Research notes (private)
+
+### Chat batch 11 follow-up, 2026-10-14
+
+The exact alto/piano edition appears in a French teaching repertoire list and a professional festival program. A verified 10-minute Ducros/Teboul live video supplies a usable listening link. A specialist retailer reports altissimo G-sharp, but no notation was available to confirm it.
+
+[[Review 0169 - Jean Matitia - Au Bonheur Des Dames|Full evidence and open questions]]
+
 
 - Publisher Lemoine, catalog no. HL27975 · [grothmusic.com](https://www.grothmusic.com/p-147273.aspx)
 - Listed as "Au Bonheur Des Dames"; 22 pages · [grothmusic.com](https://www.grothmusic.com/p-147273.aspx)

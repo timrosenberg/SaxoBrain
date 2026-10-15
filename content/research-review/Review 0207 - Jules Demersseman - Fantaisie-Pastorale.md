@@ -3,8 +3,8 @@ title: "Review 0207: Jules Demersseman - Fantaisie-Pastorale"
 added: 2026-10-11
 review-id: 207
 review-packet: 9
-review-decision: Pending
-review-applied: false
+review-decision: "First Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Jules Demersseman - Fantaisie-Pastorale]]"
 build:
@@ -47,3 +47,22 @@ Catalog: [Jules Demersseman - Fantaisie-Pastorale.md](/Users/trosenberg/Document
 - Recording metadata duration 4:31 differs from publisher’s approximate four minutes.
 
 **Tim decision:** pending.
+
+## Chat batch 12 follow-up, 2026-10-14
+
+Ethos calls this a short original work for soprano saxophone and piano. The actual edition cover identifies B-flat soprano and Ronald L. Caravan as editor. Groth confirms edition code ET070210. The publisher gives the concert key as C with the saxophone in D. Here D describes the soprano part’s key, since the inspected cover explicitly names a B-flat instrument. It should not become a claim that the edition requires a historical saxophone in D. Ethos describes an Andante opening, faster passages of moderate technical difficulty, a short cadenza, a return of Andante and a closing flourish. Its approximate duration is four minutes. These are publisher descriptions, not score observations. The existing Johnny Selmer link is now independently verified. Its description names Victoria Lington at the piano and links directly to the same Groth edition. Caravan’s 2017 commercial recording is also verified on YouTube with Sar-Shalom Strong credited. No exact Caravan-edition youth syllabus or evidence of simplified teaching adaptation was located. The separately cataloged Molenaar In Arcadie and Singelée’s similarly titled Op. 56 must not be used as evidence for this Ethos edition.
+
+Collection context: Standalone work.
+
+Open questions: No notation preview was located; full range, passagework detail and piano texture remain unknown. Original composition year remains unknown. The prior note’s Op. 56 designation is not corroborated by the inspected Ethos page or cover and risks confusion with Singelée’s work. No source establishes this exact edition as a simplified youth arrangement.
+
+Sources checked:
+- [Ethos Publications](https://ethospublications.com/ecc_eps/music-for-saxophone/soprano-saxophone-solos/fantaisie-pastorale-for-soprano-saxophone-piano-jules-demersseman/): Publisher calls this an original soprano and piano work, with concert C / saxophone D key relationship and Andante, faster sections, cadenza and flourish. (opened)
+- [Groth Music](https://www.grothmusic.com/p-37411.aspx): ET070210 edition credits Ronald L. Caravan as editor. (opened)
+- [Ethos edition cover supplied by Groth Music](https://grothmusic.com/images/product/large/ae00-23234.jpg): Actual cover identifies B-flat soprano saxophone and piano, edited by Ronald L. Caravan. (opened)
+- [Johnny Selmer, performer YouTube upload](https://www.youtube.com/watch?v=UVNLEJ07pYw): Johnny Selmer and Victoria Lington perform this work and upload links to the exact edition. (opened)
+- [NAXOS of America distribution metadata on YouTube](https://www.youtube.com/watch?v=sr4rvuPFDAU): Commercial recording credits Ronald L. Caravan and Sar-Shalom Strong on Single Reed Expressions Vol. 1. (opened)
+
+## Chat Batch 12 Decision, 2026-10-14
+
+Tim assigned First Year. Streaming uses the verified recording presented in batch 12: [Recording](https://www.youtube.com/watch?v=sr4rvuPFDAU).

@@ -2,6 +2,7 @@
 title: "Henri Pousseur"
 slug: henri-pousseur
 nationality:
+  - "🇧🇪 Belgian"
 gender:
 race:
 born: 1929

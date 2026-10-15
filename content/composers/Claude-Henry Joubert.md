@@ -1,7 +1,8 @@
 ---
 title: "Claude-Henry Joubert"
 slug: claude-henry-joubert
-nationality: []
+nationality:
+  - "🇫🇷 French"
 gender: 
 race: []
 born: 1948

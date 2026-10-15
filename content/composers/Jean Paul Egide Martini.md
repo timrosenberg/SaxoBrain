@@ -1,7 +1,8 @@
 ---
 title: "Jean Paul Egide Martini"
 slug: jean-paul-egide-martini
-nationality: []
+nationality:
+  - "🇩🇪 German"
 gender: 
 race: []
 born: 1741

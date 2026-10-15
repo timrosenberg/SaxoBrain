@@ -1,14 +1,15 @@
 ---
-title: "Eric Durand"
+title: Eric Durand
 slug: eric-durand
-nationality: []
-gender: 
+nationality:
+  - 🇫🇷 French
+gender: Male
 race: []
-born: 
-died: 
-wikidata: 
-photo: 
-photo-credit: 
-photo-source: 
+born: 1960
+died:
+wikidata:
+photo:
+photo-credit:
+photo-source:
 aliases: []
 ---

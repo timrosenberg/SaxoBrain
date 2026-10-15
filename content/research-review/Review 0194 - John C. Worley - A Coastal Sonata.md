@@ -3,9 +3,9 @@ title: "Review 0194: John C. Worley - A Coastal Sonata"
 added: 2026-10-11
 review-id: 194
 review-packet: 8
-review-decision: Pending
-review-applied: false
-notation-inspected: false
+review-decision: "Second Year"
+review-applied: true
+notation-inspected: true
 catalog-entry: "[[John C. Worley - A Coastal Sonata]]"
 build:
   render: never
@@ -42,3 +42,27 @@ Searches checked:
 - John C. Worley A Coastal Sonata saxophone Dorn 0207 score preview
 - John C. Worley A Coastal Sonata saxophone performance
 - John C. Worley A Coastal Sonata syllabus repertoire
+
+## Chat batch 12 follow-up, 2026-10-14
+
+Groth Music identifies a piano score and separate solo alto part, dedicated to Lawrence Gwozdz. The four movements are Monhegan Island, Christmas Cove, Boothbay Harbor, and Cadillac Mountain. Both the opening score and separate alto part carry the composer date 1991. Their footer gives a separate 1992 Dorn copyright. This is original saxophone and piano writing credited to Worley, with no transcription credit in the examined edition. No source examined documents a youth teaching version, simplification, or work-specific college/professional programming. A dedication alone does not establish performance history.
+
+Score observations: Inspected seven public notation images: the opening piano score, score pages 12, 13, 18, 28, and 29, and the first separate alto-part page. This is a sample across all four movements, not the complete sonata. The piano-score solo line is in concert pitch, sometimes using bass clef; the separate alto part is transposed for E-flat saxophone. At the opening the score has three flats while the alto part has no key-signature accidentals. Monhegan Island begins Andante, quarter note approximately 84, with long slurs, dotted figures, accidentals and broken-chord piano accompaniment. The separate alto-part page through approximately measure 29 includes quick ascending runs, triplet groups, chromatic notes, written pitches several ledger lines above the staff, and contrasting expressive/dynamic markings. These visible high-register passages establish an upper-register demand without establishing the complete range. Christmas Cove begins Larghetto, quarter note approximately 66, with a piano introduction, legato solo phrasing and triplet figures. Boothbay Harbor is a 6/8 scherzo, Allegro grazioso, with a tempo marking of 116–120, with staccato eighth-note patterns and chromatic motion. Cadillac Mountain opens slowly with intensity, ad libitum quasi cadenza, then shows Largo quarter note 56, irregular subdivisions, fermatas, chromatic lines and changing meter on page 29.
+
+Collection context: Original four-movement alto saxophone and piano work. No documented youth simplification.
+
+Open questions: Only the listed sample pages were inspected. Complete written range, later movement demands and full duration remain unverified. Exact work recording and work-specific youth/college/professional use were not verified. Broad YouTube search returned the different 1975 Sonata and was excluded.
+
+Sources checked:
+- [Groth Music](https://www.grothmusic.com/p-146142.aspx): Groth Music identifies a piano score and separate solo alto part, dedicated to Lawrence Gwozdz. The four movements are Monhegan Island, Christmas Cove, Boothbay Harbor, and Cadillac Mountain. (opened)
+- [Dorn public score via Groth Music](https://grothmusic.com/images/product/large/ae00-127008_2_.jpg): Composer date 1991 and visible musical demands of this edition. (score_inspected)
+- [Dorn public score via Groth Music](https://grothmusic.com/images/product/large/ae00-127008_3_.jpg): Composer date 1991 and visible musical demands of this edition. (score_inspected)
+- [Dorn public score via Groth Music](https://grothmusic.com/images/product/large/ae00-127008_4_.jpg): Composer date 1991 and visible musical demands of this edition. (score_inspected)
+- [Dorn public score via Groth Music](https://grothmusic.com/images/product/large/ae00-127008_5_.jpg): Composer date 1991 and visible musical demands of this edition. (score_inspected)
+- [Dorn public score via Groth Music](https://grothmusic.com/images/product/large/ae00-127008_6_.jpg): Composer date 1991 and visible musical demands of this edition. (score_inspected)
+- [Dorn public score via Groth Music](https://grothmusic.com/images/product/large/ae00-127008_7_.jpg): Composer date 1991 and visible musical demands of this edition. (score_inspected)
+- [Dorn public score via Groth Music](https://grothmusic.com/images/product/large/ae00-127008_8_.jpg): Composer date 1991 and visible musical demands of this edition. (score_inspected)
+
+## Chat Batch 12 Decision, 2026-10-14
+
+Tim assigned Second Year.

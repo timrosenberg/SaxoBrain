@@ -1,7 +1,9 @@
 ---
 title: "Thoma Simaku"
 slug: thoma-simaku
-nationality: []
+nationality:
+  - "🇦🇱 Albanian"
+  - "🇬🇧 British"
 gender: 
 race: []
 born: 1958

@@ -4,7 +4,7 @@ slug: tony-wheeler
 nationality: []
 gender: 
 race: []
-born: 
+born: 1958
 died: 
 wikidata: 
 photo: 

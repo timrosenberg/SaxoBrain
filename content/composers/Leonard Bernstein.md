@@ -13,4 +13,5 @@ photo: "/media/composers/leonard-bernstein.jpg"
 photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Leonard_Bernstein_by_Jack_Mitchell_(high_quality).jpg"
 aliases: []
+website: https://www.leonardbernstein.com
 ---

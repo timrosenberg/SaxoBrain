@@ -1,14 +1,16 @@
 ---
 title: "Sarah Neutkens"
 slug: sarah-neutkens
-nationality: []
+nationality:
+  - "🇳🇱 Dutch"
 gender: 
 race: []
-born: 
+born: 1998
 died: 
 wikidata: Q83777470
 photo: "/media/composers/sarah-neutkens.jpg"
 photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Sasha_le_Fou_%26_Tippi_Parade_(2026).jpg"
 aliases: []
+website: https://www.sarahneutkens.com/
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Aubert Lemeland"
 slug: aubert-lemeland
-nationality: []
+nationality:
+  - "🇫🇷 French"
 gender: 
 race: []
 born: 1932

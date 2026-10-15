@@ -6,17 +6,33 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
-year-of-study: 
-streaming: 
+  - "Orchestra"
+composed: 1950
+year-of-study: "Second Year"
+streaming: "https://www.youtube.com/watch?v=HydA-nLVtH0"
 purchase:
   - https://www.grothmusic.com/p-147309.aspx
 added: 2024-03-08
 research:
   - "Publisher Alphonse Leduc, catalog no. AL20759 · https://www.grothmusic.com/p-147309.aspx"
+  - "Original work is 1950, six minutes, alto and chamber orchestra. · https://www.wisemusicclassical.com/work/50205/Concertstck-for-Alto-Saxophone--Jean-Michel-Damase/"
+  - "AL20759 exact piano edition. · https://www.halleonard.com/product/48181329/concertstuck-saxophone-alto-piano"
+  - "Op.16 dedication and opening notation. · https://grothmusic.com/images/product/large/ae00-127763_2_.jpg"
+  - "Damase Concertstucke in bachelor saxophone repertoire. · https://fames.es.gov.br/Media/Fames/Ensino/Gerenciar%20Bacharelado%20em%20M%C3%BAsica%20-%20Habilita%C3%A7%C3%A3o%20em%20Instrumento/PROGRAMAS%20DO%20N%C3%9ACLEO%20DE%20SOPROS%20E%20PERCUSS%C3%83O.pdf"
+  - "Exact-work performance personnel and date. · https://www.youtube.com/watch?v=HydA-nLVtH0"
 aliases: []
+publisher:
+  - "Alphonse Leduc"
+multi-instruments: "Alto saxophone with piano or chamber orchestra"
 ---
 ## Research notes (private)
+
+### Chat batch 12 follow-up, 2026-10-14
+
+Damase Concertstück: 1950 orchestral original and AL20759 piano edition verified. Opening score shows chromatic legato phrasing over chordal piano pulses. Bachelor curriculum and Ingham/Cuckston recording verified.
+
+[[Review 0185 - Jean-Michel Damase - Concertstuck|Full evidence and open questions]]
+
 
 - Publisher Alphonse Leduc, catalog no. AL20759 · [grothmusic.com](https://www.grothmusic.com/p-147309.aspx)
 

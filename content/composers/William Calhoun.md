@@ -6,7 +6,7 @@ nationality:
 gender: Male
 race:
   - White
-born:
+born: 1954
 died:
 wikidata:
 photo: "/media/composers/william-calhoun.jpg"

@@ -1,7 +1,8 @@
 ---
 title: "Pierre Villette"
 slug: pierre-villette
-nationality: []
+nationality:
+  - "🇫🇷 French"
 gender: 
 race: []
 born: 1926

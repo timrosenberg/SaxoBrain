@@ -1,7 +1,8 @@
 ---
 title: "Paul Rougnon"
 slug: paul-rougnon
-nationality: []
+nationality:
+  - "🇫🇷 French"
 gender: 
 race: []
 born: 1846

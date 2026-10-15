@@ -2,6 +2,33 @@
 title: "SaxoBrain"
 # Retired work URLs redirect to the repertoire catalog.
 aliases:
+  - /works/johannes-brahms-intermezzo-in-a/
+  - /works/joseph-descamps-danse-arabe/
+  - /works/michael-delgiudice-complainte-et-divertissement/
+  - /works/michael-delgiudice-phrygienne/
+  - /works/michel-delgiudice-badinage/
+  - /works/rene-delaunay-au-fil-de-l-eau/
+  - /works/jean-michel-damase-bien-affectueusement/
+  - /works/jean-michel-damase-preambule-et-valse/
+  - /works/jean-rene-combes-damiens-fable-du-souffle/
+  - /works/johann-strauss-ii-tritsch-tratsch-polka/
+  - /works/john-c-worley-windswept-snowscapes/
+  - /works/john-dankworth-domnerus/
+  - /works/jules-semler-collery-etudes-concertantes/
+  - /works/jules-auguste-semler-collery-etudes-concertantes/
+  - /works/jules-semler-collery-fantaisie-caprice/
+  - /works/jules-auguste-semler-collery-fantaisie-caprice/
+  - /works/ivan-shishov-grotesque-dance/
+  - /works/jacques-delacroix-sur-la-place/
+  - /works/jacques-offenbach-waltz-la-perichole/
+  - /works/jean-paul-egide-martini-canzona/
+  - /works/jean-baptiste-proust-le-cheval-de-bronze/
+  - /works/jean-baptiste-proust-soir/
+  - /works/jean-baptiste-senaille-allegro-spiritoso/
+  - /works/jean-joseph-mouret-rondeau/
+  - /works/jean-luc-lepage-libres-propos/
+  - /works/jean-luc-lepage-saxclaviats/
+  - /works/jean-michel-damase-andantino-pastoral/
   - /works/gunter-noris-el-toro/
   - /works/harry-gee-canto/
   - /works/harry-gee-homage-to-vaughan-williams/

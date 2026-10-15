@@ -1,7 +1,8 @@
 ---
 title: "Aleksandr Manot︠s︡kov"
 slug: aleksandr-manotskov
-nationality: []
+nationality:
+  - "🇷🇺 Russian"
 gender: 
 race: []
 born: 1972

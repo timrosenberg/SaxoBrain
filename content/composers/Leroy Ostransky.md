@@ -1,7 +1,8 @@
 ---
 title: "Leroy Ostransky"
 slug: leroy-ostransky
-nationality: []
+nationality:
+  - "🇺🇸 American"
 gender: 
 race: []
 born: 1918

@@ -14,9 +14,21 @@ purchase:
 added: 2024-03-08
 research:
   - "Published by Dorn Publications, catalog DORN1614, alto saxophone and piano · https://www.grothmusic.com/p-156793.aspx"
+  - "The opened Groth product identifies Sonatina by Kent Holliday, for alto saxophone and piano, published by Dorn Publications, catalog DORN1614. The current purchase listing is exact-work evidence. · https://www.grothmusic.com/p-156793.aspx"
+  - "First notation page visually inspected; scope and observations are recorded above. · https://www.grothmusic.com/images/product/large/ae00-136275.jpg"
+  - "Groth reports acquisition of Dorn Publications and transfer of Dorn and Needham copyrights on February 21, 2024, supporting its role as the current publisher source. · https://www.grothmusic.com/t-dorn.aspx"
 aliases: []
+publisher:
+  - "Dorn Publications"
 ---
 ## Research notes (private)
+
+### Chat batch 13 follow-up, 2026-10-14
+
+The first score page confirms brisk chromatic saxophone writing, shifting eighth-note meters, accents and active piano coordination. Groth verifies Dorn DORN1614 for alto saxophone and piano. The sample carries a David Jacobsen dedication and 2012 copyright. Composition date, full range and an exact accessible recording remain unverified.
+
+[[Review 0221 - Kent Holliday - Sonatina|Full evidence and open questions]]
+
 
 - Published by Dorn Publications, catalog DORN1614, alto saxophone and piano · [grothmusic.com](https://www.grothmusic.com/p-156793.aspx)
 

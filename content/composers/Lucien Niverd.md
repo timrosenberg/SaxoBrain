@@ -1,7 +1,8 @@
 ---
 title: "Lucien Niverd"
 slug: lucien-niverd
-nationality: []
+nationality:
+  - "🇫🇷 French"
 gender: 
 race: []
 born: 1879

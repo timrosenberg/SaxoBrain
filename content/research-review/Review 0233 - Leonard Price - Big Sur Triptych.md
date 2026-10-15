@@ -34,3 +34,19 @@ Catalog: [[Leonard Price - Big Sur Triptych]]
 - Review focus: Inference: the documented optional clarinet version and review-based contrasts invite checking the saxophone part for detached articulation and lyrical line across movements.
 - Gaps: No public score pages inspected; original-instrument provenance remains unknown.; Composer archive lists performances, but accessible audio for this work was not verified.
 - Proposed correction: Add piano to instrumentation and qualify soprano saxophone as an alternative to B-flat clarinet.
+
+## Chat batch 13 follow-up, 2026-10-14
+
+Composer page gives 1985 composition, 1996 publication, nine-minute duration, and soprano saxophone or B-flat clarinet with piano. Exact Southern Music edition SU279 / HL03776154 matches the composer page. Hal Leonard separately confirms Deon Nielsen Price, publisher Southern Music, 20 pages and its own Level 4 label. This label is not assigned to Tim’s study years. Three movements are Sea Otters, Redwoods and Crags. Composer page documents Paul Stewart and Bill Wilson soprano-saxophone recordings with the composer at piano. Composer-hosted contemporary review describes bouncy Sea Otters, lyrical Redwoods, and jagged abrupt phrasing in Crags. These are review descriptions, not notation observations. Exact Bill Wilson/Deon Nielsen Price Cambria recording verified across all three public YouTube movement metadata; a separate full live recording features Berkeley Price on clarinet and the composer at piano.
+
+Collection context: Composer-listed alternate soprano-saxophone/clarinet duo edition. No evidence of a young-player melodic simplification. Composer identity needs Tim’s explicit review.
+
+Open questions: Catalog currently associates Leonard Price; primary sources consistently identify Deon Nielsen Price. Composer metadata is preserved pending judgment. No notation inspected. Full range, articulation demands and exact rhythms remain unknown. Original-instrument priority is not established; the same composer listing supports both B-flat solo options. No opened exact institutional library catalog verified.
+
+Sources checked:
+- [Culver Crest Publications / Deon Nielsen Price](https://culvercrest.com/catalog/big-sur-triptych-duo-for-clarinet-and-piano-score-part-copy/): Composer attribution, composition and publication dates, alternate scoring, duration, movements and recording credits. (opened)
+- [Hal Leonard / Southern Music](https://www.halleonard.com/product/3776154/big-sur-triptych): Exact edition SU279 / HL03776154 and composer attribution. (opened)
+- [NAXOS of America / Bill Wilson Topic](https://www.youtube.com/watch?v=ELYsI3ezPOU): All three movements with Bill Wilson and Deon Nielsen Price credited, 1996 Cambria release. (opened)
+- [NAXOS of America / Bill Wilson Topic](https://www.youtube.com/watch?v=iIUvHYvpyVg): Second movement title and same album/performers. (opened)
+- [NAXOS of America / Bill Wilson Topic](https://www.youtube.com/watch?v=QwTtm-fP6Ew): Third movement title and same album/performers. (opened)
+- [Dr. Berkeley Price](https://www.youtube.com/watch?v=GmPxBQ7cViA): Complete clarinet version live performance credits. (opened)

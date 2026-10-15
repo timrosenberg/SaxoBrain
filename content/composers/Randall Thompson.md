@@ -1,7 +1,8 @@
 ---
 title: "Randall Thompson"
 slug: randall-thompson
-nationality: []
+nationality:
+  - "🇺🇸 American"
 gender: 
 race: []
 born: 1899

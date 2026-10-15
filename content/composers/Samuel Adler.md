@@ -13,4 +13,5 @@ photo: "/media/composers/samuel-adler.jpg"
 photo-credit: 
 photo-source: "Notion upload"
 aliases: []
+website: https://samuelhadler.com/
 ---

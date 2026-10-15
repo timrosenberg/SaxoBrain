@@ -1,10 +1,11 @@
 ---
 title: "James MacMillan"
 slug: james-macmillan
-nationality: []
+nationality:
+  - "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scottish"
 gender: 
 race: []
-born: 
+born: 1959
 died: 
 wikidata: 
 photo: 

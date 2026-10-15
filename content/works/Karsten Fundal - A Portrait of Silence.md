@@ -9,7 +9,7 @@ instruments:
   - "Piano"
 composed: 2011
 year-of-study: 
-streaming: 
+streaming: "https://www.youtube.com/watch?v=PGMELfXzmkQ"
 purchase:
   - "https://www.prestomusic.com/sheet-music/products/7339693--karsten-fundal-a-portrait-of-silence"
 library-recording:
@@ -17,11 +17,21 @@ library-recording:
 added: 2025-04-21
 research:
   - "Score and parts for alto saxophone, percussion and piano, release year 2011, 36 pages, written with support from the Danish Arts Council (publication year, not stated as composition year) · https://www.stretta-music.fi/fundal-a-portrait-of-silence-nr-837298.html"
+  - "2011 composition and alto saxophone/percussion/piano scoring. · https://komponistbasen.dk/node/8390"
+  - "Trio ZOOM premiere, 2011, performers, venue and public performance. · https://www.youtube.com/watch?v=PGMELfXzmkQ"
+  - "Ekkozone track 8,11:13, excerpt player. · https://www.dacapo-records.dk/en/recordings/fundal-ekkozone-performs-karsten-fundal"
 publisher:
   - "Wilhelm Hansen"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat batch 13 follow-up, 2026-10-14
+
+A Portrait of Silence is a 2011 chamber work requiring alto saxophone, percussion and piano. The percussionist’s public premiere upload authenticates Trio ZOOM and its performers. Dacapo also documents an Ekkozone recording. No notation was readable, so percussion setup, saxophone techniques and ensemble demands remain unknown.
+
+[[Review 0216 - Karsten Fundal - A Portrait of Silence|Full evidence and open questions]]
+
 
 - Score and parts for alto saxophone, percussion and piano, release year 2011, 36 pages, written with support from the Danish Arts Council (publication year, not stated as composition year) · [stretta-music.fi](https://www.stretta-music.fi/fundal-a-portrait-of-silence-nr-837298.html)
 

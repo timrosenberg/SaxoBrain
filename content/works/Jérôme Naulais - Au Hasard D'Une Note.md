@@ -6,6 +6,7 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
+  - "Tenor Saxophone"
 composed: 
 year-of-study: 
 streaming: 
@@ -14,11 +15,25 @@ purchase:
 added: 2024-03-08
 research:
   - "Leduc AL29467; includes alternate tenor sax part; 7 pages · https://www.grothmusic.com/p-143165.aspx"
+  - "AL29467 has alto and alternate tenor parts with piano. · https://www.grothmusic.com/p-143165.aspx"
+  - "Cover identifies first-cycle original edition. · https://grothmusic.com/images/product/large/ae00-124801.jpg"
+  - "Exact library-held AL29467, original-work subject label, 2:45, publication 2003. · https://windmusic.org/index.php?id=16047&lvl=notice_display"
+  - "Exact title, competition context, public availability and 173-second upload. · https://www.youtube.com/watch?v=CYylZxuTxn0"
 publisher:
   - "Alphonse Leduc"
 aliases: []
+library-score:
+  - "https://windmusic.org/index.php?id=16047&lvl=notice_display"
+multi-instruments: "Alto or tenor saxophone, with piano"
 ---
 ## Research notes (private)
+
+### Chat batch 13 follow-up, 2026-10-14
+
+Au hasard d’une note is an original 2:45 work with alto and alternate tenor parts. The publisher cover labels it first cycle, which matters for a college-focused selection. No notation was located, so range and articulation remain unknown. A public competition performance is available, although its upload does not name the composer.
+
+[[Review 0213 - Jérôme Naulais - Au Hasard D'Une Note|Full evidence and open questions]]
+
 
 - Leduc AL29467; includes alternate tenor sax part; 7 pages · [grothmusic.com](https://www.grothmusic.com/p-143165.aspx)
 

@@ -1,14 +1,14 @@
 ---
-title: "Sonata"
+title: Sonata, Op. 50
 slug: michael-cunningham-sonata
 composer:
   - "[[Michael Cunningham]]"
 instruments:
-  - "Alto Saxophone"
-  - "Piano"
-composed: 
-year-of-study: 
-streaming: 
+  - Alto Saxophone
+  - Piano
+composed: 1974
+year-of-study: Third Year
+streaming:
 purchase:
   - https://www.grothmusic.com/p-143299.aspx
 added: 2024-03-08

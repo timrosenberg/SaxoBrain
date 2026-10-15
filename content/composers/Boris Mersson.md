@@ -1,7 +1,8 @@
 ---
 title: "Boris Mersson"
 slug: boris-mersson
-nationality: []
+nationality:
+  - "🇨🇭 Swiss"
 gender: 
 race: []
 born: 1921

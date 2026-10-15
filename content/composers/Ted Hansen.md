@@ -1,14 +1,16 @@
 ---
 title: "Ted Hansen"
 slug: ted-hansen
-nationality: []
+nationality:
+  - "🇺🇸 American"
 gender: 
 race: []
 born: 1935
-died: 
+died: 2018
 wikidata: Q133666285
 photo: 
 photo-credit: 
 photo-source: 
 aliases: []
+website: https://www.drtedhansen.com/
 ---

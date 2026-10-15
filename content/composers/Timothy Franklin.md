@@ -1,7 +1,8 @@
 ---
 title: "Timothy Franklin"
 slug: timothy-franklin
-nationality: []
+nationality:
+  - "🇦🇺 Australian"
 gender: 
 race: []
 born: 
@@ -11,4 +12,5 @@ photo:
 photo-credit: 
 photo-source: 
 aliases: []
+website: https://timothyfranklin.com.au/
 ---

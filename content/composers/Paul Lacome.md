@@ -1,7 +1,8 @@
 ---
 title: "Paul Lacome"
 slug: paul-lacome
-nationality: []
+nationality:
+  - "🇫🇷 French"
 gender: 
 race: []
 born: 1838

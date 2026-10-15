@@ -1,7 +1,8 @@
 ---
 title: "Armin Schibler"
 slug: armin-schibler
-nationality: []
+nationality:
+  - "🇨🇭 Swiss"
 gender: 
 race: []
 born: 1920

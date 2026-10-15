@@ -1,14 +1,17 @@
 ---
-title: "Mark Engebretson"
+title: Mark Engebretson
 slug: mark-engebretson
-nationality: []
-gender: 
-race: []
+nationality:
+  - 🇺🇸 American
+gender: Male
+race:
+  - White
 born: 1964
-died: 
+died:
 wikidata: Q6767523
-photo: 
-photo-credit: 
-photo-source: 
+photo: "/media/composers/mark-engebretson.jpg"
+photo-credit: uncg.edu
+photo-source: https://www.uncg.edu/wp-content/uploads/2022/09/Mark_Engebretson.jpg
 aliases: []
+website: https://markengebretson.weebly.com/
 ---

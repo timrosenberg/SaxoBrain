@@ -1,7 +1,8 @@
 ---
 title: "Eduard Toldrà"
 slug: eduard-toldra
-nationality: []
+nationality:
+  - "🇪🇸 Spanish"
 gender: 
 race: []
 born: 1895

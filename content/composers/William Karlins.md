@@ -6,8 +6,8 @@ nationality:
 gender: "Male"
 race:
   - "White"
-born: 
-died: 
+born: 1932
+died: 2005
 wikidata: 
 photo: 
 photo-credit: 

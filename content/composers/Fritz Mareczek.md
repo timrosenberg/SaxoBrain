@@ -1,7 +1,8 @@
 ---
 title: "Fritz Mareczek"
 slug: fritz-mareczek
-nationality: []
+nationality:
+  - "🇩🇪 German"
 gender: 
 race: []
 born: 1910

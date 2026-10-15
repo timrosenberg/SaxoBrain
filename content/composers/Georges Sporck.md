@@ -1,7 +1,8 @@
 ---
 title: "Georges Sporck"
 slug: georges-sporck
-nationality: []
+nationality:
+  - "🇫🇷 French"
 gender: 
 race: []
 born: 1870

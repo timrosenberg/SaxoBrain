@@ -1,7 +1,8 @@
 ---
 title: "Vaclav Nelhybel"
 slug: vaclav-nelhybel
-nationality: []
+nationality:
+  - "🇨🇿 Czech"
 gender: 
 race: []
 born: 1919

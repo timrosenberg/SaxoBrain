@@ -6,11 +6,12 @@ nationality:
 gender: "Male"
 race:
   - "White"
-born: 
+born: 1936
 died: 
 wikidata: 
 photo: 
 photo-credit: 
 photo-source: 
 aliases: []
+website: https://victormorosco.com/
 ---

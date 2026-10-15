@@ -6,7 +6,7 @@ nationality:
 gender: "Female"
 race:
   - "White"
-born: 
+born: 1990
 died: 
 wikidata: 
 photo: 

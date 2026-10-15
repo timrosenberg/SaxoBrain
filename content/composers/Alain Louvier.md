@@ -1,7 +1,8 @@
 ---
 title: "Alain Louvier"
 slug: alain-louvier
-nationality: []
+nationality:
+  - "🇫🇷 French"
 gender: 
 race: []
 born: 1945

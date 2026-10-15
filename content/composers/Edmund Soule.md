@@ -1,11 +1,12 @@
 ---
 title: "Edmund Soule"
 slug: edmund-soule
-nationality: []
+nationality:
+  - "🇺🇸 American"
 gender: 
 race: []
-born: 
-died: 
+born: 1915
+died: 2000
 wikidata: 
 photo: 
 photo-credit: 

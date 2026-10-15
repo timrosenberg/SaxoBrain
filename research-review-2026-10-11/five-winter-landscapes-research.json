@@ -1,0 +1,63 @@
+{
+  "researched_on": "2026-10-14",
+  "composer": "John C. Worley",
+  "title": "Five Winter Landscapes for Saxophones",
+  "catalog_decision": "Not added: complete contents and edition unverified",
+  "composition_year": null,
+  "confirmed_components": [
+    {
+      "number": "I",
+      "title": "White Morning Stillness",
+      "instrument": "Tenor Saxophone",
+      "accompaniment": "Piano",
+      "edition": "Dorn 0212",
+      "source": "https://www.grothmusic.com/p-146371.aspx",
+      "notation": "https://grothmusic.com/images/product/large/ae00-127241.jpg",
+      "observations": "Printed heading Five Winter Landscapes for Saxophones, I, TENOR, with composer date 1990. Opening Largo at quarter note 48–52 in 4/4, quiet solo entrance over independent piano voices. Only opening page inspected."
+    },
+    {
+      "number": "II",
+      "title": "Windswept Snowscapes",
+      "instrument": "Alto Saxophone",
+      "accompaniment": "Piano",
+      "edition": "Dorn 0208",
+      "source": "https://www.grothmusic.com/p-146147.aspx",
+      "notation": "https://grothmusic.com/images/product/large/ae00-127013.jpg",
+      "observations": "Printed heading Five Winter Landscapes for Saxophones, II, ALTO. Opening page inspected during batch 12. Removed as a standalone catalog entry at Tim’s request."
+    },
+    {
+      "number": null,
+      "title": "Ski Trail Through the Birches",
+      "instrument": "Soprano Saxophone",
+      "accompaniment": "Piano",
+      "edition": "Dorn 0153",
+      "source": "https://www.grothmusic.com/p-140113.aspx",
+      "cover": "https://grothmusic.com/images/product/large/ae00-121714.jpg",
+      "notation": "https://grothmusic.com/images/product/large/ae00-121714_2_.jpg",
+      "observations": "Actual cover says From Five Winter Landscapes and soprano saxophone and piano. First solo-part page inspected: Andante at quarter note 84, initially 4/4; sustained slurred melody, chromatic notes and later sixteenth-note runs with changing meter. No movement number verified. Copyright 1991 is not a composition date."
+    }
+  ],
+  "other_leads": [
+    {
+      "title": "Twilight Pine Shadow",
+      "instrument": "Baritone Saxophone",
+      "edition": "Dorn 0216",
+      "source": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+      "status": "Publisher catalog verifies the separate baritone/piano title only. Membership in Five Winter Landscapes is unverified."
+    }
+  ],
+  "gaps": [
+    "All five movement titles, their complete order, and full instrumentation remain unverified.",
+    "Three separate component editions are confirmed; no single complete-edition listing or full-work library catalog record located.",
+    "The 1990 manuscript date is confirmed for White Morning Stillness only; original date of the whole cycle remains unknown.",
+    "No exact complete-cycle recording located.",
+    "Whether one player doubles instruments or separate players perform the movements remains unverified.",
+    "No whole-cycle college/professional performance or youth simplification evidence verified."
+  ],
+  "searches_checked": [
+    "Exact whole-cycle and composer searches",
+    "Groth public Worley search and exact cycle/title searches",
+    "Dorn April 2025 publisher catalog",
+    "Local NYPL published-score finding aid text: no matching whole-cycle entry found"
+  ]
+}

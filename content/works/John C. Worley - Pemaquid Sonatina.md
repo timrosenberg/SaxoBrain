@@ -6,19 +6,28 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
-year-of-study: 
+composed: 1989
+year-of-study: "Third Year"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-146144.aspx
 added: 2024-03-08
 research:
   - "Publisher Dorn Publications, catalog no. DORN0889 · https://www.grothmusic.com/p-146144.aspx"
+  - "Exact title, scoring and catalog number DORN0889. · https://www.grothmusic.com/p-146144.aspx"
+  - "Manuscript identity, date when present, and visible opening notation. · https://grothmusic.com/images/product/large/ae00-127010.jpg"
 publisher:
   - "Dorn Publications"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat batch 12 follow-up, 2026-10-14
+
+Original alto/piano work dated 1989. The inspected opening is Poco Andante at quarter note 72–76, with slurred figures, dotted rhythms, sixteenth notes, triplets and chromatic changes over broken piano chords. The score is in concert pitch, so written alto range remains unknown. No exact recording was found.
+
+[[Review 0196 - John C. Worley - Pemaquid Sonatina|Full evidence and open questions]]
+
 
 - Publisher Dorn Publications, catalog no. DORN0889 · [grothmusic.com](https://www.grothmusic.com/p-146144.aspx)
 

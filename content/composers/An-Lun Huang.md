@@ -1,7 +1,8 @@
 ---
 title: "An-Lun Huang"
 slug: an-lun-huang
-nationality: []
+nationality:
+  - "🇨🇳 Chinese"
 gender: 
 race: []
 born: 1949
@@ -11,4 +12,5 @@ photo:
 photo-credit: 
 photo-source: 
 aliases: []
+website: https://huanganlun.wordpress.com/
 ---

@@ -7,17 +7,29 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
-streaming: 
+year-of-study: "Pre-college"
+streaming: "https://www.youtube.com/watch?v=Uq_FIAKpDmQ"
 purchase:
   - https://www.grothmusic.com/p-147310.aspx
 added: 2024-03-08
 research:
   - "Publisher Alphonse Leduc, catalog no. AL29507 · https://www.grothmusic.com/p-147310.aspx"
   - "6 pages · https://www.grothmusic.com/p-147310.aspx"
+  - "AL29507 includes piano score and solo alto part. · https://www.grothmusic.com/p-147310.aspx"
+  - "Exact AL29507 cover prints first-cycle pedagogical label. · https://grothmusic.com/images/product/large/1001-48185785.jpg"
+  - "Work-specific recording title and performers. · https://www.youtube.com/watch?v=Uq_FIAKpDmQ"
 aliases: []
+publisher:
+  - "Alphonse Leduc"
 ---
 ## Research notes (private)
+
+### Chat batch 12 follow-up, 2026-10-14
+
+Damase Andantino: exact AL29507 cover confirms first-cycle teaching context and alto with piano. Borges and Lacerda recording verified. Notation and composition year remain unknown.
+
+[[Review 0183 - Jean-Michel Damase - Andantino|Full evidence and open questions]]
+
 
 - Publisher Alphonse Leduc, catalog no. AL29507 · [grothmusic.com](https://www.grothmusic.com/p-147310.aspx)
 - 6 pages · [grothmusic.com](https://www.grothmusic.com/p-147310.aspx)

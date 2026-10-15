@@ -1,7 +1,8 @@
 ---
 title: "Anders Koppel"
 slug: anders-koppel
-nationality: []
+nationality:
+  - "🇩🇰 Danish"
 gender: 
 race: []
 born: 1947
@@ -11,4 +12,5 @@ photo:
 photo-credit: 
 photo-source: 
 aliases: []
+website: https://anderskoppel.dk/
 ---

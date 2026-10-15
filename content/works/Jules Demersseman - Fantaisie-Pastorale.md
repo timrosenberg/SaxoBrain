@@ -5,21 +5,37 @@ composer:
   - "[[Jules Demersseman]]"
 instruments:
   - "Soprano Saxophone"
+  - "Piano"
 composed: 
-year-of-study: 
-streaming: "https://www.youtube.com/watch?v=UVNLEJ07pYw"
+year-of-study: "First Year"
+streaming: "https://www.youtube.com/watch?v=sr4rvuPFDAU"
 purchase:
-  - https://www.grothmusic.com/p-37411.aspx
-  - https://www.hickeys.com/music/woodwinds/sax/solos/soprano_with_piano/products/sku124239-demersseman-jules-caravan-fantasiepastorale.php
-  - https://www.jwpepper.com/fantaisie-pastorale-10554727/p
+  - "https://www.grothmusic.com/p-37411.aspx"
+  - "https://www.hickeys.com/music/woodwinds/sax/solos/soprano_with_piano/products/sku124239-demersseman-jules-caravan-fantasiepastorale.php"
+  - "https://www.jwpepper.com/fantaisie-pastorale-10554727/p"
+  - "https://ethospublications.com/ecc_eps/music-for-saxophone/soprano-saxophone-solos/fantaisie-pastorale-for-soprano-saxophone-piano-jules-demersseman/"
 added: 2025-04-18
 research:
   - "Caravan edition for soprano saxophone and piano, about 4 minutes, rated Grade 6 (Advanced) by the retailer; written in C (saxophone in D); Andante, faster sections of moderate technical difficulty, brief cadenza, closing flourish (retailer description) · https://www.hickeys.com/music/woodwinds/sax/solos/soprano_with_piano/products/sku124239-demersseman-jules-caravan-fantasiepastorale.php"
+  - "Publisher calls this an original soprano and piano work, with concert C / saxophone D key relationship and Andante, faster sections, cadenza and flourish. · https://ethospublications.com/ecc_eps/music-for-saxophone/soprano-saxophone-solos/fantaisie-pastorale-for-soprano-saxophone-piano-jules-demersseman/"
+  - "ET070210 edition credits Ronald L. Caravan as editor. · https://www.grothmusic.com/p-37411.aspx"
+  - "Actual cover identifies B-flat soprano saxophone and piano, edited by Ronald L. Caravan. · https://grothmusic.com/images/product/large/ae00-23234.jpg"
+  - "Johnny Selmer and Victoria Lington perform this work and upload links to the exact edition. · https://www.youtube.com/watch?v=UVNLEJ07pYw"
+  - "Commercial recording credits Ronald L. Caravan and Sar-Shalom Strong on Single Reed Expressions Vol. 1. · https://www.youtube.com/watch?v=sr4rvuPFDAU"
 publisher:
   - "Ethos Publications"
 aliases: []
+arranger-edition:
+  - "Ronald L. Caravan"
 ---
 ## Research notes (private)
+
+### Chat batch 12 follow-up, 2026-10-14
+
+The Ethos cover verifies B-flat soprano with piano and Caravan’s editorial role. The publisher identifies an original work and outlines Andante contrasts, moderately difficult faster passages, cadenza and final flourish. Two exact recordings are verified. Piano is a confirmed catalog addition; Op. 56 and a historical D-sax interpretation should be withheld.
+
+[[Review 0207 - Jules Demersseman - Fantaisie-Pastorale|Full evidence and open questions]]
+
 
 - Caravan edition for soprano saxophone and piano, about 4 minutes, rated Grade 6 (Advanced) by the retailer; written in C (saxophone in D); Andante, faster sections of moderate technical difficulty, brief cadenza, closing flourish (retailer description) · [hickeys.com](https://www.hickeys.com/music/woodwinds/sax/solos/soprano_with_piano/products/sku124239-demersseman-jules-caravan-fantasiepastorale.php)
 

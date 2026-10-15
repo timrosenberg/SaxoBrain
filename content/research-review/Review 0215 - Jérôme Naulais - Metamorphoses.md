@@ -5,7 +5,7 @@ review-id: 215
 review-packet: 9
 review-decision: Pending
 review-applied: false
-notation-inspected: false
+notation-inspected: true
 catalog-entry: "[[Jérôme Naulais - Metamorphoses]]"
 build:
   render: never
@@ -43,3 +43,20 @@ Catalog: [Jérôme Naulais - Metamorphoses.md](/Users/trosenberg/Documents/GitHu
 - Specific school-list placement and required movements in Annecy/Luxembourg not verified beyond indexed search results.
 
 **Tim decision:** pending.
+
+## Chat batch 13 follow-up, 2026-10-14
+
+Publisher verifies duration 6:45 and moderately difficult, cycle 2 classification. CDMC Alsace holds the exact G6204B edition, published 1997; first score page has 1997 copyright, neither establishes composition date. Publisher teaching-series classification describes educational context; no simplified transcription identified.
+
+Score observations: Groth exposes the first page of the exact GB6204 piano score. Saxophone staff is labeled alto in E-flat; its one-sharp signature differs from the piano’s two-flat signature, confirming transposed written pitch. Opening marked Lent et assez libre, with long sustained piano sonorities beneath slurred saxophone figures. Visible saxophone writing includes groups marked 6, 4 and 3, rapid runs, chromatic accidentals and substantial dynamic changes. Flexible pacing and piano coordination are visible concerns; no full-work range claim is made.
+
+Collection context: Individual original saxophone work in Jean-Yves Fourmeau teaching series. No youth simplification or transcription identified.
+
+Open questions: Only first score page inspected; complete range and later sections remain unverified. Composition year unknown; 1997 is publication/copyright.
+
+Sources checked:
+- [Groth Music](https://www.grothmusic.com/p-144547.aspx): Exact GB6204 score/alto part package. (opened)
+- [Éditions Billaudot](https://www.billaudot.com/gb6204-6.html): GB6204, 6:45, cycle-2 publisher classification. (opened)
+- [Billaudot score via Groth](https://grothmusic.com/images/product/large/ae00-125995_2_.jpg): Notation and transposed alto scoring personally inspected. (score_inspected)
+- [CDMC Alsace Windmusic catalog](https://windmusic.org/index.php?id=7130&lvl=notice_display): Exact institutional score holding and publication 1997. (opened)
+- [Jan Schaeken / YouTube](https://www.youtube.com/watch?v=ObedOM6IEqI): Exact work, performers and public complete-work performance. (opened)

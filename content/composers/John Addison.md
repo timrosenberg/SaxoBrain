@@ -6,8 +6,8 @@ nationality:
 gender: "Male"
 race:
   - "White"
-born: 
-died: 
+born: 1920
+died: 1998
 wikidata: 
 photo: "/media/composers/john-addison.jpg"
 photo-credit: 

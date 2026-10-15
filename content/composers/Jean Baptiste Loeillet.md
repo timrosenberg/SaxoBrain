@@ -1,7 +1,8 @@
 ---
 title: "Jean Baptiste Loeillet"
 slug: jean-baptiste-loeillet
-nationality: []
+nationality:
+  - "🇧🇪 Belgian"
 gender: 
 race: []
 born: 1688

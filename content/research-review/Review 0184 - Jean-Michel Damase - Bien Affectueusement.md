@@ -3,10 +3,10 @@ title: "Review 0184: Jean-Michel Damase - Bien Affectueusement"
 added: 2026-10-11
 review-id: 184
 review-packet: 8
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Jean-Michel Damase - Bien Affectueusement]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog entry: [[Jean-Michel Damase - Bien Affectueusement]].
+Catalog: removed at Tim’s request on 2026-10-14.
 
 BnF’s record identifies Damase’s Bien affectueusement for alto or soprano saxophone and piano, Combre C06206, with a five-page score plus two parts, 2:30 duration, and first-cycle level. This conflicts with the current catalog’s soprano-only designation and its nine-page figure; Forsyths confirms a five-page current Combre edition.
 [Bibliothèque nationale de France catalog](https://catalogue.bnf.fr/ark:/12148/cb396822815) (opened): BnF’s opened bibliographic record identifies Bien affectueusement for alto or soprano saxophone and piano, Combre, copyright 2002, five-page score plus two parts, 2:30, first cycle.
@@ -43,3 +43,20 @@ Searches checked:
 - Jean-Michel Damase Bien affectueusement Combre C06206 score preview
 - Damase Bien affectueusement saxophone performance
 - Damase Bien affectueusement BnF instrumentation 2002
+
+## Chat batch 12 follow-up, 2026-10-14
+
+Publisher Henry Lemoine’s current Combre page confirms C06206, alto or soprano saxophone and piano, Arc en ciel, and its own label 2. Easy. BnF’s exact C06206 score record describes a five-page score plus two parts, duration 2:30 and 1er cycle. Groth independently confirms alto and alternate soprano solo parts with piano score. 2002 is identified as copyright/release metadata. No independently documented composition date was found, so composed stays blank.
+
+Collection context: A single original-format saxophone/piano teaching piece in Arc en ciel. Exact publisher and library sources document early-cycle pedagogy. No separate simplification was verified.
+
+Open questions: Publisher product page and Groth expose cover or metadata only. No readable score page inspected. No exact YouTube recording located after bounded metadata and web searches. No college or professional recital placement verified. Existing Soprano Saxophone-only instrumentation omits the confirmed alto alternative and piano. Additions are supported without removing existing data.
+
+Sources checked:
+- [Henry Lemoine official Combre catalog](https://www.henry-lemoine.com/en/partitions-par-instrument/8456-bien-affectueusement.html): C06206 is alto or soprano and piano, Combre Arc en ciel, publisher label 2. Easy. (opened)
+- [Bibliothèque nationale de France](https://catalogue.bnf.fr/ark:/12148/cb396822815): Exact C06206 score, two parts, 2:30, first-cycle pedagogical label; copyright 2002. (opened)
+- [Groth Music exact-edition listing](https://www.grothmusic.com/p-143300.aspx): Piano score, solo alto and alternate soprano parts. (opened)
+
+## Chat Batch 12 Decision, 2026-10-14
+
+Tim requested removal from the catalog. The private evidence log is retained.

@@ -1,7 +1,8 @@
 ---
 title: "Trent Kynaston"
 slug: trent-kynaston
-nationality: []
+nationality:
+  - "🇺🇸 American"
 gender: 
 race: []
 born: 1946
@@ -11,4 +12,5 @@ photo:
 photo-credit: 
 photo-source: 
 aliases: []
+website: https://trentkynaston.com/
 ---

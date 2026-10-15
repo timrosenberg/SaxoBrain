@@ -1,7 +1,8 @@
 ---
 title: "Armin Kaufmann"
 slug: armin-kaufmann
-nationality: []
+nationality:
+  - "🇦🇹 Austrian"
 gender: 
 race: []
 born: 1902

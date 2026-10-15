@@ -13,4 +13,5 @@ photo: "/media/composers/pierre-jodlowski.jpg"
 photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Jod-Concert3.jpg"
 aliases: []
+website: https://www.pierrejodlowski.fr
 ---

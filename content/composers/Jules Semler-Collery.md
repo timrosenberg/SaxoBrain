@@ -6,8 +6,8 @@ nationality:
 gender: "Male"
 race:
   - "White"
-born: 
-died: 
+born: 1902
+died: 1988
 wikidata: 
 photo: "/media/composers/jules-auguste-semler-collery.jpg"
 photo-credit: "Wikimedia Commons"

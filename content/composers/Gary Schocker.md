@@ -1,7 +1,8 @@
 ---
 title: "Gary Schocker"
 slug: gary-schocker
-nationality: []
+nationality:
+  - "🇺🇸 American"
 gender: 
 race: []
 born: 1959
@@ -11,4 +12,5 @@ photo:
 photo-credit: 
 photo-source: 
 aliases: []
+website: https://garyschocker.com/
 ---

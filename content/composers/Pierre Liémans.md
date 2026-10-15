@@ -2,9 +2,10 @@
 title: "Pierre Liémans"
 slug: pierre-liemans
 nationality:
+  - "🇧🇪 Belgian"
 gender:
 race:
-born: 
+born: 1961
 died: 
 wikidata: 
 photo: 

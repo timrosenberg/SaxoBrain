@@ -7,7 +7,7 @@ gender: "Male"
 race:
   - "White"
 born: 1935
-died: 
+died: 2019
 wikidata: Q133592177
 photo: "/media/composers/lawson-lunde.jpg"
 photo-credit: 

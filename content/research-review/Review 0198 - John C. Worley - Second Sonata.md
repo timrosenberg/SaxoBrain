@@ -3,9 +3,9 @@ title: "Review 0198: John C. Worley - Second Sonata"
 added: 2026-10-11
 review-id: 198
 review-packet: 8
-review-decision: Pending
-review-applied: false
-notation-inspected: false
+review-decision: "Third Year"
+review-applied: true
+notation-inspected: true
 catalog-entry: "[[John C. Worley - Second Sonata]]"
 build:
   render: never
@@ -42,3 +42,21 @@ Searches checked:
 - John C. Worley Second Sonata saxophone Dorn 0969 score preview
 - John C. Worley Second Sonata saxophone performance
 - John C. Worley Second Sonata syllabus repertoire
+
+## Chat batch 12 follow-up, 2026-10-14
+
+The opening manuscript is titled Second Sonata for alto saxophone and piano, dedicated to the composer’s daughter Susan, and dated 1980 next to Worley’s name. The image footer says 1981 Dorn copyright. Groth’s prose calls the copyright 1980. The manuscript date supports composition year 1980; the copyright discrepancy remains private. This numbered sonata opens Allegro amabile. Recordings labeled Sonata for Alto Saxophone and Piano with Andante moderato, Adagio and Allegro con brio belong to the separate 1975 work and do not verify this edition. No source examined documents a youth teaching version, simplification, or work-specific college/professional programming. A dedication alone does not establish performance history.
+
+Score observations: Inspected the single opening piano-score page, movement I. The solo staff begins in bass clef and later changes to treble clef while matching the piano’s two-flat key signature. It is a concert-pitch score line, not the transposed alto part. No written saxophone range is inferred. The opening is Allegro amabile, quarter note approximately 104, in common time. The solo begins immediately at mp with slurred eighth-note patterns, followed by accidentals, register changes and beamed sixteenth-note runs. The piano starts with repeated offbeat broken-chord/chord figures, requiring clear rhythmic coordination and balance beneath the moving solo.
+
+Collection context: Original numbered alto saxophone sonata. Do not conflate it with the better-recorded 1975 Sonata.
+
+Open questions: Only one opening page was inspected. Complete movement contents, full written saxophone range, later techniques and total duration remain unverified. No exact accessible recording or work-specific youth/college/professional programming was verified. No verified full-score download or library score record was located.
+
+Sources checked:
+- [Groth Music](https://www.grothmusic.com/p-146145.aspx): Exact title, scoring and catalog number DORN0969. (opened)
+- [Dorn public score via Groth Music](https://grothmusic.com/images/product/large/ae00-127011.jpg): Manuscript identity, date when present, and visible opening notation. (score_inspected)
+
+## Chat Batch 12 Decision, 2026-10-14
+
+Tim assigned Third Year.

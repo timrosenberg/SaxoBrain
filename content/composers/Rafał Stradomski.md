@@ -1,7 +1,8 @@
 ---
 title: "Rafał Stradomski"
 slug: rafa-stradomski
-nationality: []
+nationality:
+  - "🇵🇱 Polish"
 gender: 
 race: []
 born: 1958

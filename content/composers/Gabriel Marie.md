@@ -1,7 +1,8 @@
 ---
 title: "Gabriel Marie"
 slug: gabriel-marie
-nationality: []
+nationality:
+  - "🇫🇷 French"
 gender: 
 race: []
 born: 1852

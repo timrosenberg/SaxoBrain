@@ -4,7 +4,7 @@ slug: steven-galante
 nationality: []
 gender: 
 race: []
-born: 
+born: 1953
 died: 
 wikidata: 
 photo: 

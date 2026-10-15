@@ -1,14 +1,16 @@
 ---
-title: "Karsten Fundal"
+title: Karsten Fundal
 slug: karsten-fundal
-nationality: []
-gender: 
-race: []
+nationality:
+  - 🇩🇰 Danish
+gender: Male
+race:
+  - White
 born: 1966
-died: 
+died:
 wikidata: Q83269011
-photo: 
-photo-credit: 
-photo-source: 
+photo: "/media/composers/karsten-fundal.jpg"
+photo-credit: Kristeligt Dagblad
+photo-source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR00T6IRlzF-NoYxqqedD6bCtzgm3IITBBJnhYskCHAa2q_8c2r_UOtfU7c8xRU9XEKUm95fhw6JlcEop0jhcSryz6yK0OHtsyF949SJM-Pzg&s=10
 aliases: []
 ---

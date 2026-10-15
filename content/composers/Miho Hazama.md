@@ -13,4 +13,5 @@ photo: "/media/composers/miho-hazama.jpg"
 photo-credit: "Jazz at Lincoln Center"
 photo-source: "https://jazz.org/wp-content/uploads/2023/12/Miho_Hazama_1920x1280_Web-1.jpg"
 aliases: []
+website: https://www.mihohazama.com/
 ---

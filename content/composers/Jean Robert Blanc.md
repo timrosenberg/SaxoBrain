@@ -6,7 +6,7 @@ nationality:
 gender: "Male"
 race:
   - "White"
-born: 
+born: 1907
 died: 
 wikidata: 
 photo: 

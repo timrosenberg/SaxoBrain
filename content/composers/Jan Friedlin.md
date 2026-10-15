@@ -1,10 +1,11 @@
 ---
 title: "Jan Friedlin"
 slug: jan-friedlin
-nationality: []
+nationality:
+  - "🇮🇱 Israeli"
 gender: 
 race: []
-born: 
+born: 1944
 died: 
 wikidata: 
 photo: 

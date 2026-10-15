@@ -7,16 +7,27 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
+year-of-study: "Third Year"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-156780.aspx
 added: 2024-03-08
 research:
   - "Dorn DORN1746 · https://www.grothmusic.com/p-156780.aspx"
+  - "Dorn DORN1746 includes piano score and alto saxophone part. · https://www.grothmusic.com/p-156780.aspx"
+  - "Page 3 identifies Joshua Reed and E-flat alto saxophone; opening notation shows Allegro ritmico quarter=132, active piano and alternating solo articulation. · https://grothmusic.com/images/product/large/ae00-136251.jpg"
 aliases: []
+publisher:
+  - "Dorn Publications"
 ---
 ## Research notes (private)
+
+### Chat batch 12 follow-up, 2026-10-14
+
+DORN1746 is now independently identified and its opening notation inspected. The first movement has rhythmic solo articulation, upper-register detached notes and a busy chromatic piano part at quarter=132. Only the opening page is available, so later movement demands and exact performance links remain unknown.
+
+[[Review 0205 - Joshua Reed - Sonata|Full evidence and open questions]]
+
 
 - Dorn DORN1746 · [grothmusic.com](https://www.grothmusic.com/p-156780.aspx)
 

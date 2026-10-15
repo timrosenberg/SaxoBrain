@@ -14,9 +14,22 @@ purchase:
 added: 2024-03-08
 research:
   - "Dorn DORN1939 · https://www.grothmusic.com/p-144326.aspx"
+  - "The opened Groth product identifies Rondo by Kevin Howard, for alto saxophone and piano, published by Dorn Publications, catalog DORN1939. The current purchase listing is exact-work evidence. · https://www.grothmusic.com/p-144326.aspx"
+  - "First notation page visually inspected; scope and observations are recorded above. · https://www.grothmusic.com/images/product/large/ae00-125871.jpg"
+  - "Groth reports acquisition of Dorn Publications and transfer of Dorn and Needham copyrights on February 21, 2024, supporting its role as the current publisher source. · https://www.grothmusic.com/t-dorn.aspx"
+  - "Dorn publisher catalog lists the exact work under Alto Saxophone and Piano. · https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf"
 aliases: []
+publisher:
+  - "Dorn Publications"
 ---
 ## Research notes (private)
+
+### Chat batch 13 follow-up, 2026-10-14
+
+Groth confirms Rondo for alto saxophone and piano, Dorn DORN1939. The piano sample shows 5/8, chromatic runs, a trill and dynamic shaping within a three-piece set. The arranger placeholder does not establish a transcription. Saxophone demands, source-work identity, composition date and an exact accessible recording remain unverified.
+
+[[Review 0225 - Kevin Howard - Rondo|Full evidence and open questions]]
+
 
 - Dorn DORN1939 · [grothmusic.com](https://www.grothmusic.com/p-144326.aspx)
 

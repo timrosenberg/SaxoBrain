@@ -3,9 +3,9 @@ title: "Review 0185: Jean-Michel Damase - Concertstuck"
 added: 2026-10-11
 review-id: 185
 review-packet: 8
-review-decision: Pending
-review-applied: false
-notation-inspected: false
+review-decision: "Second Year"
+review-applied: true
+notation-inspected: true
 catalog-entry: "[[Jean-Michel Damase - Concertstuck]]"
 build:
   render: never
@@ -42,3 +42,25 @@ Searches checked:
 - Jean-Michel Damase Concertstück AL20759 alto saxophone Hal Leonard score
 - Jean-Michel Damase Concertstuck saxophone recording
 - Damase Concertstück saxophone college recital
+
+## Chat batch 12 follow-up, 2026-10-14
+
+Wise Music Classical identifies the original 1950 work for alto saxophone and chamber orchestra and gives six minutes. The actual first-page title permits orchestra or piano accompaniment and gives Op. 16. The score dedicates the work to Marcel Mule, professor at the Conservatoire National de Musique. The exact AL20759 edition contains piano score and alto part. The Faculdade de Música do Espírito Santo bachelor curriculum includes Damase Concertstucke, Leduc, in saxophone repertoire. This documents college use. Richard Ingham and Alan Cuckston’s 1988 performance is identified by exact composer/title and personnel in Cuckston’s upload metadata. No audio audition claim is made.
+
+Score observations: AL20759 first score page is headed Concertstück Op.16 for alto saxophone with orchestra or piano. It shows an alto treble staff above the piano grand staff, an Andante opening and triple meter. Observations concern the written alto staff; no concert-pitch range is inferred. Opening notation shows counted saxophone rests, long slurred phrases with chromatic accidentals and stepwise eighth-note motion, sustained and tied tones, register movement, and mp/mf dynamic markings. Piano maintains repeated chordal pulses with chromatic voice changes. Preparation inference limited to this opening: phrase breath placement, legato chromatic coordination and timing against the pianist’s repeating accompaniment need attention. Later virtuosity cannot be inferred from the title.
+
+Collection context: Original concertante saxophone repertoire with chamber orchestra or piano accompaniment. College curriculum use verified. No young-player simplification found.
+
+Open questions: Only opening score page inspected. Later technical sections and full written range remain unknown. Hal Leonard reports five pages, Groth fourteen, and another retailer thirty-six. No pagination normalization proposed. The orchestral original is verified, but the catalog page is currently centered on the piano edition. Orchestra is not automatically added.
+
+Sources checked:
+- [Wise Music Classical official Leduc work catalog](https://www.wisemusicclassical.com/work/50205/Concertstck-for-Alto-Saxophone--Jean-Michel-Damase/): Original work is 1950, six minutes, alto and chamber orchestra. (opened)
+- [Hal Leonard official Leduc distributor](https://www.halleonard.com/product/48181329/concertstuck-saxophone-alto-piano): AL20759 exact piano edition. (opened)
+- [Alphonse Leduc score via Groth](https://grothmusic.com/images/product/large/ae00-127763_2_.jpg): Op.16 dedication and opening notation. (score_inspected)
+- [Faculdade de Música do Espírito Santo](https://fames.es.gov.br/Media/Fames/Ensino/Gerenciar%20Bacharelado%20em%20M%C3%BAsica%20-%20Habilita%C3%A7%C3%A3o%20em%20Instrumento/PROGRAMAS%20DO%20N%C3%9ACLEO%20DE%20SOPROS%20E%20PERCUSS%C3%83O.pdf): Damase Concertstucke in bachelor saxophone repertoire. (opened)
+- [Alan Cuckston Tapes](https://www.youtube.com/watch?v=HydA-nLVtH0): Exact-work performance personnel and date. (opened)
+- [Groth Music exact-edition listing](https://www.grothmusic.com/p-147309.aspx): Piano score and alto part, AL20759. (opened)
+
+## Chat Batch 12 Decision, 2026-10-14
+
+Tim assigned Second Year.

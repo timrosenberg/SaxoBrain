@@ -1,7 +1,9 @@
 ---
 title: "Erich Wolfgang Korngold"
 slug: erich-wolfgang-korngold
-nationality: []
+nationality:
+  - "🇺🇸 American"
+  - "🇦🇹 Austrian"
 gender: 
 race: []
 born: 1897

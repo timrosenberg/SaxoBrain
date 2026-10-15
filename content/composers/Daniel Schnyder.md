@@ -1,7 +1,8 @@
 ---
 title: "Daniel Schnyder"
 slug: daniel-schnyder
-nationality: []
+nationality:
+  - "🇨🇭 Swiss"
 gender: 
 race: []
 born: 1961
@@ -11,4 +12,5 @@ photo:
 photo-credit: 
 photo-source: 
 aliases: []
+website: https://www.danielschnyder.com
 ---

@@ -1,10 +1,11 @@
 ---
 title: "George Nicholson"
 slug: george-nicholson
-nationality: []
+nationality:
+  - "🇬🇧 British"
 gender: 
 race: []
-born: 
+born: 1949
 died: 
 wikidata: 
 photo: 

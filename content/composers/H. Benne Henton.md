@@ -1,7 +1,8 @@
 ---
 title: "H. Benne Henton"
 slug: h-benne-henton
-nationality: []
+nationality:
+  - "🇺🇸 American"
 gender: 
 race: []
 born: 1877

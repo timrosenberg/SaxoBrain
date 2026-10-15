@@ -2,6 +2,7 @@
 title: "Frederik van Rossum"
 slug: frederik-van-rossum
 nationality:
+  - "🇧🇪 Belgian"
 gender:
 race:
 born: 1939

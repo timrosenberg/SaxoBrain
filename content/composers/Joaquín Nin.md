@@ -2,6 +2,7 @@
 title: "Joaquín Nin"
 slug: joaquin-nin
 nationality:
+  - "🇪🇸 Spanish"
 gender:
 race:
 born: 1879

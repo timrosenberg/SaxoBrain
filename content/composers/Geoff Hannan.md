@@ -1,7 +1,8 @@
 ---
 title: "Geoff Hannan"
 slug: geoff-hannan
-nationality: []
+nationality:
+  - "🇬🇧 British"
 gender: 
 race: []
 born: 1972
@@ -11,4 +12,5 @@ photo:
 photo-credit: 
 photo-source: 
 aliases: []
+website: https://geoffhannan.com/
 ---

@@ -13,4 +13,5 @@ photo: "/media/composers/sonny-rollins.jpg"
 photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:SonnyRollins.jpg"
 aliases: []
+website: https://sonnyrollins.com
 ---

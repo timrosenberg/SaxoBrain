@@ -1,7 +1,8 @@
 ---
 title: "Antoine Tisné"
 slug: antoine-tisne
-nationality: []
+nationality:
+  - "🇫🇷 French"
 gender: 
 race: []
 born: 1932

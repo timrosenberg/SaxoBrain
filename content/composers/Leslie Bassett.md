@@ -13,4 +13,5 @@ photo: "/media/composers/leslie-bassett.jpg"
 photo-credit: 
 photo-source: "Notion upload"
 aliases: []
+website: https://lesliebassett.com/
 ---

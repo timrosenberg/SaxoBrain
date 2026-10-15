@@ -1,7 +1,8 @@
 ---
 title: "Charles Gounod"
 slug: charles-gounod
-nationality: []
+nationality:
+  - "🇫🇷 French"
 gender: 
 race: []
 born: 1818

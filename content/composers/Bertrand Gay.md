@@ -1,14 +1,15 @@
 ---
-title: "Bertrand Gay"
+title: Bertrand Gay
 slug: bertrand-gay
-nationality: []
-gender: 
+nationality:
+  - 🇨🇭 Swiss
+gender: Male
 race: []
 born: 1957
-died: 
+died:
 wikidata: Q133646661
-photo: 
-photo-credit: 
-photo-source: 
+photo:
+photo-credit:
+photo-source:
 aliases: []
 ---

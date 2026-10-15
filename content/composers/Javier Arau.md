@@ -13,4 +13,5 @@ photo: "/media/composers/javier-arau.jpg"
 photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Photo_of_Javier_Arau.jpg"
 aliases: []
+website: https://www.javierarau.com/
 ---

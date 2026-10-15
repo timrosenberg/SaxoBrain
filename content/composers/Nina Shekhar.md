@@ -6,11 +6,12 @@ nationality:
 gender: "Female"
 race:
   - "Indian"
-born: 
+born: 1995
 died: 
 wikidata: 
 photo: 
 photo-credit: 
 photo-source: 
 aliases: []
+website: https://www.ninashekhar.com/
 ---

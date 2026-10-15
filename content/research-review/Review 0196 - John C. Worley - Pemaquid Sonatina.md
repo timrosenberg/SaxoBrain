@@ -3,9 +3,9 @@ title: "Review 0196: John C. Worley - Pemaquid Sonatina"
 added: 2026-10-11
 review-id: 196
 review-packet: 8
-review-decision: Pending
-review-applied: false
-notation-inspected: false
+review-decision: "Third Year"
+review-applied: true
+notation-inspected: true
 catalog-entry: "[[John C. Worley - Pemaquid Sonatina]]"
 build:
   render: never
@@ -42,3 +42,21 @@ Searches checked:
 - John C. Worley Pemaquid Sonatina saxophone Dorn 0889 score preview
 - John C. Worley Pemaquid Sonatina saxophone performance
 - John C. Worley Pemaquid Sonatina syllabus repertoire
+
+## Chat batch 12 follow-up, 2026-10-14
+
+The handwritten title page identifies Pemaquid Sonatina for alto saxophone and piano and places 1989 beneath the scoring. Its separate footer copyright is 1990. Groth identifies the same edition as Dorn DORN0889. No arranger or source-work credit appears in the inspected page. No source examined documents a youth teaching version, simplification, or work-specific college/professional programming. A dedication alone does not establish performance history.
+
+Score observations: Inspected the single opening piano-score page. The solo staff explicitly reads saxophone in C. The solo line and piano use three flats, so these are concert pitches and cannot be reported as the written alto range. The opening is Poco Andante, quarter note 72–76, in common time. After two bars of piano introduction the solo enters with a low ledger-line note and rising slurred figures. Visible solo writing includes dotted notes, sixteenth-note groups, triplets, chromatic alterations, rests between gestures and changing register. Piano broken chords and held bass notes supply an active harmonic background.
+
+Collection context: Original alto saxophone and piano sonatina, as credited on the edition. No youth adaptation documented.
+
+Open questions: Only one opening page was inspected. Complete movement contents, full written saxophone range, later techniques and total duration remain unverified. No exact accessible recording or work-specific youth/college/professional programming was verified. No verified full-score download or library score record was located.
+
+Sources checked:
+- [Groth Music](https://www.grothmusic.com/p-146144.aspx): Exact title, scoring and catalog number DORN0889. (opened)
+- [Dorn public score via Groth Music](https://grothmusic.com/images/product/large/ae00-127010.jpg): Manuscript identity, date when present, and visible opening notation. (score_inspected)
+
+## Chat Batch 12 Decision, 2026-10-14
+
+Tim assigned Third Year.

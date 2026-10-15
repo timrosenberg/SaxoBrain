@@ -1,7 +1,8 @@
 ---
 title: "René Guillou"
 slug: rene-guillou
-nationality: []
+nationality:
+  - "🇫🇷 French"
 gender: 
 race: []
 born: 1903

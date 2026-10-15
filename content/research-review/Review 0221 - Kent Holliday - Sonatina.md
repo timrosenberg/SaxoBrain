@@ -5,7 +5,7 @@ review-id: 221
 review-packet: 9
 review-decision: Pending
 review-applied: false
-notation-inspected: false
+notation-inspected: true
 catalog-entry: "[[Kent Holliday - Sonatina]]"
 build:
   render: never
@@ -43,3 +43,18 @@ Catalog: [Kent Holliday - Sonatina.md](/Users/trosenberg/Documents/GitHub/SaxoBr
 - No matching readable score, verified recording, or college-program listing located in the work-specific searches.
 
 **Tim decision:** pending.
+
+## Chat batch 13 follow-up, 2026-10-14
+
+The opened Groth product identifies Sonatina by Kent Holliday, for alto saxophone and piano, published by Dorn Publications, catalog DORN1614. The current purchase listing is exact-work evidence. The visible copyright date is retained as edition evidence only. No verified composition date is proposed. The current Groth publisher product and readable score resolve the earlier unverified Sonatina/DORN1614 identity. A separate Holliday Sonata in the broad catalog must not replace this exact work.
+
+Score observations: Inspected only the first piano-score page, printed page 1, with a stave labelled Alto Saxophone and piano grand staff. No separate saxophone part or remaining pages inspected. The opening is marked Allegro assai and f, with legato scalar figures, frequent chromatic accidentals, changes between 8/8, 6/8 and 7/8, and accents across the saxophone phrases. The piano has accented chordal attacks, moving inner lines and chromatic runs. The excerpt presents active ensemble coordination rather than a solo line with static accompaniment. The title page dedication is For David Jacobsen. Copyright is 2012 Dorn Publications, which is not a verified composition date. No absolute saxophone range is claimed. The alto stave transposition convention is not explicitly confirmed on this excerpt; concert-pitch equivalence and the complete work range remain unverified.
+
+Collection context: No youth simplification or transcription is established by the opened exact-edition sources.
+
+Open questions: Composition date not verified; visible copyright is not used as composed metadata. Complete score and separate saxophone part unavailable in the inspected preview; full range, later techniques and total duration remain unverified. No exact accessible recording verified after exact title/composer searches. No opened exact-work library catalog record verified.
+
+Sources checked:
+- [Groth Music exact product listing](https://www.grothmusic.com/p-156793.aspx): The opened Groth product identifies Sonatina by Kent Holliday, for alto saxophone and piano, published by Dorn Publications, catalog DORN1614. The current purchase listing is exact-work evidence. (opened)
+- [Groth Music edition notation preview](https://www.grothmusic.com/images/product/large/ae00-136275.jpg): First notation page visually inspected; scope and observations are recorded above. (score_inspected)
+- [Groth Music Dorn Publications](https://www.grothmusic.com/t-dorn.aspx): Groth reports acquisition of Dorn Publications and transfer of Dorn and Needham copyrights on February 21, 2024, supporting its role as the current publisher source. (opened)

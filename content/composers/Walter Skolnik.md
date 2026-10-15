@@ -12,5 +12,6 @@ wikidata: Q2943400
 photo: 
 photo-credit: 
 photo-source: 
-aliases: []
+aliases:
+  - /composers/edward-skolnik/
 ---

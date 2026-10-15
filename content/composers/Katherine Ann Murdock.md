@@ -1,7 +1,8 @@
 ---
 title: "Katherine Ann Murdock"
 slug: katherine-ann-murdock
-nationality: []
+nationality:
+  - "🇺🇸 American"
 gender: 
 race: []
 born: 
@@ -11,4 +12,5 @@ photo:
 photo-credit: 
 photo-source: 
 aliases: []
+website: https://katherineannmurdock.com/
 ---

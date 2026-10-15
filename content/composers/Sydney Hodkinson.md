@@ -1,7 +1,9 @@
 ---
 title: "Sydney Hodkinson"
 slug: sydney-hodkinson
-nationality: []
+nationality:
+  - "🇺🇸 American"
+  - "🇨🇦 Canadian"
 gender: 
 race: []
 born: 1934

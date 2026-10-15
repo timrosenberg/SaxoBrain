@@ -1,14 +1,17 @@
 ---
-title: "Mary Finsterer"
+title: Mary Finsterer
 slug: mary-finsterer
-nationality: []
-gender: 
-race: []
+nationality:
+  - 🇦🇺 Australian
+gender: Female
+race:
+  - White
 born: 1962
-died: 
+died:
 wikidata: Q6779534
-photo: "/media/composers/mary-finsterer.jpg"
-photo-credit: "Wikimedia Commons"
-photo-source: "https://commons.wikimedia.org/wiki/File:Mary_Finsterer.jpg"
+photo: /media/composers/mary-finsterer.jpg
+photo-credit: Wikimedia Commons
+photo-source: https://commons.wikimedia.org/wiki/File:Mary_Finsterer.jpg
 aliases: []
+website: https://www.maryfinsterer.com/
 ---

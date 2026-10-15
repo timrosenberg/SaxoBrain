@@ -1,7 +1,8 @@
 ---
 title: "Charles W. Smith"
 slug: charles-w-smith
-nationality: []
+nationality:
+  - "🇺🇸 American"
 gender: 
 race: []
 born: 1936

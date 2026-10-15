@@ -6,8 +6,8 @@ nationality:
 gender: "Male"
 race:
   - "White"
-born: 
-died: 
+born: 1822
+died: 1900
 wikidata: 
 photo: 
 photo-credit: 

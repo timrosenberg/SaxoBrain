@@ -1,7 +1,8 @@
 ---
 title: "Pyotr Ilyich Tchaikovsky"
 slug: pyotr-ilyich-tchaikovsky
-nationality: []
+nationality:
+  - "🇷🇺 Russian"
 gender: 
 race: []
 born: 1840

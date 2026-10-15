@@ -1,10 +1,11 @@
 ---
 title: "Stephen Yates"
 slug: stephen-yates
-nationality: []
+nationality:
+  - "🇦🇺 Australian"
 gender: 
 race: []
-born: 
+born: 1957
 died: 
 wikidata: Q131339965
 photo: 

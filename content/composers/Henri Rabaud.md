@@ -1,7 +1,8 @@
 ---
 title: "Henri Rabaud"
 slug: henri-rabaud
-nationality: []
+nationality:
+  - "🇫🇷 French"
 gender: 
 race: []
 born: 1873

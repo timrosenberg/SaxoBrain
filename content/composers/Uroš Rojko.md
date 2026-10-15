@@ -2,6 +2,7 @@
 title: "Uroš Rojko"
 slug: uros-rojko
 nationality:
+  - "🇸🇮 Slovenian"
 gender:
 race:
 born: 1954
@@ -11,4 +12,5 @@ photo:
 photo-credit: 
 photo-source: 
 aliases: []
+website: https://www.uros-rojko.de/home
 ---

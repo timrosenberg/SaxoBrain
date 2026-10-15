@@ -1,7 +1,8 @@
 ---
 title: "Ruud Roelofsen"
 slug: ruud-roelofsen
-nationality: []
+nationality:
+  - "🇳🇱 Dutch"
 gender: 
 race: []
 born: 1985
@@ -11,4 +12,5 @@ photo:
 photo-credit: 
 photo-source: 
 aliases: []
+website: https://ruudroelofsen.com/
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Lawrence Moss"
 slug: lawrence-moss
-nationality: []
+nationality:
+  - "🇺🇸 American"
 gender: 
 race: []
 born: 1927

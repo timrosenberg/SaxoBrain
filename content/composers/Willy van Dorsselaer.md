@@ -7,8 +7,8 @@ nationality:
 gender: "Male"
 race:
   - "White"
-born: 1916
-died: 
+born: 1918
+died: 2017
 wikidata: Q112441948
 photo: 
 photo-credit: 

@@ -4,7 +4,7 @@ slug: felix-lemaire
 nationality: []
 gender: 
 race: []
-born: 
+born: 1926
 died: 
 wikidata: 
 photo: 

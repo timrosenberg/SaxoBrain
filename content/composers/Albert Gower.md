@@ -1,7 +1,8 @@
 ---
 title: "Albert Gower"
 slug: albert-gower
-nationality: []
+nationality:
+  - "🇺🇸 American"
 gender: 
 race: []
 born: 

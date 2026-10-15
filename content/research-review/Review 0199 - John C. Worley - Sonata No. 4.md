@@ -3,9 +3,9 @@ title: "Review 0199: John C. Worley - Sonata No. 4"
 added: 2026-10-11
 review-id: 199
 review-packet: 8
-review-decision: Pending
-review-applied: false
-notation-inspected: false
+review-decision: "Third Year"
+review-applied: true
+notation-inspected: true
 catalog-entry: "[[John C. Worley - Sonata No. 4]]"
 build:
   render: never
@@ -42,3 +42,21 @@ Searches checked:
 - John C. Worley Sonata No. 4 saxophone Dorn 0209 score preview
 - John C. Worley Sonata No. 4 saxophone performance
 - John C. Worley Sonata No. 4 syllabus repertoire
+
+## Chat batch 12 follow-up, 2026-10-14
+
+The manuscript opening identifies From Penn’s Woods, Sonata No. 4 for alto saxophone and piano, dedicated to David and Dorinne Bilger, and carries Worley’s date 1994. Groth identifies Dorn DORN0209 and calls 1994 the copyright. The score manuscript date is the composition-year evidence. No transcription credit is present in the inspected edition. Broad recording searches returned Worley’s separate 1975 Sonata and were excluded. No source examined documents a youth teaching version, simplification, or work-specific college/professional programming. A dedication alone does not establish performance history.
+
+Score observations: Inspected one opening piano-score page. Its solo staff explicitly reads alto saxophone in C and uses both treble and bass clefs. These are concert pitches, so this page cannot establish the transposed written alto range. The opening is Andante cantabile, quarter note 80–86, in 4/4. A piano introduction precedes a low-register solo entrance. The visible solo contains slurred phrases, rising beamed runs, accidentals, a trill, triplet figures, changing register and a poco ritardando followed by a tempo return. The piano has moving inner voices and chromatic chords.
+
+Collection context: Original alto saxophone and piano sonata titled From Penn’s Woods. No teaching simplification documented.
+
+Open questions: Only one opening page was inspected. Complete movement contents, full written saxophone range, later techniques and total duration remain unverified. No exact accessible recording or work-specific youth/college/professional programming was verified. No verified full-score download or library score record was located.
+
+Sources checked:
+- [Groth Music](https://www.grothmusic.com/p-146146.aspx): Exact title, scoring and catalog number DORN0209. (opened)
+- [Dorn public score via Groth Music](https://grothmusic.com/images/product/large/ae00-127012.jpg): Manuscript identity, date when present, and visible opening notation. (score_inspected)
+
+## Chat Batch 12 Decision, 2026-10-14
+
+Tim assigned Third Year.

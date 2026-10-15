@@ -1,7 +1,8 @@
 ---
 title: "Michael Torke"
 slug: michael-torke
-nationality: []
+nationality:
+  - "🇺🇸 American"
 gender: 
 race: []
 born: 1961
@@ -11,4 +12,5 @@ photo:
 photo-credit: 
 photo-source: 
 aliases: []
+website: https://www.michaeltorke.com/
 ---

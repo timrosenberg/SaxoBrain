@@ -6,17 +6,33 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
-year-of-study: 
-streaming: 
+  - "Clarinet"
+composed: 1964
+year-of-study: "Second Year"
+streaming: "https://www.youtube.com/watch?v=zO7EMKRLoQ4&t=2918s"
 purchase:
   - https://www.grothmusic.com/p-146055.aspx
 added: 2024-03-08
 research:
   - "Publisher Dorn Publications, catalog no. DORN0192 · https://www.grothmusic.com/p-146055.aspx"
+  - "DORN0192 identifies Three Ostinati by John Russo for alto saxophone or clarinet and piano. · https://www.grothmusic.com/p-146055.aspx"
+  - "Opening score identifies composer year 1964, alternative clarinet/alto scoring, C solo staff and octave-transposition footnote; opening notation inspected. · https://grothmusic.com/images/product/large/ae00-126915.jpg"
+  - "Performer-uploaded guest recital lists the complete three-movement work at 48:38 and next selection at 56:33. · https://www.youtube.com/watch?v=zO7EMKRLoQ4&t=2918s"
 aliases: []
+publisher:
+  - "Dorn Publications"
+multi-instruments: "Alto saxophone or clarinet, with piano"
 ---
+The linked performance begins at 48:38 in Lawrence Gwozdz’s guest recital with pianist Anita Hutton. Three Ostinati ends before the next selection at 56:33.
+
 ## Research notes (private)
+
+### Chat batch 12 follow-up, 2026-10-14
+
+Dorn’s opening score verifies Russo’s 1964 composition for clarinet or alto saxophone and piano. Repeating piano bass, accented sustained notes, chromatic slurs and an active right hand make rhythmic coordination a concrete review focus. Gwozdz’s university guest recital supplies a verified chapter link for the complete three-movement work. The dealer’s tenor claim remains unresolved.
+
+[[Review 0203 - John Russo - Three Ostinati|Full evidence and open questions]]
+
 
 - Publisher Dorn Publications, catalog no. DORN0192 · [grothmusic.com](https://www.grothmusic.com/p-146055.aspx)
 

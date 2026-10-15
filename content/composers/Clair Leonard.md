@@ -6,8 +6,8 @@ nationality:
 gender: "Male"
 race:
   - "White"
-born: 
-died: 
+born: 1901
+died: 1963
 wikidata: 
 photo: 
 photo-credit: 

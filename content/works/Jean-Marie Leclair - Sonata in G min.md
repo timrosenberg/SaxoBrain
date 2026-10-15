@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
+year-of-study: "First Year"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-143007.aspx
@@ -15,12 +15,23 @@ added: 2024-03-08
 research:
   - "Publisher Southern, catalog no. SS788 · https://www.grothmusic.com/p-143007.aspx"
   - "Movements: Prelude, Allemande, Sarabande, Minuette, Double; tempo markings unusually precise, repeat signs optional, ornamentation left to the soloist · https://www.grothmusic.com/p-143007.aspx"
+  - "Peter Gorner alto saxophone arrangement, Southern SS788, 26 pages, publisher Level 4. · https://www.halleonard.com/product/3774454/sonata-in-g-minor"
+  - "Piano score and alto part; five movement names and edition commentary on ornamentation and optional repeats. · https://www.grothmusic.com/p-143007.aspx"
+  - "Prelude in 2/4 at eighth=80, transposed saxophone staff, frequent trills, slurred thirty-second figures and independent accompaniment. · https://grothmusic.com/images/product/large/ae00-124622_2_.jpg"
+  - "Southern alto-and-piano Sonata listed in LMusNZ diploma repertoire, arranger spelled Garner. · https://www.nzmeb.org/syllabuses/performance-saxophone/lmusnz"
 publisher:
   - "Southern Music"
 arranger-edition: "Peter Gorner"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat batch 11 follow-up, 2026-10-14
+
+Exact Gorner score opening now inspected: Andante, eighth note 80, 2/4, frequent trills, grace figures and slurred thirty-second notes over independent piano lines. The Southern edition also appears in New Zealand performance diploma repertoire. No full score or exact recording located.
+
+[[Review 0181 - Jean-Marie Leclair - Sonata in G min|Full evidence and open questions]]
+
 
 - Publisher Southern, catalog no. SS788 · [grothmusic.com](https://www.grothmusic.com/p-143007.aspx)
 - Movements: Prelude, Allemande, Sarabande, Minuette, Double; tempo markings unusually precise, repeat signs optional, ornamentation left to the soloist · [grothmusic.com](https://www.grothmusic.com/p-143007.aspx)

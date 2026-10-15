@@ -13,4 +13,5 @@ photo: "/media/composers/lauren-bernofsky.jpg"
 photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Lauren_Bernofsky.jpg"
 aliases: []
+website: https://www.laurenbernofsky.com/
 ---

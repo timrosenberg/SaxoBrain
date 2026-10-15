@@ -2,6 +2,7 @@
 title: "Alain Margoni"
 slug: alain-margoni
 nationality:
+  - "🇫🇷 French"
 gender:
 race:
 born: 1934

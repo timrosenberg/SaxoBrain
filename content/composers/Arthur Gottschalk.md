@@ -13,4 +13,5 @@ photo: "/media/composers/arthur-gottschalk.jpg"
 photo-credit: 
 photo-source: "https://www.arthurgottschalk.com/wp-content/uploads/2023/05/Arthur-Gottschalk_composer.jpg"
 aliases: []
+website: https://www.arthurgottschalk.com/
 ---

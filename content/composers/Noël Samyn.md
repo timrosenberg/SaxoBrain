@@ -2,7 +2,7 @@
 title: "Noël Samyn"
 slug: noel-samyn
 nationality:
-  - "🇫🇷 French"
+  - "🇨🇦 Canadian"
 gender: "Male"
 race:
   - "White"
@@ -13,4 +13,7 @@ photo:
 photo-credit: 
 photo-source: 
 aliases: []
+website: https://noelsamyn.com/
 ---
+
+Noël Samyn is a Belgian-born Canadian saxophonist and composer.

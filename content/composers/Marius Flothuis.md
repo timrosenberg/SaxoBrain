@@ -1,7 +1,8 @@
 ---
 title: "Marius Flothuis"
 slug: marius-flothuis
-nationality: []
+nationality:
+  - "🇳🇱 Dutch"
 gender: 
 race: []
 born: 1914

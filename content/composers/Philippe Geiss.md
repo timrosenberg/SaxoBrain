@@ -6,11 +6,12 @@ nationality:
 gender: "Male"
 race:
   - "White"
-born: 
+born: 1961
 died: 
 wikidata: 
 photo: 
 photo-credit: 
 photo-source: 
 aliases: []
+website: https://philippegeiss.com/
 ---

@@ -13,4 +13,5 @@ photo: "/media/composers/william-bolcom.jpg"
 photo-credit: 
 photo-source: "https://syncopatedtimes.com/wp-content/uploads/2021/10/002_W-Bolcom_Red-Bow-Tie-lg.jpg"
 aliases: []
+website: https://williambolcom.com
 ---

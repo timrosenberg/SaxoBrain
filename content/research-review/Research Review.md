@@ -13,7 +13,7 @@ Research for 409 works, completed October 11, 2026. Each work has its own review
 
 ## Start Here
 
-Current chat batch: [[Chat Batch 10]] contains 25 works, numbered 1–25 for your reply.
+Current chat batch: [[Chat Batch 13]] contains 25 works, numbered 1–25 for your reply.
 
 1. Ask Codex for the next short review batch in chat, or open [[Research Packet 01]].
 2. Give decisions by number in chat, or enter them in `review-decision` in the table below.

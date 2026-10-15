@@ -1,15 +1,15 @@
 ---
-title: "Augustin Bruniau"
+title: Augustin Bruniau
 slug: augustin-bruniau
 nationality:
-  - "🇫🇷 French"
-gender: "Male"
+  - 🇫🇷 French
+gender: Male
 race: []
-born: 
-died: 
-wikidata: 
-photo: 
-photo-credit: 
-photo-source: 
+born: 1863
+died: 1943
+wikidata:
+photo:
+photo-credit:
+photo-source:
 aliases: []
 ---

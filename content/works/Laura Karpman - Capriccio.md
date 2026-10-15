@@ -14,9 +14,23 @@ purchase:
 added: 2024-03-08
 research:
   - "Dorn DORN0176 · https://www.grothmusic.com/p-145577.aspx"
+  - "The opened Groth product identifies Capriccio by Laura Karpman, for alto saxophone and piano, published by Dorn Publications, catalog DORN0176. The current purchase listing is exact-work evidence. · https://www.grothmusic.com/p-145577.aspx"
+  - "First notation page visually inspected; scope and observations are recorded above. · https://www.grothmusic.com/images/product/large/ae00-126433.jpg"
+  - "Groth reports acquisition of Dorn Publications and transfer of Dorn and Needham copyrights on February 21, 2024, supporting its role as the current publisher source. · https://www.grothmusic.com/t-dorn.aspx"
+  - "Dorn publisher catalog lists the exact work under Alto Saxophone and Piano. · https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf"
+  - "The NYPL American Music Center collection finding aid identifies Capriccio for alto saxophone and piano as a published score reproduced from holograph manuscript, in box 1486. · https://nyplorg-data-archives.s3.amazonaws.com/uploads/collection/generated_finding_aids/mus24605.pdf"
 aliases: []
+publisher:
+  - "Dorn Publications"
 ---
 ## Research notes (private)
+
+### Chat batch 13 follow-up, 2026-10-14
+
+Capriccio’s handwritten opening shows changing meters, chromatic gestures, abrupt dynamics and active piano writing. Its Duo Vivo dedication and 1982 Needham copyright are visible. Groth verifies Dorn DORN0176 for alto saxophone and piano. Complete range, actual composition date and an exact accessible recording remain unverified.
+
+[[Review 0228 - Laura Karpman - Capriccio|Full evidence and open questions]]
+
 
 - Dorn DORN0176 · [grothmusic.com](https://www.grothmusic.com/p-145577.aspx)
 

@@ -6,9 +6,10 @@ composer:
 instruments:
   - "Soprano Saxophone"
   - "Piano"
+  - "Organ"
 composed: 2011
-year-of-study: 
-streaming: "https://open.spotify.com/track/3JmIB5MMHEDMsYWsZmPmhY"
+year-of-study: "Third Year"
+streaming: "https://www.youtube.com/watch?v=aYVp2FOQoCw"
 purchase:
   - https://www.wisemusicclassical.com/work/47106/A-brief-story-of-Peter-Abelard--James-Whitbourn/
 library-recording:
@@ -16,9 +17,25 @@ library-recording:
 added: 2025-04-21
 research:
   - "Duration 7 min 33 s; versions for soprano saxophone and organ, and soprano saxophone and piano; recorded on Living Voices (Naxos 8.572737) · https://www.wisemusicclassical.com/work/47106/A-brief-story-of-Peter-Abelard--James-Whitbourn/"
+  - "Exact piano edition CH78969 and soprano/piano forces. · https://www.halleonard.com/product/14041750/a-brief-story-of-peter-abelard"
+  - "Separate organ CH78958 and piano CH78969 editions. · https://www.wisemusicclassical.com/news/2447/New-Publications-Spring-2012/"
+  - "Track 12 organ version, Powell/Cowan, 7:33; piano credit belongs to track 20. · https://www.naxos.com/CatalogueDetail/?id=8.572737"
+  - "2006/11 work date and recording credits. · https://cdn.naxos.com/sharedfiles/pdf/rear/8.572737r.pdf"
+  - "Exact organ recording metadata. · https://www.youtube.com/watch?v=aYVp2FOQoCw"
 aliases: []
+publisher:
+  - "Chester Music"
 ---
+The linked recording uses soprano saxophone and organ. A separate soprano saxophone and piano edition is published as Chester Music CH78969.
+
 ## Research notes (private)
+
+### Chat batch 11 follow-up, 2026-10-14
+
+The exact piano and organ editions are distinct. Naxos’s full recording is Jeremy Powell with organist Ken Cowan, correcting the earlier piano-credit error. A University of Utah student recital also uses the organ version. Saxophone notation is unavailable.
+
+[[Review 0165 - James Whitbourn - A Brief Story of Peter Abelard|Full evidence and open questions]]
+
 
 - Duration 7 min 33 s; versions for soprano saxophone and organ, and soprano saxophone and piano; recorded on Living Voices (Naxos 8.572737) · [wisemusicclassical.com](https://www.wisemusicclassical.com/work/47106/A-brief-story-of-Peter-Abelard--James-Whitbourn/)
 

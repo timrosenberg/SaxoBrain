@@ -1,7 +1,8 @@
 ---
 title: "Frederick Speck"
 slug: frederick-speck
-nationality: []
+nationality:
+  - "🇺🇸 American"
 gender: 
 race: []
 born: 1955

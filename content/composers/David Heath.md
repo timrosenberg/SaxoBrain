@@ -1,7 +1,8 @@
 ---
 title: "David Heath"
 slug: david-heath
-nationality: []
+nationality:
+  - "🇬🇧 British"
 gender: 
 race: []
 born: 1956

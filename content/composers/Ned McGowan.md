@@ -1,7 +1,9 @@
 ---
 title: "Ned McGowan"
 slug: ned-mcgowan
-nationality: []
+nationality:
+  - "🇺🇸 American"
+  - "🇳🇱 Dutch"
 gender: 
 race: []
 born: 1970

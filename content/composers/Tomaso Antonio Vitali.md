@@ -1,7 +1,8 @@
 ---
 title: "Tomaso Antonio Vitali"
 slug: tomaso-antonio-vitali
-nationality: []
+nationality:
+  - "🇮🇹 Italian"
 gender: 
 race: []
 born: 1663

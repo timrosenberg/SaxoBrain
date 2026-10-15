@@ -1,7 +1,8 @@
 ---
 title: "Maurice Thiriet"
 slug: maurice-thiriet
-nationality: []
+nationality:
+  - "🇫🇷 French"
 gender: 
 race: []
 born: 1906

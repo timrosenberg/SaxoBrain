@@ -1,7 +1,8 @@
 ---
 title: "Doïna Rotaru"
 slug: doina-rotaru
-nationality: []
+nationality:
+  - "🇷🇴 Romanian"
 gender: 
 race: []
 born: 1951

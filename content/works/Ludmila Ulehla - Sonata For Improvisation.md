@@ -5,24 +5,42 @@ composer:
   - "[[Ludmila Ulehla]]"
 instruments:
   - "Soprano Saxophone"
+  - "Tenor Saxophone"
+  - "Piano"
+  - "Clarinet"
 composed: 
 year-of-study: 
 streaming: 
 purchase:
-  - https://www.grothmusic.com/p-144323.aspx
-  - https://studio-music.co.uk/adv08310a
+  - "https://www.grothmusic.com/p-144323.aspx"
+  - "https://studio-music.co.uk/adv08310a"
+  - "https://www.schott-music.com/en/sonata-for-improvisation-no307720.html"
 added: 2025-04-18
 research:
   - "Publisher Advance Music, grade listed as Advanced · https://studio-music.co.uk/adv08310a"
   - "Dedicated to jazz pianist Richie Beirach · https://studio-music.co.uk/adv08310a"
   - "Source credits the composer as Ludmila Ulehla; clarinet original, solo part adapted for soprano saxophone range; also playable on tenor saxophone; includes free improvisation · https://www.ejazzlines.com/sonata-for-improvisation-written-and-arranged-by-ludmila-ulehla"
   - "2002 LSU master's paper by John M. Perrine analyzes this sonata with works by Phil Woods and Bill Dobbins · https://repository.lsu.edu/gradschool_majorpapers/19"
+  - "Exact edition, clarinet origin, composer adaptation, optional tenor, improvisation and dedication. · https://www.schott-music.com/en/sonata-for-improvisation-no307720.html"
+  - "Exact stockist edition and linked PDF preview. · https://www.studio-music.co.uk/adv08310a"
+  - "DMA study abstract, 2002 date and integral improvisation. · https://repository.lsu.edu/gradschool_majorpapers/19/"
+  - "Independent stockist confirms publisher description and adaptation. · https://www.ejazzlines.com/sonata-for-improvisation-written-and-arranged-by-ludmila-ulehla"
 publisher:
   - "Schott"
 aliases:
   - /works/ladislav-ulehla-sonata-for-improvisation/
+arranger-edition:
+  - "Composer adaptation of the original B-flat clarinet part for soprano saxophone; optional tenor saxophone."
+multi-instruments: "Soprano or tenor saxophone, or B-flat clarinet, with piano"
 ---
 ## Research notes (private)
+
+### Chat batch 13 follow-up, 2026-10-14
+
+Ulehla’s composer-authored adaptation retains a clarinet original and supplies a soprano part, with tenor optional and piano required. Publisher and LSU doctoral-study evidence identify free improvisation as integral. This legitimate transcription remains for judgment. Blocked previews leave notated range and techniques unknown; no exact recording or composition date is verified.
+
+[[Review 0237 - Ludmila Ulehla - Sonata For Improvisation|Full evidence and open questions]]
+
 
 - Publisher Advance Music, grade listed as Advanced · [studio-music.co.uk](https://studio-music.co.uk/adv08310a)
 - Dedicated to jazz pianist Richie Beirach · [studio-music.co.uk](https://studio-music.co.uk/adv08310a)

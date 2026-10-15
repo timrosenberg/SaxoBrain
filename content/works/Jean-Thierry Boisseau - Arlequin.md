@@ -1,16 +1,16 @@
 ---
-title: "Arlequin"
+title: Arlequin
 slug: jean-thierry-boisseau-arlequin
 composer:
   - "[[Jean-Thierry Boisseau]]"
 instruments:
-  - "Soprano Saxophone"
-  - "Piano"
-composed: 
-year-of-study: 
-streaming: 
+  - Soprano Saxophone
+  - Piano
+composed: 2008
+year-of-study: Second Year
+streaming:
 purchase:
-  - "https://www.jwpepper.com/Arlequin/10357317.item?srsltid=AfmBOoo7hyAp52GzttwxQEFo-K92YUVWbAaSvW-KcWezWknvNJNvncB0"
+  - https://www.musicaneo.com/sheetmusic/sm-602430_arlequin_for_soprano_saxophone_and_piano.html
 added: 2025-04-16
 aliases: []
 ---

@@ -14,9 +14,20 @@ purchase:
 added: 2025-04-16
 research:
   - "Composer's page: \"for soprano sax and piano\" · https://www.leonardmarklewis.com/black-against-blue-1"
+  - "Composer scoring and purchase. · https://www.leonardmarklewis.com/black-against-blue-1"
+  - "Opening notation and LuciaMusic footer. · https://www.leonardmarklewis.com/_files/ugd/e74338_d602046b1d0a43569b3a6af4eade71b2.pdf"
 aliases: []
+publisher:
+  - "LuciaMusic"
 ---
 ## Research notes (private)
+
+### Chat batch 13 follow-up, 2026-10-14
+
+Lewis’s composer preview shows an accented piano opening with sixteenth-note chords and changing eighth-note meters. Soprano saxophone rests through most visible measures before a sustained crescendo entry. The B-flat solo staff is transposed. Full solo demands and recording remain unknown; the one-page PDF is only a preview.
+
+[[Review 0231 - Leonard Mark Lewis - Black Against Blue|Full evidence and open questions]]
+
 
 - Composer's page: "for soprano sax and piano" · [leonardmarklewis.com](https://www.leonardmarklewis.com/black-against-blue-1)
 

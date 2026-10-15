@@ -5,20 +5,40 @@ composer:
   - "[[Leonard Price]]"
 instruments:
   - "Soprano Saxophone"
+  - "Piano"
+  - "Clarinet"
 composed: 1985
 year-of-study: 
-streaming: 
+streaming: "https://www.youtube.com/watch?v=ELYsI3ezPOU"
 purchase:
   - "https://culvercrest.com/?p=2507"
+  - "https://www.halleonard.com/product/3776154/big-sur-triptych"
 added: 2025-04-18
 research:
   - "Duration 9 minutes; movements Sea Otters, Redwoods, Crags · https://culvercrest.com/?p=2507"
   - "Published 1996 by Southern Music Company; written for soprano saxophone or Bb clarinet and piano · https://culvercrest.com/?p=2507"
   - "Reviewer quoted on the composer's site: first movement bouncy, second lyrical, third with jagged and abrupt phrasings · https://culvercrest.com/?p=2507"
   - "Earliest listed performance 26 March 1985, Chapman College, California; recorded by Paul Stewart (Cambria CT-102) and Bill Wilson (Cambria CD-1056) with the composer at piano · https://culvercrest.com/?p=2507"
+  - "Composer attribution, composition and publication dates, alternate scoring, duration, movements and recording credits. · https://culvercrest.com/catalog/big-sur-triptych-duo-for-clarinet-and-piano-score-part-copy/"
+  - "Exact edition SU279 / HL03776154 and composer attribution. · https://www.halleonard.com/product/3776154/big-sur-triptych"
+  - "All three movements with Bill Wilson and Deon Nielsen Price credited, 1996 Cambria release. · https://www.youtube.com/watch?v=ELYsI3ezPOU"
+  - "Second movement title and same album/performers. · https://www.youtube.com/watch?v=iIUvHYvpyVg"
+  - "Third movement title and same album/performers. · https://www.youtube.com/watch?v=QwTtm-fP6Ew"
 aliases: []
+publisher:
+  - "Southern Music Company"
+multi-instruments: "Soprano saxophone or B-flat clarinet, with piano"
 ---
+Listen opens I. Sea Otters from the Bill Wilson soprano saxophone recording. Continue with [II. Redwoods](https://www.youtube.com/watch?v=iIUvHYvpyVg) and [III. Crags](https://www.youtube.com/watch?v=QwTtm-fP6Ew).
+
 ## Research notes (private)
+
+### Chat batch 13 follow-up, 2026-10-14
+
+Deon Nielsen Price’s composer page and Southern Music identify this nine-minute 1985 duo, published in 1996, for soprano saxophone or clarinet with piano. Three contrasting movements have verified saxophone recording links. Notation remains unavailable. The current Leonard Price attribution conflicts with both primary sources and requires correction review.
+
+[[Review 0233 - Leonard Price - Big Sur Triptych|Full evidence and open questions]]
+
 
 - Duration 9 minutes; movements Sea Otters, Redwoods, Crags · [culvercrest.com](https://culvercrest.com/?p=2507)
 - Published 1996 by Southern Music Company; written for soprano saxophone or Bb clarinet and piano · [culvercrest.com](https://culvercrest.com/?p=2507)

@@ -7,19 +7,30 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
-streaming: 
+year-of-study: "First Year"
+streaming: "https://www.youtube.com/watch?v=n2Ukc30ETIE"
 purchase:
   - https://www.grothmusic.com/p-37788.aspx
 added: 2024-03-08
 research:
   - "Publisher Alphonse Leduc, catalog no. AL21654 · https://www.grothmusic.com/p-37788.aspx"
   - "Third movement of a four-movement suite Ibert extracted from his 1936 ballet score Le Chevalier Errant; the original orchestral suite included a solo saxophone; the page dates the sax and piano version 1956 · https://www.grothmusic.com/p-37788.aspx"
+  - "AL21654 alto/piano from ballet; original catalog entry 1931, parent ballet/suite 1935; Bornkamp/Grotenhuis recording. · https://www.jacquesibert.fr/ibert/Catalogue_files/Catalogue.pdf"
+  - "Exact AL21654 alto/piano publication, 12 pages. · https://www.halleonard.com/product/48181767/lage-dor-saxophone-alto-piano"
+  - "Exact cover identifies alto/piano ballet excerpt and MCMLVI. · https://grothmusic.com/images/product/large/ae00-23504.jpg"
+  - "Retail prose dates parent ballet 1936 and piano version 1956. · https://www.grothmusic.com/p-37788.aspx"
 publisher:
   - "Alphonse Leduc"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat batch 11 follow-up, 2026-10-14
+
+Ibert L’Âge d’or: AL21654 alto/piano publication 1956 confirmed. Two short orchestral saxophone crops show sustained slurs and flowing sixteenths, with exact piano-score limits stated. Wonki Lee/Esther Lim 4:52 recording verified. Original-date 1931 versus parent 1935/1936 conflict leaves composed blank.
+
+[[Review 0158 - Jacques Ibert - L'age d'Or|Full evidence and open questions]]
+
 
 - Publisher Alphonse Leduc, catalog no. AL21654 · [grothmusic.com](https://www.grothmusic.com/p-37788.aspx)
 - Third movement of a four-movement suite Ibert extracted from his 1936 ballet score Le Chevalier Errant; the original orchestral suite included a solo saxophone; the page dates the sax and piano version 1956 · [grothmusic.com](https://www.grothmusic.com/p-37788.aspx)

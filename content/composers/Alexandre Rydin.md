@@ -1,7 +1,8 @@
 ---
 title: "Alexandre Rydin"
 slug: alexandre-rydin
-nationality: []
+nationality:
+  - "🇨🇭 Swiss"
 gender: 
 race: []
 born: 1939

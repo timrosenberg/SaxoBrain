@@ -6,8 +6,8 @@ nationality:
 gender: "Male"
 race:
   - "White"
-born: 
-died: 
+born: 1943
+died: 2013
 wikidata: 
 photo: 
 photo-credit: 

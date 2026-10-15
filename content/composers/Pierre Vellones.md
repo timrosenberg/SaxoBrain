@@ -13,4 +13,5 @@ photo: "/media/composers/pierre-vellones.jpg"
 photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Pv28.jpg"
 aliases: []
+website: http://vellones.free.fr/
 ---

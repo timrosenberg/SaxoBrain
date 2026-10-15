@@ -2,6 +2,7 @@
 title: "Denis Levaillant"
 slug: denis-levaillant
 nationality:
+  - "🇫🇷 French"
 gender:
 race:
 born: 1952

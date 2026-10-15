@@ -13,4 +13,5 @@ photo: "/media/composers/dorothy-hindman.jpg"
 photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:DorothyHindman2016.jpg"
 aliases: []
+website: https://dorothyhindman.com/
 ---

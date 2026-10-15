@@ -1,10 +1,11 @@
 ---
 title: "Gordan Tudor"
 slug: gordan-tudor
-nationality: []
+nationality:
+  - "🇭🇷 Croatian"
 gender: 
 race: []
-born: 
+born: 1982
 died: 
 wikidata: 
 photo: 

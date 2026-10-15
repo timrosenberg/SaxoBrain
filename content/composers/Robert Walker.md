@@ -1,10 +1,11 @@
 ---
 title: "Robert Walker"
 slug: robert-walker
-nationality: []
+nationality:
+  - "🇬🇧 British"
 gender: 
 race: []
-born: 
+born: 1946
 died: 
 wikidata: 
 photo: 

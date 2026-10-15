@@ -13,4 +13,5 @@ photo: "/media/composers/michio-kitazume.jpg"
 photo-credit: "Zen-On"
 photo-source: "https://www.zen-on.co.jp/files_thumbnail/co/composer/kitazume.jpg/500.jpg"
 aliases: []
+website: https://michiokitazume.com/
 ---

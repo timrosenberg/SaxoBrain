@@ -6,8 +6,8 @@ nationality:
 gender: "Male"
 race:
   - "White"
-born: 
-died: 
+born: 1919
+died: 1999
 wikidata: 
 photo: 
 photo-credit: 

@@ -1,7 +1,8 @@
 ---
 title: "Bent Lorentzen"
 slug: bent-lorentzen
-nationality: []
+nationality:
+  - "🇩🇰 Danish"
 gender: 
 race: []
 born: 1935

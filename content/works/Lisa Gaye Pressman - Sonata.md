@@ -14,9 +14,20 @@ purchase:
 added: 2024-03-08
 research:
   - "Dorn DORN0187 · https://www.grothmusic.com/p-145621.aspx"
+  - "Exact edition and scoring. · https://www.grothmusic.com/p-145621.aspx"
+  - "Concert-pitch solo label and opening notation. · https://grothmusic.com/images/product/large/ae00-126511.jpg"
 aliases: []
+publisher:
+  - "Dorn Publications"
 ---
 ## Research notes (private)
+
+### Chat batch 13 follow-up, 2026-10-14
+
+Pressman’s supplied manuscript page contains a chromatic slurred solo line, meter changes and dynamic shaping over repeated low piano patterns with pedal. The alto staff is explicitly in concert pitch, so its notes cannot be treated as written saxophone range. Complete movements, date, recording, and separate solo part remain unverified.
+
+[[Review 0235 - Lisa Gaye Pressman - Sonata|Full evidence and open questions]]
+
 
 - Dorn DORN0187 · [grothmusic.com](https://www.grothmusic.com/p-145621.aspx)
 

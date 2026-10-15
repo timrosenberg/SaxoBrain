@@ -14,9 +14,21 @@ purchase:
 added: 2024-03-08
 research:
   - "Publisher Dorn Publications, catalog no. DORN0190 · https://www.grothmusic.com/p-146052.aspx"
+  - "DORN0190 alto saxophone/piano edition. · https://www.grothmusic.com/p-146052.aspx"
+  - "Alfred Cochran dedication, 1987 copyright, resting cue staff and piano opening. · https://grothmusic.com/images/product/large/ae00-126911.jpg"
+  - "Band commission, 1976 premiere report and eight-minute duration. · https://www.worldradiohistory.com/Archive-All-Music/Billboard/70s/1976/Billboard%201976-10-02.pdf"
 aliases: []
+publisher:
+  - "Dorn Publications"
 ---
 ## Research notes (private)
+
+### Chat batch 11 follow-up, 2026-10-14
+
+The Dorn piano edition is verified and its opening score is dedicated to Alfred Cochran. The sample contains only saxophone rests above a chromatic piano introduction, so it cannot establish solo difficulty. A contemporary Billboard report documents a professional Bicentennial Band commission and premiere in 1976.
+
+[[Review 0164 - James Richens - Another Autumn|Full evidence and open questions]]
+
 
 - Publisher Dorn Publications, catalog no. DORN0190 · [grothmusic.com](https://www.grothmusic.com/p-146052.aspx)
 

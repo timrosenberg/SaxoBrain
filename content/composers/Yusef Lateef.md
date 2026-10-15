@@ -13,4 +13,5 @@ photo: "/media/composers/yusef-lateef.jpg"
 photo-credit: 
 photo-source: "Notion upload"
 aliases: []
+website: https://yuseflateef.com/
 ---

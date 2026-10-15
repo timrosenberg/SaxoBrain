@@ -13,4 +13,5 @@ photo: "/media/composers/phil-woods.jpg"
 photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Phil_woods_oslo_2007_1.jpg"
 aliases: []
+website: https://www.philwoods.com
 ---

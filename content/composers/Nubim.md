@@ -1,7 +1,8 @@
 ---
 title: "Nubim"
 slug: nubim
-nationality: []
+nationality:
+  - "🇰🇷 South Korean"
 gender: 
 race: []
 born: 
@@ -11,4 +12,5 @@ photo:
 photo-credit: 
 photo-source: 
 aliases: []
+website: https://www.nubim.net/
 ---

@@ -2,6 +2,7 @@
 title: "John David Lamb"
 slug: john-david-lamb
 nationality:
+  - "🇺🇸 American"
 gender:
 race:
 born: 1935

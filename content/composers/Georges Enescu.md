@@ -1,7 +1,8 @@
 ---
 title: "Georges Enescu"
 slug: georges-enescu
-nationality: []
+nationality:
+  - "🇷🇴 Romanian"
 gender: 
 race: []
 born: 1881

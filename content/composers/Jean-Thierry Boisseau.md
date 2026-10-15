@@ -1,16 +1,17 @@
 ---
-title: "Jean-Thierry Boisseau"
+title: Jean-Thierry Boisseau
 slug: jean-thierry-boisseau
 nationality:
-  - "🇫🇷 French"
-gender: "Male"
+  - 🇫🇷 French
+gender: Male
 race:
-  - "White"
+  - White
 born: 1949
-died: 
+died:
 wikidata: Q3170036
-photo: 
-photo-credit: 
-photo-source: 
+photo: "/media/composers/jean-thierry-boisseau.jpg"
+photo-credit: classicalmusicnow.com
+photo-source: http://www.classicalmusicnow.com/images/jtb250.jpg
 aliases: []
+website: http://www.jean-thierryboisseau.com
 ---

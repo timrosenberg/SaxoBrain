@@ -13,4 +13,5 @@ photo: "/media/composers/thierry-escaich.jpg"
 photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Musique_%C3%A0_l%27Emp%C3%A9ri_festival_2009_(3903101377).jpg"
 aliases: []
+website: http://www.escaich.org
 ---

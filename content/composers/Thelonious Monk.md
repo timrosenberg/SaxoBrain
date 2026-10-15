@@ -13,4 +13,5 @@ photo: "/media/composers/thelonious-monk.jpg"
 photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Thelonious_Monk,_Minton%27s_Playhouse,_New_York,_N.Y.,_ca._Sept._1947_(William_P._Gottlieb_06191).jpg"
 aliases: []
+website: http://www.monkzone.com/
 ---

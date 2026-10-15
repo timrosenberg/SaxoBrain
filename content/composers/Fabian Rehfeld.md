@@ -1,7 +1,8 @@
 ---
 title: "Fabian Rehfeld"
 slug: fabian-rehfeld
-nationality: []
+nationality:
+  - "🇩🇪 German"
 gender: 
 race: []
 born: 1842

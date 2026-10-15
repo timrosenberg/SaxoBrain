@@ -1,11 +1,12 @@
 ---
 title: "Robert Sibbing"
 slug: robert-sibbing
-nationality: []
+nationality:
+  - "🇺🇸 American"
 gender: 
 race: []
-born: 
-died: 
+born: 1929
+died: 2017
 wikidata: 
 photo: 
 photo-credit: 

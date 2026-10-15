@@ -8,17 +8,28 @@ instruments:
   - "Piano"
 composed: 1988
 year-of-study: 
-streaming: 
+streaming: "https://katherineannmurdock.com/terra-incognita-1988/"
 purchase:
   - https://www.grothmusic.com/p-145599.aspx
 added: 2024-03-08
 research:
   - "Dorn DORN0181 · https://www.grothmusic.com/p-145599.aspx"
+  - "1988, ten minutes, commission, premiere, recording credits and documented techniques. · https://katherineannmurdock.com/terra-incognita-1988/"
+  - "1988 alto/piano work. · https://katherineannmurdock.com/works/"
+  - "Dorn DORN0181 edition. · https://www.grothmusic.com/p-145599.aspx"
+  - "Three-page C-score sample with inside-piano instructions and saxophone effects inspected. · https://katherineannmurdock.com/wp-content/uploads/2016/03/terra-incognita.pdf"
 publisher:
   - "Dorn Publications"
 aliases: []
 ---
 ## Research notes (private)
+
+### Chat batch 13 follow-up, 2026-10-14
+
+Terra Incognita’s three-page concert-pitch sample shows inside-piano plucking, scraping and string slaps before the saxophone enters. Later saxophone writing includes glissandos, trills, tuplets and accelerating runs. Murdock documents a 1988 saxophone-association premiere and ten-minute duration. A composer-hosted recording is available; the complete score remains uninspected.
+
+[[Review 0217 - Katherine Ann Murdock - Terra Incognita|Full evidence and open questions]]
+
 
 - Dorn DORN0181 · [grothmusic.com](https://www.grothmusic.com/p-145599.aspx)
 

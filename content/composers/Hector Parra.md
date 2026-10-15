@@ -13,4 +13,5 @@ photo: "/media/composers/hector-parra.jpg"
 photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Hectorparra.jpg"
 aliases: []
+website: https://www.hectorparra.net/
 ---

@@ -14,9 +14,21 @@ purchase:
 added: 2024-03-08
 research:
   - "Dorn DORN0159; four movements: Tranquility, Indecision, Melancholy, Zest · https://www.grothmusic.com/p-146278.aspx"
+  - "Exact DORN0159 edition is alto saxophone and piano, four movements Tranquility, Indecision, Melancholy and Zest; copyright 2002. · https://www.grothmusic.com/p-146278.aspx"
+  - "Opening Tranquility notation and copyright inspected; slow sustained phrases, chromatic gestures, changing meter and quiet piano responses. · https://grothmusic.com/images/product/large/ae00-127109.jpg"
+  - "Dorn publisher catalog lists DeYoung Impressions, order 159, under alto saxophone and piano. · https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf"
 aliases: []
+publisher:
+  - "Dorn Publications"
 ---
 ## Research notes (private)
+
+### Chat batch 13 follow-up, 2026-10-14
+
+Four movements for alto and piano. Inspected Tranquility opening is slow, quarter note 52, with sustained slurred notes, chromatic eighth-note gestures and changes between 3/4 and 4/4. Piano enters quietly after the opening solo phrase. Later movements and recording remain unknown. The 2002 date is copyright.
+
+[[Review 0238 - Lynden De Young - Impressions|Full evidence and open questions]]
+
 
 - Dorn DORN0159; four movements: Tranquility, Indecision, Melancholy, Zest · [grothmusic.com](https://www.grothmusic.com/p-146278.aspx)
 

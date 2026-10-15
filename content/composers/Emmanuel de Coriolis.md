@@ -5,8 +5,8 @@ nationality:
   - "🇫🇷 French"
 gender: "Male"
 race: []
-born: 
-died: 
+born: 1907
+died: 1977
 wikidata: 
 photo: 
 photo-credit: 
