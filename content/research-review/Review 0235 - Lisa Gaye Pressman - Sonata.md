@@ -3,8 +3,8 @@ title: "Review 0235: Lisa Gaye Pressman - Sonata"
 added: 2026-10-11
 review-id: 235
 review-packet: 10
-review-decision: Pending
-review-applied: false
+review-decision: "Third Year"
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Lisa Gaye Pressman - Sonata]]"
 build:
@@ -42,3 +42,7 @@ Open questions: Composition date and publication date not reliably readable from
 Sources checked:
 - [Groth Music](https://www.grothmusic.com/p-145621.aspx): Exact edition and scoring. (opened)
 - [Dorn via Groth](https://grothmusic.com/images/product/large/ae00-126511.jpg): Concert-pitch solo label and opening notation. (score_inspected)
+
+## Chat Batch 13 Decision, 2026-10-14
+
+Tim assigned Third Year.

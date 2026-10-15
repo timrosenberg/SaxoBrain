@@ -3,8 +3,8 @@ title: "Review 0236: Lucie Robert-Diessel - 3 Chanson"
 added: 2026-10-11
 review-id: 236
 review-packet: 10
-review-decision: Pending
-review-applied: false
+review-decision: "Second Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Lucie Robert-Diessel - 3 Chanson]]"
 build:
@@ -42,3 +42,7 @@ Open questions: Composition year remains unknown; do not substitute 1999 copyrig
 Sources checked:
 - [Éditions Billaudot](https://www.billaudot.com/gb6489-6.html): Exact title, scoring, edition, collection and copyright year. (opened)
 - [Bibliothèque nationale de France](https://catalogue.bnf.fr/ark:/12148/cb396359406): Exact score-and-part catalog record, publication/copyright and pagination. (opened)
+
+## Chat Batch 13 Decision, 2026-10-14
+
+Tim assigned Second Year.

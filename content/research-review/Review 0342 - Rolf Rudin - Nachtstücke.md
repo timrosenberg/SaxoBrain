@@ -3,10 +3,10 @@ title: "Review 0342: Rolf Rudin - Nachtstücke"
 added: 2026-10-11
 review-id: 342
 review-packet: 14
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Rolf Rudin - Nachtstücke]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog entry: [[Rolf Rudin - Nachtstücke]].
+Catalog: removed at Tim’s request on October 14, 2026.
 
 Rolf Rudin's Nachtstücke, Op. 9, is an alto saxophone and piano cycle of seven titled sections, about 14 minutes; commercial records disagree on page count.
 [Stretta Music listing](https://www.stretta-music.de/rudin-nachtstuecke-nr-275480.html) (opened): An opened Stretta listing gives the instrumentation, 14-minute duration, 32 pages, and seven movement titles.
@@ -37,3 +37,7 @@ Open questions: No score preview or performance inspected. Edition pagination co
 Searches checked:
 - Rolf Rudin Nachtstücke Op 9 Bote Bock score
 - Nachtstücke Rudin seven movements
+
+## Catalog Removal, October 14, 2026
+
+Tim requested removal from the catalog. The private evidence log is retained.

@@ -1,14 +1,16 @@
 ---
-title: "Jean Sichler"
+title: Jean Sichler
 slug: jean-sichler
-nationality: []
-gender: 
-race: []
+nationality:
+  - 🇫🇷 French
+gender: Male
+race:
+  - White
 born: 1933
-died: 
+died:
 wikidata: Q133613421
-photo: 
-photo-credit: 
-photo-source: 
+photo: "/media/composers/jean-sichler.jpg"
+photo-credit: editions-delatour.com
+photo-source: https://www.editions-delatour.com/img/su//363-home_default.jpg?1728977166
 aliases: []
 ---

@@ -3,10 +3,10 @@ title: "Review 0238: Lynden De Young - Impressions"
 added: 2026-10-11
 review-id: 238
 review-packet: 10
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: true
-catalog-entry: "[[Lynden De Young - Impressions]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [[Lynden De Young - Impressions]]
+Catalog: removed at Tim’s request on 2026-10-14.
 
 - Identity: Dorn catalog identifies Lynden De Young’s Impressions for alto saxophone and piano, no. DORN0159, with four movements titled Tranquility, Indecision, Melancholy, and Zest. Searches found no primary score, recording, or pedagogical placement.
 - Dorn catalog lists Impressions by Lynden De Young, no. 159, with instrumentation and movement labels from the listing. [Dorn Publications catalog](https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf) (search_index_only).
@@ -43,3 +43,7 @@ Sources checked:
 - [Groth Music, Dorn edition listing](https://www.grothmusic.com/p-146278.aspx): Exact DORN0159 edition is alto saxophone and piano, four movements Tranquility, Indecision, Melancholy and Zest; copyright 2002. (opened)
 - [Dorn Publications score image supplied by Groth Music](https://grothmusic.com/images/product/large/ae00-127109.jpg): Opening Tranquility notation and copyright inspected; slow sustained phrases, chromatic gestures, changing meter and quiet piano responses. (score_inspected)
 - [Dorn Publications April 2025 catalog](https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf): Dorn publisher catalog lists DeYoung Impressions, order 159, under alto saxophone and piano. (opened)
+
+## Chat Batch 13 Decision, 2026-10-14
+
+Tim requested removal from the catalog. The private evidence log is retained.

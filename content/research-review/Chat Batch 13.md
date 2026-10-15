@@ -9,11 +9,11 @@ build:
 
 # Chat Batch 13
 
-Twenty-five unassigned works. Give decisions using chat numbers 1–25. All difficulty levels remain for Tim to choose. Verified metadata is added to the work pages; evidence limits appear below. Recording verification and any audition limits are recorded per work.
+Decisions recorded 2026-10-14: fifteen level assignments, nine removals and one hold for unknown difficulty. Chat numbers 1–25 identify this batch. Verified metadata is added to the work pages; evidence limits appear below. Recording verification and any audition limits are recorded per work.
 
 ## 1. Jérôme Naulais - Au Hasard D'Une Note
 
-[[Jérôme Naulais - Au Hasard D'Une Note|Work page]] · [[Review 0213 - Jérôme Naulais - Au Hasard D'Une Note|Full review]]
+Removed from catalog · [[Review 0213 - Jérôme Naulais - Au Hasard D'Une Note|Full review]]
 
 Au hasard d’une note is an original 2:45 work with alto and alternate tenor parts. The publisher cover labels it first cycle, which matters for a college-focused selection. No notation was located, so range and articulation remain unknown. A public competition performance is available, although its upload does not name the composer.
 
@@ -27,11 +27,11 @@ Au hasard d’une note is an original 2:45 work with alto and alternate tenor pa
 
 **Recording documentation:** [Max, Au hasard d’une note, Paris competition performance, upload length 2:53. (public performance, attribution limited)](https://www.youtube.com/watch?v=CYylZxuTxn0)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Removed. Applied 2026-10-14.
 
 ## 2. Jérôme Naulais - Kansax-City
 
-[[Jérôme Naulais - Kansax-City|Work page]] · [[Review 0214 - Jérôme Naulais - Kansax-City|Full review]]
+Removed from catalog · [[Review 0214 - Jérôme Naulais - Kansax-City|Full review]]
 
 Kansax-City is Billaudot’s alto and piano piece, with an explicit preparatory label on its cover. A credited saxophone-and-piano performance is publicly available. The retailer gives 2:20, but notation was not exposed. Its pedagogical positioning is clear; specific range, rhythms and articulation remain unverified.
 
@@ -45,7 +45,7 @@ Kansax-City is Billaudot’s alto and piano piece, with an explicit preparatory 
 
 **Listen:** [Daniel Simón, alto saxophone; Oscar Carreras, piano, Breath&Play Saxophone upload (2:38). (verified public performance)](https://www.youtube.com/watch?v=BjC35XmVyfw)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Removed. Applied 2026-10-14.
 
 ## 3. Jérôme Naulais - Metamorphoses
 
@@ -65,7 +65,7 @@ Métamorphoses exposes a freely paced opening with rapid grouped runs, accidenta
 
 **Listen:** [Jan Schaeken, saxophone; Krissie de Waard, piano, Musicians for Life concert 2018 (6:47 upload). (verified public performance)](https://www.youtube.com/watch?v=ObedOM6IEqI)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Third Year. Applied 2026-10-14.
 
 ## 4. Karsten Fundal - A Portrait of Silence
 
@@ -83,7 +83,7 @@ A Portrait of Silence is a 2011 chamber work requiring alto saxophone, percussio
 
 **Listen:** [Trio ZOOM premiere, Tanja Zapolski, piano; Stefan Baur, saxophone; Ying-Hsueh Chen, percussion (11:10 upload). (verified public premiere performance)](https://www.youtube.com/watch?v=PGMELfXzmkQ) · [Ekkozone album track 8, label lists11:13 and provides excerpt player. (label recording metadata and excerpt verified)](https://www.dacapo-records.dk/en/recordings/fundal-ekkozone-performs-karsten-fundal)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Third Year. Applied 2026-10-14.
 
 ## 5. Katherine Ann Murdock - Terra Incognita
 
@@ -103,7 +103,9 @@ Terra Incognita’s three-page concert-pitch sample shows inside-piano plucking,
 
 **Listen:** [Embedded SoundCloud recording credited to Carolyn J. Bryan, alto saxophone, and Karla Rocker, piano. (composer-authenticated recording page)](https://katherineannmurdock.com/terra-incognita-1988/)
 
-**Tim’s decision:** Pending.
+**Current streaming:** [Tim’s selected SoundCloud recording](https://soundcloud.com/katherine-ann-murdock/terra-incognita)
+
+**Tim’s decision:** Fourth Year. Applied 2026-10-14.
 
 ## 6. Kenneth Walicki - Rhapsody
 
@@ -121,7 +123,7 @@ Walicki dates this 12-minute alto saxophone and piano work to 1985. The concert-
 
 **Score or purchase:** [First page of Dorn DORN0204, C score, visually inspected.](https://grothmusic.com/images/product/large/ae00-126999.jpg) · [Composer-hosted typeset score, beginning and final pages inspected; completeness uncertain.](https://storage.googleapis.com/production-netfirms-v1-0-5/355/1939355/UDClDPQr/995b647718784c9693db67350cde0186?fileName=Rhapsody%20for%20alto%20sax%20and%20piano%20-%20Score.pdf)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Fourth Year. Applied 2026-10-14.
 
 ## 7. Kenneth Walicki - Three Line Rags
 
@@ -139,7 +141,7 @@ Three Line Rags has substantial chromatic, syncopated saxophone and piano writin
 
 **Score or purchase:** [Opening page of movement 1, Kredit Kard Krash Rag, C score, visually inspected.](https://grothmusic.com/images/product/large/ae00-126998.jpg) · [Complete revised composer-hosted score, transposed alto, front matter, movement openings and ending inspected.](https://storage.googleapis.com/production-netfirms-v1-0-5/355/1939355/UDClDPQr/264a83f47cdd43eba65f2b12f31646b3?fileName=3%20Line%20Rags-COMPLETE.pdf)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Fourth Year. Applied 2026-10-14.
 
 ## 8. Kent Holliday - Sonata
 
@@ -157,7 +159,7 @@ Holliday’s three-movement Sonata includes a piano score and alto part. The ins
 
 **Score or purchase:** [Exact Dorn Sonata opening Invocation score page, visually inspected.](https://grothmusic.com/images/product/large/ae00-121776_2_.jpg)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Third Year. Applied 2026-10-14.
 
 ## 9. Kent Holliday - Sonatina
 
@@ -175,11 +177,11 @@ The first score page confirms brisk chromatic saxophone writing, shifting eighth
 
 **Score or purchase:** [Opened public Groth notation preview, one opening page only.](https://www.grothmusic.com/images/product/large/ae00-136275.jpg)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Third Year. Applied 2026-10-14.
 
 ## 10. Kevin Howard - Ballade
 
-[[Kevin Howard - Ballade|Work page]] · [[Review 0222 - Kevin Howard - Ballade|Full review]]
+Removed from catalog · [[Review 0222 - Kevin Howard - Ballade|Full review]]
 
 Groth confirms Ballade for alto saxophone and piano, Dorn DORN1936. Its sample reveals the piano accompaniment in 6/8 with slurred figures and dynamic shaping. The page belongs to a three-piece set and includes an arranger placeholder. Saxophone notation, composition date, source-work identity and an exact recording remain unverified.
 
@@ -193,11 +195,11 @@ Groth confirms Ballade for alto saxophone and piano, Dorn DORN1936. Its sample r
 
 **Score or purchase:** [Opened public Groth notation preview, one opening page only.](https://www.grothmusic.com/images/product/large/ae00-125873.jpg)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Removed. Applied 2026-10-14.
 
 ## 11. Kevin Howard - Elegy
 
-[[Kevin Howard - Elegy|Work page]] · [[Review 0223 - Kevin Howard - Elegy|Full review]]
+Removed from catalog · [[Review 0223 - Kevin Howard - Elegy|Full review]]
 
 Groth confirms Elegy for alto saxophone and piano, Dorn DORN1938. The opening piano sample shows Adagio, 3/4, chromatic runs and triplet and quintuplet figures. It identifies Elegy as the second of three pieces. Saxophone demands, arrangement status, composition date and an exact accessible recording remain unverified.
 
@@ -211,11 +213,11 @@ Groth confirms Elegy for alto saxophone and piano, Dorn DORN1938. The opening pi
 
 **Score or purchase:** [Opened public Groth notation preview, one opening page only.](https://www.grothmusic.com/images/product/large/ae00-125875.jpg)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Removed. Applied 2026-10-14.
 
 ## 12. Kevin Howard - Meditation No. 2
 
-[[Kevin Howard - Meditation No. 2|Work page]] · [[Review 0224 - Kevin Howard - Meditation No. 2|Full review]]
+Removed from catalog · [[Review 0224 - Kevin Howard - Meditation No. 2|Full review]]
 
 Groth confirms Meditation No. 2 for alto saxophone and piano, Dorn DORN1935. The opening piano sample shows Adagio in 5/8, sustained chromatic low chords and later slurred treble figures. Literal subtitle and arranger placeholders leave source status unresolved. No saxophone notation, verified composition date or exact recording was located.
 
@@ -229,11 +231,11 @@ Groth confirms Meditation No. 2 for alto saxophone and piano, Dorn DORN1935. The
 
 **Score or purchase:** [Opened public Groth notation preview, one opening page only.](https://www.grothmusic.com/images/product/large/ae00-125563.jpg)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Removed. Applied 2026-10-14.
 
 ## 13. Kevin Howard - Rondo
 
-[[Kevin Howard - Rondo|Work page]] · [[Review 0225 - Kevin Howard - Rondo|Full review]]
+Removed from catalog · [[Review 0225 - Kevin Howard - Rondo|Full review]]
 
 Groth confirms Rondo for alto saxophone and piano, Dorn DORN1939. The piano sample shows 5/8, chromatic runs, a trill and dynamic shaping within a three-piece set. The arranger placeholder does not establish a transcription. Saxophone demands, source-work identity, composition date and an exact accessible recording remain unverified.
 
@@ -247,7 +249,7 @@ Groth confirms Rondo for alto saxophone and piano, Dorn DORN1939. The piano samp
 
 **Score or purchase:** [Opened public Groth notation preview, one opening page only.](https://www.grothmusic.com/images/product/large/ae00-125871.jpg)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Removed. Applied 2026-10-14.
 
 ## 14. Kristina Williamson - Ballade
 
@@ -265,7 +267,7 @@ The inspected opening of Ballade confirms slow chromatic phrasing, triplets, qui
 
 **Score or purchase:** [Opened public Groth notation preview, one opening page only.](https://www.grothmusic.com/images/product/large/ae00-126991_2_.jpg)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Second Year. Applied 2026-10-14.
 
 ## 15. Kumiko Tanaka - La Brise
 
@@ -283,7 +285,7 @@ Billaudot confirms La brise for alto saxophone and piano, GB7021, in the Daniel 
 
 **Score or purchase:** [Inspected dealer cover only; no music notation.](https://www.grothmusic.com/images/product/large/1071-524-08414.jpg)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Hold (difficulty unknown). Remains unassigned.
 
 ## 16. Laura Karpman - Capriccio
 
@@ -301,7 +303,7 @@ Capriccio’s handwritten opening shows changing meters, chromatic gestures, abr
 
 **Score or purchase:** [Opened public Groth notation preview, one opening page only.](https://www.grothmusic.com/images/product/large/ae00-126433.jpg)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Fourth Year. Applied 2026-10-14.
 
 ## 17. Leo Kraft - Three Pieces
 
@@ -319,7 +321,7 @@ Kraft’s first score page gives 1977, separately from its 1979 copyright. The o
 
 **Score or purchase:** [Dorn first score page](https://grothmusic.com/images/product/large/ae00-126439.jpg)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Fourth Year. Applied 2026-10-14.
 
 ## 18. Leonard Mark Lewis - Black Against Blue
 
@@ -337,7 +339,7 @@ Lewis’s composer preview shows an accented piano opening with sixteenth-note c
 
 **Score or purchase:** [Composer one-page opening preview](https://www.leonardmarklewis.com/_files/ugd/e74338_d602046b1d0a43569b3a6af4eade71b2.pdf)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Third Year. Applied 2026-10-14.
 
 ## 19. Leonard Mark Lewis - Prelude
 
@@ -357,11 +359,11 @@ Prelude’s eight-bar preview shows a sustained soprano line with long slurs, dy
 
 **Recording documentation:** [Exact album containing Prelude, Kenneth Tse and Alan Huckleberry, Crystal CD658. (album identity verified no direct track)](https://www.kenneth-tse.com/discography/lyric-soprano)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Third Year. Applied 2026-10-14.
 
 ## 20. Leonard Price - Big Sur Triptych
 
-[[Leonard Price - Big Sur Triptych|Work page]] · [[Review 0233 - Leonard Price - Big Sur Triptych|Full review]]
+Removed from catalog · [[Review 0233 - Leonard Price - Big Sur Triptych|Full review]]
 
 Deon Nielsen Price’s composer page and Southern Music identify this nine-minute 1985 duo, published in 1996, for soprano saxophone or clarinet with piano. Three contrasting movements have verified saxophone recording links. Notation remains unavailable. The current Leonard Price attribution conflicts with both primary sources and requires correction review.
 
@@ -375,11 +377,11 @@ Deon Nielsen Price’s composer page and Southern Music identify this nine-minut
 
 **Listen:** [I. Sea Otters, Bill Wilson soprano saxophone and Deon Nielsen Price piano; 130 seconds. (metadata verified not auditioned)](https://www.youtube.com/watch?v=ELYsI3ezPOU) · [II. Redwoods, same saxophone recording; 199 seconds. (metadata verified not auditioned)](https://www.youtube.com/watch?v=iIUvHYvpyVg) · [III. Crags, same saxophone recording; 106 seconds. (metadata verified not auditioned)](https://www.youtube.com/watch?v=QwTtm-fP6Ew) · [Complete live clarinet version, Berkeley Price and Deon Nielsen Price, Chinese University of Hong Kong, October 18, 2012. (metadata verified not auditioned)](https://www.youtube.com/watch?v=GmPxBQ7cViA)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Removed. Applied 2026-10-14.
 
 ## 21. Leroy Ostransky - Suite
 
-[[Leroy Ostransky - Suite|Work page]] · [[Review 0234 - Leroy Ostransky - Suite|Full review]]
+Removed from catalog · [[Review 0234 - Leroy Ostransky - Suite|Full review]]
 
 Ostransky’s original Suite has three movements, Prelude, Chaconne and Presto, in the verified Rubank alto-and-piano edition. Publisher Level 4 and the Solo/Ensemble series provide context without assigning a study year. The available preview does not expose notation. Specific range and technical demands, composition date, and recording remain unknown.
 
@@ -391,7 +393,7 @@ Ostransky’s original Suite has three movements, Prelude, Chaconne and Presto, 
 
 **Score or purchase:** [Exact Rubank edition, no functioning notation preview](https://www.halleonard.com/product/4471880/suite-for-alto-saxophone)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Removed. Applied 2026-10-14.
 
 ## 22. Lisa Gaye Pressman - Sonata
 
@@ -409,7 +411,7 @@ Pressman’s supplied manuscript page contains a chromatic slurred solo line, me
 
 **Score or purchase:** [Dorn-supplied manuscript score opening](https://grothmusic.com/images/product/large/ae00-126511.jpg)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Third Year. Applied 2026-10-14.
 
 ## 23. Lucie Robert-Diessel - 3 Chanson
 
@@ -425,7 +427,7 @@ Billaudot and France’s national library verify the plural title 3 chansons, E-
 
 **Score or purchase:** [Exact Billaudot edition; only main product image, no readable notation located](https://www.billaudot.com/gb6489-6.html)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Second Year. Applied 2026-10-14.
 
 ## 24. Ludmila Ulehla - Sonata For Improvisation
 
@@ -441,11 +443,11 @@ Ulehla’s composer-authored adaptation retains a clarinet original and supplies
 
 **Score or purchase:** [Schott preview endpoint, access blocked](https://www.schott-music.com/en/preview/viewer/index/?dl=0&idx=MzA3NzIw&idy=307720) · [Studio Music linked public preview PDF, HTTP 403](https://sastudiomusic.s3.eu-west-2.amazonaws.com/smf/pdf/8310b.pdf)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Third Year. Applied 2026-10-14.
 
 ## 25. Lynden De Young - Impressions
 
-[[Lynden De Young - Impressions|Work page]] · [[Review 0238 - Lynden De Young - Impressions|Full review]]
+Removed from catalog · [[Review 0238 - Lynden De Young - Impressions|Full review]]
 
 Four movements for alto and piano. Inspected Tranquility opening is slow, quarter note 52, with sustained slurred notes, chromatic eighth-note gestures and changes between 3/4 and 4/4. Piano enters quietly after the opening solo phrase. Later movements and recording remain unknown. The 2002 date is copyright.
 
@@ -459,4 +461,4 @@ Four movements for alto and piano. Inspected Tranquility opening is slow, quarte
 
 **Score or purchase:** [Dorn DORN0159, movement I Tranquility, first piano-score page only.](https://grothmusic.com/images/product/large/ae00-127109.jpg)
 
-**Tim’s decision:** Pending.
+**Tim’s decision:** Removed. Applied 2026-10-14.

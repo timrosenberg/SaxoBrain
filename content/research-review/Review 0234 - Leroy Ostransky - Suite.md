@@ -3,10 +3,10 @@ title: "Review 0234: Leroy Ostransky - Suite"
 added: 2026-10-11
 review-id: 234
 review-packet: 10
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Leroy Ostransky - Suite]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [[Leroy Ostransky - Suite]]
+Catalog: removed at Tim’s request on 2026-10-14.
 
 - Identity: Hal Leonard’s Rubank listing identifies Leroy Ostransky’s Suite for alto saxophone and piano, code RUBL302 / 04471880, at publisher Level 4 and 12 pages. A Luxembourg government saxophone syllabus lists it under Division inférieure, 1ère mention.
 - Hal Leonard identifies instrumentation, Rubank code, page count, and publisher Level 4. [Hal Leonard](https://www.halleonard.com/product/4471880/suite-for-alto-saxophone) (opened).
@@ -42,3 +42,7 @@ Open questions: Composition date and edition publication date unknown. No notati
 Sources checked:
 - [Hal Leonard / Rubank](https://www.halleonard.com/product/4471880/suite-for-alto-saxophone): Rubank edition, scoring, 12 pages and publisher difficulty label. (opened)
 - [Groth Music](https://www.grothmusic.com/p-63638.aspx): Three movement titles. (opened)
+
+## Chat Batch 13 Decision, 2026-10-14
+
+Tim requested removal from the catalog. The private evidence log is retained.

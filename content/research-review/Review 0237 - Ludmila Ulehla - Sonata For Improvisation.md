@@ -3,8 +3,8 @@ title: "Review 0237: Ludmila Ulehla - Sonata For Improvisation"
 added: 2026-10-11
 review-id: 237
 review-packet: 10
-review-decision: Pending
-review-applied: false
+review-decision: "Third Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Ludmila Ulehla - Sonata For Improvisation]]"
 build:
@@ -47,3 +47,7 @@ Sources checked:
 - [Studio Music](https://www.studio-music.co.uk/adv08310a): Exact stockist edition and linked PDF preview. (opened)
 - [Louisiana State University](https://repository.lsu.edu/gradschool_majorpapers/19/): DMA study abstract, 2002 date and integral improvisation. (opened)
 - [eJazzLines](https://www.ejazzlines.com/sonata-for-improvisation-written-and-arranged-by-ludmila-ulehla): Independent stockist confirms publisher description and adaptation. (opened)
+
+## Chat Batch 13 Decision, 2026-10-14
+
+Tim assigned Third Year.

@@ -3,10 +3,10 @@ title: "Review 0320: Richard Phillips - Petit Bal"
 added: 2026-10-11
 review-id: 320
 review-packet: 13
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Richard Phillips - Petit Bal]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,9 +22,13 @@ build:
 
 ## Research
 
-Catalog: [[Richard Phillips - Petit Bal]]
+Catalog: removed at Tim’s request on October 14, 2026.
 
 - Identity: Leduc lists Richard Phillips’s Petit Bal as an alto saxophone and piano work, code AL29807. No score preview, recording, or pedagogical use was found.
 - Leduc catalog identifies Petit Bal for alto saxophone and piano, AL29807. [Alphonse Leduc catalog](https://casamusicaledelrio.it/casamusicale/wp-content/uploads/2019/04/CAT-18-107-Leduc-Catalogue-2018-ss-GS-v6-NO-CROPS-LO-RESv2.pdf) (search_index_only).
 - Collection/use: Published saxophone/piano work; audience and origin unknown.
 - Gaps: No score, performance recording, date, or educational context found.
+
+## Catalog Removal, October 14, 2026
+
+Tim requested removal from the catalog. The private evidence log is retained.

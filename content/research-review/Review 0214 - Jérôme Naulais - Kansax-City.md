@@ -3,10 +3,10 @@ title: "Review 0214: Jérôme Naulais - Kansax-City"
 added: 2026-10-11
 review-id: 214
 review-packet: 9
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Jérôme Naulais - Kansax-City]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [Jérôme Naulais - Kansax-City.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Jérôme Naulais - Kansax-City.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0214.json).
+Catalog: removed at Tim’s request on 2026-10-14.
 
 **Identity and findings.** Billaudot GB5255 identifies Jérôme Naulais’s Kansax-City for alto saxophone and piano. An Adolphesax post contains a performance video by saxophonist Efrem Roca with the original score credited to Billaudot; playback was not auditioned. Retailer pages identify instrumentation, but no score was visually inspected.
 
@@ -59,3 +59,7 @@ Sources checked:
 - [Billaudot cover via Groth](https://grothmusic.com/images/product/large/ae00-125997.jpg): Preparatory publisher label and teaching-series identity. (opened)
 - [June Emerson Wind Music](https://www.juneemersonwindmusic.com/KANSAX-CITY.html): Duration 2:20, issue year 1992. (opened)
 - [Breath&Play Saxophone / YouTube](https://www.youtube.com/watch?v=BjC35XmVyfw): Composer, alto/piano, Billaudot, named performers and public availability. (opened)
+
+## Chat Batch 13 Decision, 2026-10-14
+
+Tim requested removal from the catalog. The private evidence log is retained.

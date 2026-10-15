@@ -3,10 +3,10 @@ title: "Review 0213: Jérôme Naulais - Au Hasard D'Une Note"
 added: 2026-10-11
 review-id: 213
 review-packet: 9
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Jérôme Naulais - Au Hasard D'Une Note]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [Jérôme Naulais - Au Hasard D'Une Note.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Jérôme Naulais - Au Hasard D'Une Note.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0213.json).
+Catalog: removed at Tim’s request on 2026-10-14.
 
 **Identity and findings.** Wind Music’s institutional library catalog identifies Au hasard d’une note by Jérôme Naulais for alto or tenor saxophone and piano, published by Alphonse Leduc in 2003, five pages plus parts, 2:45. Presto identifies AL29467, alto or tenor saxophone and piano; the two catalog records disagree on page count and need no inferred correction.
 
@@ -56,3 +56,7 @@ Sources checked:
 - [Alphonse Leduc cover via Groth](https://grothmusic.com/images/product/large/ae00-124801.jpg): Cover identifies first-cycle original edition. (opened)
 - [CDMC Alsace Windmusic catalog](https://windmusic.org/index.php?id=16047&lvl=notice_display): Exact library-held AL29467, original-work subject label, 2:45, publication 2003. (opened)
 - [YouTube upload by laetitiadlg](https://www.youtube.com/watch?v=CYylZxuTxn0): Exact title, competition context, public availability and 173-second upload. (opened)
+
+## Chat Batch 13 Decision, 2026-10-14
+
+Tim requested removal from the catalog. The private evidence log is retained.

@@ -1,8 +1,8 @@
 {
   "created": "2026-10-14",
   "chat_batch": 13,
-  "decision_status": "Pending",
-  "scope": "Fresh evidence and verified metadata for 25 unassigned works; Tim assigns every level.",
+  "decision_status": "Applied",
+  "scope": "Tim’s fifteen level assignments applied; nine specified works removed; La brise remains unassigned on hold. Terra Incognita uses Tim’s direct SoundCloud recording. Private evidence retained and retired URLs redirect to the catalog.",
   "works": [
     {
       "chat_number": 1,
@@ -97,7 +97,16 @@
           "multi-instruments": "Alto or tenor saxophone, with piano"
         },
         "chat_summary": "Au hasard d’une note is an original 2:45 work with alto and alternate tenor parts. The publisher cover labels it first cycle, which matters for a college-focused selection. No notation was located, so range and articulation remain unknown. A public competition performance is available, although its upload does not name the composer."
-      }
+      },
+      "removed": true,
+      "retired_url": "/works/jerome-naulais-au-hasard-d-une-note/",
+      "retired_aliases": [],
+      "redirect_to": "/",
+      "removed_work_snapshot": "---\ntitle: \"Au Hasard D'Une Note\"\nslug: jerome-naulais-au-hasard-d-une-note\ncomposer:\n  - \"[[Jérôme Naulais]]\"\ninstruments:\n  - \"Alto Saxophone\"\n  - \"Piano\"\n  - \"Tenor Saxophone\"\ncomposed: \nyear-of-study: \nstreaming: \npurchase:\n  - https://www.grothmusic.com/p-143165.aspx\nadded: 2024-03-08\nresearch:\n  - \"Leduc AL29467; includes alternate tenor sax part; 7 pages · https://www.grothmusic.com/p-143165.aspx\"\n  - \"AL29467 has alto and alternate tenor parts with piano. · https://www.grothmusic.com/p-143165.aspx\"\n  - \"Cover identifies first-cycle original edition. · https://grothmusic.com/images/product/large/ae00-124801.jpg\"\n  - \"Exact library-held AL29467, original-work subject label, 2:45, publication 2003. · https://windmusic.org/index.php?id=16047&lvl=notice_display\"\n  - \"Exact title, competition context, public availability and 173-second upload. · https://www.youtube.com/watch?v=CYylZxuTxn0\"\npublisher:\n  - \"Alphonse Leduc\"\naliases: []\nlibrary-score:\n  - \"https://windmusic.org/index.php?id=16047&lvl=notice_display\"\nmulti-instruments: \"Alto or tenor saxophone, with piano\"\n---\n## Research notes (private)\n\n### Chat batch 13 follow-up, 2026-10-14\n\nAu hasard d’une note is an original 2:45 work with alto and alternate tenor parts. The publisher cover labels it first cycle, which matters for a college-focused selection. No notation was located, so range and articulation remain unknown. A public competition performance is available, although its upload does not name the composer.\n\n[[Review 0213 - Jérôme Naulais - Au Hasard D'Une Note|Full evidence and open questions]]\n\n\n- Leduc AL29467; includes alternate tenor sax part; 7 pages · [grothmusic.com](https://www.grothmusic.com/p-143165.aspx)\n\n<!-- saxobrain-research-review-2026-10-11 -->\n\n### Research Review, October 11, 2026\n\n[[Review 0213 - Jérôme Naulais - Au Hasard D'Une Note|Full review note]]\n\nCatalog: [Jérôme Naulais - Au Hasard D'Une Note.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Jérôme Naulais - Au Hasard D'Une Note.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0213.json).\n\n**Identity and findings.** Wind Music’s institutional library catalog identifies Au hasard d’une note by Jérôme Naulais for alto or tenor saxophone and piano, published by Alphonse Leduc in 2003, five pages plus parts, 2:45. Presto identifies AL29467, alto or tenor saxophone and piano; the two catalog records disagree on page count and need no inferred correction.\n\n**Sources checked.**\n- [Wind Music saxophone library catalog](https://windmusic.org/index.php?id=16047&lvl=notice_display) (opened): Original work, alto or tenor sax and piano, 2003, five pages, parts, AL29467, 2:45.\n- [Presto Music retailer](https://www.prestomusic.com/sheet-music/products/7381183--jerome-naulais-au-hasard-dune-note) (opened): Identifies AL29467, alto or tenor saxophone and piano; lists ten pages.\n\n**Score.**\n- No notation was visually inspected.\n\n**Collection and audience context.** Original saxophone work, cataloged for alto or tenor; short duration and alternate part are documented.\n\n**Review focus.** Review it as a compact work available in either alto or tenor part; check how the editions differ before making instrument-specific comparisons.\n\n**Open questions.**\n- Page counts differ between two catalog sources.\n- No score notation or verified recording inspected.\n\n**Tim decision:** pending.\n\n#### Catalog Details Added\n\n- Publisher: Alphonse Leduc. [Source](https://www.prestomusic.com/sheet-music/products/7381183--jerome-naulais-au-hasard-dune-note)\n\n",
+      "assigned_level": null,
+      "decision": "Removed",
+      "review_applied": true,
+      "decision_note": "Tim requested removal from the catalog. The private evidence log is retained."
     },
     {
       "chat_number": 2,
@@ -183,7 +192,16 @@
           "library-score": []
         },
         "chat_summary": "Kansax-City is Billaudot’s alto and piano piece, with an explicit preparatory label on its cover. A credited saxophone-and-piano performance is publicly available. The retailer gives 2:20, but notation was not exposed. Its pedagogical positioning is clear; specific range, rhythms and articulation remain unverified."
-      }
+      },
+      "removed": true,
+      "retired_url": "/works/jerome-naulais-kansax-city/",
+      "retired_aliases": [],
+      "redirect_to": "/",
+      "removed_work_snapshot": "---\ntitle: \"Kansax-City\"\nslug: jerome-naulais-kansax-city\ncomposer:\n  - \"[[Jérôme Naulais]]\"\ninstruments:\n  - \"Alto Saxophone\"\n  - \"Piano\"\ncomposed: \nyear-of-study: \nstreaming: \"https://www.youtube.com/watch?v=BjC35XmVyfw\"\npurchase:\n  - https://www.grothmusic.com/p-144548.aspx\nadded: 2024-03-08\nresearch:\n  - \"Billaudot GB5255 · https://www.grothmusic.com/p-144548.aspx\"\n  - \"GB5255 includes piano score and alto part. · https://www.grothmusic.com/p-144548.aspx\"\n  - \"Preparatory publisher label and teaching-series identity. · https://grothmusic.com/images/product/large/ae00-125997.jpg\"\n  - \"Duration 2:20, issue year 1992. · https://www.juneemersonwindmusic.com/KANSAX-CITY.html\"\n  - \"Composer, alto/piano, Billaudot, named performers and public availability. · https://www.youtube.com/watch?v=BjC35XmVyfw\"\naliases: []\npublisher:\n  - \"Éditions Billaudot\"\n---\n## Research notes (private)\n\n### Chat batch 13 follow-up, 2026-10-14\n\nKansax-City is Billaudot’s alto and piano piece, with an explicit preparatory label on its cover. A credited saxophone-and-piano performance is publicly available. The retailer gives 2:20, but notation was not exposed. Its pedagogical positioning is clear; specific range, rhythms and articulation remain unverified.\n\n[[Review 0214 - Jérôme Naulais - Kansax-City|Full evidence and open questions]]\n\n\n- Billaudot GB5255 · [grothmusic.com](https://www.grothmusic.com/p-144548.aspx)\n\n<!-- saxobrain-research-review-2026-10-11 -->\n\n### Research Review, October 11, 2026\n\n[[Review 0214 - Jérôme Naulais - Kansax-City|Full review note]]\n\nCatalog: [Jérôme Naulais - Kansax-City.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Jérôme Naulais - Kansax-City.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0214.json).\n\n**Identity and findings.** Billaudot GB5255 identifies Jérôme Naulais’s Kansax-City for alto saxophone and piano. An Adolphesax post contains a performance video by saxophonist Efrem Roca with the original score credited to Billaudot; playback was not auditioned. Retailer pages identify instrumentation, but no score was visually inspected.\n\n**Sources checked.**\n- [Adolphesax performer post](https://adolphesax.com/videos/kansax-city-jerome-naulais-saxophone-piano/) (opened): Credits saxophonist Efrem Roca and says original score is Billaudot.\n- [Free-scores retailer](https://www.free-scores.com/boutique/kansax-city-naulais-jerome-partition--678457) (opened): Identifies Billaudot GB5255, alto saxophone and piano.\n\n**Score.**\n- No notation was visually inspected.\n\n**Listening.**\n- [Efrem Roca saxophone performance post.](https://adolphesax.com/videos/kansax-city-jerome-naulais-saxophone-piano/): Post and credits checked; playback not auditioned\n\n**Collection and audience context.** No documented age or pedagogical target found.\n\n**Review focus.** Use the linked performance as an audition lead; review style, articulation and saxophone range against the score.\n\n**Open questions.**\n- Video link was identified but not auditioned.\n- No readable score preview inspected.\n\n**Tim decision:** pending.\n\n",
+      "assigned_level": null,
+      "decision": "Removed",
+      "review_applied": true,
+      "decision_note": "Tim requested removal from the catalog. The private evidence log is retained."
     },
     {
       "chat_number": 3,
@@ -281,7 +299,11 @@
           ]
         },
         "chat_summary": "Métamorphoses exposes a freely paced opening with rapid grouped runs, accidentals and dynamic changes over sustained piano chords. The inspected score uses transposed alto notation. Billaudot gives 6:45 and a cycle-2 classification. A credited complete-work performance is available; the remaining score and full range still require inspection."
-      }
+      },
+      "assigned_level": "Third Year",
+      "decision": "Third Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Third Year."
     },
     {
       "chat_number": 4,
@@ -369,7 +391,11 @@
           "library-score": []
         },
         "chat_summary": "A Portrait of Silence is a 2011 chamber work requiring alto saxophone, percussion and piano. The percussionist’s public premiere upload authenticates Trio ZOOM and its performers. Dacapo also documents an Ekkozone recording. No notation was readable, so percussion setup, saxophone techniques and ensemble demands remain unknown."
-      }
+      },
+      "assigned_level": "Third Year",
+      "decision": "Third Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Third Year."
     },
     {
       "chat_number": 5,
@@ -456,7 +482,12 @@
           "library-score": []
         },
         "chat_summary": "Terra Incognita’s three-page concert-pitch sample shows inside-piano plucking, scraping and string slaps before the saxophone enters. Later saxophone writing includes glissandos, trills, tuplets and accelerating runs. Murdock documents a 1988 saxophone-association premiere and ten-minute duration. A composer-hosted recording is available; the complete score remains uninspected."
-      }
+      },
+      "assigned_level": "Fourth Year",
+      "streaming_updated": "https://soundcloud.com/katherine-ann-murdock/terra-incognita",
+      "decision": "Fourth Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Fourth Year. Tim supplied the direct SoundCloud recording: [Listen](https://soundcloud.com/katherine-ann-murdock/terra-incognita)."
     },
     {
       "chat_number": 6,
@@ -557,7 +588,11 @@
           "library-score": []
         },
         "chat_summary": "Walicki dates this 12-minute alto saxophone and piano work to 1985. The concert-pitch Dorn preview combines meter changes, accented phrases and rapid figures with sweeping piano runs. The composer PDF supplies further notation, but its ending contains extensive all-rest measures. Completeness is uncertain, and no exact recording was verified."
-      }
+      },
+      "assigned_level": "Fourth Year",
+      "decision": "Fourth Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Fourth Year."
     },
     {
       "chat_number": 7,
@@ -677,7 +712,11 @@
         },
         "chat_summary": "Three Line Rags has substantial chromatic, syncopated saxophone and piano writing. The complete composer edition supplies transposed alto notation, slide instructions and three contrasting rags. Its movement titles differ from the Dorn purchase preview. Composition dates conflict between 1983 and 1984, and no exact recording was verified.",
         "public_note": "The free download is the composer’s revised edition, with Loxodromus Rag, Rhumb Line Rag and Longitudinal Madness Rag. The Dorn purchase edition preview uses different movement titles, beginning with Kredit Kard Krash Rag."
-      }
+      },
+      "assigned_level": "Fourth Year",
+      "decision": "Fourth Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Fourth Year."
     },
     {
       "chat_number": 8,
@@ -745,7 +784,11 @@
           "library-score": []
         },
         "chat_summary": "Holliday’s three-movement Sonata includes a piano score and alto part. The inspected Invocation opening shows an accelerating piano introduction, followed by freely marked chromatic saxophone phrases with colla parte accompaniment. This creates visible timing and ensemble demands. Full range, later movements, composition date and an exact recording remain unverified."
-      }
+      },
+      "assigned_level": "Third Year",
+      "decision": "Third Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Third Year."
     },
     {
       "chat_number": 9,
@@ -819,7 +862,11 @@
           "library-score": []
         },
         "chat_summary": "The first score page confirms brisk chromatic saxophone writing, shifting eighth-note meters, accents and active piano coordination. Groth verifies Dorn DORN1614 for alto saxophone and piano. The sample carries a David Jacobsen dedication and 2012 copyright. Composition date, full range and an exact accessible recording remain unverified."
-      }
+      },
+      "assigned_level": "Third Year",
+      "decision": "Third Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Third Year."
     },
     {
       "chat_number": 10,
@@ -901,7 +948,16 @@
           "library-score": []
         },
         "chat_summary": "Groth confirms Ballade for alto saxophone and piano, Dorn DORN1936. Its sample reveals the piano accompaniment in 6/8 with slurred figures and dynamic shaping. The page belongs to a three-piece set and includes an arranger placeholder. Saxophone notation, composition date, source-work identity and an exact recording remain unverified."
-      }
+      },
+      "removed": true,
+      "retired_url": "/works/kevin-howard-ballade/",
+      "retired_aliases": [],
+      "redirect_to": "/",
+      "removed_work_snapshot": "---\ntitle: \"Ballade\"\nslug: kevin-howard-ballade\ncomposer:\n  - \"[[Kevin Howard]]\"\ninstruments:\n  - \"Alto Saxophone\"\n  - \"Piano\"\ncomposed: \nyear-of-study: \nstreaming: \npurchase:\n  - https://www.grothmusic.com/p-144327.aspx\nadded: 2024-03-08\nresearch:\n  - \"Dorn DORN1936 · https://www.grothmusic.com/p-144327.aspx\"\n  - \"The opened Groth product identifies Ballade by Kevin Howard, for alto saxophone and piano, published by Dorn Publications, catalog DORN1936. The current purchase listing is exact-work evidence. · https://www.grothmusic.com/p-144327.aspx\"\n  - \"First notation page visually inspected; scope and observations are recorded above. · https://www.grothmusic.com/images/product/large/ae00-125873.jpg\"\n  - \"Groth reports acquisition of Dorn Publications and transfer of Dorn and Needham copyrights on February 21, 2024, supporting its role as the current publisher source. · https://www.grothmusic.com/t-dorn.aspx\"\n  - \"Dorn publisher catalog lists the exact work under Alto Saxophone and Piano. · https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf\"\naliases: []\npublisher:\n  - \"Dorn Publications\"\n---\n## Research notes (private)\n\n### Chat batch 13 follow-up, 2026-10-14\n\nGroth confirms Ballade for alto saxophone and piano, Dorn DORN1936. Its sample reveals the piano accompaniment in 6/8 with slurred figures and dynamic shaping. The page belongs to a three-piece set and includes an arranger placeholder. Saxophone notation, composition date, source-work identity and an exact recording remain unverified.\n\n[[Review 0222 - Kevin Howard - Ballade|Full evidence and open questions]]\n\n\n- Dorn DORN1936 · [grothmusic.com](https://www.grothmusic.com/p-144327.aspx)\n\n<!-- saxobrain-research-review-2026-10-11 -->\n\n### Research Review, October 11, 2026\n\n[[Review 0222 - Kevin Howard - Ballade|Full review note]]\n\nCatalog: [Kevin Howard - Ballade.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Kevin Howard - Ballade.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0222.json).\n\n**Identity and findings.** The Dorn Publications catalog identifies Kevin Howard’s Ballade as order 1936 in its Alto Saxophone and Piano section. This confirms the current publisher catalog listing and instrumentation, but not score-specific demands or a performance history.\n\n**Sources checked.**\n- [Dorn Publications catalog, hosted by Groth Music](https://www.grothmusic.com/images/DP%20Catalog%20Nov%202024.pdf) (opened): The catalog lists Kevin Howard’s Ballade as order 1936 under Alto Saxophone and Piano. This supports the title, composer, catalog number and instrumentation; it gives no score preview or work-specific technical description.\n- [Groth Music Dorn Publications page](https://www.grothmusic.com/t-dorn.aspx) (opened): Groth states it acquired Dorn Publications in February 2024 and is making Dorn catalog listings available; its page links the 2024 catalog.\n\n**Score.**\n- No notation was visually inspected.\n\n**Collection and audience context.** Publisher catalog confirms alto saxophone and piano scoring; no pedagogical placement or college/professional programming context verified.\n\n**Review focus.** Inspect the saxophone and piano parts before describing work-specific technical demands; none are established by the catalog listing.\n\n**Open questions.**\n- No readable score or score preview found in the publisher catalog.\n- Exact-title and composer searches for saxophone performances, recordings and college programs did not locate a work-matched result.\n\n**Tim decision:** pending.\n\n",
+      "assigned_level": null,
+      "decision": "Removed",
+      "review_applied": true,
+      "decision_note": "Tim requested removal from the catalog. The private evidence log is retained."
     },
     {
       "chat_number": 11,
@@ -983,7 +1039,16 @@
           "library-score": []
         },
         "chat_summary": "Groth confirms Elegy for alto saxophone and piano, Dorn DORN1938. The opening piano sample shows Adagio, 3/4, chromatic runs and triplet and quintuplet figures. It identifies Elegy as the second of three pieces. Saxophone demands, arrangement status, composition date and an exact accessible recording remain unverified."
-      }
+      },
+      "removed": true,
+      "retired_url": "/works/kevin-howard-elegy/",
+      "retired_aliases": [],
+      "redirect_to": "/",
+      "removed_work_snapshot": "---\ntitle: \"Elegy\"\nslug: kevin-howard-elegy\ncomposer:\n  - \"[[Kevin Howard]]\"\ninstruments:\n  - \"Alto Saxophone\"\n  - \"Piano\"\ncomposed: \nyear-of-study: \nstreaming: \npurchase:\n  - https://www.grothmusic.com/p-144328.aspx\nadded: 2024-03-08\nresearch:\n  - \"Dorn DORN1938 · https://www.grothmusic.com/p-144328.aspx\"\n  - \"The opened Groth product identifies Elegy by Kevin Howard, for alto saxophone and piano, published by Dorn Publications, catalog DORN1938. The current purchase listing is exact-work evidence. · https://www.grothmusic.com/p-144328.aspx\"\n  - \"First notation page visually inspected; scope and observations are recorded above. · https://www.grothmusic.com/images/product/large/ae00-125875.jpg\"\n  - \"Groth reports acquisition of Dorn Publications and transfer of Dorn and Needham copyrights on February 21, 2024, supporting its role as the current publisher source. · https://www.grothmusic.com/t-dorn.aspx\"\n  - \"Dorn publisher catalog lists the exact work under Alto Saxophone and Piano. · https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf\"\naliases: []\npublisher:\n  - \"Dorn Publications\"\n---\n## Research notes (private)\n\n### Chat batch 13 follow-up, 2026-10-14\n\nGroth confirms Elegy for alto saxophone and piano, Dorn DORN1938. The opening piano sample shows Adagio, 3/4, chromatic runs and triplet and quintuplet figures. It identifies Elegy as the second of three pieces. Saxophone demands, arrangement status, composition date and an exact accessible recording remain unverified.\n\n[[Review 0223 - Kevin Howard - Elegy|Full evidence and open questions]]\n\n\n- Dorn DORN1938 · [grothmusic.com](https://www.grothmusic.com/p-144328.aspx)\n\n<!-- saxobrain-research-review-2026-10-11 -->\n\n### Research Review, October 11, 2026\n\n[[Review 0223 - Kevin Howard - Elegy|Full review note]]\n\nCatalog: [Kevin Howard - Elegy.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Kevin Howard - Elegy.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0223.json).\n\n**Identity and findings.** The Dorn Publications catalog identifies Kevin Howard’s Elegy as order 1938 in its Alto Saxophone and Piano section. This confirms the current publisher catalog listing and instrumentation, but not score-specific demands or a performance history.\n\n**Sources checked.**\n- [Dorn Publications catalog, hosted by Groth Music](https://www.grothmusic.com/images/DP%20Catalog%20Nov%202024.pdf) (opened): The catalog lists Kevin Howard’s Elegy as order 1938 under Alto Saxophone and Piano. This supports the title, composer, catalog number and instrumentation; it gives no score preview or work-specific technical description.\n- [Groth Music Dorn Publications page](https://www.grothmusic.com/t-dorn.aspx) (opened): Groth states it acquired Dorn Publications in February 2024 and is making Dorn catalog listings available; its page links the 2024 catalog.\n\n**Score.**\n- No notation was visually inspected.\n\n**Collection and audience context.** Publisher catalog confirms alto saxophone and piano scoring; no pedagogical placement or college/professional programming context verified.\n\n**Review focus.** Inspect the saxophone and piano parts before describing work-specific technical demands; none are established by the catalog listing.\n\n**Open questions.**\n- No readable score or score preview found in the publisher catalog.\n- Exact-title and composer searches for saxophone performances, recordings and college programs did not locate a work-matched result.\n\n**Tim decision:** pending.\n\n",
+      "assigned_level": null,
+      "decision": "Removed",
+      "review_applied": true,
+      "decision_note": "Tim requested removal from the catalog. The private evidence log is retained."
     },
     {
       "chat_number": 12,
@@ -1065,7 +1130,16 @@
           "library-score": []
         },
         "chat_summary": "Groth confirms Meditation No. 2 for alto saxophone and piano, Dorn DORN1935. The opening piano sample shows Adagio in 5/8, sustained chromatic low chords and later slurred treble figures. Literal subtitle and arranger placeholders leave source status unresolved. No saxophone notation, verified composition date or exact recording was located."
-      }
+      },
+      "removed": true,
+      "retired_url": "/works/kevin-howard-meditation-no-2/",
+      "retired_aliases": [],
+      "redirect_to": "/",
+      "removed_work_snapshot": "---\ntitle: \"Meditation No. 2\"\nslug: kevin-howard-meditation-no-2\ncomposer:\n  - \"[[Kevin Howard]]\"\ninstruments:\n  - \"Alto Saxophone\"\n  - \"Piano\"\ncomposed: \nyear-of-study: \nstreaming: \npurchase:\n  - https://www.grothmusic.com/p-143820.aspx\nadded: 2024-03-08\nresearch:\n  - \"Dorn DORN1935 · https://www.grothmusic.com/p-143820.aspx\"\n  - \"The opened Groth product identifies Meditation No. 2 by Kevin Howard, for alto saxophone and piano, published by Dorn Publications, catalog DORN1935. The current purchase listing is exact-work evidence. · https://www.grothmusic.com/p-143820.aspx\"\n  - \"First notation page visually inspected; scope and observations are recorded above. · https://www.grothmusic.com/images/product/large/ae00-125563.jpg\"\n  - \"Groth reports acquisition of Dorn Publications and transfer of Dorn and Needham copyrights on February 21, 2024, supporting its role as the current publisher source. · https://www.grothmusic.com/t-dorn.aspx\"\n  - \"Dorn publisher catalog lists the exact work under Alto Saxophone and Piano. · https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf\"\naliases: []\npublisher:\n  - \"Dorn Publications\"\n---\n## Research notes (private)\n\n### Chat batch 13 follow-up, 2026-10-14\n\nGroth confirms Meditation No. 2 for alto saxophone and piano, Dorn DORN1935. The opening piano sample shows Adagio in 5/8, sustained chromatic low chords and later slurred treble figures. Literal subtitle and arranger placeholders leave source status unresolved. No saxophone notation, verified composition date or exact recording was located.\n\n[[Review 0224 - Kevin Howard - Meditation No. 2|Full evidence and open questions]]\n\n\n- Dorn DORN1935 · [grothmusic.com](https://www.grothmusic.com/p-143820.aspx)\n\n<!-- saxobrain-research-review-2026-10-11 -->\n\n### Research Review, October 11, 2026\n\n[[Review 0224 - Kevin Howard - Meditation No. 2|Full review note]]\n\nCatalog: [Kevin Howard - Meditation No. 2.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Kevin Howard - Meditation No. 2.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0224.json).\n\n**Identity and findings.** The Dorn Publications catalog identifies Kevin Howard’s Meditation No. 2 as order 1935 in its Alto Saxophone and Piano section. This confirms the current publisher catalog listing and instrumentation, but not score-specific demands or a performance history.\n\n**Sources checked.**\n- [Dorn Publications catalog, hosted by Groth Music](https://www.grothmusic.com/images/DP%20Catalog%20Nov%202024.pdf) (opened): The catalog lists Kevin Howard’s Meditation No. 2 as order 1935 under Alto Saxophone and Piano. This supports the title, composer, catalog number and instrumentation; it gives no score preview or work-specific technical description.\n- [Groth Music Dorn Publications page](https://www.grothmusic.com/t-dorn.aspx) (opened): Groth states it acquired Dorn Publications in February 2024 and is making Dorn catalog listings available; its page links the 2024 catalog.\n\n**Score.**\n- No notation was visually inspected.\n\n**Collection and audience context.** Publisher catalog confirms alto saxophone and piano scoring; no pedagogical placement or college/professional programming context verified.\n\n**Review focus.** Inspect the saxophone and piano parts before describing work-specific technical demands; none are established by the catalog listing.\n\n**Open questions.**\n- No readable score or score preview found in the publisher catalog.\n- Exact-title and composer searches for saxophone performances, recordings and college programs did not locate a work-matched result.\n\n**Tim decision:** pending.\n\n",
+      "assigned_level": null,
+      "decision": "Removed",
+      "review_applied": true,
+      "decision_note": "Tim requested removal from the catalog. The private evidence log is retained."
     },
     {
       "chat_number": 13,
@@ -1147,7 +1221,16 @@
           "library-score": []
         },
         "chat_summary": "Groth confirms Rondo for alto saxophone and piano, Dorn DORN1939. The piano sample shows 5/8, chromatic runs, a trill and dynamic shaping within a three-piece set. The arranger placeholder does not establish a transcription. Saxophone demands, source-work identity, composition date and an exact accessible recording remain unverified."
-      }
+      },
+      "removed": true,
+      "retired_url": "/works/kevin-howard-rondo/",
+      "retired_aliases": [],
+      "redirect_to": "/",
+      "removed_work_snapshot": "---\ntitle: \"Rondo\"\nslug: kevin-howard-rondo\ncomposer:\n  - \"[[Kevin Howard]]\"\ninstruments:\n  - \"Alto Saxophone\"\n  - \"Piano\"\ncomposed: \nyear-of-study: \nstreaming: \npurchase:\n  - https://www.grothmusic.com/p-144326.aspx\nadded: 2024-03-08\nresearch:\n  - \"Dorn DORN1939 · https://www.grothmusic.com/p-144326.aspx\"\n  - \"The opened Groth product identifies Rondo by Kevin Howard, for alto saxophone and piano, published by Dorn Publications, catalog DORN1939. The current purchase listing is exact-work evidence. · https://www.grothmusic.com/p-144326.aspx\"\n  - \"First notation page visually inspected; scope and observations are recorded above. · https://www.grothmusic.com/images/product/large/ae00-125871.jpg\"\n  - \"Groth reports acquisition of Dorn Publications and transfer of Dorn and Needham copyrights on February 21, 2024, supporting its role as the current publisher source. · https://www.grothmusic.com/t-dorn.aspx\"\n  - \"Dorn publisher catalog lists the exact work under Alto Saxophone and Piano. · https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf\"\naliases: []\npublisher:\n  - \"Dorn Publications\"\n---\n## Research notes (private)\n\n### Chat batch 13 follow-up, 2026-10-14\n\nGroth confirms Rondo for alto saxophone and piano, Dorn DORN1939. The piano sample shows 5/8, chromatic runs, a trill and dynamic shaping within a three-piece set. The arranger placeholder does not establish a transcription. Saxophone demands, source-work identity, composition date and an exact accessible recording remain unverified.\n\n[[Review 0225 - Kevin Howard - Rondo|Full evidence and open questions]]\n\n\n- Dorn DORN1939 · [grothmusic.com](https://www.grothmusic.com/p-144326.aspx)\n\n<!-- saxobrain-research-review-2026-10-11 -->\n\n### Research Review, October 11, 2026\n\n[[Review 0225 - Kevin Howard - Rondo|Full review note]]\n\nCatalog: [Kevin Howard - Rondo.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Kevin Howard - Rondo.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0225.json).\n\n**Identity and findings.** The Dorn Publications catalog identifies Kevin Howard’s Rondo as order 1939 in its Alto Saxophone and Piano section. This confirms the current publisher catalog listing and instrumentation, but not score-specific demands or a performance history.\n\n**Sources checked.**\n- [Dorn Publications catalog, hosted by Groth Music](https://www.grothmusic.com/images/DP%20Catalog%20Nov%202024.pdf) (opened): The catalog lists Kevin Howard’s Rondo as order 1939 under Alto Saxophone and Piano. This supports the title, composer, catalog number and instrumentation; it gives no score preview or work-specific technical description.\n- [Groth Music Dorn Publications page](https://www.grothmusic.com/t-dorn.aspx) (opened): Groth states it acquired Dorn Publications in February 2024 and is making Dorn catalog listings available; its page links the 2024 catalog.\n\n**Score.**\n- No notation was visually inspected.\n\n**Collection and audience context.** Publisher catalog confirms alto saxophone and piano scoring; no pedagogical placement or college/professional programming context verified.\n\n**Review focus.** Inspect the saxophone and piano parts before describing work-specific technical demands; none are established by the catalog listing.\n\n**Open questions.**\n- No readable score or score preview found in the publisher catalog.\n- Exact-title and composer searches for saxophone performances, recordings and college programs did not locate a work-matched result.\n\n**Tim decision:** pending.\n\n",
+      "assigned_level": null,
+      "decision": "Removed",
+      "review_applied": true,
+      "decision_note": "Tim requested removal from the catalog. The private evidence log is retained."
     },
     {
       "chat_number": 14,
@@ -1214,7 +1297,11 @@
           "library-score": []
         },
         "chat_summary": "The inspected opening of Ballade confirms slow chromatic phrasing, triplets, quiet dynamics and a piano resonance effect using silently depressed keys. The page names Kristina Engberg Williamson and bears 1989 copyright. Groth verifies Etoile ET151014 for alto and piano. Composition date, complete range and an exact recording remain unverified."
-      }
+      },
+      "assigned_level": "Second Year",
+      "decision": "Second Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Second Year."
     },
     {
       "chat_number": 15,
@@ -1316,7 +1403,11 @@
           ]
         },
         "chat_summary": "Billaudot confirms La brise for alto saxophone and piano, GB7021, in the Daniel Gremelle series. Its Cycle 1 context is corroborated by CMF examination annals. Libraries date the edition to 2001 and give 2:50 duration. No notation or accessible recording was verified, so specific demands remain unknown."
-      }
+      },
+      "assigned_level": null,
+      "decision": "Hold",
+      "review_applied": false,
+      "decision_note": "Tim marked the difficulty unknown. Review is on hold; the work remains unassigned."
     },
     {
       "chat_number": 16,
@@ -1406,7 +1497,11 @@
           "library-score": []
         },
         "chat_summary": "Capriccio’s handwritten opening shows changing meters, chromatic gestures, abrupt dynamics and active piano writing. Its Duo Vivo dedication and 1982 Needham copyright are visible. Groth verifies Dorn DORN0176 for alto saxophone and piano. Complete range, actual composition date and an exact accessible recording remain unverified."
-      }
+      },
+      "assigned_level": "Fourth Year",
+      "decision": "Fourth Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Fourth Year."
     },
     {
       "chat_number": 17,
@@ -1480,7 +1575,11 @@
           "library-score": []
         },
         "chat_summary": "Kraft’s first score page gives 1977, separately from its 1979 copyright. The opening combines chromatic slurred lines, beamed runs, triplet and quintuplet groupings, changing meters, and active piano writing. This is an original published duo, with no simplification evidence. The complete score, full range, and exact recording remain unverified."
-      }
+      },
+      "assigned_level": "Fourth Year",
+      "decision": "Fourth Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Fourth Year."
     },
     {
       "chat_number": 18,
@@ -1553,7 +1652,11 @@
           "library-score": []
         },
         "chat_summary": "Lewis’s composer preview shows an accented piano opening with sixteenth-note chords and changing eighth-note meters. Soprano saxophone rests through most visible measures before a sustained crescendo entry. The B-flat solo staff is transposed. Full solo demands and recording remain unknown; the one-page PDF is only a preview."
-      }
+      },
+      "assigned_level": "Third Year",
+      "decision": "Third Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Third Year."
     },
     {
       "chat_number": 19,
@@ -1668,7 +1771,11 @@
           "library-score": []
         },
         "chat_summary": "Prelude’s eight-bar preview shows a sustained soprano line with long slurs, dynamic shaping, ties, and quarter-note triplets over continuous piano arpeggios. The B-flat staff is transposed. Kenneth Tse and Alan Huckleberry recorded it on Lyric Soprano. Full demands remain unknown, and Tse’s 2004 date conflicts with a 2006 conference-program lead."
-      }
+      },
+      "assigned_level": "Third Year",
+      "decision": "Third Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Third Year."
     },
     {
       "chat_number": 20,
@@ -1804,7 +1911,16 @@
         },
         "chat_summary": "Deon Nielsen Price’s composer page and Southern Music identify this nine-minute 1985 duo, published in 1996, for soprano saxophone or clarinet with piano. Three contrasting movements have verified saxophone recording links. Notation remains unavailable. The current Leonard Price attribution conflicts with both primary sources and requires correction review.",
         "public_note": "Listen opens I. Sea Otters from the Bill Wilson soprano saxophone recording. Continue with [II. Redwoods](https://www.youtube.com/watch?v=iIUvHYvpyVg) and [III. Crags](https://www.youtube.com/watch?v=QwTtm-fP6Ew)."
-      }
+      },
+      "removed": true,
+      "retired_url": "/works/leonard-price-big-sur-triptych/",
+      "retired_aliases": [],
+      "redirect_to": "/",
+      "removed_work_snapshot": "---\ntitle: \"Big Sur Triptych\"\nslug: leonard-price-big-sur-triptych\ncomposer:\n  - \"[[Leonard Price]]\"\ninstruments:\n  - \"Soprano Saxophone\"\n  - \"Piano\"\n  - \"Clarinet\"\ncomposed: 1985\nyear-of-study: \nstreaming: \"https://www.youtube.com/watch?v=ELYsI3ezPOU\"\npurchase:\n  - \"https://culvercrest.com/?p=2507\"\n  - \"https://www.halleonard.com/product/3776154/big-sur-triptych\"\nadded: 2025-04-18\nresearch:\n  - \"Duration 9 minutes; movements Sea Otters, Redwoods, Crags · https://culvercrest.com/?p=2507\"\n  - \"Published 1996 by Southern Music Company; written for soprano saxophone or Bb clarinet and piano · https://culvercrest.com/?p=2507\"\n  - \"Reviewer quoted on the composer's site: first movement bouncy, second lyrical, third with jagged and abrupt phrasings · https://culvercrest.com/?p=2507\"\n  - \"Earliest listed performance 26 March 1985, Chapman College, California; recorded by Paul Stewart (Cambria CT-102) and Bill Wilson (Cambria CD-1056) with the composer at piano · https://culvercrest.com/?p=2507\"\n  - \"Composer attribution, composition and publication dates, alternate scoring, duration, movements and recording credits. · https://culvercrest.com/catalog/big-sur-triptych-duo-for-clarinet-and-piano-score-part-copy/\"\n  - \"Exact edition SU279 / HL03776154 and composer attribution. · https://www.halleonard.com/product/3776154/big-sur-triptych\"\n  - \"All three movements with Bill Wilson and Deon Nielsen Price credited, 1996 Cambria release. · https://www.youtube.com/watch?v=ELYsI3ezPOU\"\n  - \"Second movement title and same album/performers. · https://www.youtube.com/watch?v=iIUvHYvpyVg\"\n  - \"Third movement title and same album/performers. · https://www.youtube.com/watch?v=QwTtm-fP6Ew\"\naliases: []\npublisher:\n  - \"Southern Music Company\"\nmulti-instruments: \"Soprano saxophone or B-flat clarinet, with piano\"\n---\nListen opens I. Sea Otters from the Bill Wilson soprano saxophone recording. Continue with [II. Redwoods](https://www.youtube.com/watch?v=iIUvHYvpyVg) and [III. Crags](https://www.youtube.com/watch?v=QwTtm-fP6Ew).\n\n## Research notes (private)\n\n### Chat batch 13 follow-up, 2026-10-14\n\nDeon Nielsen Price’s composer page and Southern Music identify this nine-minute 1985 duo, published in 1996, for soprano saxophone or clarinet with piano. Three contrasting movements have verified saxophone recording links. Notation remains unavailable. The current Leonard Price attribution conflicts with both primary sources and requires correction review.\n\n[[Review 0233 - Leonard Price - Big Sur Triptych|Full evidence and open questions]]\n\n\n- Duration 9 minutes; movements Sea Otters, Redwoods, Crags · [culvercrest.com](https://culvercrest.com/?p=2507)\n- Published 1996 by Southern Music Company; written for soprano saxophone or Bb clarinet and piano · [culvercrest.com](https://culvercrest.com/?p=2507)\n- Reviewer quoted on the composer's site: first movement bouncy, second lyrical, third with jagged and abrupt phrasings · [culvercrest.com](https://culvercrest.com/?p=2507)\n- Earliest listed performance 26 March 1985, Chapman College, California; recorded by Paul Stewart (Cambria CT-102) and Bill Wilson (Cambria CD-1056) with the composer at piano · [culvercrest.com](https://culvercrest.com/?p=2507)\n\n<!-- saxobrain-research-review-2026-10-11 -->\n\n### Research Review, October 11, 2026\n\n[[Review 0233 - Leonard Price - Big Sur Triptych|Full review note]]\n\nCatalog: [[Leonard Price - Big Sur Triptych]]\n\n- Identity: Deon Nielsen Price’s Big Sur Triptych is a 1985 work for soprano saxophone or B-flat clarinet and piano, published by Southern Music in 1996. It lasts about nine minutes and has three movements: Sea Otters, Redwoods, and Crags. The composer’s performance archive and contemporaneous reviews document saxophone performances.\n- Composer’s site gives instrumentation, date, duration, movement titles, 1985 first performance and recordings. [Culver Crest Publications, composer site](https://culvercrest.com/?p=2507) (search_index_only).\n- University library record confirms 1996 score and separate part pagination. [Seitoku University library](https://www.seitoku.jp/lib/newhp/newbooks/2019/shinchaku201905.pdf) (search_index_only).\n- Composer performance archive lists Bill Wilson saxophone performance of Big Sur Triptych. [Culver Crest Publications, composer site](https://culvercrest.com/deon-nielsen-price/performances/) (opened).\n- Composer-hosted review characterizes the first movement as detached and the second as lyrical, with abrupt phrasing in the third. [Culver Crest Publications, quoted review](https://culvercrest.com/deon-nielsen-price/reviews/critical-comments/) (opened).\n- Recording: [Composer archive documents saxophonists Bill Wilson and Paul Stewart performing the work.](https://culvercrest.com/deon-nielsen-price/performances/) Performance credits checked; audio playback not auditioned.\n- Collection/use: Alternate-instrument edition for soprano saxophone or B-flat clarinet with piano. The available records establish the paired options but do not establish which instrument was original.\n- Review focus: Inference: the documented optional clarinet version and review-based contrasts invite checking the saxophone part for detached articulation and lyrical line across movements.\n- Gaps: No public score pages inspected; original-instrument provenance remains unknown.; Composer archive lists performances, but accessible audio for this work was not verified.\n- Proposed correction: Add piano to instrumentation and qualify soprano saxophone as an alternative to B-flat clarinet.\n\n",
+      "assigned_level": null,
+      "decision": "Removed",
+      "review_applied": true,
+      "decision_note": "Tim requested removal from the catalog. The private evidence log is retained."
     },
     {
       "chat_number": 21,
@@ -1863,7 +1979,16 @@
           "library-score": []
         },
         "chat_summary": "Ostransky’s original Suite has three movements, Prelude, Chaconne and Presto, in the verified Rubank alto-and-piano edition. Publisher Level 4 and the Solo/Ensemble series provide context without assigning a study year. The available preview does not expose notation. Specific range and technical demands, composition date, and recording remain unknown."
-      }
+      },
+      "removed": true,
+      "retired_url": "/works/leroy-ostransky-suite/",
+      "retired_aliases": [],
+      "redirect_to": "/",
+      "removed_work_snapshot": "---\ntitle: \"Suite\"\nslug: leroy-ostransky-suite\ncomposer:\n  - \"[[Leroy Ostransky]]\"\ninstruments:\n  - \"Alto Saxophone\"\n  - \"Piano\"\ncomposed: \nyear-of-study: \nstreaming: \npurchase:\n  - \"https://www.grothmusic.com/p-63638.aspx\"\n  - \"https://www.halleonard.com/product/4471880/suite-for-alto-saxophone\"\nadded: 2024-03-08\nresearch:\n  - \"Rubank 04471880; three movements: Prelude, Chaconne, Presto · https://www.grothmusic.com/p-63638.aspx\"\n  - \"Rubank edition, scoring, 12 pages and publisher difficulty label. · https://www.halleonard.com/product/4471880/suite-for-alto-saxophone\"\n  - \"Three movement titles. · https://www.grothmusic.com/p-63638.aspx\"\npublisher:\n  - \"Rubank\"\naliases: []\n---\n## Research notes (private)\n\n### Chat batch 13 follow-up, 2026-10-14\n\nOstransky’s original Suite has three movements, Prelude, Chaconne and Presto, in the verified Rubank alto-and-piano edition. Publisher Level 4 and the Solo/Ensemble series provide context without assigning a study year. The available preview does not expose notation. Specific range and technical demands, composition date, and recording remain unknown.\n\n[[Review 0234 - Leroy Ostransky - Suite|Full evidence and open questions]]\n\n\n- Rubank 04471880; three movements: Prelude, Chaconne, Presto · [grothmusic.com](https://www.grothmusic.com/p-63638.aspx)\n\n<!-- saxobrain-research-review-2026-10-11 -->\n\n### Research Review, October 11, 2026\n\n[[Review 0234 - Leroy Ostransky - Suite|Full review note]]\n\nCatalog: [[Leroy Ostransky - Suite]]\n\n- Identity: Hal Leonard’s Rubank listing identifies Leroy Ostransky’s Suite for alto saxophone and piano, code RUBL302 / 04471880, at publisher Level 4 and 12 pages. A Luxembourg government saxophone syllabus lists it under Division inférieure, 1ère mention.\n- Hal Leonard identifies instrumentation, Rubank code, page count, and publisher Level 4. [Hal Leonard](https://www.halleonard.com/product/4471880/suite-for-alto-saxophone) (opened).\n- Luxembourg government saxophone syllabus includes Suite in Division inférieure, 1ère mention. [Luxembourg Ministry of Education](https://menej.gouvernement.lu/dam-assets/enseignement-musical/enseignement-musical/doc-programmes-etudes/Saxophone.pdf) (search_index_only).\n- Collection/use: Pedagogical saxophone edition with documented syllabus use.\n- Review focus: Inference: the government syllabus placement and publisher Level 4 label suggest checking it as a pedagogical study in ensemble with piano; neither maps directly to Tim’s system.\n- Gaps: No notation inspected; movement titles and specific saxophone demands not verified.; Government syllabus context has not been read at the exact page in this turn.\n\n#### Catalog Details Added\n\n- Publisher: Rubank. [Source](https://www.halleonard.com/product/4471880/suite-for-alto-saxophone)\n- Score purchase: Verified edition link added. [Source](https://www.halleonard.com/product/4471880/suite-for-alto-saxophone)\n\n",
+      "assigned_level": null,
+      "decision": "Removed",
+      "review_applied": true,
+      "decision_note": "Tim requested removal from the catalog. The private evidence log is retained."
     },
     {
       "chat_number": 22,
@@ -1928,7 +2053,11 @@
           "library-score": []
         },
         "chat_summary": "Pressman’s supplied manuscript page contains a chromatic slurred solo line, meter changes and dynamic shaping over repeated low piano patterns with pedal. The alto staff is explicitly in concert pitch, so its notes cannot be treated as written saxophone range. Complete movements, date, recording, and separate solo part remain unverified."
-      }
+      },
+      "assigned_level": "Third Year",
+      "decision": "Third Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Third Year."
     },
     {
       "chat_number": 23,
@@ -2003,7 +2132,11 @@
           ]
         },
         "chat_summary": "Billaudot and France’s national library verify the plural title 3 chansons, E-flat alto saxophone and piano, and the GB6489 edition. The 1999 date is copyright/publication. Its Fourmeau collection membership supplies edition context. Without readable notation or a verified recording, concrete playing demands and intended audience remain unknown."
-      }
+      },
+      "assigned_level": "Second Year",
+      "decision": "Second Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Second Year."
     },
     {
       "chat_number": 24,
@@ -2107,7 +2240,11 @@
           "multi-instruments": "Soprano or tenor saxophone, or B-flat clarinet, with piano"
         },
         "chat_summary": "Ulehla’s composer-authored adaptation retains a clarinet original and supplies a soprano part, with tenor optional and piano required. Publisher and LSU doctoral-study evidence identify free improvisation as integral. This legitimate transcription remains for judgment. Blocked previews leave notated range and techniques unknown; no exact recording or composition date is verified."
-      }
+      },
+      "assigned_level": "Third Year",
+      "decision": "Third Year",
+      "review_applied": true,
+      "decision_note": "Tim assigned Third Year."
     },
     {
       "chat_number": 25,
@@ -2180,7 +2317,17 @@
           "library-score": []
         },
         "chat_summary": "Four movements for alto and piano. Inspected Tranquility opening is slow, quarter note 52, with sustained slurred notes, chromatic eighth-note gestures and changes between 3/4 and 4/4. Piano enters quietly after the opening solo phrase. Later movements and recording remain unknown. The 2002 date is copyright."
-      }
+      },
+      "removed": true,
+      "retired_url": "/works/lynden-de-young-impressions/",
+      "retired_aliases": [],
+      "redirect_to": "/",
+      "removed_work_snapshot": "---\ntitle: \"Impressions\"\nslug: lynden-de-young-impressions\ncomposer:\n  - \"[[Lynden De Young]]\"\ninstruments:\n  - \"Alto Saxophone\"\n  - \"Piano\"\ncomposed: \nyear-of-study: \nstreaming: \npurchase:\n  - https://www.grothmusic.com/p-146278.aspx\nadded: 2024-03-08\nresearch:\n  - \"Dorn DORN0159; four movements: Tranquility, Indecision, Melancholy, Zest · https://www.grothmusic.com/p-146278.aspx\"\n  - \"Exact DORN0159 edition is alto saxophone and piano, four movements Tranquility, Indecision, Melancholy and Zest; copyright 2002. · https://www.grothmusic.com/p-146278.aspx\"\n  - \"Opening Tranquility notation and copyright inspected; slow sustained phrases, chromatic gestures, changing meter and quiet piano responses. · https://grothmusic.com/images/product/large/ae00-127109.jpg\"\n  - \"Dorn publisher catalog lists DeYoung Impressions, order 159, under alto saxophone and piano. · https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf\"\naliases: []\npublisher:\n  - \"Dorn Publications\"\n---\n## Research notes (private)\n\n### Chat batch 13 follow-up, 2026-10-14\n\nFour movements for alto and piano. Inspected Tranquility opening is slow, quarter note 52, with sustained slurred notes, chromatic eighth-note gestures and changes between 3/4 and 4/4. Piano enters quietly after the opening solo phrase. Later movements and recording remain unknown. The 2002 date is copyright.\n\n[[Review 0238 - Lynden De Young - Impressions|Full evidence and open questions]]\n\n\n- Dorn DORN0159; four movements: Tranquility, Indecision, Melancholy, Zest · [grothmusic.com](https://www.grothmusic.com/p-146278.aspx)\n\n<!-- saxobrain-research-review-2026-10-11 -->\n\n### Research Review, October 11, 2026\n\n[[Review 0238 - Lynden De Young - Impressions|Full review note]]\n\nCatalog: [[Lynden De Young - Impressions]]\n\n- Identity: Dorn catalog identifies Lynden De Young’s Impressions for alto saxophone and piano, no. DORN0159, with four movements titled Tranquility, Indecision, Melancholy, and Zest. Searches found no primary score, recording, or pedagogical placement.\n- Dorn catalog lists Impressions by Lynden De Young, no. 159, with instrumentation and movement labels from the listing. [Dorn Publications catalog](https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf) (search_index_only).\n- Collection/use: Published saxophone/piano work; original status and intended audience unverified.\n- Gaps: No score sample, performance recording, or college/contest syllabus reference located.; Exact dates, duration, range, and techniques unknown.\n\n",
+      "assigned_level": null,
+      "decision": "Removed",
+      "review_applied": true,
+      "decision_note": "Tim requested removal from the catalog. The private evidence log is retained."
     }
-  ]
+  ],
+  "applied_on": "2026-10-14"
 }

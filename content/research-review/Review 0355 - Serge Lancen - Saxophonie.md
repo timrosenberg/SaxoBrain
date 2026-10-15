@@ -3,10 +3,10 @@ title: "Review 0355: Serge Lancen - Saxophonie"
 added: 2026-10-11
 review-id: 355
 review-packet: 15
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Serge Lancen - Saxophonie]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [Serge Lancen - Saxophonie.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Serge Lancen - Saxophonie.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0355.json).
+Catalog: removed at Tim’s request on October 14, 2026.
 
 **Identity and findings.** Serge Lancen’s Saxophonie is catalogued by Billaudot as MRB1044 B for alto saxophone in E-flat and piano. The Philharmonie de Paris guide lists a four-minute duration and gives movement tempo and range descriptions, but those details describe the guide’s catalog entry, not an inspected score.
 
@@ -42,3 +42,7 @@ Catalog: [Serge Lancen - Saxophonie.md](/Users/trosenberg/Documents/GitHub/SaxoB
 - No verified recording identified.
 
 **Tim decision:** pending.
+
+## Catalog Removal, October 14, 2026
+
+Tim requested removal from the catalog. The private evidence log is retained.

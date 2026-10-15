@@ -3,10 +3,10 @@ title: "Review 0251: Marius Flothuis - Kleine Suite, Op. 47"
 added: 2026-10-11
 review-id: 251
 review-packet: 11
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Marius Flothuis - Kleine Suite, Op. 47]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog entry: [[Marius Flothuis - Kleine Suite, Op. 47]].
+Catalog: removed at Tim’s request on October 14, 2026.
 
 Marius Flothuis, Kleine Suite (Vocalises), Op. 47 (1952), was originally for soprano and piano. Donemus catalog data says the soprano part is also playable by oboe, clarinet, soprano saxophone, or trumpet. It gives five movements, nine-minute duration, and product 01556. A separate work, Op. 47a (1952/1995), is for soprano, flute, strings, and harp; do not conflate it with Op. 47.
 [Donemus publisher record, product 01556](https://webshop.donemus.com/action/front/sheetmusic/1556) (search_index_only): Donemus catalog record for Kleine Suite (Vocalises), Op. 47, 1952, identifies soprano and piano; remarks say the soprano part is also performable on oboe, clarinet, soprano saxophone, or trumpet. It lists five movements, nine minutes, and 16-page score/8-page part.
@@ -42,3 +42,7 @@ Searches checked:
 - Marius Flothuis Kleine Suite Op 47 soprano saxophone Donemus
 - Kleine Suite op 47 Flothuis saxophone soprano repertoire list
 - Donemus Flothuis Op 47 vocalises saxophone part
+
+## Catalog Removal, October 14, 2026
+
+Tim requested removal from the catalog. The private evidence log is retained.

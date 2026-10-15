@@ -3,10 +3,10 @@ title: "Review 0282: Paul Rougnon - Concert Solo No. 1"
 added: 2026-10-11
 review-id: 282
 review-packet: 12
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Paul Rougnon - Concert Solo No. 1]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [Paul Rougnon - Concert Solo No. 1.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Paul Rougnon - Concert Solo No. 1.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0282.json).
+Catalog: removed at Tim’s request on October 14, 2026.
 
 **Identity and findings.** The catalog identifies Paul Rougnon’s Concert Solo No. 1 in the Himie Voxman/Block edition, Southern ST791, for alto saxophone and piano. Retailer records corroborate the arrangement but no score page or verified performance specific to this edition was found.
 
@@ -41,3 +41,7 @@ Catalog: [Paul Rougnon - Concert Solo No. 1.md](/Users/trosenberg/Documents/GitH
 - No primary publisher record, public score preview or verified recording located.
 
 **Tim decision:** pending.
+
+## Catalog Removal, October 14, 2026
+
+Tim requested removal from the catalog. The private evidence log is retained.

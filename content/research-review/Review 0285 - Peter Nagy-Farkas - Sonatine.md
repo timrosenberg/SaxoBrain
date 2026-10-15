@@ -3,10 +3,10 @@ title: "Review 0285: Peter Nagy-Farkas - Sonatine"
 added: 2026-10-11
 review-id: 285
 review-packet: 12
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Peter Nagy-Farkas - Sonatine]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [Peter Nagy-Farkas - Sonatine.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Peter Nagy-Farkas - Sonatine.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0285.json).
+Catalog: removed at Tim’s request on October 14, 2026.
 
 **Identity and findings.** Dorn Publications DORN0161 is Peter Nagy-Farkas’s Sonatine for alto saxophone and piano. No composer/publisher page, readable notation or verified performance was located in this pass.
 
@@ -40,3 +40,7 @@ Catalog: [Peter Nagy-Farkas - Sonatine.md](/Users/trosenberg/Documents/GitHub/Sa
 - No score, performance or college programming evidence found.
 
 **Tim decision:** pending.
+
+## Catalog Removal, October 14, 2026
+
+Tim requested removal from the catalog. The private evidence log is retained.

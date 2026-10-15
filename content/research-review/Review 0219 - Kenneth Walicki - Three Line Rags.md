@@ -3,8 +3,8 @@ title: "Review 0219: Kenneth Walicki - Three Line Rags"
 added: 2026-10-11
 review-id: 219
 review-packet: 9
-review-decision: Pending
-review-applied: false
+review-decision: "Fourth Year"
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Kenneth Walicki - Three Line Rags]]"
 build:
@@ -59,3 +59,7 @@ Sources checked:
 - [Ken Walicki composer-hosted score](https://storage.googleapis.com/production-netfirms-v1-0-5/355/1939355/UDClDPQr/264a83f47cdd43eba65f2b12f31646b3?fileName=3%20Line%20Rags-COMPLETE.pdf): Composer-hosted complete revised score, three movement names, explicit composition January 1983, transposed alto and slide notation inspected. (score_inspected)
 - [Ken Walicki composer website](https://www.kenwalicki.com/scores-recordings): Composer offers both scores for free public access. (opened)
 - [New York Public Library American Music Center finding aid](https://nyplorg-data-archives.s3.amazonaws.com/uploads/collection/generated_finding_aids/mus24605.pdf): Three line rags for alto saxophone and piano, Ken Walicki, published holograph-reproduction score held in box 2111. (opened)
+
+## Chat Batch 13 Decision, 2026-10-14
+
+Tim assigned Fourth Year.

@@ -3,7 +3,7 @@ title: "Review 0227: Kumiko Tanaka - La Brise"
 added: 2026-10-11
 review-id: 227
 review-packet: 10
-review-decision: Pending
+review-decision: "Hold"
 review-applied: false
 notation-inspected: false
 catalog-entry: "[[Kumiko Tanaka - La Brise]]"
@@ -49,3 +49,7 @@ Sources checked:
 - [CDMC Windmusic library catalog](https://windmusic.org/index.php?id=10401&lvl=notice_display): 2001 publication, 2:50, score plus part and CDMC score holding. (opened)
 - [Confédération Musicale de France, Annales Bois 1996 to 2024](https://www.cmf-musique.org/wp-content/uploads/2024/10/Annales-Bois.pdf): 2002 end-of-first-cycle saxophone examination selection, G7021B. (opened)
 - [CMF Media recording catalog](https://cmf-media.org/pmb/opac_css/index.php?lvl=notice_display&id=9689): An indexed CMF Media record identifies a sound recording, but its exact page is blocked by a CrowdSec security check and no accessible audio was verified. (search_index_only)
+
+## Chat Batch 13 Decision, 2026-10-14
+
+Tim marked the difficulty unknown. Review is on hold; the work remains unassigned.

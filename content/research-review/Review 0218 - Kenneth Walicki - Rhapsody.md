@@ -3,8 +3,8 @@ title: "Review 0218: Kenneth Walicki - Rhapsody"
 added: 2026-10-11
 review-id: 218
 review-packet: 9
-review-decision: Pending
-review-applied: false
+review-decision: "Fourth Year"
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Kenneth Walicki - Rhapsody]]"
 build:
@@ -58,3 +58,7 @@ Sources checked:
 - [Groth Music / Dorn Publications score preview](https://grothmusic.com/images/product/large/ae00-126999.jpg): Opening notation and pitch scope personally inspected. (score_inspected)
 - [Ken Walicki composer-hosted score](https://storage.googleapis.com/production-netfirms-v1-0-5/355/1939355/UDClDPQr/995b647718784c9693db67350cde0186?fileName=Rhapsody%20for%20alto%20sax%20and%20piano%20-%20Score.pdf): Public score link exists and its completeness limitation was visually inspected. (score_inspected)
 - [Ken Walicki composer website](https://www.kenwalicki.com/scores-recordings): Rhapsody has a Score link only, without an adjacent Recording link. (opened)
+
+## Chat Batch 13 Decision, 2026-10-14
+
+Tim assigned Fourth Year.

@@ -3,10 +3,10 @@ title: "Review 0262: Melvin Solomon - Sonatina"
 added: 2026-10-11
 review-id: 262
 review-packet: 11
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Melvin Solomon - Sonatina]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog entry: [[Melvin Solomon - Sonatina]].
+Catalog: removed at Tim’s request on October 14, 2026.
 
 Jay C. Easton’s recommended B-flat soprano saxophone repertoire list, with piano unless specified, includes Melvin Solomon’s Sonatina, lists grade/comment 4, and names Dorn as publisher. The list supports soprano saxophone and piano identity, but no Dorn edition or notation was inspected.
 [Jay C. Easton soprano saxophone repertoire list](https://www.jayeaston.com/Saxophonist_resources/resources_soprano_rep.html) (opened): Jay C. Easton’s recommended repertoire list for B-flat soprano saxophone, with piano unless specified, includes Melvin Solomon’s Sonatina, grade/comment 4, publisher Dorn. This is an individual repertoire-list classification, not a college-year mapping.
@@ -41,3 +41,7 @@ Searches checked:
 - Melvin Solomon Sonatina soprano saxophone piano Dorn publisher score
 - Opened Jay C. Easton’s recommended B-flat soprano saxophone repertoire list; checked Solomon entry
 - Checked a publicly indexed repertory reference PDF for the same title; no primary edition or score was established
+
+## Catalog Removal, October 14, 2026
+
+Tim requested removal from the catalog. The private evidence log is retained.

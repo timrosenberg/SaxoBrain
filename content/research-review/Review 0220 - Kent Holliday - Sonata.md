@@ -3,8 +3,8 @@ title: "Review 0220: Kent Holliday - Sonata"
 added: 2026-10-11
 review-id: 220
 review-packet: 9
-review-decision: Pending
-review-applied: false
+review-decision: "Third Year"
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Kent Holliday - Sonata]]"
 build:
@@ -56,3 +56,7 @@ Sources checked:
 - [Groth Music](https://www.grothmusic.com/p-140165.aspx): Exact DORN0172, score and alto part, dedication, three movements and 61-page listing. (opened)
 - [Dorn score via Groth](https://grothmusic.com/images/product/large/ae00-121776_2_.jpg): Opening notation and1996 copyright inspected. (score_inspected)
 - [Dorn Publications](https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf): Dorn catalog identifies Holliday Sonata under alto saxophone and piano. (opened)
+
+## Chat Batch 13 Decision, 2026-10-14
+
+Tim assigned Third Year.

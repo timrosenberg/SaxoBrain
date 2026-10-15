@@ -3,10 +3,10 @@ title: "Review 0135: Hans Engelmann - Integrale"
 added: 2026-10-11
 review-id: 135
 review-packet: 6
-review-decision: "Hold"
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Hans Engelmann - Integrale]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [Hans Engelmann - Integrale.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Hans Engelmann - Integrale.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0135.json).
+Catalog: removed at Tim’s request on October 14, 2026.
 
 **Identity and findings.** Hans Ulrich Engelmann’s Integrale, Op.14a is a saxophone-and-piano work. The University of the Arts Helsinki archive holds a digitized 2009 recording featuring saxophonist Irene Schacker and pianist Else Stock-Hug, but access is restricted to library workstations. A Darmstadt bibliography dates the work to 1954.
 
@@ -64,3 +64,7 @@ Sources checked:
 ## Chat Batch 10 Decision, 2026-10-14
 
 Tim marked the difficulty unknown. Review is on hold; the work remains unassigned.
+
+## Catalog Removal, October 14, 2026
+
+Tim requested removal from the catalog. The private evidence log is retained.

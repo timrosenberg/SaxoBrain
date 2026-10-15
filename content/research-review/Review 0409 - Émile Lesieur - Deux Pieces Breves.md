@@ -3,10 +3,10 @@ title: "Review 0409: Émile Lesieur - Deux Pieces Breves"
 added: 2026-10-11
 review-id: 409
 review-packet: 17
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Émile Lesieur - Deux Pieces Breves]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog entry: [[Émile Lesieur - Deux Pieces Breves]].
+Catalog: removed at Tim’s request on October 14, 2026.
 
 Émile Lesieur's Deux pièces brèves is an E-flat saxophone and piano work published by Billaudot (GB3794), copyright 1984; publisher lists 12 pages.
 [Éditions Billaudot](https://www.billaudot.com/gb3794-6.html) (search_index_only): Billaudot official catalog search result identifies E-flat saxophone and piano, GB3794, 12 pages, copyright 1984.
@@ -38,3 +38,7 @@ Open questions: Publisher page could not be opened; score and recording not insp
 Searches checked:
 - Emile Lesieur Deux Pieces Breves Billaudot GB3794 score
 - Deux Pieces Breves Lesieur youth competition saxophone
+
+## Catalog Removal, October 14, 2026
+
+Tim requested removal from the catalog. The private evidence log is retained.

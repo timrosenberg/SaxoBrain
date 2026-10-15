@@ -3,10 +3,10 @@ title: "Review 0296: Pierre Villette - Arabesque"
 added: 2026-10-11
 review-id: 296
 review-packet: 12
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Pierre Villette - Arabesque]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [Pierre Villette - Arabesque.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Pierre Villette - Arabesque.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0296.json).
+Catalog: removed at Tim’s request on October 14, 2026.
 
 **Identity and findings.** Pierre Villette’s Arabesque is for alto saxophone and piano or orchestra, Leduc AL27378. The 1993 Philharmonie de Paris guide gives 10 minutes, describes the piece as musically focused without technical difficulty, and reports that the orchestra version was then unavailable from the publisher. A current Como conservatory first-cycle admission syllabus lists the alto-and-piano work in Group 3. The local catalog’s approximate 8:30 remains a separate source value.
 
@@ -44,3 +44,7 @@ Catalog: [Pierre Villette - Arabesque.md](/Users/trosenberg/Documents/GitHub/Sax
 - The Philharmonie guide said orchestra materials were unavailable at the publisher in 1993; current orchestral-material availability was not checked.
 
 **Tim decision:** pending.
+
+## Catalog Removal, October 14, 2026
+
+Tim requested removal from the catalog. The private evidence log is retained.

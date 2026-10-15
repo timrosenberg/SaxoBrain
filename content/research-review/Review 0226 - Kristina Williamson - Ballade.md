@@ -3,8 +3,8 @@ title: "Review 0226: Kristina Williamson - Ballade"
 added: 2026-10-11
 review-id: 226
 review-packet: 10
-review-decision: Pending
-review-applied: false
+review-decision: "Second Year"
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Kristina Williamson - Ballade]]"
 build:
@@ -42,3 +42,7 @@ Open questions: Composition date not verified; visible copyright is not used as 
 Sources checked:
 - [Groth Music exact product listing](https://www.grothmusic.com/p-146136.aspx): The opened Groth product identifies Ballade by Kristina Williamson, for alto saxophone and piano, published by Etoile Music, catalog ET151014. The current purchase listing is exact-work evidence. (opened)
 - [Groth Music edition notation preview](https://www.grothmusic.com/images/product/large/ae00-126991_2_.jpg): First notation page visually inspected; scope and observations are recorded above. (score_inspected)
+
+## Chat Batch 13 Decision, 2026-10-14
+
+Tim assigned Second Year.

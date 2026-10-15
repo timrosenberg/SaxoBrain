@@ -3,10 +3,10 @@ title: "Review 0281: Paul Lacome - Rigaudon"
 added: 2026-10-11
 review-id: 281
 review-packet: 12
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Paul Lacome - Rigaudon]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [Paul Lacome - Rigaudon.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Paul Lacome - Rigaudon.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0281.json).
+Catalog: removed at Tim’s request on October 14, 2026.
 
 **Identity and findings.** The catalog lists Paul Lacome’s Rigaudon, edition Southern SS290, arranged for alto saxophone and piano by Albert Andraud and dedicated to Larry Teal. Search results also surfaced a tenor edition; specific instrumentation and arrangement details should be confirmed against the held edition.
 
@@ -45,3 +45,7 @@ Catalog: [Paul Lacome - Rigaudon.md](/Users/trosenberg/Documents/GitHub/SaxoBrai
 - No authenticated saxophone performance located.
 
 **Tim decision:** pending.
+
+## Catalog Removal, October 14, 2026
+
+Tim requested removal from the catalog. The private evidence log is retained.

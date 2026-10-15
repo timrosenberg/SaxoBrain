@@ -3,8 +3,8 @@ title: "Review 0230: Leo Kraft - Three Pieces"
 added: 2026-10-11
 review-id: 230
 review-packet: 10
-review-decision: Pending
-review-applied: false
+review-decision: "Fourth Year"
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Leo Kraft - Three Pieces]]"
 build:
@@ -44,3 +44,7 @@ Sources checked:
 - [Groth Music](https://www.grothmusic.com/p-145580.aspx): Exact Dorn edition and scoring. (opened)
 - [Dorn via Groth](https://grothmusic.com/images/product/large/ae00-126439.jpg): 1977 work date, 1979 copyright, dedication and opening notation. (score_inspected)
 - [New York Public Library](https://nyplorg-data-archives.s3.amazonaws.com/uploads/collection/generated_finding_aids/mus24605.pdf): Institutional published-score holding listed under Kraft, box 1535. (opened)
+
+## Chat Batch 13 Decision, 2026-10-14
+
+Tim assigned Fourth Year.

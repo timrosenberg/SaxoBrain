@@ -3,8 +3,8 @@ title: "Review 0216: Karsten Fundal - A Portrait of Silence"
 added: 2026-10-11
 review-id: 216
 review-packet: 9
-review-decision: Pending
-review-applied: false
+review-decision: "Third Year"
+review-applied: true
 notation-inspected: false
 catalog-entry: "[[Karsten Fundal - A Portrait of Silence]]"
 build:
@@ -60,3 +60,7 @@ Sources checked:
 - [Ying-Hsueh Chen / YouTube](https://www.youtube.com/watch?v=PGMELfXzmkQ): Trio ZOOM premiere, 2011, performers, venue and public performance. (opened)
 - [Dacapo Records](https://www.dacapo-records.dk/en/recordings/fundal-ekkozone-performs-karsten-fundal): Ekkozone track 8,11:13, excerpt player. (opened)
 - [All Sheet Music](https://www.all-sheetmusic.com/Sheetmusic/Karsten-Fundal-Sheet-Music-for-Ensemble/): WH31416, Wilhelm Hansen, alto/percussion/piano, written for ensemble Zoom. (search_index_only)
+
+## Chat Batch 13 Decision, 2026-10-14
+
+Tim assigned Third Year.

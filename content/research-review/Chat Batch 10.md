@@ -9,7 +9,7 @@ build:
 
 # Chat Batch 10
 
-Decisions recorded 2026-10-14: fifteen level assignments, seven removals and three holds for unknown difficulty. Chat numbers 1–25 identify this batch. Verified metadata is added to the work pages; evidence limits appear below. Recording verification and any audition limits are recorded per work.
+Decisions recorded 2026-10-14: fifteen level assignments, eight removals and two holds for unknown difficulty. Chat numbers 1–25 identify this batch. Verified metadata is added to the work pages; evidence limits appear below. Recording verification and any audition limits are recorded per work.
 
 ## 1. Greg Danner - Rhapsody
 
@@ -145,7 +145,7 @@ Raphael Sonata: estate confirms 1957, and label confirms Op. 74a in memoriam Emi
 
 ## 9. Hans Engelmann - Integrale
 
-[[Hans Engelmann - Integrale|Work page]] · [[Review 0135 - Hans Engelmann - Integrale|Full review]]
+Removed from catalog · [[Review 0135 - Hans Engelmann - Integrale|Full review]]
 
 Intégrale offers concrete work-specific evidence: about 7 minutes, no extended saxophone techniques according to DeLouis, and changing asymmetrical meters in movement 2. This is an original alto-and-piano concert work. No notation was inspected, and the identified archive audio is restricted.
 
@@ -159,7 +159,7 @@ Intégrale offers concrete work-specific evidence: about 7 minutes, no extended 
 
 **Recording documentation:** [Irene Schacker, saxophone, and Else Stock-Hug, piano; institutional MP3 record. (restricted institutional audio)](https://taju.uniarts.fi/items/48bf355a-f3af-483e-82ad-ff2dbe0e2360)
 
-**Tim’s decision:** Hold (difficulty unknown). Remains unassigned.
+**Tim’s decision:** Removed. Applied 2026-10-14. This supersedes the earlier hold.
 
 ## 10. Harald Genzmer - Sonate (Alto)
 

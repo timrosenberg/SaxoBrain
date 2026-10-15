@@ -3,10 +3,10 @@ title: "Review 0368: Thom David Mason - Canzone Da Sonar"
 added: 2026-10-11
 review-id: 368
 review-packet: 15
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Thom David Mason - Canzone Da Sonar]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [Thom David Mason - Canzone Da Sonar.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Thom David Mason - Canzone Da Sonar.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0368.json).
+Catalog: removed at Tim’s request on October 14, 2026.
 
 **Identity and findings.** Retailer listings identify Thom David Mason’s Canzone Da Sonar (Southern ST72) for alto saxophone and piano. Bergeron’s 2020 multiphonics reference lists the 1974 work and multiple coded multiphonic fingerings; the score edition itself remains uninspected.
 
@@ -40,3 +40,7 @@ Catalog: [Thom David Mason - Canzone Da Sonar.md](/Users/trosenberg/Documents/Gi
 - The technical reference documents multiphonic fingerings associated with the work but does not establish their exact placement or number in this edition. No matching score preview or verified performance recording was found.
 
 **Tim decision:** pending.
+
+## Catalog Removal, October 14, 2026
+
+Tim requested removal from the catalog. The private evidence log is retained.

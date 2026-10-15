@@ -3,8 +3,8 @@ title: "Review 0215: Jérôme Naulais - Metamorphoses"
 added: 2026-10-11
 review-id: 215
 review-packet: 9
-review-decision: Pending
-review-applied: false
+review-decision: "Third Year"
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Jérôme Naulais - Metamorphoses]]"
 build:
@@ -60,3 +60,7 @@ Sources checked:
 - [Billaudot score via Groth](https://grothmusic.com/images/product/large/ae00-125995_2_.jpg): Notation and transposed alto scoring personally inspected. (score_inspected)
 - [CDMC Alsace Windmusic catalog](https://windmusic.org/index.php?id=7130&lvl=notice_display): Exact institutional score holding and publication 1997. (opened)
 - [Jan Schaeken / YouTube](https://www.youtube.com/watch?v=ObedOM6IEqI): Exact work, performers and public complete-work performance. (opened)
+
+## Chat Batch 13 Decision, 2026-10-14
+
+Tim assigned Third Year.

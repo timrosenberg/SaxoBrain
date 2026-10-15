@@ -3,10 +3,10 @@ title: "Review 0340: Roger Calmel - Suite"
 added: 2026-10-11
 review-id: 340
 review-packet: 14
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Roger Calmel - Suite]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog entry: [[Roger Calmel - Suite]].
+Catalog: removed at Tim’s request on October 14, 2026.
 
 An Antwerp Conservatory library result records Roger Calmel's Suite for alto saxophone and piano, Maurer, 1961, dedicated to François Daneels; edition number and movement labels remain to be checked.
 [Royal Conservatoire Antwerp catalog](https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf) (search_index_only): Institutional catalog result records the instrumentation, publisher, year, dedication and a manuscript facsimile.
@@ -37,3 +37,7 @@ Open questions: No score or performance inspected. Maurer numbers, duration and 
 Searches checked:
 - Roger Calmel Suite Maurer saxophone piano
 - Calmel Suite Maurer 1961 François Daneels
+
+## Catalog Removal, October 14, 2026
+
+Tim requested removal from the catalog. The private evidence log is retained.

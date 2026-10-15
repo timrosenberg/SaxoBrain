@@ -7,8 +7,8 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 1988
-year-of-study: 
-streaming: "https://katherineannmurdock.com/terra-incognita-1988/"
+year-of-study: "Fourth Year"
+streaming: "https://soundcloud.com/katherine-ann-murdock/terra-incognita"
 purchase:
   - https://www.grothmusic.com/p-145599.aspx
 added: 2024-03-08

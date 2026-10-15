@@ -7,7 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
-year-of-study: 
+year-of-study: "Second Year"
 streaming: 
 purchase:
   - "https://www.boosey.com/shop/prod/Robert-Lucie-3-Chansons/2288428"

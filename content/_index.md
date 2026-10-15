@@ -2,6 +2,86 @@
 title: "SaxoBrain"
 # Retired work URLs redirect to the repertoire catalog.
 aliases:
+  - /works/emile-marty-premiere-fantasy/
+  - /works/pietro-mascagni-intermezzo-sinfonico/
+  - /works/thom-david-mason-canzone-da-sonar/
+  - /works/thomas-massella-romance/
+  - /works/michael-mauldin-three-songs/
+  - /works/jules-mazellier-theme-varie/
+  - /works/knut-naessen-sonata-vocata/
+  - /works/peter-nagy-farkas-sonatine/
+  - /works/gary-nash-valse-and-intermezzo/
+  - /works/lucien-niverd-romance-sentimentale/
+  - /works/maria-theresia-paradis-sicilienne/
+  - /works/maria-theresia-paradies-sicilienne/
+  - /works/richard-phillips-petit-bal/
+  - /works/marianne-ploger-elegy/
+  - /works/philippe-portejoie-petite-complainte/
+  - /works/scott-richards-latin-fever/
+  - /works/paul-rougnon-concert-solo-no-1/
+  - /works/rolf-rudin-nachtstucke/
+  - /works/domenico-scarlatti-andante-con-moto/
+  - /works/jules-semler-collery-lied/
+  - /works/jules-auguste-semler-collery-lied/
+  - /works/melvin-solomon-sonatina/
+  - /works/richard-strauss-allerseelen/
+  - /works/frigyes-strimer-serenade/
+  - /works/mark-taggart-fantasia-on-a-theme/
+  - /works/james-taggart-fantasia-on-a-theme/
+  - /works/maurice-thiriet-adagio/
+  - /works/william-thornton-sonata/
+  - /works/andre-vergauwen-cantilena/
+  - /works/pierre-villette-arabesque/
+  - /works/roger-vouillemin-divertimento/
+  - /works/wolfram-wagner-sonata/
+  - /works/robert-walker-souvenir/
+  - /works/jean-paul-egide-martini-plaisir-d-amour/
+  - /works/patrick-mancone-sur-les-champs-y-elysees/
+  - /works/michael-leibowitz-sonata/
+  - /works/armin-kaufmann-musik-fur-tarogato-op-91/
+  - /works/franz-liszt-hungarian-dance-no-2/
+  - /works/h-benne-henton-waltz-suite/
+  - /works/wolfgang-hildemann-sonata-da-camera/
+  - /works/jean-clement-isabelle-duo-concertante/
+  - /works/hans-engelmann-integrale/
+  - /works/marius-flothuis-kleine-suite-op-47/
+  - /works/christopher-gallaher-sonatina/
+  - /works/marc-jean-delmas-soir-d-ete/
+  - /works/petr-eben-sonatina/
+  - /works/sonny-burnette-winter-wind/
+  - /works/roger-calmel-suite/
+  - /works/roberto-gerhard-rhapsodie/
+  - /works/emile-lesieur-deux-pieces-breves/
+  - /works/elmer-takeo-kudo-box-steps-for-two/
+  - /works/trent-kynaston-deux-ombres-jade/
+  - /works/paul-lacome-rigaudon/
+  - /works/serge-lancen-saxophonie/
+  - /works/ralph-lehman-introduction-song-and-gigue/
+  - /works/bryan-kelly-two-romantic-pieces/
+  - /works/johann-nepomuk-hummel-invocations/
+  - /works/joseph-haydn-adagio/
+  - /works/rene-guillou-sonatine-5th/
+  - /works/charles-gounod-recitatief-cavatine-allegretto/
+  - /works/enrique-granados-madrigal/
+  - /works/richard-h-rehl-the-duchess/
+  - /works/edouard-de-roeck-aria-op-25/
+  - /works/tomaso-antonio-vitali-chaconne-en-sol-mineur/
+  - /works/edmund-soule-intermezzo/
+  - /works/robert-waring-labyrinth-of-daedals/
+  - /works/robert-waring-labryinth-of-daedals/
+  - /works/leo-weiner-adagio/
+  - /works/frank-williams-three-dances/
+  - /works/jerome-naulais-au-hasard-d-une-note/
+  - /works/jerome-naulais-kansax-city/
+  - /works/kevin-howard-ballade/
+  - /works/kevin-howard-elegy/
+  - /works/kevin-howard-meditation-no-2/
+  - /works/kevin-howard-rondo/
+  - /works/leonard-price-big-sur-triptych/
+  - /works/leroy-ostransky-suite/
+  - /works/lynden-de-young-impressions/
+  - /works/rene-gaudron-andante-et-allegro/
+  - /works/gerard-gastonel-improvisation-ii/
   - /works/johannes-brahms-intermezzo-in-a/
   - /works/joseph-descamps-danse-arabe/
   - /works/michael-delgiudice-complainte-et-divertissement/
@@ -137,6 +217,8 @@ aliases:
   - /works/george-gershwin-andante-finale/
   - /works/henry-fillmore-15-rags/
   - /works/j-b-faulx-piece-de-concert/
+  - /works/j-b-faulx-bagatelle/
+  - /works/j-b-faulx-piece-de-concert-2/
   - /works/jacques-ibert-le-petit-ane-blanc/
   - /works/jeanine-rueff-caracteres-bk-2/
   - /works/lennie-niehaus-brattleboro-anthem/

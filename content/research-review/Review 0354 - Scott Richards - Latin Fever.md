@@ -3,10 +3,10 @@ title: "Review 0354: Scott Richards - Latin Fever"
 added: 2026-10-11
 review-id: 354
 review-packet: 15
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Scott Richards - Latin Fever]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [Scott Richards - Latin Fever.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Scott Richards - Latin Fever.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0354.json).
+Catalog: removed at Tim’s request on October 14, 2026.
 
 **Identity and findings.** Editions Marc Reift item EMR2227E is Scott Richards’s Latin Fever for alto saxophone and piano/keyboard, with optional drums, according to an exact-item retailer search result. Other Reift Latin Fever products have different saxophone scorings and are separate editions. No notation from EMR2227E was inspected.
 
@@ -43,3 +43,7 @@ Catalog: [Scott Richards - Latin Fever.md](/Users/trosenberg/Documents/GitHub/Sa
 - Different Reift products named Latin Fever have different scoring; do not transfer their details to EMR2227E.
 
 **Tim decision:** pending.
+
+## Catalog Removal, October 14, 2026
+
+Tim requested removal from the catalog. The private evidence log is retained.

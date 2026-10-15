@@ -3,10 +3,10 @@ title: "Review 0370: Thomas Massella - Romance"
 added: 2026-10-11
 review-id: 370
 review-packet: 15
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Thomas Massella - Romance]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [Thomas Massella - Romance.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Thomas Massella - Romance.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0370.json).
+Catalog: removed at Tim’s request on October 14, 2026.
 
 **Identity and findings.** Thomas Massella's Romance is listed by his composer site as an alto saxophone solo published by Dorn; the catalog retailer lists an alto saxophone and piano edition, DORN0180.
 
@@ -37,3 +37,7 @@ Catalog: [Thomas Massella - Romance.md](/Users/trosenberg/Documents/GitHub/SaxoB
 - Clarify the piano accompaniment status from the actual edition; no score preview or college programming found.
 
 **Tim decision:** pending.
+
+## Catalog Removal, October 14, 2026
+
+Tim requested removal from the catalog. The private evidence log is retained.

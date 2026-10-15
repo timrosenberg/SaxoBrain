@@ -3,10 +3,10 @@ title: "Review 0224: Kevin Howard - Meditation No. 2"
 added: 2026-10-11
 review-id: 224
 review-packet: 9
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: true
-catalog-entry: "[[Kevin Howard - Meditation No. 2]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [Kevin Howard - Meditation No. 2.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Kevin Howard - Meditation No. 2.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0224.json).
+Catalog: removed at Tim’s request on 2026-10-14.
 
 **Identity and findings.** The Dorn Publications catalog identifies Kevin Howard’s Meditation No. 2 as order 1935 in its Alto Saxophone and Piano section. This confirms the current publisher catalog listing and instrumentation, but not score-specific demands or a performance history.
 
@@ -58,3 +58,7 @@ Sources checked:
 - [Groth Music edition notation preview](https://www.grothmusic.com/images/product/large/ae00-125563.jpg): First notation page visually inspected; scope and observations are recorded above. (score_inspected)
 - [Groth Music Dorn Publications](https://www.grothmusic.com/t-dorn.aspx): Groth reports acquisition of Dorn Publications and transfer of Dorn and Needham copyrights on February 21, 2024, supporting its role as the current publisher source. (opened)
 - [Dorn Publications catalog, April 2025](https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf): Dorn publisher catalog lists the exact work under Alto Saxophone and Piano. (opened)
+
+## Chat Batch 13 Decision, 2026-10-14
+
+Tim requested removal from the catalog. The private evidence log is retained.

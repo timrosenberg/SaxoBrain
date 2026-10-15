@@ -3,10 +3,10 @@ title: "Review 0288: Philippe Portejoie - Petite Complainte"
 added: 2026-10-11
 review-id: 288
 review-packet: 12
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Philippe Portejoie - Petite Complainte]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [Philippe Portejoie - Petite Complainte.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Philippe Portejoie - Petite Complainte.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0288.json).
+Catalog: removed at Tim’s request on October 14, 2026.
 
 **Identity and findings.** Alphonse Leduc AL29785 identifies Philippe Portejoie’s Petite complainte for alto saxophone and piano, published 2007. A retailer’s French classification says “end of first cycle,” a contextual pedagogical placement rather than a SaxoBrain level.
 
@@ -44,3 +44,7 @@ Catalog: [Philippe Portejoie - Petite Complainte.md](/Users/trosenberg/Documents
 - No score notation or performance recording located.
 
 **Tim decision:** pending.
+
+## Catalog Removal, October 14, 2026
+
+Tim requested removal from the catalog. The private evidence log is retained.

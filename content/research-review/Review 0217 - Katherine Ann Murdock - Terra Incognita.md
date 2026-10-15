@@ -3,8 +3,8 @@ title: "Review 0217: Katherine Ann Murdock - Terra Incognita"
 added: 2026-10-11
 review-id: 217
 review-packet: 9
-review-decision: Pending
-review-applied: false
+review-decision: "Fourth Year"
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Katherine Ann Murdock - Terra Incognita]]"
 build:
@@ -57,3 +57,7 @@ Sources checked:
 - [Katherine Ann Murdock composer website](https://katherineannmurdock.com/works/): 1988 alto/piano work. (opened)
 - [Groth Music](https://www.grothmusic.com/p-145599.aspx): Dorn DORN0181 edition. (opened)
 - [Katherine Ann Murdock composer score](https://katherineannmurdock.com/wp-content/uploads/2016/03/terra-incognita.pdf): Three-page C-score sample with inside-piano instructions and saxophone effects inspected. (score_inspected)
+
+## Chat Batch 13 Decision, 2026-10-14
+
+Tim assigned Fourth Year. Tim supplied the direct SoundCloud recording: [Listen](https://soundcloud.com/katherine-ann-murdock/terra-incognita).

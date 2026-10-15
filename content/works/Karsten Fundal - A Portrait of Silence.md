@@ -8,7 +8,7 @@ instruments:
   - "Percussion"
   - "Piano"
 composed: 2011
-year-of-study: 
+year-of-study: "Third Year"
 streaming: "https://www.youtube.com/watch?v=PGMELfXzmkQ"
 purchase:
   - "https://www.prestomusic.com/sheet-music/products/7339693--karsten-fundal-a-portrait-of-silence"

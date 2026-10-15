@@ -3,8 +3,8 @@ title: "Review 0232: Leonard Mark Lewis - Prelude"
 added: 2026-10-11
 review-id: 232
 review-packet: 10
-review-decision: Pending
-review-applied: false
+review-decision: "Third Year"
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Leonard Mark Lewis - Prelude]]"
 build:
@@ -52,3 +52,7 @@ Sources checked:
 - [Kenneth Tse](https://www.kenneth-tse.com/discography/lyric-soprano): Exact album identity, soprano/piano performers and Prelude work inclusion. (opened)
 - [Crystal Records](https://www.crystalrecords.com/saxophone.html): Publisher label’s CD658 lists Lewis Prelude for Kenneth Tse. (opened)
 - [North American Saxophone Alliance](https://www.saxophonealliance.org/assets/2018/2018-NASA-Conference-Program-Book.pdf): Conference program index gives Prelude 2006, conflicting with Kenneth Tse 2004; live PDF unavailable. (search_index_only)
+
+## Chat Batch 13 Decision, 2026-10-14
+
+Tim assigned Third Year.

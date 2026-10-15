@@ -3,10 +3,10 @@ title: "Review 0264: Michael Mauldin - Three Songs"
 added: 2026-10-11
 review-id: 264
 review-packet: 11
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Michael Mauldin - Three Songs]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog entry: [[Michael Mauldin - Three Songs]].
+Catalog: removed at Tim’s request on October 14, 2026.
 
 Michael Mauldin, Three Songs for Saxophone and Piano, listed in the University of New Mexico Composers’ Archive. The opened archive record dates it 1999, credits Michael Mauldin as publisher, describes original manuscript and Finale score and parts, and says the work is for Carrie Koffman and Lawrence Blind. The linked score PDF was attempted but returned HTTP 403, so the notation and exact saxophone type remain unverified.
 [University of New Mexico Composers’ Archive item](https://digitalrepository.unm.edu/nm_composer_archive/561) (opened): Opened UNM archive item identifies Three Songs for Saxophone and Piano by Michael Mauldin, dated 1999, publisher Michael Mauldin. Its description says “Original manuscript and Finale score and parts to piece” and identifies the work as for Carrie Koffman and Lawrence Blind. This metadata does not establish notation details.
@@ -40,3 +40,7 @@ Searches checked:
 - Michael Mauldin Three Songs alto saxophone piano
 - Opened the UNM Composer Archive item 561 and read its full metadata
 - Attempted its exact linked PDF https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1560&context=nm_composer_archive; public retrieval returned HTTP 403
+
+## Catalog Removal, October 14, 2026
+
+Tim requested removal from the catalog. The private evidence log is retained.

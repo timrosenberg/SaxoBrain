@@ -3,8 +3,8 @@ title: "Review 0228: Laura Karpman - Capriccio"
 added: 2026-10-11
 review-id: 228
 review-packet: 10
-review-decision: Pending
-review-applied: false
+review-decision: "Fourth Year"
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Laura Karpman - Capriccio]]"
 build:
@@ -46,3 +46,7 @@ Sources checked:
 - [Groth Music Dorn Publications](https://www.grothmusic.com/t-dorn.aspx): Groth reports acquisition of Dorn Publications and transfer of Dorn and Needham copyrights on February 21, 2024, supporting its role as the current publisher source. (opened)
 - [Dorn Publications catalog, April 2025](https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf): Dorn publisher catalog lists the exact work under Alto Saxophone and Piano. (opened)
 - [New York Public Library, American Music Center published-score collection finding aid](https://nyplorg-data-archives.s3.amazonaws.com/uploads/collection/generated_finding_aids/mus24605.pdf): The NYPL American Music Center collection finding aid identifies Capriccio for alto saxophone and piano as a published score reproduced from holograph manuscript, in box 1486. (opened)
+
+## Chat Batch 13 Decision, 2026-10-14
+
+Tim assigned Fourth Year.

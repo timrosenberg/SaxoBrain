@@ -3,8 +3,8 @@ title: "Review 0231: Leonard Mark Lewis - Black Against Blue"
 added: 2026-10-11
 review-id: 231
 review-packet: 10
-review-decision: Pending
-review-applied: false
+review-decision: "Third Year"
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Leonard Mark Lewis - Black Against Blue]]"
 build:
@@ -44,3 +44,7 @@ Sources checked:
 - [Leonard Mark Lewis](https://www.leonardmarklewis.com/black-against-blue-1): Composer scoring and purchase. (opened)
 - [Leonard Mark Lewis](https://www.leonardmarklewis.com/_files/ugd/e74338_d602046b1d0a43569b3a6af4eade71b2.pdf): Opening notation and LuciaMusic footer. (score_inspected)
 - [North American Saxophone Alliance](https://www.saxophonealliance.org/assets/2018/2018-NASA-Conference-Program-Book.pdf): Conference-program index lead gives 2015 and recital credits; live PDF unavailable. (search_index_only)
+
+## Chat Batch 13 Decision, 2026-10-14
+
+Tim assigned Third Year.

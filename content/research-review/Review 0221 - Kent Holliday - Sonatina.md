@@ -3,8 +3,8 @@ title: "Review 0221: Kent Holliday - Sonatina"
 added: 2026-10-11
 review-id: 221
 review-packet: 9
-review-decision: Pending
-review-applied: false
+review-decision: "Third Year"
+review-applied: true
 notation-inspected: true
 catalog-entry: "[[Kent Holliday - Sonatina]]"
 build:
@@ -58,3 +58,7 @@ Sources checked:
 - [Groth Music exact product listing](https://www.grothmusic.com/p-156793.aspx): The opened Groth product identifies Sonatina by Kent Holliday, for alto saxophone and piano, published by Dorn Publications, catalog DORN1614. The current purchase listing is exact-work evidence. (opened)
 - [Groth Music edition notation preview](https://www.grothmusic.com/images/product/large/ae00-136275.jpg): First notation page visually inspected; scope and observations are recorded above. (score_inspected)
 - [Groth Music Dorn Publications](https://www.grothmusic.com/t-dorn.aspx): Groth reports acquisition of Dorn Publications and transfer of Dorn and Needham copyrights on February 21, 2024, supporting its role as the current publisher source. (opened)
+
+## Chat Batch 13 Decision, 2026-10-14
+
+Tim assigned Third Year.

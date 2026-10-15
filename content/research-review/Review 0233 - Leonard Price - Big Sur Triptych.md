@@ -3,10 +3,10 @@ title: "Review 0233: Leonard Price - Big Sur Triptych"
 added: 2026-10-11
 review-id: 233
 review-packet: 10
-review-decision: Pending
-review-applied: false
+review-decision: "Removed"
+review-applied: true
 notation-inspected: false
-catalog-entry: "[[Leonard Price - Big Sur Triptych]]"
+catalog-entry: "Removed from catalog"
 build:
   render: never
   list: never
@@ -22,7 +22,7 @@ build:
 
 ## Research
 
-Catalog: [[Leonard Price - Big Sur Triptych]]
+Catalog: removed at Tim’s request on 2026-10-14.
 
 - Identity: Deon Nielsen Price’s Big Sur Triptych is a 1985 work for soprano saxophone or B-flat clarinet and piano, published by Southern Music in 1996. It lasts about nine minutes and has three movements: Sea Otters, Redwoods, and Crags. The composer’s performance archive and contemporaneous reviews document saxophone performances.
 - Composer’s site gives instrumentation, date, duration, movement titles, 1985 first performance and recordings. [Culver Crest Publications, composer site](https://culvercrest.com/?p=2507) (search_index_only).
@@ -50,3 +50,7 @@ Sources checked:
 - [NAXOS of America / Bill Wilson Topic](https://www.youtube.com/watch?v=iIUvHYvpyVg): Second movement title and same album/performers. (opened)
 - [NAXOS of America / Bill Wilson Topic](https://www.youtube.com/watch?v=QwTtm-fP6Ew): Third movement title and same album/performers. (opened)
 - [Dr. Berkeley Price](https://www.youtube.com/watch?v=GmPxBQ7cViA): Complete clarinet version live performance credits. (opened)
+
+## Chat Batch 13 Decision, 2026-10-14
+
+Tim requested removal from the catalog. The private evidence log is retained.

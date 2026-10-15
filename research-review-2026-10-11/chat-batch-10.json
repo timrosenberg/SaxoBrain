@@ -2,7 +2,7 @@
   "created": "2026-10-14",
   "chat_batch": 10,
   "decision_status": "Applied",
-  "scope": "Tim’s fifteen level assignments applied; seven specified works removed; three unknown difficulties recorded as holds. Private research retained and retired URLs redirected to the catalog.",
+  "scope": "Tim’s fifteen level assignments applied; eight specified works removed; two unknown difficulties remain on hold. Hans Engelmann’s Integrale was removed after its earlier hold. Private research retained and retired URLs redirected to the catalog.",
   "works": [
     {
       "chat_number": 1,
@@ -813,9 +813,16 @@
         "chat_summary": "Intégrale offers concrete work-specific evidence: about 7 minutes, no extended saxophone techniques according to DeLouis, and changing asymmetrical meters in movement 2. This is an original alto-and-piano concert work. No notation was inspected, and the identified archive audio is restricted."
       },
       "assigned_level": null,
-      "decision": "Hold",
-      "review_applied": false,
-      "decision_note": "Tim marked the difficulty unknown. Review is on hold; the work remains unassigned."
+      "decision": "Removed",
+      "review_applied": true,
+      "decision_note": "Tim requested removal after the earlier hold for unknown difficulty.",
+      "previous_decision": "Hold",
+      "removed": true,
+      "decision_updated_on": "2026-10-14",
+      "retired_url": "/works/hans-engelmann-integrale/",
+      "retired_aliases": [],
+      "redirect_to": "/",
+      "removed_work_snapshot": "---\ntitle: \"Integrale\"\nslug: hans-engelmann-integrale\ncomposer:\n  - \"[[Hans Engelmann]]\"\ninstruments:\n  - \"Alto Saxophone\"\n  - \"Piano\"\ncomposed: 1954\nyear-of-study: \nstreaming: \npurchase:\n  - https://www.grothmusic.com/p-143406.aspx\nadded: 2024-03-08\nresearch:\n  - \"Publisher Simrock, catalog AS288; listed as Integrale Op. 14a, composer Hans Ulrich Engelmann · https://www.grothmusic.com/p-143406.aspx\"\n  - \"Seven-minute alto-and-piano work; asymmetrical changing meters in movement 2; no extended saxophone techniques; dedication and publication details. · https://fileserver-az.core.ac.uk/download/490623034.pdf\"\n  - \"Composition year 1954 and documented 1987 saxophone/piano performance. · https://internationales-musikinstitut.de/de/chronik/amsterdam-1987/\"\naliases: []\npublisher:\n  - \"Ahn & Simrock\"\n---\n## Research notes (private)\n\n### Chat batch 10 follow-up, 2026-10-14\n\nIntégrale offers concrete work-specific evidence: about 7 minutes, no extended saxophone techniques according to DeLouis, and changing asymmetrical meters in movement 2. This is an original alto-and-piano concert work. No notation was inspected, and the identified archive audio is restricted.\n\n[[Review 0135 - Hans Engelmann - Integrale|Full evidence and open questions]]\n\n\n- Publisher Simrock, catalog AS288; listed as Integrale Op. 14a, composer Hans Ulrich Engelmann · [grothmusic.com](https://www.grothmusic.com/p-143406.aspx)\n\n<!-- saxobrain-research-review-2026-10-11 -->\n\n### Research Review, October 11, 2026\n\n[[Review 0135 - Hans Engelmann - Integrale|Full review note]]\n\nCatalog: [Hans Engelmann - Integrale.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Hans Engelmann - Integrale.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0135.json).\n\n**Identity and findings.** Hans Ulrich Engelmann’s Integrale, Op.14a is a saxophone-and-piano work. The University of the Arts Helsinki archive holds a digitized 2009 recording featuring saxophonist Irene Schacker and pianist Else Stock-Hug, but access is restricted to library workstations. A Darmstadt bibliography dates the work to 1954.\n\n**Sources checked.**\n- [University of the Arts Helsinki Taju archive](https://taju.uniarts.fi/items/48bf355a-f3af-483e-82ad-ff2dbe0e2360) (opened): Institutional archive record identifies a 2009 recording of Integrale Op.14a for saxophone and piano by Irene Schacker and Else Stock-Hug; audio restricted to Taju library workstations.\n- [Darmstadt saxophone works bibliography](https://fileserver-az.core.ac.uk/download/490623034.pdf) (search_index_only): A selected analytical bibliography lists Intégrale Op.14a (1954) among works for saxophone.\n\n**Score.**\n- No notation was visually inspected.\n\n**Listening.**\n- [Institutional recording record; audio access is restricted to library workstations.](https://taju.uniarts.fi/items/48bf355a-f3af-483e-82ad-ff2dbe0e2360): record metadata verified; audio not accessible or auditioned\n\n**Collection and audience context.** Contemporary chamber work with an institutional recording record and bibliographic inclusion in a saxophone-focused study.\n\n**Review focus.** Review contemporary-language notation and balance after obtaining score access; the restricted archive recording is an institutional access limitation, not evidence of unavailable performance history.\n\n**Open questions.**\n- No public score preview or accessible performance audio located.\n- The publisher/edition notation and saxophone subtype were not confirmed from score.\n\n**Tim decision:** pending.\n\n"
     },
     {
       "chat_number": 10,
