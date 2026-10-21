@@ -9,8 +9,8 @@ race:
 born:
 died:
 wikidata:
-photo:
-photo-credit:
-photo-source: https://soundcloud.com/user-18171037/sets/trilogie-for-saxophone-and-piano
+photo: "/media/composers/willy-bauweraerts.jpg"
+photo-credit: YouTube
+photo-source: https://yt3.googleusercontent.com/ytc/AIdro_kBhlRCWvkB7cdRh7HeG59U9CnlEJqhUXg6rHs0_cUjtow=s900-c-k-c0x00ffffff-no-rj
 aliases: []
 ---

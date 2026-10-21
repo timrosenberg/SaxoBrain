@@ -9,9 +9,9 @@ race:
 born: 1990
 died:
 wikidata: Q123948631
-photo:
-photo-credit: donemus.nl
-photo-source: https://donemus.nl/composer/georgia-nicolaou/
+photo: "/media/composers/georgia-nicolaou.jpg"
+photo-credit: georgianicolaou.com
+photo-source: https://i0.wp.com/georgianicolaou.com/wp-content/uploads/2021/01/DSC_8034-scaled.jpg
 aliases: []
 website: https://georgianicolaou.com/
 ---
