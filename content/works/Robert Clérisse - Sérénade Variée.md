@@ -9,7 +9,8 @@ instruments:
 composed: 
 year-of-study: "Second Year"
 streaming: "https://youtu.be/T_m6_iMl5UY?si=k0j5WOe-LJ4qWibH"
-purchase: []
+purchase:
+  - "B♭ saxophone and piano edition · https://www.all-sheetmusic.com/Wind-Instruments/Saxophone/Serenade-Variee-nr.html"
 added: 2024-03-04
 aliases: []
 ---

@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-20",
+  "status": "applied-and-verified",
+  "changes": [
+    {
+      "file": "content/works/Bent Lorentzen - Concerto.md",
+      "rental_url": "https://www.wisemusicclassical.com/work/22267/Saxofonkoncert--Bent-Lorentzen/",
+      "button_text": "Rent from Publisher",
+      "public_note": "Request rental materials through the Hire link on [Wise Music’s work page](https://www.wisemusicclassical.com/work/22267/Saxofonkoncert--Bent-Lorentzen/). The link opens Zinfonia for Edition Wilhelm Hansen’s *Saxofonkoncert*."
+    },
+    {
+      "file": "content/works/Costin Miereanu - Doppel(Kammer)Konzert.md",
+      "rental_url": "https://www.durand-salabert-eschig.com/fr-FR/ContactUs.aspx",
+      "button_text": "Rent from Publisher",
+      "public_note": "Request rental materials from [Durand Salabert Eschig](https://www.durand-salabert-eschig.com/fr-FR/ContactUs.aspx) at [location.dse@umusic.com](mailto:location.dse@umusic.com). Quote **EAS 18334**, as listed in [Salabert’s catalog](https://www.durand-salabert-eschig.com/-/media/Images/DSE/PDFs/Brochures/M/miereanu_costin.ashx?hash=DB3940F1A0022C98EE93628A8FA342AAB67BA94A&la=en-GB#page=10)."
+    }
+  ],
+  "verification": {
+    "other_work_buttons_unchanged": 1138,
+    "other_work_files_unchanged": true,
+    "private_notes_preserved_and_hidden": true,
+    "catalog_flags_verified": true,
+    "address_list_unchanged": true,
+    "prior_build_metadata_difference_preserved": [
+      {
+        "url": "/works/anders-hillborg-plainsong-and-echoes/",
+        "field": "t",
+        "old_build_value": "Plainsong And Echoes",
+        "value_already_in_task_snapshot": "Plainsong and Echoes"
+      }
+    ]
+  }
+}

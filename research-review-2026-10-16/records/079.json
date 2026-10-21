@@ -1,0 +1,96 @@
+{
+  "run_number": 79,
+  "filename": "Jun Nagao - Trilithon.md",
+  "path": "content/works/Jun Nagao - Trilithon.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": {
+    "title": "Trilithon",
+    "composer": [
+      "[[Jun Nagao]]"
+    ]
+  },
+  "findings": [
+    "Trilithon2021,alto saxophone,baritone saxophone and piano,11min; commissioned Nobuya Sugawa.",
+    "Inspected composer preface says written April2021; premiere12June2021,Yamaha Hall Tokyo,Nobuya Sugawa alto,Yasuto Tanaka baritone,Minako Koyanagi piano. Zen-On English work catalog corroborates12June. Shop page gives21June,apparently transposed day digits.",
+    "Zen-On560031,SEO-031,ISMN9790223330282; digital edition53pages,copyright2022 visible in preview.",
+    "Composer preface connects title to three megaliths of Stonehenge and honors trio performers; opening melancholy piano theme is linked to pandemic-era expression."
+  ],
+  "evidence": [
+    {
+      "claim": "2021,instrumentation,11min,commission,premiere12June2021",
+      "url": "https://www.zen-on.co.jp/en/publishing/cr/composers/works/detail/1389/",
+      "source_name": "Zen-On",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Composer preface April2021 composition and12June premiere; actual score opening",
+      "url": "https://www.zen-on.co.jp/trial/560031/HTML5/pc.html#/page/1",
+      "source_name": "Zen-On",
+      "kind": "score",
+      "access": "score_inspected"
+    },
+    {
+      "claim": "Digital sale53pages;shop premiere date conflict21June",
+      "url": "https://shop.zen-on.co.jp/downloads/detail/56003100/",
+      "source_name": "Zen-On",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "ZO560031,9790223330282,ISBN9784115600317",
+      "url": "https://www.forsyths.co.uk/sheet-music/instruments/woodwind/saxophone-sheet-music/saxophone-ensemble/283743-nagao-jun-trilithon-9790223330282.html",
+      "source_name": "Forsyth",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {
+    "composed": "2021",
+    "publisher": [
+      "Zen-On"
+    ],
+    "instruments": [
+      "Alto Saxophone",
+      "Baritone Saxophone",
+      "Piano",
+      "Trio"
+    ],
+    "purchase": [
+      "https://shop.zen-on.co.jp/downloads/detail/56003100/"
+    ],
+    "streaming": "https://www.youtube.com/watch?v=j4W2i5RqfV4",
+    "multi-instruments": false
+  },
+  "score_observations": [
+    "Inspected printed scorepp4–5: Poco lento quarter52,2/4,piano-only opening; baritone enters atbar12 pp dolcissimo with high-register slurred line and sustained notes.",
+    "Baritone part continues flowing eighth/sixteenth-note passages,triplets,wide-register movement,pp to mf hairpins,and a change to3/4 nearbar28. Alto remains at rest through these preview pages. Alto demands cannot be inferred."
+  ],
+  "notation_inspected": true,
+  "score_links": [
+    {
+      "url": "https://www.zen-on.co.jp/trial/560031/HTML5/pc.html#/page/1",
+      "description": "Public publisher preview,composer preface and printedpp4–5; local079-p4/p5/p6.jpg",
+      "inspected": true
+    }
+  ],
+  "listening": [
+    {
+      "url": "https://www.youtube.com/watch?v=j4W2i5RqfV4",
+      "description": "Sugawa/Tanaka/Koyanagi Trio performance linked by Zen-On",
+      "verification": "Exact publisher work page and shop link identify this video. No audio auditioned."
+    }
+  ],
+  "collection_flag": "Professional commission and substantial original chamber trio.",
+  "gaps": [
+    "Opening preview insufficient for alto demands,total range or later techniques.",
+    "Premiere date discrepancy noted; authoritative English catalog and score preface agree12June2021."
+  ],
+  "searches": [
+    "Jun Nagao Trilithon",
+    "Nagao Trilithon score",
+    "Nagao Trilithon premiere recording"
+  ],
+  "proposed_corrections": []
+}

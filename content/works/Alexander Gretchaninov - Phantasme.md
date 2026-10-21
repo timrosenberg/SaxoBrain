@@ -9,7 +9,8 @@ instruments:
 composed: 
 year-of-study: "First Year"
 streaming: 
-purchase: []
+purchase:
+  - "https://www.stantons.com/sheet-music/title/phantasme/48180774/"
 added: 2024-03-08
 research:
   - "Phantasme appears in Suite miniature op. 145 (VIAF) and as 'Phantasme op.143,2' in one retailer listing; opus unclear; no saxophone edition confirmed · https://viaf.org/viaf/182035430"

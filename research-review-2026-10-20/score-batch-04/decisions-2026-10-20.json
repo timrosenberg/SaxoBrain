@@ -1,0 +1,460 @@
+{
+  "date": "2026-10-20",
+  "packet": "Remaining Scores 04",
+  "levels_assigned": 7,
+  "works_removed": 15,
+  "works_held": 3,
+  "decisions": [
+    {
+      "batch_number": 1,
+      "review_id": 494,
+      "path": "content/works/Carl Anton Wirth - Prologue.md",
+      "review_file": "content/research-review/Review 0494 - Carl Anton Wirth - Prologue.md",
+      "current_path": "content/works/Carl Anton Wirth - Prologue.md",
+      "decision": "Third Year",
+      "applied": true,
+      "decision_recorded": true,
+      "url": "/works/carl-anton-wirth-prologue/",
+      "note": "Third Year",
+      "streaming": null
+    },
+    {
+      "batch_number": 2,
+      "review_id": 495,
+      "path": "content/works/Colin Cowles - Blacker and Blues.md",
+      "review_file": "content/research-review/Review 0495 - Colin Cowles - Blacker and Blues.md",
+      "current_path": null,
+      "decision": "Remove",
+      "applied": true,
+      "decision_recorded": true,
+      "url": "/works/colin-cowles-blacker-and-blues/",
+      "note": "Remove from the catalog",
+      "streaming": null
+    },
+    {
+      "batch_number": 3,
+      "review_id": 496,
+      "path": "content/works/Erich Wolfgang Korngold - Much Ado About Nothing.md",
+      "review_file": "content/research-review/Review 0496 - Erich Wolfgang Korngold - Much Ado About Nothing.md",
+      "current_path": null,
+      "decision": "Remove",
+      "applied": true,
+      "decision_recorded": true,
+      "url": "/works/erich-wolfgang-korngold-much-ado-about-nothing/",
+      "note": "Remove from the catalog",
+      "streaming": null
+    },
+    {
+      "batch_number": 4,
+      "review_id": 497,
+      "path": "content/works/Georg Philipp Telemann - Concerto in F.md",
+      "review_file": "content/research-review/Review 0497 - Georg Philipp Telemann - Concerto in F.md",
+      "current_path": "content/works/Georg Philipp Telemann - Concerto in F.md",
+      "decision": "First Year",
+      "applied": true,
+      "decision_recorded": true,
+      "url": "/works/georg-philipp-telemann-concerto-in-f/",
+      "note": "First Year",
+      "streaming": "https://youtu.be/-74aNxnyLRU"
+    },
+    {
+      "batch_number": 5,
+      "review_id": 498,
+      "path": "content/works/Libby Larsen - Concerto.md",
+      "review_file": "content/research-review/Review 0498 - Libby Larsen - Concerto.md",
+      "current_path": "content/works/Libby Larsen - Song Concerto.md",
+      "decision": "Fourth Year",
+      "applied": true,
+      "decision_recorded": true,
+      "url": "/works/libby-larsen-concerto/",
+      "note": "Fourth Year; title confirmed as Song Concerto",
+      "streaming": "https://youtu.be/X8EtaYDIiNQ?si=5x5mlRc1LYcsaIQI"
+    },
+    {
+      "batch_number": 6,
+      "review_id": 499,
+      "path": "content/works/Lynden De Young - Transformation (with a tribute to Johnny Hodges).md",
+      "review_file": "content/research-review/Review 0499 - Lynden De Young - Transformation (with a tribute to Johnny Hodges).md",
+      "current_path": "content/works/Lynden De Young - Transformation.md",
+      "decision": "Fourth Year",
+      "applied": true,
+      "decision_recorded": true,
+      "url": "/works/lynden-de-young-transformation-with-a-tribute-to-johnny-hodges/",
+      "note": "Fourth Year; title changed to Transformation; composition year 1981 supplied by Tim",
+      "streaming": null
+    },
+    {
+      "batch_number": 7,
+      "review_id": 500,
+      "path": "content/works/Marcel De Jonghe - Concerto.md",
+      "review_file": "content/research-review/Review 0500 - Marcel De Jonghe - Concerto.md",
+      "current_path": "content/works/Marcel De Jonghe - Concerto.md",
+      "decision": "Hold",
+      "applied": false,
+      "decision_recorded": true,
+      "url": "/works/marcel-de-jonghe-concerto/",
+      "note": "Difficulty unknown; retain unassigned",
+      "streaming": null
+    },
+    {
+      "batch_number": 8,
+      "review_id": 501,
+      "path": "content/works/Meyer Kupferman - Five Forms.md",
+      "review_file": "content/research-review/Review 0501 - Meyer Kupferman - Five Forms.md",
+      "current_path": "content/works/Meyer Kupferman - Five Forms.md",
+      "decision": "Hold",
+      "applied": false,
+      "decision_recorded": true,
+      "url": "/works/meyer-kupferman-five-forms/",
+      "note": "Difficulty unknown; retain unassigned",
+      "streaming": null
+    },
+    {
+      "batch_number": 9,
+      "review_id": 502,
+      "path": "content/works/Meyer Kupferman - In Two Bits.md",
+      "review_file": "content/research-review/Review 0502 - Meyer Kupferman - In Two Bits.md",
+      "current_path": "content/works/Meyer Kupferman - In Two Bits.md",
+      "decision": "Hold",
+      "applied": false,
+      "decision_recorded": true,
+      "url": "/works/meyer-kupferman-in-two-bits/",
+      "note": "Difficulty unknown; retain unassigned",
+      "streaming": null
+    },
+    {
+      "batch_number": 10,
+      "review_id": 503,
+      "path": "content/works/Niccolo Paganini - Cantabile.md",
+      "review_file": "content/research-review/Review 0503 - Niccolo Paganini - Cantabile.md",
+      "current_path": null,
+      "decision": "Remove",
+      "applied": true,
+      "decision_recorded": true,
+      "url": "/works/niccolo-paganini-cantabile/",
+      "note": "Remove from the catalog",
+      "streaming": null
+    },
+    {
+      "batch_number": 11,
+      "review_id": 504,
+      "path": "content/works/Niccolo Paganini - Sonata Appassionata.md",
+      "review_file": "content/research-review/Review 0504 - Niccolo Paganini - Sonata Appassionata.md",
+      "current_path": null,
+      "decision": "Remove",
+      "applied": true,
+      "decision_recorded": true,
+      "url": "/works/niccolo-paganini-sonata-appassionata-2/",
+      "note": "Remove from the catalog",
+      "streaming": null
+    },
+    {
+      "batch_number": 12,
+      "review_id": 505,
+      "path": "content/works/Niccolò Paganini - Non Piu Mesta Accanto al Fuoco.md",
+      "review_file": "content/research-review/Review 0505 - Niccolò Paganini - Non Piu Mesta Accanto al Fuoco.md",
+      "current_path": null,
+      "decision": "Remove",
+      "applied": true,
+      "decision_recorded": true,
+      "url": "/works/niccolo-paganini-non-piu-mesta-accanto-al-fuoco/",
+      "note": "Remove from the catalog",
+      "streaming": null
+    },
+    {
+      "batch_number": 13,
+      "review_id": 506,
+      "path": "content/works/Niccolò Paganini - Sonata Appassionata.md",
+      "review_file": "content/research-review/Review 0506 - Niccolò Paganini - Sonata Appassionata.md",
+      "current_path": null,
+      "decision": "Remove",
+      "applied": true,
+      "decision_recorded": true,
+      "url": "/works/niccolo-paganini-sonata-appassionata/",
+      "note": "Remove from the catalog",
+      "streaming": null
+    },
+    {
+      "batch_number": 14,
+      "review_id": 507,
+      "path": "content/works/Niccolò Paganini - Sul Margine D'Un Rio.md",
+      "review_file": "content/research-review/Review 0507 - Niccolò Paganini - Sul Margine D'Un Rio.md",
+      "current_path": null,
+      "decision": "Remove",
+      "applied": true,
+      "decision_recorded": true,
+      "url": "/works/niccolo-paganini-sul-margine-d-un-rio/",
+      "note": "Remove from the catalog",
+      "streaming": null
+    },
+    {
+      "batch_number": 15,
+      "review_id": 508,
+      "path": "content/works/Pascal Proust - Combien de Marins.md",
+      "review_file": "content/research-review/Review 0508 - Pascal Proust - Combien de Marins.md",
+      "current_path": null,
+      "decision": "Remove",
+      "applied": true,
+      "decision_recorded": true,
+      "url": "/works/pascal-proust-combien-de-marins/",
+      "note": "Remove from the catalog",
+      "streaming": null
+    },
+    {
+      "batch_number": 16,
+      "review_id": 509,
+      "path": "content/works/Paul R. Goldstaub - Graphics IV.md",
+      "review_file": "content/research-review/Review 0509 - Paul R. Goldstaub - Graphics IV.md",
+      "current_path": "content/works/Paul R. Goldstaub - Graphics IV.md",
+      "decision": "Advanced",
+      "applied": true,
+      "decision_recorded": true,
+      "url": "/works/paul-r-goldstaub-graphics-iv/",
+      "note": "Advanced",
+      "streaming": null
+    },
+    {
+      "batch_number": 17,
+      "review_id": 510,
+      "path": "content/works/Peter Ondishko - Goodnight Wine.md",
+      "review_file": "content/research-review/Review 0510 - Peter Ondishko - Goodnight Wine.md",
+      "current_path": null,
+      "decision": "Remove",
+      "applied": true,
+      "decision_recorded": true,
+      "url": "/works/peter-ondishko-goodnight-wine/",
+      "note": "Remove from the catalog",
+      "streaming": null
+    },
+    {
+      "batch_number": 18,
+      "review_id": 511,
+      "path": "content/works/Renato Goulart - Imagens do Broasil.md",
+      "review_file": "content/research-review/Review 0511 - Renato Goulart - Imagens do Broasil.md",
+      "current_path": "content/works/Renato Goulart - Imagens do Broasil.md",
+      "decision": "Second Year",
+      "applied": true,
+      "decision_recorded": true,
+      "url": "/works/renato-goulart-imagens-do-broasil/",
+      "note": "Second Year",
+      "streaming": "https://www.youtube.com/watch?v=uVPrlP2Ky4I"
+    },
+    {
+      "batch_number": 19,
+      "review_id": 512,
+      "path": "content/works/Richard Faith - Phantasies.md",
+      "review_file": "content/research-review/Review 0512 - Richard Faith - Phantasies.md",
+      "current_path": null,
+      "decision": "Remove",
+      "applied": true,
+      "decision_recorded": true,
+      "url": "/works/richard-faith-phantasies/",
+      "note": "Remove from the catalog",
+      "streaming": null
+    },
+    {
+      "batch_number": 20,
+      "review_id": 513,
+      "path": "content/works/Rudy Wiedoeft - Valse - Mazane-Saxema.md",
+      "review_file": "content/research-review/Review 0513 - Rudy Wiedoeft - Valse - Mazane-Saxema.md",
+      "current_path": null,
+      "decision": "Remove",
+      "applied": true,
+      "decision_recorded": true,
+      "url": "/works/rudy-wiedoeft-valse-mazane-saxema/",
+      "note": "Remove from the catalog",
+      "streaming": null
+    },
+    {
+      "batch_number": 21,
+      "review_id": 514,
+      "path": "content/works/Sam Raphling - Sonata No. 2.md",
+      "review_file": "content/research-review/Review 0514 - Sam Raphling - Sonata No. 2.md",
+      "current_path": null,
+      "decision": "Remove",
+      "applied": true,
+      "decision_recorded": true,
+      "url": "/works/sam-raphling-sonata-no-2/",
+      "note": "Remove from the catalog",
+      "streaming": null
+    },
+    {
+      "batch_number": 22,
+      "review_id": 515,
+      "path": "content/works/Victor Fenigstein - Concerto.md",
+      "review_file": "content/research-review/Review 0515 - Victor Fenigstein - Concerto.md",
+      "current_path": null,
+      "decision": "Remove",
+      "applied": true,
+      "decision_recorded": true,
+      "url": "/works/victor-fenigstein-concerto/",
+      "note": "Remove from the catalog",
+      "streaming": null
+    },
+    {
+      "batch_number": 23,
+      "review_id": 516,
+      "path": "content/works/Walter Hartley - Saxophone Album.md",
+      "review_file": "content/research-review/Review 0516 - Walter Hartley - Saxophone Album.md",
+      "current_path": null,
+      "decision": "Remove",
+      "applied": true,
+      "decision_recorded": true,
+      "url": "/works/walter-hartley-saxophone-album/",
+      "note": "Remove from the catalog",
+      "streaming": null
+    },
+    {
+      "batch_number": 24,
+      "review_id": 517,
+      "path": "content/works/Wolfgang Amadeus Mozart - Adagio from Clarinet Concerto K.622.md",
+      "review_file": "content/research-review/Review 0517 - Wolfgang Amadeus Mozart - Adagio from Clarinet Concerto K.622.md",
+      "current_path": null,
+      "decision": "Remove",
+      "applied": true,
+      "decision_recorded": true,
+      "url": "/works/wolfgang-amadeus-mozart-adagio-from-clarinet-concerto-k-622/",
+      "note": "Remove from the catalog",
+      "streaming": null
+    },
+    {
+      "batch_number": 25,
+      "review_id": 518,
+      "path": "content/works/Wolfgang Amadeus Mozart - Concerto for Oboe in C Major, KV314.md",
+      "review_file": "content/research-review/Review 0518 - Wolfgang Amadeus Mozart - Concerto for Oboe in C Major, KV314.md",
+      "current_path": "content/works/Wolfgang Amadeus Mozart - Concerto for Oboe in C Major, KV314.md",
+      "decision": "Third Year",
+      "applied": true,
+      "decision_recorded": true,
+      "url": "/works/wolfgang-amadeus-mozart-concerto-for-oboe-in-c-major-kv314/",
+      "note": "Third Year",
+      "streaming": "https://www.youtube.com/watch?v=eDrVtXPpuRI"
+    }
+  ],
+  "listening_updates": [
+    {
+      "batch_number": 4,
+      "path": "content/works/Georg Philipp Telemann - Concerto in F.md",
+      "old_streaming": "",
+      "streaming": "https://youtu.be/-74aNxnyLRU",
+      "links": [
+        {
+          "url": "https://youtu.be/-74aNxnyLRU",
+          "label": "Recording selected by Tim",
+          "scope": "Exact URL supplied by Tim."
+        }
+      ]
+    },
+    {
+      "batch_number": 5,
+      "path": "content/works/Libby Larsen - Song Concerto.md",
+      "old_streaming": "",
+      "streaming": "https://youtu.be/X8EtaYDIiNQ?si=5x5mlRc1LYcsaIQI",
+      "links": [
+        {
+          "url": "https://youtu.be/X8EtaYDIiNQ?si=5x5mlRc1LYcsaIQI",
+          "label": "Recording selected by Tim",
+          "scope": "Exact URL supplied by Tim."
+        },
+        {
+          "url": "https://libbylarsen.com/works/song-concerto/",
+          "label": "Composer’s recordings: Eugene Rousseau with the UNT Symphony Orchestra, David Itkin",
+          "scope": "Four individual movement players on the composer’s work page."
+        },
+        {
+          "label": "I. In Dance",
+          "url": "https://downloads.ctfassets.net/yqiwcpstd52e/4T6KTBq7QIuFckxu1i9drN/676598a2066081376a5c2b3c69b0ef1c/Song_Concerto_1.wav",
+          "scope": "Composer-hosted individual movement audio, Eugene Rousseau / UNT Symphony Orchestra / David Itkin; audio not auditioned.",
+          "verification": "HTTP200, audio/x-wav"
+        },
+        {
+          "label": "II. Cri de Coeur",
+          "url": "https://assets.ctfassets.net/yqiwcpstd52e/7cEVwNVkXNc9xnWU5HPT9I/5ac4146275db294ddc7589dbee48cdd9/Song_Concerto_2.m4a",
+          "scope": "Composer-hosted individual movement audio, Eugene Rousseau / UNT Symphony Orchestra / David Itkin; audio not auditioned.",
+          "verification": "HTTP200, audio/x-m4a"
+        },
+        {
+          "label": "III. Mozart’s Starling",
+          "url": "https://assets.ctfassets.net/yqiwcpstd52e/5JgHW4yKCF5gt5wHpPP9bO/47e408b0c855e8e4b726ca4de7437af3/Song_Concerto_3.m4a",
+          "scope": "Composer-hosted individual movement audio, Eugene Rousseau / UNT Symphony Orchestra / David Itkin; audio not auditioned.",
+          "verification": "HTTP200, audio/x-m4a"
+        },
+        {
+          "label": "IV. Abandon",
+          "url": "https://assets.ctfassets.net/yqiwcpstd52e/4CgVAcHcMNVJfeAwIEGPWo/7946ec4c1ea2726f074ab2f8ee9f7d02/Song_Concerto_4.m4a",
+          "scope": "Composer-hosted individual movement audio, Eugene Rousseau / UNT Symphony Orchestra / David Itkin; audio not auditioned.",
+          "verification": "HTTP200, audio/x-m4a"
+        }
+      ]
+    },
+    {
+      "batch_number": 18,
+      "path": "content/works/Renato Goulart - Imagens do Broasil.md",
+      "old_streaming": "",
+      "streaming": "https://www.youtube.com/watch?v=uVPrlP2Ky4I",
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=uVPrlP2Ky4I",
+          "label": "Recording selected by Tim",
+          "scope": "Exact URL supplied by Tim."
+        }
+      ]
+    },
+    {
+      "batch_number": 25,
+      "path": "content/works/Wolfgang Amadeus Mozart - Concerto for Oboe in C Major, KV314.md",
+      "old_streaming": "",
+      "streaming": "https://www.youtube.com/watch?v=eDrVtXPpuRI",
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=eDrVtXPpuRI",
+          "label": "Recording selected by Tim",
+          "scope": "Exact URL supplied by Tim."
+        }
+      ]
+    }
+  ],
+  "user_link_verification": [
+    {
+      "number": 4,
+      "url": "https://youtu.be/-74aNxnyLRU",
+      "status": "Metadata not verified: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "number": 5,
+      "url": "https://youtu.be/X8EtaYDIiNQ?si=5x5mlRc1LYcsaIQI",
+      "status": "Metadata not verified: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "number": 18,
+      "url": "https://www.youtube.com/watch?v=uVPrlP2Ky4I",
+      "status": "Metadata not verified: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "number": 25,
+      "url": "https://www.youtube.com/watch?v=eDrVtXPpuRI",
+      "status": "Metadata not verified: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    }
+  ],
+  "renames": {
+    "content/works/Libby Larsen - Concerto.md": "content/works/Libby Larsen - Song Concerto.md",
+    "content/works/Lynden De Young - Transformation (with a tribute to Johnny Hodges).md": "content/works/Lynden De Young - Transformation.md"
+  },
+  "retired_addresses": [
+    "/works/colin-cowles-blacker-and-blues/",
+    "/works/erich-wolfgang-korngold-much-ado-about-nothing/",
+    "/works/niccolo-paganini-cantabile/",
+    "/works/niccolo-paganini-sonata-appassionata-2/",
+    "/works/niccolo-paganini-non-piu-mesta-accanto-al-fuoco/",
+    "/works/niccolo-paganini-sonata-appassionata/",
+    "/works/niccolo-paganini-sul-margine-d-un-rio/",
+    "/works/pascal-proust-combien-de-marins/",
+    "/works/peter-ondishko-goodnight-wine/",
+    "/works/richard-faith-phantasies/",
+    "/works/rudy-wiedoeft-valse-mazane-saxema/",
+    "/works/sam-raphling-sonata-no-2/",
+    "/works/victor-fenigstein-concerto/",
+    "/works/walter-hartley-saxophone-album/",
+    "/works/wolfgang-amadeus-mozart-adagio-from-clarinet-concerto-k-622/"
+  ]
+}

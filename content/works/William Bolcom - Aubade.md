@@ -9,7 +9,8 @@ instruments:
 composed: 
 year-of-study: "Third Year"
 streaming: 
-purchase: []
+purchase:
+  - "https://www.halleonard.com/product/841554/aubade"
 download:
   - "attachment:20ae4a55-e043-473c-a432-5fdb5c4d336f:Bolcom_-_Aubade_(sop_saxo).pdf"
 added: 2025-04-16

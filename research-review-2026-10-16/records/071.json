@@ -1,0 +1,66 @@
+{
+  "run_number": 71,
+  "filename": "Jean Thierry - Chant Tenebres.md",
+  "path": "content/works/Jean Thierry - Chant Tenebres.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": {
+    "catalog_title": "Chant Tenebres",
+    "catalog_composer": "Jean Thierry",
+    "candidate": "Thierry Escaich, Le Chant des Ténèbres",
+    "confidence": "strong candidate; review before correcting"
+  },
+  "findings": [
+    "No reliable match for a composer Jean Thierry and this title. The close primary-source match is Thierry Escaich, Le Chant des Ténèbres.",
+    "Billaudot identifies GB5367 as the reduction of a concerto for soprano saxophone and twelve saxophones, arranged for soprano saxophone or B-flat clarinet and piano; fifteen minutes, Concert category.",
+    "Composer catalog dates original concerto1992 and names Claude Delangle as soloist at its Pesaro World Saxophone Congress premiere. Access to composer page failed; retain this as indexed evidence.",
+    "Two Thierry Escaich catalog records already exist: Le Chant de Tenebres (soprano and piano) and Le Chant des Ténèbres (alto and orchestra). Identity and version distinctions require review."
+  ],
+  "evidence": [
+    {
+      "claim": "Escaich attribution; piano reduction GB5367; soprano or B-flat clarinet/piano;15min;9790043053675",
+      "url": "https://www.billaudot.com/le-chant-des-tenebres-2.html",
+      "source_name": "Éditions Billaudot",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Original1992 concerto soprano/twelve saxophones; Delangle premiere; composer discussion",
+      "url": "https://www.escaich.org/en/pages/works/concertos/le-chant-des-tenebres-solo-sax-12-sax.html",
+      "source_name": "Thierry Escaich",
+      "kind": "composer",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {},
+  "score_observations": [],
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [
+    {
+      "url": "https://open.spotify.com/track/6Ufw7xKChqYY9PGuucvxtz",
+      "description": "Candidate Escaich recording on Magic Circus, Nicolas Prost and Paris Saxophone Ensemble",
+      "verification": "Exact title indexed; publisher identifies Magic Circus as containing work for saxophone and saxophone ensemble. Candidate identity requires correction review."
+    }
+  ],
+  "collection_flag": "Strong college/professional concerto candidate if Escaich identity confirmed.",
+  "gaps": [
+    "Jean Thierry identity unverified.",
+    "No score notation inspected.",
+    "Do not apply candidate metadata to this record until attribution and duplication review."
+  ],
+  "searches": [
+    "Jean Thierry Chant Tenebres",
+    "Jean Thierry Chant",
+    "Jean Thierry saxophone tenebres",
+    "Chant Tenebres saxophone",
+    "Jean-Thierry ténèbres saxophone"
+  ],
+  "proposed_corrections": [
+    {
+      "proposal": "Review attribution to Thierry Escaich and standardized title Le Chant des Ténèbres; investigate existing Escaich records before any consolidation.",
+      "url": "https://www.billaudot.com/le-chant-des-tenebres-2.html",
+      "reason": "Publisher exact work and soprano identity; no Jean Thierry match."
+    }
+  ]
+}

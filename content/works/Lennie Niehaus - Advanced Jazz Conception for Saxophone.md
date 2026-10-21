@@ -13,7 +13,8 @@ tags:
 composed: 
 year-of-study: "Second Year"
 streaming: 
-purchase: []
+purchase:
+  - "book and CD · https://www.sheetmusicplus.com/en/product/advanced-jazz-conception-20828770.html"
 added: 2019-08-25
 aliases: []
 ---

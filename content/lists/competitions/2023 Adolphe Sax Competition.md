@@ -12,7 +12,7 @@ notion-id: 85e52f6a2a894817867dcdf647be2dac
 
 **Choose one:**
 
-- [[Guy Lacour|Guy Lacour]]: [[Guy Lacour - Hommage à Jaques Ibert|Hommage à Jaques Ibert]] - third movement
+- [[Guy Lacour|Guy Lacour]]: [[Guy Lacour - Hommage à Jacques Ibert|Hommage à Jaques Ibert]] - third movement
 - [[Dorothy Chang|Dorothy Chang]]: [[Dorothy Chang - Two Preludes|Two Preludes]]
 - [[Michel Lysight|Michel Lysight]]: [[Michel Lysight - Chronographie IX|Chronographie IX]]
 - [[Gregory Wanamaker|Gregory Wanamaker]]: [[Gregory Wanamaker - Of Light and Shadows|Of Light and Shadows]] - second movement

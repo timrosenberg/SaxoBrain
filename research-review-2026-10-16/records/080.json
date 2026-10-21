@@ -1,0 +1,93 @@
+{
+  "run_number": 80,
+  "filename": "Jérôme Naulais - Frissons.md",
+  "path": "content/works/Jérôme Naulais - Frissons.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": {
+    "title": "Frissons",
+    "composer": [
+      "[[Jérôme Naulais]]"
+    ]
+  },
+  "findings": [
+    "Frissons for alto saxophone and piano,Billaudot GB5154,ISMN9790043051541,10:30,Jean-Yves Fourmeau collection. Publisher classifies Difficult(cycle3).",
+    "Institutional catalog dates piano edition1992,17+6pages,and notes alternate wind-orchestra version. Billaudot band edition GB4840O gives11min. Version dates must be distinguished.",
+    "Philharmonie pedagogical guide describes a broad quarter60 introduction,cadenza,bossa nova and connected sections culminating in irregular10-beat groupings3+2+2+3 or3+3+2+2. This is source commentary,not inspected score notation.",
+    "Exact saxophone/piano recording: Masato Ikegami and Mitsutaka Shiraishi,Frissons,Meister Music2009,9:38."
+  ],
+  "evidence": [
+    {
+      "claim": "Publisher GB5154,10:30,Difficult cycle3,Fourmeau collection,ISMN",
+      "url": "https://www.billaudot.com/frissons-18.html",
+      "source_name": "Éditions Billaudot",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Exact alto/piano product",
+      "url": "https://www.laflutedepan.com/partition/1012651/jerome-naulais-frissons-partition-saxophone-alto-et-piano.html",
+      "source_name": "La Flûte de Pan",
+      "kind": "retailer",
+      "access": "opened"
+    },
+    {
+      "claim": "1992edition,17+6pages,wind-orchestra alternate",
+      "url": "https://windmusic.org/index.php?id=14816&lvl=notice_display",
+      "source_name": "CDMC / Wind Music",
+      "kind": "library",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Structure,bossa nova and additive-meter ending",
+      "url": "https://mediatheque.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+      "source_name": "Philharmonie de Paris",
+      "kind": "pedagogical guide",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Exact recording9:38 with Ikegami/Shiraishi",
+      "url": "https://classical.music.apple.com/gb/album/375944624",
+      "source_name": "Apple Music Classical",
+      "kind": "recording",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {
+    "publisher": [
+      "Éditions Billaudot"
+    ],
+    "instruments": [
+      "Alto Saxophone",
+      "Piano"
+    ],
+    "purchase": [
+      "https://www.billaudot.com/frissons-18.html"
+    ],
+    "library-score": [
+      "https://windmusic.org/index.php?id=14816&lvl=notice_display"
+    ]
+  },
+  "score_observations": [],
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [
+    {
+      "url": "https://classical.music.apple.com/gb/album/375944624",
+      "description": "Masato Ikegami,Mitsutaka Shiraishi,Frissons9:38,Meister Music2009",
+      "verification": "Exact title/composer/performers and pianist role indexed. No audio auditioned."
+    }
+  ],
+  "collection_flag": "Substantial concert piece with publisher advanced conservatory context; no SaxoBrain level assigned.",
+  "gaps": [
+    "Actual notation not inspected.",
+    "Composition date unknown; secondary US copyright mirror gives1991for piano and1996orchestra,which require primary registration verification.",
+    "Premiere unknown."
+  ],
+  "searches": [
+    "Jérôme Naulais Frissons",
+    "Naulais Frissons saxophone score preview",
+    "Naulais Frissons saxophone piano recording Fourmeau"
+  ],
+  "proposed_corrections": []
+}

@@ -1,0 +1,1238 @@
+{
+  "date": "2026-10-20",
+  "packet": "Remaining Scores 04",
+  "batch_file": "content/research-review/Remaining Repertoire - Score Batch 04.md",
+  "scores": [
+    {
+      "run_number": 16,
+      "path": "content/works/Carl Anton Wirth - Prologue.md",
+      "title": "Prologue",
+      "instrumentation": "Alto saxophone and piano (catalog); alto solo attribution corroborated by performer repertoire list.",
+      "duration": "Unknown",
+      "demands": [
+        "Jay C. Easton explicitly flags altissimo B. This is an attributed repertoire-list warning; neither notation nor required fingering was inspected."
+      ],
+      "scope": "Technical warning only. No authorized preview or exact recording located. This largely refreshes earlier evidence and does not support a comprehensive assessment.",
+      "score_url": null,
+      "source_label": "Jay C. Easton repertoire list; search-index evidence only",
+      "recording_url": null,
+      "recording_description": "No exact playable recording verified in this pass.",
+      "recording_links": [],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Exact edition, duration, date, and complete range remain unverified.",
+      "evidence": [
+        {
+          "url": "https://www.jayeaston.com/Saxophonist_resources/resources_alto_rep.html",
+          "label": "Saxophonist Jay C. Easton, Alto Repertoire",
+          "claim": "Exact Prologue/Wirth listing with explicit altissimo B warning.",
+          "access": "live search index; performer page not retrieved"
+        },
+        {
+          "url": "https://www.ihsa.org/documents/mu/Repertoire%20List/Alto%20Sax.pdf",
+          "label": "Illinois High School Association, Alto Saxophone Repertoire List",
+          "claim": "Same exact title and altissimo B annotation. This may reproduce the Easton list rather than be independent corroboration.",
+          "access": "live search index; full source not retrieved"
+        }
+      ],
+      "batch_number": 1,
+      "review_id": 494,
+      "review_file": "content/research-review/Review 0494 - Carl Anton Wirth - Prologue.md",
+      "evidence_type": "Source description / gaps",
+      "decision_focus": "Jay C. Easton explicitly flags altissimo B. This is an attributed repertoire-list warning; neither notation nor required fingering was inspected."
+    },
+    {
+      "run_number": 27,
+      "path": "content/works/Colin Cowles - Blacker and Blues.md",
+      "title": "Blacker and Blues",
+      "instrumentation": "E-flat alto saxophone and piano.",
+      "duration": "Unknown",
+      "demands": [
+        "Saxophone range, rhythmic writing, articulation and ensemble demands remain unverified."
+      ],
+      "scope": "Edition/performance context only. New official Tirol archive URL resolves the old broken programme lead, but provides performance context without technical detail. No authorized score preview or exact playable recording located.",
+      "score_url": null,
+      "source_label": "Tirol music education official archive; performance programme",
+      "recording_url": null,
+      "recording_description": "No exact playable recording verified in this pass.",
+      "recording_links": [],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Studio Music M-050-03325-7 is a reliable edition lead. Seven-page library extent and youth programming cannot establish the actual range, rhythms, or technical demands.",
+      "evidence": [
+        {
+          "url": "https://www.musikausbildung.tirol/fileadmin/landesmusikdirektion/mitarbeiterinnen-infos/plm_hefte/plm_Landeswettbewerb_2009.pdf",
+          "label": "Tirol state music education, Prima la Musica 2009 programme",
+          "claim": "Sandro Huter programmed Colin Cowles, Blacker and Blues, with pianist Reinhard Mathoy on 19 March 2009.",
+          "access": "live official search-index evidence; PDF not downloaded"
+        },
+        {
+          "url": "https://windmusic.org/index.php?lvl=notice_display&id=16010",
+          "label": "CDMC WindMusic score-library catalog",
+          "claim": "Earlier exact edition lead: Studio Music, 1982, seven pages, alto saxophone and piano.",
+          "access": "prior opened record retained; refreshed search-index corroboration"
+        },
+        {
+          "url": "https://www.creativemusic.com.au/products/c103-saxophone/?page=219",
+          "label": "Creative Music retailer catalog",
+          "claim": "Confirms Cowles, Blacker and Blues for alto saxophone/piano, M-050-03325-7.",
+          "access": "live search index; retailer page not retrieved"
+        }
+      ],
+      "batch_number": 2,
+      "review_id": 495,
+      "review_file": "content/research-review/Review 0495 - Colin Cowles - Blacker and Blues.md",
+      "evidence_type": "Source description / gaps",
+      "decision_focus": "Saxophone range, rhythmic writing, articulation and ensemble demands remain unverified."
+    },
+    {
+      "run_number": 38,
+      "path": "content/works/Erich Wolfgang Korngold - Much Ado About Nothing.md",
+      "title": "Much Ado About Nothing",
+      "instrumentation": "Historical Masters M2774: soprano, alto, or tenor saxophone and keyboard; Leonard arrangement. Current Alfred listing labels alto saxophone or clarinet and piano.",
+      "duration": "Unknown",
+      "demands": [
+        "Rockford Symphony program notes describe March of the Watch as a deliberately awkward march and Masquerade-Hornpipe as a dance with an irregular beat. These are original-suite character descriptions; transfer to Leonard's saxophone arrangement requires the score.",
+        "Two excerpt identities are newly established for Masters M2774: March of the Watch and Masquerade. Treating this edition as the complete four-movement violin suite would be unsafe."
+      ],
+      "scope": "Historical publisher catalog visually inspected, printed p. 32 / PDF p. 30. It is a catalog page with no musical notation. Original-suite program notes provide attributed character evidence only. No exact saxophone recording verified.",
+      "score_url": null,
+      "source_label": "Masters Music Publications catalog, printed p. 32, hosted by IMSLP; catalog only",
+      "recording_url": null,
+      "recording_description": "No exact playable recording verified in this pass.",
+      "recording_links": [
+        {
+          "url": "https://www.naxos.com/CatalogueDetail/?id=TOCC0160",
+          "label": "Toccata Classics TOCC0160, University of North Carolina School of the Arts Symphony Orchestra, John Mauceri",
+          "scope": "Original incidental-music album reference with track listing. Not the Leonard saxophone version; full playable access was not verified."
+        }
+      ],
+      "notation_inspected": false,
+      "identity_caveat": "The cataloged soprano-only title has no edition identifier. Masters M2774 is a plausible newly corroborated soprano candidate, but the owned edition remains unknown. Current Alfred SKU 36-M277491 has conflicting instrumentation wording. Do not change instrumentation or assume the entire suite.",
+      "evidence": [
+        {
+          "url": "https://s9.imslp.org/files/imglnks/usimg/c/ca/IMSLP672714-PMLP198832-Masters-Categ.pdf",
+          "label": "Masters Music Publications historical catalog, printed p. 32 / PDF p. 30",
+          "claim": "M2774, Leonard, March of the Watch and Masquerade, S/A/T, appears under Saxophone (s) & Keyboard.",
+          "access": "public catalog downloaded and visually inspected"
+        },
+        {
+          "url": "https://www.alfred.com/products/much-ado-op-11-for-alto-sax-or-clarinet-and-piano-36-m277491?variant=44600780980360",
+          "label": "Alfred Music current publisher/distributor listing",
+          "claim": "SKU 36-M277491, alto saxophone or clarinet and piano; explicitly no sample pages, audio, or video.",
+          "access": "live search index; direct page fetch failed"
+        },
+        {
+          "url": "https://www.rockfordsymphony.com/program-notes/feb-12-2022-great-gatsby",
+          "label": "Rockford Symphony Orchestra, February 12, 2022 program notes",
+          "claim": "Character descriptions for original-suite March of the Watch and Masquerade-Hornpipe.",
+          "access": "live official indexed program notes"
+        },
+        {
+          "url": "https://www.naxos.com/CatalogueDetail/?id=TOCC0160",
+          "label": "Toccata Classics/Naxos recording catalog",
+          "claim": "Original incidental-music recording with named ensemble, conductor, and March of the Watch track.",
+          "access": "live label/distributor catalog"
+        }
+      ],
+      "reference_image_path": "/tmp/saxobrain-score04/a/masters-wind-30.png",
+      "image_path": null,
+      "batch_number": 3,
+      "review_id": 496,
+      "review_file": "content/research-review/Review 0496 - Erich Wolfgang Korngold - Much Ado About Nothing.md",
+      "evidence_type": "Source description / gaps",
+      "decision_focus": "Rockford Symphony program notes describe March of the Watch as a deliberately awkward march and Masquerade-Hornpipe as a dance with an irregular beat. These are original-suite character descriptions; transfer to Leonard's saxophone arrangement requires the score."
+    },
+    {
+      "run_number": 53,
+      "path": "content/works/Georg Philipp Telemann - Concerto in F.md",
+      "title": "Concerto in F",
+      "instrumentation": "Soprano saxophone, oboe, or clarinet with piano; Ber Joosen arrangement, Molenaar 06051060.",
+      "duration": "6:50 reported by 10 ans avec le saxophone, printed p. 48.",
+      "demands": [
+        "The repertoire guide identifies three contrasting movements: Allegro, Siciliano, and Vivace. The Vivace is in 3/8. No passage-level articulation, tempo, range, or ornamentation was verified."
+      ],
+      "scope": "Repertoire-guide entry visually inspected, printed p. 48 / PDF p. 45. This is prose bibliography with no score notation. No Joosen preview or exact saxophone recording located.",
+      "score_url": null,
+      "source_label": "10 ans avec le saxophone, Philharmonie de Paris digitization, printed p. 48; reference entry only",
+      "recording_url": null,
+      "recording_description": "No exact playable recording verified in this pass.",
+      "recording_links": [],
+      "notation_inspected": false,
+      "identity_caveat": "Guide calls it Concerto in F; CDMC translates the title as F minor. Original TWV identity remains unresolved for this exact edition. General Telemann F-major concerto recordings were excluded.",
+      "evidence": [
+        {
+          "url": "https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+          "label": "10 ans avec le saxophone, digitized by Philharmonie de Paris",
+          "claim": "Molenaar 06051060; Joosen; 1965 edition; 6:50; Allegro, Siciliano, Vivace in 3/8; soprano, oboe, or clarinet and piano.",
+          "access": "primary institutional PDF previously downloaded; relevant page rendered and visually inspected this pass; live indexed URL refreshed"
+        },
+        {
+          "url": "https://windmusic.org/index.php?lvl=notice_display&id=7846",
+          "label": "CDMC WindMusic library catalog",
+          "claim": "Matching Joosen/Molenaar 1965 score is translated as Concerto en Fa mineur and has16+3+3pages.",
+          "access": "live indexed library record"
+        },
+        {
+          "url": "https://www.knmo.nl/wp-content/uploads/2014/05/05-Repertorium-Houtblazers-Solisten-Ensembles-2010.pdf",
+          "label": "KNMO 2010 wind-instrument repertoire list",
+          "claim": "Exact Telemann/Joosen/Molenaar Concerto in F entry specifies soprano saxophone.",
+          "access": "live indexed institutional PDF"
+        }
+      ],
+      "reference_image_path": "/tmp/saxobrain-score04/a/telemann-guide.png",
+      "image_path": null,
+      "batch_number": 4,
+      "review_id": 497,
+      "review_file": "content/research-review/Review 0497 - Georg Philipp Telemann - Concerto in F.md",
+      "evidence_type": "Source description / gaps",
+      "decision_focus": "The repertoire guide identifies three contrasting movements: Allegro, Siciliano, and Vivace. The Vivace is in 3/8. No passage-level articulation, tempo, range, or ornamentation was verified."
+    },
+    {
+      "run_number": 98,
+      "path": "content/works/Libby Larsen - Concerto.md",
+      "title": "Song Concerto, candidate for the catalog’s Concerto",
+      "display_title": "Libby Larsen - Concerto (candidate: Song Concerto)",
+      "instrumentation": "One saxophonist doubling alto and soprano; piano or chamber orchestra",
+      "duration": "21 minutes, composer",
+      "demands": [
+        "Opening alto passage at quarter = 104 combines chromatic sextuplets, accents, grace gestures and a brief 3/8 interruption.",
+        "The next inspected page includes free accelerating solo figuration followed by a precise a-tempo ensemble reentry.",
+        "Movement II specifies soprano and flexible pacing around quarter = 63, sustained tones and a crescendo to ff; movement IV returns to alto."
+      ],
+      "scope": "Publisher orchestral perusal, PDF pages 1, 2, 29 and 45 visually inspected (including printed pages 1, 2, 55 and 84). Selected passages only. The score appears in concert pitch; no transposed saxophone range inferred. Piano reduction not inspected.",
+      "score_url": "https://assets.ctfassets.net/yqiwcpstd52e/4PP86NTuynm0vpsRbsTaez/bdf043aa7aa5213da31bca0761af9782/_PERUSAL__Song_Concerto_-_FULL_SCORE.pdf",
+      "source_label": "Libby Larsen Publishing public perusal",
+      "recording_url": "https://libbylarsen.com/works/song-concerto/",
+      "recording_description": "Composer page supplies four movement players and credits Eugene Rousseau, UNT Symphony Orchestra and David Itkin. Stephen Page video is also embedded. Playback availability checked by metadata; no audition.",
+      "recording_links": [
+        {
+          "url": "https://www.youtube.com/watch?v=X8EtaYDIiNQ",
+          "label": "Stephen Page performs Song Concerto",
+          "scope": "Composer-embedded exact-work video; YouTube title and StephenPageSax uploader verified; not auditioned."
+        },
+        {
+          "label": "I. In Dance",
+          "url": "https://downloads.ctfassets.net/yqiwcpstd52e/4T6KTBq7QIuFckxu1i9drN/676598a2066081376a5c2b3c69b0ef1c/Song_Concerto_1.wav",
+          "scope": "Composer-hosted individual movement audio, Eugene Rousseau / UNT Symphony Orchestra / David Itkin; audio not auditioned.",
+          "verification": "HTTP200, audio/x-wav"
+        },
+        {
+          "label": "II. Cri de Coeur",
+          "url": "https://assets.ctfassets.net/yqiwcpstd52e/7cEVwNVkXNc9xnWU5HPT9I/5ac4146275db294ddc7589dbee48cdd9/Song_Concerto_2.m4a",
+          "scope": "Composer-hosted individual movement audio, Eugene Rousseau / UNT Symphony Orchestra / David Itkin; audio not auditioned.",
+          "verification": "HTTP200, audio/x-m4a"
+        },
+        {
+          "label": "III. Mozart’s Starling",
+          "url": "https://assets.ctfassets.net/yqiwcpstd52e/5JgHW4yKCF5gt5wHpPP9bO/47e408b0c855e8e4b726ca4de7437af3/Song_Concerto_3.m4a",
+          "scope": "Composer-hosted individual movement audio, Eugene Rousseau / UNT Symphony Orchestra / David Itkin; audio not auditioned.",
+          "verification": "HTTP200, audio/x-m4a"
+        },
+        {
+          "label": "IV. Abandon",
+          "url": "https://assets.ctfassets.net/yqiwcpstd52e/4CgVAcHcMNVJfeAwIEGPWo/7946ec4c1ea2726f074ab2f8ee9f7d02/Song_Concerto_4.m4a",
+          "scope": "Composer-hosted individual movement audio, Eugene Rousseau / UNT Symphony Orchestra / David Itkin; audio not auditioned.",
+          "verification": "HTTP200, audio/x-m4a"
+        }
+      ],
+      "image_path": "/tmp/saxobrain-score04/parent/larsen-1.png",
+      "notation_inspected": true,
+      "identity_caveat": "Catalog says only Concerto and alto/piano. The evidence here is specifically Song Concerto. Confirm the intended title and alto/soprano doubling before metadata correction. Catalog title and instrumentation are unchanged.",
+      "evidence": [
+        {
+          "url": "https://libbylarsen.com/works/song-concerto/",
+          "label": "Libby Larsen, composer/publisher",
+          "claim": "Song Concerto, 2005, 21 minutes, alto/soprano soloist; source provides score and recordings.",
+          "access": "Opened October 20, 2026"
+        },
+        {
+          "url": "https://assets.ctfassets.net/yqiwcpstd52e/4PP86NTuynm0vpsRbsTaez/bdf043aa7aa5213da31bca0761af9782/_PERUSAL__Song_Concerto_-_FULL_SCORE.pdf",
+          "label": "Libby Larsen Publishing",
+          "claim": "Selected notation and instrument changes inspected. Copyright 2006/2008 retained.",
+          "access": "Public PDF downloaded and selected pages visually inspected October 20, 2026"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=X8EtaYDIiNQ",
+          "label": "Stephen Page, performer upload",
+          "claim": "Exact-work title and uploader verified by YouTube oEmbed.",
+          "access": "Live public metadata returned; no audio audition"
+        },
+        {
+          "url": "https://libbylarsen.com/works/song-concerto/",
+          "label": "Composer movement players",
+          "claim": "Four individual audio URLs extracted from the exact work page; each returned HTTP200 and an audio content type.",
+          "access": "HTTP HEAD checks only; no audio downloaded"
+        }
+      ],
+      "batch_number": 5,
+      "review_id": 498,
+      "review_file": "content/research-review/Review 0498 - Libby Larsen - Concerto.md",
+      "evidence_type": "Notation",
+      "decision_focus": "Opening alto passage at quarter = 104 combines chromatic sextuplets, accents, grace gestures and a brief 3/8 interruption.",
+      "image_file": "content/research-review/score-excerpts-2026-10-20-batch-04/run098-notation.png"
+    },
+    {
+      "run_number": 102,
+      "path": "content/works/Lynden De Young - Transformation (with a tribute to Johnny Hodges).md",
+      "title": "Transformation (with a tribute to Johnny Hodges)",
+      "instrumentation": "Alto saxophone and piano; Dorn DP 0826 retailer edition lead.",
+      "duration": "Unknown",
+      "demands": [
+        "Tom Bergeron's bibliography explicitly enumerates seven multiphonic configurations in Transformation: 0/C*, 3/Bb*, 3/B, 4.3/B*, 6/E*, 9/E/Eb, 11.6/B. These are Bergeron's scalar-model codes, not a transcribed pitch range.",
+        "The bibliographic evidence supports preparing multiple distinct multiphonic fingerings. How these sounds enter, connect, and balance with piano remains unknown without the score."
+      ],
+      "scope": "Bergeron's 2020 third edition research book visually inspected at printed p. 87 / PDF p. 122, with 1981 bibliographic entry. Image is bibliography and technical codes, no work-score notation. No exact recording located.",
+      "score_url": null,
+      "source_label": "Tom Bergeron, Saxophone Multiphonics:A Scalar Model, third edition 2020, p. 87; analysis/bibliography",
+      "recording_url": null,
+      "recording_description": "No exact playable recording verified in this pass.",
+      "recording_links": [],
+      "notation_inspected": false,
+      "identity_caveat": "The Johnny Hodges subtitle and composition date remain unverified. 1981 is the date of Bergeron's bibliographic entry. Technical-source copyright is CC BY-SA 4.0, confirmed on its copyright page; the original score's rights are separate.",
+      "evidence": [
+        {
+          "url": "https://tombergeron.us/download/sax-multiphonics.pdf",
+          "label": "Saxophonist Tom Bergeron, Saxophone Multiphonics:A Scalar Model, third edition 2020",
+          "claim": "Bibliography heading states that codes list multiphonics used in each work. De Young Transformation (1981), Dorn lists seven configurations on p. 87.",
+          "access": "live indexed public URL refreshed; full locally available author-distributed PDF text and relevant rendered page inspected"
+        },
+        {
+          "url": "https://www.juneemersonwindmusic.com/Sheet-Music/?page=292&sort=composer",
+          "label": "June Emerson Wind Music retailer catalog",
+          "claim": "Exact De Young Transformation listing gives alto saxophone and piano, DP 0826.",
+          "access": "live indexed retailer catalog"
+        }
+      ],
+      "reference_image_path": "/tmp/saxobrain-score04/a/deyoung-bibliography.png",
+      "image_path": null,
+      "batch_number": 6,
+      "review_id": 499,
+      "review_file": "content/research-review/Review 0499 - Lynden De Young - Transformation (with a tribute to Johnny Hodges).md",
+      "evidence_type": "Source description / gaps",
+      "decision_focus": "Tom Bergeron's bibliography explicitly enumerates seven multiphonic configurations in Transformation: 0/C*, 3/Bb*, 3/B, 4.3/B*, 6/E*, 9/E/Eb, 11.6/B. These are Bergeron's scalar-model codes, not a transcribed pitch range."
+    },
+    {
+      "run_number": 103,
+      "path": "content/works/Marcel De Jonghe - Concerto.md",
+      "title": "Concerto",
+      "instrumentation": "Alto saxophone and symphonic band; piano version documented by the 2006 Dinant competition repertoire.",
+      "duration": "Unknown",
+      "demands": [
+        "The 1995 Confédération Musicale de France review states that three movements follow without a break. Its outer movements use recognizable thematic material, while the middle movement has an atonal atmosphere.",
+        "Performance implication, inferred from that attributed description: prepare continuity across the two internal boundaries and a contrasting central sound world. Exact range, tempo, rhythm, articulation, and extended techniques remain unknown."
+      ],
+      "scope": "New substantive analytic evidence: 1995 CMF recording review, printed pp. 44-45 / PDF pp. 62-63. Full relevant page visually inspected. Image is a recording review, no musical notation. Full exact saxophone streaming access remains unverified.",
+      "score_url": null,
+      "source_label": "Confédération Musicale de France, JCMF456, February 1995, printed pp. 44-45; recording review",
+      "recording_url": null,
+      "recording_description": "Exact 1994 commercial recording identified: Norbert Nozy, Royal Symphonic Band of the Belgian Guides, Walter Boeykens; GIP Noblesse CD 87 094. This is a discography/reference lead, not a verified playable stream.",
+      "recording_links": [
+        {
+          "url": "https://www.amrg-vkmg.be/category/discographie/page/2/",
+          "label": "Belgian Guides association discography:CD018( 1994), GIP Noblesse CD 87 094",
+          "scope": "Exact album reference; Nozy alto, Boeykens conducting; De Jonghe concerto named. No playable stream verified."
+        }
+      ],
+      "notation_inspected": false,
+      "identity_caveat": "Catalog Any Saxophone conflicts with sources specifying alto. The recorded band version and competition piano version must stay distinct.",
+      "evidence": [
+        {
+          "url": "https://www.cmf-archives.org/files/original/19122375679ef5ffa1fd9922a5ea6e566cf5923f.pdf",
+          "label": "Confédération Musicale de France, JCMF456, February 1995, pp. 44-45",
+          "claim": "Exact band concerto recording review describes three continuous movements, recognizable themes in outer movements, atonal atmosphere centrally.",
+          "access": "public institutional magazine downloaded; relevant pages rendered and visually inspected"
+        },
+        {
+          "url": "https://culture.uliege.be/jcms/c_1766655/fr/norbert-nozy-les-oeuvres-qui-ont-marque-sa-carriere-de-saxophoniste",
+          "label": "University of Liège, 2014 interview with saxophonist Norbert Nozy",
+          "claim": "Nozy dates De Jonghe concerto 1993 and says it was written for his recording with the Royal Band of the Guides. Full page confirms altissimo-E discussion belongs to Kryptos.",
+          "access": "opened complete live source"
+        },
+        {
+          "url": "https://dinant2006.adolphesax.com/html/obras.htm",
+          "label": "2006 Dinant competition repertoire archive",
+          "claim": "De Jonghe Concerto listed among works performed with piano; Lantro Music named.",
+          "access": "live indexed competition archive"
+        },
+        {
+          "url": "https://www.amrg-vkmg.be/category/discographie/page/2/",
+          "label": "Association of Friends of the Royal Band of the Guides, official discography",
+          "claim": "CD018( 1994), Concertos pour saxophone alto et orchestre d'harmonie, Nozy, Boeykens, GIP Noblesse CD 87 094; De Jonghe included.",
+          "access": "live indexed ensemble-association discography"
+        }
+      ],
+      "reference_image_path": "/tmp/saxobrain-score04/a/dejonghe-review.png",
+      "image_path": null,
+      "batch_number": 7,
+      "review_id": 500,
+      "review_file": "content/research-review/Review 0500 - Marcel De Jonghe - Concerto.md",
+      "evidence_type": "Source description / gaps",
+      "decision_focus": "The 1995 Confédération Musicale de France review states that three movements follow without a break. Its outer movements use recognizable thematic material, while the middle movement has an atonal atmosphere."
+    },
+    {
+      "run_number": 111,
+      "path": "content/works/Meyer Kupferman - Five Forms.md",
+      "title": "Five Forms",
+      "instrumentation": "Soprano saxophone and piano",
+      "duration": "Status unknown for the catalog edition.",
+      "demands": [
+        "Actual notation, movement sequence, range, rhythmic vocabulary and ensemble demands remain unknown.",
+        "The Winter 1988 review citation establishes the title and scoring, but does not expose the review text or score."
+      ],
+      "scope": "Evidence gap. Instrumental identity is corroborated, but no usable score-first evidence or performance was located.",
+      "score_url": "https://www.soundspells.com/",
+      "source_label": "Soundspells Productions materials inquiry route; no score preview.",
+      "recording_url": null,
+      "recording_description": "No exact saxophone-edition recording verified. No audio audition claimed.",
+      "recording_links": [],
+      "image_path": null,
+      "notation_inspected": false,
+      "edition_match": "unavailable",
+      "identity_caveat": "1988 is the date of Steven Mauk's review. It is not a verified composition date.",
+      "evidence": [
+        {
+          "url": "https://www.ithaca.edu/faculty/mauk/publications/articles-reviews",
+          "label": "Steven Mauk, Ithaca College publication list",
+          "claim": "Lists a Winter 1988 Saxophone Symposium review of Kupferman Five Forms for soprano saxophone and piano.",
+          "access": "opened"
+        },
+        {
+          "url": "https://www.soundspells.com/",
+          "label": "Soundspells Productions, Kupferman publisher",
+          "claim": "Printed publications are distributed through Subito; materials for all Kupferman pieces may be requested. No title-specific sample is provided.",
+          "access": "opened"
+        }
+      ],
+      "batch_number": 8,
+      "review_id": 501,
+      "review_file": "content/research-review/Review 0501 - Meyer Kupferman - Five Forms.md",
+      "evidence_type": "Source description / gaps",
+      "decision_focus": "Actual notation, movement sequence, range, rhythmic vocabulary and ensemble demands remain unknown."
+    },
+    {
+      "run_number": 112,
+      "path": "content/works/Meyer Kupferman - In Two Bits.md",
+      "title": "In Two Bits",
+      "instrumentation": "Alto saxophone and piano",
+      "duration": "Status unknown for the catalog edition.",
+      "demands": [
+        "Notation, range, structure and actual saxophone technique remain unknown.",
+        "A chronological repertoire appendix supplies identity and a reported year, without musical examples for this work."
+      ],
+      "scope": "Evidence gap. A bibliography entry is insufficient for a pedagogical decision.",
+      "score_url": "https://www.soundspells.com/",
+      "source_label": "Soundspells Productions materials inquiry route; no score preview.",
+      "recording_url": null,
+      "recording_description": "No exact saxophone-edition recording verified. No audio audition claimed.",
+      "recording_links": [],
+      "image_path": null,
+      "notation_inspected": false,
+      "edition_match": "unavailable",
+      "identity_caveat": "The 1969 date is reported by a 2023 doctoral dissertation. An original score has not confirmed it. Les Taylor's Two Bits is a different composition.",
+      "evidence": [
+        {
+          "url": "https://api.drum.lib.umd.edu/server/api/core/bitstreams/2153c64b-6b45-45aa-8f96-15586240afc5/content",
+          "label": "Jihong Adams-Park, University of Maryland doctoral dissertation (2023), printed p.42",
+          "claim": "Lists Meyer Kupferman: In Two Bits for Alto Saxophone and Piano, 1969. PDF downloaded; relevant full page rendered and visually inspected.",
+          "access": "opened"
+        },
+        {
+          "url": "https://www.soundspells.com/",
+          "label": "Soundspells Productions, Kupferman publisher",
+          "claim": "Provides a legitimate route to request materials for published or unpublished Kupferman works; no title-specific notation found.",
+          "access": "opened"
+        }
+      ],
+      "batch_number": 9,
+      "review_id": 502,
+      "review_file": "content/research-review/Review 0502 - Meyer Kupferman - In Two Bits.md",
+      "evidence_type": "Source description / gaps",
+      "decision_focus": "Notation, range, structure and actual saxophone technique remain unknown."
+    },
+    {
+      "run_number": 116,
+      "path": "content/works/Niccolo Paganini - Cantabile.md",
+      "title": "Cantabile",
+      "instrumentation": "Alto saxophone and piano; David Camwell, Dorn DP1501",
+      "duration": "Status unknown for the catalog edition.",
+      "demands": [
+        "Alternate edition only: the inspected notation is Bertrand Moren's EMR101017, not Camwell DP1501. Its pitches and technical details must not be transferred to DP1501.",
+        "Moren solo preview: Andante con rubato in common time, sustained slurred melody, detailed crescendos and diminuendos, and ritardando/a tempo coordination.",
+        "Moren solo preview: triplet runs alternate with sixteenth-note flourishes, chromatic inflections, a quintuplet and a sextuplet before the displayed page ends.",
+        "Moren score preview: solo line above a repeated triplet-chord piano accompaniment requires clear rhythmic independence and shared rubato."
+      ],
+      "scope": "A NEW authorized alternate alto edition supplies concrete lyrical and ornamental evidence. Camwell DP1501 remains uninspected. Do not infer that a lyrical title makes the Camwell edition school repertoire.",
+      "score_url": "https://files.reift.ch/files/scores/EMR101017.pdf",
+      "source_label": "Editions Marc Reift public sample, Cantabile Op.17, arr. Bertrand Moren, EMR101017. PDF pp.3-4 inspected; publisher copyright retained.",
+      "recording_url": "https://www.youtube.com/watch?v=rrEJgc7vEXg",
+      "recording_description": "Source-work comparison only: Liu Xiao and Song Yingxuan, label-provided violin recital recording, 3:22. No Camwell edition or saxophone match. Metadata inspected; audio not auditioned.",
+      "recording_links": [
+        {
+          "url": "https://www.youtube.com/watch?v=rrEJgc7vEXg",
+          "label": "Liu Xiao and Song Yingxuan: Paganini Cantabile",
+          "scope": "Violin source-work comparison; not Camwell, not saxophone."
+        }
+      ],
+      "image_path": "/tmp/saxobrain-score04/b/cantabile-reift-solo.png",
+      "notation_inspected": true,
+      "edition_match": "alternate",
+      "identity_caveat": "DP1501 is Camwell's Cantabile in D Major. EMR101017 is a distinct Moren alto arrangement of Op.17. Cantabile and Waltz Op.19/MS45 is a different work.",
+      "evidence": [
+        {
+          "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+          "label": "Dorn Publications April 2025 catalog, alto/piano section",
+          "claim": "Identifies Camwell Cantabile in D Major as DP1501.",
+          "access": "opened"
+        },
+        {
+          "url": "https://files.reift.ch/files/scores/EMR101017.pdf",
+          "label": "Editions Marc Reift authorized PDF sample",
+          "claim": "Cover credits Bertrand Moren and EMR101017; actual alto solo and piano-score pages were rendered and visually inspected.",
+          "access": "opened"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=rrEJgc7vEXg",
+          "label": "YOYOROCK label-provided YouTube recording",
+          "claim": "Credits Liu Xiao and Song Yingxuan on a violin recital collection; track metadata duration 202 seconds. No audio downloaded or auditioned.",
+          "access": "public video metadata inspected"
+        }
+      ],
+      "batch_number": 10,
+      "review_id": 503,
+      "review_file": "content/research-review/Review 0503 - Niccolo Paganini - Cantabile.md",
+      "evidence_type": "Alternate-edition notation",
+      "decision_focus": "Alternate edition only: the inspected notation is Bertrand Moren's EMR101017, not Camwell DP1501. Its pitches and technical details must not be transferred to DP1501.",
+      "image_file": "content/research-review/score-excerpts-2026-10-20-batch-04/run116-notation.png"
+    },
+    {
+      "run_number": 117,
+      "path": "content/works/Niccolo Paganini - Sonata Appassionata.md",
+      "title": "Sonata Appassionata (Alto)",
+      "instrumentation": "Alto saxophone and piano; David Camwell, Dorn DP1443",
+      "duration": "Status unknown for the catalog edition.",
+      "demands": [
+        "Exact saxophone notation, range, articulation and piano demands remain unverified.",
+        "Source-identity check is necessary before borrowing musical claims from the historical MS58 work or any recording with a similar title."
+      ],
+      "scope": "Keep this edition separate from soprano DP1442. No actual Camwell notation or matching recording found. The edition's concert/teaching scope remains unknown.",
+      "score_url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+      "source_label": "Dorn Publications catalog only; no notation preview.",
+      "recording_url": null,
+      "recording_description": "No exact saxophone-edition recording verified. No audio audition claimed.",
+      "recording_links": [],
+      "image_path": null,
+      "notation_inspected": false,
+      "edition_match": "unavailable",
+      "identity_caveat": "Historical Sonata appassionata MS58 has a missing violin part according to the thematic catalog. Camwell's source or reconstruction is not documented in the accessible sales listings. Do not substitute Karg-Elert Op.140 or Hekkema's Quartet XV transcription. The available evidence does not establish that Camwell’s edition uses MS58.",
+      "evidence": [
+        {
+          "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+          "label": "Dorn Publications April 2025 catalog",
+          "claim": "Lists alto/piano Sonata Appassionata, arr. Camwell, DP1443; alto and soprano have distinct numbers.",
+          "access": "opened"
+        },
+        {
+          "url": "https://www.flaminioonline.it/Biografie/Paganini-catalogo-diviso.html",
+          "label": "Flaminio Online thematic catalog",
+          "claim": "For historical MS58: introduction, Larghetto appassionato and theme; reports violin part missing. Context only, not proof of Camwell's source.",
+          "access": "opened"
+        }
+      ],
+      "batch_number": 11,
+      "review_id": 504,
+      "review_file": "content/research-review/Review 0504 - Niccolo Paganini - Sonata Appassionata.md",
+      "evidence_type": "Source description / gaps",
+      "decision_focus": "Exact saxophone notation, range, articulation and piano demands remain unverified."
+    },
+    {
+      "run_number": 118,
+      "path": "content/works/Niccolò Paganini - Non Piu Mesta Accanto al Fuoco.md",
+      "title": "Non Piu Mesta Accanto al Fuoco",
+      "instrumentation": "Soprano or tenor saxophone and piano; Dave Camwell, Dorn DP1417",
+      "duration": "Status unknown for the catalog edition.",
+      "demands": [
+        "Exact Camwell range, tonguing, ornamentation and adaptation of violin effects remain unknown.",
+        "Source-work context only: the original Op.12 has an introduction, theme, four variations and finale. This structure has not been verified in DP1417."
+      ],
+      "scope": "Variation-transcription evidence gap. A source-work performance gives a useful stylistic comparison, but cannot establish the demands or duration of Camwell's edition.",
+      "score_url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+      "source_label": "Dorn catalog and June Emerson edition identification; no saxophone notation preview.",
+      "recording_url": "https://www.youtube.com/watch?v=vBP8Du7DFYM",
+      "recording_description": "Source-work comparison: Philippe Quint, violin, and Dmitriy Cogan, piano, in Fritz Kreisler's arrangement, Naxos 2010, 12:28 metadata duration. This is not Camwell's saxophone arrangement. Metadata checked; audio not auditioned.",
+      "recording_links": [
+        {
+          "url": "https://www.youtube.com/watch?v=vBP8Du7DFYM",
+          "label": "Philippe Quint and Dmitriy Cogan: Op.12, arr. Kreisler",
+          "scope": "Different violin/piano edition; source-work comparison only."
+        }
+      ],
+      "image_path": null,
+      "notation_inspected": false,
+      "edition_match": "unavailable",
+      "identity_caveat": "The same Rossini aria also inspired Chopin variations. Those are a separate composition. DP1417 is cataloged under Paganini/Camwell.",
+      "evidence": [
+        {
+          "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+          "label": "Dorn Publications April 2025 catalog",
+          "claim": "DP1417 is listed in both soprano/piano and tenor/piano sections; soprano entry credits Camwell.",
+          "access": "opened"
+        },
+        {
+          "url": "https://www.juneemersonwindmusic.com/Bb-Soprano-Sax-Pieces/?page=6&sort=composer",
+          "label": "June Emerson Wind Music",
+          "claim": "Explicitly lists soprano or tenor saxophone with piano, Dave Camwell, DP1417.",
+          "access": "downloaded and inspected HTML"
+        },
+        {
+          "url": "https://www.flaminioonline.it/Guide/Paganini/Paganini-Mesta22.html",
+          "label": "Flaminio Online source-work guide",
+          "claim": "Identifies Op.12 as the Rossini La Cenerentola variations, with introduction, theme, four variations and finale.",
+          "access": "opened"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=vBP8Du7DFYM",
+          "label": "Official Quint Channel, Naxos-provided recording",
+          "claim": "Credits Paganini/Kreisler, violin and piano, Philippe Quint and Dmitriy Cogan; metadata duration 748 seconds.",
+          "access": "public video metadata inspected"
+        }
+      ],
+      "batch_number": 12,
+      "review_id": 505,
+      "review_file": "content/research-review/Review 0505 - Niccolò Paganini - Non Piu Mesta Accanto al Fuoco.md",
+      "evidence_type": "Listening / source description",
+      "decision_focus": "Exact Camwell range, tonguing, ornamentation and adaptation of violin effects remain unknown."
+    },
+    {
+      "run_number": 119,
+      "path": "content/works/Niccolò Paganini - Sonata Appassionata.md",
+      "title": "Sonata Appassionata (Soprano)",
+      "instrumentation": "Soprano saxophone and piano; David Camwell, Dorn DP1442",
+      "duration": "Status unknown for the catalog edition.",
+      "demands": [
+        "Exact saxophone notation, range, articulation and piano demands remain unverified.",
+        "Source-identity check is necessary before borrowing musical claims from the historical MS58 work or any recording with a similar title."
+      ],
+      "scope": "Keep this edition separate from alto DP1443. No actual Camwell notation or matching recording found. The edition's concert/teaching scope remains unknown.",
+      "score_url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+      "source_label": "Dorn Publications catalog only; no notation preview.",
+      "recording_url": null,
+      "recording_description": "No exact saxophone-edition recording verified. No audio audition claimed.",
+      "recording_links": [],
+      "image_path": null,
+      "notation_inspected": false,
+      "edition_match": "unavailable",
+      "identity_caveat": "Historical Sonata appassionata MS58 has a missing violin part according to the thematic catalog. Camwell's source or reconstruction is not documented in the accessible sales listings. Do not substitute Karg-Elert Op.140 or Hekkema's Quartet XV transcription. The available evidence does not establish that Camwell’s edition uses MS58.",
+      "evidence": [
+        {
+          "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+          "label": "Dorn Publications April 2025 catalog",
+          "claim": "Lists soprano/piano Sonata Appassionata, arr. Camwell, DP1442; alto and soprano have distinct numbers.",
+          "access": "opened"
+        },
+        {
+          "url": "https://www.flaminioonline.it/Biografie/Paganini-catalogo-diviso.html",
+          "label": "Flaminio Online thematic catalog",
+          "claim": "For historical MS58: introduction, Larghetto appassionato and theme; reports violin part missing. Context only, not proof of Camwell's source.",
+          "access": "opened"
+        },
+        {
+          "url": "https://www.juneemersonwindmusic.com/Bb-Soprano-Sax-Pieces/?page=6&sort=composer",
+          "label": "June Emerson Wind Music sales listing",
+          "claim": "Names Dave Camwell, soprano saxophone and piano, DP1442.",
+          "access": "downloaded and inspected HTML"
+        }
+      ],
+      "batch_number": 13,
+      "review_id": 506,
+      "review_file": "content/research-review/Review 0506 - Niccolò Paganini - Sonata Appassionata.md",
+      "evidence_type": "Source description / gaps",
+      "decision_focus": "Exact saxophone notation, range, articulation and piano demands remain unverified."
+    },
+    {
+      "run_number": 120,
+      "path": "content/works/Niccolò Paganini - Sul Margine D'Un Rio.md",
+      "title": "Sul Margine D'Un Rio",
+      "instrumentation": "Soprano or tenor saxophone and piano; Dave Camwell, Dorn DP1408",
+      "duration": "Status unknown for the catalog edition.",
+      "demands": [
+        "Source context only: Edward Neill's 1974 specialist article describes a soprano-voice aria with four variations and abundant florid embellishment of sustained melody notes. This is not observation of Camwell's saxophone notation.",
+        "Camwell's register, breath points, articulation and preservation of the four variations remain unknown."
+      ],
+      "scope": "Vocal variation transcription with an attribution caveat. The vocal model provides phrasing/ornamentation context; it does not establish saxophone difficulty.",
+      "score_url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+      "source_label": "Dorn catalog only; actual saxophone notation unavailable.",
+      "recording_url": "https://www.naxos.com/CatalogueDetail/?id=CDS7734.40",
+      "recording_description": "Vocal source comparison: Dynamic complete edition, disc 35 track 2, Sul margine d'un rio MS119, Lucia Cortese (soprano) and Fabio Macelloni (piano), 4:21 in label booklet search index. Catalog opened; full booklet download blocked. Not Camwell; audio not auditioned.",
+      "recording_links": [
+        {
+          "url": "https://www.naxos.com/CatalogueDetail/?id=CDS7734.40",
+          "label": "Dynamic Paganini Edition, disc 35, track 2",
+          "scope": "Soprano voice/piano source recording; not saxophone or Camwell."
+        }
+      ],
+      "image_path": null,
+      "notation_inspected": false,
+      "edition_match": "unavailable",
+      "identity_caveat": "The 2021 Paganini Genova Festival booklet attributes the vocal aria to Giacomo Cordella, explaining that Paganini transcribed it for Antonia Bianchi. Keep that caveat beside the circulating Paganini/Camwell title. The older 1974 article reflects the earlier attribution.",
+      "evidence": [
+        {
+          "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+          "label": "Dorn Publications April 2025 catalog",
+          "claim": "DP1408 is in soprano/piano and tenor/piano sections; soprano entry credits Camwell.",
+          "access": "opened"
+        },
+        {
+          "url": "https://www.juneemersonwindmusic.com/Bb-Soprano-Sax-Pieces/?page=6&sort=composer",
+          "label": "June Emerson Wind Music",
+          "claim": "Explicit soprano or tenor saxophone with piano, Dave Camwell, DP1408.",
+          "access": "downloaded and inspected HTML"
+        },
+        {
+          "url": "https://www.centropaganini.it/wp-content/uploads/2021/01/Istituto-di-Studi-Paganiniani-Quaderno-2-Settembre-1974.pdf",
+          "label": "Edward Neill, Istituto di Studi Paganiniani Quaderno 2 (1974), printed p.37",
+          "claim": "Describes the vocal source as an aria with four variations and florid embellishments. Full page rendered and visually inspected.",
+          "access": "opened"
+        },
+        {
+          "url": "https://www.amicidipaganini.it/wp-content/uploads/2022/05/booklet-2021.pdf",
+          "label": "Amici di Paganini, Paganini Genova Festival 2021, printed p.36",
+          "claim": "Reports the aria's corrected attribution to Giacomo Cordella and Paganini's transcription for Antonia Bianchi. Full page rendered and visually inspected.",
+          "access": "opened"
+        },
+        {
+          "url": "https://www.naxos.com/CatalogueDetail/?id=CDS7734.40",
+          "label": "Naxos/Dynamic label catalog and booklet index",
+          "claim": "Catalog includes Cortese and Macelloni; indexed booklet identifies disc 35 track 2, 4:21.",
+          "access": "catalog opened; booklet search-index only, full download HTTP403"
+        }
+      ],
+      "batch_number": 14,
+      "review_id": 507,
+      "review_file": "content/research-review/Review 0507 - Niccolò Paganini - Sul Margine D'Un Rio.md",
+      "evidence_type": "Listening / source description",
+      "decision_focus": "Source context only: Edward Neill's 1974 specialist article describes a soprano-voice aria with four variations and abundant florid embellishment of sustained melody notes. This is not observation of Camwell's saxophone notation."
+    },
+    {
+      "run_number": 125,
+      "path": "content/works/Pascal Proust - Combien de Marins.md",
+      "title": "Combien de marins...?",
+      "instrumentation": "Alto saxophone and piano; Billaudot GB7158, Daniel Gremelle collection",
+      "duration": "4 minutes, publisher duration.",
+      "demands": [
+        "Actual range, meter, tempo, rhythms and accompaniment interaction remain unverified because no authorized notation preview was found.",
+        "Billaudot calls the work moderately difficult (cycle 2). This is a publisher classification, not a SaxoBrain year-of-study."
+      ],
+      "scope": "Publisher and CMF sources support a pedagogical/examination context. Retain that context for Tim's scope decision. No level proposed.",
+      "score_url": "https://www.billaudot.com/gb7158-6.html",
+      "source_label": "Billaudot GB7158 product page; no notation preview. Presser distributor page also has only a generic publisher placeholder.",
+      "recording_url": "https://cmf-media.org/pmb/opac_css/index.php?lvl=notice_display&id=9164",
+      "recording_description": "Exact-title CMF pedagogical recording catalog entry, GB7158 identity, 2002-2003 selections. Detail page returned HTTP401, so playable audio, performers and recording duration remain unknown.",
+      "recording_links": [
+        {
+          "url": "https://cmf-media.org/pmb/opac_css/index.php?lvl=notice_display&id=9164",
+          "label": "CMF exact-title pedagogical recording record",
+          "scope": "Catalog record only; direct audio access unverified."
+        }
+      ],
+      "image_path": null,
+      "notation_inspected": false,
+      "edition_match": "unavailable",
+      "identity_caveat": "The 2002-2003 CMF selection is syllabus history, not proof of the composition date. The publisher's duration is 4:00; do not replace it with an inferred video duration.",
+      "evidence": [
+        {
+          "url": "https://www.billaudot.com/gb7158-6.html",
+          "label": "Éditions Billaudot, publisher",
+          "claim": "GB7158, E-flat saxophone and piano, 4:00 duration, Gremelle collection, moderately difficult/cycle 2.",
+          "access": "opened"
+        },
+        {
+          "url": "https://www.presser.com/524-02407-combien-de-marins.html",
+          "label": "Theodore Presser, distributor product page",
+          "claim": "524-02407 identifies the Billaudot work and corroborates 4:00 duration; no notation sample in retrieved page.",
+          "access": "downloaded and inspected HTML"
+        },
+        {
+          "url": "https://www.cmf-media.org/index.php?id=2088&id_thes=1&lvl=categ_see&main=1",
+          "label": "Confédération musicale de France recording catalog",
+          "claim": "Exact title/composer and GB7158-linked identifier appear under alto-saxophone 2002-2003 and FC2 selections.",
+          "access": "search-index record; direct detail HTTP401"
+        }
+      ],
+      "batch_number": 15,
+      "review_id": 508,
+      "review_file": "content/research-review/Review 0508 - Pascal Proust - Combien de Marins.md",
+      "evidence_type": "Listening / source description",
+      "decision_focus": "Actual range, meter, tempo, rhythms and accompaniment interaction remain unverified because no authorized notation preview was found."
+    },
+    {
+      "run_number": 126,
+      "path": "content/works/Paul R. Goldstaub - Graphics IV.md",
+      "title": "Graphic IV",
+      "display_title": "Paul R. Goldstaub - Graphics IV (source title: Graphic IV)",
+      "instrumentation": "Alto saxophone and celeste",
+      "duration": "Not verified",
+      "demands": [
+        "The reproduced excerpt places extended timbre-trill indications over sustained, tied saxophone tones with explicit alternate-fingering diagrams.",
+        "The soloist must change fingerings while maintaining the sustained sound; accompanying notation has contrasting attacks and dynamics.",
+        "Full range, timing, complete form and later extended techniques remain uninspected."
+      ],
+      "scope": "Short notation excerpt reproduced as Figure 4, PDF page 7 of Matt Swallow’s lecture-recital script. Exact source page rechecked live. This is an attributed research reproduction, not a full publisher perusal. No whole-work difficulty claim.",
+      "score_url": "https://www.mattswallow.com/uploads/1/2/3/2/12324820/microtone_presentation_script.pdf#page=7",
+      "source_label": "Matthew J. Swallow, Microtones: A Sound Extension of the Saxophone, Figure 4",
+      "recording_url": null,
+      "recording_description": null,
+      "recording_links": [],
+      "image_path": "/tmp/saxobrain-decision-packets/assets/run126-notation.png",
+      "notation_inspected": true,
+      "identity_caveat": "Dorn calls the work Graphic IV, DP502, alto/celeste. Database filename says Graphics IV and Paul R. Goldstaub. The composer’s full identity remains a separate correction question; no names or addresses changed.",
+      "evidence": [
+        {
+          "url": "https://www.mattswallow.com/uploads/1/2/3/2/12324820/microtone_presentation_script.pdf",
+          "label": "Matthew J. Swallow, performer research",
+          "claim": "Figure 4 identifies Graphic IV for alto saxophone and celeste, Paul Goldstaub; timbre trills and fingering diagrams are visible.",
+          "access": "PDF page7 visually inspected October 20, 2026"
+        },
+        {
+          "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+          "label": "Dorn Publications via Groth Music",
+          "claim": "Order 502: Graphic IV, Goldstaub, alto saxophone/celeste.",
+          "access": "Live publisher catalog retrieved by parallel researcher; exact row checked in local text"
+        }
+      ],
+      "batch_number": 16,
+      "review_id": 509,
+      "review_file": "content/research-review/Review 0509 - Paul R. Goldstaub - Graphics IV.md",
+      "evidence_type": "Notation",
+      "decision_focus": "The reproduced excerpt places extended timbre-trill indications over sustained, tied saxophone tones with explicit alternate-fingering diagrams.",
+      "image_file": "content/research-review/score-excerpts-2026-10-20-batch-04/run126-notation.png"
+    },
+    {
+      "run_number": 128,
+      "path": "content/works/Peter Ondishko - Goodnight Wine.md",
+      "title": "Goodnight Wine",
+      "instrumentation": "Soprano saxophone and piano, Dorn DP147",
+      "duration": "Unknown",
+      "demands": [
+        "Saxophone range, rhythmic writing, articulation and ensemble demands remain unverified."
+      ],
+      "scope": "Identity and access audit. No notation sample or technical description located.",
+      "score_url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+      "source_label": "Dorn Publications April 2025 catalog",
+      "recording_url": null,
+      "recording_description": "No exact playable recording verified.",
+      "recording_links": [],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "The current catalog forename Peter remains uncorroborated. Both publisher and retailer supply only Ondishko. No notation, duration, tempo, range, articulation, or exact recording verified; this card cannot support a difficulty judgment.",
+      "evidence": [
+        {
+          "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+          "label": "Dorn Publications",
+          "claim": "Order 147, Goodnight Wine, Ondishko appears in Soprano Saxophone and Piano section. Downloaded publisher PDF and extracted relevant entries.",
+          "access": "opened"
+        },
+        {
+          "url": "https://www.juneemersonwindmusic.com/Bb-Soprano-Sax-Pieces/?page=6&sort=composer",
+          "label": "June Emerson Wind Music",
+          "claim": "Exact title, soprano/piano scoring and DP0147 corroborate the edition.",
+          "access": "search_index_verified"
+        }
+      ],
+      "batch_number": 17,
+      "review_id": 510,
+      "review_file": "content/research-review/Review 0510 - Peter Ondishko - Goodnight Wine.md",
+      "evidence_type": "Source description / gaps",
+      "decision_focus": "Saxophone range, rhythmic writing, articulation and ensemble demands remain unverified."
+    },
+    {
+      "run_number": 138,
+      "path": "content/works/Renato Goulart - Imagens do Broasil.md",
+      "title": "Imagens do Brasil",
+      "instrumentation": "Alto saxophone and piano",
+      "duration": "7:57 publisher-linked performance video; 7:26 Garza recording listed in thesis, p. 39. These are recording lengths.",
+      "demands": [
+        "Inspected figure 22, mm. 1–14: Moderato opening; saxophone enters after piano introduction, with long slurred/tied phrases and pickup gestures over a syncopated piano pattern.",
+        "Inspected figures 25–26: sustained lyrical saxophone writing in mm. 87–98 contrasts with an Allegro piano texture built from syncopated repeated rhythmic figures in mm. 134–143.",
+        "Garza, pp. 28–32, attributes the sectional character to choro, baião and batuque influences based on composer correspondence. He identifies unison rhythmic passages and saxophone/piano interplay as rehearsal concerns.",
+        "Garza describes phrase planning and clear direction as demanding in the slower melodic sections. His p. 31 account says the final five measures form a declamatory cadenza; that ending was not inspected here."
+      ],
+      "scope": "Selected saxophone/piano notation excerpts in Gilbert Garza’s 2020 DMA thesis, printed pp. 29 and31; figures 22, 25, 26. These are scholarly excerpts, not a complete retail score inspection.",
+      "score_url": "https://iro.uiowa.edu/esploro/outputs/doctoral/Saxophone-music-from-Latin-America/9983988297602771",
+      "source_label": "University of Iowa, Gilbert Garza: Saxophone music from Latin America (2020), pp. 28–32",
+      "recording_url": "https://www.youtube.com/watch?v=uVPrlP2Ky4I",
+      "recording_description": "Exact work performance, titled in Spanish as Imágenes de Brasil, by Isaías Villalpando, saxophone, and Luis Herrera, piano. Publisher links it through the current score’s video preview. YouTube public metadata reports 477 seconds and a playable public video. No audio audition or media download.",
+      "recording_links": [
+        {
+          "url": "https://www.youtube.com/watch?v=uVPrlP2Ky4I",
+          "label": "Villalpando/Herrera, publisher-linked exact work performance, 7:57",
+          "scope": "performance video, apparently complete from labeling and duration; not auditioned"
+        },
+        {
+          "url": "https://doi.org/10.25820/qpys-ra23",
+          "label": "Gilbert Garza thesis recording, 7:26",
+          "scope": "institutional recording reference; university access restricted, not public playback"
+        },
+        {
+          "url": "https://sarausax.wixsite.com/sarausax/duo-heimann-braga",
+          "label": "Duo Heimann-Braga album documentation",
+          "scope": "discography reference only; no direct playback established"
+        }
+      ],
+      "image_path": "/tmp/saxobrain-score04/c/goulart-figure22.png",
+      "notation_inspected": true,
+      "identity_caveat": "Catalog typo Broasil is contradicted by composer cover and thesis title Brasil. Thesis identifies a Dorn 2009 edition; current composer-published ArrangeMe edition A0.1741457 has not been compared note-for-note. Earlier research cited 1999; thesis bibliography and recording list say 2009, so composition date remains unresolved.",
+      "evidence": [
+        {
+          "url": "https://iro.uiowa.edu/esploro/outputs/doctoral/Saxophone-music-from-Latin-America/9983988297602771",
+          "label": "University of Iowa open-access thesis",
+          "claim": "Downloaded through public institutional Download button; inspected selected notation on printed pp. 29 and31; read pp. 28–32, p. 39 and bibliography. Copyright 2020 Gilbert Garza retained.",
+          "access": "opened"
+        },
+        {
+          "url": "https://www.sheetmusicdirect.com/se/ID_No/1852988/Product.aspx",
+          "label": "Composer publication via Sheet Music Direct",
+          "claim": "Composer-supplied alto/piano edition lists included solo part and piano accompaniment; public cover inspected. HTML explicitly embeds Hal Leonard streaming preview146/1741457.",
+          "access": "opened"
+        },
+        {
+          "url": "https://haldms.halleonard.com/rendering/streaming/preview/146/1741457/embed",
+          "label": "Hal Leonard official streaming-preview redirect",
+          "claim": "Public302 redirect resolves to YouTube embed uVPrlP2Ky4I, connecting this performance with the composer-published edition.",
+          "access": "opened"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=uVPrlP2Ky4I",
+          "label": "SPAUAZ Prensa on YouTube",
+          "claim": "Title and named saxophone/piano performers match; public metadata 477 seconds, playability confirmed.",
+          "access": "public_metadata_verified_no_audition"
+        }
+      ],
+      "batch_number": 18,
+      "review_id": 511,
+      "review_file": "content/research-review/Review 0511 - Renato Goulart - Imagens do Broasil.md",
+      "evidence_type": "Notation",
+      "decision_focus": "Inspected figure 22, mm. 1–14: Moderato opening; saxophone enters after piano introduction, with long slurred/tied phrases and pickup gestures over a syncopated piano pattern.",
+      "image_file": "content/research-review/score-excerpts-2026-10-20-batch-04/run138-notation.png"
+    },
+    {
+      "run_number": 139,
+      "path": "content/works/Richard Faith - Phantasies.md",
+      "title": "Phantasies",
+      "instrumentation": "Alto saxophone and piano, Southern Music",
+      "duration": "Unknown",
+      "demands": [
+        "The guide lists four contrasting movement headings: Andante; Allegro con brio; Andante; Allegro vivace. This establishes slow/fast alternation, without establishing individual technical demands."
+      ],
+      "scope": "Specialist bibliography directly checked; four movement headings only, no notation or concrete technical profile.",
+      "score_url": "https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+      "source_label": "Philharmonie de Paris:10 ans avec le saxophone",
+      "recording_url": null,
+      "recording_description": "No exact playable recording verified.",
+      "recording_links": [],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "No exact Southern edition number, public notation, duration or playable recording established. Movement headings cannot determine range, rhythmic density, articulation or extended techniques.",
+      "evidence": [
+        {
+          "url": "https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+          "label": "Philharmonie de Paris specialist bibliography",
+          "claim": "Local full guide text checked at Faith entry: exact title, alto/piano, Southern and four movement headings. No duration printed at this entry. Do not transfer16 minutes from adjacent Dubois entry.",
+          "access": "opened"
+        },
+        {
+          "url": "https://api.drum.lib.umd.edu/server/api/core/bitstreams/2153c64b-6b45-45aa-8f96-15586240afc5/content",
+          "label": "Jihong Adams-Park, University of Maryland DMA 2023 chronology",
+          "claim": "Downloaded source lists Phantasies for saxophone and piano, 1985. This is bibliography evidence, not a score.",
+          "access": "opened"
+        }
+      ],
+      "batch_number": 19,
+      "review_id": 512,
+      "review_file": "content/research-review/Review 0512 - Richard Faith - Phantasies.md",
+      "evidence_type": "Source description / gaps",
+      "decision_focus": "The guide lists four contrasting movement headings: Andante; Allegro con brio; Andante; Allegro vivace. This establishes slow/fast alternation, without establishing individual technical demands."
+    },
+    {
+      "run_number": 143,
+      "path": "content/works/Rudy Wiedoeft - Valse - Mazane-Saxema.md",
+      "title": "Valse Mazanetta / Saxema",
+      "instrumentation": "Likely paired Ted Hegvik edition for alto saxophone and piano; exact owned edition unconfirmed",
+      "duration": "Historical reissue: Valse Mazanetta2:58; Saxema2:48.",
+      "demands": [
+        "No exact paired-edition notation inspected. Historical recordings can support Tim’s style assessment, but cannot establish written range, cadenza, articulation or ornamentation in Hegvik’s edition."
+      ],
+      "scope": "Exact compositions have recording evidence; paired alto edition has documentary evidence only.",
+      "score_url": "https://gunnarmossblad.com/home/wp-content/uploads/2015/10/A-Guide-to-Selecting-and-trying-Mouthpieces.pdf",
+      "source_label": "Saxophone Journal 2003 advertisement of Two Rudy Wiedoeft Classics",
+      "recording_url": "https://www.gutenberg.org/ebooks/10297",
+      "recording_description": "Project Gutenberg offers a playable MP3 of Saxema performed by composer Rudy Wiedoeft, recorded circa 1920, with saxophone/orchestra subject metadata. This is historical interpretation evidence for Saxema only. No audio downloaded or auditioned.",
+      "recording_links": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/10297",
+          "label": "Wiedoeft, Saxema, circa 1920 historical full-recording resource",
+          "scope": "playable historical recording page; Saxema only; instrumentation differs from paired piano edition"
+        },
+        {
+          "url": "https://music.apple.com/us/album/rudy-wiedoeft-kreisler-of-the-saxophone/218714235",
+          "label": "Kreisler of the Saxophone, tracks 8 and14",
+          "scope": "album playback/preview page: Valse Mazanetta2:58 and Saxema2:48; 1997 Clarinet Classics reissue"
+        }
+      ],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "The catalog’s compressed Mazane/Saxema probably refers to Ted Hegvik’s paired edition, but a title page is still needed. Historical performance instrumentation and accompaniment do not certify the Hegvik alto/piano notation. Other tenor/soprano, C-melody or band arrangements are distinct editions.",
+      "evidence": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/10297",
+          "label": "Project Gutenberg sound archive",
+          "claim": "Page explicitly identifies performer/composer Wiedoeft, Saxema, circa 1920, saxophone/orchestra, and MP3 playback/download link.",
+          "access": "opened_no_audition"
+        },
+        {
+          "url": "https://music.apple.com/us/album/rudy-wiedoeft-kreisler-of-the-saxophone/218714235",
+          "label": "Apple Music, Clarinet Classics album",
+          "claim": "Exact two compositions and durations shown on album track list, with preview controls.",
+          "access": "opened_no_audition"
+        },
+        {
+          "url": "https://gunnarmossblad.com/home/wp-content/uploads/2015/10/A-Guide-to-Selecting-and-trying-Mouthpieces.pdf",
+          "label": "Saxophone Journal 2003 advertisement",
+          "claim": "Existing catalog research identifies paired alto/piano Valse Mazanetta and Saxema, editor Ted Hegvik, Et Cetera; no score obtained in this pass.",
+          "access": "prior_research_lead_not_reopened"
+        }
+      ],
+      "batch_number": 20,
+      "review_id": 513,
+      "review_file": "content/research-review/Review 0513 - Rudy Wiedoeft - Valse - Mazane-Saxema.md",
+      "evidence_type": "Listening / source description",
+      "decision_focus": "No exact paired-edition notation inspected. Historical recordings can support Tim’s style assessment, but cannot establish written range, cadenza, articulation or ornamentation in Hegvik’s edition."
+    },
+    {
+      "run_number": 146,
+      "path": "content/works/Sam Raphling - Sonata No. 2.md",
+      "title": "Sonata No.2",
+      "instrumentation": "Alto saxophone and piano, edition unverified",
+      "duration": "Unknown",
+      "demands": [
+        "Saxophone range, rhythmic writing, articulation and ensemble demands remain unverified."
+      ],
+      "scope": "Exact numbered-work bibliography rechecked; no useful performance-demand evidence acquired.",
+      "score_url": "https://api.drum.lib.umd.edu/server/api/core/bitstreams/2153c64b-6b45-45aa-8f96-15586240afc5/content",
+      "source_label": "Jihong Adams-Park, University of Maryland DMA 2023, chronology",
+      "recording_url": null,
+      "recording_description": "No exact playable recording verified.",
+      "recording_links": [],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Chronology identifies Sonata for Alto Saxophone No.2, 1968. No current edition, notation, movement titles, duration or exact recording found. Raphling’s 1945 alto sonata and 1969 tenor sonata must remain separate leads.",
+      "evidence": [
+        {
+          "url": "https://api.drum.lib.umd.edu/server/api/core/bitstreams/2153c64b-6b45-45aa-8f96-15586240afc5/content",
+          "label": "University of Maryland DRUM dissertation",
+          "claim": "Downloaded and rechecked the explicit 1968 Sonata for Alto Saxophone No.2 entry. This does not establish technical demands.",
+          "access": "opened"
+        }
+      ],
+      "batch_number": 21,
+      "review_id": 514,
+      "review_file": "content/research-review/Review 0514 - Sam Raphling - Sonata No. 2.md",
+      "evidence_type": "Source description / gaps",
+      "decision_focus": "Saxophone range, rhythmic writing, articulation and ensemble demands remain unverified."
+    },
+    {
+      "run_number": 164,
+      "path": "content/works/Victor Fenigstein - Concerto.md",
+      "title": "Concerto",
+      "instrumentation": "Oboe or soprano saxophone and string orchestra; oboe/piano reduction EE5407 exists",
+      "duration": "18 minutes, publisher catalog",
+      "demands": [
+        "Publisher’s 18-minute duration establishes the approximate scale of the complete concerto. No verified movement structure or instrument-specific technical demands were available."
+      ],
+      "scope": "Authorized soprano alternative verified in composer work catalog; supplied soprano part and transposition instructions remain uninspected.",
+      "score_url": "https://www.boosey.com/pdf/brochure/18658.pdf",
+      "source_label": "Boosey & Hawkes Victor Fenigstein catalog",
+      "recording_url": null,
+      "recording_description": "No exact playable recording verified.",
+      "recording_links": [],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Do not use oboe notation to infer saxophone written range. Piano reduction EE5407 is advertised for oboe with solo part; inclusion of a soprano part remains unknown. No exact saxophone recording verified. The 1961 RTL premiere was an oboe performance, with Norbert Mattern, and is a discography reference only.",
+      "evidence": [
+        {
+          "url": "https://www.boosey.com/pdf/brochure/18658.pdf",
+          "label": "Boosey & Hawkes composer catalog",
+          "claim": "Downloaded source explicitly states 1961, 18min, oboe (or soprano saxophone) and string orchestra; lists oboe/piano ISMN9790221121998 and oboe premiere.",
+          "access": "opened"
+        },
+        {
+          "url": "https://www.boosey.com/downloads/NOVA201401_engl.pdf",
+          "label": "Publisher NOVA Spring 2014 catalog",
+          "claim": "Lists under SIMROCK: Concerto for oboe and strings, piano reduction with solo part, ISBN9783923051144, EE5407. The imprint is corroborated; soprano supplied-part status is not.",
+          "access": "search_index_verified"
+        }
+      ],
+      "batch_number": 22,
+      "review_id": 515,
+      "review_file": "content/research-review/Review 0515 - Victor Fenigstein - Concerto.md",
+      "evidence_type": "Source description / gaps",
+      "decision_focus": "Publisher’s 18-minute duration establishes the approximate scale of the complete concerto. No verified movement structure or instrument-specific technical demands were available."
+    },
+    {
+      "run_number": 166,
+      "path": "content/works/Walter Hartley - Saxophone Album.md",
+      "title": "The Saxophone Album",
+      "instrumentation": "Dorn DP848 listed under soprano saxophone and piano; collection scope needs title-page check",
+      "duration": "Unknown",
+      "demands": [
+        "The university audition list specifically selects Nocturne from the Album for soprano, while its baritone list selects Scherzino. Evaluate the intended selection separately from the whole collection. No notation or concrete technical requirements inspected."
+      ],
+      "scope": "Collection identity clarified through university audition list; solo saxophone contents differ by instrument.",
+      "score_url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+      "source_label": "Dorn Publications catalog and Syracuse University Setnor audition repertoire",
+      "recording_url": null,
+      "recording_description": "No exact playable recording verified.",
+      "recording_links": [],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Dorn’s classification alone does not show which pieces are supplied. Syracuse names Nocturne for soprano and Scherzino for baritone from the collection. A Raschèr Quartet repertory document also lists The Saxophone Album for four saxophones and piano (1974). The connection between those references and DP848 requires inspection. No obligatory doubling or quartet instrumentation is asserted for DP848.",
+      "evidence": [
+        {
+          "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+          "label": "Dorn Publications April 2025 catalog",
+          "claim": "Downloaded catalog lists848, Hartley, The Saxophone Album under Soprano Saxophone and Piano.",
+          "access": "opened"
+        },
+        {
+          "url": "https://vpa.syr.edu/wp-content/uploads/fly_vpa_setnor_suggest_audition_literature_Woodwinds_2023.pdf",
+          "label": "Syracuse University Setnor School of Music audition list",
+          "claim": "Soprano list names Nocturne from Saxophone Album, 1974; baritone list names Scherzino from Saxophone Album, 1974. This supports selection identity, not an assigned level.",
+          "access": "web_text_verified_download403"
+        },
+        {
+          "url": "https://vanzoelen.eu/wp-content/uploads/2023/07/RSQ-50-AVZ-DEF-kleur.pdf",
+          "label": "Raschèr Saxophone Quartet repertory document",
+          "claim": "Lists Hartley The Saxophone Album for4 saxophones and piano, 1974, premiere Fredonia25 February 1974. This is a potentially different collection scope requiring comparison.",
+          "access": "search_index_verified"
+        }
+      ],
+      "batch_number": 23,
+      "review_id": 516,
+      "review_file": "content/research-review/Review 0516 - Walter Hartley - Saxophone Album.md",
+      "evidence_type": "Source description / gaps",
+      "decision_focus": "The university audition list specifically selects Nocturne from the Album for soprano, while its baritone list selects Scherzino. Evaluate the intended selection separately from the whole collection. No notation or concrete technical requirements inspected."
+    },
+    {
+      "run_number": 178,
+      "path": "content/works/Wolfgang Amadeus Mozart - Adagio from Clarinet Concerto K.622.md",
+      "title": "Adagio from Clarinet Concerto K.622",
+      "instrumentation": "Saxophone or clarinet in E-flat and piano; Ronald L. Caravan arrangement, Ethos Publications",
+      "duration": "Unknown",
+      "demands": [
+        "Publisher states that the piano reduction is transposed so the E-flat soloist can keep essentially the original written solo part. This arrangement avoids awkward octave displacement according to its arranger/publisher.",
+        "A supplied cadenza uses musical material only from the Adagio movement, according to the publisher. The cadenza’s notation, length and technical demands remain uninspected."
+      ],
+      "scope": "Exact arranger/publisher description and title page verified. Cover only was inspected; no notation inspected.",
+      "score_url": "https://ethospublications.com/ecc_eps/music-for-saxophone/alto-saxophone-solos/wa-mozart-adagio-from-clarinet-concerto-k-622/",
+      "source_label": "Ethos Publications, exact Caravan arrangement",
+      "recording_url": null,
+      "recording_description": "No exact playable recording verified.",
+      "recording_links": [],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Exact Caravan arrangement confirmed directly with publisher. No original Mozart score was used to infer this arrangement’s pitch range, breath lengths, ornamentation or technical demands. No exact Caravan-arrangement performance verified.",
+      "evidence": [
+        {
+          "url": "https://ethospublications.com/ecc_eps/music-for-saxophone/alto-saxophone-solos/wa-mozart-adagio-from-clarinet-concerto-k-622/",
+          "label": "Ethos Publications exact product page",
+          "claim": "Retrieved public HTML directly. Description confirms E-flat solo instrument/piano, accompaniment transposition preserving the original written part, avoided octave displacement and included Adagio-based cadenza.",
+          "access": "opened"
+        },
+        {
+          "url": "https://ethospublications.com/ecc_eps/sy-photos/2017/08/14/18/large_3f37b263d_IMG_0001.JPG",
+          "label": "Ethos publisher cover",
+          "claim": "Downloaded and visually inspected public title-page image confirms Mozart Adagio, K622, Ronald L. Caravan, E-flat saxophone or clarinet and piano, Ethos Publications. Cover contains no music notation.",
+          "access": "opened"
+        }
+      ],
+      "reference_image_path": "/tmp/saxobrain-score04/c/caravan-cover.jpg",
+      "batch_number": 24,
+      "review_id": 517,
+      "review_file": "content/research-review/Review 0517 - Wolfgang Amadeus Mozart - Adagio from Clarinet Concerto K.622.md",
+      "evidence_type": "Source description / gaps",
+      "decision_focus": "Publisher states that the piano reduction is transposed so the E-flat soloist can keep essentially the original written solo part. This arrangement avoids awkward octave displacement according to its arranger/publisher."
+    },
+    {
+      "run_number": 179,
+      "path": "content/works/Wolfgang Amadeus Mozart - Concerto for Oboe in C Major, KV314.md",
+      "title": "Concerto for Oboe in C major, K.314",
+      "instrumentation": "Catalog specifies soprano saxophone; Alvin Wong candidate edition is a 13-page individual soprano part",
+      "duration": "Unknown",
+      "demands": [
+        "The candidate is a full 13-page individual soprano part advertised as in the original key. The public cover labels it a soprano saxophone transcription by Alvin Wong. Neither fact establishes technical demands or accompaniment availability."
+      ],
+      "scope": "Available soprano transcription identified, but catalog edition remains unspecified. Candidate cover inspection only.",
+      "score_url": "https://www.sheetmusicdirect.com/se/ID_No/1331833/Product.aspx",
+      "source_label": "Alvin Wong via Sheet Music Direct / Sheet Music Plus",
+      "recording_url": null,
+      "recording_description": "No exact playable recording verified.",
+      "recording_links": [],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Wong’s arrangement is an available candidate; nothing establishes it as Tim’s catalog edition. The preview image retrieved from Sheet Music Direct is a cover. Sheet Music Plus exposes six preview images, but notation-image retrieval returned403 and browser page failed. No original oboe score used for saxophone demand claims. No exact soprano/Wong recording verified.",
+      "evidence": [
+        {
+          "url": "https://www.sheetmusicplus.com/en/product/oboe-concerto-kv-314-soprano-saxophone-22513217.html",
+          "label": "Alvin Wong composer/arranger supplied listing",
+          "claim": "Web text lists original key, 13-page individual part, A0.1236348, Wong#831860; six openly offered preview-image links could not be retrieved.",
+          "access": "web_text_opened_notation403"
+        },
+        {
+          "url": "https://www.sheetmusicdirect.com/se/ID_No/1331833/Product.aspx",
+          "label": "Sheet Music Direct exact candidate edition",
+          "claim": "Public page retrieved directly; arrangerAlvin Wong, soprano solo. Downloaded public cover image and visually checked; no notation on cover.",
+          "access": "opened"
+        }
+      ],
+      "reference_image_path": "/tmp/saxobrain-score04/c/mozart-wong-preview.png",
+      "batch_number": 25,
+      "review_id": 518,
+      "review_file": "content/research-review/Review 0518 - Wolfgang Amadeus Mozart - Concerto for Oboe in C Major, KV314.md",
+      "evidence_type": "Source description / gaps",
+      "decision_focus": "The candidate is a full 13-page individual soprano part advertised as in the original key. The public cover labels it a soprano saxophone transcription by Alvin Wong. Neither fact establishes technical demands or accompaniment availability."
+    }
+  ],
+  "new_files": [
+    "content/research-review/Review 0494 - Carl Anton Wirth - Prologue.md",
+    "content/research-review/Review 0495 - Colin Cowles - Blacker and Blues.md",
+    "content/research-review/Review 0496 - Erich Wolfgang Korngold - Much Ado About Nothing.md",
+    "content/research-review/Review 0497 - Georg Philipp Telemann - Concerto in F.md",
+    "content/research-review/Review 0498 - Libby Larsen - Concerto.md",
+    "content/research-review/Review 0499 - Lynden De Young - Transformation (with a tribute to Johnny Hodges).md",
+    "content/research-review/Review 0500 - Marcel De Jonghe - Concerto.md",
+    "content/research-review/Review 0501 - Meyer Kupferman - Five Forms.md",
+    "content/research-review/Review 0502 - Meyer Kupferman - In Two Bits.md",
+    "content/research-review/Review 0503 - Niccolo Paganini - Cantabile.md",
+    "content/research-review/Review 0504 - Niccolo Paganini - Sonata Appassionata.md",
+    "content/research-review/Review 0505 - Niccolò Paganini - Non Piu Mesta Accanto al Fuoco.md",
+    "content/research-review/Review 0506 - Niccolò Paganini - Sonata Appassionata.md",
+    "content/research-review/Review 0507 - Niccolò Paganini - Sul Margine D'Un Rio.md",
+    "content/research-review/Review 0508 - Pascal Proust - Combien de Marins.md",
+    "content/research-review/Review 0509 - Paul R. Goldstaub - Graphics IV.md",
+    "content/research-review/Review 0510 - Peter Ondishko - Goodnight Wine.md",
+    "content/research-review/Review 0511 - Renato Goulart - Imagens do Broasil.md",
+    "content/research-review/Review 0512 - Richard Faith - Phantasies.md",
+    "content/research-review/Review 0513 - Rudy Wiedoeft - Valse - Mazane-Saxema.md",
+    "content/research-review/Review 0514 - Sam Raphling - Sonata No. 2.md",
+    "content/research-review/Review 0515 - Victor Fenigstein - Concerto.md",
+    "content/research-review/Review 0516 - Walter Hartley - Saxophone Album.md",
+    "content/research-review/Review 0517 - Wolfgang Amadeus Mozart - Adagio from Clarinet Concerto K.622.md",
+    "content/research-review/Review 0518 - Wolfgang Amadeus Mozart - Concerto for Oboe in C Major, KV314.md",
+    "content/research-review/Remaining Repertoire - Score Batch 04.md"
+  ],
+  "coverage": {
+    "notation_inspected": 4,
+    "alternate_edition_notation": 1,
+    "listening_or_reference": 7
+  }
+}

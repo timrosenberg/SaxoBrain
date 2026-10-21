@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-20",
+  "selection_note": "Two weak identity-only candidates replaced with notation-backed evidence. No Hold or catalog decision applied.",
+  "records": [
+    {
+      "run_number": 17,
+      "path": "content/works/Carl Anton Wirth - Three Indonesian Landscapes.md",
+      "title": "Three Indonesian Landscapes",
+      "instrumentation": "Alto saxophone and piano, attributed by Dale Wolford repertoire bibliography.",
+      "duration": "Unknown",
+      "demands": [],
+      "scope": "Weak hold card. No new technical or playable evidence found. The surviving indexed bibliography establishes an edition lead only.",
+      "score_url": null,
+      "source_label": "Dale Wolford repertoire bibliography; indexed listing",
+      "recording_url": null,
+      "recording_description": "No exact playable recording verified in this pass.",
+      "recording_links": [],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "The bibliography separately lists Three Indonesian Landscapes and Indonesian Landscapes. Exact relationship is unknown. No movement names, duration, score, or recording verified. Recommended substitution candidate.",
+      "evidence": [
+        {
+          "url": "https://dalewolford.com/page1/page6/styled-4/files/wolford_repertoire_list.pdf",
+          "label": "Saxophonist Dale Wolford, Music for the Saxophone",
+          "claim": "Lists exact Three Indonesian Landscapes, Carl Anton Wirth, CAW Publications, under alto saxophone and piano; also lists Indonesian Landscapes separately.",
+          "access": "live search index; original PDF not retrieved"
+        }
+      ]
+    },
+    {
+      "run_number": 33,
+      "path": "content/works/David Resnick - A Novel Idea.md",
+      "title": "A Novel Idea",
+      "instrumentation": "Alto saxophone and piano, Alliance AP291.",
+      "duration": "Unknown",
+      "demands": [],
+      "scope": "Weak hold card. Festival requirements prove multiple numbered selections. No new source exposes notation, movement titles, range, duration, or exact playable recording.",
+      "score_url": null,
+      "source_label": "Wisconsin School Music Association list hosted by Larkin High School",
+      "recording_url": null,
+      "recording_description": "No exact playable recording verified in this pass.",
+      "recording_links": [],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Source says Resnick without a first name. David remains unverified for this exact saxophone edition. A same-titled David Resnick ballet is a different context and was excluded. Recommended substitution candidate.",
+      "evidence": [
+        {
+          "url": "https://www.larkinhighschoolband.org/uploads/9/0/6/2/9062968/wsma_event_list_2015-2016.pdf",
+          "label": "WSMA 2015-2016 festival list, hosted by Larkin High School",
+          "claim": "Alto saxophone listing names Resnick, A Novel Idea, Alliance/API AP291, and requires No. 4 plus one other selection.",
+          "access": "live search index; prior opened PDF evidence retained"
+        },
+        {
+          "url": "https://www.prestomusic.com/sheet-music/products/9820344--a-novel-idea-alto-sax-solo-pno",
+          "label": "Presto Music product catalog",
+          "claim": "Alto saxophone and piano, Alliance Music Publications, AP291, UPC 649325002919. No composer first name supplied.",
+          "access": "live indexed retailer page"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "run_number": 156,
+  "filename": "Susan Hurley - Nocturne.md",
+  "path": "content/works/Susan Hurley - Nocturne.md",
+  "checked_on": "2026-10-16",
+  "status": "no_reliable_match",
+  "identity": "Susan Hurley: Nocturne for alto saxophone and violin, exact work unresolved",
+  "findings": [
+    "The official composer site was identified, but accessible search results did not establish this exact title and instrumentation. Results about a soprano singer named Susan Hurley were excluded."
+  ],
+  "evidence": [],
+  "metadata": {},
+  "score_observations": "",
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [],
+  "collection_flag": "Collection suitability unknown because the exact work remains unverified.",
+  "gaps": [
+    "No reliable exact work page, score edition, date or recording found.",
+    "Composer site returned HTTP 406 on retrieval."
+  ],
+  "searches": [
+    "Susan Hurley Nocturne",
+    "Susan Hurley Nocturne saxophone violin",
+    "site:susanhurley.com Nocturne saxophone",
+    "Susan Hurley chamber works Nocturne"
+  ],
+  "proposed_corrections": []
+}

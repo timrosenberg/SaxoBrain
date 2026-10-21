@@ -1,0 +1,25 @@
+{
+  "run_number": 163,
+  "filename": "Unknown - Solo.md",
+  "path": "content/works/Unknown - Solo.md",
+  "checked_on": "2026-10-16",
+  "status": "no_reliable_match",
+  "identity": "Unknown: Solo, insufficient identifying information",
+  "findings": [
+    "The catalog provides only Solo and no composer, instrument, source, date or other identifying field. A unique external match cannot be established."
+  ],
+  "evidence": [],
+  "metadata": {},
+  "score_observations": "",
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [],
+  "collection_flag": "Identity unknown.",
+  "gaps": [
+    "Need a composer, score image, source URL, instrumentation or original import clue before a meaningful external search."
+  ],
+  "searches": [
+    "Local catalog and assignment metadata inspected: no identifying data beyond Solo."
+  ],
+  "proposed_corrections": []
+}

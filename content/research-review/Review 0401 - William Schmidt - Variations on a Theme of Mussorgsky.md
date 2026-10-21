@@ -66,3 +66,7 @@ Western International Music AV316 is titled Variations on a Theme of Modest Mous
 Tim retained the work with difficulty unknown. The catalog level remains unassigned.
 
 **Tim’s decision:** Hold. Recorded 2026-10-15.
+
+### Research checked October 16, 2026
+
+Updated sources, notation observations and unresolved questions are in [[William Schmidt - Variations on a Theme of Mussorgsky|the catalog work’s private research notes]]. See [[Remaining Repertoire Research - 2026-10-16|the complete research overview]]. Your existing review decision is unchanged.

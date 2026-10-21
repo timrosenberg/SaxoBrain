@@ -15,6 +15,7 @@ added: 2024-03-08
 research:
   - "Publisher WIM, catalog no. AV316 · https://www.grothmusic.com/p-38086.aspx"
   - "Cover for AV316 explicitly credits William Schmidt and alto saxophone with piano. Only cover available. · https://www.grothmusic.com/p-38086.aspx"
+  - "Current Groth listing reconfirms William Schmidt, alto saxophone and piano, WIM AV316. The available product listing supplies no notation preview. · https://www.grothmusic.com/p-38086.aspx"
 aliases: []
 publisher:
   - "Western International Music"
@@ -51,3 +52,27 @@ Searches checked:
 - William Schmidt Mussorgsky AV316 saxophone score
 - WIM AV316 Schmidt Mussorgsky variations
 
+### Research checked October 16, 2026
+
+**Identity checked:** William Schmidt: Variations on a Theme of Modest Mussorgsky, alto saxophone and piano
+
+**Findings**
+
+- Current Groth listing reconfirms William Schmidt, alto saxophone and piano, WIM AV316. The available product listing supplies no notation preview.
+
+**Notation inspected:** No.
+
+**Collection fit:** Original variation treatment of a borrowed theme. Degree of transformation and technical level unknown without the score.
+
+**Still unknown**
+
+- No newly located solo notation, composition date or exact recording.
+- Prior difficulty hold remains.
+
+**Sources and access**
+
+- [Groth Music](https://www.grothmusic.com/p-38086.aspx): Current Groth listing reconfirms William Schmidt, alto saxophone and piano, WIM AV316. The available product listing supplies no notation preview. Source opened.
+
+**Searches tried:** `William Schmidt Variations Theme Mussorgsky`; `Schmidt Mussorgsky AV316 score`; `Schmidt Mussorgsky alto saxophone recording`.
+
+[[Remaining Repertoire Research - 2026-10-16|Full research overview]]

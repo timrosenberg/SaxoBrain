@@ -1,0 +1,110 @@
+{
+  "run_number": 45,
+  "filename": "Frederik van Rossum - Pathetic Story.md",
+  "path": "content/works/Frederik van Rossum - Pathetic Story.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "notation_inspected": false,
+  "score_observations": [],
+  "score_links": [],
+  "listening": [
+    {
+      "url": "https://pmb.artsaucarre.be/opac_css/index.php?id=2553&lvl=publisher_see",
+      "description": "Hiroshi Hara,Pathetic Story,International Adolphe Sax Association2013anthology CD1",
+      "verification": "Library exact composer,title,performer and disc contents verified live; no accessible stream or audition."
+    }
+  ],
+  "collection_flag": "Professional international competition final concerto,2002Dinant. Strong college/professional relevance.",
+  "identity": "Frederik van Rossum, Pathetic Story,op.61, concerto for alto saxophone and orchestra, with piano reduction.",
+  "findings": [
+    "WorldCat documents Millstone,Ramillies,©2002edition for alto saxophone,string orchestra,harp,piano and percussion.",
+    "Competition primary indexed reports identify it as2002Dinant final commissioned compulsory concerto; a forum's2006claim is contradicted by competition records.",
+    "Orchestral catalogue at Gulabin lists2000–2001composition and24minutes; primary composition-date confirmation still needed.",
+    "Elkin distributor catalogue identifies alto+piano reduction MP0261; used-score dealer describes54-page score plus18-page solo part,Millstone2002.",
+    "ARTS² library catalogue confirms Hiroshi Hara recording on International Adolphe Sax Association2013three-CD/DVDcollection.",
+    "Existing Cebedem publisher is preserved as a conflicting lead; located edition says Millstone."
+  ],
+  "evidence": [
+    {
+      "claim": "Millstone2002,op61,and full orchestral scoring",
+      "url": "https://search.worldcat.org/title/Pathetic-story-%3A-concerto-for-alto-saxophone-in-E-string-orchestra-harp-piano-and-percussion-opus-61/oclc/62139910",
+      "source_name": "WorldCat",
+      "kind": "library",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "2002final commission and alto scoring",
+      "url": "https://dinant2002.adolphesax.com/Html-esp/datosgenerales.htm",
+      "source_name": "Dinant2002competition archive",
+      "kind": "primary",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "2000–2001,24minutes",
+      "url": "https://gulabin.com/composers/pdf/FREDERIK%20VAN%20ROSSUM.pdf",
+      "source_name": "Gulabin orchestral catalogue",
+      "kind": "catalog",
+      "access": "opened"
+    },
+    {
+      "claim": "Alto+piano MP0261",
+      "url": "https://www.elkinmusic.com/public/catalog.pdf",
+      "source_name": "Elkin Music distributor catalogue",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Exact Hara recording on2013association release",
+      "url": "https://pmb.artsaucarre.be/opac_css/index.php?id=2553&lvl=publisher_see",
+      "source_name": "ARTS²library",
+      "kind": "library",
+      "access": "opened"
+    }
+  ],
+  "metadata": {
+    "publisher": [
+      "Millstone,©2002; MP0261(piano reduction, distributor catalogue)"
+    ],
+    "instruments": [
+      "Alto saxophone",
+      "String orchestra,harp,piano and percussion; piano reduction available"
+    ],
+    "library-score": [
+      "https://search.worldcat.org/title/Pathetic-story-%3A-concerto-for-alto-saxophone-in-E-string-orchestra-harp-piano-and-percussion-opus-61/oclc/62139910"
+    ]
+  },
+  "gaps": [
+    "No public notation inspected or streaming URL verified.",
+    "Composition2000–2001needs primary corroboration;2002is verified edition/competition year.",
+    "Existing Cebedem publisher conflicts with located Millstone edition.",
+    "AIAS report PDF URLs redirect to unrelated current website document and were not treated as opened evidence."
+  ],
+  "searches": [
+    "Frederik van Rossum Pathetic Story",
+    "Rossum Pathetic",
+    "Pathetic Story saxophone",
+    "Pathetic Story Rossum Millstone score",
+    "Pathetic Story Hiroshi Hara video",
+    "Pathetic Story Cebedem"
+  ],
+  "proposed_corrections": [
+    {
+      "field": "instruments",
+      "current": [
+        "Any Saxophone",
+        "Piano"
+      ],
+      "suggested": [
+        "Alto saxophone",
+        "Piano reduction"
+      ],
+      "reason": "Library,competition,and distributor identify alto specifically."
+    },
+    {
+      "field": "publisher",
+      "current": "Cebedem",
+      "suggested": "Review Millstone©2002edition MP0261",
+      "reason": "Located library edition differs from current metadata."
+    }
+  ]
+}

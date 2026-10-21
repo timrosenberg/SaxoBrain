@@ -1,0 +1,46 @@
+{
+  "run_number": 104,
+  "filename": "Marcel Perrin - Burlesque.md",
+  "path": "content/works/Marcel Perrin - Burlesque.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": "Perrin: Burlesque, Dorn soprano/piano and alto/piano editions; Marcel forename unverified",
+  "findings": [
+    "Dorn 2025 catalog lists Perrin Burlesque for soprano saxophone and piano, DP148, and a separate alto saxophone/piano version, DP186.",
+    "The catalog supplies surname only. Marcel Perrin attribution remains uncorroborated; separate Jean Perrin titles must not be conflated."
+  ],
+  "evidence": [
+    {
+      "claim": "Burlesque soprano/piano DP148 and alto/piano DP186",
+      "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+      "source_name": "Dorn Publications 2025 catalog hosted by Groth Music",
+      "kind": "publisher catalog",
+      "access": "opened"
+    }
+  ],
+  "metadata": {
+    "publisher": [
+      "Dorn Publications"
+    ]
+  },
+  "score_observations": [],
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [],
+  "collection_flag": null,
+  "gaps": [
+    "Exact composer forename still requires a title page.",
+    "Two instrument-specific editions found; no doubling inferred.",
+    "No current exact purchase listing, date, duration, movements, recording or notation preview verified."
+  ],
+  "searches": [
+    "Marcel Perrin Burlesque saxophone",
+    "Burlesque Perrin saxophone",
+    "Perrin Burlesque music",
+    "Perrin burlesque saxophon",
+    "Marcel Perrin Burlesque partition soprano saxophone",
+    "Burlesque Jean Perrin",
+    "Marcel Perrin Burlesque sax"
+  ],
+  "proposed_corrections": []
+}

@@ -1,0 +1,299 @@
+{
+  "checked_on": "2026-10-16",
+  "decision_boundary": "Recommendations only. No catalog edits, deletions, composer removal, level proposals or commits. Scope-removal recommendations are editorial inferences from the approved exclusion of educational/lyrical transcriptions. Missing college-performance evidence does not establish irrelevance.",
+  "duplicate_scan": "Read-only normalized title-plus-composer scan across content/works found one apparent pair: Paganini Sonata Appassionata. The publisher identifies distinct alto and soprano editions. No confirmed duplicate record warrants removal in this 143-work queue.",
+  "candidates": [
+    {
+      "path": "content/works/Wolfgang Amadeus Mozart - Adagio & Romance.md",
+      "reason": "Recommend scope removal under the approved exclusion of educational lyrical transcriptions. Exact Hautvast soprano/piano identity is corroborated by the distributor. Tierolff lists the same title and arranger for soprano as an alternative solo instrument and labels it grade 2-3. This is a scope judgment. It is not a score-based finding about its complete musical demands.",
+      "evidence": [
+        {
+          "url": "https://tierolff.nl/en/adagio-romance-p46.html",
+          "label": "Tierolff primary publisher; live search-index verification, direct fetch unavailable",
+          "claim": "Adagio & Romance by Wolfgang Amadeus Mozart, arranged Willy Hautvast, item P46, soprano saxophone among the solo alternatives, publisher grade 2-3."
+        },
+        {
+          "url": "https://www.elkinmusic.com/public/catalog.pdf",
+          "label": "Elkin Music distributor catalog; live indexed exact edition",
+          "claim": "Printed page 500 identifies Mozart Adagio & Romance, Willy Hautvast, soprano saxophone and piano, TierolffSS3075."
+        }
+      ],
+      "confidence": "high edition identification; medium scope-removal recommendation"
+    },
+    {
+      "path": "content/works/Felix Mendelssohn - Six Romances sans parole.md",
+      "reason": "Recommend scope removal only if the approved exclusion covers complete collections of lyrical Romantic piano transcriptions. Billaudot identifies this exact Venturi collection as cycle 2. A newly found mirror of a 2015 MTNA Young Artist program includes three selections, so do not say the edition has no college-age use. Its removal would be a deliberate catalog-scope choice.",
+      "evidence": [
+        {
+          "url": "https://www.billaudot.com/gb6917-6.html",
+          "label": "Billaudot primary publisher; live search-index verification, direct fetch unavailable",
+          "claim": "Six romances sans paroles opus 19, 30 et 53, Gerald Venturi arrangement, E-flat saxophone and piano, GB6917, 32 pages, copyright 2000, moderately difficult (cycle 2)."
+        },
+        {
+          "url": "https://www.billaudot.com/six-romances-sans-paroles-opus-19-30-et-53-3.html",
+          "label": "Billaudot French primary catalog; live index",
+          "claim": "Same GB6917 edition and identity with cycle-2 classification."
+        },
+        {
+          "url": "https://expydoc.com/doc/4967429/student-performance-competitions-january-18--2015",
+          "label": "Third-party mirror of MTNA South Central program; opened live, original host not located",
+          "claim": "Young Artist woodwinds section of January 18, 2015 program lists Six Romances Sans Paroles transcribed by Gerald Venturi, selecting Op.19 No.4, Op.19 No.6 and Op.53 No.4. The program defines Young Artist as ages 19-26. This is counterevidence to a blanket claim of no college-age use; mirror provenance limits confidence."
+        }
+      ],
+      "confidence": "high edition identification; medium scope-removal recommendation"
+    }
+  ],
+  "holds": [
+    {
+      "path": "content/works/Wolfgang Amadeus Mozart - Adagio from Clarinet Concerto K.622.md",
+      "reason": "Potential lyrical scope-removal lead, but retain pending examination of the Caravan edition. The exact saxophone type and arrangement demands remain unresolved. EP041079 is a distributor identifier and must not be expanded to Edition Peters without evidence.",
+      "evidence": [
+        {
+          "url": "https://www.elkinmusic.com/public/catalog.pdf",
+          "label": "Elkin Music publisher/distributor catalog; archived October 16 research, not reopened in this pass",
+          "claim": "Elkin distributor catalog lists Adagio from Clarinet Concerto K.622 arranged Ronald L. Caravan for saxophone or E-flat clarinet and piano, item EP041079."
+        }
+      ],
+      "confidence": "hold"
+    },
+    {
+      "path": "content/works/Fritz Jakma - Cavatine.md",
+      "reason": "Retain pending score review. Tierolff confirms Frits Jakma and soprano/tenor with piano. A retailer grade 2+ does not establish the full scope, and this is not established as a transcription.",
+      "evidence": [
+        {
+          "url": "https://tierolff.nl/en/sheetmusic-for-solo-duo-trio-quartet-ensemble/music-for-saxophones/solo-soprano-saxophone.html",
+          "label": "Tierolff primary publisher; live search index",
+          "claim": "Cavatine, Frits Jakma, soprano or tenor saxophone among alternatives, plus piano. No direct notation was inspected."
+        }
+      ],
+      "confidence": "hold"
+    },
+    {
+      "path": "content/works/Armando Ghidoni - Douce Chansonnette.md",
+      "reason": "Elementary educational evidence is strong, but this is an original saxophone/piano work. Hold for explicit scope decision if educational originals are also to be excluded. Do not treat it as an unwanted transcription.",
+      "evidence": [
+        {
+          "url": "https://www.lmi-partitions.com/produit/douce-chansonnette/",
+          "label": "LMI Partitions; archived October 16 research, not reopened in this pass",
+          "claim": "AL27575; 1989 first publication; alto and piano"
+        },
+        {
+          "url": "https://www.ficksmusic.com/en-jp/products/ghidoni-douce-chansonnette-leduc",
+          "label": "Ficks Music; archived October 16 research, not reopened in this pass",
+          "claim": "Elementary; Lento espressivo"
+        },
+        {
+          "url": "https://conservatoire.lille.fr/download/file/2471?key=I3Mr1V05Oj1bGR6cr4%2F3vQ%3D%3D",
+          "label": "Lille conservatory; archived October 16 research, not reopened in this pass",
+          "claim": "Lille cycleI fourth-year repertoire placement; source publisher attribution Billaudot conflicts with actual Leduc edition"
+        }
+      ],
+      "confidence": "hold"
+    },
+    {
+      "path": "content/works/Niccolo Paganini - Cantabile.md",
+      "reason": "Lyrical transcription lead. Retain until the exact Camwell DP1501 score can establish musical scope. The title alone cannot justify removal.",
+      "evidence": [
+        {
+          "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+          "label": "Dorn Publications 2025 catalog; archived October 16 research, not reopened in this pass",
+          "claim": "DP1501 alto/piano Camwell edition"
+        },
+        {
+          "url": "https://imslp.org/wiki/Cantabile%2C_M.S.109_%28Paganini%2C_Niccol%C3%B2%29",
+          "label": "IMSLP work/score record; archived October 16 research, not reopened in this pass",
+          "claim": "MS109 identity and original instrumentation"
+        }
+      ],
+      "confidence": "hold"
+    },
+    {
+      "path": "content/works/Claude T. Smith - Sonata No. 1.md",
+      "reason": "Identity correction lead, not a removal candidate. The live Hal Leonard index identifies Charles W. Smith Sonata No.1 (1989), SU194, alto saxophone. Confirm that SU194 is the intended work before changing attribution.",
+      "evidence": [
+        {
+          "url": "https://www.halleonard.com/product/3776036/sonata-no-1-1989",
+          "label": "Hal Leonard / Southern Music; live indexed primary product",
+          "claim": "Sonata No.1 (1989), Charles W. Smith, Alto Sax, Southern Music SU194 / HL3776036, 44 pages."
+        }
+      ],
+      "confidence": "hold"
+    },
+    {
+      "path": "content/works/Sherwood Shaffer - Sonata.md",
+      "reason": "Hold identity. Archived composer catalog documents tenor and baritone sonatas without settling the current generic alto record. Unresolved instrumentation is insufficient grounds to discard the record.",
+      "evidence": [
+        {
+          "url": "https://www.sherwoodshaffer.com/scores-publishing",
+          "label": "Sherwood Shaffer; archived October 16 research, not reopened in this pass",
+          "claim": "Composer lists Sonata: When Mountains Rising for tenor saxophone and piano, and a separate Sonata for baritone saxophone and piano. This page does not establish the catalog's alto version."
+        }
+      ],
+      "confidence": "hold"
+    },
+    {
+      "path": "content/works/Benedetto Marcello - Sonate.md",
+      "reason": "Hold exact edition/source identity. A 2026 soprano edition found in prior research postdates the catalog record added in 2025. Do not replace the historical identity with that merely available modern candidate.",
+      "evidence": [
+        {
+          "url": "https://www.partitions-musicales.net/Vents/Saxophone/Sonate-en-fa-majeur-nr-EMR97467-DL.html",
+          "label": "partitions-musicales.net; archived October 16 research, not reopened in this pass",
+          "claim": "Soprano F-major candidate, Michel, EMR97467-DL, 2026"
+        },
+        {
+          "url": "https://www.stretta-music.be/marcello-sonata-no-1-nr-1220471.html",
+          "label": "Stretta; archived October 16 research, not reopened in this pass",
+          "claim": "Different tenor F-major edition, Mortimer EMR57003"
+        }
+      ],
+      "confidence": "hold"
+    },
+    {
+      "path": "content/works/Richard Stillwell - Sonata No. 1.md",
+      "reason": "Likely Joseph Stillwell identity correction. Composer work and performance pages in archived research identify substantial soprano/piano Sonata Op.4 and college recital history. Retain pending intended-work confirmation.",
+      "evidence": [
+        {
+          "url": "https://www.josephstillwell.com/soprano-saxophone-sonata-op-4.html",
+          "label": "Joseph Stillwell official work page; archived October 16 research, not reopened in this pass",
+          "claim": "Exact scoring, date, opus, duration, dedicatee and three movements"
+        },
+        {
+          "url": "https://www.josephstillwell.com/performances.html",
+          "label": "Joseph Stillwell performance archive; archived October 16 research, not reopened in this pass",
+          "claim": "SonataNo.1 title and college recital history"
+        },
+        {
+          "url": "https://www.josephstillwell.com/band.html",
+          "label": "Joseph Stillwell official overview; archived October 16 research, not reopened in this pass",
+          "claim": "Alternate movement headings and composer inquiry route"
+        }
+      ],
+      "confidence": "hold"
+    },
+    {
+      "path": "content/works/Erich Wolfgang Korngold - Much Ado About Nothing.md",
+      "reason": "Retain pending edition/instrument correction. Live Alfred primary index identifies an alto saxophone or clarinet/piano edition, while this record says soprano. The identity discrepancy does not justify removing the suite.",
+      "evidence": [
+        {
+          "url": "https://www.alfred.com/products/much-ado-op-11-for-alto-sax-or-clarinet-and-piano-36-m277491?variant=44600780980360",
+          "label": "Alfred Music / LudwigMasters; live primary search index",
+          "claim": "Much Ado Op.11, 36-M277491, alto saxophone or clarinet and piano. Publisher reports no sample pages or sample audio."
+        }
+      ],
+      "confidence": "hold"
+    },
+    {
+      "path": "content/works/William Schmidt - Variations on a Theme of Mussorgsky.md",
+      "reason": "Retain pending score review. A variation treatment of a borrowed theme should not be assumed to be a simplified melody transcription.",
+      "evidence": [
+        {
+          "url": "https://www.grothmusic.com/p-38086.aspx",
+          "label": "Groth Music; archived October 16 research, not reopened in this pass",
+          "claim": "Current Groth listing reconfirms William Schmidt, alto saxophone and piano, WIM AV316. The available product listing supplies no notation preview."
+        }
+      ],
+      "confidence": "hold"
+    }
+  ],
+  "retained": [
+    {
+      "path": "content/works/Niccolò Paganini - Sonata Appassionata.md",
+      "reason": "Retain as the soprano/piano edition DP1442. Distinct from alto DP1443. No duplicate removal recommended.",
+      "evidence": [
+        {
+          "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+          "label": "Dorn Publications 2025 primary catalog; opened live",
+          "claim": "Soprano Saxophone and Piano section lists Sonata Appassionata arranged Camwell as 1442 (PDF page 4). Alto Saxophone and Piano section lists it as 1443 (PDF page 6)."
+        }
+      ],
+      "confidence": "retain pending score/edition review"
+    },
+    {
+      "path": "content/works/Niccolo Paganini - Sonata Appassionata.md",
+      "reason": "Retain as the alto/piano edition DP1443. Distinct from soprano DP1442. No duplicate removal recommended.",
+      "evidence": [
+        {
+          "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+          "label": "Dorn Publications 2025 primary catalog; opened live",
+          "claim": "Soprano Saxophone and Piano section lists Sonata Appassionata arranged Camwell as 1442 (PDF page 4). Alto Saxophone and Piano section lists it as 1443 (PDF page 6)."
+        }
+      ],
+      "confidence": "retain pending score/edition review"
+    },
+    {
+      "path": "content/works/Scott Joplin - Magnetic Rag.md",
+      "reason": "Retain for score-based review. Prior inspected publisher preview documents a rhythmic ragtime arrangement. A transcription label alone does not place it in the excluded lyrical category.",
+      "evidence": [
+        {
+          "url": "https://www.stantons.com/scores/E/M/R/3/5/1/8/0/editio-emr35180.pdf",
+          "label": "Editions Marc Reift publisher preview; archived October 16 research, not reopened in this pass",
+          "claim": "The score cover identifies tenor saxophone and piano, arranger John Glenesk Mortimer and Editions Marc Reift EMR35180."
+        }
+      ],
+      "confidence": "retain pending score/edition review"
+    },
+    {
+      "path": "content/works/Georg Philipp Telemann - Concerto in F.md",
+      "reason": "Retain for edition/source clarification and score review. Archived institutional guide describes three movements and 6:50 duration. It is not established as a simplified lyrical excerpt.",
+      "evidence": [
+        {
+          "url": "https://www.knmo.nl/wp-content/uploads/2014/05/05-Repertorium-Houtblazers-Solisten-Ensembles-2010.pdf",
+          "label": "KNMO institutional repertoire list; archived October 16 research, not reopened in this pass",
+          "claim": "Ber Joosen, Molenaar, soprano saxophone arrangement"
+        },
+        {
+          "url": "https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+          "label": "Philharmonie de Paris digitized saxophone guide; archived October 16 research, not reopened in this pass",
+          "claim": "06051060; 6:50; three movements; piano; 1965 edition"
+        },
+        {
+          "url": "https://windmusic.org/index.php?lvl=notice_display&id=7846",
+          "label": "Windmusic library catalog; archived October 16 research, not reopened in this pass",
+          "claim": "Molenaar 1965, Ber Joosen; 16+3+3 pages; translated title F minor"
+        }
+      ],
+      "confidence": "retain pending score/edition review"
+    },
+    {
+      "path": "content/works/Wolfgang Amadeus Mozart - Concerto for Oboe in C Major, KV314.md",
+      "reason": "Retain for exact-edition selection. This is a complete Classical concerto transcription candidate. An arranger-published 13-page soprano part exists, but the catalog edition is unspecified.",
+      "evidence": [
+        {
+          "url": "https://www.sheetmusicplus.com/en/product/oboe-concerto-kv-314-soprano-saxophone-22513217.html",
+          "label": "Alvin Wong via Sheet Music Plus; archived October 16 research, not reopened in this pass",
+          "claim": "Arranger Alvin Wong offers an original-key soprano saxophone transcription, thirteen-page individual part, A0.1236348 / 831860. The listing is publisher-supplied by Wong through ArrangeMe."
+        }
+      ],
+      "confidence": "retain pending score/edition review"
+    },
+    {
+      "path": "content/works/Yvonne Desportes - Melopee Dorienne.md",
+      "reason": "Retain as original short saxophone repertoire. A teaching-guide entry and easy piano accompaniment are insufficient to dismiss the solo part.",
+      "evidence": [
+        {
+          "url": "https://mediatheque.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+          "label": "Philharmonie de Paris teaching guide; archived October 16 research, not reopened in this pass",
+          "claim": "Philharmonie teaching guide printed page 63 confirms 1984, Combre C4981, La Pléiade collection, about two minutes; one movement, expressive/free 3/4 quarter = 60 with varied rhythms and an easy piano part."
+        }
+      ],
+      "confidence": "retain pending score/edition review"
+    },
+    {
+      "path": "content/works/Rudy Wiedoeft - Rudy Wiedoeft Collection Volume 3 - Sax Serene; Lightnin'; The Doll Dance (Brown); Dainty Miss Miller (Barnes); Melancholy Charlie (Cr.md",
+      "reason": "Retain as a collection pending contents/title cleanup. Multiple composers and a long collection title are not evidence of a duplicate or failed identity.",
+      "evidence": [
+        {
+          "url": "https://www.notenpunkt.de/rudy-wiedoeft-the-rudy-wiedoeft-collection-vol-3-vaudeville-repertoire-for-alto-saxophone-and-piano-65679",
+          "label": "NotenPunkt; archived October 16 research, not reopened in this pass",
+          "claim": "Exact volume, editor, publisher, scoring and contents"
+        },
+        {
+          "url": "https://www.juneemersonwindmusic.com/Saxophone/?page=13&sort=title&sort_direction=1",
+          "label": "June Emerson Wind Music; archived October 16 research, not reopened in this pass",
+          "claim": "MFRW003 edition number"
+        }
+      ],
+      "confidence": "retain pending score/edition review"
+    }
+  ]
+}

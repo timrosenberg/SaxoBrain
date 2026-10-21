@@ -1,0 +1,90 @@
+{
+  "run_number": 5,
+  "filename": "Almeida Prado - East Street New York.md",
+  "path": "content/works/Almeida Prado - East Street New York.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "notation_inspected": true,
+  "score_observations": [
+    "Authorized excerpt of mm.10–17 in dissertation printedp140 was visually inspected. At rehearsalA the score shows Calmo in4/4, long saxophone notes and slurs, a3:2figure and a later triplet, over chromatic piano writing with5:4groups.",
+    "Only this excerpt was inspected. It establishes coordination and rhythmic details, not full range or complete technical demands."
+  ],
+  "score_links": [
+    {
+      "url": "https://api.drum.lib.umd.edu/server/api/core/bitstreams/97c4ddcf-b368-4035-be62-6bbaea6dd89d/content",
+      "description": "Authorized notation excerpt, printedp140,mm.10–17; local corrob-005-score.png.",
+      "inspected": true
+    }
+  ],
+  "listening": [],
+  "collection_flag": "College/professional recital context documented. Edition-specific instrumentation must be retained.",
+  "identity": "East Street, New York / 230 East 51st Street, New York, Almeida Prado",
+  "findings": [
+    "University of Maryland dissertation lists New York, East Street for soprano saxophone and piano, Tonos 1984, dedicated to Clara Sverner and Paulo Moura.",
+    "José de Carvalho's 2025 thesis discusses original alto and soprano manuscripts from January 1983 and the 1984 Tonos soprano edition.",
+    "The 2025 thesis explicitly compares register and engraving problems between the alto manuscript and soprano edition; catalog instrumentation therefore needs edition-specific review.",
+    "UNIRIO documents the work on a doctoral recital program in 2008. This supports college/professional context.",
+    "Directly opened Tonos catalogue pages19–20 dates the work1983 and identifies alto saxophone or clarinet with piano, catalogue10379,ISMN M-2015-4126-6. This conflicts with the soprano version described in the2009dissertation and must remain edition-specific."
+  ],
+  "evidence": [
+    {
+      "claim": "Soprano and piano, Tonos 1984, dedicatees",
+      "url": "https://api.drum.lib.umd.edu/server/api/core/bitstreams/97c4ddcf-b368-4035-be62-6bbaea6dd89d/content",
+      "source_name": "Paula J. Van Regenmorter, Brazilian Music for Saxophone, University of Maryland DMA dissertation (2009)",
+      "kind": "institutional",
+      "access": "score_inspected"
+    },
+    {
+      "claim": "1983 composition; two manuscripts; Tonos 1984 soprano edition; edition problems",
+      "url": "https://pt.scribd.com/document/889627961/PDF-a-Tese-Jose-de-Carvalho-28-5-2025",
+      "source_name": "José de Carvalho thesis, hosted by Scribd",
+      "kind": "scholarship",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Doctoral performance context",
+      "url": "https://serievitrinemusical.blogspot.com/2008/06/",
+      "source_name": "UNIRIO Vitrine Musical",
+      "kind": "institutional",
+      "access": "opened"
+    },
+    {
+      "claim": "1983; East Street, New York; Tonos10379; ISMN M-2015-4126-6; alto saxophone or clarinet and piano",
+      "url": "https://tonosmusic.com/files/Editionen/Katalog_02/Instrumental-Edition2.pdf",
+      "source_name": "Tonos Instrumental Works catalogue",
+      "kind": "primary",
+      "access": "opened"
+    }
+  ],
+  "metadata": {
+    "publisher": [
+      "Tonos International,10379; ISMN M-2015-4126-6"
+    ],
+    "composed": 1983,
+    "arranger-edition": [
+      "Tonos catalogue10379 lists alto saxophone or clarinet and piano; dissertation describes soprano edition. Clarify intended version."
+    ]
+  },
+  "gaps": [
+    "Recordings by Carlos Gontijo and Dilson Florêncio/Miguel Rosselini mentioned in thesis, but no exact direct stream verified.",
+    "Primary catalogue says alto or clarinet; dissertation says soprano. Review actual edition before changing instrumentation."
+  ],
+  "searches": [
+    "Almeida Prado East Street New York",
+    "\"Almeida Prado\" \"East Street\"",
+    "Almeida Prado 230 East 51st street New York saxophone Tonos",
+    "\"Almeida Prado\" \"East Street\" saxophone score recording"
+  ],
+  "proposed_corrections": [
+    {
+      "field": "instruments",
+      "suggestion": "Review alto versus soprano edition",
+      "reason": "Tonos primary catalogue says alto saxophone or clarinet; UMD dissertation describes soprano. Multiple versions or publisher catalogue error need edition review."
+    },
+    {
+      "field": "title",
+      "suggestion": "East Street, New York, with full manuscript title as variant",
+      "reason": "Sources distinguish the published title from 230 East 51st Street, New York."
+    }
+  ]
+}

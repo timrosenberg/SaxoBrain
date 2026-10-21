@@ -1,0 +1,84 @@
+{
+  "run_number": 75,
+  "filename": "Johan van der Linden - Five Short Pieces.md",
+  "path": "content/works/Johan van der Linden - Five Short Pieces.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": {
+    "title": "Five Short Pieces",
+    "composer": [
+      "[[Johan van der Linden]]"
+    ]
+  },
+  "findings": [
+    "Five Short Pieces for alto saxophone and piano, Molenaar06.0889.70, copyright2006. Publisher catalog gives five minutes; actual recorded duration is about7:40.",
+    "Movements verified by recording label: Introduction,Cristallica,Remain a Dreamer,Themism,Be a Realist.",
+    "Composer performs with pianist Henry Kelder on ZBOP!, recorded13–14July2018 in Amsterdam and released by MatchingArts. Label calls these first recordings."
+  ],
+  "evidence": [
+    {
+      "claim": "Instrumentation,plate,copyright2006,5min and score excerpts",
+      "url": "https://www.johanvanderlinden.com/molenaar-catalogus.pdf",
+      "source_name": "Johan van der Linden / Molenaar Edition",
+      "kind": "score",
+      "access": "score_inspected"
+    },
+    {
+      "claim": "Exact recording,performers,movements,recording dates",
+      "url": "https://editionmatchingarts.com/webshop/webshop-cds/product/166-zbop-download",
+      "source_name": "Edition MatchingArts",
+      "kind": "recording",
+      "access": "opened"
+    },
+    {
+      "claim": "Broadcast of Five Short Pieces,Duo Lind’n Kelder,7:37",
+      "url": "https://www.npoklassiek.nl/klassiek/vrije-geluiden/27101d9d-5e04-43f8-8418-889aefccdb88/vrije-geluiden-19-20-feb-22",
+      "source_name": "NPO Klassiek",
+      "kind": "broadcast",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {
+    "publisher": [
+      "Molenaar Edition"
+    ],
+    "instruments": [
+      "Alto Saxophone",
+      "Piano"
+    ],
+    "purchase": [
+      "https://www.sheetmusicplus.com/en/product/five-short-pieces-19292316.html"
+    ]
+  },
+  "score_observations": [
+    "Publisher catalog printed p28 shows first two alto movements and opening full score. Introduction is Moderato quarter74 with sustained trill, chromatic rising thirty-second-note flourish, large dynamic contrasts, and changing common/3/4/5/4 meters.",
+    "Cristallica begins Largo misterioso quarter52, long soft sustained notes and chromatic line; Allegro quarter120 develops accented sixteenth-note figures. Several high ledger-line notes and fingering annotations are visible; no legend available to interpret the annotations."
+  ],
+  "notation_inspected": true,
+  "score_links": [
+    {
+      "url": "https://www.johanvanderlinden.com/molenaar-catalogus.pdf",
+      "description": "Composer-hosted Molenaar catalog,p28 actual alto solo and piano score excerpts; local075-page27.png and075-solo-crop.png",
+      "inspected": true
+    }
+  ],
+  "listening": [
+    {
+      "url": "https://editionmatchingarts.com/webshop/webshop-cds/product/166-zbop-download",
+      "description": "Duo Lind’n Kelder,ZBOP!,five individual movements",
+      "verification": "Opened recording label page identifies exact work,movements and duo; no audio auditioned."
+    }
+  ],
+  "collection_flag": "Original concert/competition piece; composer recording and chromatic modern notation support college-relevant consideration.",
+  "gaps": [
+    "Composition date distinct from2006 copyright unknown.",
+    "Only first two movements previewed.",
+    "Publisher5min conflicts with recording7:37; retain both with source context."
+  ],
+  "searches": [
+    "Johan van der Linden Five Short Pieces",
+    "Five Short Pieces Linden Molenaar score",
+    "Five Short Pieces Linden Molenaar recording"
+  ],
+  "proposed_corrections": []
+}

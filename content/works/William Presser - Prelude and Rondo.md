@@ -17,6 +17,8 @@ research:
   - "Score and parts, 12 pages; alto saxophone (or viola) and piano; Tenuto Publications / Tritone Press, CF:494-00004 · https://www.performersmusicchicago.com/prelude-rondo-presser-cf-494-00004"
   - "Exact 494-00004, imprint, score and parts, accompanied solo. · https://www.presser.com/494-00004-prelude-26-rondo.html"
   - "Exact 494-00004, alto saxophone or viola with piano, score and parts, 12 pages. · https://www.performersmusicchicago.com/prelude-rondo-presser-cf-494-00004/"
+  - "Current publisher page reconfirms alto saxophone or viola and piano, score and parts 494-00004, Tritone Press & Tenuto. · https://www.presser.com/494-00004-prelude-26-rondo.html"
+  - "Search-index evidence only: Luxembourg curriculum lists Prelude and Rondo (E-flat), Tenuto, under division inférieure, première mention. That external category is not a college-year assignment. · https://portal.education.lu/Portals/82/Documents/prog-saxophone.pdf"
 aliases: []
 publisher:
   - "Tritone Press & Tenuto Publications"
@@ -46,3 +48,28 @@ Catalog: [[William Presser - Prelude and Rondo]]
 - Review focus: Inference: inspect the edition for continuity and contrast between prelude and rondo; title alone does not establish the musical details.
 - Gaps: No score or performance source verified.
 
+### Research checked October 16, 2026
+
+**Identity checked:** William Presser: Prelude and Rondo, alto saxophone or viola and piano
+
+**Findings**
+
+- Current publisher page reconfirms alto saxophone or viola and piano, score and parts 494-00004, Tritone Press & Tenuto.
+
+**Notation inspected:** No.
+
+**Collection fit:** Original multi-instrument recital edition with documented teaching use.
+
+**Still unknown**
+
+- No new notation, exact recording or verified composition date found.
+- Prior difficulty hold remains.
+
+**Sources and access**
+
+- [Theodore Presser](https://www.presser.com/494-00004-prelude-26-rondo.html): Current publisher page reconfirms alto saxophone or viola and piano, score and parts 494-00004, Tritone Press & Tenuto. Source opened.
+- [Luxembourg education curriculum](https://portal.education.lu/Portals/82/Documents/prog-saxophone.pdf): Luxembourg curriculum lists Prelude and Rondo (E-flat), Tenuto, under division inférieure, première mention. That external category is not a college-year assignment. Search-index evidence only; source page not retrieved.
+
+**Searches tried:** `William Presser Prelude and Rondo saxophone`; `Presser Prelude Rondo score 494-00004`; `Presser Prelude Rondo saxophone recording`.
+
+[[Remaining Repertoire Research - 2026-10-16|Full research overview]]

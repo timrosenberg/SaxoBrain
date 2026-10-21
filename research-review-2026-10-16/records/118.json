@@ -1,0 +1,65 @@
+{
+  "run_number": 118,
+  "filename": "Niccolò Paganini - Non Piu Mesta Accanto al Fuoco.md",
+  "path": "content/works/Niccolò Paganini - Non Piu Mesta Accanto al Fuoco.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": "Non Piu Mesta Accanto al Fuoco, Camwell B-flat saxophone and piano arrangement",
+  "findings": [
+    "Dorn catalog identifies DP1417 with Camwell credit under soprano/piano.",
+    "June Emerson explicitly lists soprano or tenor saxophone with piano.",
+    "Paganini's underlying work is Introduction/Theme and Variations, Op.12, based on Rossini's La Cenerentola aria. Schott's violin/piano Kreisler edition establishes this source-work identity, but its arrangement is a different edition."
+  ],
+  "evidence": [
+    {
+      "claim": "DP1417 Camwell soprano/piano edition",
+      "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+      "source_name": "Dorn Publications 2025 catalog",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Soprano or tenor and piano",
+      "url": "https://www.juneemersonwindmusic.com/Bb-Soprano-Sax-Pieces/?page=6&sort=composer",
+      "source_name": "June Emerson Wind Music",
+      "kind": "retailer",
+      "access": "opened"
+    },
+    {
+      "claim": "Original source work Op.12 and separate Kreisler edition",
+      "url": "https://www.schott-music.com/fr/non-piu-mesta-noc43463.html",
+      "source_name": "Schott Music",
+      "kind": "publisher",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {
+    "publisher": [
+      "Dorn Publications"
+    ],
+    "instruments": [
+      "Soprano Saxophone",
+      "Tenor Saxophone",
+      "Piano"
+    ],
+    "arranger-edition": [
+      "Dave Camwell; DP1417"
+    ]
+  },
+  "score_observations": [],
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [],
+  "collection_flag": "Variation transcription warrants score review before judging college relevance.",
+  "gaps": [
+    "Edition-specific movements, duration, composition/arrangement dates, score and recording unverified."
+  ],
+  "searches": [
+    "Niccolò Paganini Non Piu Mesta Accanto al Fuoco saxophone",
+    "Non piu mesta saxophone sheet",
+    "Non piu mesta soprano saxophone",
+    "Paganini Non Piu Mesta Camwell Groth",
+    "Groth retailer search Paganini Non Piu"
+  ],
+  "proposed_corrections": []
+}

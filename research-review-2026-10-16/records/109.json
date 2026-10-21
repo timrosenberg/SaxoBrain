@@ -1,0 +1,80 @@
+{
+  "run_number": 109,
+  "filename": "Masa Matsuura - Le Cinéma.md",
+  "path": "content/works/Masa Matsuura - Le Cinéma.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": "Le cinéma for alto saxophone, tenor saxophone and piano",
+  "findings": [
+    "Zen-On identifies a trio with two separate saxophonists and piano, duration about 9 minutes, edition SEO-036, ISBN 9784115600362.",
+    "Published 15 August 2026 with 24-page score and two four-page parts. Publisher credits supervision to Nobuya Sugawa.",
+    "Premiere 14 February 2026, Himawari-no-Sato Hall: Nobuya Sugawa, alto; Sumichika Arimura, tenor; Minako Koyanagi, piano.",
+    "Publisher characterizes an original dramatic work themed on love with an open narrative. Release year and premiere support 2026 activity but do not independently prove composition year."
+  ],
+  "evidence": [
+    {
+      "claim": "Exact instrumentation, duration, edition, release date and premiere",
+      "url": "https://shop.zen-on.co.jp/item/detail/560036/",
+      "source_name": "Zen-On Music",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Composer announces release in August 2026",
+      "url": "https://www.masamatsuura.com/",
+      "source_name": "Masa Matsuura official website",
+      "kind": "composer",
+      "access": "opened"
+    },
+    {
+      "claim": "Official performance video linked by publisher",
+      "url": "https://www.youtube.com/watch?v=9FJ_8mlSY-c",
+      "source_name": "Zen-On linked performance video",
+      "kind": "publisher/recording",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {
+    "publisher": [
+      "Zen-On"
+    ],
+    "instruments": [
+      "Alto Saxophone",
+      "Tenor Saxophone",
+      "Piano",
+      "Trio"
+    ],
+    "purchase": [
+      "https://shop.zen-on.co.jp/item/detail/560036/",
+      "https://shop.zen-on.co.jp/downloads/detail/56003600/"
+    ]
+  },
+  "score_observations": [],
+  "notation_inspected": false,
+  "score_links": [
+    {
+      "url": "https://www.zen-on.co.jp/trial/560036/?pNo=1&detailFlg=0",
+      "description": "Public publisher score viewer located; script-based viewer could not be visually inspected in this pass",
+      "inspected": false
+    }
+  ],
+  "listening": [
+    {
+      "url": "https://www.youtube.com/watch?v=9FJ_8mlSY-c",
+      "description": "Le cinéma for alto saxophone, tenor saxophone and piano",
+      "verification": "Exact-title video linked in publisher product page. Video page could not be fetched; performer identities for this video unverified."
+    }
+  ],
+  "collection_flag": null,
+  "gaps": [
+    "Existing composed:2026 preserved as catalog evidence but source explicitly states premiere/publication rather than date of composition.",
+    "Public viewer found but notation not inspected; technical demands and full score structure remain unknown."
+  ],
+  "searches": [
+    "Masa Matsuura Le Cinéma saxophone piano",
+    "Matsuura Cinéma",
+    "松浦真沙 シネマ",
+    "松浦真沙 ル・シネマ 2026 須川"
+  ],
+  "proposed_corrections": []
+}

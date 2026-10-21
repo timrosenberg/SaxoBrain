@@ -1,17 +1,17 @@
 ---
-title: "Concerto"
+title: Concerto
 slug: jindrich-feld-concerto
 composer:
   - "[[Jindřich Feld]]"
 instruments:
-  - "Alto Saxophone"
-  - "Piano"
-  - "Orchestra"
-composed: 
-year-of-study: "Advanced"
-streaming: 
+  - Alto Saxophone
+  - Piano
+  - Orchestra
+composed: 1984
+year-of-study: Advanced
+streaming: https://www.youtube.com/watch?v=zvpy-l5VGIM
 purchase:
-  - "https://www.sheetmusicplus.com/title/concerto-sheet-music/4027368?aff_id=426309&utm_medium=plg1"
+  - https://www.grothmusic.com/p-37717-concerto-saxophone-and-piano.aspx
 added: 2019-08-28
 aliases: []
 ---

@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-20",
+  "hugo_exit_code": 0,
+  "rendered_buttons_and_notes": [
+    {
+      "original_item": 9,
+      "file": "content/works/Frederik van Rossum - Pathetic Story.md",
+      "url": "https://www.elkinmusic.com/contact-us",
+      "button": "Score inquiries",
+      "public_note": "Contact Elkin Music for score inquiries about the alto saxophone and piano edition of Pathetic Story, Millstone MP0261."
+    },
+    {
+      "original_item": 12,
+      "file": "content/works/Jay Vosk - Concerto.md",
+      "url": "https://www.grothmusic.com/t-contact.aspx",
+      "button": "Score inquiries",
+      "public_note": "Contact Groth Music / Dorn Publications for score inquiries about the alto saxophone and piano version of Concerto, Dorn order 202."
+    },
+    {
+      "original_item": 14,
+      "file": "content/works/Marcel De Jonghe - Concerto.md",
+      "url": "https://matrix-new-music.be/nl/publicaties/componistenfiches/de-jonghe-marcel/",
+      "button": "Score inquiries",
+      "public_note": "Contact MATRIX for help locating the saxophone and piano score of Concerto, formerly listed by Lantro Music."
+    },
+    {
+      "original_item": 24,
+      "file": "content/works/Robert Sibbing - Sonata.md",
+      "url": "https://www.totheforepublishers.com/order.php",
+      "button": "Score inquiries",
+      "public_note": "Contact To the Fore Publishers for score inquiries about Sonata for soprano saxophone and piano."
+    }
+  ],
+  "private_research_not_rendered": true,
+  "only_four_work_files_changed": true,
+  "other_frontmatter_unchanged": true,
+  "targeted_git_diff_check_exit_code": 0,
+  "pending_followup_review_items": 0,
+  "address_check": {
+    "addresses": 2567,
+    "none_lost": true
+  },
+  "no_messages_sent": true
+}

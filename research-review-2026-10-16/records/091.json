@@ -1,0 +1,67 @@
+{
+  "run_number": 91,
+  "filename": "Lennie Niehaus - Waltz for Emily.md",
+  "path": "content/works/Lennie Niehaus - Waltz for Emily.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": "Lennie Niehaus: Waltz for Emily, Kendor 11495",
+  "findings": [
+    "Kendor 11495 is the alto saxophone and piano edition; publisher duration 2:10. The preview carries copyright 2011 Coljaco Music, used by Kendor.",
+    "Publisher description explicitly addresses young players and developing endurance, with plentiful rests. This is sourced pre-college pedagogical repertoire.",
+    "Clarinet edition 11182 is distinct. James Rae's Waltz for Emily in Blue Saxophone is also a different work and should not supply this record's examination or recording data."
+  ],
+  "evidence": [
+    {
+      "claim": "Edition 11495, composer, publisher, duration and intended young audience",
+      "url": "https://www.stantons.com/sheet-music/title/waltz-for-emily/11495/",
+      "source_name": "Stanton's Sheet Music",
+      "kind": "retailer with publisher description",
+      "access": "opened"
+    },
+    {
+      "claim": "Scoring, copyright and actual notation",
+      "url": "https://www.stantons.com/media/452897/kendor-11495.pdf",
+      "source_name": "Kendor public preview hosted by Stanton's",
+      "kind": "score",
+      "access": "score_inspected"
+    }
+  ],
+  "metadata": {
+    "publisher": [
+      "Kendor Music"
+    ],
+    "instruments": [
+      "Alto Saxophone",
+      "Piano"
+    ],
+    "purchase": [
+      "https://www.stantons.com/sheet-music/title/waltz-for-emily/11495/"
+    ]
+  },
+  "score_observations": [
+    "First score page:3/4, Giocoso quarter-note≈116, saxophone without key-signature accidentals at opening, piano three flats.",
+    "The alto begins after several bars of rest, using mostly sustained, tied and slurred notes with occasional dotted-eighth/sixteenth figures. Opening page includes written upperD/E and later some chromatic pitches.",
+    "The viewed passage is lyrical and conventionally notated, with mp/mf dynamics and breath separation. No extended-technique instruction appears in that passage."
+  ],
+  "notation_inspected": true,
+  "score_links": [
+    {
+      "url": "https://www.stantons.com/media/452897/kendor-11495.pdf",
+      "description": "Two-page full-score preview",
+      "inspected": true
+    }
+  ],
+  "listening": [],
+  "collection_flag": "Publisher explicitly writes for young players developing endurance. Flag pre-college repertoire; no SaxoBrain year level assigned.",
+  "gaps": [
+    "2011 is copyright, not a confirmed composition date.",
+    "No exact performance recording verified; do not use James Rae recordings."
+  ],
+  "searches": [
+    "Lennie Niehaus Waltz for Emily",
+    "Waltz for Emily Niehaus Kendor saxophone",
+    "Niehaus Waltz for Emily 11495",
+    "Waltz for Emily Kendor 11495 preview"
+  ],
+  "proposed_corrections": []
+}

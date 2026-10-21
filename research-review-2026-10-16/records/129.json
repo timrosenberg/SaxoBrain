@@ -1,0 +1,62 @@
+{
+  "run_number": 129,
+  "filename": "Pierre Liémans - A la bonne heure.md",
+  "path": "content/works/Pierre Liémans - A la bonne heure.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": "Pierre Liémans: À la bonne heure, Op. 26",
+  "findings": [
+    "Fantaisie burlesque for E-flat alto saxophone and piano, dated 2004 in the edition title.",
+    "Bayard-Nizet BN0402; score and separate part.",
+    "Included among piano-accompanied choices for the 2006 Adolphe Sax International Competition elimination round. This provides professional competition context."
+  ],
+  "evidence": [
+    {
+      "claim": "Exact title, Op. 26, 2004, alto saxophone and piano, score plus part",
+      "url": "https://www.noten-roehr.de/en/scores/0005/woodwind-instruments/0507/saxophone/0504/woodwind%2Bpiano-harpsichord/107419",
+      "source_name": "Noten Roehr",
+      "kind": "retailer",
+      "access": "opened"
+    },
+    {
+      "claim": "Bayard-Nizet BN0402",
+      "url": "https://www.all-sheetmusic.com/Artists/Pierre-Liemans/",
+      "source_name": "All Sheet Music",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "2006 Dinant competition repertoire",
+      "url": "https://dinant2006.adolphesax.com/html/obras.htm",
+      "source_name": "AdolpheSax.com archived competition rules",
+      "kind": "competition",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {
+    "instruments": [
+      "Alto Saxophone",
+      "Piano"
+    ],
+    "purchase": [
+      "https://www.noten-roehr.de/en/scores/0005/woodwind-instruments/0507/saxophone/0504/woodwind%2Bpiano-harpsichord/107419"
+    ]
+  },
+  "score_observations": [],
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [],
+  "collection_flag": null,
+  "gaps": [
+    "No authorized notation preview inspected.",
+    "No exact recording verified; duration and movement divisions unknown.",
+    "Publisher number and competition context found in search index; source pages blocked on direct retrieval."
+  ],
+  "searches": [
+    "Pierre Liémans A la bonne heure",
+    "Liémans bonne heure Bayard Nizet",
+    "Pierre Liemans A la bonne heure Bayard Nizet 0402",
+    "A la bonne heure Liemans saxophone"
+  ],
+  "proposed_corrections": []
+}

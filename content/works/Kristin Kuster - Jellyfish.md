@@ -9,7 +9,8 @@ instruments:
 composed: 
 year-of-study: "Advanced"
 streaming: "http://kristinkuster.com/portfolio/jellyfish/"
-purchase: []
+purchase:
+  - "https://justatheorypress.com/products/jellyfish"
 added: 2024-02-21
 aliases: []
 ---

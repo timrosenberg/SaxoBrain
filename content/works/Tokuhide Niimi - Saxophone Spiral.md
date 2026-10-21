@@ -25,6 +25,11 @@ research:
   - "Performer’s own video page embeds a performance specifically titled Saxophone Spiral by Tokuhide Niimi. · https://www.eugene-ryoo.com/listen"
 aliases: []
 ---
+
+## Listening links
+
+- [Nobuya Sugawa and Yasushi Arai (Zen-On, 2011)](https://www.youtube.com/watch?v=deT4DgkPOnY)
+
 ## Research notes (private)
 
 ### Chat Batch 16 Follow-Up, October 15, 2026

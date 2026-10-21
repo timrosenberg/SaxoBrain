@@ -1,0 +1,43 @@
+{
+  "run_number": 172,
+  "filename": "William Presser - Prelude and Rondo.md",
+  "path": "content/works/William Presser - Prelude and Rondo.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": "William Presser: Prelude and Rondo, alto saxophone or viola and piano",
+  "findings": [
+    "Current publisher page reconfirms alto saxophone or viola and piano, score and parts 494-00004, Tritone Press & Tenuto."
+  ],
+  "evidence": [
+    {
+      "claim": "Current publisher page reconfirms alto saxophone or viola and piano, score and parts 494-00004, Tritone Press & Tenuto.",
+      "url": "https://www.presser.com/494-00004-prelude-26-rondo.html",
+      "source_name": "Theodore Presser",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Luxembourg curriculum lists Prelude and Rondo (E-flat), Tenuto, under division inférieure, première mention. That external category is not a college-year assignment.",
+      "url": "https://portal.education.lu/Portals/82/Documents/prog-saxophone.pdf",
+      "source_name": "Luxembourg education curriculum",
+      "kind": "institution",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {},
+  "score_observations": "",
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [],
+  "collection_flag": "Original multi-instrument recital edition with documented teaching use.",
+  "gaps": [
+    "No new notation, exact recording or verified composition date found.",
+    "Prior difficulty hold remains."
+  ],
+  "searches": [
+    "William Presser Prelude and Rondo saxophone",
+    "Presser Prelude Rondo score 494-00004",
+    "Presser Prelude Rondo saxophone recording"
+  ],
+  "proposed_corrections": []
+}

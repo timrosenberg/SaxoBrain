@@ -8,7 +8,8 @@ instruments:
 composed: 2003
 year-of-study: Third Year
 streaming: https://redshiftmusicsociety.bandcamp.com/track/dorothy-chang-obsess-i-incantations
-purchase: []
+purchase:
+  - "Composer's website · https://www.dorothychang.com/"
 added: 2026-10-07
 aliases: []
 ---

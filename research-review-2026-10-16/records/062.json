@@ -1,0 +1,92 @@
+{
+  "run_number": 62,
+  "filename": "Henri Challan - Concerto.md",
+  "path": "content/works/Henri Challan - Concerto.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": {
+    "title": "Concerto pour saxophone alto et orchestre",
+    "composer": "René Challan",
+    "catalog_attribution": "Henri Challan",
+    "match": "Strong attribution correction: Leduc/Hal Leonard and BnF identify René."
+  },
+  "findings": [
+    "Leduc's current Hal Leonard listing identifies René Challan, not Henri, and alto saxophone/piano reduction AL20337, HL48181147. This explains the catalog's inherited Henri attribution despite some retailers repeating it.",
+    "BnF's authority record for René explicitly cites Concerto pour saxophone alto et orchestre, copyright 1946. This is publication evidence, distinct from secondary work lists dating composition 1944.",
+    "Towson University's classical saxophone curriculum includes Challan's Concerto in advanced undergraduate repertoire. No SaxoBrain pedagogical year is assigned."
+  ],
+  "evidence": [
+    {
+      "claim": "René Challan; Leduc AL20337; alto saxophone and piano",
+      "url": "https://www.halleonard.com/product/48181147/concertoconcerto",
+      "source_name": "Hal Leonard / Alphonse Leduc",
+      "kind": "publisher",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "René Challan authority cites exact saxophone concerto, copyright 1946",
+      "url": "https://catalogue.bnf.fr/ark%3A/12148/cb14815640d",
+      "source_name": "Bibliothèque nationale de France",
+      "kind": "national library",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Challan Concerto included in university saxophone curriculum",
+      "url": "https://www.towson.edu/cofac/departments/music/documents/pl-classicalsaxophone.pdf",
+      "source_name": "Towson University Department of Music",
+      "kind": "institution",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Exact edition ISMN 9790046203374",
+      "url": "https://www.demond.de/rene-challan-concerto-pour-saxophone-alto-et-orchestre-pour-saxophone-alto-et-piano-541696",
+      "source_name": "Musikforum Demond",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {
+    "publisher": [
+      "Alphonse Leduc, AL20337; HL48181147; ISMN 9790046203374"
+    ],
+    "instruments": [
+      "Alto Saxophone",
+      "Orchestra"
+    ],
+    "arranger-edition": [
+      "Alto saxophone/piano reduction; copyright 1946 cited by BnF"
+    ],
+    "purchase": [
+      "https://www.halleonard.com/product/48181147/concertoconcerto"
+    ]
+  },
+  "score_observations": [],
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [],
+  "collection_flag": {
+    "context": "Full concerto with university curriculum evidence."
+  },
+  "gaps": [
+    "Composition year 1944 remains a secondary-source lead, not entered as source-verified composed metadata.",
+    "Score, full movement structure, duration, orchestration details, and exact recording not verified."
+  ],
+  "searches": [
+    "Henri Challan Concerto saxophone",
+    "Challan Concerto saxophone 1944 Leduc",
+    "René Challan concerto saxophone recording",
+    "Challan Concerto saxophone Mule"
+  ],
+  "proposed_corrections": [
+    {
+      "field": "composer",
+      "existing": "Henri Challan",
+      "suggestion": "René Challan",
+      "reason": "Publisher attribution and BnF authority agree; do not automatically consolidate composers.",
+      "sources": [
+        "https://www.halleonard.com/product/48181147/concertoconcerto",
+        "https://catalogue.bnf.fr/ark%3A/12148/cb14815640d"
+      ]
+    }
+  ]
+}

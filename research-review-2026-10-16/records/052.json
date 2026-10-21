@@ -1,0 +1,85 @@
+{
+  "run_number": 52,
+  "filename": "Geoff Hannan - Bubblegum.md",
+  "path": "content/works/Geoff Hannan - Bubblegum.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": {
+    "title": "Bubblegum",
+    "composer": [
+      "[[Geoff Hannan]]"
+    ]
+  },
+  "findings": [
+    "The composer's current work list identifies Bubblegum (2001), 11 minutes, for alto saxophone, percussion, and piano.",
+    "University of Leeds program names Emily Harris, Marcia McCants, and Gabriel Jones for a 5 May 2023 performance. Its notes describe 17 musical objects, including whistles and balloons, distributed among the three performers, with frequent instrument and meter changes.",
+    "Donemus lists the exact work. The existing Alexander Street URL identifies a score entity despite being stored in library-recording; preserve it pending verification of access."
+  ],
+  "evidence": [
+    {
+      "claim": "2001, 11 minutes, alto saxophone/percussion/piano; Leeds performance embedded",
+      "url": "https://geoffhannan.com/concert",
+      "source_name": "Geoff Hannan, composer",
+      "kind": "composer",
+      "access": "opened"
+    },
+    {
+      "claim": "Leeds performers, date, 17 musical objects, whistles and balloons; changing meters and instruments",
+      "url": "https://concerts.leeds.ac.uk/wp-content/uploads/sites/101/2024/02/230505-LSTwo-programme.pdf",
+      "source_name": "University of Leeds International Concert Series",
+      "kind": "institution",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Publisher lists exact Bubblegum sax-a perc pf work",
+      "url": "https://webshop.donemus.com/action/front/search?name=%22Hannan%2C+Geoff%22&order=name",
+      "source_name": "Donemus",
+      "kind": "publisher",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {
+    "composed": 2001,
+    "publisher": [
+      "Donemus"
+    ],
+    "instruments": [
+      "Alto Saxophone",
+      "Percussion",
+      "Piano"
+    ],
+    "purchase": [
+      "https://webshop.donemus.com/action/front/search?name=%22Hannan%2C+Geoff%22&order=name"
+    ],
+    "streaming": "https://geoffhannan.com/concert"
+  },
+  "score_observations": [],
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [
+    {
+      "url": "https://geoffhannan.com/concert",
+      "description": "Composer-hosted Bubblegum performance, University of Leeds students, 5 May 2023",
+      "verification": "Exact work heading and instrumentation accompany embedded performance; no audition claimed."
+    }
+  ],
+  "collection_flag": {
+    "context": "Contemporary chamber work with university performance documentation."
+  },
+  "gaps": [
+    "Score not inspected; exact percussion/object inventory and notation demands require score.",
+    "Donemus individual item number not yet verified."
+  ],
+  "searches": [
+    "Geoff Hannan Bubblegum",
+    "Bubblegum Hannan saxophone",
+    "Geoff Hannan Bubblegum score"
+  ],
+  "proposed_corrections": [
+    {
+      "field": "library-recording",
+      "suggestion": "Review for library-score",
+      "reason": "Existing URL contains bibliographic_entity|score|5213190; do not move automatically without access verification."
+    }
+  ]
+}

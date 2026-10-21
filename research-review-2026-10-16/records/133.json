@@ -1,0 +1,66 @@
+{
+  "run_number": 133,
+  "filename": "Randall Snyder - Retrospective Sonata.md",
+  "path": "content/works/Randall Snyder - Retrospective Sonata.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": "Randall Snyder: Retrospective Sonata (2009)",
+  "findings": [
+    "Composed in 2009 for Paul Haar, for B-flat tenor saxophone and piano; publisher duration 22 minutes.",
+    "Four movements form a retrospective counterpart to Snyder's first saxophone sonata. The publisher describes nostalgic outer movements surrounding a perpetual-motion movement and a chaconne.",
+    "Universal Edition score UES104471-000 and separate tenor part UES104471-263 are available in print/download editions."
+  ],
+  "evidence": [
+    {
+      "claim": "Date, dedicatee, scoring, duration, structure and edition numbers",
+      "url": "https://www.universaledition.com/en/Works/Retrospective-Sonata-for-tenor-saxophone-and-piano/P0206714",
+      "source_name": "Universal Edition",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Actual score sample inspected",
+      "url": "https://www.universaledition.com/media/c1/5b/9e/1701383166/ea542356ab14bff96aa4683afedb003e.pdf",
+      "source_name": "Universal Edition public preview",
+      "kind": "score",
+      "access": "score_inspected"
+    }
+  ],
+  "metadata": {
+    "composed": "2009",
+    "publisher": [
+      "Universal Edition"
+    ],
+    "instruments": [
+      "Tenor Saxophone",
+      "Piano"
+    ],
+    "purchase": [
+      "https://www.universaledition.com/en/Works/Retrospective-Sonata-for-tenor-saxophone-and-piano/P0206714"
+    ]
+  },
+  "score_observations": [
+    "Printed page 67, measures 472–479: tenor melody has chromatic inflections, sustained and tied notes across changing 6/8,12/8 and 9/8 meters.",
+    "The excerpt requires quiet sustained control at pp, shaped swells and coordination with active, chromatic piano textures. This sample does not establish the total range or the demands of earlier movements."
+  ],
+  "notation_inspected": true,
+  "score_links": [
+    {
+      "url": "https://www.universaledition.com/media/c1/5b/9e/1701383166/ea542356ab14bff96aa4683afedb003e.pdf",
+      "description": "Public four-page excerpt, printed pages 65–68 from late in the sonata",
+      "inspected": true
+    }
+  ],
+  "listening": [],
+  "collection_flag": null,
+  "gaps": [
+    "No exact recording verified.",
+    "Only four late score pages inspected; full score technical scope and named movement headings remain unverified."
+  ],
+  "searches": [
+    "Randall Snyder Retrospective Sonata",
+    "Randall Snyder Retrospective Sonata tenor saxophone",
+    "Retrospective Sonata Snyder recording"
+  ],
+  "proposed_corrections": []
+}

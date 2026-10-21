@@ -9,7 +9,8 @@ instruments:
 composed: 
 year-of-study: "Advanced"
 streaming: 
-purchase: []
+purchase:
+  - "https://resolute-music.com/products/merengue-etude-33"
 added: 2024-02-23
 aliases: []
 ---

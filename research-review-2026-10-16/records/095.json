@@ -1,0 +1,73 @@
+{
+  "run_number": 95,
+  "filename": "Leonard Mark Lewis - Elegy.md",
+  "path": "content/works/Leonard Mark Lewis - Elegy.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": "Leonard Mark Lewis: Elegy, commissioned Colton Nelson",
+  "findings": [
+    "Composer's public score identifies alto saxophone and piano and commission by Colton Nelson.",
+    "Direct purchase page and one-page score preview are available from the composer.",
+    "The composer's 2019 Elegy: In Memoriam of the Emanuel Nine appears in a separate commission list. No source established that it is this Colton Nelson saxophone work, so neither its date nor subtitle is transferred."
+  ],
+  "evidence": [
+    {
+      "claim": "Direct edition and exact preview",
+      "url": "https://www.leonardmarklewis.com/elegy",
+      "source_name": "Composer official store",
+      "kind": "composer/publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Alto/piano, commission and actual opening notation",
+      "url": "https://www.leonardmarklewis.com/_files/ugd/e74338_441b694bd80a4af5b79c0f98b2431c5a.pdf",
+      "source_name": "Composer public score preview",
+      "kind": "score",
+      "access": "score_inspected"
+    },
+    {
+      "claim": "Potentially different 2019 Elegy title excluded",
+      "url": "https://www.scmta.org/composer-commissioning",
+      "source_name": "South Carolina Music Teachers Association",
+      "kind": "commission list",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {
+    "publisher": [
+      "Leonard Mark Lewis, direct edition"
+    ],
+    "instruments": [
+      "Alto Saxophone",
+      "Piano"
+    ],
+    "purchase": [
+      "https://www.leonardmarklewis.com/elegy"
+    ]
+  },
+  "score_observations": [
+    "Opening 6/8 quarter=52, alto one-flat signature and piano four flats. Saxophone enters ppp on tied long notes after a piano introduction.",
+    "Long slurs develop into eighth-note lines and later sixteenths with upper-register notes. Quiet sustained entry, legato control and phrase pacing are concrete concerns in the viewed page.",
+    "No extended-technique signs appear on this page; full-work demands and range remain unknown."
+  ],
+  "notation_inspected": true,
+  "score_links": [
+    {
+      "url": "https://www.leonardmarklewis.com/_files/ugd/e74338_441b694bd80a4af5b79c0f98b2431c5a.pdf",
+      "description": "One-page opening score preview",
+      "inspected": true
+    }
+  ],
+  "listening": [],
+  "collection_flag": null,
+  "gaps": [
+    "Composition date, duration, movements, edition number and exact recording not verified.",
+    "Do not conflate with Emanuel Nine Elegy without a source connecting them."
+  ],
+  "searches": [
+    "Leonard Mark Lewis Elegy",
+    "Leonard Mark Lewis Elegy Colton Nelson",
+    "Elegy Colton Nelson Lewis saxophone"
+  ],
+  "proposed_corrections": []
+}

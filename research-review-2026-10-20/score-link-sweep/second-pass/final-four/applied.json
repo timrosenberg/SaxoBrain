@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-20",
+  "source": "Direct user instruction to link publisher or contact pages and add brief score-inquiry notes",
+  "changes": [
+    {
+      "original_item": 9,
+      "file": "content/works/Frederik van Rossum - Pathetic Story.md",
+      "action": "contact-inquiry-link",
+      "label": "Score inquiries",
+      "url": "https://www.elkinmusic.com/contact-us",
+      "public_note": "Contact [Elkin Music](https://www.elkinmusic.com/contact-us) for score inquiries about the alto saxophone and piano edition of *Pathetic Story*, Millstone **MP0261**.",
+      "availability_claim": false
+    },
+    {
+      "original_item": 12,
+      "file": "content/works/Jay Vosk - Concerto.md",
+      "action": "contact-inquiry-link",
+      "label": "Score inquiries",
+      "url": "https://www.grothmusic.com/t-contact.aspx",
+      "public_note": "Contact [Groth Music / Dorn Publications](https://www.grothmusic.com/t-contact.aspx) for score inquiries about the alto saxophone and piano version of *Concerto*, Dorn order **202**.",
+      "availability_claim": false
+    },
+    {
+      "original_item": 14,
+      "file": "content/works/Marcel De Jonghe - Concerto.md",
+      "action": "contact-inquiry-link",
+      "label": "Score inquiries",
+      "url": "https://matrix-new-music.be/nl/publicaties/componistenfiches/de-jonghe-marcel/",
+      "public_note": "Contact [MATRIX](https://matrix-new-music.be/nl/publicaties/componistenfiches/de-jonghe-marcel/) for help locating the saxophone and piano score of *Concerto*, formerly listed by Lantro Music.",
+      "availability_claim": false
+    },
+    {
+      "original_item": 24,
+      "file": "content/works/Robert Sibbing - Sonata.md",
+      "action": "contact-inquiry-link",
+      "label": "Score inquiries",
+      "url": "https://www.totheforepublishers.com/order.php",
+      "public_note": "Contact [To the Fore Publishers](https://www.totheforepublishers.com/order.php) for score inquiries about *Sonata* for soprano saxophone and piano.",
+      "availability_claim": false
+    }
+  ]
+}

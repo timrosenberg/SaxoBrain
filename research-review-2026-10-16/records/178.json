@@ -1,0 +1,36 @@
+{
+  "run_number": 178,
+  "filename": "Wolfgang Amadeus Mozart - Adagio from Clarinet Concerto K.622.md",
+  "path": "content/works/Wolfgang Amadeus Mozart - Adagio from Clarinet Concerto K.622.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": "Wolfgang Amadeus Mozart: Adagio from Clarinet Concerto K.622, Ronald Caravan arrangement",
+  "findings": [
+    "Elkin distributor catalog lists Adagio from Clarinet Concerto K.622 arranged Ronald L. Caravan for saxophone or E-flat clarinet and piano, item EP041079."
+  ],
+  "evidence": [
+    {
+      "claim": "Elkin distributor catalog lists Adagio from Clarinet Concerto K.622 arranged Ronald L. Caravan for saxophone or E-flat clarinet and piano, item EP041079.",
+      "url": "https://www.elkinmusic.com/public/catalog.pdf",
+      "source_name": "Elkin Music publisher/distributor catalog",
+      "kind": "publisher",
+      "access": "opened"
+    }
+  ],
+  "metadata": {},
+  "score_observations": "",
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [],
+  "collection_flag": "Single slow movement transcribed from the clarinet concerto. Intended saxophone teaching level unverified; do not exclude solely because it is a transcription.",
+  "gaps": [
+    "EP is a catalog identifier here; do not assume Edition Peters from those letters.",
+    "Exact current seller, notation, original composition-year source and recording of this arrangement not verified."
+  ],
+  "searches": [
+    "Mozart Adagio Caravan saxophone",
+    "Mozart Adagio Clarinet Concerto Caravan Peters",
+    "Mozart EP41079"
+  ],
+  "proposed_corrections": []
+}

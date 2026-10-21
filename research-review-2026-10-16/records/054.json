@@ -1,0 +1,85 @@
+{
+  "run_number": 54,
+  "filename": "George Frideric Handel - Cantilena.md",
+  "path": "content/works/George Frideric Handel - Cantilena.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": {
+    "title": "Cantilena",
+    "composer": [
+      "[[George Frideric Handel]]"
+    ]
+  },
+  "findings": [
+    "Identified as Handel/Buchtel, Cantilena, Neil A. Kjos S449 for E-flat alto saxophone and piano; five-page edition. WorldCat dates the edition copyright 1960.",
+    "Kjos's 2025 instrumental catalog places S449 among E-flat alto saxophone solos with piano and gives publisher grade 2. This is clear school-oriented edition evidence.",
+    "Avoid Warren Benson's unrelated Cantilena, which dominates some searches."
+  ],
+  "evidence": [
+    {
+      "claim": "Kjos S449, Handel arranged and edited by Forrest L. Buchtel, alto saxophone and piano, five pages, grade 2",
+      "url": "https://www.sheetmusicplus.com/en/product/cantilena-296783.html",
+      "source_name": "Sheet Music Plus",
+      "kind": "retailer",
+      "access": "opened"
+    },
+    {
+      "claim": "S449 Handel/Buchtel publisher grade 2, alto saxophone and piano",
+      "url": "https://media.kjos.com/kjos/global.mt.lldns.net/kjos/pdf/Catalog/2025_Instrumental_Catalog.pdf",
+      "source_name": "Neil A. Kjos Music Company 2025 catalog",
+      "kind": "publisher",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Edition copyright 1960",
+      "url": "https://search.worldcat.org/title/Cantilena-%3A-E-alto-saxophone-solo-with-piano-accompaniment/oclc/869634384",
+      "source_name": "WorldCat",
+      "kind": "library",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {
+    "publisher": [
+      "Neil A. Kjos Music Company, S449"
+    ],
+    "instruments": [
+      "Alto Saxophone",
+      "Piano"
+    ],
+    "arranger-edition": [
+      "Forrest L. Buchtel; copyright 1960 edition"
+    ],
+    "purchase": [
+      "https://www.sheetmusicplus.com/en/product/cantilena-296783.html"
+    ],
+    "library-score": [
+      "https://search.worldcat.org/title/Cantilena-%3A-E-alto-saxophone-solo-with-piano-accompaniment/oclc/869634384"
+    ]
+  },
+  "score_observations": [],
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [
+    {
+      "url": "https://www.youtube.com/watch?v=WcExjROGrGs",
+      "description": "Sabrina Lewis, Cantilena Handel Alto Saxophone, posted 5 May 2017",
+      "verification": "Exact title/composer/instrument in uploader title; no edition or pianist identified, so candidate only."
+    }
+  ],
+  "collection_flag": {
+    "flag": "pre-college audience evidence",
+    "reason": "Publisher grade 2 and retailer school/community usage indicate a student transcription edition; no college-performance evidence found."
+  },
+  "gaps": [
+    "Source Handel work/HWV number, duration, and original composition date unresolved.",
+    "Actual notation preview not inspected; recording edition uncertain."
+  ],
+  "searches": [
+    "Handel Cantilena saxophone",
+    "Handel Cantilena alto saxophone piano score publisher",
+    "Handel Cantilena Buchtel Kjos S449 score",
+    "Handel Cantilena site:kjos.com",
+    "Cantilena site:grothmusic.com Handel"
+  ],
+  "proposed_corrections": []
+}

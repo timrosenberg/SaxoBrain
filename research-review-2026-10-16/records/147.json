@@ -1,0 +1,64 @@
+{
+  "run_number": 147,
+  "filename": "Sarah Neutkens - People And Things.md",
+  "path": "content/works/Sarah Neutkens - People And Things.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": "People and Things is an original 2021 duo for violin and soprano saxophone, approximately 7:30, Donemus 20245.",
+  "findings": [
+    "Composition 2021, violin and soprano saxophone, two players, 7:30, eight-page score; commissioned by Femke IJlstra and Merel Vercammen for The Parliament of Things.",
+    "Composer lists the work’s premiere at Gaudeamus, Utrecht, September 11, 2021, with Merel Vercammen and Femke IJlstra; later performances include November Music and Dag in de Branding.",
+    "Composer work list independently confirms 2021, violin/soprano and approximately 7:30."
+  ],
+  "evidence": [
+    {
+      "claim": "Composition 2021, violin and soprano saxophone, two players, 7:30, eight-page score; commissioned by Femke IJlstra and Merel Vercammen for The Parliament of Things.",
+      "url": "https://webshop.donemus.com/action/front/sheetmusic/20245/People%2Band%2BThings",
+      "source_name": "Donemus publisher catalog",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Composer lists the work’s premiere at Gaudeamus, Utrecht, September 11, 2021, with Merel Vercammen and Femke IJlstra; later performances include November Music and Dag in de Branding.",
+      "url": "https://www.sarahneutkens.com/performances",
+      "source_name": "Sarah Neutkens, performance chronology",
+      "kind": "composer",
+      "access": "opened"
+    },
+    {
+      "claim": "Composer work list independently confirms 2021, violin/soprano and approximately 7:30.",
+      "url": "https://www.sarahneutkens.com/list-of-works",
+      "source_name": "Sarah Neutkens, work list",
+      "kind": "composer",
+      "access": "opened"
+    }
+  ],
+  "metadata": {
+    "composed": 2021,
+    "publisher": [
+      "Donemus"
+    ],
+    "purchase": [
+      "https://webshop.donemus.com/action/front/sheetmusic/20245/People%2Band%2BThings"
+    ]
+  },
+  "score_observations": "",
+  "notation_inspected": false,
+  "score_links": [
+    {
+      "url": "https://webshop.donemus.com/action/front/sheetmusic/20245/People%2Band%2BThings",
+      "description": "Donemus 20245, eight-page score available for purchase",
+      "inspected": false
+    }
+  ],
+  "listening": [],
+  "collection_flag": "Original professionally commissioned contemporary chamber duo. No beginner or simplified-transcription designation found.",
+  "gaps": [
+    "Publisher lists purchasable score but no public perusal found. Exact complete recording, range and technical demands unverified."
+  ],
+  "searches": [
+    "Sarah Neutkens People and Things saxophone",
+    "\"People and Things\" Neutkens recording"
+  ],
+  "proposed_corrections": []
+}

@@ -1,0 +1,44 @@
+{
+  "run_number": 168,
+  "filename": "Warren Gooch - Soliloquy.md",
+  "path": "content/works/Warren Gooch - Soliloquy.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": "Warren Gooch: Soliloquy for soprano saxophone and piano",
+  "findings": [
+    "Dorn 2025 catalog lists Warren Gooch Soliloquy, order 1274, under Soprano Saxophone and Piano."
+  ],
+  "evidence": [
+    {
+      "claim": "Dorn 2025 catalog lists Warren Gooch Soliloquy, order 1274, under Soprano Saxophone and Piano.",
+      "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+      "source_name": "Dorn Publications catalog",
+      "kind": "publisher",
+      "access": "opened"
+    }
+  ],
+  "metadata": {
+    "publisher": [
+      "Dorn Publications"
+    ],
+    "instruments": [
+      "Piano"
+    ]
+  },
+  "score_observations": "",
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [],
+  "collection_flag": "Published soprano concert repertoire. Educational level not established.",
+  "gaps": [
+    "Exact score notation, duration, composition date and recording not located."
+  ],
+  "searches": [
+    "Warren Gooch Soliloquy saxophone",
+    "Gooch Soliloquy Dorn DP1274",
+    "Warren Gooch Soliloquy soprano recording"
+  ],
+  "proposed_corrections": [
+    "Current instrumentation omits piano."
+  ]
+}

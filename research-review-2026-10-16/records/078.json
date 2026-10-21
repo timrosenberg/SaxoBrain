@@ -1,0 +1,99 @@
+{
+  "run_number": 78,
+  "filename": "Jun Nagao - Motus Animi.md",
+  "path": "content/works/Jun Nagao - Motus Animi.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": {
+    "title": "Motus Animi",
+    "composer": [
+      "[[Jun Nagao]]"
+    ]
+  },
+  "findings": [
+    "Motus Animi2023,for two saxophonists,17min,Zen-On commission; premiere21December2023 Tokyo Bunka Kaikan Small Hall,Shinichiro Hikosaka and Yuta Hikosaka.",
+    "Three movements portray joy,anger and sorrow. Composer explicitly frames work as a bridge toward contemporary music for performers unfamiliar with it,emphasizing gesture and movement. This does not establish beginner difficulty.",
+    "Actual score opening specifies1st Alto Saxophone and2nd Alto Saxophone,corroborating Schott instrumentation; Any Saxophone should be reviewed. Preface allows either player to play either part in each movement.",
+    "Zen-On509551,ISMN9790223332880,ISBN9784115095519; digital score41pages."
+  ],
+  "evidence": [
+    {
+      "claim": "2023,17min,commission,premiere and composer purpose",
+      "url": "https://www.zen-on.co.jp/en/publishing/cr/composers/works/detail/1222/",
+      "source_name": "Zen-On",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Opening printedpp5–6:two alto saxophones,notation and copyright2023",
+      "url": "https://www.zen-on.co.jp/trial/509551/?pNo=1&detailFlg=0",
+      "source_name": "Zen-On",
+      "kind": "score",
+      "access": "score_inspected"
+    },
+    {
+      "claim": "Print edition509551,ISMN,ISBN,two altos",
+      "url": "https://www.schott-music.com/en/motus-animi-no778671.html",
+      "source_name": "Schott Music",
+      "kind": "publisher",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Exact performance linked under2023 concert and named performers",
+      "url": "https://www.zen-on.co.jp/cr/en_4ningumi_archive/",
+      "source_name": "Zen-On",
+      "kind": "publisher",
+      "access": "opened"
+    }
+  ],
+  "metadata": {
+    "composed": "2023",
+    "publisher": [
+      "Zen-On"
+    ],
+    "instruments": [
+      "Alto Saxophone",
+      "Duo"
+    ],
+    "purchase": [
+      "https://shop.zen-on.co.jp/downloads/detail/50955100/"
+    ],
+    "streaming": "https://www.youtube.com/embed/1GDuQJtFZlQ?autoplay=1&rel=0&start=000",
+    "multi-instruments": false
+  },
+  "score_observations": [
+    "Inspected openingpp5–6:3/8,dotted-quarter60,moving to4/4 quarter88 atbar26. Frequent accidentals,triplet subdivisions,thirty-second-note figures,and large register changes appear in both parts.",
+    "Slurred gestures alternate with accented/staccato figures,held notes and rests; dynamics range at least pp to ff with frequent hairpins. These observations cover movementI opening only."
+  ],
+  "notation_inspected": true,
+  "score_links": [
+    {
+      "url": "https://www.zen-on.co.jp/trial/509551/?pNo=1&detailFlg=0",
+      "description": "Public publisher preview; local078-6.jpg and078-7.jpg actual printedpp5–6",
+      "inspected": true
+    }
+  ],
+  "listening": [
+    {
+      "url": "https://www.youtube.com/embed/1GDuQJtFZlQ?autoplay=1&rel=0&start=000",
+      "description": "2023 Hikosaka duo premiere,linked by publisher concert archive",
+      "verification": "Publisher exact work row names both performers and embeds this video. No audio auditioned."
+    }
+  ],
+  "collection_flag": "Professional premiere; explicitly intended as contemporary-music bridge for performers. No SaxoBrain level inferred.",
+  "gaps": [
+    "Remaining two movements not inspected.",
+    "No doubling established beyond two alto parts in actual preview."
+  ],
+  "searches": [
+    "Jun Nagao Motus Animi",
+    "Nagao Motus Animi score saxophones",
+    "Nagao Motus Animi recording"
+  ],
+  "proposed_corrections": [
+    {
+      "proposal": "Specify two alto saxophones rather than Any Saxophone,subject to full-score check of later movements.",
+      "url": "https://www.zen-on.co.jp/trial/509551/?pNo=1&detailFlg=0"
+    }
+  ]
+}

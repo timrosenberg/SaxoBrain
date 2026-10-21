@@ -1,0 +1,1394 @@
+{
+  "date": "2026-10-20",
+  "packet": "Remaining Scores 05",
+  "batch_file": "content/research-review/Remaining Repertoire - Score Batch 05.md",
+  "scores": [
+    {
+      "batch_number": 1,
+      "run_number": 11,
+      "path": "content/works/Benedetto Marcello - Sonate.md",
+      "title": "Sonate",
+      "instrumentation": "Catalog specifies soprano saxophone. Accompaniment and exact arrangement remain unidentified.",
+      "duration": "Unknown for the catalog work.",
+      "demands": [
+        "No exact notation was located. Range, ornaments, articulation, movement structure and accompaniment demands remain unverified.",
+        "Other Marcello sonata editions cannot establish the demands of this unidentified catalog record."
+      ],
+      "scope": "Identity unresolved. A title and instrument alone do not distinguish Marcello sonatas or their transcriptions.",
+      "score_url": null,
+      "source_label": "Catalog identity plus separately labeled retailer leads.",
+      "recording_url": null,
+      "recording_description": "No exact playable recording verified. No audio audition completed.",
+      "recording_links": [],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "The current record contains no key, opus, sonata number, arranger or publisher. The F-major tenor edition is a different instrument edition and is not assumed to match. The October 16 soprano/Michel lead remains unconfirmed.",
+      "evidence": [
+        {
+          "url": "https://www.stretta-music.be/marcello-sonata-no-1-nr-1220471.html",
+          "label": "Stretta, Marcello Sonata No. 1",
+          "claim": "Lists an F-major tenor saxophone and piano or organ arrangement by John Glenesk Mortimer, Editions Marc Reift EMR 57003, duration 8:06. This is contextual edition evidence only.",
+          "access": "Live search index; alternate instrument edition"
+        },
+        {
+          "url": "https://www.stretta-music.de/marcello-12-sonaten-fuer-altsaxophon-und-klavier-op-21-nr-693835.html",
+          "label": "Stretta, Marcello Op. 2 arrangements",
+          "claim": "Lists separate alto saxophone arrangements of Op. 2 sonatas 1 to 3 with distinct keys and durations. None establishes this soprano record.",
+          "access": "Live search index; other arrangements"
+        }
+      ],
+      "decision_focus": "Identify Tim’s edition before evaluating its notation.",
+      "edition_match": "unresolved",
+      "review_id": 519,
+      "review_file": "content/research-review/Review 0519 - Benedetto Marcello - Sonate.md",
+      "evidence_type": "Source description / gaps"
+    },
+    {
+      "batch_number": 2,
+      "run_number": 12,
+      "path": "content/works/Blagoje Petric - Prelidij za Burlesko.md",
+      "title": "Prelidij za Burlesko",
+      "instrumentation": "Slovenian Composers Society catalog: soprano saxophone and piano, PVH 289.",
+      "duration": "Unknown.",
+      "demands": [
+        "No authorized notation preview or exact recording was found in focused title and composer searches.",
+        "Range, rhythmic language, register, extended techniques and length remain unverified.",
+        "The composer profile lists four preludes for Burlesko. The catalog lists a singular soprano prelude. Their exact relationship needs the edition."
+      ],
+      "scope": "Publisher identity evidence only. No musical-demand observations are inferred from the title.",
+      "score_url": null,
+      "source_label": "Slovenian Composers Society, 2012 music catalog and Ivo Petrić profile.",
+      "recording_url": null,
+      "recording_description": "No exact playable recording verified. No audio audition completed.",
+      "recording_links": [],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Catalog attribution is Blagoje Petric. The publisher catalog credits Petrić, I., and the Ivo Petrić profile lists Štirje preludiji za Burlesko. The existing attribution is unresolved and has not been edited.",
+      "evidence": [
+        {
+          "url": "https://www.dss.si/media/uploads/files/DSS%20-%20Katalog%20edicij%202012.pdf",
+          "label": "Slovenian Composers Society, Music Catalogue 2012",
+          "claim": "The edition index lists Petrić, I., Preludij za burlesko for soprano saxophone and piano, PVH 289. Downloaded PDF text checked.",
+          "access": "Opened source on October 20, 2026"
+        },
+        {
+          "url": "https://www.dss.si/petri-en",
+          "label": "Slovenian Composers Society, Ivo Petrić",
+          "claim": "The saxophone work list includes Štirje preludiji za Burlesko for saxophone and piano, dated 1996. The page does not establish which of the four corresponds to PVH 289.",
+          "access": "Opened source on October 20, 2026"
+        }
+      ],
+      "decision_focus": "Resolve the composer and individual prelude before assessing demands.",
+      "display_title": "Blagoje Petric - Prelidij za Burlesko (source: Ivo Petrić)",
+      "review_id": 520,
+      "review_file": "content/research-review/Review 0520 - Blagoje Petric - Prelidij za Burlesko.md",
+      "evidence_type": "Source description / gaps"
+    },
+    {
+      "batch_number": 3,
+      "run_number": 17,
+      "path": "content/works/Carl Anton Wirth - Three Indonesian Landscapes.md",
+      "title": "Three Indonesian Landscapes",
+      "instrumentation": "Alto saxophone and piano in Dale Wolford’s repertoire bibliography.",
+      "duration": "Unknown.",
+      "demands": [
+        "No exact score, authorized sample, movement titles or playable recording was verified.",
+        "Range, rhythmic demands, articulation and ensemble coordination remain unknown.",
+        "San José State University mentions Indonesian Landscapes in its woodwind course description. That shorter title cannot yet be matched to Three Indonesian Landscapes."
+      ],
+      "scope": "Bibliographic evidence with a university-context lead. The university listing does not establish the exact three-piece collection.",
+      "score_url": null,
+      "source_label": "Dale Wolford repertoire bibliography, with a separate San José State University catalog lead.",
+      "recording_url": null,
+      "recording_description": "No exact playable recording verified. No audio audition completed.",
+      "recording_links": [],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Wolford lists Three Indonesian Landscapes and Indonesian Landscapes separately. Their relationship remains unresolved. The original Wolford PDF returned 404 on October 20, so its surviving search index is the available evidence.",
+      "evidence": [
+        {
+          "url": "https://dalewolford.com/page1/page6/styled-4/files/wolford_repertoire_list.pdf",
+          "label": "Dale Wolford, Music for the Saxophone",
+          "claim": "Lists Three Indonesian Landscapes by Carl Anton Wirth under alto saxophone and piano, publisher CAW Pub. A separate Indonesian Landscapes entry also appears.",
+          "access": "Live search index; direct PDF returned 404"
+        },
+        {
+          "url": "https://info.sjsu.edu/cgi-bin/pdfserv?atok=catalog-2010-2012.pdf",
+          "label": "San José State University, 2010–2012 music catalog",
+          "claim": "MUSC 135 Woodwinds cites Wirth Indonesian Landscapes as a repertoire example. Exact identity with Three Indonesian Landscapes is unverified.",
+          "access": "Live search index; current retrieval returned a site page rather than the catalog PDF"
+        }
+      ],
+      "decision_focus": "Obtain the exact CAW score and distinguish the two bibliography entries.",
+      "review_id": 521,
+      "review_file": "content/research-review/Review 0521 - Carl Anton Wirth - Three Indonesian Landscapes.md",
+      "evidence_type": "Source description / gaps"
+    },
+    {
+      "batch_number": 4,
+      "run_number": 21,
+      "path": "content/works/Cecilia Sung - Sur La Memoire.md",
+      "title": "Sur La Memoire",
+      "instrumentation": "Publisher: saxophone or clarinet and piano. Library and festival program specify soprano saxophone.",
+      "duration": "Unresolved. Retailer lists 4 minutes; Corelia lists 8 minutes. No exact recording timed.",
+      "demands": [
+        "The 1997 University of Alberta program describes temple bells, a crowd’s hum and ritual chants as the work’s musical inspiration. It supplies no saxophone range or concrete execution requirements for this piece.",
+        "The same program’s quarter-tone, glissando, flutter-tongue and pointillism descriptions belong to Denisov’s Deux Pieces. They are excluded from the Sung evidence.",
+        "No notation was inspected. Exact range, special techniques and rhythmic coordination remain unknown."
+      ],
+      "scope": "Publisher identity, professional university recital context and carefully bounded program note. No notation-based technical findings.",
+      "score_url": null,
+      "source_label": "Henry Lemoine edition 26652, University of Alberta recital program and Mississippi University for Women festival program.",
+      "recording_url": null,
+      "recording_description": "No exact playable recording verified. No audio audition completed.",
+      "recording_links": [],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Current record credits Cecilia Sung. Henry Lemoine and both university programs credit Stella Sung. The 1997 program’s commission date of 1995 conflicts with Claude Delangle’s own repertoire page dated 1994. Dates remain unresolved. No attribution or catalog text was changed.",
+      "evidence": [
+        {
+          "url": "https://www.henry-lemoine.com/en/partitions-par-instrument/2969-sur-la-memoire.html",
+          "label": "Henry Lemoine, Sur la mémoire",
+          "claim": "Browser-opened publisher page credits Stella Sung, edition 26652, ISMN 9790230966528, saxophone or clarinet and piano, Collection Claude Delangle. No notation sample appeared.",
+          "access": "Opened in browser on October 20,2026"
+        },
+        {
+          "url": "https://ualberta.scholaris.ca/bitstreams/c81e2d2a-4cc0-4a66-bd71-748f6a3ee5b6/download",
+          "label": "University of Alberta, Susan Cook and John Elmquist recital, October 9, 1997",
+          "claim": "Program lists Sung’s Sur la Memoire and describes temple bells, crowd hum and ritual chants as its inspiration. The adjacent technical discussion is about Denisov, not Sung. Migrated public PDF downloaded and text inspected.",
+          "access": "Opened source on October 20, 2026"
+        },
+        {
+          "url": "https://www.muw.edu/musicbywomen/wp-content/uploads/sites/35/2023/12/Music-by-Women-Festival-2024-Program-Book.pdf",
+          "label": "Mississippi University for Women, 2024 Music by Women Festival",
+          "claim": "Program page 18 lists Sur la Mémoire by Stella Sung, performed by Bart Walters, soprano saxophone, University of North Georgia, and Jonathan Levin, piano. PDF downloaded and text checked.",
+          "access": "Opened source on October 20, 2026"
+        },
+        {
+          "url": "https://www.sax-delangle.com/repertoire/",
+          "label": "Claude Delangle, repertoire list",
+          "claim": "Credits Stella Sung and soprano saxophone/piano; dates the piece 1994 and names a premiere at the Hochschule of Freiburg with Odile Delangle.",
+          "access": "Live search index"
+        },
+        {
+          "url": "https://www.sheetmusicplus.com/en/product/sur-la-memoire-2234152.html",
+          "label": "Sheet Music Plus, Lemoine 26652 listing",
+          "claim": "Publisher-supplied retail description gives a duration of 4 minutes.",
+          "access": "Live search index"
+        },
+        {
+          "url": "https://www.coreliaproject.org/composers/sung/stella",
+          "label": "Corelia Project, Stella Sung repertoire",
+          "claim": "Lists Sur La Mémoire for soprano saxophone and piano with a duration of 8 minutes. This conflicts with the retailer.",
+          "access": "Live search index"
+        }
+      ],
+      "decision_focus": "Resolve attribution and inspect the Lemoine part before judging technical demands.",
+      "display_title": "Cecilia Sung - Sur La Memoire (source: Stella Sung)",
+      "review_id": 522,
+      "review_file": "content/research-review/Review 0522 - Cecilia Sung - Sur La Memoire.md",
+      "evidence_type": "Source description / gaps"
+    },
+    {
+      "batch_number": 5,
+      "run_number": 26,
+      "path": "content/works/Claude T. Smith - Sonata No. 1.md",
+      "title": "Sonata No. 1",
+      "instrumentation": "Publisher confirms alto saxophone. Catalog also lists piano, which remains unverified from the opened publisher description.",
+      "duration": "Unknown.",
+      "demands": [
+        "Hal Leonard confirms Southern Music SU 194 and a 44-page publication. Page count is not evidence of playing length or technical demands.",
+        "The public Hal Leonard Closer Look endpoint returned no preview. The live Sheet Music Plus gallery exposed only the cover.",
+        "No notation or exact playable recording was verified. Range, movement structure, rhythm, articulation and piano demands remain unknown."
+      ],
+      "scope": "Live publisher identity check with an explicitly unsuccessful authorized-preview check.",
+      "score_url": null,
+      "source_label": "Hal Leonard / Southern Music, HL 3776036, SU 194.",
+      "recording_url": null,
+      "recording_description": "No exact playable recording verified. No audio audition completed.",
+      "recording_links": [],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "The SaxoBrain record credits Claude T. Smith. The exact-title Southern Music publication credits Charles W. Smith and includes 1989 in the title. No attribution correction was applied.",
+      "evidence": [
+        {
+          "url": "https://www.halleonard.com/product/3776036/sonata-no-1-1989",
+          "label": "Hal Leonard / Southern Music, Sonata No. 1(1989)",
+          "claim": "Opened publisher page credits Charles W. Smith, alto saxophone, SU 194, HL 3776036, 44 pages. The current rendered page supplies no notation preview.",
+          "access": "Opened HTML and browser on October 20,2026"
+        },
+        {
+          "url": "https://www.sheetmusicplus.com/en/product/sonata-no-1-1989-205607.html",
+          "label": "Sheet Music Plus, Southern Music SU 194",
+          "claim": "Live product page corroborates Charles W. Smith and SU 194. Its current gallery contains only a cover image.",
+          "access": "Opened in browser on October 20,2026"
+        }
+      ],
+      "decision_focus": "Identify the Smith composer, then obtain SU 194 for a score-based assessment.",
+      "display_title": "Claude T. Smith - Sonata No. 1 (source: Charles W. Smith)",
+      "review_id": 523,
+      "review_file": "content/research-review/Review 0523 - Claude T. Smith - Sonata No. 1.md",
+      "evidence_type": "Source description / gaps"
+    },
+    {
+      "batch_number": 6,
+      "run_number": 33,
+      "path": "content/works/David Resnick - A Novel Idea.md",
+      "title": "A Novel Idea",
+      "instrumentation": "Alto saxophone and piano, AP 291.",
+      "duration": "Unknown. Festival time allowance does not establish work duration.",
+      "demands": [
+        "The 2018–2019 Wisconsin School Music Association list requires No. 4 plus another selection from AP 291. This verifies at least four numbered selections, without revealing their titles or demands.",
+        "No actual notation, range, tempo, movement names or exact playable recording was found.",
+        "David Resnick’s same-titled ballet is excluded because no source connects it to this saxophone edition."
+      ],
+      "scope": "Festival collection evidence and retail edition match. Technical evidence remains absent.",
+      "score_url": null,
+      "source_label": "Wisconsin School Music Association 2018–2019 list, AP 291.",
+      "recording_url": null,
+      "recording_description": "No exact playable recording verified. No audio audition completed.",
+      "recording_links": [],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "The festival source credits only Resnick. Presto supplies no composer first name. David remains unverified for this exact saxophone publication.",
+      "evidence": [
+        {
+          "url": "https://www.wsalem.k12.wi.us/uploads/content_files/user8990/files/Events_All.pdf",
+          "label": "Wisconsin School Music Association, 2018–2019 Festival Music List, hosted by West Salem schools",
+          "claim": "Alto saxophone listing names A Novel Idea, Resnick, NatMP(API)-HL AP 291, with a requirement to play No. 4 plus one other. PDF downloaded and text checked.",
+          "access": "Opened source on October 20, 2026"
+        },
+        {
+          "url": "https://www.prestomusic.com/sheet-music/products/9820344--a-novel-idea-alto-sax-solo-pno",
+          "label": "Presto Music, A Novel Idea",
+          "claim": "Lists alto saxophone and piano, AP 291, UPC 649325002919. No composer first name supplied.",
+          "access": "Live search index; direct retailer retrieval blocked"
+        }
+      ],
+      "decision_focus": "Confirm the composer’s full name and inspect the numbered selections.",
+      "review_id": 524,
+      "review_file": "content/research-review/Review 0524 - David Resnick - A Novel Idea.md",
+      "evidence_type": "Source description / gaps"
+    },
+    {
+      "batch_number": 7,
+      "run_number": 50,
+      "path": "content/works/Gabriel Pierné - Le Vol de la Mouche.md",
+      "title": "Le Vol de la Mouche",
+      "instrumentation": "E-flat saxophone and piano, Billaudot CC 2842.",
+      "duration": "Unknown.",
+      "demands": [
+        "No notation, authorized technical description or exact playable recording was verified.",
+        "The title alone does not establish rapid articulation, chromatic motion or any other technical requirement.",
+        "Conservatory library evidence identifies this as No. 1 of Trois pièces. The individual work’s range, length and movement structure remain unverified."
+      ],
+      "scope": "Current publisher identity confirmed. No technical conclusions are inferred from the title.",
+      "score_url": null,
+      "source_label": "Éditions Billaudot, CC 2842, and Royal Conservatoire Antwerp library catalog.",
+      "recording_url": null,
+      "recording_description": "No exact playable recording verified. No audio audition completed.",
+      "recording_links": [],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Current record credits Gabriel Pierné. Billaudot credits Paul Pierné. The Antwerp catalog independently credits Paul and places the work in Trois pièces. No attribution correction was applied.",
+      "evidence": [
+        {
+          "url": "https://www.billaudot.com/le-vol-de-la-mouche-4.html",
+          "label": "Éditions Billaudot, Le Vol de la mouche",
+          "claim": "Opened current publisher HTML identifies Paul Pierné, E-flat saxophone and piano, CC 2842. No notation preview link was exposed.",
+          "access": "Opened source on October 20, 2026"
+        },
+        {
+          "url": "https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf",
+          "label": "Royal Conservatoire Antwerp library, saxophone bibliography",
+          "claim": "Lists Paul Pierné, Le vol de la mouche, alto saxophone and piano, Costallat, Trois pièces No. 1, dedicated to Marcel Mule.",
+          "access": "Live search index; prior opened library evidence rechecked against index"
+        }
+      ],
+      "decision_focus": "Resolve Paul/Gabriel attribution, then inspect CC 2842 for actual demands.",
+      "display_title": "Gabriel Pierné - Le Vol de la Mouche (source: Paul Pierné)",
+      "review_id": 525,
+      "review_file": "content/research-review/Review 0525 - Gabriel Pierné - Le Vol de la Mouche.md",
+      "evidence_type": "Source description / gaps"
+    },
+    {
+      "batch_number": 8,
+      "run_number": 62,
+      "path": "content/works/Henri Challan - Concerto.md",
+      "title": "Concerto",
+      "instrumentation": "Alto saxophone and piano reduction, Alphonse Leduc AL 20337.",
+      "duration": "Unknown.",
+      "demands": [
+        "Towson University includes Challan’s Concerto in its saxophone repertoire curriculum. The list gives no exact movements or technical analysis.",
+        "The public Hal Leonard Closer Look endpoint returned no preview. No notation or exact playable recording was verified.",
+        "Range, cadenzas, movement structure, rhythmic complexity and endurance remain unknown."
+      ],
+      "scope": "Publisher and university curriculum evidence only. A curriculum listing is not converted into a SaxoBrain level.",
+      "score_url": null,
+      "source_label": "Hal Leonard / Alphonse Leduc AL 20337 and Towson University curriculum.",
+      "recording_url": null,
+      "recording_description": "No exact playable recording verified. No audio audition completed.",
+      "recording_links": [],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Current catalog credits Henri Challan. Hal Leonard’s exact AL 20337 publication credits René Challan. No attribution correction was applied.",
+      "evidence": [
+        {
+          "url": "https://www.halleonard.com/product/48181147/concertoconcerto",
+          "label": "Hal Leonard / Alphonse Leduc, Concerto",
+          "claim": "Opened publisher page identifies René Challan, alto saxophone and piano, AL 20337, HL 48181147. Preview endpoint returned null.",
+          "access": "Opened source on October 20, 2026"
+        },
+        {
+          "url": "https://www.towson.edu/cofac/departments/music/documents/pl-classicalsaxophone.pdf",
+          "label": "Towson University, Classical Saxophone curriculum",
+          "claim": "Includes Concerto(Challan) in its repertoire list. No first name, edition or score observations supplied.",
+          "access": "Live search index; direct PDF retrieval blocked"
+        }
+      ],
+      "decision_focus": "Resolve René/Henri attribution and inspect the Leduc reduction.",
+      "display_title": "Henri Challan - Concerto (source: René Challan)",
+      "review_id": 526,
+      "review_file": "content/research-review/Review 0526 - Henri Challan - Concerto.md",
+      "evidence_type": "Source description / gaps"
+    },
+    {
+      "batch_number": 9,
+      "run_number": 68,
+      "path": "content/works/Jay Vosk - Concerto.md",
+      "title": "Concerto",
+      "instrumentation": "Dorn catalog places Concerto, order 202, in alto saxophone and piano repertoire.",
+      "duration": "Unknown.",
+      "demands": [
+        "No notation preview, movement structure, range or exact playable recording was verified.",
+        "The composer-site lead describes a chamber-orchestra original, but live recheck failed with a certificate error. The primary score is needed to verify orchestral forces and the reduction’s demands.",
+        "Vosk’s Chimera is a different work. Its published technical analysis is excluded."
+      ],
+      "scope": "Fresh publisher catalog check, with a failed composer-site recheck clearly separated from current evidence.",
+      "score_url": null,
+      "source_label": "Dorn Publications, April 2025 catalog, item 202.",
+      "recording_url": null,
+      "recording_description": "No exact playable recording verified. No audio audition completed.",
+      "recording_links": [],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "The catalog work and publisher surname match. Details of the chamber-orchestra original remain a prior composer-site lead rather than a freshly retrieved source.",
+      "evidence": [
+        {
+          "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+          "label": "Dorn Publications, April 2025 catalog, hosted by Groth Music",
+          "claim": "Lists Vosk, Concerto, order 202, in the alto saxophone and piano section. PDF downloaded and text checked.",
+          "access": "Opened source on October 20, 2026"
+        },
+        {
+          "url": "http://jayvosk.com/published-works/",
+          "label": "Jay Vosk, Published Works",
+          "claim": "Prior research transcribed Concerto for alto saxophone and chamber orchestra, Dorn. This pass could not retrieve the page.",
+          "access": "Live recheck failed; prior composer-site claim retained only as a lead"
+        }
+      ],
+      "decision_focus": "Obtain Dorn 202 to assess the concerto’s length and solo demands.",
+      "review_id": 527,
+      "review_file": "content/research-review/Review 0527 - Jay Vosk - Concerto.md",
+      "evidence_type": "Source description / gaps"
+    },
+    {
+      "batch_number": 10,
+      "run_number": 70,
+      "path": "content/works/Jean Baptiste Loeillet - Sonata XII Op. 3-2.md",
+      "title": "Sonata XII Op. 3/2",
+      "instrumentation": "Soprano saxophone and piano, Dorn Publications DP 1309, arranged A. Durst.",
+      "duration": "Unknown.",
+      "demands": [
+        "Dorn’s own catalog now confirms publisher, arrangement initial and exact item 1309.",
+        "No notation preview or exact playable recording for the Durst edition was verified.",
+        "Original sonata identity, movements, range, ornamentation and piano realization remain unresolved. An original recorder score cannot establish the saxophone arrangement’s demands."
+      ],
+      "scope": "Exact saxophone edition corroborated by publisher and retailer. Original-source numbering remains unresolved.",
+      "score_url": null,
+      "source_label": "Dorn Publications April 2025 catalog and June Emerson exact product page.",
+      "recording_url": null,
+      "recording_description": "No exact playable recording verified. No audio audition completed.",
+      "recording_links": [],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Dorn prints Sonata XII Op 3/2. June Emerson expands this as Sonata No. 12, Op. 3 No.2. The competing numbers cannot be normalized without inspecting the Durst edition. Neither a recorder recording nor the separate Béon arrangement is treated as an exact match.",
+      "evidence": [
+        {
+          "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+          "label": "Dorn Publications, April 2025 catalog, hosted by Groth Music",
+          "claim": "Soprano saxophone and piano section lists Loeillet, Sonata XII Op 3/2, arr. A. Durst, order 1309. PDF downloaded and text checked.",
+          "access": "Opened source on October 20, 2026"
+        },
+        {
+          "url": "https://www.juneemersonwindmusic.com/Sonata-No-12-Op-3-No-2-35b4a553-950d-3fe3-7727-fc922c0804d1.html",
+          "label": "June Emerson Wind Music, exact DP 1309 product",
+          "claim": "Opened product page names Jean Baptiste Loeillet, Durst, soprano saxophone and piano, Dorn Publications DP 1309. No sample was exposed.",
+          "access": "Opened source on October 20, 2026"
+        }
+      ],
+      "decision_focus": "Compare Durst’s title page and opening with the original before judging demands.",
+      "review_id": 528,
+      "review_file": "content/research-review/Review 0528 - Jean Baptiste Loeillet - Sonata XII Op. 3-2.md",
+      "evidence_type": "Source description / gaps"
+    },
+    {
+      "batch_number": 11,
+      "run_number": 71,
+      "path": "content/works/Jean Thierry - Chant Tenebres.md",
+      "title": "Jean Thierry - Chant Tenebres",
+      "instrumentation": "Catalog: soprano saxophone. Escaich candidate GB5367: soprano saxophone or B-flat clarinet and piano.",
+      "duration": "Candidate GB 5367: publisher gives 15 minutes.",
+      "demands": [
+        "Billaudot identifies GB5367 as a piano reduction of the concerto for soprano saxophone and twelve saxophones.",
+        "No notation from GB5367 was accessible. Range, articulation, altissimo, breathing and piano coordination remain unverified."
+      ],
+      "scope": "Candidate identity and edition metadata only. No notation inspected. The available GB 9831 preview concerns a separate organ transcription and was not used for technical claims.",
+      "score_url": "https://www.billaudot.com/le-chant-des-tenebres-2.html",
+      "source_label": "Éditions Billaudot, GB 5367, ISMN 9790043053675",
+      "recording_url": "https://open.spotify.com/track/6Ufw7xKChqYY9PGuucvxtz",
+      "recording_description": "Candidate Escaich work on Magic Circus, Nicolas Prost and Paris Saxophone Ensemble. Track metadata checked, no audio audition. This is the saxophone ensemble version, not GB 5367 with piano.",
+      "recording_links": [
+        {
+          "url": "https://open.spotify.com/track/6Ufw7xKChqYY9PGuucvxtz",
+          "label": "Le chant des ténèbres, Magic Circus",
+          "scope": "Escaich candidate; soprano and saxophone ensemble version. Metadata only."
+        }
+      ],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Catalog names Jean Thierry. The publisher identifies this close title as Thierry Escaich. The intended identity remains unresolved. Piano, organ, string and saxophone ensemble versions must remain distinct.",
+      "evidence": [
+        {
+          "url": "https://www.billaudot.com/le-chant-des-tenebres-2.html",
+          "label": "Éditions Billaudot, piano reduction",
+          "claim": "Thierry Escaich; GB 5367; soprano or B-flat clarinet with piano; 15 minutes.",
+          "access": "Opened October 20, 2026"
+        },
+        {
+          "url": "https://www.billaudot.com/le-chant-des-tenebres.html",
+          "label": "Éditions Billaudot, organ transcription",
+          "claim": "Separate Tobias Willi transcription GB 9831 for soprano or clarinet and organ; public preview is for that edition.",
+          "access": "Publisher HTML retrieved October 20, 2026"
+        },
+        {
+          "url": "https://open.spotify.com/track/6Ufw7xKChqYY9PGuucvxtz",
+          "label": "Spotify track metadata",
+          "claim": "Exact Escaich title lists Paris Saxophone Ensemble and Nicolas Prost; metadata does not establish the catalog identity.",
+          "access": "Opened October 20, 2026"
+        }
+      ],
+      "decision_focus": "Resolve the Jean Thierry attribution and intended accompaniment before judging the candidate score.",
+      "display_title": "Jean Thierry - Chant Tenebres (source: Thierry Escaich)",
+      "review_id": 529,
+      "review_file": "content/research-review/Review 0529 - Jean Thierry - Chant Tenebres.md",
+      "evidence_type": "Listening / source description"
+    },
+    {
+      "batch_number": 12,
+      "run_number": 99,
+      "path": "content/works/Lucie Robert-Diessel - Concerto.md",
+      "title": "Lucie Robert-Diessel - Concerto",
+      "instrumentation": "Catalog: soprano saxophone, orchestra, piano. Candidate Double Concerto: alto saxophone and piano soloists with orchestra.",
+      "duration": "Candidate Double Concerto: publisher gives 27 minutes.",
+      "demands": [
+        "Publisher scoring requires two soloists, alto saxophone and piano, with orchestra. This is an ensemble and rehearsal consideration if the candidate identity is confirmed.",
+        "No authorized notation was inspected. Solo range, rhythmic density, movements and extended techniques remain unknown."
+      ],
+      "scope": "Publisher and library metadata for a conflicting candidate. The library describes a 97-page study score, not a retrieved notation sample.",
+      "score_url": "https://www.billaudot.com/double-concerto-38.html",
+      "source_label": "Éditions Billaudot, Double Concerto, EFM 2340 O",
+      "recording_url": null,
+      "recording_description": "No exact playable recording verified in this pass.",
+      "recording_links": [],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "The generic catalog title Concerto and soprano listing do not establish that this is Robert’s Double Concerto for alto saxophone, piano and orchestra. No identity correction was made.",
+      "evidence": [
+        {
+          "url": "https://www.billaudot.com/double-concerto-38.html",
+          "label": "Éditions Billaudot",
+          "claim": "Double Concerto by Lucie Robert; alto saxophone and piano soloists; 27 minutes; EFM 2340 O.",
+          "access": "Search index checked October 20, 2026; direct page retrieval failed"
+        },
+        {
+          "url": "https://ci.nii.ac.jp/ncid/BA85788275",
+          "label": "CiNii Books library record",
+          "claim": "Double concerto for E-flat alto saxophone, piano and orchestra; Éditions françaises de musique, copyright 1969; 97-page miniature score.",
+          "access": "Search index checked October 20, 2026"
+        }
+      ],
+      "decision_focus": "Confirm the work and solo instrument before requesting the saxophone part and evaluating the 27-minute concerto.",
+      "display_title": "Lucie Robert-Diessel - Concerto (candidate: Double Concerto)",
+      "review_id": 530,
+      "review_file": "content/research-review/Review 0530 - Lucie Robert-Diessel - Concerto.md",
+      "evidence_type": "Source description / gaps"
+    },
+    {
+      "batch_number": 13,
+      "run_number": 104,
+      "path": "content/works/Marcel Perrin - Burlesque.md",
+      "title": "Marcel Perrin - Burlesque",
+      "instrumentation": "Dorn lists separate soprano saxophone and piano DP148 and alto saxophone and piano DP186 editions.",
+      "duration": "Unknown.",
+      "demands": [
+        "The two saxophones are edition alternatives in the publisher catalog. The listing does not establish doubling.",
+        "No notation, duration or exact performance recording was verified. Range, articulation, rhythm and piano demands remain unknown."
+      ],
+      "scope": "Dorn publisher catalog, pages 3–5 in PDF sequence. Catalog entries contain no notation.",
+      "score_url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+      "source_label": "Dorn Publications April 2025 catalog hosted by Groth Music, DP 148 and DP 186",
+      "recording_url": null,
+      "recording_description": "No exact playable recording verified in this pass.",
+      "recording_links": [],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Dorn supplies only Perrin’s surname. Marcel remains unconfirmed for this work. Jean Perrin’s Duo concertant provides no authority for Burlesque’s attribution.",
+      "evidence": [
+        {
+          "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+          "label": "Dorn Publications catalog hosted by Groth Music",
+          "claim": "Burlesque: DP 148 in soprano/piano section and DP 186 in alto/piano section; composer surname only.",
+          "access": "Opened October 20, 2026"
+        }
+      ],
+      "decision_focus": "Obtain the title page and the intended DP 148 or DP 186 saxophone part before assessing technical demands.",
+      "review_id": 531,
+      "review_file": "content/research-review/Review 0531 - Marcel Perrin - Burlesque.md",
+      "evidence_type": "Source description / gaps"
+    },
+    {
+      "batch_number": 14,
+      "run_number": 105,
+      "path": "content/works/Marcel Perrin - Duo Concertant.md",
+      "title": "Marcel Perrin - Duo Concertant",
+      "instrumentation": "Candidate Jean Perrin Op. 31: E-flat alto saxophone and piano.",
+      "duration": "Unknown.",
+      "demands": [
+        "The composer archive identifies two contrasting movements, Adagio and Allegro giocoso. This describes structure, not a verified technical profile.",
+        "No notation was inspected. Range, tempo, rhythmic complexity and saxophone-piano coordination remain unknown."
+      ],
+      "scope": "Publisher edition metadata and composer archive inventory only. Archive descriptions of scores are not notation inspection.",
+      "score_url": "https://www.billaudot.com/duo-concertant-4.html",
+      "source_label": "Éditions Billaudot, GB 1733, ISMN 9790043017332",
+      "recording_url": null,
+      "recording_description": "The Jean Perrin archive identifies an exact historical recording by Iwan Roth and Gérard Wyss, recorded in Basel in 1977 and issued on Jecklin-Disco 568. No playable stream verified.",
+      "recording_links": [],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Catalog attributes Duo Concertant to Marcel Perrin. Billaudot and the Jean Perrin archive identify the matching GB 1733 work as Jean Perrin’s Op. 31. The catalog attribution remains untouched.",
+      "evidence": [
+        {
+          "url": "https://www.billaudot.com/duo-concertant-4.html",
+          "label": "Éditions Billaudot",
+          "claim": "Jean Perrin; E-flat saxophone and piano; GB 1733; 32 total pages; copyright 1974.",
+          "access": "Search index and publisher HTML checked October 20, 2026"
+        },
+        {
+          "url": "https://patrinum.ch/record/18469/files/inventaire_Perrin_Scherrer_2014.pdf",
+          "label": "BCU Lausanne, Jean Perrin archive inventory",
+          "claim": "Op.31, composed 1973–74; Adagio and Allegro giocoso; Pro Helvetia commission for 1974 World Saxophone Congress; Basel premiere by Iwan Roth and Peter Elfer; historical Roth/Wyss recording.",
+          "access": "Search index checked October 20, 2026"
+        }
+      ],
+      "decision_focus": "Resolve the Marcel/Jean attribution and inspect GB 1733 before judging the slow and fast movement demands.",
+      "display_title": "Marcel Perrin - Duo Concertant (source: Jean Perrin)",
+      "review_id": 532,
+      "review_file": "content/research-review/Review 0532 - Marcel Perrin - Duo Concertant.md",
+      "evidence_type": "Source description / gaps"
+    },
+    {
+      "batch_number": 15,
+      "run_number": 113,
+      "path": "content/works/Michele Sweeney - Duo.md",
+      "title": "Michele Sweeney - Duo",
+      "instrumentation": "Candidate Eric Sweeney CM116: soprano saxophone and piano.",
+      "duration": "CMC gives about 4 minutes for Duo; saxophone edition timing not independently verified.",
+      "demands": [
+        "In the CMC interview, Eric Sweeney describes nearly continuous rhythmic layers in saxophone and piano derived from three notes, with a piano drone influenced by Irish traditional music.",
+        "Inference from the composer’s description: maintaining rhythmic independence between the players is a specific issue to assess.",
+        "No saxophone edition notation was inspected. Exact range, tempo, articulation and breathing demands remain unknown."
+      ],
+      "scope": "Composer interview and exact Camden edition metadata. CMC’s work record describes the original violin version. No original-instrument notation was substituted.",
+      "score_url": "https://www.forsyths.co.uk/sheet-music/instruments/woodwind/saxophone-sheet-music/46908-duo---eric-sweeney--9790570341160.html",
+      "source_label": "Camden Music CM 116, ISMN 9790570341160, via Forsyths",
+      "recording_url": null,
+      "recording_description": "Forsyths names a saxophone recording by Gerard McChrystal on CMC CD 01, but no playable exact saxophone stream was verified. CMC embeds the alternate clarinet version below.",
+      "recording_links": [
+        {
+          "url": "https://open.spotify.com/track/7CgQJIQBrJ1nEoAY8LlIny",
+          "label": "Duo, John Finucane and Elisaveta Blumina",
+          "scope": "Alternate clarinet and piano version, explicitly identified by Spotify metadata. No audio audition."
+        }
+      ],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Catalog names Michele Sweeney. CMC and the Camden CM 116 retailer identify Eric Sweeney. A different retailer miscredits CM 116 to Pete Sweeney, so the edition number and CMC attribution are essential.",
+      "evidence": [
+        {
+          "url": "https://www.cmc.ie/features/through-digital-door-works-eric-sweeney-cmcs-library",
+          "label": "Contemporary Music Centre, Irish composer resource centre",
+          "claim": "Composer’s account of rhythmic layers and piano drone; Duo originated for violin/piano and was rescored for saxophone.",
+          "access": "Opened October 20, 2026"
+        },
+        {
+          "url": "https://www.cmc.ie/music/duo",
+          "label": "Contemporary Music Centre work record",
+          "claim": "Eric Sweeney; 1991; violin/piano original; about four minutes.",
+          "access": "CMC HTML retrieved October 20, 2026"
+        },
+        {
+          "url": "https://www.forsyths.co.uk/sheet-music/instruments/woodwind/saxophone-sheet-music/46908-duo---eric-sweeney--9790570341160.html",
+          "label": "Forsyths, Camden edition listing",
+          "claim": "Eric Sweeney; CM 116; soprano saxophone and piano; recording credit to Gerard McChrystal, CMC CD 01.",
+          "access": "Search index checked October 20, 2026"
+        },
+        {
+          "url": "https://open.spotify.com/track/7CgQJIQBrJ1nEoAY8LlIny",
+          "label": "Spotify track metadata",
+          "claim": "CMC’s embedded track is explicitly Duo for Violin & Piano, version for clarinet and piano, by John Finucane and Elisaveta Blumina.",
+          "access": "Opened October 20, 2026"
+        },
+        {
+          "url": "https://www.cmc.ie/news/030915/culture-night-contemporary-music-centre",
+          "label": "Contemporary Music Centre concert announcement",
+          "claim": "Duo programmed by saxophonist Gavin Brennan and pianist Aileen Cahill for Culture Night 2015.",
+          "access": "Search index checked October 20, 2026"
+        }
+      ],
+      "decision_focus": "Confirm Eric Sweeney’s CM 116 identity, then assess rhythmic independence from the actual soprano part.",
+      "display_title": "Michele Sweeney - Duo (source: Eric Sweeney)",
+      "review_id": 533,
+      "review_file": "content/research-review/Review 0533 - Michele Sweeney - Duo.md",
+      "evidence_type": "Source description / gaps"
+    },
+    {
+      "batch_number": 16,
+      "run_number": 123,
+      "path": "content/works/Pamela Tanious Worley - Six Dances.md",
+      "title": "Pamela Tanious Worley - Six Dances",
+      "instrumentation": "Candidate John C. Worley DP991: soprano saxophone and piano.",
+      "duration": "13:40 on the Kenneth Tse and Alan Huckleberry recording, not a score timing.",
+      "demands": [
+        "The exact recording groups six movements: Prelude, Allemande, Sarabande, Gavotte, Courante and Gigue.",
+        "Frostburg State University programmed Six Dances in Justin Nines’s senior saxophone recital on November 14, 2010. This is performance context, not a technical assessment.",
+        "No notation was inspected. Range, ornamentation, articulation, rhythmic detail and endurance remain unverified."
+      ],
+      "scope": "Dorn edition catalog, institutional recital evidence and exact professional recording metadata. Dance titles alone do not establish tempo or playing technique.",
+      "score_url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+      "source_label": "Dorn Publications catalog, DP 991",
+      "recording_url": "https://classical.music.apple.com/gb/album/393077067",
+      "recording_description": "Lyric Soprano, Kenneth Tse, soprano saxophone, and Alan Huckleberry, piano. Apple Music Classical lists all six movements with preview controls and a combined 13:40. Metadata and preview availability checked; no audio audition.",
+      "recording_links": [
+        {
+          "url": "https://classical.music.apple.com/gb/album/393077067",
+          "label": "Six Dances on Lyric Soprano",
+          "scope": "Exact John C. Worley work and soprano/piano recording; six movements with preview controls."
+        }
+      ],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Catalog composer is Pamela Tanious Worley. The performer, recording label and university recital identify John C. Worley. Keep any source that uses R. Worley unlinked unless independently resolved.",
+      "evidence": [
+        {
+          "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+          "label": "Dorn Publications catalog",
+          "claim": "Six Dances DP 991 appears under soprano saxophone and piano.",
+          "access": "Opened October 20, 2026"
+        },
+        {
+          "url": "https://www.kenneth-tse.com/discography/lyric-soprano",
+          "label": "Kenneth Tse official discography",
+          "claim": "Six Dances attributed to John C. Worley; Tse and Huckleberry; Crystal CD 658.",
+          "access": "Search index checked October 20, 2026"
+        },
+        {
+          "url": "https://classical.music.apple.com/gb/album/393077067",
+          "label": "Apple Music Classical",
+          "claim": "Six Dances has six named movements and a combined recorded duration of 13:40; preview controls are present.",
+          "access": "Opened October 20, 2026"
+        },
+        {
+          "url": "https://www.frostburg.edu/_files/pdfs/StateLines1/f2010/StateLinesN8.pdf",
+          "label": "Frostburg State University StateLines, November 8, 2010",
+          "claim": "Announces Justin Nines’s senior recital and Six Dances for Soprano Sax and Piano by John C. Worley.",
+          "access": "PDF opened; recital passage verified in search index October 20, 2026"
+        }
+      ],
+      "decision_focus": "Use the exact six-movement recording for character, then obtain DP 991 to verify range and articulation.",
+      "display_title": "Pamela Tanious Worley - Six Dances (source: John C. Worley)",
+      "review_id": 534,
+      "review_file": "content/research-review/Review 0534 - Pamela Tanious Worley - Six Dances.md",
+      "evidence_type": "Listening / source description"
+    },
+    {
+      "batch_number": 17,
+      "run_number": 124,
+      "path": "content/works/Pamela Tanious Worley - Suite.md",
+      "title": "Pamela Tanious Worley - Suite",
+      "instrumentation": "Candidate John C. Worley Suite DP152 / DP0152: soprano saxophone and piano.",
+      "duration": "Unknown.",
+      "demands": [
+        "Dorn DP152 and June Emerson DP0152 describe the same scoring and title. Neither inspected source supplies musical demands.",
+        "No notation, movement list, duration or playable exact recording was verified. Range, rhythm, articulation and accompaniment demands remain unknown."
+      ],
+      "scope": "Publisher catalog and retailer identity evidence only. Other Worley suites, including ensemble arrangements, were excluded.",
+      "score_url": "https://www.juneemersonwindmusic.com/Suite-b77bf8b1-6d9c-b048-ccaf-e2ec8c22d52d.html",
+      "source_label": "Dorn DP 152 / June Emerson DP 0152",
+      "recording_url": null,
+      "recording_description": "No exact playable recording verified in this pass.",
+      "recording_links": [],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Catalog names Pamela Tanious Worley. June Emerson identifies John C. Worley for DP 0152. Dorn supplies surname only. R. Worley references, if encountered, cannot resolve this identity without a title page.",
+      "evidence": [
+        {
+          "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+          "label": "Dorn Publications catalog",
+          "claim": "Suite DP 152 is in the soprano saxophone and piano section.",
+          "access": "Opened October 20, 2026"
+        },
+        {
+          "url": "https://www.juneemersonwindmusic.com/Bb-Soprano-Sax-Pieces/?sort=composer&sort_direction=1",
+          "label": "June Emerson Wind Music, soprano catalog",
+          "claim": "John C. Worley, Suite; soprano saxophone and piano; DP 0152.",
+          "access": "Search index checked October 20, 2026; direct product page retrieval failed"
+        }
+      ],
+      "decision_focus": "Inspect a DP 152 title page and notation before making a pedagogical decision.",
+      "display_title": "Pamela Tanious Worley - Suite (source: John C. Worley)",
+      "review_id": 535,
+      "review_file": "content/research-review/Review 0535 - Pamela Tanious Worley - Suite.md",
+      "evidence_type": "Source description / gaps"
+    },
+    {
+      "batch_number": 18,
+      "run_number": 127,
+      "path": "content/works/Pedro Jakubowski - Ibeji IV.md",
+      "title": "Pedro Jakubowski - Ibeji IV",
+      "instrumentation": "Candidate Pascale Jakubowski Ibéji IV: soprano saxophone and piano.",
+      "duration": "Unknown.",
+      "demands": [
+        "The inspected opening page combines long slurred lines, frequent accidentals and rapidly beamed descending and ascending figures.",
+        "Dynamics include ppp, p, mf and f, with repeated hairpins and abrupt changes.",
+        "Multiphonic chords appear with fingering diagrams and timed holds, including four, five and six seconds.",
+        "The opening solo’s footnote directs the saxophonist to play into the open piano while its resonance pedal remains depressed. This makes instrument placement and resonance part of preparation.",
+        "The page requests a lament-like, flexible character. Later pages, full range, duration, ensemble passages and the complete multiphonic vocabulary remain unverified."
+      ],
+      "scope": "One actual notation page inspected visually: first music page of the public Musik Fabrik soprano/piano sample on Sheet Music Plus. It bears copyright 1999 Éditions de la Fabrique Musique. Claims are limited to that opening solo page, not all 27 pages.",
+      "score_url": "https://www.sheetmusicplus.com/en/product/pascale-jakubowski-ibeji-iv-for-soprano-saxophone-and-piano-22912287.html",
+      "source_label": "Musik Fabrik #1120135, SMP A 0.1547637, 27 pages; first music page",
+      "recording_url": null,
+      "recording_description": "No exact playable recording verified in this pass.",
+      "recording_links": [],
+      "image_path": "/tmp/saxobrain-score05/b/ibeji-preview-1.png",
+      "notation_inspected": true,
+      "identity_caveat": "Catalog names Pedro Jakubowski. The composer website and sample title page name Pascale Jakubowski. An alto/accordion listing mislabels itself Ibéji IV; the composer calls that work Ibéji V, and its notation was excluded.",
+      "evidence": [
+        {
+          "url": "https://www.pascalejakubowski.com/catalogue/",
+          "label": "Pascale Jakubowski official catalog",
+          "claim": "Ibéji IV, 1997, soprano saxophone and piano; February 1998 premiere at University of Alberta by Jean-Michel Goury and Yves Josset. Ibéji V is alto saxophone and accordion.",
+          "access": "Opened October 20, 2026"
+        },
+        {
+          "url": "https://www.sheetmusicplus.com/en/product/pascale-jakubowski-ibeji-iv-for-soprano-saxophone-and-piano-22912287.html",
+          "label": "Sheet Music Plus, Musik Fabrik edition",
+          "claim": "Exact soprano/piano publication; 27 pages; publisher 1120135; six public gallery images.",
+          "access": "Opened in browser October 20, 2026"
+        },
+        {
+          "url": "https://www.sheetmusicplus.com/dw/image/v2/BJFX_PRD/on/demandware.static/-/Sites-smp-main/default/dw929e9e6a/images/2287/22912287_file_0_page_1.png?sw=900&sh=1200&sm=fit",
+          "label": "Musik Fabrik authorized retailer notation sample",
+          "claim": "First music page verifies Pascale Jakubowski attribution, soprano/piano scoring, multiphonic fingerings, timed holds, dynamic contrasts and open-piano resonance instruction.",
+          "access": "Downloaded from displayed public image through browser and visually inspected October 20, 2026"
+        }
+      ],
+      "decision_focus": "Evaluate the opening multiphonics, soft response and piano resonance setup after confirming the catalog identity.",
+      "display_title": "Pedro Jakubowski - Ibeji IV (source: Pascale Jakubowski)",
+      "edition_match": "candidate",
+      "review_id": 536,
+      "review_file": "content/research-review/Review 0536 - Pedro Jakubowski - Ibeji IV.md",
+      "evidence_type": "Candidate-work notation",
+      "image_file": "content/research-review/score-excerpts-2026-10-20-batch-05/run127-notation.png"
+    },
+    {
+      "batch_number": 19,
+      "run_number": 132,
+      "path": "content/works/Pierre Verhiel - Sonatine.md",
+      "title": "Pierre Verhiel - Sonatine",
+      "instrumentation": "Candidate Ton Verhiel Eres 2688: soprano or tenor saxophone or clarinet with piano, according to Noten Roehr.",
+      "duration": "Unknown.",
+      "demands": [
+        "Retailer scoring names alternative solo instruments with piano. It does not require soprano-tenor doubling.",
+        "No exact saxophone notation, movement titles, duration or playable recording was verified. Range, rhythm, articulation and piano demands remain unknown."
+      ],
+      "scope": "Conflicting identity and edition metadata only. The Eres catalog describes 2688 as clarinet and piano; the retailer adds saxophone alternatives. No clarinet notation was substituted.",
+      "score_url": "https://www.noten-roehr.de/en/scores/0005/woodwind-instruments/0507/saxophone/0504/woodwind%2Bpiano-harpsichord/043929",
+      "source_label": "Eres 2688, ISMN 9790202426883, via Noten Roehr and Stretta",
+      "recording_url": null,
+      "recording_description": "No exact playable recording verified in this pass.",
+      "recording_links": [],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Catalog names Pierre Verhiel. Exact matching Eres 2688 sources name Ton Verhiel. Publisher catalog and retailers differ in how they describe the solo instrument options; inspect the intended saxophone part.",
+      "evidence": [
+        {
+          "url": "https://www.noten-roehr.de/en/scores/0005/woodwind-instruments/0507/saxophone/0504/woodwind%2Bpiano-harpsichord/043929",
+          "label": "Noten Roehr retailer",
+          "claim": "Ton Verhiel, Sonatine, soprano or tenor saxophone or clarinet and piano; score plus one part.",
+          "access": "Search index checked October 20, 2026"
+        },
+        {
+          "url": "https://www.stretta-music.be/verhiel-verhiel-ton-sonatine-nr-295336.html",
+          "label": "Stretta edition listing",
+          "claim": "Ton Verhiel; ERES 2688; publication 1997; ISMN 9790202426883.",
+          "access": "Search index checked October 20, 2026"
+        },
+        {
+          "url": "https://www.notenpost.de/out/media/eres-Instrumentalmusik-Katalog.pdf",
+          "label": "Eres instrumental catalog hosted by Notenpost",
+          "claim": "Eres 2688 identifies Ton Verhiel’s Sonatine for clarinet and piano.",
+          "access": "Search index checked October 20, 2026"
+        }
+      ],
+      "decision_focus": "Confirm Ton Verhiel and the saxophone-compatible 2688 part before assessing technical demands.",
+      "display_title": "Pierre Verhiel - Sonatine (source: Ton Verhiel)",
+      "review_id": 537,
+      "review_file": "content/research-review/Review 0537 - Pierre Verhiel - Sonatine.md",
+      "evidence_type": "Source description / gaps"
+    },
+    {
+      "batch_number": 20,
+      "run_number": 136,
+      "path": "content/works/Randall Thompson - Song and Dance.md",
+      "title": "Randall Thompson - Song and Dance",
+      "instrumentation": "Candidate Terence J. Thompson: clarinet or soprano saxophone and piano.",
+      "duration": "Unknown.",
+      "demands": [
+        "CDMC’s library catalog explicitly includes piano accompaniment and alternative clarinet or soprano saxophone soloist.",
+        "No notation, duration, movement structure or exact playable recording was verified. Title alone does not establish lyrical or dance technique."
+      ],
+      "scope": "Library and exact Studio Music edition metadata only. No notation inspected; external library difficulty labels are not adopted.",
+      "score_url": "https://windmusic.org/index.php?lvl=notice_display&id=9384",
+      "source_label": "CDMC library record 9384; Studio Music M 050032977 / ISMN 9790050032977",
+      "recording_url": null,
+      "recording_description": "No exact playable recording verified in this pass.",
+      "recording_links": [],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Catalog names Randall Thompson and lists soprano alone. CDMC and retailers identify the same-title soprano-or-clarinet work as Terence J. Thompson with piano. The intended catalog identity is unresolved.",
+      "evidence": [
+        {
+          "url": "https://windmusic.org/index.php?id=20113&lvl=author_see",
+          "label": "CDMC Alsace library composer catalog",
+          "claim": "Song and Dance for clarinet or soprano saxophone and piano by Terence J. Thompson; 1994 catalog date.",
+          "access": "Search index checked October 20, 2026"
+        },
+        {
+          "url": "https://www.all-sheetmusic.com/Wind-Instruments/Clarinet/Song-And-Dance-nr.html",
+          "label": "All Sheet Music retailer",
+          "claim": "Terence J. Thompson; clarinet or soprano saxophone; Studio Music M 050032977; ISMN 9790050032977.",
+          "access": "Search index checked October 20, 2026"
+        },
+        {
+          "url": "https://www.prestomusic.com/sheet-music/products/7895229--terence-j-thompson-song-and-dance",
+          "label": "Presto Music retailer",
+          "claim": "Same composer, title, Studio Music publisher and ISMN 9790050032977.",
+          "access": "Search index checked October 20, 2026"
+        }
+      ],
+      "decision_focus": "Resolve Randall versus Terence J. Thompson and inspect the soprano/piano edition before judging demands.",
+      "display_title": "Randall Thompson - Song and Dance (source: Terence J. Thompson)",
+      "review_id": 538,
+      "review_file": "content/research-review/Review 0538 - Randall Thompson - Song and Dance.md",
+      "evidence_type": "Source description / gaps"
+    },
+    {
+      "batch_number": 21,
+      "run_number": 140,
+      "path": "content/works/Richard Stillwell - Sonata No. 1.md",
+      "title": "Sonata No. 1",
+      "instrumentation": "Soprano saxophone and piano, Joseph Stillwell candidate",
+      "duration": "12 minutes, composer estimate for the candidate work",
+      "demands": [
+        "Joseph Stillwell describes a three-movement soprano sonata, Op. 4, composed in 2006. His work page gives contrasting lively and sorrowful movement characters. These headings establish intended character, without establishing technical demands.",
+        "The composer documents the sonata at Jennifer Bellmer’s 2006 senior saxophone recital and his 2007 senior composition recital at the University of Wisconsin–Stevens Point.",
+        "No notation was located. Range, articulation, rhythmic detail, breathing and piano coordination remain unverified."
+      ],
+      "scope": "Composer work page, work overview, performance archive and composer-linked recording metadata checked. No score or audio audition. The work page and overview use different first- and second-movement headings.",
+      "score_url": "https://www.josephstillwell.com/soprano-saxophone-sonata-op-4.html",
+      "source_label": "Joseph Stillwell official work page, metadata only",
+      "recording_url": "https://soundcloud.com/josephstillwell/soprano-saxophone-sonata-i",
+      "recording_description": "Candidate work: all three movements on Joseph Stillwell’s public SoundCloud account. Metadata credits Jennifer Callope, saxophone, and Joseph Stillwell, piano. Public and streamable flags checked. This is recording identification, without audition.",
+      "recording_links": [
+        {
+          "url": "https://soundcloud.com/josephstillwell/soprano-saxophone-sonata-i",
+          "label": "I. Bright and energetic",
+          "scope": "Joseph Stillwell candidate; individual movement, 4:54; metadata checked, no audition"
+        },
+        {
+          "url": "https://soundcloud.com/josephstillwell/soprano-saxophone-sonata-ii",
+          "label": "II. Somber and restless",
+          "scope": "Joseph Stillwell candidate; individual movement, 3:19; metadata checked, no audition"
+        },
+        {
+          "url": "https://soundcloud.com/josephstillwell/soprano-saxophone-sonata-iii",
+          "label": "III. Excited and perky",
+          "scope": "Joseph Stillwell candidate; individual movement, 2:44; metadata checked, no audition"
+        }
+      ],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "The catalog attributes this entry to Richard Stillwell. The corroborated composer is Joseph Stillwell. No Richard Stillwell soprano Sonata No. 1 was established. Candidate evidence must remain separate until Tim confirms the intended work. The current attribution was preserved.",
+      "evidence": [
+        {
+          "url": "https://www.josephstillwell.com/soprano-saxophone-sonata-op-4.html",
+          "label": "Joseph Stillwell, official Sonata page",
+          "claim": "Soprano saxophone and piano; 2006; Op. 4; 12 minutes; dedicated to Jennifer Bellmer. Movement headings differ from the composer’s overview.",
+          "access": "Opened and checked October 20, 2026"
+        },
+        {
+          "url": "https://www.josephstillwell.com/band.html",
+          "label": "Joseph Stillwell, official wind-music overview",
+          "claim": "Lists the three soprano Sonata movements and embeds his Chamber Winds SoundCloud playlist.",
+          "access": "Opened and checked October 20, 2026"
+        },
+        {
+          "url": "https://www.josephstillwell.com/performances.html",
+          "label": "Joseph Stillwell, performance archive",
+          "claim": "Lists the soprano Sonata at the May 12, 2006 Jennifer Bellmer recital and calls it Sonata No. 1 at the October 12, 2007 composition recital.",
+          "access": "Opened and checked October 20, 2026"
+        },
+        {
+          "url": "https://soundcloud.com/josephstillwell/sets/chamber-winds",
+          "label": "Joseph Stillwell, Chamber Winds playlist",
+          "claim": "Three Sonata tracks are public and streamable. They credit Jennifer Callope and Joseph Stillwell. Their displayed durations total approximately eleven minutes.",
+          "access": "Public page metadata retrieved October 20, 2026; no audio audition"
+        }
+      ],
+      "decision_focus": "Joseph Stillwell candidate has three verified recording links; catalog composer attribution and score remain unresolved.",
+      "display_title": "Richard Stillwell - Sonata No. 1 (source: Joseph Stillwell)",
+      "review_id": 539,
+      "review_file": "content/research-review/Review 0539 - Richard Stillwell - Sonata No. 1.md",
+      "evidence_type": "Listening / source description"
+    },
+    {
+      "batch_number": 22,
+      "run_number": 141,
+      "path": "content/works/Robert Myers - Sonatine.md",
+      "title": "Sonatine",
+      "instrumentation": "Alto saxophone and piano, Theldon Myers candidate",
+      "duration": null,
+      "demands": [
+        "The original Golden Crest label catalog identifies Theldon Myers’s Sonatine for alto saxophone and piano on RE 7086. Joseph Briscuso is the album’s alto saxophonist and Frederick Minger its pianist.",
+        "No score was located. Movement structure, duration, written range, articulation and rhythmic demands remain unverified."
+      ],
+      "scope": "Original label catalog, PDF page 8. This is a recording reference and attribution lead. It contains no notation and provides no playable stream.",
+      "score_url": null,
+      "source_label": "No score located",
+      "recording_url": "https://www.johnbroven.com/images/pdf/goldencrest-catalog.pdf",
+      "recording_description": "Reference only: Golden Crest RE 7086, Towson Chamber Players, compositions by Theldon Myers. The catalog identifies Sonatine and performers. No playable recording verified.",
+      "recording_links": [
+        {
+          "url": "https://www.johnbroven.com/images/pdf/goldencrest-catalog.pdf",
+          "label": "Golden Crest RE 7086 label catalog",
+          "scope": "Candidate attribution and recording reference only; no audio player"
+        }
+      ],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "The catalog entry names Robert Myers. The corroborated Sonatine is by Theldon Myers. Matching surname and title do not establish that this is the intended score. No attribution was changed.",
+      "evidence": [
+        {
+          "url": "https://www.johnbroven.com/images/pdf/goldencrest-catalog.pdf",
+          "label": "Golden Crest, original record catalog",
+          "claim": "PDF page 8 lists RE 7086, Towson Chamber Players, compositions by Theldon Myers, including Sonatine for alto saxophone and piano. Album personnel include Joseph Briscuso and Frederick Minger.",
+          "access": "Public PDF retrieved and catalog text checked October 20, 2026"
+        }
+      ],
+      "decision_focus": "Theldon Myers recording reference supports a candidate identity; Robert Myers attribution and exact score remain unresolved.",
+      "display_title": "Robert Myers - Sonatine (source: Theldon Myers)",
+      "review_id": 540,
+      "review_file": "content/research-review/Review 0540 - Robert Myers - Sonatine.md",
+      "evidence_type": "Listening / source description"
+    },
+    {
+      "batch_number": 23,
+      "run_number": 142,
+      "path": "content/works/Rudy Wiedoeft - Rudy Wiedoeft Collection Volume 3 - Sax Serene; Lightnin'; The Doll Dance (Brown); Dainty Miss Miller (Barnes); Melancholy Charlie (Cr.md",
+      "title": "Rudy Wiedoeft Collection Volume 3: Sax Serene; Lightnin'; The Doll Dance (Brown); Dainty Miss Miller (Barnes); Melancholy Charlie (Crum)",
+      "instrumentation": "Alto saxophone and piano, collection edited by Paul Wehage",
+      "duration": null,
+      "demands": [
+        "NotenPunkt identifies Musik Fabrik’s Volume 3 as Vaudeville Repertoire for alto saxophone and piano, edited by Paul Wehage.",
+        "Its contents list gives six items: Lightning, Sax-Serene, Sax-o-phun, The Doll Dance, Dainty Miss and Melancholy Charlie. Five correspond to the existing long catalog title. Sax-o-phun is an additional listed item.",
+        "No notation from MFRW003 was inspected. Each selection’s range, articulation, tempo, effects and piano writing remain unverified."
+      ],
+      "scope": "Retailer edition metadata and contents checked. Publisher website could not be retrieved. The historical recording reference covers one listed selection and does not verify the edited volume.",
+      "score_url": "https://www.notenpunkt.de/rudy-wiedoeft-the-rudy-wiedoeft-collection-vol-3-vaudeville-repertoire-for-alto-saxophone-and-piano-65679",
+      "source_label": "NotenPunkt edition and contents listing, no notation",
+      "recording_url": "https://rsa.fau.edu/album/18540",
+      "recording_description": "Related historical recording reference: Florida Atlantic University’s Recorded Sound Archives identifies Rudy Wiedoeft and Oscar Levant on Sax-O-Phun / Valse Mazanetta, Columbia 761-D. The archive offers a player and warns that some tracks are limited to 45-second samples. Playback was not auditioned. This does not represent the complete edited collection.",
+      "recording_links": [
+        {
+          "url": "https://rsa.fau.edu/album/18540",
+          "label": "FAU Recorded Sound Archives: Sax-O-Phun",
+          "scope": "One selection in the retailer’s contents; historical recording and possible sample player, edition match unverified"
+        }
+      ],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "The long catalog filename is retained exactly. Its five named selections are Sax Serene, Lightnin’, The Doll Dance, Dainty Miss and Melancholy Charlie. The retailer lists a sixth piece, Sax-o-phun. Its Dainty Miss wording differs from the catalog’s expanded wording. Title-page contents and individual composer credits require confirmation.",
+      "evidence": [
+        {
+          "url": "https://www.notenpunkt.de/rudy-wiedoeft-the-rudy-wiedoeft-collection-vol-3-vaudeville-repertoire-for-alto-saxophone-and-piano-65679",
+          "label": "NotenPunkt, Musik Fabrik edition listing",
+          "claim": "Volume 3, Vaudeville Repertoire; alto saxophone and piano; Paul Wehage editor; six listed contents.",
+          "access": "Opened and checked October 20, 2026"
+        },
+        {
+          "url": "https://www.juneemersonwindmusic.com/Saxophone/?page=13&sort=title&sort_direction=1",
+          "label": "June Emerson Wind Music, indexed edition listing",
+          "claim": "Identifies Volume 3, Paul Wehage, alto saxophone and piano, reference MFRW003.",
+          "access": "Search-index result checked October 20, 2026; direct product page returned 403"
+        },
+        {
+          "url": "https://rsa.fau.edu/album/18540",
+          "label": "Florida Atlantic University, Recorded Sound Archives",
+          "claim": "Catalog 761-D lists Rudy Wiedoeft and Oscar Levant; Sax-O-Phun is one track. Site provides a player with copyright-based sample limits.",
+          "access": "Archive page metadata checked October 20, 2026; no audio audition"
+        }
+      ],
+      "decision_focus": "Assess selections separately; five catalog titles match a six-item retailer contents list, with no inspected edition notation.",
+      "display_title": "Rudy Wiedoeft Collection, Volume 3",
+      "review_id": 541,
+      "review_file": "content/research-review/Review 0541 - Rudy Wiedoeft - Collection Volume 3.md",
+      "evidence_type": "Listening / source description"
+    },
+    {
+      "batch_number": 24,
+      "run_number": 145,
+      "path": "content/works/Sam Raphling - Sonata No. 1.md",
+      "title": "Sonata No. 1",
+      "instrumentation": "Alto saxophone and piano; sonata numbering not matched to an edition",
+      "duration": null,
+      "demands": [
+        "Ball State University’s Cecil Leeson archive bibliography lists Raphling’s Sonata for Alto Saxophone and Piano with the date 1945. It lists a tenor sonata separately.",
+        "North Greenville University’s applied alto repertoire list explicitly includes Sonata No. 1 by Raphling. This corroborates the numbered title in a teaching context, without identifying its edition or connecting it securely to the 1945 entry.",
+        "No notation or exact playable recording was located. Duration, movement structure, range and technical demands remain unverified."
+      ],
+      "scope": "Institutional bibliography, printed page 108, and university repertoire list. Neither source supplies notation. The teaching list is evidence of repertoire use, without adoption of its study placement.",
+      "score_url": "https://cardinalscholar.bsu.edu/bitstreams/cb5bf379-2361-4cb6-8f58-05af0aa35c89/download",
+      "source_label": "Ball State archive bibliography, no notation",
+      "recording_url": null,
+      "recording_description": "No exact playable recording verified.",
+      "recording_links": [],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "The 1945 bibliography entry has no sonata number. The university list supplies No. 1 without an edition or date. Their relationship remains provisional. The catalog’s title and date were preserved.",
+      "evidence": [
+        {
+          "url": "https://cardinalscholar.bsu.edu/bitstreams/cb5bf379-2361-4cb6-8f58-05af0aa35c89/download",
+          "label": "Ball State University, Cecil Leeson archive bibliography",
+          "claim": "Printed page 108 distinguishes a 1945 alto Sonata from a 1969 tenor Sonata.",
+          "access": "PDF retrieved; searchable institutional text checked October 20, 2026"
+        },
+        {
+          "url": "https://ngu.smartcatalogiq.com/en/2025-2026/2025-2026-cline-school-of-music-student-handbook/suggested-repertoire-levels-for-applied-study",
+          "label": "North Greenville University, 2025–2026 music student handbook",
+          "claim": "The alto saxophone repertoire list names Sonata No. 1 by Raphling. It provides no publisher, date, duration or notation.",
+          "access": "Opened and checked October 20, 2026"
+        }
+      ],
+      "decision_focus": "Numbered title has university corroboration; exact edition, 1945 connection and technical evidence remain unresolved.",
+      "review_id": 542,
+      "review_file": "content/research-review/Review 0542 - Sam Raphling - Sonata No. 1.md",
+      "evidence_type": "Source description / gaps"
+    },
+    {
+      "batch_number": 25,
+      "run_number": 147,
+      "path": "content/works/Sarah Neutkens - People And Things.md",
+      "title": "People And Things",
+      "instrumentation": "Violin and soprano saxophone",
+      "duration": "Approximately 7 minutes 30 seconds",
+      "demands": [
+        "Donemus identifies a two-player violin and soprano saxophone duo composed in 2021. The published score has eight pages and was commissioned by Femke IJlstra and Merel Vercammen for The Parliament of Things.",
+        "The composer’s work list confirms this scoring and duration. The music box project programmed the exact duo in its April 16, 2022 TICK TICK concert.",
+        "The duo requires a violin partner. No public notation was located, so range, breathing, rhythmic coordination and any extended techniques remain unverified."
+      ],
+      "scope": "Exact publisher edition 20245, composer work list and presenter program. Publisher page contains purchase options, without an exposed notation preview. No exact playable recording verified.",
+      "score_url": "https://webshop.donemus.com/action/front/sheetmusic/20245/People%2Band%2BThings",
+      "source_label": "Donemus 20245, eight-page purchasable score; no public preview",
+      "recording_url": null,
+      "recording_description": "No exact playable recording verified.",
+      "recording_links": [],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Both the publisher and composer use Sarah Neutkens. No Sara spelling was established in the checked primary sources.",
+      "evidence": [
+        {
+          "url": "https://webshop.donemus.com/action/front/sheetmusic/20245/People%2Band%2BThings",
+          "label": "Donemus, publisher edition 20245",
+          "claim": "Identifies the 2021 violin and soprano saxophone duo, two players, duration 7:30, eight-page score and named commissioners.",
+          "access": "Publisher page retrieved October 20, 2026"
+        },
+        {
+          "url": "https://www.sarahneutkens.com/list-of-works",
+          "label": "Sarah Neutkens, official work list",
+          "claim": "Lists People and Things, 2021, violin and soprano saxophone, approximately 7:30, with Merel Vercammen and Femke IJlstra.",
+          "access": "Opened and checked October 20, 2026"
+        },
+        {
+          "url": "https://www.themusicboxproject.com/calendar/2022/3/26/upstairs-the-glebe-tick-tick",
+          "label": "The music box project, TICK TICK concert program",
+          "claim": "April 16, 2022 program includes People and Things for soprano saxophone and violin.",
+          "access": "Opened and checked October 20, 2026"
+        }
+      ],
+      "decision_focus": "Exact violin/soprano duo and 7:30 duration confirmed; notation and playable recording remain unavailable.",
+      "review_id": 543,
+      "review_file": "content/research-review/Review 0543 - Sarah Neutkens - People And Things.md",
+      "evidence_type": "Source description / gaps"
+    },
+    {
+      "batch_number": 26,
+      "run_number": 150,
+      "path": "content/works/Sherwood Shaffer - Sonata.md",
+      "title": "Sonata",
+      "instrumentation": "Catalog says alto saxophone and piano; verified sonatas are for tenor or baritone",
+      "duration": "Catalog alto work unknown; alternate baritone Sonata publisher estimate 16 minutes",
+      "demands": [
+        "The composer’s publisher list identifies Sonata: When Mountains Rising for tenor saxophone and piano and a separate Sonata for baritone saxophone and piano. It does not identify an alto Sonata.",
+        "Subito identifies the baritone work as a 2016 composition, approximately sixteen minutes, E.B. Marks 80603970. Abbi Stewart’s linked recording belongs to this baritone work.",
+        "Stephen Pollock describes the tenor Sonata as three movements that can be performed separately. Its middle movement is Past Singing Springs. These facts belong to the tenor work.",
+        "No alto edition or notation was established. None of the alternate works’ ranges or technical demands can be transferred to this record."
+      ],
+      "scope": "Composer list, alternate baritone publisher page, baritone recording metadata and tenor premiere performer’s account. No notation and no audio audition. Baritone and tenor evidence are kept separate from the unresolved alto catalog entry.",
+      "score_url": "https://www.sherwoodshaffer.com/scores-publishing",
+      "source_label": "Composer’s work and publisher list, no notation",
+      "recording_url": "https://soundcloud.com/abbistew/sherwoodsonata",
+      "recording_description": "Alternate work: Abbi Stewart’s Sonata for Baritone Saxophone and Piano, linked by Carnegie Mellon’s SaxChats project. Public and streamable metadata checked; approximately 18:52. No audio audition. This does not establish an alto version.",
+      "recording_links": [
+        {
+          "url": "https://soundcloud.com/abbistew/sherwoodsonata",
+          "label": "Abbi Stewart: Shaffer baritone Sonata",
+          "scope": "Alternate baritone work; approximately 18:52, metadata only"
+        },
+        {
+          "url": "https://www.stephen-pollock.com/sonear.html",
+          "label": "Stephen Pollock: So Near, So Far program notes",
+          "scope": "Tenor Sonata identity and middle-movement recording reference; no direct playable stream verified"
+        }
+      ],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "The generic alto Sonata record remains unresolved. The tenor Sonata and the 2016 baritone Sonata are distinct works. No instrument, title or composer data were changed.",
+      "evidence": [
+        {
+          "url": "https://www.sherwoodshaffer.com/scores-publishing",
+          "label": "Sherwood Shaffer, official scores and publishing page",
+          "claim": "Separately lists the tenor When Mountains Rising and a baritone Sonata. No alto Sonata is listed.",
+          "access": "Composer page retrieved October 20, 2026"
+        },
+        {
+          "url": "https://www.subitomusic.com/product/shaffer-sonata-for-baritone-saxophone-piano/",
+          "label": "Subito Music, E.B. Marks publisher listing",
+          "claim": "Baritone saxophone and piano; 2016; duration sixteen minutes; score and parts, 80603970.",
+          "access": "Opened and checked October 20, 2026"
+        },
+        {
+          "url": "https://studioforcreativeinquiry.org/project/saxchats",
+          "label": "Carnegie Mellon University, SaxChats project",
+          "claim": "Links Abbi Stewart’s Shaffer baritone Sonata recording and composer interview.",
+          "access": "Opened and checked October 20, 2026"
+        },
+        {
+          "url": "https://soundcloud.com/abbistew/sherwoodsonata",
+          "label": "Abbi Stewart, SoundCloud recording page",
+          "claim": "Identifies the baritone Sonata as originally written for Brad Hubbard; public and streamable; duration approximately 18:52.",
+          "access": "Public recording metadata retrieved October 20, 2026; no audition"
+        },
+        {
+          "url": "https://www.stephen-pollock.com/sonear.html",
+          "label": "Stephen Pollock, premiere performer’s program notes",
+          "claim": "Describes the three-movement tenor Sonata, his 1983 premiere and the independently performable middle movement Past Singing Springs.",
+          "access": "Opened and checked October 20, 2026"
+        }
+      ],
+      "decision_focus": "Alto identity unresolved; verified baritone recording and tenor description apply to distinct alternate works.",
+      "review_id": 544,
+      "review_file": "content/research-review/Review 0544 - Sherwood Shaffer - Sonata.md",
+      "evidence_type": "Listening / source description"
+    },
+    {
+      "batch_number": 27,
+      "run_number": 168,
+      "path": "content/works/Warren Gooch - Soliloquy.md",
+      "title": "Soliloquy",
+      "instrumentation": "Soprano saxophone and piano, Dorn 1274",
+      "duration": null,
+      "demands": [
+        "Dorn’s April 2025 catalog places Gooch’s Soliloquy, order 1274, under soprano saxophone and piano on PDF page 3.",
+        "No notation, exact playable soprano recording or duration was established. Range, breathing, articulation, rhythmic writing and piano coordination remain unverified."
+      ],
+      "scope": "Exact Dorn catalog entry only. The catalog supplies title, composer surname, order number and scoring category. It contains no notation.",
+      "score_url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+      "source_label": "Dorn publisher catalog, PDF page 3; no notation",
+      "recording_url": null,
+      "recording_description": "No exact playable recording verified.",
+      "recording_links": [],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Truman’s 2003 announcement concerns Soliloquy for oboe and piano. A clarinet presentation also exists in concert listings. These sources do not establish the soprano version’s date, range or technique.",
+      "evidence": [
+        {
+          "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+          "label": "Dorn Publications, April 2025 catalog",
+          "claim": "PDF page 3 lists Soliloquy, Gooch, order 1274, under Soprano Saxophone and Piano.",
+          "access": "Opened and checked October 20, 2026"
+        },
+        {
+          "url": "https://trumantoday.truman.edu/030211.html",
+          "label": "Truman State University, February 11, 2003 newsletter",
+          "claim": "Announces a Soliloquy for oboe and piano accepted by Dorn. This is different instrumentation from the soprano catalog entry.",
+          "access": "Opened and checked October 20, 2026"
+        }
+      ],
+      "decision_focus": "Dorn 1274 confirms soprano and piano; score, duration and exact recording remain unverified.",
+      "review_id": 545,
+      "review_file": "content/research-review/Review 0545 - Warren Gooch - Soliloquy.md",
+      "evidence_type": "Source description / gaps"
+    },
+    {
+      "batch_number": 28,
+      "run_number": 169,
+      "path": "content/works/Warren Gooch - Sonata.md",
+      "title": "Sonata",
+      "instrumentation": "Soprano saxophone and piano, Dorn 2044",
+      "duration": null,
+      "demands": [
+        "Dorn’s April 2025 catalog places Gooch’s Sonata, order 2044, under soprano saxophone and piano on PDF page 3.",
+        "Truman State University reports performances of the exact soprano Sonata at three 1997 conferences. Named musicians include saxophonist Randall Smith and pianists Eun-Joo Kwak and Janet Bass Smith.",
+        "No notation or exact playable recording was established. Duration, movement structure, written range and rhythmic or technical demands remain unverified."
+      ],
+      "scope": "Publisher catalog and institutional performance/publication announcements. The 1997 performances establish that the work existed by then. The 2003 announcement concerns acceptance for publication, without establishing composition date. No score analysis or audition.",
+      "score_url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+      "source_label": "Dorn publisher catalog, PDF page 3; no notation",
+      "recording_url": null,
+      "recording_description": "No exact playable recording verified.",
+      "recording_links": [],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "",
+      "evidence": [
+        {
+          "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+          "label": "Dorn Publications, April 2025 catalog",
+          "claim": "PDF page 3 lists Sonata, Gooch, order 2044, under Soprano Saxophone and Piano.",
+          "access": "Opened and checked October 20, 2026"
+        },
+        {
+          "url": "https://trumantoday.truman.edu/ttoday/text970414.html",
+          "label": "Truman State University, April 1997 newsletter",
+          "claim": "Reports performances of Gooch’s soprano saxophone and piano Sonata at 1997 Society of Composers, College Music Society and North American Saxophone Alliance conferences.",
+          "access": "Institutional search-index text checked October 20, 2026"
+        },
+        {
+          "url": "https://trumantoday.truman.edu/030211.html",
+          "label": "Truman State University, February 11, 2003 newsletter",
+          "claim": "Announces acceptance of the soprano saxophone and piano Sonata for publication by Dorn.",
+          "access": "Opened and checked October 20, 2026"
+        }
+      ],
+      "decision_focus": "Exact soprano Sonata has 1997 conference history; edition notation and technical demands remain unverified.",
+      "review_id": 546,
+      "review_file": "content/research-review/Review 0546 - Warren Gooch - Sonata.md",
+      "evidence_type": "Source description / gaps"
+    },
+    {
+      "batch_number": 29,
+      "run_number": 171,
+      "path": "content/works/William Presser - Four Grounds.md",
+      "title": "Four Grounds",
+      "instrumentation": "Oboe or soprano saxophone, horn and timpani",
+      "duration": null,
+      "demands": [
+        "Theodore Presser identifies edition 494-01515, Tritone Press & Tenuto Publications, with soprano saxophone and oboe alternatives. Randall Faust’s catalog explicitly names horn and timpani.",
+        "Faust’s Western Illinois University program notes describe four movements: Allegro, Adagio, Allegro and Allegro molto. He describes a melodic repeating bass pattern in timpani beneath interwoven oboe and horn lines. This is the premiere participant’s account of the oboe scoring.",
+        "A soprano performance requires horn and timpani partners. No soprano notation was inspected, so transposition, written range, articulations and detailed ensemble demands remain unverified."
+      ],
+      "scope": "Publisher metadata, performer catalog and indexed university program notes. The musical description concerns the oboe performance. No notation or exact soprano recording was inspected.",
+      "score_url": "https://www.presser.com/494-01515-4-grounds.html",
+      "source_label": "Theodore Presser edition 494-01515, product metadata only",
+      "recording_url": null,
+      "recording_description": "No exact playable recording verified.",
+      "recording_links": [],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "This is mixed chamber music. The Faust catalog supports oboe or soprano saxophone with horn and timpani. The university program’s oboe performance does not establish the soprano part’s range. A conflicting retailer piano label was not adopted.",
+      "evidence": [
+        {
+          "url": "https://www.presser.com/494-01515-4-grounds.html",
+          "label": "Theodore Presser, publisher edition 494-01515",
+          "claim": "Identifies William Presser, Tritone/Tenuto, soprano saxophone and oboe alternatives; classified with mixed trios.",
+          "access": "Publisher page retrieved October 20, 2026"
+        },
+        {
+          "url": "https://www.faustmusic.com/media/wysiwyg/4-fold_8.5x11_February_2023.pdf",
+          "label": "Randall Faust, February 2023 catalog",
+          "claim": "Page 2 explicitly lists Four Grounds for oboe (soprano saxophone), horn and timpani.",
+          "access": "Opened and checked October 20, 2026"
+        },
+        {
+          "url": "https://www.wiu.edu/libinfo/fileserver/recitals/fileserver.php?target=1192494_program.pdf",
+          "label": "Western Illinois University, faculty recital program with Randall Faust notes",
+          "claim": "Lists the four movements and describes melodic timpani ground bass with oboe/horn counterpoint. Faust reports the oboe-scoring premiere at Auburn University in 1987.",
+          "access": "Institutional indexed program text checked October 20, 2026; direct retrieval returned 401"
+        }
+      ],
+      "decision_focus": "Soprano alternative with horn and timpani confirmed; oboe program notes describe counterpoint, while soprano notation remains unverified.",
+      "review_id": 547,
+      "review_file": "content/research-review/Review 0547 - William Presser - Four Grounds.md",
+      "evidence_type": "Source description / gaps"
+    }
+  ],
+  "new_files": [
+    "content/research-review/Review 0519 - Benedetto Marcello - Sonate.md",
+    "content/research-review/Review 0520 - Blagoje Petric - Prelidij za Burlesko.md",
+    "content/research-review/Review 0521 - Carl Anton Wirth - Three Indonesian Landscapes.md",
+    "content/research-review/Review 0522 - Cecilia Sung - Sur La Memoire.md",
+    "content/research-review/Review 0523 - Claude T. Smith - Sonata No. 1.md",
+    "content/research-review/Review 0524 - David Resnick - A Novel Idea.md",
+    "content/research-review/Review 0525 - Gabriel Pierné - Le Vol de la Mouche.md",
+    "content/research-review/Review 0526 - Henri Challan - Concerto.md",
+    "content/research-review/Review 0527 - Jay Vosk - Concerto.md",
+    "content/research-review/Review 0528 - Jean Baptiste Loeillet - Sonata XII Op. 3-2.md",
+    "content/research-review/Review 0529 - Jean Thierry - Chant Tenebres.md",
+    "content/research-review/Review 0530 - Lucie Robert-Diessel - Concerto.md",
+    "content/research-review/Review 0531 - Marcel Perrin - Burlesque.md",
+    "content/research-review/Review 0532 - Marcel Perrin - Duo Concertant.md",
+    "content/research-review/Review 0533 - Michele Sweeney - Duo.md",
+    "content/research-review/Review 0534 - Pamela Tanious Worley - Six Dances.md",
+    "content/research-review/Review 0535 - Pamela Tanious Worley - Suite.md",
+    "content/research-review/Review 0536 - Pedro Jakubowski - Ibeji IV.md",
+    "content/research-review/Review 0537 - Pierre Verhiel - Sonatine.md",
+    "content/research-review/Review 0538 - Randall Thompson - Song and Dance.md",
+    "content/research-review/Review 0539 - Richard Stillwell - Sonata No. 1.md",
+    "content/research-review/Review 0540 - Robert Myers - Sonatine.md",
+    "content/research-review/Review 0541 - Rudy Wiedoeft - Collection Volume 3.md",
+    "content/research-review/Review 0542 - Sam Raphling - Sonata No. 1.md",
+    "content/research-review/Review 0543 - Sarah Neutkens - People And Things.md",
+    "content/research-review/Review 0544 - Sherwood Shaffer - Sonata.md",
+    "content/research-review/Review 0545 - Warren Gooch - Soliloquy.md",
+    "content/research-review/Review 0546 - Warren Gooch - Sonata.md",
+    "content/research-review/Review 0547 - William Presser - Four Grounds.md",
+    "content/research-review/Remaining Repertoire - Score Batch 05.md"
+  ],
+  "coverage": {
+    "notation_inspected": 1,
+    "alternate_edition_notation": 0,
+    "listening_or_reference": 7
+  }
+}

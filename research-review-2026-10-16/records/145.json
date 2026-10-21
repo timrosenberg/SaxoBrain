@@ -1,0 +1,43 @@
+{
+  "run_number": 145,
+  "filename": "Sam Raphling - Sonata No. 1.md",
+  "path": "content/works/Sam Raphling - Sonata No. 1.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": "A Raphling alto-saxophone/piano sonata dated 1945 is documented in the Cecil Leeson archive bibliography. The catalog’s No. 1 designation has not been independently matched.",
+  "findings": [
+    "Printed page 108 lists Sam Raphling, Sonata for Alto Saxophone and Piano (1945). The same list separately identifies a tenor sonata (1969)."
+  ],
+  "evidence": [
+    {
+      "claim": "Printed page 108 lists Sam Raphling, Sonata for Alto Saxophone and Piano (1945). The same list separately identifies a tenor sonata (1969).",
+      "url": "https://cardinalscholar.bsu.edu/bitstreams/cb5bf379-2361-4cb6-8f58-05af0aa35c89/download",
+      "source_name": "Ball State University, Cecil Leeson archive bibliography",
+      "kind": "institution",
+      "access": "opened"
+    }
+  ],
+  "metadata": {},
+  "score_observations": "",
+  "notation_inspected": false,
+  "score_links": [
+    {
+      "url": "https://cardinalscholar.bsu.edu/bitstreams/cb5bf379-2361-4cb6-8f58-05af0aa35c89/download",
+      "description": "Archive bibliography, printed page 108; no notation",
+      "inspected": false
+    }
+  ],
+  "listening": [],
+  "collection_flag": "Original saxophone repertoire; intended pedagogical level unverified.",
+  "gaps": [
+    "The 1945 entry has no sonata number, so its identity as No. 1 remains provisional and the composition field is left empty.",
+    "No publisher, public notation or exact recording verified. Northwestern holds the composer’s scores, but this broad collection does not by itself identify a specific sonata."
+  ],
+  "searches": [
+    "Sam Raphling Sonata No 1 saxophone piano",
+    "Raphling saxophone sonata",
+    "Sam Raphling alto saxophone Sonata 1945 score publisher",
+    "\"Raphling\" \"Sonata\" \"saxophone\" publisher"
+  ],
+  "proposed_corrections": []
+}

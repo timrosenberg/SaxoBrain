@@ -22,6 +22,11 @@ research:
   - Masanori Oishi recording on Smoke (Odradek ODRCD359), 12:51 · https://streaming.highresaudio.com/album/view/fqy85i/masanori-oishi-smoke
 aliases: []
 ---
+
+## Listening links
+
+- [Nobuya Sugawa (Zen-On, 2011)](https://www.youtube.com/watch?v=POOx1S-xRP8)
+
 ## Research notes (private)
 
 - Solo alto sax, commissioned for the 18th Groupe des Quatre et ses ami(e)s concert (Zen-On); premiered by Nobuya Sugawa 2 Dec 2011, Tsuda Hall, Tokyo · [exhibits-umkc.mobiusconsortium.org](https://exhibits-umkc.mobiusconsortium.org/s/techtest/item/1400)

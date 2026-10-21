@@ -9,7 +9,8 @@ instruments:
 composed: 
 year-of-study: "Advanced"
 streaming: 
-purchase: []
+purchase:
+  - "Neuf Études, Book 2 collection · https://www.lmi-partitions.com/produit/9-etudes-vol-2/"
 added: 2024-02-23
 aliases: []
 ---

@@ -1,0 +1,60 @@
+{
+  "run_number": 116,
+  "filename": "Niccolo Paganini - Cantabile.md",
+  "path": "content/works/Niccolo Paganini - Cantabile.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": "Cantabile in D Major, David (Dave) Camwell alto saxophone and piano arrangement",
+  "findings": [
+    "Dorn catalog confirms Camwell's alto/piano edition, DP1501.",
+    "Keep this separate from Cantabile and Waltz MS45; IMSLP identifies Cantabile MS109 as a single D-major violin/piano movement.",
+    "No exact Camwell recording or public preview was located."
+  ],
+  "evidence": [
+    {
+      "claim": "DP1501 alto/piano Camwell edition",
+      "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+      "source_name": "Dorn Publications 2025 catalog",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "MS109 identity and original instrumentation",
+      "url": "https://imslp.org/wiki/Cantabile%2C_M.S.109_%28Paganini%2C_Niccol%C3%B2%29",
+      "source_name": "IMSLP work/score record",
+      "kind": "score library",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {
+    "publisher": [
+      "Dorn Publications"
+    ],
+    "instruments": [
+      "Alto Saxophone",
+      "Piano"
+    ],
+    "arranger-edition": [
+      "David (Dave) Camwell; DP1501"
+    ]
+  },
+  "score_observations": [],
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [],
+  "collection_flag": "Lyrical transcription; precise college suitability cannot be inferred without the Camwell score.",
+  "gaps": [
+    "Exact Camwell edition duration, range, date, notation and recording unverified.",
+    "Other saxophone Cantabile editions found, but their score details are not interchangeable with DP1501."
+  ],
+  "searches": [
+    "Niccolo Paganini Cantabile saxophone",
+    "Paganini Cantabile Camwell",
+    "Paganini Cantabile Camwell saxophone sheet music",
+    "David Camwell Paganini Cantabile arrangement",
+    "Paganini Cantabile Dorn",
+    "site:grothmusic.com Paganini Cantabile",
+    "Groth retailer search Paganini Cantabile"
+  ],
+  "proposed_corrections": []
+}

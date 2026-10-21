@@ -1,0 +1,65 @@
+{
+  "run_number": 136,
+  "filename": "Randall Thompson - Song and Dance.md",
+  "path": "content/works/Randall Thompson - Song and Dance.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": "Likely Terence J. Thompson: Song and Dance",
+  "findings": [
+    "CDMC library catalog identifies Song and Dance for clarinet or soprano saxophone and piano as Terence J. Thompson, publication 1994.",
+    "This contradicts the present Randall Thompson attribution and unaccompanied soprano instrumentation.",
+    "Retail index identifies Studio Music M050032977, ISMN9790050032977; its 2007 release listing is distinct from the library's 1994 publication."
+  ],
+  "evidence": [
+    {
+      "claim": "Exact title, Terence J. Thompson, alternative clarinet/soprano soloist with piano and 1994 library date",
+      "url": "https://windmusic.org/index.php?id=20113&lvl=author_see",
+      "source_name": "CDMC Alsace library",
+      "kind": "library catalog",
+      "access": "opened"
+    },
+    {
+      "claim": "Studio Music edition and ISMN",
+      "url": "https://www.all-sheetmusic.com/Wind-Instruments/Clarinet/Song-And-Dance-nr.html",
+      "source_name": "All Sheet Music",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {},
+  "score_observations": [],
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [],
+  "collection_flag": null,
+  "gaps": [
+    "No score notation, duration, composition date or exact recording verified.",
+    "Resolve composer attribution before importing metadata.",
+    "Retailer direct page blocked; edition number remains private lead."
+  ],
+  "searches": [
+    "Randall Thompson Song and Dance",
+    "Randall Thompson Song and Dance saxophone",
+    "Thompson Song and Dance soprano saxophone sheet music",
+    "Song and Dance saxophone Thompson publisher"
+  ],
+  "proposed_corrections": [
+    {
+      "field": "composer",
+      "existing": "Randall Thompson",
+      "proposed": "Terence J. Thompson",
+      "reason": "Exact library work record gives the latter composer."
+    },
+    {
+      "field": "instruments",
+      "existing": [
+        "Soprano Saxophone"
+      ],
+      "proposed": [
+        "Soprano Saxophone or Clarinet",
+        "Piano"
+      ],
+      "reason": "Library explicitly identifies piano accompaniment and alternative solo instrument."
+    }
+  ]
+}

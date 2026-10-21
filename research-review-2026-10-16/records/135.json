@@ -1,0 +1,73 @@
+{
+  "run_number": 135,
+  "filename": "Randall Snyder - Song of the Loon.md",
+  "path": "content/works/Randall Snyder - Song of the Loon.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": "Randall Snyder: Song of the Loon (1998)",
+  "findings": [
+    "Alto saxophone and orchestra, 1998, duration five minutes; Universal Edition study score UES107220-000.",
+    "Inspired by a poem by Nebraska poet Marjorie Saiser. Written for Lawrence Gwozdz, who premiered it with Omaha Symphony under Ernest Richardson.",
+    "The preview confirms a substantial orchestral accompaniment including woodwinds, brass, timpani, percussion, harp and strings. Instrument-specific doublings cannot be determined from this excerpt."
+  ],
+  "evidence": [
+    {
+      "claim": "Date, duration, work origin, premiere and edition",
+      "url": "https://www.universaledition.com/en/Works/Song-of-the-Loon-for-Alto-Saxophone-and-orchestra/P0277391",
+      "source_name": "Universal Edition",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Actual orchestral score excerpt",
+      "url": "https://www.universaledition.com/media/b6/c1/86/1714661821/80b3e9e5e2d7a0ef91ac3828b8f439d7.pdf",
+      "source_name": "Universal Edition preview",
+      "kind": "score",
+      "access": "score_inspected"
+    }
+  ],
+  "metadata": {
+    "composed": "1998",
+    "publisher": [
+      "Universal Edition"
+    ],
+    "instruments": [
+      "Alto Saxophone",
+      "Orchestra"
+    ],
+    "purchase": [
+      "https://www.universaledition.com/en/Works/Song-of-the-Loon-for-Alto-Saxophone-and-orchestra/P0277391"
+    ]
+  },
+  "score_observations": [
+    "At measures 72–79, the alto line is lyrical and slurred with sustained values, chromatic inflections and hairpin dynamics, while strings carry faster moving figures.",
+    "The orchestra changes meter between 4/4 and 3/4 in the viewed passage. The alto staff has five flats; the excerpt supports local phrasing/coordination observations but cannot establish full solo range."
+  ],
+  "notation_inspected": true,
+  "score_links": [
+    {
+      "url": "https://www.universaledition.com/media/b6/c1/86/1714661821/80b3e9e5e2d7a0ef91ac3828b8f439d7.pdf",
+      "description": "Public orchestral excerpt, printed pages 12–14",
+      "inspected": true
+    }
+  ],
+  "listening": [
+    {
+      "url": "https://www.universaledition.com/en/Works/Song-of-the-Loon-for-Alto-Saxophone-and-orchestra/P0277391",
+      "description": "Publisher embeds an audio preview on this exact work page.",
+      "verification": "Exact work association verified on publisher page; performer metadata absent and audio not auditioned."
+    }
+  ],
+  "collection_flag": null,
+  "gaps": [
+    "Existing SoundCloud URL retained in catalog but not independently verified here.",
+    "No full performance-part set or piano reduction established; listed UE product is study score.",
+    "No exact named recording personnel verified."
+  ],
+  "searches": [
+    "Randall Snyder Song of the Loon",
+    "Randall Snyder Song of the Loon saxophone orchestra",
+    "Song of the Loon Snyder score recording"
+  ],
+  "proposed_corrections": []
+}

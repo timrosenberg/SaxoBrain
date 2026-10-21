@@ -1,0 +1,37 @@
+{
+  "run_number": 51,
+  "filename": "Gary Steward - Gather the Wind.md",
+  "path": "content/works/Gary Steward - Gather the Wind.md",
+  "checked_on": "2026-10-16",
+  "status": "no_reliable_match",
+  "identity": {
+    "title": "Gather the Wind",
+    "composer": "Gary Steward",
+    "match": "No reliable title/composer/soprano-saxophone match found."
+  },
+  "findings": [
+    "Searches of the supplied title, composer, alternative Stewart spelling, and saxophone qualifiers did not identify a score, publisher, program, or recording belonging to this catalog entry.",
+    "Results for Happy End's Kaze Wo Atsumete and Mark Keller's Gather the Wind album are unrelated and were excluded. Gary Steward songwriter references did not connect him to this soprano saxophone title."
+  ],
+  "evidence": [],
+  "metadata": {},
+  "score_observations": [],
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [],
+  "collection_flag": null,
+  "gaps": [
+    "Composer identity remains unresolved.",
+    "All work details, score access, composition date, publication, and recordings remain unverified."
+  ],
+  "searches": [
+    "Gary Steward Gather the Wind",
+    "Gather the Wind Steward saxophone",
+    "Gary Steward Gather Wind saxophone composition",
+    "Gary Stewart Gather the Wind",
+    "Gather the Wind",
+    "Gary Steward saxophone composer",
+    "Gather Wind Steward music saxophone"
+  ],
+  "proposed_corrections": []
+}

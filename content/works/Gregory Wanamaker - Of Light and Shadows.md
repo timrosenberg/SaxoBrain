@@ -9,7 +9,12 @@ instruments:
 composed: 
 year-of-study: "Fourth Year"
 streaming: 
-purchase: []
+purchase:
+  - "Order from Composer · https://gregorywanamaker.com/works/of-light-and-shadows/"
 added: 2024-02-23
 aliases: []
 ---
+
+## Ordering
+
+Contact Gregory Wanamaker through the link at the top of his [work page](https://gregorywanamaker.com/works/of-light-and-shadows/) to purchase the alto saxophone and piano score.

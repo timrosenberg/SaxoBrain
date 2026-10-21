@@ -1,0 +1,48 @@
+{
+  "run_number": 89,
+  "filename": "Kent Holliday - Cythera.md",
+  "path": "content/works/Kent Holliday - Cythera.md",
+  "checked_on": "2026-10-16",
+  "status": "no_reliable_match",
+  "identity": "Unresolved: Kent Holliday, Cythera",
+  "findings": [
+    "No reliable match for Cythera under Kent Holliday after plain, saxophone-specific and alternate-spelling searches.",
+    "Holliday's publisher page confirms his identity and several other chamber works. It does not list Cythera. Dorn's catalog contains other Holliday saxophone works but no Cythera entry.",
+    "Works titled Cythera by other composers were excluded because no attribution link established a match."
+  ],
+  "evidence": [
+    {
+      "claim": "Composer publisher catalog checked; exact work absent",
+      "url": "https://www.cayambismusicpress.com/kent-holliday-s/1901.htm",
+      "source_name": "Cayambis Music Press",
+      "kind": "publisher catalog",
+      "access": "opened"
+    },
+    {
+      "claim": "Other Holliday saxophone titles present; no exact Cythera listing",
+      "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+      "source_name": "Dorn Publications 2025 catalog",
+      "kind": "publisher catalog",
+      "access": "opened"
+    }
+  ],
+  "metadata": {},
+  "score_observations": [],
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [],
+  "collection_flag": null,
+  "gaps": [
+    "Exact title and attribution need original catalog or score confirmation.",
+    "No date, duration, edition, scoring verification, recording or notation preview found."
+  ],
+  "searches": [
+    "Kent Holliday Cythera",
+    "Kent Holliday Cythera saxophone",
+    "Cythera Holliday",
+    "Kent Holliday saxophone works Cythera Kythira",
+    "Holliday Cythera music",
+    "Kent Holliday composer works saxophone"
+  ],
+  "proposed_corrections": []
+}

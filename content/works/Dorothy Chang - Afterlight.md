@@ -9,7 +9,8 @@ instruments:
 composed: 2018
 year-of-study: Third Year
 streaming: https://www.youtube.com/watch?v=9dGf_-z53JM
-purchase: []
+purchase:
+  - "https://cmccanada.org/shop/75957/"
 added: 2024-02-21
 aliases: []
 ---

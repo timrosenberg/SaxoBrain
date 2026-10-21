@@ -1,0 +1,357 @@
+[
+  {
+    "file": "content/works/David Baker - Concerto.md",
+    "status": "verified-purchase",
+    "routes": [
+      {
+        "url": "https://subitomusic.com/product/baker-concerto-for-tenor-saxophone-orchestra/",
+        "label": "Study score from the publisher",
+        "kind": "purchase",
+        "evidence": "Exact official Baker product identifies tenor saxophone and orchestra, 20 minutes, product SKU 90310010. Additional information explicitly says Study Score. Enabled Add to cart.",
+        "availability": "Print item, $43.99 displayed on 2026-10-20. No explicit dispatch time displayed.",
+        "scope": "Study score only. The same page explicitly places full score and parts on rental."
+      },
+      {
+        "url": "https://www.sheetmusicplus.com/en/product/concerto-19194089.html",
+        "label": "Study score",
+        "kind": "purchase",
+        "evidence": "Live exact product is Concerto for Tenor Saxophone & Orchestra by David N. Baker, SKU SU.90310010. Format is Study Score. Enabled Add to Cart and Buy buttons appear.",
+        "availability": "Special order item; ships once received from publisher. Page states ships in 2 to 3 weeks and displays $39.90 ($42 list). Checked 2026-10-20.",
+        "scope": "Printed study score only. Product separately states full score and parts are available on rental."
+      },
+      {
+        "url": "https://subitomusic.com/requests/#rental-license",
+        "label": "Full score and parts rental request",
+        "kind": "rental",
+        "evidence": "Exact official product says full score and parts are available on rental. The current official Orders and Requests page gives Zinfonia or the publisher rental request as the process for rental titles.",
+        "availability": "Request a no-obligation quote. Final order requires signed agreement and publisher payment instructions. No request submitted.",
+        "scope": "Baker Concerto for Tenor Saxophone & Orchestra performance materials. The linked form redirected to a blank page in this browser, so use the stable instructions page and its Zinfonia route or contact info@subitomusic.com."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.sheetmusicplus.com/en/product/concerto-19194089.html",
+        "evidence": "Exact tenor work, orchestral and rhythm-section instrumentation, study-score SKU, current price, order buttons and special-order terms.",
+        "access_method": "live browser AX page"
+      },
+      {
+        "url": "https://www.subitomusic.com/pdf/RentalCatalog.pdf",
+        "evidence": "Official catalog lists David N. Baker Concerto for Sax & Chamber Orchestra, 20 minutes, tenor solo with orchestra and piano, bass and drums.",
+        "access_method": "web indexed official PDF"
+      },
+      {
+        "url": "https://subitomusic.com/product/baker-concerto-for-tenor-saxophone-orchestra/",
+        "evidence": "Current publisher exact product, Study Score format, SKU 90310010, price, cart button, and explicit full-score/parts rental status.",
+        "access_method": "live browser AX"
+      },
+      {
+        "url": "https://subitomusic.com/requests/#rental-license",
+        "evidence": "Rental requests via Zinfonia or publisher form receive no-obligation quote and terms. Digital read-only perusal can be requested at info@subitomusic.com.",
+        "access_method": "live browser AX"
+      }
+    ],
+    "findings": "Current publisher study-score purchase and exact-work full-score/parts rental route are verified. A retailer offers the same study score under SU.90310010.",
+    "uncertainty": "Rental price, license terms and dispatch require a publisher quote. The form linked by the policy page redirected to a blank page during inspection. No separate tenor part or piano reduction sale established.",
+    "next_action": "Use the direct publisher study-score purchase URL. Label the separate rental route Full score and parts rental. Request a quote or perusal only if Tim decides to program it.",
+    "suggested_contact_url": "https://subitomusic.com/requests/#rental-license",
+    "suggested_inquiry": null,
+    "research_complete": true,
+    "checked_date": "2026-10-20"
+  },
+  {
+    "file": "content/works/Dirk Brossé - Mantra, Canta and Capriccio.md",
+    "status": "uncertain",
+    "routes": [],
+    "sources": [
+      {
+        "url": "https://dirkbrosse.be/for-professionals/",
+        "evidence": "Official work/store catalog supplies publisher abbreviations and marks DB works as composer rental. Exact Mantra title absent from opened full page.",
+        "access_method": "web opened; find Mantra returned no match"
+      },
+      {
+        "url": "https://sax.dinant.be/uploads/pages/299/319/20231111_-_8cias_-_communique_de_presse_classement_final.pdf",
+        "evidence": "Competition organizer names Mantra, Canto and Capriccio as the commissioned final-round work.",
+        "access_method": "web indexed official PDF"
+      },
+      {
+        "url": "https://dirkbrosse.be/contact/",
+        "evidence": "Official composer contact page supplies dirk@dirkbrosse.be.",
+        "access_method": "web opened"
+      }
+    ],
+    "findings": "Official competition evidence uses Mantra, Canto and Capriccio. The catalog uses Canta. No exact current score product or applicable work-specific rental policy was verified.",
+    "uncertainty": "The general DB rental abbreviation does not establish this absent work as a DB rental item. The current score source, material formats, price, and approved title spelling require confirmation.",
+    "next_action": "Ask the composer to identify the current purchase or rental source. Confirm Canto versus Canta before considering any metadata change.",
+    "suggested_contact_url": "https://dirkbrosse.be/contact/",
+    "suggested_inquiry": "Could you identify the authorized score and performance-material source for Mantra, Canto and Capriccio, commissioned for the 2023 Adolphe Sax competition? Please confirm the official title, available score/part formats, whether orchestral materials are purchased or rented, and the order link or quote process.",
+    "research_complete": true,
+    "checked_date": "2026-10-20"
+  },
+  {
+    "file": "content/works/Mark Engebretson - An Arc in Solitude.md",
+    "status": "uncertain",
+    "routes": [],
+    "sources": [
+      {
+        "url": "https://markengebretson.weebly.com/uber-list-of-everything.html",
+        "evidence": "Official work list identifies An Arc in Solitude (1991), alto saxophone duo, Apoll Edition.",
+        "access_method": "web opened official composer page"
+      },
+      {
+        "url": "https://markengebretson.weebly.com/publishers-and-labels.html",
+        "evidence": "Live browser page links Sheet Music Plus for many scores and parts and supplies engebretson at uncg.edu for some computer/electronic works.",
+        "access_method": "live browser AX"
+      },
+      {
+        "url": "https://www.sheetmusicplus.com/en/explore?q=%22mark+engebretson%22",
+        "evidence": "Unfiltered search reports 33 results. Both pages inspected. Assigned titles absent.",
+        "access_method": "live browser AX, pages 1 and 2"
+      },
+      {
+        "url": "https://shop.apoll-edition.work/index.php?route=product%2Fsearch&search=engebretson",
+        "evidence": "Current linked Apoll shop could not be inspected because the browser reported ERR_CERT_COMMON_NAME_INVALID.",
+        "access_method": "browser navigation, certificate failure"
+      }
+    ],
+    "findings": "Official work list identifies An Arc in Solitude (1991), alto saxophone duo, Apoll Edition. The live official Publishers and Labels page refers customers to Sheet Music Plus. Both unfiltered distributor result pages were checked. None of these six assigned titles appears among the 33 results.",
+    "uncertainty": "No exact current score product or explicit work-specific ordering instruction was verified. The composer policy for some electronic works is an inquiry lead. Apoll shop access failed with a certificate-name error; no warning was bypassed.",
+    "next_action": "Ask the composer for the current authorized score source, price, delivery format and materials included.",
+    "suggested_contact_url": "https://markengebretson.weebly.com/publishers-and-labels.html",
+    "suggested_inquiry": "Could you identify the current authorized source for An Arc in Solitude? Please confirm whether the score and all required parts can be ordered, the price, delivery format, and the publisher or distributor link.",
+    "research_complete": true,
+    "checked_date": "2026-10-20"
+  },
+  {
+    "file": "content/works/Mark Engebretson - Energy Drink I.md",
+    "status": "uncertain",
+    "routes": [],
+    "sources": [
+      {
+        "url": "https://markengebretson.weebly.com/uber-list-of-everything.html",
+        "evidence": "Official work list identifies Energy Drink I (1999), unaccompanied alto saxophone, Apoll Edition.",
+        "access_method": "web opened official composer page"
+      },
+      {
+        "url": "https://markengebretson.weebly.com/publishers-and-labels.html",
+        "evidence": "Live browser page links Sheet Music Plus for many scores and parts and supplies engebretson at uncg.edu for some computer/electronic works.",
+        "access_method": "live browser AX"
+      },
+      {
+        "url": "https://www.sheetmusicplus.com/en/explore?q=%22mark+engebretson%22",
+        "evidence": "Unfiltered search reports 33 results. Both pages inspected. Assigned titles absent.",
+        "access_method": "live browser AX, pages 1 and 2"
+      },
+      {
+        "url": "https://shop.apoll-edition.work/index.php?route=product%2Fsearch&search=engebretson",
+        "evidence": "Current linked Apoll shop could not be inspected because the browser reported ERR_CERT_COMMON_NAME_INVALID.",
+        "access_method": "browser navigation, certificate failure"
+      }
+    ],
+    "findings": "Official work list identifies Energy Drink I (1999), unaccompanied alto saxophone, Apoll Edition. The live official Publishers and Labels page refers customers to Sheet Music Plus. Both unfiltered distributor result pages were checked. None of these six assigned titles appears among the 33 results.",
+    "uncertainty": "No exact current score product or explicit work-specific ordering instruction was verified. The composer policy for some electronic works is an inquiry lead. Apoll shop access failed with a certificate-name error; no warning was bypassed.",
+    "next_action": "Ask the composer for the current authorized score source, price, delivery format and materials included.",
+    "suggested_contact_url": "https://markengebretson.weebly.com/publishers-and-labels.html",
+    "suggested_inquiry": "Could you identify the current authorized source for Energy Drink I? Please confirm whether the score and all required parts can be ordered, the price, delivery format, and the publisher or distributor link.",
+    "research_complete": true,
+    "checked_date": "2026-10-20"
+  },
+  {
+    "file": "content/works/Mark Engebretson - Luminous.md",
+    "status": "uncertain",
+    "routes": [],
+    "sources": [
+      {
+        "url": "https://markengebretson.weebly.com/uber-list-of-everything.html",
+        "evidence": "The historical list lacks Luminous; it predates the work. No ordering availability can be inferred.",
+        "access_method": "web opened official composer page"
+      },
+      {
+        "url": "https://markengebretson.weebly.com/publishers-and-labels.html",
+        "evidence": "Live browser page links Sheet Music Plus for many scores and parts and supplies engebretson at uncg.edu for some computer/electronic works.",
+        "access_method": "live browser AX"
+      },
+      {
+        "url": "https://www.sheetmusicplus.com/en/explore?q=%22mark+engebretson%22",
+        "evidence": "Unfiltered search reports 33 results. Both pages inspected. Assigned titles absent.",
+        "access_method": "live browser AX, pages 1 and 2"
+      },
+      {
+        "url": "https://shop.apoll-edition.work/index.php?route=product%2Fsearch&search=engebretson",
+        "evidence": "Current linked Apoll shop could not be inspected because the browser reported ERR_CERT_COMMON_NAME_INVALID.",
+        "access_method": "browser navigation, certificate failure"
+      },
+      {
+        "url": "https://jamespaulsain.com/downloads/RCSQArtsNowNCSU.pdf",
+        "evidence": "2022 Red Clay program identifies Luminous (2016), Steve Stusek on tenor saxophone, with audience cell phones.",
+        "access_method": "web indexed program PDF; direct open timed out"
+      },
+      {
+        "url": "https://markengebretson.weebly.com/electroacoustic.html",
+        "evidence": "Narrow final check could not retrieve the standalone electroacoustic list. The opened Uber List has no Luminous entry. Its scoped performance-material instruction cannot be extended to an absent work.",
+        "access_method": "web direct open cache miss; browser unavailable; direct public-page request DNS failure"
+      }
+    ],
+    "findings": "NASA 2018 program and NC State 2022 program identify Luminous (2016), tenor saxophone and audience mobile devices. The live official Publishers and Labels page refers customers to Sheet Music Plus. Both unfiltered distributor result pages were checked. None of these six assigned titles appears among the 33 results.",
+    "uncertainty": "No exact current score product or explicit work-specific ordering instruction was verified. The composer policy for some electronic works is an inquiry lead. Apoll shop access failed with a certificate-name error; no warning was bypassed. Narrow final policy check: Luminous does not appear anywhere in the opened Uber List, including its electroacoustic section. That section says \"for performance materials for most of these works, contact the composer, unless otherwise noted\". The standalone electroacoustic page could not be retrieved. Exact applicability to Luminous remains unestablished.",
+    "next_action": "Ask the composer for the current authorized score source, price, delivery format and materials included.",
+    "suggested_contact_url": "https://markengebretson.weebly.com/publishers-and-labels.html",
+    "suggested_inquiry": "Could you identify the current authorized source for Luminous? Please confirm whether the score and all required parts can be ordered, the price, delivery format, and the publisher or distributor link. Please include the playback files, software or patch requirements, and any performance instructions for the electronics.",
+    "research_complete": true,
+    "checked_date": "2026-10-20"
+  },
+  {
+    "file": "content/works/Mark Engebretson - She Sings, She Screams.md",
+    "status": "uncertain",
+    "routes": [],
+    "sources": [
+      {
+        "url": "https://markengebretson.weebly.com/uber-list-of-everything.html",
+        "evidence": "Official work list identifies She Sings, She Screams (1995), alto saxophone and tape, Effiny Music.",
+        "access_method": "web opened official composer page"
+      },
+      {
+        "url": "https://markengebretson.weebly.com/publishers-and-labels.html",
+        "evidence": "Live browser page links Sheet Music Plus for many scores and parts and supplies engebretson at uncg.edu for some computer/electronic works.",
+        "access_method": "live browser AX"
+      },
+      {
+        "url": "https://www.sheetmusicplus.com/en/explore?q=%22mark+engebretson%22",
+        "evidence": "Unfiltered search reports 33 results. Both pages inspected. Assigned titles absent.",
+        "access_method": "live browser AX, pages 1 and 2"
+      },
+      {
+        "url": "https://shop.apoll-edition.work/index.php?route=product%2Fsearch&search=engebretson",
+        "evidence": "Current linked Apoll shop could not be inspected because the browser reported ERR_CERT_COMMON_NAME_INVALID.",
+        "access_method": "browser navigation, certificate failure"
+      }
+    ],
+    "findings": "Official work list identifies She Sings, She Screams (1995), alto saxophone and tape, Effiny Music. The live official Publishers and Labels page refers customers to Sheet Music Plus. Both unfiltered distributor result pages were checked. None of these six assigned titles appears among the 33 results.",
+    "uncertainty": "No exact current score product or explicit work-specific ordering instruction was verified. The composer policy for some electronic works is an inquiry lead. Apoll shop access failed with a certificate-name error; no warning was bypassed. The electroacoustic section says to contact the composer for performance materials for most works unless otherwise noted. This exact work is otherwise noted as Effiny Music, so the policy does not establish a direct order route.",
+    "next_action": "Ask the composer for the current authorized score source, price, delivery format and materials included.",
+    "suggested_contact_url": "https://markengebretson.weebly.com/publishers-and-labels.html",
+    "suggested_inquiry": "Could you identify the current authorized source for She Sings, She Screams? Please confirm whether the score and all required parts can be ordered, the price, delivery format, and the publisher or distributor link. Please include the playback files, software or patch requirements, and any performance instructions for the electronics.",
+    "research_complete": true,
+    "checked_date": "2026-10-20"
+  },
+  {
+    "file": "content/works/Mark Engebretson - The Bear.md",
+    "status": "uncertain",
+    "routes": [],
+    "sources": [
+      {
+        "url": "https://markengebretson.weebly.com/uber-list-of-everything.html",
+        "evidence": "Official work list identifies The Bear (2000), four baritone saxophones.",
+        "access_method": "web opened official composer page"
+      },
+      {
+        "url": "https://markengebretson.weebly.com/publishers-and-labels.html",
+        "evidence": "Live browser page links Sheet Music Plus for many scores and parts and supplies engebretson at uncg.edu for some computer/electronic works.",
+        "access_method": "live browser AX"
+      },
+      {
+        "url": "https://www.sheetmusicplus.com/en/explore?q=%22mark+engebretson%22",
+        "evidence": "Unfiltered search reports 33 results. Both pages inspected. Assigned titles absent.",
+        "access_method": "live browser AX, pages 1 and 2"
+      },
+      {
+        "url": "https://shop.apoll-edition.work/index.php?route=product%2Fsearch&search=engebretson",
+        "evidence": "Current linked Apoll shop could not be inspected because the browser reported ERR_CERT_COMMON_NAME_INVALID.",
+        "access_method": "browser navigation, certificate failure"
+      }
+    ],
+    "findings": "Official work list identifies The Bear (2000), four baritone saxophones. The live official Publishers and Labels page refers customers to Sheet Music Plus. Both unfiltered distributor result pages were checked. None of these six assigned titles appears among the 33 results.",
+    "uncertainty": "No exact current score product or explicit work-specific ordering instruction was verified. The composer policy for some electronic works is an inquiry lead. Apoll shop access failed with a certificate-name error; no warning was bypassed.",
+    "next_action": "Ask the composer for the current authorized score source, price, delivery format and materials included.",
+    "suggested_contact_url": "https://markengebretson.weebly.com/publishers-and-labels.html",
+    "suggested_inquiry": "Could you identify the current authorized source for The Bear? Please confirm whether the score and all required parts can be ordered, the price, delivery format, and the publisher or distributor link.",
+    "research_complete": true,
+    "checked_date": "2026-10-20"
+  },
+  {
+    "file": "content/works/Mark Engebretson - The Light in Your Eyes.md",
+    "status": "uncertain",
+    "routes": [],
+    "sources": [
+      {
+        "url": "https://markengebretson.weebly.com/uber-list-of-everything.html",
+        "evidence": "Official work list identifies The Light in Your Eyes (1993), alto saxophone duo.",
+        "access_method": "web opened official composer page"
+      },
+      {
+        "url": "https://markengebretson.weebly.com/publishers-and-labels.html",
+        "evidence": "Live browser page links Sheet Music Plus for many scores and parts and supplies engebretson at uncg.edu for some computer/electronic works.",
+        "access_method": "live browser AX"
+      },
+      {
+        "url": "https://www.sheetmusicplus.com/en/explore?q=%22mark+engebretson%22",
+        "evidence": "Unfiltered search reports 33 results. Both pages inspected. Assigned titles absent.",
+        "access_method": "live browser AX, pages 1 and 2"
+      },
+      {
+        "url": "https://shop.apoll-edition.work/index.php?route=product%2Fsearch&search=engebretson",
+        "evidence": "Current linked Apoll shop could not be inspected because the browser reported ERR_CERT_COMMON_NAME_INVALID.",
+        "access_method": "browser navigation, certificate failure"
+      }
+    ],
+    "findings": "Official work list identifies The Light in Your Eyes (1993), alto saxophone duo. The live official Publishers and Labels page refers customers to Sheet Music Plus. Both unfiltered distributor result pages were checked. None of these six assigned titles appears among the 33 results.",
+    "uncertainty": "No exact current score product or explicit work-specific ordering instruction was verified. The composer policy for some electronic works is an inquiry lead. Apoll shop access failed with a certificate-name error; no warning was bypassed.",
+    "next_action": "Ask the composer for the current authorized score source, price, delivery format and materials included.",
+    "suggested_contact_url": "https://markengebretson.weebly.com/publishers-and-labels.html",
+    "suggested_inquiry": "Could you identify the current authorized source for The Light in Your Eyes? Please confirm whether the score and all required parts can be ordered, the price, delivery format, and the publisher or distributor link.",
+    "research_complete": true,
+    "checked_date": "2026-10-20"
+  },
+  {
+    "file": "content/works/Modest Mussorgsky - Il Vecchio Castello.md",
+    "status": "uncertain",
+    "routes": [],
+    "sources": [
+      {
+        "url": "https://www.ficksmusic.com/products/the-orchestral-saxophonist-volume-i-northeastern",
+        "evidence": "Live product identifies Bruce Ronkin and Robert Frascotti, The Orchestral Saxophonist Volume I, N1046, ISBN 9780984208807, $25.99, in stock, typically ships within 1 business day, enabled cart. Does not list the individual excerpts.",
+        "access_method": "live browser AX; canonical breadcrumb URL observed"
+      },
+      {
+        "url": "https://www.jwpepper.com/orchestral-saxophonist-7411788/p",
+        "evidence": "Opened retailer contents list Pictures at an Exhibition by Moussorgsky/Ravel, N1046, matching ISBN. Exact Old Castle excerpt text was not displayed.",
+        "access_method": "web opened"
+      },
+      {
+        "url": "https://www.juneemersonwindmusic.com/THE-ORCHESTRAL-SAXOPHONIST-Volume-1.html",
+        "evidence": "Indexed retailer contents independently list Pictures at an Exhibition for Ronkin/Frascotti N1046.",
+        "access_method": "web indexed; direct open failed"
+      }
+    ],
+    "findings": "A current orderable Ronkin/Frascotti Volume I collection is verified. The collection contents include Pictures at an Exhibition. Existing catalog body points to The Orchestral Saxophone, but no exact excerpt page was inspected to identify this as Tim's intended edition.",
+    "uncertainty": "The catalog lists alto saxophone, piano, and orchestra. It may refer to an orchestral excerpt or to a standalone piano arrangement. N1046 remains a candidate until the exact excerpt and intended edition are compared.",
+    "next_action": "Tim should compare the Old Castle page in his intended collection or score with Ronkin/Frascotti Volume I N1046. If the orchestral excerpt is intended, label its collection purchase explicitly. If a piano arrangement is intended, identify its arranger and edition before linking.",
+    "suggested_contact_url": "https://www.ficksmusic.com/pages/contact-us",
+    "suggested_inquiry": "Could you confirm that The Orchestral Saxophonist Volume I, N1046, ISBN 9780984208807, includes the alto saxophone excerpt from Il vecchio castello in Ravel's orchestration of Mussorgsky's Pictures at an Exhibition? A contents or sample page identifying the passage would resolve the edition.",
+    "research_complete": true,
+    "checked_date": "2026-10-20"
+  },
+  {
+    "file": "content/works/Randall Snyder - Juggernaut.md",
+    "status": "uncertain",
+    "routes": [],
+    "sources": [
+      {
+        "url": "https://digitalcommons.unl.edu/musicsnyder/37/",
+        "evidence": "Same-day repository investigation documents that the Juggernaut item is withdrawn. Its abstract identifies tenor saxophone, horn in F, trombone, 20 pages, copyright 2007.",
+        "access_method": "same-day parent repository review; direct web retry cache miss"
+      },
+      {
+        "url": "https://composers.com/collections/randall-snyder",
+        "evidence": "Current publisher composer collection supplies a public referral context for Randall Snyder. It has eight products and none is Juggernaut.",
+        "access_method": "web indexed current publisher collection"
+      }
+    ],
+    "findings": "The withdrawn UNL record and existing local PDF remain historical evidence. The parent's same-day investigations covered Dorn, Southern, J.P., Brixton, Vienna and Universal Edition without verifying a current exact route. No new exact authoritative order lead emerged.",
+    "uncertainty": "Current score distribution and permission terms are unknown. Neither a withdrawn repository listing nor an existing local PDF establishes a present purchase route.",
+    "next_action": "Ask Snyder or his publisher contact for the current authorized score/parts source. Use the publisher composer collection to request a referral if a verified direct composer contact is unavailable. Preserve the existing local file.",
+    "suggested_contact_url": "https://composers.com/collections/randall-snyder",
+    "suggested_inquiry": "Could you forward this score-source inquiry to Randall Snyder or identify the appropriate contact? I am seeking the current authorized source for Juggernaut, for tenor saxophone, horn in F and trombone, 20 pages, copyright 2007. The former UNL record is withdrawn. Please confirm current purchase or permission terms and score/parts availability.",
+    "research_complete": true,
+    "checked_date": "2026-10-20"
+  }
+]

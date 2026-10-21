@@ -1,0 +1,47 @@
+{
+  "run_number": 130,
+  "filename": "Pierre Petit - Saxopera.md",
+  "path": "content/works/Pierre Petit - Saxopera.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": "Pierre Petit: Saxopéra",
+  "findings": [
+    "The Philharmonie de Paris pedagogical bibliography identifies alto saxophone and piano, Leduc AL20976, duration 1:40 and date 1952.",
+    "That bibliography describes a lively 6/8 miniature, mainly two-note slurs, accents, dotted rhythms and a written low-G to high-F-sharp span. These are source-reported observations, not direct score inspection.",
+    "Québec's conservatoire external curriculum includes the work in its preconservatory repertoire. It warrants a pre-college teaching-context flag."
+  ],
+  "evidence": [
+    {
+      "claim": "Instrumentation, date, Leduc AL20976, duration and source-reported notation description",
+      "url": "https://mediatheque.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+      "source_name": "Philharmonie de Paris: 10 ans avec le saxophone",
+      "kind": "institutional bibliography",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Preconservatory repertoire context",
+      "url": "https://www.conservatoire.gouv.qc.ca/media/0oulvph0/cmadq-progexternes-saxophone.pdf",
+      "source_name": "Conservatoire de musique et d'art dramatique du Québec",
+      "kind": "curriculum",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {},
+  "score_observations": [],
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [],
+  "collection_flag": "Source places this short work in pre-college repertoire; no SaxoBrain year level proposed.",
+  "gaps": [
+    "Bibliography PDF retrieval failed; source details remain search-index evidence.",
+    "1952 in the specialist guide conflicts with 1955 in unsourced general worklists; composition date not filled.",
+    "No exact current purchase page, recording or authorized score inspected."
+  ],
+  "searches": [
+    "Pierre Petit Saxopera",
+    "Pierre Petit Saxopera saxophone",
+    "Pierre Petit Saxopera AL20976 Leduc",
+    "Saxopera Petit score"
+  ],
+  "proposed_corrections": []
+}

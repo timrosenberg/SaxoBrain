@@ -1,0 +1,48 @@
+{
+  "run_number": 161,
+  "filename": "Tokuhide Niimi - La Valse F.md",
+  "path": "content/works/Tokuhide Niimi - La Valse F.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": "Tokuhide Niimi: La Valse F, A.E.29, alto saxophone and piano",
+  "findings": [
+    "Publisher specifies alto/piano, three connected movements, about 16:30, score 48 pages plus 16-page part; Zen-On commission premiered 6 December 2013, Tsuda Hall, by Nobuya Sugawa and Masayuki Nakamura.",
+    "Publisher work page dates composition 2013 and rounds duration to seventeen minutes."
+  ],
+  "evidence": [
+    {
+      "claim": "Publisher specifies alto/piano, three connected movements, about 16:30, score 48 pages plus 16-page part; Zen-On commission premiered 6 December 2013, Tsuda Hall, by Nobuya Sugawa and Masayuki Nakamura.",
+      "url": "https://shop.zen-on.co.jp/downloads/detail/56002600/",
+      "source_name": "Zen-On",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Publisher work page dates composition 2013 and rounds duration to seventeen minutes.",
+      "url": "https://www.zen-on.co.jp/en/publishing/cr/composers/works/detail/482/",
+      "source_name": "Zen-On",
+      "kind": "publisher",
+      "access": "opened"
+    }
+  ],
+  "metadata": {
+    "instruments": [
+      "Alto"
+    ]
+  },
+  "score_observations": "",
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [],
+  "collection_flag": "Original substantial concert work with documented professional premiere.",
+  "gaps": [
+    "No exact recording or solo notation inspected."
+  ],
+  "searches": [
+    "Tokuhide Niimi La Valse F",
+    "Niimi La Valse F alto saxophone score recording"
+  ],
+  "proposed_corrections": [
+    "Replace broad Any Sax tag with Alto when desired; exact edition specifies alto."
+  ]
+}

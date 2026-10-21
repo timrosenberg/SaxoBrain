@@ -1,0 +1,61 @@
+{
+  "run_number": 32,
+  "filename": "Daniel Lefebvre - Diptyque.md",
+  "path": "content/works/Daniel Lefebvre - Diptyque.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "notation_inspected": false,
+  "score_observations": [],
+  "score_links": [],
+  "listening": [],
+  "collection_flag": null,
+  "identity": "Diptyque / Dyptique, Daniel Lefebvre",
+  "findings": [
+    "Current catalog already contains extensive prior research; this pass preserves it.",
+    "Live Groth confirms Maurer MAURER04, alto saxophone and piano, score plus solo part, six pages.",
+    "Alternate-spelling Presto entry Dyptique supplies J. Maurer MAUEJM1345 and ISMN 9790365605064.",
+    "Groth gallery contains only a single product cover image, so it does not provide notation evidence."
+  ],
+  "evidence": [
+    {
+      "claim": "MAURER04, score plus part, six pages, alto/piano",
+      "url": "https://www.grothmusic.com/p-142041.aspx",
+      "source_name": "Groth Music",
+      "kind": "retailer",
+      "access": "opened"
+    },
+    {
+      "claim": "Dyptique alternate spelling, MAUEJM1345, ISMN",
+      "url": "https://www.prestomusic.com/sheet-music/products/7825253--daniel-lefebvre-dyptique",
+      "source_name": "Presto Music",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {
+    "publisher": [
+      "Maurer"
+    ],
+    "instruments": [
+      "Alto Saxophone",
+      "Piano"
+    ],
+    "purchase": [
+      "https://www.grothmusic.com/p-142041.aspx"
+    ],
+    "arranger-edition": [
+      "Groth MAURER04; Presto MAUEJM1345; ISMN 9790365605064, edition equivalence requires cover/plate verification"
+    ]
+  },
+  "gaps": [
+    "No public notation preview from Groth.",
+    "Composition date, duration, two-part form details, provenance and exact recording remain unresolved.",
+    "Alternate retailer identifiers may refer to the same edition but this is not proved by plate inspection."
+  ],
+  "searches": [
+    "Daniel Lefebvre Diptyque saxophone",
+    "Daniel Lefebvre Diptyque Maurer score recording",
+    "Daniel Lefebvre Diptyque saxophone partition Maurer"
+  ],
+  "proposed_corrections": []
+}

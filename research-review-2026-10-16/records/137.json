@@ -1,0 +1,64 @@
+{
+  "run_number": 137,
+  "filename": "Reginald Heath - Reflections.md",
+  "path": "content/works/Reginald Heath - Reflections.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": "Reginald Heath: Reflections",
+  "findings": [
+    "CDMC's exact score record confirms E-flat alto saxophone and piano, Studio Music, London, published 1977, seven pages.",
+    "The same title also exists for flugelhorn and brass band. That edition's ISMN9790050030324 must not be transferred to the saxophone score.",
+    "Trinity's 2015 saxophone syllabus places Reflections in Grade 4 repertoire. This is an external examination context suggesting pre-college teaching use."
+  ],
+  "evidence": [
+    {
+      "claim": "Exact saxophone edition,1977 publication,7pp and publisher",
+      "url": "https://windmusic.org/index.php?lvl=notice_display&id=16014",
+      "source_name": "CDMC Alsace library catalog",
+      "kind": "library catalog",
+      "access": "opened"
+    },
+    {
+      "claim": "Distinct flugelhorn and brass-band edition",
+      "url": "https://www.prestomusic.com/sheet-music/products/7895079--reginald-heath-reflections",
+      "source_name": "Presto Music",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "External Grade 4 context",
+      "url": "https://www.trinityexamsthailand.com/downloads/syllabuses/Woodwind%20Syllabus%202015%20%281st%20impression%29.pdf",
+      "source_name": "Trinity College London 2015 syllabus hosted by Trinity Exams Thailand",
+      "kind": "exam syllabus",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {
+    "publisher": [
+      "Studio Music"
+    ],
+    "instruments": [
+      "Alto Saxophone",
+      "Piano"
+    ],
+    "library-score": [
+      "https://windmusic.org/index.php?lvl=notice_display&id=16014"
+    ]
+  },
+  "score_observations": [],
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [],
+  "collection_flag": "External syllabus places this in pre-college teaching repertoire; no SaxoBrain year level assigned.",
+  "gaps": [
+    "Composition date, exact saxophone edition number, duration, movements and recording not verified.",
+    "No actual notation inspected.",
+    "Historical examination placement remains search-index evidence."
+  ],
+  "searches": [
+    "Reginald Heath Reflections",
+    "Heath Reflections alto saxophone piano sheet music",
+    "Reginald Heath Reflections Studio"
+  ],
+  "proposed_corrections": []
+}

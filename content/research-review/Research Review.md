@@ -9,11 +9,29 @@ build:
 
 # Research Review
 
+> [!info] Final active batch complete, October 20, 2026
+> [[Remaining Repertoire - Score Batch 05|View all 29 decisions]]. Eight new levels, fourteen removals, two duplicate merges and five holds are applied or recorded. The active pool is empty. All 21 unassigned works are on Hold.
+
+> [!info] Score Batch 04 complete, October 20, 2026
+> [[Remaining Repertoire - Score Batch 04|View the completed batch]]. Seven levels assigned, fifteen works removed and three retained with difficulty unknown. All 25 decisions are recorded.
+
+> [!info] Score Batch 03 complete, October 20, 2026
+> [[Remaining Repertoire - Score Batch 03|View the completed batch]]. 15 levels assigned, eight works removed and two retained with difficulty unknown. All 25 decisions are recorded.
+
+> [!info] Score Batch 02 complete, October 20, 2026
+> [[Remaining Repertoire - Score Batch 02|View the completed batch]]. Tim assigned 20 levels and removed five works. All 25 decisions are applied.
+
+> [!info] Decision queue prepared October 16, 2026
+> [[Remaining Repertoire - Decision Queue|Open the current decision queue]]: three completed removals, 25 completed score decisions, ten pending identity/edition proposals and a separate difficulty-unknown group.
+
+> [!info] Fresh research, October16,2026
+> [[Remaining Repertoire Research - 2026-10-16|Remaining Repertoire Research]] covers all 182 works unassigned at the start of the pass. New findings are on the work pages. No new level proposals or decisions were applied.
+
 Research for 409 works, completed October 11, 2026. Each work has its own review note. Review IDs match the original research archive. Chat batches use their own consecutive decision numbers.
 
 ## Start Here
 
-Current chat batch: [[Chat Batch 17]]. Decisions recorded October 15, 2026: 18 new level assignments, 13 removals, 6 retained with difficulty unknown, and 1 existing Third Year assignment confirmed. No approvals remain pending for this batch. The six held works await further evidence.
+Previous chat batch: [[Chat Batch 17]]. Decisions recorded October 15, 2026: 18 new level assignments, 13 removals, 6 retained with difficulty unknown, and 1 existing Third Year assignment confirmed. No approvals remain pending for this batch. The six held works await further evidence.
 
 1. Ask Codex for the next short review batch in chat, or open [[Research Packet 01]].
 2. Give decisions by number in chat, or enter them in `review-decision` in the table below.

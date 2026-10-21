@@ -9,7 +9,8 @@ instruments:
 composed: 
 year-of-study: "Advanced"
 streaming: "https://youtu.be/VcSx0gnFAdA?si=wbRHkHEVsHxhQLOm"
-purchase: []
+purchase:
+  - "Composer's website · https://marcosbalter.com/"
 added: 2024-02-21
 aliases: []
 ---

@@ -10,7 +10,8 @@ composed:
 year-of-study: "Fourth Year"
 arranger-edition: 
 streaming: 
-purchase: []
+purchase:
+  - "score (Dorn) · https://www.grothmusic.com/p-141634-we-sing-to-each-other-alto-saxophone-unaccompanied.aspx"
 added: 2026-10-09
 aliases: []
 ---

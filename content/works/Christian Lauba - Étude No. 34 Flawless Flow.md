@@ -9,7 +9,8 @@ instruments:
 composed: 
 year-of-study: "Advanced"
 streaming: "https://youtu.be/jcKxaYLwAj8?si=7gbKYyAnQH0OJCxR"
-purchase: []
+purchase:
+  - "https://resolute-music.com/products/flawless-flow-etude-34"
 added: 2024-02-24
 aliases: []
 ---

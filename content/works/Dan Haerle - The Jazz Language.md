@@ -13,7 +13,8 @@ tags:
 composed: 
 year-of-study: "First Year"
 streaming: 
-purchase: []
+purchase:
+  - "jazz theory book · https://www.alfred.com/products/the-jazz-language-a-theory-text-for-jazz-composition-and-improvisation-00-sb75"
 added: 2019-08-25
 aliases: []
 ---

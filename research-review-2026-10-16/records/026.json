@@ -1,0 +1,62 @@
+{
+  "run_number": 26,
+  "filename": "Claude T. Smith - Sonata No. 1.md",
+  "path": "content/works/Claude T. Smith - Sonata No. 1.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "notation_inspected": false,
+  "score_observations": [],
+  "score_links": [],
+  "listening": [],
+  "collection_flag": null,
+  "identity": "Likely Charles W. Smith, Sonata No.1 (1989); current Claude T. Smith attribution unsupported",
+  "findings": [
+    "Hal Leonard/Southern Music exact title Sonata No.1 (1989) is attributed to Charles W. Smith, SU194 / HL3776036, 44 pages, publisher Grade 5.",
+    "A matching retailer explicitly describes alto saxophone and piano.",
+    "Claude T. Smith Publications' 2025 complete composition compilation contains no occurrence of Sonata.",
+    "Tommy Smith also has a different Sonata No.1, Hall of Mirrors, for soprano/tenor and piano. This is a separate candidate and must not be conflated with the alto edition."
+  ],
+  "evidence": [
+    {
+      "claim": "Charles W. Smith, SU194, 44 pages, 1989 in title",
+      "url": "https://www.halleonard.com/product/3776036/sonata-no-1-1989",
+      "source_name": "Hal Leonard / Southern Music",
+      "kind": "primary",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Alto saxophone and piano",
+      "url": "https://www.alle-noten.de/Kuenstler/Charles-W-Smith/",
+      "source_name": "alle-noten.de",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Estate compilation has no Sonata title",
+      "url": "https://claudetsmith.com/wp-content/uploads/2025/01/Compliation-of-Compositions-of-Claude-T-Smith-02.01.2025.pdf",
+      "source_name": "Claude T. Smith Publications",
+      "kind": "primary",
+      "access": "opened"
+    }
+  ],
+  "metadata": {},
+  "gaps": [
+    "Confirm owned/intended edition before changing composer.",
+    "No original notation or exact recording verified.",
+    "1989 appears in edition title; not independently established as composition date."
+  ],
+  "searches": [
+    "Claude T Smith Sonata No 1 saxophone",
+    "\"Claude T. Smith\" \"Sonata\"",
+    "\"Claude T Smith\" \"Sonata No. 1\"",
+    "\"Smith\" \"Sonata No. 1\" \"saxophone\" Claude",
+    "Charles W Smith Sonata SU194 Southern Music"
+  ],
+  "proposed_corrections": [
+    {
+      "field": "composer",
+      "suggestion": "Charles W. Smith if SU194 is intended",
+      "reason": "Exact alto saxophone sonata title and publisher edition consistently attribute Charles W. Smith, not Claude T. Smith."
+    }
+  ]
+}

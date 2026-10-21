@@ -92,3 +92,7 @@ Concerto is originally for alto saxophone and string orchestra. General Music Pu
 Tim retained the work with difficulty unknown. The catalog level remains unassigned.
 
 **Tim’s decision:** Hold. Recorded 2026-10-15.
+
+### Research checked October 16, 2026
+
+Updated sources, notation observations and unresolved questions are in [[Harold Farberman - Concerto|the catalog work’s private research notes]]. See [[Remaining Repertoire Research - 2026-10-16|the complete research overview]]. Your existing review decision is unchanged.

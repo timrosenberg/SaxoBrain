@@ -1,0 +1,71 @@
+{
+  "run_number": 61,
+  "filename": "Henk Klop - L'exposition de Peinture.md",
+  "path": "content/works/Henk Klop - L'exposition de Peinture.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": {
+    "title": "L'exposition de Peinture",
+    "composer": [
+      "[[Henk Klop]]"
+    ]
+  },
+  "findings": [
+    "Henk Klop's official website links this exact alto saxophone and piano title to Donemus work 14848.",
+    "The live Donemus page gives composition year 1985, duration 10 minutes, two players, and instrumentation sax-a pf.",
+    "Donemus sells a 26-page score and seven-page instrumental part as PDF, Newzik, and print. No public notation preview was exposed in the retrieved page.",
+    "The catalog's existing Alexander Street link contains a score entity even though stored under library-recording; preserve for access review."
+  ],
+  "evidence": [
+    {
+      "claim": "Official composer work list and exact publisher link",
+      "url": "https://www.henkklop.nl/",
+      "source_name": "Henk Klop official estate website",
+      "kind": "composer",
+      "access": "opened"
+    },
+    {
+      "claim": "1985; 10 minutes; alto saxophone/piano; Donemus 14848; score 26 pages/part 7 pages; purchase formats",
+      "url": "https://webshop.donemus.nl/action/front/sheetmusic/14848",
+      "source_name": "Donemus Publishing",
+      "kind": "publisher",
+      "access": "opened"
+    }
+  ],
+  "metadata": {
+    "composed": 1985,
+    "publisher": [
+      "Donemus, 14848"
+    ],
+    "instruments": [
+      "Alto Saxophone",
+      "Piano"
+    ],
+    "purchase": [
+      "https://webshop.donemus.nl/action/front/sheetmusic/14848"
+    ]
+  },
+  "score_observations": [],
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [],
+  "collection_flag": null,
+  "gaps": [
+    "No exact recording or score notation inspected.",
+    "Movement titles, dedication/premiere and technical demands remain unresolved."
+  ],
+  "searches": [
+    "Henk Klop L'exposition de Peinture",
+    "Henk Klop exposition",
+    "L'exposition de peinture Klop saxophone",
+    "L'exposition de peinture saxophone Donemus",
+    "Klop exposition Donemus"
+  ],
+  "proposed_corrections": [
+    {
+      "field": "library-recording",
+      "suggestion": "Review for library-score",
+      "reason": "Existing Alexander Street URL is explicitly a score entity, not a verified recording."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "run_number": 64,
+  "filename": "Hitomi Kaneko - Vitamin C.md",
+  "path": "content/works/Hitomi Kaneko - Vitamin C.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": {
+    "title": "Vitamin C",
+    "composer": [
+      "[[Hitomi Kaneko]]"
+    ]
+  },
+  "findings": [
+    "Zen-On's live work page confirms full title Vitamin C: Composition by 3D Modeling V (2019), for two alto saxophonists, 14 minutes.",
+    "Commissioned by Zen-On and premiered 13 December 2019 in Tokyo by Nobuya Sugawa and Masanori Oishi.",
+    "EAM distributor press kit embeds an exact Vitamin C performance. The catalog purchase URL is a work/inquiry page rather than confirmed retail checkout."
+  ],
+  "evidence": [
+    {
+      "claim": "2019; two alto saxophonists; 14 minutes; commission and premiere",
+      "url": "https://www.zen-on.co.jp/en/publishing/cr/composers/works/detail/575/",
+      "source_name": "Zen-On composer/work catalog",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Exact Vitamin C performance embed",
+      "url": "https://www.eamdc.com/audio/presskit/d810fe04-29cb-4bad-aee5-d4122f56306e/",
+      "source_name": "European American Music Distributors Company",
+      "kind": "publisher distributor",
+      "access": "opened"
+    }
+  ],
+  "metadata": {
+    "composed": 2019,
+    "publisher": [
+      "Zen-On, work/inquiry catalog"
+    ],
+    "instruments": [
+      "Two Alto Saxophones"
+    ],
+    "arranger-edition": [
+      "Vitamin C: Composition by 3D Modeling V"
+    ],
+    "streaming": "https://www.youtube.com/watch?v=PtsS3ISPXGg"
+  },
+  "score_observations": [],
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [
+    {
+      "url": "https://www.youtube.com/watch?v=PtsS3ISPXGg",
+      "description": "Vitamin C, publisher distributor-linked video",
+      "verification": "Mapped from EAM's exact Vitamin C heading to its embedded video; individual video retrieval failed, so performer identities in that video remain unverified."
+    }
+  ],
+  "collection_flag": {
+    "context": "14-minute professional saxophone duo commissioned by Zen-On and premiered by Sugawa/Oishi."
+  },
+  "gaps": [
+    "No actual notation or retail score number verified.",
+    "Publication availability should be requested through the publisher inquiry page; do not claim a downloadable score exists."
+  ],
+  "searches": [
+    "Hitomi Kaneko Vitamin C saxophone",
+    "Vitamin C Kaneko saxophone",
+    "Vitamin C Kaneko Sugawa",
+    "Vitamin C Kaneko saxophone youtube"
+  ],
+  "proposed_corrections": []
+}

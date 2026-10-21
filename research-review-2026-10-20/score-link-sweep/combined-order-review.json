@@ -1,0 +1,16 @@
+[
+  {
+    "batch": 2,
+    "file": "content/works/Mark Engebretson - She Sings, She Screams.md",
+    "name": "Mark Engebretson - She Sings, She Screams",
+    "old_status": "composer-order",
+    "status": "lead",
+    "purchase_url": null,
+    "source_urls": [
+      "https://markengebretson.weebly.com/publishers-and-labels.html",
+      "https://markengebretson.weebly.com/uber-list-of-everything.html"
+    ],
+    "evidence": "Independent live browser audit of the official Publishers and Labels page found only: 'For some pieces with computer and/or electronics, please email engebretson at uncg.edu'. The page links SheetMusicPlus for many scores and parts, but gives no explicit purchase or order instructions for She Sings, She Screams.",
+    "notes": "Replace composer-order with lead and clear purchase_url. Retain the official publisher/contact page in source_urls as an inquiry lead. Availability, price, score delivery, and electronics files remain unknown. Other composer-order claims in batches2 and3 were retained after explicit purchase/order language was rechecked; verified-purchase rows had no additional obvious mismatch beyond their existing caveats in this narrow audit."
+  }
+]

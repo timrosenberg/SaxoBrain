@@ -9,7 +9,8 @@ instruments:
 composed: 
 year-of-study: "Third Year"
 streaming: "https://music.apple.com/us/album/soprano-saxophone-sonata-i-allegro-moderato/1606452820?i=1606452832"
-purchase: []
+purchase:
+  - "Score inquiries · https://www.totheforepublishers.com/order.php"
 added: 2025-04-18
 research:
   - "An Apple Music album lists 'Robert Sibbing: Soprano Saxophone Sonata' (A. Harberg album, with Paul Cohen, saxophone) · https://classical.music.apple.com/cd/album/1606452820"
@@ -19,6 +20,10 @@ aliases: []
 publisher:
   - "To the Fore Publishers"
 ---
+## Score inquiries
+
+Contact [To the Fore Publishers](https://www.totheforepublishers.com/order.php) for score inquiries about *Sonata* for soprano saxophone and piano.
+
 ## Research notes (private)
 
 ### Chat Batch 16 Follow-Up, October 15, 2026

@@ -1,0 +1,72 @@
+{
+  "run_number": 46,
+  "filename": "Fritz Jakma - Cavatine.md",
+  "path": "content/works/Fritz Jakma - Cavatine.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "notation_inspected": false,
+  "score_observations": [],
+  "score_links": [],
+  "listening": [],
+  "collection_flag": "Retailer2+indicates educational context; no score-based difficulty or college use established.",
+  "identity": "Frits Jakma,Cavatine,for soprano or tenor saxophone and piano; publisher supports spelling Frits.",
+  "findings": [
+    "Tierolff's indexed soprano catalogue explicitly identifies Frits Jakma,Cavatine,solo for soprano/tenor saxophone or B-flat brass instruments with piano.",
+    "HeBu indexed exact soprano/tenor edition301028 rates2+; this is a retailer scale.",
+    "Current soprano-only instrumentation omits piano; no score establishes unaccompanied version.",
+    "Tierolff direct fetch returned bot-verification page,so publisher metadata remains index-only."
+  ],
+  "evidence": [
+    {
+      "claim": "Exact composer,instrument alternatives and piano",
+      "url": "https://tierolff.nl/en/sheetmusic-for-solo-duo-trio-quartet-ensemble/music-for-saxophones/solo-soprano-saxophone.html",
+      "source_name": "Tierolff",
+      "kind": "primary",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Soprano/tenor edition301028,retailer2+",
+      "url": "https://www.hebu-music.com/en/musician/frits-jakma.14102/?layout=line&page=1",
+      "source_name": "HeBu",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {
+    "publisher": [
+      "Tierolff"
+    ],
+    "instruments": [
+      "Soprano or tenor saxophone",
+      "Piano"
+    ]
+  },
+  "gaps": [
+    "Composition date,duration,edition code and actual notation not verified.",
+    "No exact recording found.",
+    "Public publisher samples could not be reached because bot verification blocked access."
+  ],
+  "searches": [
+    "Fritz Jakma Cavatine",
+    "Jakma Cavatine",
+    "Jakma Cavatine saxophone",
+    "Jakma Cavatine soprano piano Tierolff",
+    "Cavatine Frits Jakma saxophone recording"
+  ],
+  "proposed_corrections": [
+    {
+      "field": "composer",
+      "current": "Fritz Jakma",
+      "suggested": "Frits Jakma",
+      "reason": "Publisher exact-title attribution uses Frits; preserve aliases if approved."
+    },
+    {
+      "field": "instruments",
+      "suggested": [
+        "Soprano or tenor saxophone",
+        "Piano"
+      ],
+      "reason": "Publisher identifies accompaniment and alternatives."
+    }
+  ]
+}

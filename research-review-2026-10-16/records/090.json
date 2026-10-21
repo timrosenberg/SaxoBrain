@@ -1,0 +1,67 @@
+{
+  "run_number": 90,
+  "filename": "L.A. Logrande - Scattering Light.md",
+  "path": "content/works/L.A. Logrande - Scattering Light.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": "L.A. Logrande: Scattering Light (2015)",
+  "findings": [
+    "Noa Even's Saxophone Repository identifies Scattering Light (2015),7:45, for soprano saxophone and piano.",
+    "College Music Society 2017 composer biography states Andy Wen premiered it at the 2015 World Saxophone Congress in Strasbourg.",
+    "College Music Society 2019 Great Lakes program lists a subsequent performance by Aaron Durst, saxophone, and Mark Pruett, piano.",
+    "The repository links the same YouTube URL already present in SaxoBrain. Direct video metadata retrieval failed, so named recording personnel remain unverified."
+  ],
+  "evidence": [
+    {
+      "claim": "2015, date, duration, scoring and exact existing audio link association",
+      "url": "https://www.noaevenmusic.com/saxandpiano",
+      "source_name": "Noa Even, The Saxophone Repository",
+      "kind": "performer repertoire catalog",
+      "access": "opened"
+    },
+    {
+      "claim": "Andy Wen world premiere at 2015 Strasbourg congress",
+      "url": "https://www.music.org/pdf/conf/reg/ma/2017schedule.pdf",
+      "source_name": "College Music Society 2017 Mid-Atlantic conference booklet",
+      "kind": "professional conference",
+      "access": "opened"
+    },
+    {
+      "claim": "2019 performance by Durst and Pruett",
+      "url": "https://www.music.org/pdf/conf/reg/gl/2019schedule.pdf",
+      "source_name": "College Music Society Great Lakes 2019",
+      "kind": "professional conference",
+      "access": "opened"
+    }
+  ],
+  "metadata": {
+    "composed": "2015",
+    "instruments": [
+      "Soprano Saxophone",
+      "Piano"
+    ]
+  },
+  "score_observations": [],
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [
+    {
+      "url": "https://www.youtube.com/watch?v=LCAeEbxewXU",
+      "description": "Exact existing catalog audio link, corroborated by Noa Even's repository",
+      "verification": "Title/composer/instrument association confirmed through curated performer page; direct video and performer metadata could not be verified. No audio auditioned."
+    }
+  ],
+  "collection_flag": null,
+  "gaps": [
+    "No publisher, purchase route, ISMN, score link or actual notation located.",
+    "Full composer name and recording personnel remain unverified."
+  ],
+  "searches": [
+    "L A Logrande Scattering Light",
+    "Logrande Scattering Light saxophone",
+    "L A Logrande Scattering Light score",
+    "Scattering Light Logrande score purchase",
+    "Scattering Light LCAeEbxewXU"
+  ],
+  "proposed_corrections": []
+}

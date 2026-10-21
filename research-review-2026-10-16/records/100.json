@@ -1,0 +1,68 @@
+{
+  "run_number": 100,
+  "filename": "Lucie Robert-Diessel - Sonate.md",
+  "path": "content/works/Lucie Robert-Diessel - Sonate.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": "Sonate for alto saxophone and piano by Lucie Robert",
+  "findings": [
+    "Billaudot identifies alto saxophone and piano, plate EFM1732, 38 pages, copyright 1974.",
+    "BnF identifies the original imprint as Éditions françaises de musique-Technisonor (1974).",
+    "UNT doctoral research includes the Sonata in a bibliography of college alto saxophone repertoire. The reported year placement is not adopted as a SaxoBrain level."
+  ],
+  "evidence": [
+    {
+      "claim": "Instrumentation, plate, page count, copyright",
+      "url": "https://www.billaudot.com/sonate-186.html",
+      "source_name": "Éditions Billaudot",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Original imprint and publication 1974",
+      "url": "https://catalogue.bnf.fr/rechercher.do?index=AUT3&numNotice=13899056",
+      "source_name": "Bibliothèque nationale de France",
+      "kind": "library",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "College repertoire bibliography includes Sonata",
+      "url": "https://digital.library.unt.edu/ark%3A/67531/metadc4959/m2/1/high_res_d/dissertation.pdf",
+      "source_name": "University of North Texas doctoral dissertation",
+      "kind": "institution",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {
+    "publisher": [
+      "Éditions Billaudot"
+    ],
+    "instruments": [
+      "Alto Saxophone",
+      "Piano"
+    ],
+    "purchase": [
+      "https://www.billaudot.com/sonate-186.html"
+    ]
+  },
+  "score_observations": [],
+  "notation_inspected": false,
+  "score_links": [
+    {
+      "url": "https://www.billaudot.com/sonate-186.html",
+      "description": "EFM1732 publisher listing; image is placeholder and no PDF file indicated",
+      "inspected": false
+    }
+  ],
+  "listening": [],
+  "collection_flag": null,
+  "gaps": [
+    "Composition date distinct from copyright, movements, duration and exact recording remain unverified.",
+    "No actual notation accessible in publisher entry."
+  ],
+  "searches": [
+    "Lucie Robert Diessel Sonate saxophone",
+    "Robert Sonate saxophone Billaudot"
+  ],
+  "proposed_corrections": []
+}

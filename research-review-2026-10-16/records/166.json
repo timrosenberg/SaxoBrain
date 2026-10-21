@@ -1,0 +1,45 @@
+{
+  "run_number": 166,
+  "filename": "Walter Hartley - Saxophone Album.md",
+  "path": "content/works/Walter Hartley - Saxophone Album.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": "Walter Hartley: The Saxophone Album, soprano/piano edition DP848",
+  "findings": [
+    "Dorn 2025 catalog lists The Saxophone Album by Hartley, order 848, specifically under Soprano Saxophone and Piano."
+  ],
+  "evidence": [
+    {
+      "claim": "Dorn 2025 catalog lists The Saxophone Album by Hartley, order 848, specifically under Soprano Saxophone and Piano.",
+      "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+      "source_name": "Dorn Publications catalog",
+      "kind": "publisher",
+      "access": "opened"
+    }
+  ],
+  "metadata": {
+    "publisher": [
+      "Dorn Publications"
+    ],
+    "instruments": [
+      "Piano"
+    ]
+  },
+  "score_observations": "",
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [],
+  "collection_flag": "Original saxophone collection. The exact relationship of this soprano edition to work lists describing multiple saxophones needs a score.",
+  "gaps": [
+    "Composition date, movement contents, solo notation and exact recording not established.",
+    "Secondary lists describe SATB saxophones and piano; do not infer quartet or mandatory doubling from that shorthand."
+  ],
+  "searches": [
+    "Walter Hartley Saxophone Album soprano piano",
+    "Hartley Saxophone Album Dorn",
+    "Hartley Saxophone Album four pieces"
+  ],
+  "proposed_corrections": [
+    "Current note omits piano; publisher catalog explicitly includes it."
+  ]
+}

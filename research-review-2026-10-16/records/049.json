@@ -1,0 +1,88 @@
+{
+  "run_number": 49,
+  "filename": "Gabriel Pares - Crepuscule.md",
+  "path": "content/works/Gabriel Pares - Crepuscule.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "notation_inspected": false,
+  "score_observations": [],
+  "score_links": [],
+  "listening": [
+    {
+      "url": "https://www.qobuz.com/us-en/album/trumpet-recital-friedrich-reinhold-charlier-t-thome-f-pennequin-j-ropartz-j-g-gaubert-p-balay-g-erlanger-c-reinhold-friedrich/j7kwltd5vfltb",
+      "description": "Reinhold Friedrich,trumpet;Thomas Duis,piano;Capriccio2005,4:12",
+      "verification": "Exact title/composer and performers match retailer metadata; alternative trumpet version,not saxophone; no audition."
+    }
+  ],
+  "collection_flag": "School/association contest context documented; no college-specific performance source located.",
+  "identity": "Gabriel Parès,Crépuscule, E-flat saxophone and piano edition BillaudotAF0026-C.",
+  "findings": [
+    "Live Billaudot page confirms GabrielPARES,E-flat saxophone and piano,AF0026-C; JustFlutes independently confirms exact edition.",
+    "Separate B-flat saxophone edition AF0026-Dhas6pages; other instrument versions also exist.",
+    "KNMO repertoire lists separate E-flat and B-flat versions,third division; Missouri school list includes it for baritone in ClassC.",
+    "No composition date was established; retail trombone duration4:10and trumpet recording4:12should not be asserted for alto arrangement.",
+    "Reinhold Friedrich/Thomas Duis Capriccio recording is trumpet+piano,not saxophone; retained only as alternative-instrument listening lead."
+  ],
+  "evidence": [
+    {
+      "claim": "Exact E-flat+piano edition AF0026-C",
+      "url": "https://www.billaudot.com/af0026-c-6.html",
+      "source_name": "Billaudot",
+      "kind": "primary",
+      "access": "opened"
+    },
+    {
+      "claim": "Exact alto edition AF0026C purchase",
+      "url": "https://www.justflutes.com/shop/product/crepuscule-alto-saxophone-piano-gabriel-pares",
+      "source_name": "JustFlutes",
+      "kind": "retailer",
+      "access": "opened"
+    },
+    {
+      "claim": "Separate B-flat edition AF0026D,6pages",
+      "url": "https://www.billaudot.com/crepuscule-19.html",
+      "source_name": "Billaudot",
+      "kind": "primary",
+      "access": "opened"
+    },
+    {
+      "claim": "E-flat/B-flat third-division repertoire context",
+      "url": "https://www.knmo.nl/wp-content/uploads/2014/05/05-Repertorium-Houtblazers-Solisten-Ensembles-2010.pdf",
+      "source_name": "KNMO",
+      "kind": "institutional",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Trumpet recording exact title4:12,not saxophone",
+      "url": "https://www.qobuz.com/us-en/album/trumpet-recital-friedrich-reinhold-charlier-t-thome-f-pennequin-j-ropartz-j-g-gaubert-p-balay-g-erlanger-c-reinhold-friedrich/j7kwltd5vfltb",
+      "source_name": "Qobuz",
+      "kind": "recording",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {
+    "publisher": [
+      "Éditions Billaudot,AF0026-C"
+    ],
+    "instruments": [
+      "E-flat saxophone",
+      "Piano"
+    ],
+    "purchase": [
+      "https://www.billaudot.com/af0026-c-6.html",
+      "https://www.justflutes.com/shop/product/crepuscule-alto-saxophone-piano-gabriel-pares"
+    ]
+  },
+  "gaps": [
+    "No composition date,dedication,original scoring or saxophone duration verified.",
+    "No public alto notation or exact saxophone recording inspected.",
+    "No arranger given for Billaudot alto edition; do not import Rubank/Judy tenor arrangement credit."
+  ],
+  "searches": [
+    "Gabriel Pares Crepuscule saxophone piano",
+    "Crepuscule Pares saxophone recording",
+    "Crepuscule Pares saxophone sample score",
+    "site:billaudot.com Crépuscule PARÈS"
+  ],
+  "proposed_corrections": []
+}

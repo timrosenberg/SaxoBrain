@@ -7,7 +7,6 @@ saxophonists: Arno Bornkamp
 works:
   - "[[Jules Demersseman - Fantaisie sur un thème original]]"
   - "[[Georges Bizet - Intermezzo from l'Arlesienne]]"
-  - "[[Modest Mussorgsky - Il Vecchio Castello]]"
   - "[[Maurice Ravel - Piece en Forme de Habanera]]"
   - "[[Jean Françaix - Cinq Danses exotiques]]"
   - "[[Eugène Bozza - Aria]]"

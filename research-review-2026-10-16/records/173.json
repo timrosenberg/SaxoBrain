@@ -1,0 +1,36 @@
+{
+  "run_number": 173,
+  "filename": "William Presser - Sonatina.md",
+  "path": "content/works/William Presser - Sonatina.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": "William Presser: Sonatina, soprano saxophone and piano",
+  "findings": [
+    "Current publisher page explicitly reconfirms soprano saxophone/piano Sonatina, 494-01951, score and parts, Tritone Press & Tenuto."
+  ],
+  "evidence": [
+    {
+      "claim": "Current publisher page explicitly reconfirms soprano saxophone/piano Sonatina, 494-01951, score and parts, Tritone Press & Tenuto.",
+      "url": "https://www.presser.com/494-01951-sonatina.html",
+      "source_name": "Theodore Presser",
+      "kind": "publisher",
+      "access": "opened"
+    }
+  ],
+  "metadata": {},
+  "score_observations": "",
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [],
+  "collection_flag": "Original soprano Sonatina. Do not apply dates or recordings from Presser's different horn, alto, baritone or tenor sonatinas.",
+  "gaps": [
+    "No new notation, exact soprano recording or composition date found.",
+    "Prior difficulty hold remains."
+  ],
+  "searches": [
+    "William Presser Sonatina soprano",
+    "William Presser soprano Sonatina score",
+    "William Presser soprano Sonatina recording"
+  ],
+  "proposed_corrections": []
+}

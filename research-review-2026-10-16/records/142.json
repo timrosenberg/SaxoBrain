@@ -1,0 +1,68 @@
+{
+  "run_number": 142,
+  "filename": "Rudy Wiedoeft - Rudy Wiedoeft Collection Volume 3 - Sax Serene; Lightnin'; The Doll Dance (Brown); Dainty Miss Miller (Barnes); Melancholy Charlie (Cr.md",
+  "path": "content/works/Rudy Wiedoeft - Rudy Wiedoeft Collection Volume 3 - Sax Serene; Lightnin'; The Doll Dance (Brown); Dainty Miss Miller (Barnes); Melancholy Charlie (Cr.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": "The Rudy Wiedoeft Collection, Vol.3: Vaudeville Repertoire, edited Paul Wehage",
+  "findings": [
+    "Musik Fabrik collection for alto saxophone and piano, edited by Paul Wehage. June Emerson gives publisher referenceMFRW003.",
+    "Opened retailer contents: Lightning; Sax-Serene; Sax-o-phun; The Doll Dance; Dainty Miss; Melancholy Charlie. The present catalog title omits Sax-o-phun and expands Dainty Miss differently.",
+    "The volume is an anthology rather than a single composition. The existing catalog already credits Brown, Barnes and Crum for some contents; those specific composer attributions were not independently verified."
+  ],
+  "evidence": [
+    {
+      "claim": "Exact volume, editor, publisher, scoring and contents",
+      "url": "https://www.notenpunkt.de/rudy-wiedoeft-the-rudy-wiedoeft-collection-vol-3-vaudeville-repertoire-for-alto-saxophone-and-piano-65679",
+      "source_name": "NotenPunkt",
+      "kind": "retailer",
+      "access": "opened"
+    },
+    {
+      "claim": "MFRW003 edition number",
+      "url": "https://www.juneemersonwindmusic.com/Saxophone/?page=13&sort=title&sort_direction=1",
+      "source_name": "June Emerson Wind Music",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {
+    "publisher": [
+      "Musik Fabrik"
+    ],
+    "arranger-edition": [
+      "Paul Wehage, editor"
+    ],
+    "instruments": [
+      "Alto Saxophone",
+      "Piano"
+    ],
+    "purchase": [
+      "https://www.notenpunkt.de/rudy-wiedoeft-the-rudy-wiedoeft-collection-vol-3-vaudeville-repertoire-for-alto-saxophone-and-piano-65679"
+    ]
+  },
+  "score_observations": [],
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [],
+  "collection_flag": "Anthology of vaudeville repertoire by multiple composers, edited Paul Wehage; retain as collection pending user review.",
+  "gaps": [
+    "No authorized score inspected, ISMN, publication date or individual composition dates verified.",
+    "No exact recording of this complete edition verified.",
+    "Contents need publisher or title-page confirmation before expanding title."
+  ],
+  "searches": [
+    "Rudy Wiedoeft Collection Volume 3 Sax Serene Lightnin",
+    "Rudy Wiedoeft Collection 3 Musik Fabrik",
+    "Rudy Wiedoeft Collection Volume 3 Wehage",
+    "Rudy Wiedoeft Collection MFRW003"
+  ],
+  "proposed_corrections": [
+    {
+      "field": "title/contents",
+      "existing": "Long contents title omits Sax-o-phun",
+      "proposed": "Use concise collection title and verify six-item contents separately",
+      "reason": "Opened exact retailer lists six items including Sax-o-phun."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "checked_date": "2026-10-20",
+  "reviews": [
+    {
+      "file": "content/works/Dana Wilson - We Sing to Each Other.md",
+      "decision": "apply",
+      "url": "https://www.grothmusic.com/p-141634-we-sing-to-each-other-alto-saxophone-unaccompanied.aspx",
+      "label": "score (Dorn)",
+      "kind": "purchase",
+      "evidence": "Parent live browser checked exact title/composer/DORN1073, $16, In Stock, Add to Cart; Any Saxophone supported by quoted discretion notes.",
+      "note": null
+    },
+    {
+      "file": "content/works/Takashi Yoshimatsu - Cyberbird Concerto.md",
+      "decision": "apply",
+      "url": "https://asksww.com/products/asks-sl34",
+      "label": "piano reduction and saxophone part (PDF)",
+      "kind": "purchase",
+      "evidence": "Parent live browser current ASKS page confirmed US region, $90, active Add to cart, PDF Score and Parts, Alto Saxophone/Piano, ASKS-SL34. Old official ASKS product links migrated shop.",
+      "note": "ASKS supplies the piano reduction and saxophone part as PDFs. After purchase, ASKS emails a download link."
+    },
+    {
+      "file": "content/works/David Baker - Concerto.md",
+      "decision": "apply",
+      "url": "https://subitomusic.com/product/baker-concerto-for-tenor-saxophone-orchestra/",
+      "label": "study score",
+      "kind": "purchase",
+      "evidence": "Parent live browser exact official product, SKU90310010, $43.99, Study Score and Add to cart. Product separately says full score and parts available on rental.",
+      "note": "Subito sells the study score separately from the rental performance materials. Request the full score and parts through Subito's rental instructions, quoting David Baker's Concerto for Tenor Saxophone & Orchestra, catalog number90310010."
+    },
+    {
+      "file": "content/works/David Baker - Concerto.md",
+      "decision": "apply",
+      "url": "https://subitomusic.com/requests/#rental-license",
+      "label": "Rent from Publisher",
+      "kind": "rental",
+      "evidence": "Parent live browser official Rental License instructions direct Zinfonia or Rental Request form for no-obligation quote. Exact work product confirms full score/parts rental.",
+      "note": null
+    },
+    {
+      "file": "content/works/Lucie Robert-Diessel - Double Concerto.md",
+      "decision": "apply",
+      "url": "https://www.billaudot.com/quotation/?productReference=EFM2340-O&productTitle=Double%20Concerto&compositorName=Lucie%20ROBERT",
+      "label": "Rent from Publisher",
+      "kind": "rental",
+      "evidence": "Parent live browser exact publisher quote form prefilled EFM2340-O, Double Concerto, LucieROBERT, rental-agreement/performance questions.",
+      "note": "Request a rental quotation from Billaudot for Double Concerto, catalog numberEFM2340-O, for alto saxophone and piano soloists with orchestra."
+    },
+    {
+      "file": "content/works/Aleks Sternfeld-Dunn - Sonata.md",
+      "decision": "apply",
+      "url": "https://www.aleksandersternfelddunn.com/contact",
+      "label": "Order from Composer",
+      "kind": "composer-order",
+      "evidence": "Parent web-opened official contact policy explicitly inviting questions about purchasing scores; exact Sonata (2005) work listed. Price/format/parts to confirm via route.",
+      "note": "Contact composer to order Sonata (2005), alto/piano. Confirm price, delivery format, separate saxophone part."
+    },
+    {
+      "file": "content/works/Georg Philipp Telemann - Concerto in F.md",
+      "decision": "apply",
+      "url": "https://www.stretta-music.nl/g-f-telemann-concerto-in-f-nr-1705969.html",
+      "label": "Joosen edition (solo part and piano)",
+      "kind": "purchase",
+      "evidence": "Parent live browser exact G.F.Telemann/BerJoosen MolenaarMOL060510600, available, 11.40EUR, activecart, 2-3weeksNetherlands, piano/Bb(TC)/Csoloparts.",
+      "note": "Molenaar's Joosen edition includes piano accompaniment and solo parts in B-flat and C."
+    }
+  ]
+}

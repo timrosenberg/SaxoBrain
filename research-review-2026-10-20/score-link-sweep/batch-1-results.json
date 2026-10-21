@@ -1,0 +1,1039 @@
+[
+  {
+    "file": "content/works/Aleks Sternfeld-Dunn - Sonata.md",
+    "name": "Aleks Sternfeld-Dunn - Sonata",
+    "status": "lead",
+    "purchase_url": null,
+    "source_urls": [
+      "https://www.aleksandersternfelddunn.com/chamber-music",
+      "https://www.aleksandersternfelddunn.com/sonata-for-saxophone"
+    ],
+    "evidence": "Opened composer's chamber catalog links Sonata(2005), alto saxophone and piano, under instructions to click titles for purchase. Opened work page provides only preview PDF and recordings, with no price or ordering control.",
+    "composer_site_checked": "https://www.aleksandersternfelddunn.com/sonata-for-saxophone",
+    "queries": [
+      "Aleks Sternfeld Dunn Sonata alto saxophone piano purchase",
+      "site:aleksandersternfelddunn.com Sonata purchase"
+    ],
+    "notes": "Composer is best lead. General catalog purchase language conflicts with work page lacking a purchase mechanism, so no verified purchase claim."
+  },
+  {
+    "file": "content/works/Alois Hába - Partita.md",
+    "name": "Alois Hába - Partita",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.noten-roehr.de/en/scores/0005/woodwind-instruments/0507/saxophone/0502/1-woodwind-instrument/031422",
+    "source_urls": [
+      "https://www.noten-roehr.de/en/scores/0005/woodwind-instruments/0507/saxophone/0502/1-woodwind-instrument/"
+    ],
+    "evidence": "Opened retailer category lists alto solo Partita op.99, item 031422, price and delivery.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Haba\" \"Partita\" saxophone purchase"
+    ],
+    "notes": "Individual product open failed; sale verified on opened retailer category."
+  },
+  {
+    "file": "content/works/Anders Koppel - Concerto No. 2.md",
+    "name": "Anders Koppel - Concerto No. 2",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.wisemusicclassical.com/work/20480/Concerto-no-2-for-Saxophone-and-Orchestra--Anders-Koppel/",
+    "source_urls": [
+      "https://www.wisemusicclassical.com/work/20480/Concerto-no-2-for-Saxophone-and-Orchestra--Anders-Koppel/",
+      "https://www.musicshopeurope.com/product/whkp01449/concerto-no-2-for-saxophone-and-orchestra.aspx",
+      "https://www.musicshopeurope.com/product/whkp01467/concerto-no-2-for-saxophone-and-orchestra.aspx"
+    ],
+    "evidence": "Opened official publisher work page identifies Concerto no2(2003), alternative alto saxophone/piano, and explicitly offers Full Score Buy and Solo Part Buy under Score Purchase Options. Orchestral materials are hire.",
+    "composer_site_checked": null,
+    "queries": [
+      "Anders Koppel concerto no 2 2003 saxophone score buy"
+    ],
+    "notes": "Authoritative publisher confirms sale of full score and solo part. Linked retailer blocks browser with Azure WAF. Piano reduction sale not independently confirmed."
+  },
+  {
+    "file": "content/works/Antonio Vivaldi - Sonata Bb RV45.md",
+    "name": "Antonio Vivaldi - Sonata Bb RV45",
+    "status": "edition-uncertain",
+    "purchase_url": null,
+    "source_urls": [
+      "https://imslp.org/wiki/Cello_Sonata_in_B-flat_major,_RV_45_(Vivaldi,_Antonio)"
+    ],
+    "evidence": "Opened IMSLP identifies RV45 as cello and continuo. Its arrangements section lists cello/string orchestra and has no soprano saxophone score.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Vivaldi\" \"RV45\" \"saxophone\"",
+      "\"Vivaldi\" \"RV 45\" soprano saxophone score"
+    ],
+    "notes": "Catalog names soprano saxophone without arranger. No matching purchasable saxophone edition found."
+  },
+  {
+    "file": "content/works/Auguste Durand - First Waltz Op. 83.md",
+    "name": "Auguste Durand - First Waltz Op. 83",
+    "status": "edition-uncertain",
+    "purchase_url": null,
+    "source_urls": [
+      "https://imslp.org/wiki/Valse_No.1,_Op.83_(Durand,_Auguste)"
+    ],
+    "evidence": "Opened IMSLP identifies Valse no1 Op83 as original piano solo and lists flute, violin, two pianos and harp arrangements. No saxophone edition identified.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Durand\" \"First Waltz\" \"saxophone\"",
+      "\"Durand\" \"Waltz\" \"alto saxophone\" 83"
+    ],
+    "notes": "Catalog alto/piano arrangement lacks arranger; original piano score does not establish this edition."
+  },
+  {
+    "file": "content/works/Carl Reinecke - Sonate Ondine in E minor, Op. 167.md",
+    "name": "Carl Reinecke - Sonate Ondine in E minor, Op. 167",
+    "status": "edition-uncertain",
+    "purchase_url": null,
+    "source_urls": [
+      "https://www.schott-music.com/de/undine-no250020.html",
+      "https://www.clasax.org/wp-content/uploads/2011/05/Festival-Draft-4.pdf"
+    ],
+    "evidence": "Opened Schott product confirms Undine Op167 as flute and piano, UT50242, with sale. No purchasable soprano saxophone edition identified.",
+    "composer_site_checked": null,
+    "queries": [
+      "Reinecke Undine soprano saxophone piano score",
+      "\"Reinecke\" \"Undine\" \"Adrian Tully\""
+    ],
+    "notes": "Search found an Adrian Tully performance transcription; catalog gives no arranger, and flute edition should not be substituted."
+  },
+  {
+    "file": "content/works/Charles Rochester Young - Excursions.md",
+    "name": "Charles Rochester Young - Excursions",
+    "status": "verified-purchase",
+    "purchase_url": "https://mostlymarimba.com/product/excursions-by-charles-young/",
+    "source_urls": [
+      "https://mostlymarimba.com/product/excursions-by-charles-young/",
+      "https://mostlymarimba.com/composer/charles-young/",
+      "https://mostlymarimba.com/wp-content/uploads/2020/09/young_e_cover.jpg"
+    ],
+    "evidence": "Opened publisher product sells Excursions by Charles Young for USD18 to20 in print, PDF, or print plus PDF. Publisher cover visibly identifies alto saxophone and marimba.",
+    "composer_site_checked": "https://mostlymarimba.com/composer/charles-young/",
+    "queries": [
+      "Charles Rochester Young Excursions alto saxophone marimba score"
+    ],
+    "notes": "Instrumentation verified from publisher cover image."
+  },
+  {
+    "file": "content/works/Christian Lauba - Neuf Études, Book 1 - No. 1 Balafon.md",
+    "name": "Christian Lauba - Neuf Études, Book 1 - No. 1 Balafon",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.ficksmusic.com/products/lauba-9-etudes-volume-1-nos-1-4-leduc",
+    "source_urls": [
+      "https://www.ficksmusic.com/products/lauba-9-etudes-volume-1-nos-1-4-leduc"
+    ],
+    "evidence": "AL29035 includes Balafon, Savane, Sanza and Jungle for alto; price and Add to cart.",
+    "composer_site_checked": null,
+    "queries": [
+      "Christian Lauba etudes sheet music buy Balafon Savane Sanza Jungle Leduc"
+    ],
+    "notes": "Buy complete Book 1."
+  },
+  {
+    "file": "content/works/Christian Lauba - Neuf Études, Book 1 - No. 2 Savane.md",
+    "name": "Christian Lauba - Neuf Études, Book 1 - No. 2 Savane",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.ficksmusic.com/products/lauba-9-etudes-volume-1-nos-1-4-leduc",
+    "source_urls": [
+      "https://www.ficksmusic.com/products/lauba-9-etudes-volume-1-nos-1-4-leduc"
+    ],
+    "evidence": "AL29035 includes Balafon, Savane, Sanza and Jungle for alto; price and Add to cart.",
+    "composer_site_checked": null,
+    "queries": [
+      "Christian Lauba etudes sheet music buy Balafon Savane Sanza Jungle Leduc"
+    ],
+    "notes": "Buy complete Book 1."
+  },
+  {
+    "file": "content/works/Christian Lauba - Neuf Études, Book 1 - No. 3 Sanza.md",
+    "name": "Christian Lauba - Neuf Études, Book 1 - No. 3 Sanza",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.ficksmusic.com/products/lauba-9-etudes-volume-1-nos-1-4-leduc",
+    "source_urls": [
+      "https://www.ficksmusic.com/products/lauba-9-etudes-volume-1-nos-1-4-leduc"
+    ],
+    "evidence": "AL29035 includes Balafon, Savane, Sanza and Jungle for alto; price and Add to cart.",
+    "composer_site_checked": null,
+    "queries": [
+      "Christian Lauba etudes sheet music buy Balafon Savane Sanza Jungle Leduc"
+    ],
+    "notes": "Buy complete Book 1."
+  },
+  {
+    "file": "content/works/Christian Lauba - Neuf Études, Book 1 - No. 4 Jungle.md",
+    "name": "Christian Lauba - Neuf Études, Book 1 - No. 4 Jungle",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.ficksmusic.com/products/lauba-9-etudes-volume-1-nos-1-4-leduc",
+    "source_urls": [
+      "https://www.ficksmusic.com/products/lauba-9-etudes-volume-1-nos-1-4-leduc"
+    ],
+    "evidence": "AL29035 includes Balafon, Savane, Sanza and Jungle for alto; price and Add to cart.",
+    "composer_site_checked": null,
+    "queries": [
+      "Christian Lauba etudes sheet music buy Balafon Savane Sanza Jungle Leduc"
+    ],
+    "notes": "Buy complete Book 1."
+  },
+  {
+    "file": "content/works/Christian Lauba - Neuf Études, Book 2 - No. 5 Tadj.md",
+    "name": "Christian Lauba - Neuf Études, Book 2 - No. 5 Tadj",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.lmi-partitions.com/produit/9-etudes-vol-2/",
+    "source_urls": [
+      "https://www.lmi-partitions.com/produit/9-etudes-vol-2/",
+      "https://www.halleonard.com/product/48185468/nine-studies-for-saxophones-volume-2"
+    ],
+    "evidence": "Opened retailer identifies Christian Lauba 9 Etudes Vol. 2, AL29043, for soprano and tenor saxophones, contains Tadj, Gyn and Vir. EUR 27.60, in stock with Ajouter au panier.",
+    "composer_site_checked": null,
+    "queries": [
+      "Christian Lauba Tadj Gyn Vir Nine Studies Volume 2 buy"
+    ],
+    "notes": "Collected volume purchase."
+  },
+  {
+    "file": "content/works/Christian Lauba - Neuf Études, Book 2 - No. 6 Gyn.md",
+    "name": "Christian Lauba - Neuf Études, Book 2 - No. 6 Gyn",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.lmi-partitions.com/produit/9-etudes-vol-2/",
+    "source_urls": [
+      "https://www.lmi-partitions.com/produit/9-etudes-vol-2/",
+      "https://www.halleonard.com/product/48185468/nine-studies-for-saxophones-volume-2"
+    ],
+    "evidence": "Opened retailer identifies Christian Lauba 9 Etudes Vol. 2, AL29043, for soprano and tenor saxophones, contains Tadj, Gyn and Vir. EUR 27.60, in stock with Ajouter au panier.",
+    "composer_site_checked": null,
+    "queries": [
+      "Christian Lauba Tadj Gyn Vir Nine Studies Volume 2 buy"
+    ],
+    "notes": "Collected volume purchase."
+  },
+  {
+    "file": "content/works/Christian Lauba - Neuf Études, Book 2 - No. 7 Vir.md",
+    "name": "Christian Lauba - Neuf Études, Book 2 - No. 7 Vir",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.lmi-partitions.com/produit/9-etudes-vol-2/",
+    "source_urls": [
+      "https://www.lmi-partitions.com/produit/9-etudes-vol-2/",
+      "https://www.halleonard.com/product/48185468/nine-studies-for-saxophones-volume-2"
+    ],
+    "evidence": "Opened retailer identifies Christian Lauba 9 Etudes Vol. 2, AL29043, for soprano and tenor saxophones, contains Tadj, Gyn and Vir. EUR 27.60, in stock with Ajouter au panier.",
+    "composer_site_checked": null,
+    "queries": [
+      "Christian Lauba Tadj Gyn Vir Nine Studies Volume 2 buy"
+    ],
+    "notes": "Collected volume purchase."
+  },
+  {
+    "file": "content/works/Christian Lauba - Neuf Études, Book 3 - No. 8 Ars.md",
+    "name": "Christian Lauba - Neuf Études, Book 3 - No. 8 Ars",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.prestomusic.com/sheet-music/products/7380893--christian-lauba-neuf-etudes-9-pour-saxophones-cahier-3",
+    "source_urls": [
+      "https://www.prestomusic.com/sheet-music/composers/26107/browse",
+      "https://casamusicaledelrio.it/casamusicale/wp-content/uploads/2019/04/CAT-18-107-Leduc-Catalogue-2018-ss-GS-v6-NO-CROPS-LO-RESv2.pdf"
+    ],
+    "evidence": "Opened retailer browse page offers Lauba Book3 Ars, AL29044, priced with basket. Opened Leduc catalog confirms two soprano saxophones.",
+    "composer_site_checked": null,
+    "queries": [
+      "Christian Lauba etudes 10 34 Flawless Flow sheet music publisher"
+    ],
+    "notes": "Collected Book3 is the matching Ars score."
+  },
+  {
+    "file": "content/works/Christian Lauba - Neuf Études, Book 4 - No. 9 Bat.md",
+    "name": "Christian Lauba - Neuf Études, Book 4 - No. 9 Bat",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.prestomusic.com/sheet-music/products/7380894--christian-lauba-neuf-etudes-9-pour-saxophones-cahier-4",
+    "source_urls": [
+      "https://www.prestomusic.com/sheet-music/composers/26107/browse",
+      "https://casamusicaledelrio.it/casamusicale/wp-content/uploads/2019/04/CAT-18-107-Leduc-Catalogue-2018-ss-GS-v6-NO-CROPS-LO-RESv2.pdf"
+    ],
+    "evidence": "Opened retailer browse page offers Lauba Book4 Bat, AL29045, priced with basket. Opened Leduc catalog confirms baritone saxophone.",
+    "composer_site_checked": null,
+    "queries": [
+      "Christian Lauba etudes 10 34 Flawless Flow sheet music publisher"
+    ],
+    "notes": "Collected Book4 is the matching Bat score."
+  },
+  {
+    "file": "content/works/Christian Lauba - Étude No. 10 Hard too Hard.md",
+    "name": "Christian Lauba - Étude No. 10 Hard too Hard",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.prestomusic.com/sheet-music/products/7836503--christian-lauba-etude-n010",
+    "source_urls": [
+      "https://www.prestomusic.com/sheet-music/composers/26107/browse",
+      "https://casamusicaledelrio.it/casamusicale/wp-content/uploads/2019/04/CAT-18-107-Leduc-Catalogue-2018-ss-GS-v6-NO-CROPS-LO-RESv2.pdf"
+    ],
+    "evidence": "Opened retailer browse page offers Lauba Etude10 Hard Too Hard, AL29218, priced with basket. Opened Leduc catalog confirms tenor saxophone.",
+    "composer_site_checked": null,
+    "queries": [
+      "Christian Lauba etudes 10 34 Flawless Flow sheet music publisher"
+    ],
+    "notes": "Distinct from Lauba's separately published Hard."
+  },
+  {
+    "file": "content/works/Christian Lauba - Étude No. 11 Stan.md",
+    "name": "Christian Lauba - Étude No. 11 Stan",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.prestomusic.com/sheet-music/products/7703291--christian-lauba-etude-no-11-stan",
+    "source_urls": [
+      "https://www.prestomusic.com/sheet-music/composers/26107/browse",
+      "https://casamusicaledelrio.it/casamusicale/wp-content/uploads/2019/04/CAT-18-107-Leduc-Catalogue-2018-ss-GS-v6-NO-CROPS-LO-RESv2.pdf"
+    ],
+    "evidence": "Opened retailer offers Stan AL29541, baritone saxophone/piano/electronics, priced with basket. Opened Leduc catalog identifies score as baritone saxophone with piano OR CD.",
+    "composer_site_checked": null,
+    "queries": [
+      "Christian Lauba etudes 10 34 Flawless Flow sheet music publisher",
+      "Lauba Stan AL29541 piano electronics saxophone"
+    ],
+    "notes": "AL29541 is score only; electronic accompaniment CD has separate code AL29542. Piano is an alternative to CD, rather than an additional required force."
+  },
+  {
+    "file": "content/works/Christian Lauba - Étude No. 12 Xyl (Balafon 2).md",
+    "name": "Christian Lauba - Étude No. 12 Xyl (Balafon 2)",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.prestomusic.com/sheet-music/products/7381467--christian-lauba-xyl-balafon-2-12th-study-for-alto-saxophone",
+    "source_urls": [
+      "https://www.prestomusic.com/sheet-music/composers/26107/browse",
+      "https://casamusicaledelrio.it/casamusicale/wp-content/uploads/2019/04/CAT-18-107-Leduc-Catalogue-2018-ss-GS-v6-NO-CROPS-LO-RESv2.pdf"
+    ],
+    "evidence": "XYL AL29817, alto solo, priced with basket.",
+    "composer_site_checked": null,
+    "queries": [
+      "Christian Lauba etudes 10 34 Flawless Flow sheet music publisher"
+    ],
+    "notes": "AL29817 score is for alto saxophone with CD accompaniment; separate CD product AL30369. Catalog record lists alto solo."
+  },
+  {
+    "file": "content/works/Christian Lauba - Étude No. 13 Cadence.md",
+    "name": "Christian Lauba - Étude No. 13 Cadence",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.prestomusic.com/sheet-music/products/7381770--alexander-glazunov-cadence-du-concerto-pour-sax-et-orchestre-a-cordes",
+    "source_urls": [
+      "https://www.prestomusic.com/sheet-music/composers/26107/browse"
+    ],
+    "evidence": "Cadence, 13th alto étude AL30522, priced with basket.",
+    "composer_site_checked": null,
+    "queries": [
+      "Christian Lauba etudes 10 34 Flawless Flow sheet music publisher"
+    ],
+    "notes": "Opened retailer browse page verifies sale. Edition details should be checked against stated forces."
+  },
+  {
+    "file": "content/works/Christian Lauba - Étude No. 15 Worksong.md",
+    "name": "Christian Lauba - Étude No. 15 Worksong",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.prestomusic.com/sheet-music/composers/26107/browse",
+    "source_urls": [
+      "https://www.prestomusic.com/sheet-music/composers/26107/browse",
+      "https://casamusicaledelrio.it/casamusicale/wp-content/uploads/2019/04/CAT-18-107-Leduc-Catalogue-2018-ss-GS-v6-NO-CROPS-LO-RESv2.pdf"
+    ],
+    "evidence": "Worksong, 15th alto étude AL30518, priced with basket.",
+    "composer_site_checked": null,
+    "queries": [
+      "Christian Lauba etudes 10 34 Flawless Flow sheet music publisher"
+    ],
+    "notes": "AL30518 is score, and accompanying CD is separately cataloged AL30540. Catalog record lists alto solo."
+  },
+  {
+    "file": "content/works/Christian Lauba - Étude No. 16 Kabuki.md",
+    "name": "Christian Lauba - Étude No. 16 Kabuki",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.prestomusic.com/sheet-music/products/7828227--christian-lauba-kabuki-16e-etude-pour-saxophone-soprano",
+    "source_urls": [
+      "https://www.prestomusic.com/sheet-music/composers/26107/browse"
+    ],
+    "evidence": "Kabuki, 16th soprano étude AL30644, priced with basket.",
+    "composer_site_checked": null,
+    "queries": [
+      "Christian Lauba etudes 10 34 Flawless Flow sheet music publisher"
+    ],
+    "notes": "Opened retailer browse page verifies sale. Edition details should be checked against stated forces."
+  },
+  {
+    "file": "content/works/Christian Lauba - Étude No. 18 Arak.md",
+    "name": "Christian Lauba - Étude No. 18 Arak",
+    "status": "verified-purchase",
+    "purchase_url": "https://resolute-music.com/products/volume-7-etudes",
+    "source_urls": [
+      "https://resolute-music.com/products/volume-7-etudes"
+    ],
+    "evidence": "Publisher Volume 7 contains Arak 18, Partyta 19 and Ennéa 28, soprano solo; PDF/print ordering.",
+    "composer_site_checked": null,
+    "queries": [
+      "Christian Lauba \"Arak\" \"Partyta\" score",
+      "site:resolute-music.com \"Just a Song\" \"Ennéa\""
+    ],
+    "notes": "Buy complete Volume 7; individual option also exists."
+  },
+  {
+    "file": "content/works/Christian Lauba - Étude No. 19 Partyta.md",
+    "name": "Christian Lauba - Étude No. 19 Partyta",
+    "status": "verified-purchase",
+    "purchase_url": "https://resolute-music.com/products/partyta-etude-19",
+    "source_urls": [
+      "https://resolute-music.com/products/partyta-etude-19"
+    ],
+    "evidence": "Partyta, soprano solo. Publisher sells PDF and print with Add to cart.",
+    "composer_site_checked": null,
+    "queries": [
+      "Christian Lauba etudes 10 34 Flawless Flow sheet music publisher",
+      "Christian Lauba \"Flawless Flow\" sheet music"
+    ],
+    "notes": ""
+  },
+  {
+    "file": "content/works/Christian Lauba - Étude No. 20 Twins.md",
+    "name": "Christian Lauba - Étude No. 20 Twins",
+    "status": "verified-purchase",
+    "purchase_url": "https://resolute-music.com/products/copy-of-sonata-a-la-maniere-de-francis-poulenc",
+    "source_urls": [
+      "https://resolute-music.com/products/copy-of-sonata-a-la-maniere-de-francis-poulenc"
+    ],
+    "evidence": "Publisher identifies two baritone saxophones; PDF and print with priced Add to cart. Opened in web or live browser.",
+    "composer_site_checked": null,
+    "queries": [
+      "Christian Lauba \"Twins\" Resolute"
+    ],
+    "notes": "Unusual product slug was followed from publisher's Twins link and verified in browser."
+  },
+  {
+    "file": "content/works/Christian Lauba - Étude No. 21 Bumble Beebop.md",
+    "name": "Christian Lauba - Étude No. 21 Bumble Beebop",
+    "status": "verified-purchase",
+    "purchase_url": "https://resolute-music.com/products/bumble-beebop-etude-21",
+    "source_urls": [
+      "https://resolute-music.com/products/bumble-beebop-etude-21"
+    ],
+    "evidence": "Opened publisher product identifies Christian Lauba Bumble Beebop, Etude 21, alto saxophone solo. USD 15, PDF and print options, Add to Cart.",
+    "composer_site_checked": null,
+    "queries": [
+      "Christian Lauba Bumble Beebop Etude21 score"
+    ],
+    "notes": ""
+  },
+  {
+    "file": "content/works/Christian Lauba - Étude No. 22 Bebop.md",
+    "name": "Christian Lauba - Étude No. 22 Bebop",
+    "status": "verified-purchase",
+    "purchase_url": "https://resolute-music.com/products/bebop-etude-22",
+    "source_urls": [
+      "https://resolute-music.com/products/bebop-etude-22"
+    ],
+    "evidence": "Bebop, alto solo. Publisher price and Add to cart.",
+    "composer_site_checked": null,
+    "queries": [
+      "Christian Lauba etudes 10 34 Flawless Flow sheet music publisher",
+      "Christian Lauba \"Flawless Flow\" sheet music"
+    ],
+    "notes": ""
+  },
+  {
+    "file": "content/works/Christian Lauba - Étude No. 23 Pent.md",
+    "name": "Christian Lauba - Étude No. 23 Pent",
+    "status": "verified-purchase",
+    "purchase_url": "https://resolute-music.com/products/pent-etude-23",
+    "source_urls": [
+      "https://resolute-music.com/products/pent-etude-23"
+    ],
+    "evidence": "Pent, alto solo. Publisher price and Add to cart.",
+    "composer_site_checked": null,
+    "queries": [
+      "Christian Lauba etudes 10 34 Flawless Flow sheet music publisher",
+      "Christian Lauba \"Flawless Flow\" sheet music"
+    ],
+    "notes": ""
+  },
+  {
+    "file": "content/works/Christian Lauba - Étude No. 24 Flamenco.md",
+    "name": "Christian Lauba - Étude No. 24 Flamenco",
+    "status": "verified-purchase",
+    "purchase_url": "https://resolute-music.com/products/flamenco-etude-24",
+    "source_urls": [
+      "https://resolute-music.com/products/flamenco-etude-24"
+    ],
+    "evidence": "Publisher identifies alto solo; PDF and print with priced Add to cart. Opened in web or live browser.",
+    "composer_site_checked": null,
+    "queries": [
+      "site:resolute-music.com Flamenco"
+    ],
+    "notes": ""
+  },
+  {
+    "file": "content/works/Christian Lauba - Étude No. 25 Salsa.md",
+    "name": "Christian Lauba - Étude No. 25 Salsa",
+    "status": "verified-purchase",
+    "purchase_url": "https://resolute-music.com/products/salsa-etude-25",
+    "source_urls": [
+      "https://resolute-music.com/products/salsa-etude-25"
+    ],
+    "evidence": "Publisher identifies alto solo; PDF and print with priced Add to cart. Opened in web or live browser.",
+    "composer_site_checked": null,
+    "queries": [
+      "site:resolute-music.com \"Salsa\""
+    ],
+    "notes": ""
+  },
+  {
+    "file": "content/works/Christian Lauba - Étude No. 26 Banjo.md",
+    "name": "Christian Lauba - Étude No. 26 Banjo",
+    "status": "verified-purchase",
+    "purchase_url": "https://resolute-music.com/products/banjo",
+    "source_urls": [
+      "https://resolute-music.com/products/banjo"
+    ],
+    "evidence": "Publisher identifies alto solo; PDF and print with priced Add to cart. Opened in web or live browser.",
+    "composer_site_checked": null,
+    "queries": [
+      "site:resolute-music.com \"Flamenco\" \"Salsa\" \"Banjo\""
+    ],
+    "notes": ""
+  },
+  {
+    "file": "content/works/Christian Lauba - Étude No. 27 Morna.md",
+    "name": "Christian Lauba - Étude No. 27 Morna",
+    "status": "verified-purchase",
+    "purchase_url": "https://resolute-music.com/products/morna-etude-27",
+    "source_urls": [
+      "https://resolute-music.com/products/morna-etude-27"
+    ],
+    "evidence": "Publisher identifies alto solo; PDF and print with priced Add to cart. Opened in web or live browser.",
+    "composer_site_checked": null,
+    "queries": [
+      "site:resolute-music.com \"Morna\""
+    ],
+    "notes": ""
+  },
+  {
+    "file": "content/works/Christian Lauba - Étude No. 28 Ennéa.md",
+    "name": "Christian Lauba - Étude No. 28 Ennéa",
+    "status": "verified-purchase",
+    "purchase_url": "https://resolute-music.com/products/ennea-etude-28",
+    "source_urls": [
+      "https://resolute-music.com/products/volume-7-etudes",
+      "https://resolute-music.com/products/ennea-etude-28"
+    ],
+    "evidence": "Publisher Ennéa 28, soprano solo, has priced PDF and print options and Add to cart.",
+    "composer_site_checked": null,
+    "queries": [
+      "Christian Lauba \"Arak\" \"Partyta\" score",
+      "site:resolute-music.com \"Just a Song\" \"Ennéa\""
+    ],
+    "notes": "Also included in publisher Volume 7."
+  },
+  {
+    "file": "content/works/Christian Lauba - Étude No. 31 Samba.md",
+    "name": "Christian Lauba - Étude No. 31 Samba",
+    "status": "verified-purchase",
+    "purchase_url": "https://resolute-music.com/products/samba-etude-31",
+    "source_urls": [
+      "https://resolute-music.com/products/samba-etude-31"
+    ],
+    "evidence": "Samba, alto solo. Publisher sells PDF and print with Add to cart.",
+    "composer_site_checked": null,
+    "queries": [
+      "Christian Lauba etudes 10 34 Flawless Flow sheet music publisher",
+      "Christian Lauba \"Flawless Flow\" sheet music"
+    ],
+    "notes": ""
+  },
+  {
+    "file": "content/works/Christian Lauba - Étude No. 32 Just a Song.md",
+    "name": "Christian Lauba - Étude No. 32 Just a Song",
+    "status": "verified-purchase",
+    "purchase_url": "https://resolute-music.com/products/just-a-song-etude-32",
+    "source_urls": [
+      "https://resolute-music.com/products/just-a-song-etude-32"
+    ],
+    "evidence": "Publisher identifies alto saxophone and piano; PDF and print with priced Add to cart. Opened in web or live browser.",
+    "composer_site_checked": null,
+    "queries": [
+      "site:resolute-music.com \"Just a Song\""
+    ],
+    "notes": ""
+  },
+  {
+    "file": "content/works/Christian Lauba - Étude No. 33 Merengue.md",
+    "name": "Christian Lauba - Étude No. 33 Merengue",
+    "status": "verified-purchase",
+    "purchase_url": "https://resolute-music.com/products/merengue-etude-33",
+    "source_urls": [
+      "https://resolute-music.com/products/merengue-etude-33"
+    ],
+    "evidence": "Merengue, alto solo. Publisher sells PDF and print with Add to cart.",
+    "composer_site_checked": null,
+    "queries": [
+      "Christian Lauba etudes 10 34 Flawless Flow sheet music publisher",
+      "Christian Lauba \"Flawless Flow\" sheet music"
+    ],
+    "notes": ""
+  },
+  {
+    "file": "content/works/Christian Lauba - Étude No. 34 Flawless Flow.md",
+    "name": "Christian Lauba - Étude No. 34 Flawless Flow",
+    "status": "verified-purchase",
+    "purchase_url": "https://resolute-music.com/products/flawless-flow-etude-34",
+    "source_urls": [
+      "https://resolute-music.com/products/flawless-flow-etude-34"
+    ],
+    "evidence": "Flawless Flow, alto solo. Publisher sells PDF and print with Add to cart.",
+    "composer_site_checked": null,
+    "queries": [
+      "Christian Lauba etudes 10 34 Flawless Flow sheet music publisher",
+      "Christian Lauba \"Flawless Flow\" sheet music"
+    ],
+    "notes": ""
+  },
+  {
+    "file": "content/works/Christian Lauba - Études No. 29 & 30 Vertigo & Prelude to Vertigo.md",
+    "name": "Christian Lauba - Études No. 29 & 30 Vertigo & Prelude to Vertigo",
+    "status": "verified-purchase",
+    "purchase_url": "https://resolute-music.com/products/vertigo-prelude-to-vertigo",
+    "source_urls": [
+      "https://resolute-music.com/products/vertigo-prelude-to-vertigo"
+    ],
+    "evidence": "Publisher sells both tenor solo études 29/30 with PDF/print options and cart.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Lauba\" \"Vertigo\" Resolute"
+    ],
+    "notes": ""
+  },
+  {
+    "file": "content/works/Claude Debussy - Premierer Trio en Sol (1880).md",
+    "name": "Claude Debussy - Premierer Trio en Sol (1880)",
+    "status": "edition-uncertain",
+    "purchase_url": null,
+    "source_urls": [
+      "https://imslp.org/wiki/Piano_Trio_in_G_major%2C_CD_5_(Debussy%2C_Claude)",
+      "https://www.saxoclone.com/cd.html"
+    ],
+    "evidence": "Opened IMSLP confirms Debussy Piano Trio in G major CD5,1880, for violin/cello/piano. Listed transcriptions are flute/cello/piano and two pianos, no saxophone edition.",
+    "composer_site_checked": null,
+    "queries": [
+      "Debussy Premier Trio en Sol 1880 soprano tenor saxophone piano score",
+      "Debussy Piano Trio Saxoclone sheet music"
+    ],
+    "notes": "SaxoClone search documents a performed transcription, but no purchase source or catalog arranger identified."
+  },
+  {
+    "file": "content/works/Darius Milhaud - La creation du monde.md",
+    "name": "Darius Milhaud - La creation du monde",
+    "status": "edition-uncertain",
+    "purchase_url": null,
+    "source_urls": [
+      "https://www.ficksmusic.com/collections/orchestra/products/milhaud-la-creation-du-monde-op-81a-eschig",
+      "https://www.juneemersonwindmusic.com/LA-CREATION-DU-MONDE-score-only.html"
+    ],
+    "evidence": "Opened retailer offers original orchestral study score Op81a, Eschig ME2402, USD49.99, in stock with cart. No matching concert band arrangement identified.",
+    "composer_site_checked": null,
+    "queries": [
+      "Milhaud La creation du monde band score buy",
+      "\"Milhaud\" \"creation du monde\" \"band\" score",
+      "\"Milhaud\" \"La creation du monde\" \"Eschig\" score buy"
+    ],
+    "notes": "Catalog specifies band. Original chamber orchestra and Londeix chamber ensemble versions should not be silently substituted; arranger unspecified."
+  },
+  {
+    "file": "content/works/Dirk Brossé - Mantra, Canta and Capriccio.md",
+    "name": "Dirk Brossé - Mantra, Canta and Capriccio",
+    "status": "lead",
+    "purchase_url": null,
+    "source_urls": [
+      "https://dirkbrosse.be/for-professionals/",
+      "https://sax.dinant.be/uploads/pages/299/319/press_release_-_8th_asic_composer.pdf",
+      "https://adolphesax.com/doc/Adolphesax.com_Dinant%202023%20Programme%20entier.pdf"
+    ],
+    "evidence": "Opened composer For Professionals/Store catalog has no Mantra entry. Competition's indexed official documents identify Mantra,Canto and Capriccio as the2023 compulsory alto saxophone/orchestra work. No score ordering source found.",
+    "composer_site_checked": "https://dirkbrosse.be/for-professionals/",
+    "queries": [
+      "Dirk Brosse Mantra Canta Capriccio score purchase",
+      "\"Mantra Canto\" \"Brossé\" score publisher"
+    ],
+    "notes": "Catalog uses Canta; competition uses Canto. Composer page states DB items are rental, but exact work absent, so rental-only cannot be asserted."
+  },
+  {
+    "file": "content/works/Erwin Dressel - Duo Konzert.md",
+    "name": "Erwin Dressel - Duo Konzert",
+    "status": "verified-purchase",
+    "purchase_url": "https://shop.rieserler.de/product_info.php?info=p2809_duo-konzert--1965--fuer-sopran--und-altsaxophon-u--kleines-orchester--ka-.html",
+    "source_urls": [
+      "https://shop.rieserler.de/product_info.php?info=p2809_duo-konzert--1965--fuer-sopran--und-altsaxophon-u--kleines-orchester--ka-.html",
+      "https://ardesa.de/noten.html"
+    ],
+    "evidence": "Opened publisher offers Erwin Dressel Duo Konzert(1965), soprano and alto saxophones with small orchestra, piano reduction edited Carina Rascher, EUR32, In den Warenkorb.",
+    "composer_site_checked": null,
+    "queries": [
+      "Erwin Dressel Duo Konzert soprano alto piano score"
+    ],
+    "notes": "Purchase is piano reduction."
+  },
+  {
+    "file": "content/works/Frederik van Rossum - Pathetic Story.md",
+    "name": "Frederik van Rossum - Pathetic Story",
+    "status": "lead",
+    "purchase_url": null,
+    "source_urls": [
+      "https://www.elkinmusic.com/public/catalog.pdf",
+      "https://www.newconsonantmusic.com/composer/van-rossum-frederik/"
+    ],
+    "evidence": "Opened Elkin sales catalog(2022) identifies Pathetic Story Op61 for alto saxophone and piano, Millstone MP0261. Opened representative publisher composer page mentions orchestral work, but does not offer it for sale.",
+    "composer_site_checked": "https://www.newconsonantmusic.com/composer/van-rossum-frederik/",
+    "queries": [
+      "Frederik van Rossum Pathetic Story saxophone score buy",
+      "\"Pathetic Story\" \"MP0261\"",
+      "\"Pathetic Story\" saxophone sheet music Millstone buy",
+      "\"Frederik van Rossum\" official composer website"
+    ],
+    "notes": "Historical sales catalog alone is not current purchase verification. Catalog Any Saxophone is broader than identified alto edition. No personal composer site found; publisher representative checked."
+  },
+  {
+    "file": "content/works/Georges Bizet - Intermezzo from l'Arlesienne.md",
+    "name": "Georges Bizet - Intermezzo from l'Arlesienne",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.sheetmusicplus.com/en/product/intermezzo-3787510.html",
+    "source_urls": [
+      "https://www.sheetmusicplus.com/en/product/intermezzo-3787510.html",
+      "https://www.jwpepper.com/orchestral-saxophonist-7411788/p"
+    ],
+    "evidence": "Opened retailer offers Bizet Intermezzo from L'Arlesienne Suite no2, Harry Gee transcription edited Don McCathren for alto saxophone and piano, CarlFischer W2401, score/parts9pages, priced USD8.09 with cart.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Bizet\" \"Intermezzo\" \"saxophone\" \"piano\" score buy"
+    ],
+    "notes": "Verified full alto/piano transcription; catalog body separately refers to Ronkin/Frascotti orchestral-excerpt anthology. No arranger specified in frontmatter."
+  },
+  {
+    "file": "content/works/Harald Genzmer - Sonate für Saxophon solo GeWV 206.md",
+    "name": "Harald Genzmer - Sonate für Saxophon solo GeWV 206",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.stretta-music.ch/it/genzmer-sonate-fuer-saxophon-solo-gewv-206-1994-nr-159797.html",
+    "source_urls": [
+      "https://www.stretta-music.ch/it/genzmer-sonate-fuer-saxophon-solo-gewv-206-1994-nr-159797.html"
+    ],
+    "evidence": "Opened retailer identifies Harald Genzmer Sonate fur Saxophon solo GeWV206(1994), alto saxophone, RiesErler RE24035, ISMN9790013240357. EUR10 available with Add to Cart.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Genzmer\" \"Sonate\" \"GeWV 206\" kaufen"
+    ],
+    "notes": ""
+  },
+  {
+    "file": "content/works/Isao Matsushita - Atoll II.md",
+    "name": "Isao Matsushita - Atoll II",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.ongakunotomo.co.jp/catalog/detail.php?id=972990",
+    "source_urls": [
+      "https://isao-matsushita.jp/compositions.php",
+      "https://www.ongakunotomo.co.jp/catalog/detail.php?id=972990"
+    ],
+    "evidence": "Opened original publisher product identifies Isao Matsushita Atoll II for alto saxophone and piano, item 972990, ISBN9784276972995, JPY 2860. Print on demand instructions state orders accepted through music retailers, including single copies.",
+    "composer_site_checked": "https://isao-matsushita.jp/compositions.php",
+    "queries": [
+      "Isao Matsushita Atoll II alto saxophone piano score",
+      "松下功 アトールII 楽譜"
+    ],
+    "notes": "Made to order printed score. Publisher directs buyers to music retailers."
+  },
+  {
+    "file": "content/works/Jay Vosk - Concerto.md",
+    "name": "Jay Vosk - Concerto",
+    "status": "lead",
+    "purchase_url": null,
+    "source_urls": [
+      "http://jayvosk.com/published-works/",
+      "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+      "https://www.grothmusic.com/search.aspx?searchterm=Vosk+Concerto"
+    ],
+    "evidence": "Opened composer's published-works page confirms Concerto for alto saxophone/chamber orchestra at Dorn. Opened Dorn April2025 catalog at Groth lists alto/piano order202 for USD15. Groth's live Vosk Concerto search returns no results.",
+    "composer_site_checked": "http://jayvosk.com/published-works/",
+    "queries": [
+      "\"Jay Vosk\" Concerto saxophone piano score",
+      "\"Vosk\" \"Concerto\" \"Dorn\" buy score",
+      "Jay Vosk Dorn publications purchase scores website"
+    ],
+    "notes": "Specific edition identified, but catalog-only listing lacks a live purchase or work-specific score-order mechanism."
+  },
+  {
+    "file": "content/works/Joel Love - The Manitou Incline.md",
+    "name": "Joel Love - The Manitou Incline",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.jwpepper.com/the-manitou-incline-11408596/p",
+    "source_urls": [
+      "https://www.jwpepper.com/the-manitou-incline-11408596/p",
+      "https://www.joellove.com/works"
+    ],
+    "evidence": "Opened J.W. Pepper product offers Joel Love The Manitou Incline, Murphy s-148, for USD30 with Add to Cart. Opened composer's works catalog confirms soprano saxophone and piano.",
+    "composer_site_checked": "https://www.joellove.com/works",
+    "queries": [
+      "\"Joel Love\" \"Manitou Incline\" score",
+      "\"The Manitou Incline\" \"Murphy\" piano"
+    ],
+    "notes": ""
+  },
+  {
+    "file": "content/works/John David Lamb - Six Barefoot Dances.md",
+    "name": "John David Lamb - Six Barefoot Dances",
+    "status": "edition-uncertain",
+    "purchase_url": null,
+    "source_urls": [
+      "https://www.stantons.com/sheet-music/title/6-barefoot-dances/MGM4570/",
+      "https://www.totheforepublishers.com/composerindex/sonata.php",
+      "https://www.classical.net/music/comp.lst/works/lambjd/index.php"
+    ],
+    "evidence": "Opened Stanton's MGM4570 identifies Six Barefoot Dances for two alto saxophones and marks it permanently out of print. Opened To the Fore composer page also identifies Barefoot Dances as two altos.",
+    "composer_site_checked": "https://www.totheforepublishers.com/composerindex/sonata.php",
+    "queries": [
+      "\"John David Lamb\" \"Six Barefoot\" buy",
+      "\"John David Lamb\" composer website scores"
+    ],
+    "notes": "Catalog says solo unaccompanied alto, conflicting with duet. No current purchasable matching edition found. No personal composer site found. ClassicalNet hosted composer catalog blocked by expired certificate; publisher composer page opened instead."
+  },
+  {
+    "file": "content/works/Kristin Kuster - Jellyfish.md",
+    "name": "Kristin Kuster - Jellyfish",
+    "status": "verified-purchase",
+    "purchase_url": "https://justatheorypress.com/products/jellyfish",
+    "source_urls": [
+      "https://justatheorypress.com/products/jellyfish"
+    ],
+    "evidence": "Publisher Jellyfish for alto saxophone/piano, score and part, PDF or print, Add to cart.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Kristin Kuster\" \"Jellyfish\" score purchase"
+    ],
+    "notes": ""
+  },
+  {
+    "file": "content/works/Leon Stein - Sonata.md",
+    "name": "Leon Stein - Sonata",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.halleonard.com/product/3774542/sonata",
+    "source_urls": [
+      "https://www.halleonard.com/product/3774542/sonata"
+    ],
+    "evidence": "Live browser verifies Leon Stein tenor Sonata, Southern SS864, price and Add To Cart.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Leon Stein\" \"Sonata\" saxophone buy"
+    ],
+    "notes": "Original catalog piano scoring retained; distributor label abbreviates forces to tenor saxophone."
+  },
+  {
+    "file": "content/works/Lynden De Young - Transformation.md",
+    "name": "Lynden De Young - Transformation",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.juneemersonwindmusic.com/Transformation-b54440e5-fdf3-8694-46aa-1bec18116cf9.html",
+    "source_urls": [
+      "https://www.juneemersonwindmusic.com/Transformation-b54440e5-fdf3-8694-46aa-1bec18116cf9.html",
+      "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf"
+    ],
+    "evidence": "Opened retailer identifies Transformation, Lynden De Young, alto saxophone and piano, DP0826, printed edition GBP15, Add to Cart.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Lynden De Young\" \"Transformation\" score",
+      "\"Transformation\" \"DP0826\"",
+      "\"Lynden De Young\" composer website"
+    ],
+    "notes": "Composer catalog record has no website, and search did not identify a personal composer site. Dorn catalog confirms order826."
+  },
+  {
+    "file": "content/works/Mark Kilstofte - Sonata.md",
+    "name": "Mark Kilstofte - Sonata",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.jwpepper.com/sonata-for-alto-saxophone-and-piano-11375596/p",
+    "source_urls": [
+      "https://www.jwpepper.com/sonata-for-alto-saxophone-and-piano-11375596/p"
+    ],
+    "evidence": "Live browser verifies Kilstofte alto/piano Sonata, Newmatic NP037-0006a, price and Add to Cart.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Mark Kilstofte\" \"Sonata\" saxophone score",
+      "\"Kilstofte\" \"Sonata\" \"Newmatic\""
+    ],
+    "notes": ""
+  },
+  {
+    "file": "content/works/Mischa Zupko - In Transit.md",
+    "name": "Mischa Zupko - In Transit",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.mischazupko.com/product/in-transit/",
+    "source_urls": [
+      "https://www.mischazupko.com/product/in-transit/"
+    ],
+    "evidence": "Composer sells In Transit for alto saxophone/piano with price and Buy Now.",
+    "composer_site_checked": "https://www.mischazupko.com/product/in-transit/",
+    "queries": [
+      "\"Mischa Zupko\" \"In Transit\" score"
+    ],
+    "notes": ""
+  },
+  {
+    "file": "content/works/Paul Ben-Haim - Three Songs Without Words.md",
+    "name": "Paul Ben-Haim - Three Songs Without Words",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.kulturkaufhaus.de/de/detail/ISBN-9781491177280/Ben-Haim-Paul/Three-Songs-Without-Words-for-clarinet-tenor-saxophone-and-piano",
+    "source_urls": [
+      "https://www.kulturkaufhaus.de/de/detail/ISBN-9781491177280/Ben-Haim-Paul/Three-Songs-Without-Words-for-clarinet-tenor-saxophone-and-piano",
+      "https://www.imi.org.il/en/mpieces/three-songs-without-words-3/"
+    ],
+    "evidence": "Opened retailer identifies Paul Ben-Haim Three Songs Without Words for clarinet (tenor saxophone) and piano, IMI7363, ISBN9781491177280, EUR21.50, one copy in store, In den Warenkorb. Publisher IMI7363 score and parts page has USD18 cart.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Ben-Haim\" \"7363\" \"tenor\" buy"
+    ],
+    "notes": "Use IMI7363 tenor-compatible edition; IMI7362 alto edition does not match catalog."
+  },
+  {
+    "file": "content/works/Paule Maurice - Volio.md",
+    "name": "Paule Maurice - Volio",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.ficksmusic.com/pt/collections/works-by-female-composers/products/maurice-volio-billaudot",
+    "source_urls": [
+      "https://www.justflutes.com/shop/product/volio-saxophone-paule-maurice",
+      "https://www.ficksmusic.com/pt/collections/works-by-female-composers/products/maurice-volio-billaudot"
+    ],
+    "evidence": "Opened Ficks product offers Paule Maurice Volio, Etude for Alto Saxophone, Billaudot GB1587, ISMN9790043015871, USD7, in stock with Add to Cart.",
+    "composer_site_checked": null,
+    "queries": [
+      "Paule Maurice Volio saxophone score buy",
+      "\"Volio\" \"Maurice\" \"alto\" GB1587"
+    ],
+    "notes": "Just Flutes also offers preorder; preferred link is in stock at Ficks."
+  },
+  {
+    "file": "content/works/Renato Goulart - Imagens do Broasil.md",
+    "name": "Renato Goulart - Imagens do Broasil",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.sheetmusicplus.com/en/product/imagens-do-brasil-23553423.html",
+    "source_urls": [
+      "https://www.sheetmusicplus.com/en/product/imagens-do-brasil-23553423.html",
+      "https://en.renatogoulart.mus.br/"
+    ],
+    "evidence": "Opened composer-published product: Renato Goulart Imagens do Brasil, alto saxophone part and piano accompaniment, 19pages, #1302419/A0.1741457, USD29 digital download, Access Instantly and Add to Cart.",
+    "composer_site_checked": "https://en.renatogoulart.mus.br/",
+    "queries": [
+      "Renato Goulart Imagens do Brasil score saxophone"
+    ],
+    "notes": "Catalog name has Broasil typo; verified edition uses Brasil."
+  },
+  {
+    "file": "content/works/Robert Sibbing - Sonata.md",
+    "name": "Robert Sibbing - Sonata",
+    "status": "lead",
+    "purchase_url": null,
+    "source_urls": [
+      "https://www.ravellorecords.com/catalog/rr8062/",
+      "https://www.totheforepublishers.com/composerindex.php",
+      "https://www.totheforepublishers.com/sopranosax.php"
+    ],
+    "evidence": "Opened Ravello release confirms exact three-movement soprano saxophone/piano Sonata and credits To the Fore Publishers. Opened publisher composer index and soprano saxophone catalog do not list Sibbing Sonata.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Robert Sibbing\" saxophone sonata Ethos Etoile",
+      "\"Robert Sibbing\" composer website scores sonata",
+      "\"Sibbing\" \"Sonata\" \"soprano\" sheet music buy"
+    ],
+    "notes": "Publisher contact is a lead, not verified work-specific score ordering. No personal composer website identified. Schott's Sibbing Sonata is for tuba/piano and was excluded."
+  },
+  {
+    "file": "content/works/Ryo Noda - Pulse 72±.md",
+    "name": "Ryo Noda - Pulse 72±",
+    "status": "edition-uncertain",
+    "purchase_url": null,
+    "source_urls": [
+      "https://www.halleonard.com/search/composer/240785/ryo-noda",
+      "https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+      "https://tombergeron.us/download/sax-multiphonics.pdf",
+      "https://csmcordoba.com/wp-content/uploads/2023/02/Saxofon_guiadocente2223.pdf"
+    ],
+    "evidence": "No opened current purchase source located for Pulse72±. Opened Hal Leonard's Ryo Noda composer catalog does not list Pulse. Indexed Philharmonie and conservatory bibliographies identify Leduc AL27003, alto solo, conflicting with catalog soprano.",
+    "composer_site_checked": "https://www.halleonard.com/search/composer/240785/ryo-noda",
+    "queries": [
+      "\"Ryo Noda\" \"Pulse 72\" score buy",
+      "\"Noda\" \"Pulse 72\" score Leduc",
+      "\"Ryo Noda\" official website Pulse 72",
+      "\"AL27003\" saxophone"
+    ],
+    "notes": "No personal composer website identified; official distributor composer catalog checked. Bibliography PDFs could not be opened, so alto attribution remains search-index evidence. No unrelated Pulse by Vincent David substituted."
+  },
+  {
+    "file": "content/works/Sigfrid Karg-Elert - Sonata Appassionata, Op. 140.md",
+    "name": "Sigfrid Karg-Elert - Sonata Appassionata, Op. 140",
+    "status": "edition-uncertain",
+    "purchase_url": null,
+    "source_urls": [
+      "https://www.ficksmusic.com/products/karg-elert-sonata-appassionata-op-140-zimmermann"
+    ],
+    "evidence": "Opened retailer offers Op140 Sonata Appassionata as Zimmermann ZM17760 for flute alone,8pages. No soprano saxophone and piano arrangement found.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Karg Elert\" \"Sonata appassionata\" \"soprano saxophone\"",
+      "\"Karg-Elert\" \"Sonata Appassionata\" publisher Zimmermann"
+    ],
+    "notes": "Catalog soprano/piano forces conflict with original flute solo; arranger unknown."
+  },
+  {
+    "file": "content/works/Takuma Itoh - Sarcasms.md",
+    "name": "Takuma Itoh - Sarcasms",
+    "status": "lead",
+    "purchase_url": null,
+    "source_urls": [
+      "https://takumaitoh.com/music.html",
+      "https://takumaitoh.com/music/sarcasms.html",
+      "https://www.noaevenmusic.com/saxandpiano"
+    ],
+    "evidence": "Composer's indexed work list identifies Sarcasms(2008), alto saxophone/piano. Exact work page fails web open with502 and live browser certificate validation. No independent purchase source located.",
+    "composer_site_checked": "https://takumaitoh.com/music/sarcasms.html",
+    "queries": [
+      "\"Takuma Itoh\" \"Sarcasms\" score",
+      "\"Sarcasms\" \"Itoh\" score purchase",
+      "site:takumaitoh.com/music/sarcasms.html \"Purchase\""
+    ],
+    "notes": "General purchase-by-contact instructions found only on other Itoh works. Those do not prove Sarcasms ordering, so composer-order not assigned. Certificate warning was not bypassed."
+  },
+  {
+    "file": "content/works/Thoma Simaku - Soliloquy Vi (Hommage À Lutosławski).md",
+    "name": "Thoma Simaku - Soliloquy Vi (Hommage À Lutosławski)",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.sheetmusicplus.com/en/product/soliloquy-vi-22214456.html",
+    "source_urls": [
+      "https://www.sheetmusicplus.com/en/product/soliloquy-vi-22214456.html"
+    ],
+    "evidence": "Live browser verifies Simaku soprano solo Soliloquy VI, YKM570369928, price and Add to Cart.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Simaku\" \"Soliloquy VI\" sheet music buy"
+    ],
+    "notes": ""
+  },
+  {
+    "file": "content/works/William Bolcom - Aubade.md",
+    "name": "William Bolcom - Aubade",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.halleonard.com/product/841554/aubade",
+    "source_urls": [
+      "https://www.halleonard.com/product/841554/aubade"
+    ],
+    "evidence": "Opened distributor page: Bolcom Aubade for oboe or B-flat soprano saxophone with piano, priced ordering.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"William Bolcom\" \"Aubade\" saxophone sheet music"
+    ],
+    "notes": ""
+  },
+  {
+    "file": "content/works/Yoshihisa Taïra - Pénombres VI.md",
+    "name": "Yoshihisa Taïra - Pénombres VI",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.laflutedepan.com/partition/1070131/yoshihisa-taira-penombres-vi-partition-saxophone-alto-et-piano.html",
+    "source_urls": [
+      "https://www.laflutedepan.com/partition/1070131/yoshihisa-taira-penombres-vi-partition-saxophone-alto-et-piano.html"
+    ],
+    "evidence": "Opened retailer product identifies Yoshihisa Taira Penombres VI for alto saxophone and piano, Transatlantiques TR001929. EUR 33.10, in stock, Ajouter au panier.",
+    "composer_site_checked": null,
+    "queries": [
+      "Yoshihisa Taira Penombres VI saxophone piano score"
+    ],
+    "notes": ""
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "run_number": 151,
+  "filename": "Shin'ichirō Ikebe - Bivalence VIII.md",
+  "path": "content/works/Shin'ichirō Ikebe - Bivalence VIII.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": "Shin’ichirō Ikebe: Bivalence VIII, two saxophonists doubling four instruments",
+  "findings": [
+    "Zen-On specifies player 1 soprano/alto and player 2 tenor/baritone; commissioned by Zen-On, premiered 2 December 2011 at Tsuda Hall by Nobuya Sugawa and Yasushi Arai; digital score twenty pages.",
+    "Composition year 2011 and duration nine minutes."
+  ],
+  "evidence": [
+    {
+      "claim": "Zen-On specifies player 1 soprano/alto and player 2 tenor/baritone; commissioned by Zen-On, premiered 2 December 2011 at Tsuda Hall by Nobuya Sugawa and Yasushi Arai; digital score twenty pages.",
+      "url": "https://shop.zen-on.co.jp/downloads/detail/56002200/",
+      "source_name": "Zen-On",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Composition year 2011 and duration nine minutes.",
+      "url": "https://www.zen-on.co.jp/en/publishing/cr/composers/works/detail/73/",
+      "source_name": "Zen-On",
+      "kind": "publisher",
+      "access": "opened"
+    }
+  ],
+  "metadata": {
+    "instruments": [
+      "Soprano",
+      "Alto",
+      "Tenor",
+      "Baritone"
+    ],
+    "multi-instruments": "Two players: soprano/alto saxophones and tenor/baritone saxophones"
+  },
+  "score_observations": "",
+  "notation_inspected": false,
+  "score_links": [
+    {
+      "url": "https://www.zen-on.co.jp/trial/560022/HTML5/pc.html#/page/1",
+      "description": "Publisher public score reader; notation not inspected.",
+      "inspected": false
+    }
+  ],
+  "listening": [],
+  "collection_flag": "Original contemporary concert duo with mandatory saxophone doubling and documented professional premiere.",
+  "gaps": [
+    "Notation and exact recording not inspected."
+  ],
+  "searches": [
+    "Ikebe Bivalence VIII saxophone",
+    "Bivalence VIII Zen-On 560022"
+  ],
+  "proposed_corrections": []
+}

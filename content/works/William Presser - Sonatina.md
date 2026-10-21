@@ -18,6 +18,7 @@ research:
   - "Official product 494-01951 confirms William Presser, Sonatina, soprano saxophone and piano. · https://www.presser.com/494-01951-sonatina.html"
   - "Tenuto 494-01951, 12 pages; cover explicitly labels soprano saxophone and piano. · https://www.grothmusic.com/p-147489.aspx"
   - "Exact product 5303839 identifies the soprano work but reports no score or audio preview. · https://www.jwpepper.com/sonatina-soprano-sax-and-piano/5303839.item"
+  - "Current publisher page explicitly reconfirms soprano saxophone/piano Sonatina, 494-01951, score and parts, Tritone Press & Tenuto. · https://www.presser.com/494-01951-sonatina.html"
 aliases: []
 publisher:
   - "Tritone Press & Tenuto Publications"
@@ -47,3 +48,27 @@ Catalog: [[William Presser - Sonatina]]
 - Review focus: Inference: compare the three contrasting movement labels against score evidence before describing form or technique.
 - Gaps: No score or recording inspected; publisher primary listing not found.
 
+### Research checked October 16, 2026
+
+**Identity checked:** William Presser: Sonatina, soprano saxophone and piano
+
+**Findings**
+
+- Current publisher page explicitly reconfirms soprano saxophone/piano Sonatina, 494-01951, score and parts, Tritone Press & Tenuto.
+
+**Notation inspected:** No.
+
+**Collection fit:** Original soprano Sonatina. Do not apply dates or recordings from Presser's different horn, alto, baritone or tenor sonatinas.
+
+**Still unknown**
+
+- No new notation, exact soprano recording or composition date found.
+- Prior difficulty hold remains.
+
+**Sources and access**
+
+- [Theodore Presser](https://www.presser.com/494-01951-sonatina.html): Current publisher page explicitly reconfirms soprano saxophone/piano Sonatina, 494-01951, score and parts, Tritone Press & Tenuto. Source opened.
+
+**Searches tried:** `William Presser Sonatina soprano`; `William Presser soprano Sonatina score`; `William Presser soprano Sonatina recording`.
+
+[[Remaining Repertoire Research - 2026-10-16|Full research overview]]

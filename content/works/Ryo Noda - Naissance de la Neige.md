@@ -1,23 +1,24 @@
 ---
-title: "Naissance de la Neige"
+title: Naissance de la Neige
 slug: ryo-noda-naissance-de-la-neige
 composer:
   - "[[Ryo Noda]]"
 instruments:
-  - "Alto Saxophone"
-  - "Piano"
-composed: 
-year-of-study: "Fourth Year"
-streaming: 
+  - Alto Saxophone
+  - Piano
+composed: 1992
+year-of-study: Fourth Year
+streaming:
+  - https://www.youtube.com/watch?v=EjyEKHvXR9U
 purchase:
   - https://www.grothmusic.com/p-139812.aspx
 added: 2024-03-08
 research:
-  - "Publisher Alphonse Leduc, catalog no. AL29061 · https://www.grothmusic.com/p-139812.aspx"
-  - "Listed as Naissance de la Neige · https://www.grothmusic.com/p-139812.aspx"
-  - "Exact scoring, optional electric organ and AL29061. · https://www.halleonard.com/product/48185478/naissance-de-la-neige-saxophone-alto-piano"
+  - Publisher Alphonse Leduc, catalog no. AL29061 · https://www.grothmusic.com/p-139812.aspx
+  - Listed as Naissance de la Neige · https://www.grothmusic.com/p-139812.aspx
+  - Exact scoring, optional electric organ and AL29061. · https://www.halleonard.com/product/48185478/naissance-de-la-neige-saxophone-alto-piano
 publisher:
-  - "Alphonse Leduc"
+  - Alphonse Leduc
 aliases:
   - /works/ryo-noda-naissance-de-la-neig/
 ---

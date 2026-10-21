@@ -9,7 +9,8 @@ instruments:
 composed: 2004
 year-of-study: "Second Year"
 streaming: 
-purchase: []
+purchase:
+  - "Composer's website · https://www.clareloveday.co.za"
 added: 2024-02-21
 research:
   - "Alto saxophone and piano, 5'30\"; premiered 16 April 2005, Wits University Atrium, by Ceri Moelwyn-Hughes and Gregory Mollenz · https://www.clareloveday.co.za/compositions.html"
@@ -19,6 +20,12 @@ research:
   - "Soprano2005 catalog entry with alto premiere; long lines, standard range and repeated piano chords. · https://repository.up.ac.za/bitstreams/c85ea27d-b97a-4b47-bfa6-266368d61904/download"
 aliases: []
 ---
+*Breath* (2004) is for alto saxophone and piano. Its duration is 5 minutes 30 seconds.
+
+The première took place on 16 April 2005 at the Wits University Atrium in Johannesburg. Ceri Moelwyn-Hughes played saxophone, with Gregory Mollenz on piano.
+
+[Composer's work listing](https://clareloveday.co.za/compositions.html).
+
 ## Research notes (private)
 
 ### Chat batch 07 follow-up, 2026-10-13

@@ -1,0 +1,1003 @@
+[
+  {
+    "file": "content/works/Alexander Gretchaninov - Phantasme.md",
+    "name": "Alexander Gretchaninov - Phantasme",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.stantons.com/sheet-music/title/phantasme/48180774/",
+    "source_urls": [
+      "https://www.stantons.com/sheet-music/title/phantasme/48180774/"
+    ],
+    "evidence": "Alphonse Leduc AL19176; alto saxophone. Cross-check confirms piano accompaniment.",
+    "composer_site_checked": null,
+    "queries": [
+      "Gretchaninoff Phantasme saxophone sheet music"
+    ],
+    "notes": "",
+    "verification_method": "Opened with web reader or browser accessibility snapshot."
+  },
+  {
+    "file": "content/works/Alexander Gretchaninov - Souvenir de L'Ami.md",
+    "name": "Alexander Gretchaninov - Souvenir de L'Ami",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.crescendo-music.com/en_GB/shop/14712-souvenir-de-l-ami-lointain-17780",
+    "source_urls": [
+      "https://www.crescendo-music.com/en_GB/shop/14712-souvenir-de-l-ami-lointain-17780"
+    ],
+    "evidence": "Alphonse Leduc AL19175; alto saxophone and piano.",
+    "composer_site_checked": null,
+    "queries": [
+      "Gretchaninoff Phantasme saxophone sheet music"
+    ],
+    "notes": "",
+    "verification_method": "Opened with web reader or browser accessibility snapshot."
+  },
+  {
+    "file": "content/works/Anders Hillborg - Plainsong And Echoes.md",
+    "name": "Anders Hillborg - Plainsong And Echoes",
+    "status": "composer-order",
+    "purchase_url": "https://www.fabermusic.com/music/plainsong-and-echoes",
+    "source_urls": [
+      "https://www.fabermusic.com/music/plainsong-and-echoes"
+    ],
+    "evidence": "Faber's opened work page explicitly offers score and parts on special sale from its Hire Library.",
+    "composer_site_checked": null,
+    "queries": [
+      "Anders Hillborg Plainsong Echoes saxophone buy score"
+    ],
+    "notes": "Edition is soprano saxophone or oboe and four cellos. Catalog lists cello without specifying four."
+  },
+  {
+    "file": "content/works/Annika Socolofsky - Rise.md",
+    "name": "Annika Socolofsky - Rise",
+    "status": "verified-purchase",
+    "purchase_url": "https://annika-socolofsky.squarespace.com/store/rise",
+    "source_urls": [
+      "https://annika-socolofsky.squarespace.com/store/rise"
+    ],
+    "evidence": "Composer store offers score and parts PDF for alto saxophone and piano.",
+    "composer_site_checked": "https://annika-socolofsky.squarespace.com/store/rise",
+    "queries": [
+      "Annika Socolofsky Rise saxophone score buy"
+    ],
+    "notes": "",
+    "verification_method": "Opened with web reader or browser accessibility snapshot."
+  },
+  {
+    "file": "content/works/Astor Piazzolla - Adiós Nonino.md",
+    "name": "Astor Piazzolla - Adiós Nonino",
+    "status": "edition-uncertain",
+    "purchase_url": null,
+    "source_urls": [
+      "https://www.scoreexchange.com/scores/adios-nonino-558896.html"
+    ],
+    "evidence": "A purchasable alto saxophone/piano arrangement was found. No soprano saxophone/piano purchase was verified.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Libertango\" \"alto saxophone\" \"piano\" sheet music"
+    ],
+    "notes": "Catalog specifies soprano. Do not substitute alto or saxophone-quartet editions."
+  },
+  {
+    "file": "content/works/Astor Piazzolla - Decarisimo.md",
+    "name": "Astor Piazzolla - Decarisimo",
+    "status": "edition-uncertain",
+    "purchase_url": null,
+    "source_urls": [
+      "https://www.fostermusic.jp/products/detail/7229"
+    ],
+    "evidence": "Fostermusic sells Makoto Asari's saxophone-quartet edition. Catalog requests alto saxophone and piano.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Libertango\" \"alto saxophone\" \"piano\" sheet music"
+    ],
+    "notes": "No alto/piano edition verified. Searched both Decarisimo and Decarissimo spellings."
+  },
+  {
+    "file": "content/works/Astor Piazzolla - Escualo.md",
+    "name": "Astor Piazzolla - Escualo",
+    "status": "edition-uncertain",
+    "purchase_url": null,
+    "source_urls": [
+      "https://shop.ymdmusic.jp/en/products/ymds-0015",
+      "https://eclassical.textalk.se/shop/17115/art81/4741081-603b49-BIS-1640_booklet.pdf"
+    ],
+    "evidence": "YMD indexed a Yuto Yamada alto/piano arrangement, but its product URL redirected to the store home in the browser. BIS identifies the recorded band arrangement as Teho/Takumi Studio.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Libertango\" \"alto saxophone\" \"piano\" sheet music"
+    ],
+    "notes": "Catalog names Claude Delangle as arranger. Neither a Delangle purchase nor the exact band score was verified."
+  },
+  {
+    "file": "content/works/Astor Piazzolla - Libertango.md",
+    "name": "Astor Piazzolla - Libertango",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.sheetmusicplus.com/en/product/25-piazzolla-tangos-for-alto-saxophone-and-piano-20349198.html",
+    "source_urls": [
+      "https://www.sheetmusicplus.com/en/product/25-piazzolla-tangos-for-alto-saxophone-and-piano-20349198.html"
+    ],
+    "evidence": "Included in 25 Piazzolla Tangos for Alto Saxophone and Piano, Boosey & Hawkes; collection edition, not a standalone score.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Libertango\" \"alto saxophone\" \"piano\" sheet music"
+    ],
+    "notes": "",
+    "verification_method": "Opened with web reader or browser accessibility snapshot."
+  },
+  {
+    "file": "content/works/Astor Piazzolla - Prepárense.md",
+    "name": "Astor Piazzolla - Prepárense",
+    "status": "unresolved",
+    "purchase_url": null,
+    "source_urls": [
+      "https://www.all-sheetmusic.com/Mixed-Ensemble/Preparense.html"
+    ],
+    "evidence": "Searches found a mixed-ensemble sale and recordings. No alto saxophone/piano score purchase was verified.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Libertango\" \"alto saxophone\" \"piano\" sheet music"
+    ],
+    "notes": "The identified paid edition is trumpet, accordion, piano, bass and drums. It does not match the catalog."
+  },
+  {
+    "file": "content/works/Augusta Reed Thomas - Chant.md",
+    "name": "Augusta Reed Thomas - Chant",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.forsyths.co.uk/sheet-music/instruments/woodwind/saxophone-sheet-music/187488-thomas-augusta-read-chant-9781423406051.html",
+    "source_urls": [
+      "https://www.forsyths.co.uk/sheet-music/instruments/woodwind/saxophone-sheet-music/187488-thomas-augusta-read-chant-9781423406051.html"
+    ],
+    "evidence": "G. Schirmer HL50486113; alto saxophone and piano.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Augusta Read Thomas\" \"Chant\" saxophone score purchase"
+    ],
+    "notes": "",
+    "verification_method": "Opened with web reader or browser accessibility snapshot."
+  },
+  {
+    "file": "content/works/Camille Saint-Saens - The Swan.md",
+    "name": "Camille Saint-Saens - The Swan",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.halleonard.com/product/50490805/le-cygne-the-swan-from-carnaval-des-animaux",
+    "source_urls": [
+      "https://www.halleonard.com/product/50490805/le-cygne-the-swan-from-carnaval-des-animaux"
+    ],
+    "evidence": "Saxophone and piano edition. Must determine included saxophone voices.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Saint Saens\" \"The Swan\" saxophone piano sheet music buy"
+    ],
+    "notes": "",
+    "verification_method": "Opened with web reader or browser accessibility snapshot."
+  },
+  {
+    "file": "content/works/Charles Koechlin - Premiere Sonatine.md",
+    "name": "Charles Koechlin - Premiere Sonatine",
+    "status": "edition-uncertain",
+    "purchase_url": null,
+    "source_urls": [
+      "https://www.kotta.info/en/product/ME00851000/KOECHLIN-CHARLES-Sonatine-No-1-Op-194-No-1"
+    ],
+    "evidence": "Opened Kotta product ME00851000 offers Sonatine No.1 Op.194 No.1 with a purchase control.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Sonatine No.1\" \"Koechlin\" \"ME00851000\""
+    ],
+    "notes": "This edition is soprano saxophone or oboe d'amore with flute, clarinet, strings and harpsichord. Catalog specifies soprano only. Full score versus set of parts is not established."
+  },
+  {
+    "file": "content/works/Clara Schumann - Three Romances, Op. 22.md",
+    "name": "Clara Schumann - Three Romances, Op. 22",
+    "status": "unresolved",
+    "purchase_url": null,
+    "source_urls": [
+      "https://classical.music.apple.com/fr/album/1784673557"
+    ],
+    "evidence": "Searches identified Nicolas Arsenijevic's soprano/piano recording, but no matching score sale.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Clara Schumann\" \"romances\" \"saxophone soprano\" partition acheter"
+    ],
+    "notes": "Avoid Robert Schumann's Op.94, which dominates saxophone purchase results. Existing IMSLP link is not a verified soprano edition."
+  },
+  {
+    "file": "content/works/Clare Loveday - Breath.md",
+    "name": "Clare Loveday - Breath",
+    "status": "lead",
+    "purchase_url": null,
+    "source_urls": [
+      "https://clareloveday.co.za/compositions.html",
+      "https://clareloveday.co.za/contact.html",
+      "https://www.samroscores.org.za/work/breath/"
+    ],
+    "evidence": "Composer compositions and contact pages were checked. No checkout or specific score-order instructions were found.",
+    "composer_site_checked": "https://clareloveday.co.za/compositions.html",
+    "queries": [
+      "Clare Loveday Breath Displacement score buy composer"
+    ],
+    "notes": "Composer contact is an inquiry lead. SAMRO is a library source, not a confirmed score sale."
+  },
+  {
+    "file": "content/works/Clare Loveday - Displacement.md",
+    "name": "Clare Loveday - Displacement",
+    "status": "lead",
+    "purchase_url": null,
+    "source_urls": [
+      "https://clareloveday.co.za/compositions.html",
+      "https://clareloveday.co.za/contact.html",
+      "https://www.samroscores.org.za/work/displacement/"
+    ],
+    "evidence": "Composer compositions and contact pages were checked. No checkout or specific score-order instructions were found.",
+    "composer_site_checked": "https://clareloveday.co.za/compositions.html",
+    "queries": [
+      "Clare Loveday Breath Displacement score buy composer"
+    ],
+    "notes": "Composer contact is an inquiry lead. SAMRO is a library source, not a confirmed score sale."
+  },
+  {
+    "file": "content/works/Daniel Capelletti - Ge(r)ms.md",
+    "name": "Daniel Capelletti - Ge(r)ms",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.demond.de/daniel-capelletti-germs-for-alto-saxophone-and-piano-454841",
+    "source_urls": [
+      "https://www.demond.de/daniel-capelletti-germs-for-alto-saxophone-and-piano-454841"
+    ],
+    "evidence": "Lantro Music, alto saxophone and piano.",
+    "composer_site_checked": "https://www.danielcapelletti.com/ge-r-ms",
+    "queries": [
+      "\"Germs\" \"Capelletti\" Lantro"
+    ],
+    "notes": "",
+    "verification_method": "Opened with web reader or browser accessibility snapshot."
+  },
+  {
+    "file": "content/works/Dietrich Erdmann - Konzert.md",
+    "name": "Dietrich Erdmann - Konzert",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.kulturkaufhaus.de/de/detail/ISBN-9790013240067/Erdmann-Dietrich/Konzert",
+    "source_urls": [
+      "https://www.kulturkaufhaus.de/de/detail/ISBN-9790013240067/Erdmann-Dietrich/Konzert"
+    ],
+    "evidence": "Ries & Erler 24006; composer piano reduction with saxophone part. Browser showed order control.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Erdmann\" \"24006\" saxophon"
+    ],
+    "notes": "",
+    "verification_method": "Opened with web reader or browser accessibility snapshot."
+  },
+  {
+    "file": "content/works/Eric Durand - Bossambaba.md",
+    "name": "Eric Durand - Bossambaba",
+    "status": "unresolved",
+    "purchase_url": null,
+    "source_urls": [
+      "https://saxiana.com/for-solo-saxophone-with-piano-tape/",
+      "https://saxiana.com/2-festival-du-saxophone-a-limoges/"
+    ],
+    "evidence": "Saxiana's commissioned-work list identifies alto saxophone/piano and Editions Art Vent. No live score-order page was verified.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Eric Durand\" \"Bossambaba\" partition"
+    ],
+    "notes": "Search for a composer website did not locate a verified official site for this composer."
+  },
+  {
+    "file": "content/works/Fisher Tull - Dialogue.md",
+    "name": "Fisher Tull - Dialogue",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.halleonard.com/product/3775558/dialogue",
+    "source_urls": [
+      "https://www.halleonard.com/product/3775558/dialogue"
+    ],
+    "evidence": "Southern Music ST752; alto and tenor saxophone duet. Browser showed Add To Cart.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Fisher Tull\" \"Dialogue\" \"Southern\" buy"
+    ],
+    "notes": "",
+    "verification_method": "Opened with web reader or browser accessibility snapshot."
+  },
+  {
+    "file": "content/works/Fisher Tull - Threnody.md",
+    "name": "Fisher Tull - Threnody",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.halleonard.com/product/48007124/threnody",
+    "source_urls": [
+      "https://www.halleonard.com/product/48007124/threnody"
+    ],
+    "evidence": "Boosey & Hawkes M051680207; unaccompanied alto saxophone.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Fisher Tull\" \"Dialogue\" \"Southern\" buy"
+    ],
+    "notes": "",
+    "verification_method": "Opened with web reader or browser accessibility snapshot."
+  },
+  {
+    "file": "content/works/François Rossé - Wend’kreis—Cercle des vents.md",
+    "name": "François Rossé - Wend’kreis—Cercle des vents",
+    "status": "unresolved",
+    "purchase_url": null,
+    "source_urls": [
+      "https://girondemusicbox.fr/artistes/francois-rosse/",
+      "http://francois.rosse2.pagesperso-orange.fr/"
+    ],
+    "evidence": "Exact-title and variant searches located performance documentation. No score purchase was verified.",
+    "composer_site_checked": "http://francois.rosse2.pagesperso-orange.fr/",
+    "queries": [
+      "\"Francois Rosse\" \"Wend Kreis\""
+    ],
+    "notes": "The historical composer website could not be retrieved. BabelScores lists other works; that does not establish availability of this concerto."
+  },
+  {
+    "file": "content/works/George Frideric Handel - Largo.md",
+    "name": "George Frideric Handel - Largo",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.ateliercelia.fr/album--pieces-celebres-1-mule-p-3-52-5813-o-21/",
+    "source_urls": [
+      "https://www.ateliercelia.fr/album--pieces-celebres-1-mule-p-3-52-5813-o-21/"
+    ],
+    "evidence": "Leduc Pieces celebres volume 1, AL25707, Marcel Mule; alto saxophone and piano, contents include Largo.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Handel\" \"Largo celebre\" \"Mule\" saxophone"
+    ],
+    "notes": "",
+    "verification_method": "Opened with web reader or browser accessibility snapshot."
+  },
+  {
+    "file": "content/works/Guy Lacour - Piece Concertante.md",
+    "name": "Guy Lacour - Piece Concertante",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.billaudot.com/piece-concertante.html",
+    "source_urls": [
+      "https://www.billaudot.com/piece-concertante.html"
+    ],
+    "evidence": "GB2108; alto or tenor saxophone and piano.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Guy Lacour\" \"Étude de Concert\" score"
+    ],
+    "notes": "",
+    "verification_method": "Opened with web reader or browser accessibility snapshot."
+  },
+  {
+    "file": "content/works/Guy Lacour - Étude de Concert.md",
+    "name": "Guy Lacour - Étude de Concert",
+    "status": "lead",
+    "purchase_url": null,
+    "source_urls": [
+      "https://www.billaudot.com/etude-de-concert-3.html"
+    ],
+    "evidence": "GB5202; solo saxophone. Publisher says forthcoming, availability uncertain.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Guy Lacour\" \"Étude de Concert\" score"
+    ],
+    "notes": "Publisher GB5202 product is forthcoming/unavailable with no purchase button. Retailer listing exists but current orderability was not verified.",
+    "verification_method": "Opened with web reader or browser accessibility snapshot."
+  },
+  {
+    "file": "content/works/Harald Banter - Concerto for Soprano Saxophone and Jazz Orchestra.md",
+    "name": "Harald Banter - Concerto for Soprano Saxophone and Jazz Orchestra",
+    "status": "unresolved",
+    "purchase_url": null,
+    "source_urls": [
+      "https://www.schott-music.com/de/person/harald-banter"
+    ],
+    "evidence": "Exact-title and German saxophone-concerto searches did not produce a matching purchase page.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Harald Banter\" \"Saxophon\" Konzert Noten"
+    ],
+    "notes": "Composer-site search did not identify a verified personal site. Schott lists other soprano-saxophone works; this concerto's sale status is unknown."
+  },
+  {
+    "file": "content/works/Ibrahim Maalouf - Histrionia.md",
+    "name": "Ibrahim Maalouf - Histrionia",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.lmi-partitions.com/produit/histrionia/",
+    "source_urls": [
+      "https://www.lmi-partitions.com/produit/histrionia/"
+    ],
+    "evidence": "Robert Martin RM5987; saxophone and piano.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Ibrahim Maalouf\" \"Histrionia\" partition"
+    ],
+    "notes": "",
+    "verification_method": "Opened with web reader or browser accessibility snapshot."
+  },
+  {
+    "file": "content/works/James DeMars - The Seventh Healing Song of John Joseph (Blue).md",
+    "name": "James DeMars - The Seventh Healing Song of John Joseph (Blue)",
+    "status": "lead",
+    "purchase_url": null,
+    "source_urls": [
+      "https://jamesdemars.net/listen",
+      "https://jamesdemars.net/music-scores-1"
+    ],
+    "evidence": "Composer's listen page identifies Seventh Healing Song for flute/sax and fixed media. His music-scores page provides perusal headings and a contact address.",
+    "composer_site_checked": "https://jamesdemars.net/music-scores-1",
+    "queries": [
+      "\"James DeMars\" \"Seventh Healing\" score buy"
+    ],
+    "notes": "No price, checkout, or explicit score-sale instruction was found. Confirm saxophone edition and fixed media with the composer."
+  },
+  {
+    "file": "content/works/Jerry Coker - Complete Method for Improvisation.md",
+    "name": "Jerry Coker - Complete Method for Improvisation",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.sheetmusicplus.com/en/product/complete-method-for-improvisation-for-all-instruments-1506310.html",
+    "source_urls": [
+      "https://www.sheetmusicplus.com/en/product/complete-method-for-improvisation-for-all-instruments-1506310.html",
+      "https://www.alfred.com/products/complete-method-for-improvisation-for-all-instruments-00-sb84cd"
+    ],
+    "evidence": "Book and CD for all instruments, 00-SB84CD.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Jerry Coker\" \"Complete Method\" improvisation buy"
+    ],
+    "notes": "Publisher live button is temporarily out of stock. Retailer accepts special orders for the book and CD; fulfillment is not guaranteed.",
+    "verification_method": "Opened with web reader or browser accessibility snapshot."
+  },
+  {
+    "file": "content/works/Johann Sebastian Bach - Air From Suite No. 3.md",
+    "name": "Johann Sebastian Bach - Air From Suite No. 3",
+    "status": "verified-purchase",
+    "purchase_url": "https://keiserproductions.com/catalog/southern-music/?ic=&sc=&tc=&tid=6304079F-2C67-4052-9CDF-72C76BF529AD",
+    "source_urls": [
+      "https://keiserproductions.com/catalog/southern-music/?ic=&sc=&tc=&tid=6304079F-2C67-4052-9CDF-72C76BF529AD"
+    ],
+    "evidence": "Cecil Leeson; alto saxophone and piano; ST440 / 3775127.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Bach\" \"BWV 156\" \"Camwell\" score"
+    ],
+    "notes": "",
+    "verification_method": "Opened with web reader or browser accessibility snapshot."
+  },
+  {
+    "file": "content/works/Johann Sebastian Bach - Andante from Italian Concerto.md",
+    "name": "Johann Sebastian Bach - Andante from Italian Concerto",
+    "status": "unresolved",
+    "purchase_url": null,
+    "source_urls": [
+      "https://www.stantons.com/sheet-music/title/andante-from-italian-concerto/WIM903/"
+    ],
+    "evidence": "Exact Sharon Davis soprano-saxophone/piano edition WIM903 was located in Stanton's indexed catalog, marked permanently out of print.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Bach\" \"BWV 156\" \"Camwell\" score"
+    ],
+    "notes": "No orderable copy verified. Alto version in the catalog was not established."
+  },
+  {
+    "file": "content/works/Johann Sebastian Bach - Boureé.md",
+    "name": "Johann Sebastian Bach - Boureé",
+    "status": "edition-uncertain",
+    "purchase_url": null,
+    "source_urls": [
+      "https://www.lmi-partitions.com/produit/classique-saxophone-mib-n0008-suite-dorchestre-en-utbourree/",
+      "https://www.stretta-music.at/mule-pieces-celebres-nr-185952.html"
+    ],
+    "evidence": "Leduc AL19533 is a purchasable Marcel Mule E-flat saxophone Bourree from the orchestral suite.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Bach\" \"BWV 156\" \"Camwell\" score"
+    ],
+    "notes": "Published Mule arrangement has piano accompaniment. Catalog labels this work unaccompanied. Exact edition needs clarification."
+  },
+  {
+    "file": "content/works/Johann Sebastian Bach - Sinfonia BWV 156.md",
+    "name": "Johann Sebastian Bach - Sinfonia BWV 156",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.juneemersonwindmusic.com/Sinfonia-BWV-156-c07dc1df-828e-5b5a-1218-fae06ef4c8af.html",
+    "source_urls": [
+      "https://www.juneemersonwindmusic.com/Sinfonia-BWV-156-c07dc1df-828e-5b5a-1218-fae06ef4c8af.html"
+    ],
+    "evidence": "Dorn DP1610; Dave Camwell; soprano saxophone and piano. Browser showed Add to Cart. Alto alternative not established.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Bach\" \"BWV 156\" \"Camwell\" score"
+    ],
+    "notes": "",
+    "verification_method": "Opened with web reader or browser accessibility snapshot."
+  },
+  {
+    "file": "content/works/Johannes Brahms - Sonata in E minor, Op 38, No. 1.md",
+    "name": "Johannes Brahms - Sonata in E minor, Op 38, No. 1",
+    "status": "unresolved",
+    "purchase_url": null,
+    "source_urls": [
+      "https://www.partitions-musicales.net/Les-cordes/Violoncelle/Sonate-en-mi-mineur-op-38.html"
+    ],
+    "evidence": "Searches found original cello editions and a tenor-saxophone upload. No alto-saxophone/piano score sale was verified.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Brahms\" \"sonata\" \"38\" \"saxophone\" \"piano\" sheet"
+    ],
+    "notes": "Catalog has no arranger. Do not substitute original cello or a different saxophone voice."
+  },
+  {
+    "file": "content/works/John Anthony Lennon - Aeterna.md",
+    "name": "John Anthony Lennon - Aeterna",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.grothmusic.com/p-139719-aeterna-alto-saxophone-unaccompanied.aspx",
+    "source_urls": [
+      "https://www.grothmusic.com/p-139719-aeterna-alto-saxophone-unaccompanied.aspx"
+    ],
+    "evidence": "Dorn 995; unaccompanied alto saxophone; browser showed in stock and Add to Cart.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"John Anthony Lennon\" \"Symphonic Rhapsody\" score purchase"
+    ],
+    "notes": "",
+    "verification_method": "Opened with web reader or browser accessibility snapshot."
+  },
+  {
+    "file": "content/works/John Anthony Lennon - Symphonic Rhapsody.md",
+    "name": "John Anthony Lennon - Symphonic Rhapsody",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.editionpeterspublications.us/collections/new-titles/products/lennon-symphonic-rhapsody-peters",
+    "source_urls": [
+      "https://www.editionpeterspublications.us/collections/new-titles/products/lennon-symphonic-rhapsody-peters"
+    ],
+    "evidence": "EP67098A; alto saxophone solo part with piano reduction.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"John Anthony Lennon\" \"Symphonic Rhapsody\" score purchase"
+    ],
+    "notes": "",
+    "verification_method": "Opened with web reader or browser accessibility snapshot."
+  },
+  {
+    "file": "content/works/Jun Nagao - Die Heldenzeit.md",
+    "name": "Jun Nagao - Die Heldenzeit",
+    "status": "unresolved",
+    "purchase_url": null,
+    "source_urls": [
+      "https://windmusic.org/index.php?id=70819&lvl=notice_display",
+      "https://classical.music.apple.com/jp/work/jun-nagao-1964-pp18"
+    ],
+    "evidence": "English and Japanese title searches identified recordings of the alto saxophone concerto with wind ensemble.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Jun Nagao\" \"Die Heldenzeit\" score"
+    ],
+    "notes": "No matching score sale or verified official composer website was located. Recording sales were excluded."
+  },
+  {
+    "file": "content/works/Lennie Niehaus - Advanced Jazz Conception for Saxophone.md",
+    "name": "Lennie Niehaus - Advanced Jazz Conception for Saxophone",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.sheetmusicplus.com/en/product/advanced-jazz-conception-20828770.html",
+    "source_urls": [
+      "https://www.sheetmusicplus.com/en/product/advanced-jazz-conception-20828770.html"
+    ],
+    "evidence": "Book and CD, Try Publishing; avoid CD-only product 20828771.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Lennie Niehaus\" \"Advanced Jazz Conception\" publisher"
+    ],
+    "notes": "",
+    "verification_method": "Opened with web reader or browser accessibility snapshot."
+  },
+  {
+    "file": "content/works/Lennie Niehaus - Intermediate Jazz Conception for Saxophone.md",
+    "name": "Lennie Niehaus - Intermediate Jazz Conception for Saxophone",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.sheetmusicplus.com/en/product/intermediate-jazz-conception-20828769.html",
+    "source_urls": [
+      "https://www.sheetmusicplus.com/en/product/intermediate-jazz-conception-20828769.html"
+    ],
+    "evidence": "Try Publishing AHW7003 / ISBN 9781934638026, book and CD. Browser verified retailer Add to Cart.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Lennie Niehaus\" \"Advanced Jazz Conception\" publisher"
+    ],
+    "notes": "Retailer special order. Publisher page has conflicting sold-out and cart template text.",
+    "verification_method": "Opened with web reader or browser accessibility snapshot."
+  },
+  {
+    "file": "content/works/Leo Samama - Past Tense.md",
+    "name": "Leo Samama - Past Tense",
+    "status": "verified-purchase",
+    "purchase_url": "https://webshop.donemus.com/action/front/sheetmusic/16638",
+    "source_urls": [
+      "https://webshop.donemus.com/action/front/sheetmusic/16638"
+    ],
+    "evidence": "Op.47, alto saxophone and guitar; score and parts offered as PDF, Newzik or print; browser verified purchase options.",
+    "composer_site_checked": "https://leosamama.nl/componist-2/",
+    "queries": [
+      "\"Leo Samama\" \"Past tense\" Donemus"
+    ],
+    "notes": "",
+    "verification_method": "Opened with web reader or browser accessibility snapshot."
+  },
+  {
+    "file": "content/works/Lucie Robert-Diessel - Double Concerto.md",
+    "name": "Lucie Robert-Diessel - Double Concerto",
+    "status": "lead",
+    "purchase_url": null,
+    "source_urls": [
+      "https://www.billaudot.com/double-concerto-38.html"
+    ],
+    "evidence": "Billaudot's catalog identifies EFM2340 O, for alto saxophone and piano soloists with orchestra.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Lucie Robert\" \"Double Concerto\" Billaudot"
+    ],
+    "notes": "The indexed page offers partition et materiel without a verified sale control or price. Sale versus hire remains unknown."
+  },
+  {
+    "file": "content/works/Marcos Balter - Torus.md",
+    "name": "Marcos Balter - Torus",
+    "status": "lead",
+    "purchase_url": null,
+    "source_urls": [
+      "https://marcosbalter.com/works/"
+    ],
+    "evidence": "Opened composer work list identifies torus (2009), alto saxophone and piano.",
+    "composer_site_checked": "https://marcosbalter.com/works/",
+    "queries": [
+      "\"Marcos Balter\" \"Torus\" score buy"
+    ],
+    "notes": "No specific score sale or ordering instruction verified on the checked composer page."
+  },
+  {
+    "file": "content/works/Marilyn Shrude - Renewing the Myth.md",
+    "name": "Marilyn Shrude - Renewing the Myth",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.forsyths.co.uk/sheet-music/instruments/woodwind/saxophone-sheet-music/336459-shrude-marilyn-renewing-the-myth-9790230968270.html",
+    "source_urls": [
+      "https://www.forsyths.co.uk/sheet-music/instruments/woodwind/saxophone-sheet-music/336459-shrude-marilyn-renewing-the-myth-9790230968270.html"
+    ],
+    "evidence": "Lemoine 26827; alto saxophone and piano, restock orders accepted.",
+    "composer_site_checked": "https://www.marilynshrude.com/works-full/",
+    "queries": [
+      "\"Shadows and Dawning\" \"NM2708\""
+    ],
+    "notes": "",
+    "verification_method": "Opened with web reader or browser accessibility snapshot."
+  },
+  {
+    "file": "content/works/Marilyn Shrude - Shadows and Dawning.md",
+    "name": "Marilyn Shrude - Shadows and Dawning",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.chimesmusic.com/products/shadows-and-dawning.html",
+    "source_urls": [
+      "https://www.chimesmusic.com/products/shadows-and-dawning.html"
+    ],
+    "evidence": "Neue Musik NM2708, composer and edition matched against composer work page; browser showed Add to Basket.",
+    "composer_site_checked": "https://www.marilynshrude.com/works-full/",
+    "queries": [
+      "\"Shadows and Dawning\" \"NM2708\""
+    ],
+    "notes": "",
+    "verification_method": "Opened with web reader or browser accessibility snapshot."
+  },
+  {
+    "file": "content/works/Michio Kitazume - Air.md",
+    "name": "Michio Kitazume - Air",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.prestomusic.com/sheet-music/products/7772793--michio-kitazume-air",
+    "source_urls": [
+      "https://www.prestomusic.com/sheet-music/products/7772793--michio-kitazume-air"
+    ],
+    "evidence": "Lemoine LEM25246; alto saxophone and piano, backorder accepted.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Michio Kitazume\" \"Air\" Lemoine"
+    ],
+    "notes": "",
+    "verification_method": "Opened with web reader or browser accessibility snapshot."
+  },
+  {
+    "file": "content/works/Paul Arma - Comme une improvisation.md",
+    "name": "Paul Arma - Comme une improvisation",
+    "status": "edition-uncertain",
+    "purchase_url": null,
+    "source_urls": [
+      "https://robinarma.com/crbst_58.html",
+      "https://www.grothmusic.com/search.aspx?searchterm=Comme+une+improvisation"
+    ],
+    "evidence": "Composer-family catalog identifies Op.279 for unaccompanied alto saxophone. No orderable matching edition was verified.",
+    "composer_site_checked": "https://robinarma.com/crbst_58.html",
+    "queries": [
+      "\"Paul Arma\" \"Comme une improvisation\" buy"
+    ],
+    "notes": "Catalog adds piano. Composer-family site open failed; its indexed work description conflicts with catalog instrumentation. Groth search returned an unrelated title."
+  },
+  {
+    "file": "content/works/Paul R. Goldstaub - Graphics IV.md",
+    "name": "Paul R. Goldstaub - Graphics IV",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.juneemersonwindmusic.com/Graphics-IV-71dd0d4c-8c02-2aaf-a1f9-ab861165baec.html",
+    "source_urls": [
+      "https://www.juneemersonwindmusic.com/Graphics-IV-71dd0d4c-8c02-2aaf-a1f9-ab861165baec.html"
+    ],
+    "evidence": "Dorn DP0168; alto saxophone and piano; browser verified Add to Cart, corroborated by Dorn catalog.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Paul Goldstaub\" \"Graphics IV\" score"
+    ],
+    "notes": "",
+    "verification_method": "Opened with web reader or browser accessibility snapshot."
+  },
+  {
+    "file": "content/works/Philippe Leroux - Noûs.md",
+    "name": "Philippe Leroux - Noûs",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.billaudot.com/gb10097-6.html",
+    "source_urls": [
+      "https://www.billaudot.com/gb10097-6.html"
+    ],
+    "evidence": "GB10097; B-flat saxophone and piano, corroborated as soprano by BnF; browser verified Add to cart.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Philippe Leroux\" \"Noûs\" Billaudot"
+    ],
+    "notes": "",
+    "verification_method": "Opened with web reader or browser accessibility snapshot."
+  },
+  {
+    "file": "content/works/Philippe Leroux - SPP.md",
+    "name": "Philippe Leroux - SPP",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.billaudot.com/spp-101.html",
+    "source_urls": [
+      "https://www.billaudot.com/spp-101.html"
+    ],
+    "evidence": "GB6962; saxophone and piano; browser verified available and Add to cart. Publisher category does not identify voice, IRCAM identifies soprano.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Philippe Leroux\" \"Noûs\" Billaudot"
+    ],
+    "notes": "",
+    "verification_method": "Opened with web reader or browser accessibility snapshot."
+  },
+  {
+    "file": "content/works/Ralph Vaughan Williams - Six Studies in English Folksong.md",
+    "name": "Ralph Vaughan Williams - Six Studies in English Folksong",
+    "status": "verified-purchase",
+    "purchase_url": "https://stainer.co.uk/shop/h173/",
+    "source_urls": [
+      "https://stainer.co.uk/shop/h173/"
+    ],
+    "evidence": "Robert Stanton, E-flat saxophone part H173, printed/PDF; piano accompaniment H47 purchased separately.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Six Studies\" \"saxophone\" site:stainer.co.uk"
+    ],
+    "notes": "",
+    "verification_method": "Opened with web reader or browser accessibility snapshot."
+  },
+  {
+    "file": "content/works/Randall Snyder - Chance Designs.md",
+    "name": "Randall Snyder - Chance Designs",
+    "status": "free-only",
+    "purchase_url": null,
+    "source_urls": [
+      "https://digitalcommons.unl.edu/musicsnyder/241",
+      "https://works.bepress.com/randall_snyder/181/"
+    ],
+    "evidence": "Composer's University of Nebraska repository has the exact score record. No paid score route was verified.",
+    "composer_site_checked": "https://digitalcommons.unl.edu/musicsnyder/index.3.html",
+    "queries": [
+      "\"Randall Snyder\" \"Variations\" \"alto\""
+    ],
+    "notes": "Repository/free-score lead, not a purchase link. Individual record fetch was blocked; existing local score is already linked in catalog."
+  },
+  {
+    "file": "content/works/Randall Snyder - Improvisations.md",
+    "name": "Randall Snyder - Improvisations",
+    "status": "free-only",
+    "purchase_url": null,
+    "source_urls": [
+      "https://digitalcommons.unl.edu/musicsnyder/index.3.html",
+      "https://digitalcommons.unl.edu/musicsnyder/269"
+    ],
+    "evidence": "Opened composer repository index links a PDF for Improvisations, for alto saxophone, three percussion and piano.",
+    "composer_site_checked": "https://digitalcommons.unl.edu/musicsnyder/index.3.html",
+    "queries": [
+      "\"Randall Snyder\" \"Variations\" \"alto\""
+    ],
+    "notes": "No paid route verified. Catalog's generic percussion field omits the three-player detail. Item-page fetch blocked."
+  },
+  {
+    "file": "content/works/Randall Snyder - Juggernaut.md",
+    "name": "Randall Snyder - Juggernaut",
+    "status": "free-only",
+    "purchase_url": null,
+    "source_urls": [
+      "https://digitalcommons.unl.edu/musicsnyder/37"
+    ],
+    "evidence": "Composer repository record is the relevant score lead; indexed abstract identifies tenor saxophone, horn and trombone.",
+    "composer_site_checked": "https://digitalcommons.unl.edu/musicsnyder/index.3.html",
+    "queries": [
+      "\"Randall Snyder\" \"Variations\" \"alto\""
+    ],
+    "notes": "No paid route verified. Individual repository record fetch blocked, so current download availability is unknown."
+  },
+  {
+    "file": "content/works/Randall Snyder - Seven Epigrams.md",
+    "name": "Randall Snyder - Seven Epigrams",
+    "status": "lead",
+    "purchase_url": null,
+    "source_urls": [
+      "https://vcisinc.com/saxophonemusic.htm",
+      "https://www.universaledition.com/en/index.php/composer/46212058f7a83fbe4c43ecab4951b034/pdf",
+      "https://digitalcommons.unl.edu/musicsnyder/index.3.html"
+    ],
+    "evidence": "VCIS indexed catalog lists Southern Music alto-saxophone/piano edition S224. Universal Edition also catalogs the work.",
+    "composer_site_checked": "https://digitalcommons.unl.edu/musicsnyder/index.3.html",
+    "queries": [
+      "\"Randall Snyder\" \"Variations\" \"alto\""
+    ],
+    "notes": "VCIS indexed offer is old; current ordering and exact Universal Edition product need verification."
+  },
+  {
+    "file": "content/works/Randall Snyder - Variations.md",
+    "name": "Randall Snyder - Variations",
+    "status": "free-only",
+    "purchase_url": null,
+    "source_urls": [
+      "https://digitalcommons.unl.edu/musicsnyder/index.3.html",
+      "https://digitalcommons.unl.edu/musicsnyder/341"
+    ],
+    "evidence": "Opened composer repository index links a PDF for Variations for solo saxophone.",
+    "composer_site_checked": "https://digitalcommons.unl.edu/musicsnyder/index.3.html",
+    "queries": [
+      "\"Randall Snyder\" \"Variations\" \"alto\""
+    ],
+    "notes": "No paid score route verified. Individual repository item fetch blocked. Catalog already contains an attachment-style download reference."
+  },
+  {
+    "file": "content/works/Robert Schumann - Fantasiestücke Op. 73.md",
+    "name": "Robert Schumann - Fantasiestücke Op. 73",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.sheetmusicplus.com/en/product/robert-schumann-three-fantasy-pieces-drei-fantasiestucke-arranged-for-alto-saxophone-and-piano-20298213.html",
+    "source_urls": [
+      "https://www.sheetmusicplus.com/en/product/robert-schumann-three-fantasy-pieces-drei-fantasiestucke-arranged-for-alto-saxophone-and-piano-20298213.html"
+    ],
+    "evidence": "Paul Wehage / Musik Fabrik edition; alto saxophone and piano score and part, 33 pages. Browser verified digital sale.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Fantasiestucke\" \"Wehage\" saxophone"
+    ],
+    "notes": "A different Braunhoff listing describes piano but supplies a six-page individual part. Selected Wehage edition explicitly includes score and part.",
+    "verification_method": "Opened with web reader or browser accessibility snapshot."
+  },
+  {
+    "file": "content/works/Russell Peck - The Upward Stream.md",
+    "name": "Russell Peck - The Upward Stream",
+    "status": "composer-order",
+    "purchase_url": "https://russellpeck.com/compositions/the-upward-stream/",
+    "source_urls": [
+      "https://russellpeck.com/compositions/the-upward-stream/"
+    ],
+    "evidence": "Composer publisher states contact for sales and rental information.",
+    "composer_site_checked": "https://russellpeck.com/compositions/the-upward-stream/",
+    "queries": [
+      "\"Russell Peck\" \"Upward Stream\" score buy"
+    ],
+    "notes": "Official publisher invites sales and rental inquiries. Confirm requested score/reduction and ensemble materials with Pecktackular Music.",
+    "verification_method": "Opened with web reader or browser accessibility snapshot."
+  },
+  {
+    "file": "content/works/Sherwood Shaffer - Sonata.md",
+    "name": "Sherwood Shaffer - Sonata",
+    "status": "edition-uncertain",
+    "purchase_url": null,
+    "source_urls": [
+      "https://www.sherwoodshaffer.com/scores-publishing",
+      "https://www.grothmusic.com/p-146367-sonata-when-mountains-rising-tenor-saxophone-and-piano.aspx",
+      "https://www.subitomusic.com/product/shaffer-sonata-for-baritone-saxophone-piano/"
+    ],
+    "evidence": "Opened composer publishing page links purchasable tenor Sonata: When Mountains Rising and a separate baritone Sonata.",
+    "composer_site_checked": "https://www.sherwoodshaffer.com/scores-publishing",
+    "queries": [
+      "\"Sherwood Shaffer\" \"Sonata\" saxophone buy"
+    ],
+    "notes": "Catalog specifies alto saxophone and piano. No alto Sonata purchase was verified."
+  },
+  {
+    "file": "content/works/Takashi Yoshimatsu - Cyberbird Concerto.md",
+    "name": "Takashi Yoshimatsu - Cyberbird Concerto",
+    "status": "lead",
+    "purchase_url": null,
+    "source_urls": [
+      "https://yoshim.music.coocan.jp/~data/EnglishPage/publisherE.html",
+      "https://asks-orch.com/shopen/"
+    ],
+    "evidence": "Composer's publishers page specifically assigns CyberBird Op.59 and its saxophone/piano reduction to Japan Arts / ASKS.",
+    "composer_site_checked": "https://yoshim.music.coocan.jp/~data/EnglishPage/publisherE.html",
+    "queries": [
+      "\"Cyberbird Concerto\" \"piano reduction\" score"
+    ],
+    "notes": "Composer page is dated 2016. The live ASKS shop search for Cyberbird returned zero results. Current ordering requires publisher inquiry."
+  },
+  {
+    "file": "content/works/Thierry Escaich - Le Chant des Ténèbres.md",
+    "name": "Thierry Escaich - Le Chant des Ténèbres",
+    "status": "edition-uncertain",
+    "purchase_url": null,
+    "source_urls": [
+      "https://www.billaudot.com/le-chant-des-tenebres-1.html",
+      "https://www.stretta-music.ch/it/escaich-le-chant-des-tnbres-nr-655795.html"
+    ],
+    "evidence": "Publisher and retailers offer soprano-saxophone versions with piano or organ. No alto/orchestra purchase was verified.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Thierry Escaich\" \"Chant des Ténèbres\" score buy"
+    ],
+    "notes": "GB9831 is Tobias Willi soprano/organ; GB5367 is soprano/piano. Catalog lists alto and orchestra."
+  },
+  {
+    "file": "content/works/William Albright - Heater - Saga for Alto Saxophone and Band.md",
+    "name": "William Albright - Heater - Saga for Alto Saxophone and Band",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.ficksmusic.com/products/albright-heater-peters-1",
+    "source_urls": [
+      "https://www.ficksmusic.com/products/albright-heater-peters-1"
+    ],
+    "evidence": "Edition Peters EP67957 full score; ensemble parts separate.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"William Albright\" \"Heater\" score purchase"
+    ],
+    "notes": "",
+    "verification_method": "Opened with web reader or browser accessibility snapshot."
+  },
+  {
+    "file": "content/works/Wolfgang Amadeus Mozart - Concerto for Oboe in C Major, KV314.md",
+    "name": "Wolfgang Amadeus Mozart - Concerto for Oboe in C Major, KV314",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.sheetmusicplus.com/en/product/oboe-concerto-kv-314-soprano-saxophone-22513217.html",
+    "source_urls": [
+      "https://www.sheetmusicplus.com/en/product/oboe-concerto-kv-314-soprano-saxophone-22513217.html"
+    ],
+    "evidence": "Soprano saxophone arrangement from existing work notes, verify sale live.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Mozart\" \"KV314\" \"soprano saxophone\" score"
+    ],
+    "notes": "Alvin Wong edition is the individual soprano saxophone part, 13 pages. It does not include accompaniment or an orchestral score.",
+    "verification_method": "Opened with web reader or browser accessibility snapshot."
+  },
+  {
+    "file": "content/works/Yusef Lateef - Sonata No. 1.md",
+    "name": "Yusef Lateef - Sonata No. 1",
+    "status": "verified-purchase",
+    "purchase_url": "https://yuseflateef.com/compositions/",
+    "source_urls": [
+      "https://yuseflateef.com/compositions/"
+    ],
+    "evidence": "Fana Music official catalog offers alto saxophone and piano sonata 1, all parts.",
+    "composer_site_checked": "https://yuseflateef.com/compositions/",
+    "queries": [
+      "\"Yusef Lateef\" \"Sonata No\" score buy"
+    ],
+    "notes": "",
+    "verification_method": "Opened with web reader or browser accessibility snapshot."
+  },
+  {
+    "file": "content/works/Yusef Lateef - Sonata No. 2.md",
+    "name": "Yusef Lateef - Sonata No. 2",
+    "status": "verified-purchase",
+    "purchase_url": "https://yuseflateef.com/store/index.php?product%2Fpage%2F606%2FSonata+No.+2+for+Eb+Alto+Saxophone+and+Piano=",
+    "source_urls": [
+      "https://yuseflateef.com/store/index.php?product%2Fpage%2F606%2FSonata+No.+2+for+Eb+Alto+Saxophone+and+Piano="
+    ],
+    "evidence": "Official Fana Music PDF transposed score; parts/format need check.",
+    "composer_site_checked": "https://yuseflateef.com/compositions/",
+    "queries": [
+      "\"Yusef Lateef\" \"Sonata No\" score buy"
+    ],
+    "notes": "Official product offers a PDF transposed score by email after payment. Its cart widget did not expose a price in the browser snapshot; official catalog lists a paid product. Confirm whether separate performance parts are included.",
+    "verification_method": "Opened with web reader or browser accessibility snapshot."
+  }
+]

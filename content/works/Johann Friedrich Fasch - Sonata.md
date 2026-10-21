@@ -10,7 +10,7 @@ composed:
 year-of-study: "First Year"
 streaming: 
 purchase:
-  - "Johann Friedrich Fasch?aff_id=426309&utm_medium=plg1"
+  - "Sonata in C major (Rascher, alto and piano, MGM2675) · https://www.alfred.com/products/sonata-in-c-major-98-mgm2675"
 studied-performed: true
 added: 2019-08-25
 aliases: []

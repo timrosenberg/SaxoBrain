@@ -18,6 +18,8 @@ research:
   - "Exact 494-00600/TT2560, imprint and accompanied-solo format. · https://www.presser.com/494-00600-arioso.html"
   - "Exact T256, soprano/clarinet and piano, five pages. · https://www.grothmusic.com/p-147491-arioso-for-soprano-saxophone-or-clarinet-and-piano.aspx"
   - "Transcription of US registration PA0000212332 explicitly separates creation 1980 from publication May 21, 1984. · https://www.copyrightencyclopedia.com/the-hound-of-heaven-arioso-ballad-for-diana/"
+  - "Current publisher page reconfirms edition 494-00600 / TT2560 and Tritone Press & Tenuto Publications imprint. · https://www.presser.com/494-00600-arioso.html"
+  - "Search-index evidence only: International Clarinet Association 1985 review describes a 3.5-minute work written 1980, quarter = 66, conservative melodic/harmonic language and contrapuntal writing. These are reviewer observations, not score inspection in this pass. · https://clarinet.insightful.design/wp-content/uploads/2022/10/VOL12N4-SUMMER1985.pdf"
 aliases: []
 publisher:
   - "Tritone Press & Tenuto Publications"
@@ -48,3 +50,28 @@ Catalog: [[William Presser - Arioso]]
 - Gaps: Resolve whether 494-00600 is unaccompanied or has piano accompaniment; the publisher catalog and retailer listings conflict.; No score, performance, or recording inspected.
 - Proposed correction: Check the current 494-00600 score or publisher product record before changing the catalog accompaniment field.
 
+### Research checked October 16, 2026
+
+**Identity checked:** William Presser: Arioso, soprano saxophone or clarinet and piano
+
+**Findings**
+
+- Current publisher page reconfirms edition 494-00600 / TT2560 and Tritone Press & Tenuto Publications imprint.
+
+**Notation inspected:** No.
+
+**Collection fit:** Original short recital work with explicit external review; not a generic arrangement.
+
+**Still unknown**
+
+- No newly accessible solo notation or exact soprano recording found.
+- Prior difficulty hold remains.
+
+**Sources and access**
+
+- [Theodore Presser](https://www.presser.com/494-00600-arioso.html): Current publisher page reconfirms edition 494-00600 / TT2560 and Tritone Press & Tenuto Publications imprint. Source opened.
+- [The Clarinet, International Clarinet Association](https://clarinet.insightful.design/wp-content/uploads/2022/10/VOL12N4-SUMMER1985.pdf): International Clarinet Association 1985 review describes a 3.5-minute work written 1980, quarter = 66, conservative melodic/harmonic language and contrapuntal writing. These are reviewer observations, not score inspection in this pass. Search-index evidence only; source page not retrieved.
+
+**Searches tried:** `William Presser Arioso soprano`; `William Presser Arioso 494-00600 score`; `Presser Arioso soprano recording`.
+
+[[Remaining Repertoire Research - 2026-10-16|Full research overview]]

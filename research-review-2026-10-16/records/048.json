@@ -1,0 +1,81 @@
+{
+  "run_number": 48,
+  "filename": "Fritz Jakma - Starlight Dreams.md",
+  "path": "content/works/Fritz Jakma - Starlight Dreams.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "notation_inspected": false,
+  "score_observations": [],
+  "score_links": [],
+  "listening": [],
+  "collection_flag": "Pre-college/young-player evidence:retailer easy classification and actual10-and-younger competition performance context.",
+  "identity": "Starlight Dreams is attributed to Henk Jakma by publisher catalogue,conflicting with current Fritz Jakma attribution.",
+  "findings": [
+    "Tierolff's catalogue identifies Henk Jakma,Starlight Dreams,clarinet or soprano saxophone and piano,published J.J.Lispet.",
+    "All Sheet Music lists H.Jakma,soprano+piano,TRL-2881SS,classified easy; tenor variants also advertised.",
+    "A2016Dutch youth solo competition programme lists soprano Starlight Dreams(H.Jakma)in the10years-and-younger section.",
+    "Exact-title composer attribution supports Henk rather than simply respelling Fritz as Frits; do not conflate the two composers.",
+    "Direct Tierolff bot verification and retailer403blocked notation follow-up."
+  ],
+  "evidence": [
+    {
+      "claim": "Henk Jakma,J.J.Lispet,clarinet/soprano+piano",
+      "url": "https://tierolff.nl/en/sheetmusic-for-solo-duo-trio-quartet-ensemble/music-for-saxophones/solo-soprano-saxophone.html",
+      "source_name": "Tierolff",
+      "kind": "primary",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "H.Jakma,soprano+piano,TRL2881SS,easy",
+      "url": "https://www.all-sheetmusic.com/Wind-Instruments/Saxophone/Starlight-Dreams-nr-2.html",
+      "source_name": "All Sheet Music",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "2016youth10-and-younger soprano programme",
+      "url": "https://www.harmoniegeulle.nl/joomla/images/Programmaboekje_Jeugdsolistenconcours_definitief_v4.pdf",
+      "source_name": "HarmonieGeulle youth solo competition",
+      "kind": "institutional",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {
+    "publisher": [
+      "J.J.Lispet,distributed Tierolff"
+    ],
+    "instruments": [
+      "Soprano saxophone or B-flat clarinet",
+      "Piano"
+    ]
+  },
+  "gaps": [
+    "Composer identity requires catalog correction review,not automatic overwrite.",
+    "Date,duration and actual notation unverified.",
+    "No exact accessible audio recording found.",
+    "Focused corroboration pass: Tierolff returned BotVerification and AllSheetMusic403. No access upgrades made for these pages."
+  ],
+  "searches": [
+    "Fritz Jakma Starlight Dreams",
+    "Jakma Starlight",
+    "Jakma Starlight Dreams saxophone",
+    "Starlight Dreams Henk Jakma piano",
+    "Starlight Dreams Jakma youtube"
+  ],
+  "proposed_corrections": [
+    {
+      "field": "composer",
+      "current": "Fritz Jakma",
+      "suggested": "Henk Jakma",
+      "reason": "Publisher exact-title attribution names Henk; independent retailer gives H.Jakma."
+    },
+    {
+      "field": "instruments",
+      "suggested": [
+        "Soprano saxophone",
+        "Piano"
+      ],
+      "reason": "Publisher catalogue confirms accompaniment."
+    }
+  ]
+}

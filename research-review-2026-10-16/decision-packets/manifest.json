@@ -1,0 +1,1008 @@
+{
+  "date": "2026-10-16",
+  "snapshot_unassigned": 143,
+  "new_files": [
+    "content/research-review/Review 0414 - Carl Anton Wirth - A Keening.md",
+    "content/research-review/Review 0415 - Carl Anton Wirth - Antiphon.md",
+    "content/research-review/Review 0416 - Carl Anton Wirth - Ballad No. 1.md",
+    "content/research-review/Review 0417 - Carl Anton Wirth - Two Adagios.md",
+    "content/research-review/Review 0418 - Carl Anton Wirth - Wherefore.md",
+    "content/research-review/Review 0419 - Aleks Sternfeld-Dunn - Sonata.md",
+    "content/research-review/Review 0420 - Andriy Talpash - Zut!.md",
+    "content/research-review/Review 0421 - Christian Blaha - Concerto.md",
+    "content/research-review/Review 0422 - Dulce Holland - Shy One.md",
+    "content/research-review/Review 0423 - Frederick Fox - Annexus.md",
+    "content/research-review/Review 0424 - Hitomi Kaneko - La Bulle.md",
+    "content/research-review/Review 0425 - Johan van der Linden - Five Short Pieces.md",
+    "content/research-review/Review 0426 - John Martin - Smoky Blue.md",
+    "content/research-review/Review 0427 - Jun Nagao - Motus Animi.md",
+    "content/research-review/Review 0428 - Jun Nagao - Trilithon.md",
+    "content/research-review/Review 0429 - Kae Hirakawa - A Sequence of Impulses.md",
+    "content/research-review/Review 0430 - Kenji Sakai - Etheric Visions II.md",
+    "content/research-review/Review 0431 - Kenji Sakai - In a Haze.md",
+    "content/research-review/Review 0432 - Kenji Sakai - Initial S.md",
+    "content/research-review/Review 0433 - Kenji Sakai - Melodia Labile.md",
+    "content/research-review/Review 0434 - Leonard Mark Lewis - As in Stained Light.md",
+    "content/research-review/Review 0435 - Leonard Mark Lewis - Elegy.md",
+    "content/research-review/Review 0436 - Leonard Mark Lewis - Fire and Ice.md",
+    "content/research-review/Review 0437 - Leonard Mark Lewis - Winter Canticles.md",
+    "content/research-review/Review 0438 - Nubim - City Life.md",
+    "content/research-review/Review 0439 - Nubim - Rotary Vertigo.md",
+    "content/research-review/Review 0440 - Randall Snyder - Retrospective Sonata.md",
+    "content/research-review/Review 0441 - Randall Snyder - Song of the Loon.md",
+    "content/research-review/Review 0442 - Scott Joplin - Magnetic Rag.md",
+    "content/research-review/Review 0443 - Stephen Yates - Il Baco.md",
+    "content/research-review/Remaining Repertoire - Score Batch 01.md",
+    "content/research-review/Remaining Repertoire - Removal Shortlist.md",
+    "content/research-review/Remaining Repertoire - Identity Decisions.md",
+    "content/Remaining Repertoire Decisions.base",
+    "content/research-review/Remaining Repertoire - Decision Queue.md"
+  ],
+  "scores": [
+    {
+      "run_number": 2,
+      "path": "content/works/Aleks Sternfeld-Dunn - Sonata.md",
+      "title": "Sonata",
+      "instrumentation": "Alto saxophone and piano",
+      "duration": null,
+      "demands": [
+        "Maintain a fast compound pulse at dotted quarter = 140 while changing among 9/8, 6/8 and 12/8.",
+        "Alternate slurred figures with accented and staccato eighth notes through frequent accidentals and upper ledger-line pitches.",
+        "Coordinate independent piano entries and chromatic chords."
+      ],
+      "scope": "Composer preview, movement I opening music page 1 visually inspected. Image shows opening through bar 11. Later movements, complete range and endurance remain unknown.",
+      "source_label": "Aleks Sternfeld-Dunn, composer-hosted transposed score",
+      "identity_caveat": null,
+      "score_url": "https://www.aleksandersternfelddunn.com/s/Sonata-for-Alto-Saxophone.pdf",
+      "recording_url": null,
+      "image_path": "/tmp/saxobrain-decision-packets/assets/run002-score.png",
+      "batch_number": 1,
+      "review_id": 419,
+      "review_file": "content/research-review/Review 0419 - Aleks Sternfeld-Dunn - Sonata.md",
+      "image_file": "content/research-review/score-excerpts-2026-10-16/run002-notation.png"
+    },
+    {
+      "run_number": 6,
+      "path": "content/works/Andriy Talpash - Zut!.md",
+      "title": "Zut!",
+      "instrumentation": "Alto saxophone and piano",
+      "duration": "7 min",
+      "demands": [
+        "Opening marked Aggressively, quarter = 144, with trills, dense accidentals and a 5:4 figure.",
+        "Control sudden dynamic changes through very soft to ff, fff and ffff.",
+        "Read 8va passages and stacked saxophone noteheads; full performance instructions are needed to interpret the sonorities.",
+        "Coordinate dense piano chords and rapid runs."
+      ],
+      "scope": "Short opening excerpt on printed page 119 of ECM+ retrospective visually inspected. Complete score, technique instructions and full range were unavailable.",
+      "source_label": "ECM+ 20-year retrospective, composer-authorized score excerpt",
+      "identity_caveat": "Congress archive identifies an exact performance, but its blocked page and embedded recording were not verified. No playable recording link included.",
+      "score_url": "https://ecm.qc.ca/images/LivreGeneration20ans_integral-PageParPage1.pdf",
+      "recording_url": null,
+      "image_path": "/tmp/saxobrain-decision-packets/assets/run006-score.png",
+      "batch_number": 2,
+      "review_id": 420,
+      "review_file": "content/research-review/Review 0420 - Andriy Talpash - Zut!.md",
+      "image_file": "content/research-review/score-excerpts-2026-10-16/run006-notation.png"
+    },
+    {
+      "run_number": 23,
+      "path": "content/works/Christian Blaha - Concerto.md",
+      "title": "Concerto",
+      "instrumentation": "Alto saxophone and string orchestra",
+      "duration": "about 19 min",
+      "demands": [
+        "Allegro vivace, quarter = 132, with sustained sixteenth-note scale patterns and chromatic accidentals.",
+        "Alternate slurred and articulated figures, ties and accents without losing the orchestral pulse.",
+        "Enter after a string exposition and coordinate active string counterpoint."
+      ],
+      "scope": "Composer perusal score music pages 1 and 3 visually inspected. Image shows page 3, bars 27 onward. No full-work range audit.",
+      "source_label": "Christian Blaha, composer-hosted full-score perusal",
+      "identity_caveat": "Score is in concert pitch. Displayed saxophone notes do not establish written alto range. No piano reduction verified. Recording is composer-linked; no audition claimed.",
+      "score_url": "https://www.christianblaha.com/s/Saxophone-Concerto-watermark.pdf",
+      "recording_url": "https://www.youtube.com/watch?v=wXrtNe5FmAw",
+      "image_path": "/tmp/saxobrain-decision-packets/assets/run023-score.png",
+      "batch_number": 3,
+      "review_id": 421,
+      "review_file": "content/research-review/Review 0421 - Christian Blaha - Concerto.md",
+      "image_file": "content/research-review/score-excerpts-2026-10-16/run023-notation.png"
+    },
+    {
+      "run_number": 37,
+      "path": "content/works/Dulce Holland - Shy One.md",
+      "title": "Shy One",
+      "instrumentation": "Alto saxophone and piano",
+      "duration": "about 3 min",
+      "demands": [
+        "Shape a delicate 3/4 melody at quarter = 100, marked Moderato grazioso.",
+        "Integrate grace notes, breath commas and chromatic inflections into flowing eighth notes.",
+        "Coordinate rubato and fermata with the piano, then resume a tempo; follow segno and last-time coda instructions."
+      ],
+      "scope": "Wirripang one-page opening sample visually inspected. Image shows the opening two systems. Ending and complete range are unknown.",
+      "source_label": "Wirripang, publisher score sample",
+      "identity_caveat": "Publisher score spells the composer Dulcie Holland. Catalog spelling is retained pending correction C3.",
+      "score_url": "https://cdn.shopify.com/s/files/1/0018/5896/1460/files/Shy_One_sc_Holland.pdf?v=1618891167",
+      "recording_url": null,
+      "image_path": "/tmp/saxobrain-decision-packets/assets/run037-score.png",
+      "batch_number": 4,
+      "review_id": 422,
+      "review_file": "content/research-review/Review 0422 - Dulce Holland - Shy One.md",
+      "image_file": "content/research-review/score-excerpts-2026-10-16/run037-notation.png"
+    },
+    {
+      "run_number": 44,
+      "path": "content/works/Frederick Fox - Annexus.md",
+      "title": "Annexus",
+      "instrumentation": "Alto saxophone and prepared piano (source scoring)",
+      "duration": "about 10 min",
+      "demands": [
+        "Read spatially proportioned durations and time in seconds, including sustained notes indicated by extended beams.",
+        "Synchronize saxophone and piano events using vertical arrows.",
+        "Produce minor-second and quarter-tone lip glissandi with dynamic shaping in the inspected examples.",
+        "Dissertation reports prepared-piano setup, highest-possible altissimo gestures, growl or flutter tongue, and slow wide vibrato."
+      ],
+      "scope": "Authorized excerpts in Gregory E. Miller's UNT dissertation, printed pages 29 and 32, visually inspected. Image is Example 21, score page 6 system 2. Broader technique inventory is dissertation evidence; full 19-page score was not inspected.",
+      "source_label": "University of North Texas dissertation, authorized Dorn score excerpts",
+      "identity_caveat": "Recording history is archival evidence only. No exact accessible audio link verified.",
+      "score_url": "https://digital.library.unt.edu/ark:/67531/metadc9751/m2/1/high_res_d/dissertation.pdf",
+      "recording_url": null,
+      "image_path": "/tmp/saxobrain-decision-packets/assets/run044-score.png",
+      "batch_number": 5,
+      "review_id": 423,
+      "review_file": "content/research-review/Review 0423 - Frederick Fox - Annexus.md",
+      "image_file": "content/research-review/score-excerpts-2026-10-16/run044-notation.png"
+    },
+    {
+      "run_number": 63,
+      "path": "content/works/Hitomi Kaneko - La Bulle.md",
+      "title": "La Bulle",
+      "instrumentation": "Alto saxophone and piano",
+      "duration": "9:30 to about 10 min, depending on publisher source",
+      "demands": [
+        "Sustain repeated four-note saxophone multiphonics at pp sempre, quarter = 60.",
+        "Balance soft sustained sounds with very soft high piano figures.",
+        "Later inspected opening pages introduce fast rising sextuplets, wide register displacement and growth from pp through mf to f.",
+        "Notation legend requires timed rapid groups, variable rests, acceleration/deceleration, pitched breath sound and highest-possible tone."
+      ],
+      "scope": "Zen-On public preview: preface, notation legend and printed score pages 5-7 visually inspected. Image shows page 5 opening systems. Whole-work range and later technique use remain unverified.",
+      "source_label": "Zen-On, publisher score preview",
+      "identity_caveat": "Publisher catalog says 9:30; score preface and digital shop say approximately 10 minutes. Exact performance linked by publisher; no audition claimed.",
+      "score_url": "https://www.zen-on.co.jp/trial/560009/HTML5/pc.html#/page/1",
+      "recording_url": "https://www.youtube.com/watch?v=LVI7t6iJKB4",
+      "image_path": "/tmp/saxobrain-decision-packets/assets/run063-score.png",
+      "batch_number": 6,
+      "review_id": 424,
+      "review_file": "content/research-review/Review 0424 - Hitomi Kaneko - La Bulle.md",
+      "image_file": "content/research-review/score-excerpts-2026-10-16/run063-notation.png"
+    },
+    {
+      "run_number": 75,
+      "path": "content/works/Johan van der Linden - Five Short Pieces.md",
+      "title": "Five Short Pieces",
+      "instrumentation": "Alto saxophone and piano",
+      "duration": "5 min (publisher); 7:37 (recording)",
+      "demands": [
+        "Introduction at quarter = 74 combines sustained trill, chromatic thirty-second-note flourish and large dynamic changes.",
+        "Track changes among common time, 3/4 and 5/4.",
+        "Cristallica moves from Largo misterioso, quarter = 52, with soft sustained notes to accented sixteenth-note figures at quarter = 120.",
+        "High ledger-line notes and fingering annotations appear; the preview provides no legend for the annotations."
+      ],
+      "scope": "Molenaar catalog printed page 28: first two alto movements and opening full score visually inspected. Image shows Introduction. Other three movements and full range remain unknown.",
+      "source_label": "Composer-hosted Molenaar catalog, actual notation excerpts",
+      "identity_caveat": "Publisher and recorded durations differ. MatchingArts label verifies the exact five-movement recording by Johan van der Linden and Henry Kelder; no audition claimed.",
+      "score_url": "https://www.johanvanderlinden.com/molenaar-catalogus.pdf",
+      "recording_url": "https://editionmatchingarts.com/webshop/webshop-cds/product/166-zbop-download",
+      "image_path": "/tmp/saxobrain-decision-packets/assets/run075-score.png",
+      "batch_number": 7,
+      "review_id": 425,
+      "review_file": "content/research-review/Review 0425 - Johan van der Linden - Five Short Pieces.md",
+      "image_file": "content/research-review/score-excerpts-2026-10-16/run075-notation.png"
+    },
+    {
+      "run_number": 76,
+      "path": "content/works/John Martin - Smoky Blue.md",
+      "title": "Smoky Blue",
+      "instrumentation": "Alto saxophone and piano",
+      "duration": "about 4:30",
+      "demands": [
+        "Sustain a blues-style cantabile line at quarter = 70 in 4/4.",
+        "Shape mostly slurred eighth- and sixteenth-note figures with tenuto and dynamic changes from p to mf.",
+        "Negotiate chromatic inflections without a key signature over regular piano chords and bass."
+      ],
+      "scope": "One-page publisher sample, opening 16 bars, visually inspected. Image shows first eight bars with piano. Full range and later demands are unknown.",
+      "source_label": "Wirripang, publisher opening sample",
+      "identity_caveat": null,
+      "score_url": "https://cdn.shopify.com/s/files/1/0018/5896/1460/files/Smoky_Blue_Martin.pdf?v=1635394785",
+      "recording_url": null,
+      "image_path": "/tmp/saxobrain-decision-packets/assets/run076-score.png",
+      "batch_number": 8,
+      "review_id": 426,
+      "review_file": "content/research-review/Review 0426 - John Martin - Smoky Blue.md",
+      "image_file": "content/research-review/score-excerpts-2026-10-16/run076-notation.png"
+    },
+    {
+      "run_number": 78,
+      "path": "content/works/Jun Nagao - Motus Animi.md",
+      "title": "Motus Animi",
+      "instrumentation": "Two alto saxophones",
+      "duration": "17 min",
+      "demands": [
+        "Coordinate two alto parts with frequent chromatic accidentals, triplets, thirty-second-note figures and register changes.",
+        "Move from 3/8 at dotted quarter = 60 to 4/4 at quarter = 88.",
+        "Contrast slurred gestures with accented/staccato figures, held notes and rests; shape frequent pp-to-ff dynamic changes."
+      ],
+      "scope": "Movement I opening, printed pages 5-6, visually inspected. Image shows opening ten bars. Remaining two movements and complete range were not inspected.",
+      "source_label": "Zen-On, publisher score preview",
+      "identity_caveat": "Actual preview specifies two alto saxophones, while existing catalog says Any Saxophone. No other doubling established. Publisher-linked premiere video; no audition claimed.",
+      "score_url": "https://www.zen-on.co.jp/trial/509551/?pNo=1&detailFlg=0",
+      "recording_url": "https://www.youtube.com/embed/1GDuQJtFZlQ?autoplay=1&rel=0&start=000",
+      "image_path": "/tmp/saxobrain-decision-packets/assets/run078-score.png",
+      "batch_number": 9,
+      "review_id": 427,
+      "review_file": "content/research-review/Review 0427 - Jun Nagao - Motus Animi.md",
+      "image_file": "content/research-review/score-excerpts-2026-10-16/run078-notation.png"
+    },
+    {
+      "run_number": 79,
+      "path": "content/works/Jun Nagao - Trilithon.md",
+      "title": "Trilithon",
+      "instrumentation": "Alto saxophone, baritone saxophone and piano",
+      "duration": "11 min",
+      "demands": [
+        "Baritone enters at bar 12, pp dolcissimo, after a piano introduction at quarter = 52 in 2/4.",
+        "Baritone sustains a high-register slurred line, then handles flowing eighth/sixteenth notes, triplets and wider register movement.",
+        "Coordinate pp-to-mf hairpins with the piano and a change to 3/4 near bar 28."
+      ],
+      "scope": "Composer preface and printed score pages 4-5 visually inspected. Image shows baritone passage beginning bar 16. Alto remains at rest in these pages, so its demands cannot be inferred.",
+      "source_label": "Zen-On, publisher score preview and composer preface",
+      "identity_caveat": "Two saxophonists, alto and baritone, with piano. Opening does not establish alto demands or full range. Publisher-linked trio performance; no audition claimed.",
+      "score_url": "https://www.zen-on.co.jp/trial/560031/HTML5/pc.html#/page/1",
+      "recording_url": "https://www.youtube.com/watch?v=j4W2i5RqfV4",
+      "image_path": "/tmp/saxobrain-decision-packets/assets/run079-score.png",
+      "batch_number": 10,
+      "review_id": 428,
+      "review_file": "content/research-review/Review 0428 - Jun Nagao - Trilithon.md",
+      "image_file": "content/research-review/score-excerpts-2026-10-16/run079-notation.png"
+    },
+    {
+      "run_number": 81,
+      "path": "content/works/Kae Hirakawa - A Sequence of Impulses.md",
+      "title": "A Sequence of Impulses",
+      "instrumentation": "Clarinet, one saxophonist doubling alto/soprano, and piano",
+      "duration": "13:50",
+      "demands": [
+        "Play precisely placed offbeat notes and rests at quarter = 124 in 3/4 while piano gestures remain independent.",
+        "Use slap-tongue notation and short slurred chromatic sixteenth-note bursts.",
+        "Later inspected bars include rapid descending chromatic runs, forceful accents and shifts between common time and 3/4.",
+        "Preview alto writing reaches several ledger lines above the staff."
+      ],
+      "scope": "Printed pages 4-6 visually inspected. Image shows first three bars of the opening section with clarinet and piano. Whole-work range and soprano switch location are unknown.",
+      "source_label": "Zen-On, publisher score preview",
+      "identity_caveat": "Three players: clarinet, one saxophonist doubling alto and soprano, and piano. Only alto writing appears in the inspected opening. No exact recording verified.",
+      "score_url": "https://www.zen-on.co.jp/trial/590247/?pNo=1&detailFlg=0",
+      "recording_url": null,
+      "image_path": "/tmp/saxobrain-decision-packets/assets/run081-score.png",
+      "batch_number": 11,
+      "review_id": 429,
+      "review_file": "content/research-review/Review 0429 - Kae Hirakawa - A Sequence of Impulses.md",
+      "image_file": "content/research-review/score-excerpts-2026-10-16/run081-notation.png"
+    },
+    {
+      "run_number": 83,
+      "path": "content/works/Kenji Sakai - Etheric Visions II.md",
+      "title": "Etheric Visions II",
+      "instrumentation": "Unaccompanied alto saxophone",
+      "duration": "10 min",
+      "demands": [
+        "Alternate accented thirty-second-note runs at quarter = 66 with soft expressive irregular tuplets at quarter = 54.",
+        "Negotiate frequent meter/tempo changes, quarter-tone accidentals, trills and bisbigliando, a timbral trill using alternate fingerings.",
+        "Control dynamic contrasts from pp to ff.",
+        "Legend defines harmonics, slap, pitched breath, key noise, quarter tones and multiphonic fingerings."
+      ],
+      "scope": "Publisher notation legend and opening printed page 5 visually inspected. Image shows first three systems. Full score, complete range and later technique deployment are unknown.",
+      "source_label": "Zen-On, publisher notation legend and score opening",
+      "identity_caveat": "Legend states score is written in C. Do not infer written alto range. Exact video is publisher-linked, but performer metadata was not separately retrievable; no audition claimed.",
+      "score_url": "https://www.zen-on.co.jp/trial/509540/HTML5/pc.html#/page/1",
+      "recording_url": "https://www.youtube.com/watch?v=GrVYv9uv-iQ",
+      "image_path": "/tmp/saxobrain-decision-packets/assets/run083-score.png",
+      "batch_number": 12,
+      "review_id": 430,
+      "review_file": "content/research-review/Review 0430 - Kenji Sakai - Etheric Visions II.md",
+      "image_file": "content/research-review/score-excerpts-2026-10-16/run083-notation.png"
+    },
+    {
+      "run_number": 84,
+      "path": "content/works/Kenji Sakai - In a Haze.md",
+      "title": "In a Haze",
+      "instrumentation": "Two alto saxophones",
+      "duration": "10 min",
+      "demands": [
+        "Align two alto parts closely at quarter = 60 in 2/4.",
+        "Contrast accented very short attacks with pp slurred notes and hairpins.",
+        "Expand rhythmic figures into triplets, quintuplets and thirty-second-note subdivisions; use bisbigliando and non-vibrato indications.",
+        "Legend defines slap, key noise with breath, harmonics, quarter tones and two multiphonic fingerings."
+      ],
+      "scope": "Publisher legend and opening printed page 6 visually inspected. Image shows opening nine bars. Later interactions and complete range were not inspected.",
+      "source_label": "Zen-On, publisher legend and score preview",
+      "identity_caveat": "Two alto saxophonists. Octavia label verifies Naomi Shirai and Masanori Oishi recording on Initial S; linked page is album information, no audition claimed.",
+      "score_url": "https://www.zen-on.co.jp/trial/509549/?pNo=1&detailFlg=0",
+      "recording_url": "https://octavia-shop.com/shopdetail/000000001548/CD02-02/page1/order/",
+      "image_path": "/tmp/saxobrain-decision-packets/assets/run084-score.png",
+      "batch_number": 13,
+      "review_id": 431,
+      "review_file": "content/research-review/Review 0431 - Kenji Sakai - In a Haze.md",
+      "image_file": "content/research-review/score-excerpts-2026-10-16/run084-notation.png"
+    },
+    {
+      "run_number": 86,
+      "path": "content/works/Kenji Sakai - Initial S.md",
+      "title": "Initial S",
+      "instrumentation": "Alto saxophone solo",
+      "duration": "about 7 minutes (composer/publisher)",
+      "demands": [
+        "Slap attacks alternate with soft color-tone sextuplets at quarter = 84.",
+        "Changing meters and frequent rests interrupt the line.",
+        "Septuplet runs and harmonic glissandi combine with sharp dynamic changes.",
+        "Publisher legend also specifies quarter/eighth tones, bisbigliando and breath effects."
+      ],
+      "scope": "Publisher legend and printed opening page 1, measures 1-10; full range and later sequence unknown.",
+      "score_url": "https://www.zen-on.co.jp/trial/509526/?pNo=1&detailFlg=0",
+      "source_label": "Zen-On 509526 public score viewer",
+      "recording_url": "https://vimeo.com/161118511",
+      "image_path": "/tmp/saxobrain-decision-packets/assets/run086-notation.png",
+      "identity_caveat": null,
+      "batch_number": 14,
+      "review_id": 432,
+      "review_file": "content/research-review/Review 0432 - Kenji Sakai - Initial S.md",
+      "image_file": "content/research-review/score-excerpts-2026-10-16/run086-notation.png"
+    },
+    {
+      "run_number": 87,
+      "path": "content/works/Kenji Sakai - Melodia Labile.md",
+      "title": "Melodia Labile",
+      "instrumentation": "Soprano Saxophone, Piano",
+      "duration": "10 minutes (publisher)",
+      "demands": [
+        "Opening quarter = 60 combines slap, microtonal sustained tones and bisbigliando.",
+        "A marked multiphonic passage uses the supplied fingering system.",
+        "Sparse resonant piano attacks require coordinated releases and dynamics.",
+        "Section A at measure 13 changes to quarter = 96."
+      ],
+      "scope": "Publisher legend and printed opening page 5, measures 1-17; score in C, so no transposed soprano range inferred.",
+      "score_url": "https://www.zen-on.co.jp/trial/509539/HTML5/pc.html#/page/1",
+      "source_label": "Zen-On 509539 public score viewer",
+      "recording_url": "https://music.youtube.com/watch?v=r5dofZWy3cQ&list=RDAMVMr5dofZWy3cQ",
+      "image_path": "/tmp/saxobrain-decision-packets/assets/run087-notation.png",
+      "identity_caveat": "Score heading dates the work 2017-2018. Catalog currently gives 2017.",
+      "batch_number": 15,
+      "review_id": 433,
+      "review_file": "content/research-review/Review 0433 - Kenji Sakai - Melodia Labile.md",
+      "image_file": "content/research-review/score-excerpts-2026-10-16/run087-notation.png"
+    },
+    {
+      "run_number": 93,
+      "path": "content/works/Leonard Mark Lewis - As in Stained Light.md",
+      "title": "As in Stained Light",
+      "instrumentation": "Alto Saxophone, Piano",
+      "duration": null,
+      "demands": [
+        "Seven-sharp alto signature requires fluent tonal reading.",
+        "Upper-register sustained notes and a triplet figure form long legato lines.",
+        "Hairpins shape the saxophone over continuous marcato piano sixteenths at quarter = 126."
+      ],
+      "scope": "One-page composer opening preview, measures 1-8; full range and later demands unverified.",
+      "score_url": "https://www.leonardmarklewis.com/_files/ugd/845b36_74ba4e53384142319d466261fba443f5.pdf",
+      "source_label": "Leonard Mark Lewis public score preview",
+      "recording_url": "https://soundcloud.com/kenneth-tse-36102188/sets/an-american-exhibition",
+      "image_path": "/tmp/saxobrain-decision-packets/assets/run093-notation.png",
+      "identity_caveat": "Current direct edition may differ from the 2003 Dorn edition. No full score inspected.",
+      "batch_number": 16,
+      "review_id": 434,
+      "review_file": "content/research-review/Review 0434 - Leonard Mark Lewis - As in Stained Light.md",
+      "image_file": "content/research-review/score-excerpts-2026-10-16/run093-notation.png"
+    },
+    {
+      "run_number": 95,
+      "path": "content/works/Leonard Mark Lewis - Elegy.md",
+      "title": "Elegy",
+      "instrumentation": "Alto Saxophone, Piano",
+      "duration": null,
+      "demands": [
+        "A ppp entrance on tied long notes follows the piano introduction.",
+        "Long slurs require sustained legato control and phrase pacing.",
+        "Eighth-note lines develop into sixteenths and upper-register notes in slow 6/8."
+      ],
+      "scope": "One-page composer opening preview only; quarter = 52 in 6/8. Full range, form and later techniques unknown.",
+      "score_url": "https://www.leonardmarklewis.com/_files/ugd/e74338_441b694bd80a4af5b79c0f98b2431c5a.pdf",
+      "source_label": "Leonard Mark Lewis public score preview",
+      "recording_url": null,
+      "image_path": "/tmp/saxobrain-decision-packets/assets/run095-notation.png",
+      "identity_caveat": "This score names commissioner Colton Nelson. A connection to the separate Emanuel Nine Elegy is unverified.",
+      "batch_number": 17,
+      "review_id": 435,
+      "review_file": "content/research-review/Review 0435 - Leonard Mark Lewis - Elegy.md",
+      "image_file": "content/research-review/score-excerpts-2026-10-16/run095-notation.png"
+    },
+    {
+      "run_number": 96,
+      "path": "content/works/Leonard Mark Lewis - Fire and Ice.md",
+      "title": "Fire and Ice",
+      "instrumentation": "Baritone Saxophone, Piano",
+      "duration": null,
+      "demands": [
+        "Continuous sixteenths mix slurs, accents and repeated low pitches at quarter = 116.",
+        "The legend explicitly defines tongue slap.",
+        "Bracketed passages gradually change ordinary tone to an edgy sound through mouthpiece position.",
+        "The opening changes from 4/4 to 3/4."
+      ],
+      "scope": "One-page composer opening preview, including technique legend; full range and later sections unknown.",
+      "score_url": "https://www.leonardmarklewis.com/_files/ugd/e74338_2abf331c1f1548409d93882f6aca9d9f.pdf",
+      "source_label": "Leonard Mark Lewis public score preview",
+      "recording_url": "https://soundcloud.com/marklewis-5/fire-and-ice",
+      "image_path": "/tmp/saxobrain-decision-packets/assets/run096-notation.png",
+      "identity_caveat": "Composer webpage has a conflicting Prelude/soprano heading. The linked score clearly identifies Fire and Ice for baritone saxophone and piano.",
+      "batch_number": 18,
+      "review_id": 436,
+      "review_file": "content/research-review/Review 0436 - Leonard Mark Lewis - Fire and Ice.md",
+      "image_file": "content/research-review/score-excerpts-2026-10-16/run096-notation.png"
+    },
+    {
+      "run_number": 97,
+      "path": "content/works/Leonard Mark Lewis - Winter Canticles.md",
+      "title": "Winter Canticles",
+      "instrumentation": "Soprano Saxophone, Piano",
+      "duration": null,
+      "demands": [
+        "An ad libitum pp opening uses fermatas and repeats of varying length.",
+        "Five-sharp soprano signature and changes among 4/4, 2/4 and 1/4 require accurate reading.",
+        "Triplets, quintuplets and rapid rising groups sit over continuously moving piano figures.",
+        "Large register changes require connected legato phrasing."
+      ],
+      "scope": "One-page composer opening preview only, through the system beginning at measure 7; full range and later techniques unknown.",
+      "score_url": "https://www.leonardmarklewis.com/_files/ugd/e74338_aac41ed1950f4ca9b472dcfd55f8a6b0.pdf",
+      "source_label": "Leonard Mark Lewis public score preview",
+      "recording_url": null,
+      "image_path": "/tmp/saxobrain-decision-packets/assets/run097-notation.png",
+      "identity_caveat": null,
+      "batch_number": 19,
+      "review_id": 437,
+      "review_file": "content/research-review/Review 0437 - Leonard Mark Lewis - Winter Canticles.md",
+      "image_file": "content/research-review/score-excerpts-2026-10-16/run097-notation.png"
+    },
+    {
+      "run_number": 121,
+      "path": "content/works/Nubim - City Life.md",
+      "title": "City Life",
+      "instrumentation": "Alto Saxophone, Tenor Saxophone, Piano",
+      "duration": "about 4 minutes (publisher)",
+      "demands": [
+        "Opening mixes 4/4, 2/4, 5/4, 3/4 and 3/8 at quarter = 60.",
+        "Alto quintuplet figures and upper-register gestures overlap tenor chromatic lines and triplets.",
+        "Alternating entries, graded crescendos and piano interjections require trio coordination.",
+        "Publisher performance note requests no vibrato throughout and air at rehearsal G."
+      ],
+      "scope": "Publisher preview front matter plus opening notation on PDF page 3, measures 1-10. Transposed score; later air passage specified in front matter only.",
+      "score_url": "https://webshop.donemus.com/action/front/sheetmusic/20030",
+      "source_label": "Donemus D20030 public preview, available through Open preview PDF on the linked page",
+      "recording_url": "https://music.amazon.co.jp/albums/B0CT5XT426",
+      "image_path": "/tmp/saxobrain-decision-packets/assets/run121-notation.png",
+      "identity_caveat": null,
+      "batch_number": 20,
+      "review_id": 438,
+      "review_file": "content/research-review/Review 0438 - Nubim - City Life.md",
+      "image_file": "content/research-review/score-excerpts-2026-10-16/run121-notation.png"
+    },
+    {
+      "run_number": 122,
+      "path": "content/works/Nubim - Rotary Vertigo.md",
+      "title": "Rotary Vertigo",
+      "instrumentation": "Alto Saxophone, Piano",
+      "duration": "about 3:40 (publisher)",
+      "demands": [
+        "Chromatic piano eighths alternate with sustained and accented saxophone entries at quarter = 110.",
+        "Later opening figures introduce saxophone sixteenth-note runs.",
+        "Changes among 4/4, 3/4 and 2/4 combine with a trill and ritardando.",
+        "A new quarter = 80 section requires a coordinated tempo change."
+      ],
+      "scope": "Public preview final page, opening measures 1-17; explicitly score in C. No transposed alto range inferred.",
+      "score_url": "https://webshop.donemus.com/action/front/sheetmusic/20028",
+      "source_label": "Donemus D20028 public preview, available through Open preview PDF on the linked page",
+      "recording_url": "https://music.amazon.co.jp/albums/B0CT5XT426",
+      "image_path": "/tmp/saxobrain-decision-packets/assets/run122-notation.png",
+      "identity_caveat": "This is the 2016 alto/piano original. Rotary Vertigo II is a separate large-ensemble version.",
+      "batch_number": 21,
+      "review_id": 439,
+      "review_file": "content/research-review/Review 0439 - Nubim - Rotary Vertigo.md",
+      "image_file": "content/research-review/score-excerpts-2026-10-16/run122-notation.png"
+    },
+    {
+      "run_number": 133,
+      "path": "content/works/Randall Snyder - Retrospective Sonata.md",
+      "title": "Retrospective Sonata",
+      "instrumentation": "Tenor Saxophone, Piano",
+      "duration": "22 minutes (publisher)",
+      "demands": [
+        "Sustained and tied tenor notes cross changing 6/8, 12/8 and 9/8 meters.",
+        "Chromatic inflections and quiet pp entries require controlled sustained tone.",
+        "Shaped swells coordinate with independent chromatic piano lines."
+      ],
+      "scope": "Public four-page late excerpt, printed pages 65-68; pictured page 67, measures 472-479. Earlier movements and whole-work range unverified.",
+      "score_url": "https://www.universaledition.com/media/c1/5b/9e/1701383166/ea542356ab14bff96aa4683afedb003e.pdf",
+      "source_label": "Universal Edition UES104471 public excerpt",
+      "recording_url": null,
+      "image_path": "/tmp/saxobrain-decision-packets/assets/run133-notation.png",
+      "identity_caveat": null,
+      "batch_number": 22,
+      "review_id": 440,
+      "review_file": "content/research-review/Review 0440 - Randall Snyder - Retrospective Sonata.md",
+      "image_file": "content/research-review/score-excerpts-2026-10-16/run133-notation.png"
+    },
+    {
+      "run_number": 135,
+      "path": "content/works/Randall Snyder - Song of the Loon.md",
+      "title": "Song of the Loon",
+      "instrumentation": "Alto saxophone and orchestra",
+      "duration": "5 minutes (publisher)",
+      "demands": [
+        "Long slurred alto phrases combine sustained values, dotted rhythms and triplet figures.",
+        "Hairpin dynamics require controlled sustained tone through upper-register phrases.",
+        "The excerpt changes between 4/4 and 3/4 while strings maintain faster moving figures."
+      ],
+      "scope": "Universal Edition public orchestral excerpt, printed pages 12-14; image crops printed page 14, measures 72-79, to retain the alto staff with harp and string context. Full solo range and demands outside this excerpt unknown.",
+      "score_url": "https://www.universaledition.com/media/b6/c1/86/1714661821/80b3e9e5e2d7a0ef91ac3828b8f439d7.pdf",
+      "source_label": "Universal Edition UES107220 public study-score excerpt",
+      "recording_url": null,
+      "image_path": "/tmp/saxobrain-decision-packets/assets/run135-notation.png",
+      "identity_caveat": "Publisher offers an audio preview on the exact work page. Existing catalog SoundCloud URL was not independently verified. No full performance-part set or piano reduction established.",
+      "batch_number": 23,
+      "review_id": 441,
+      "review_file": "content/research-review/Review 0441 - Randall Snyder - Song of the Loon.md",
+      "image_file": "content/research-review/score-excerpts-2026-10-16/run135-notation.png"
+    },
+    {
+      "run_number": 148,
+      "path": "content/works/Scott Joplin - Magnetic Rag.md",
+      "title": "Magnetic Rag",
+      "instrumentation": "Tenor Saxophone, Piano",
+      "duration": null,
+      "demands": [
+        "Syncopated eighth-note gestures and chromatic inflections require precise ragtime articulation.",
+        "Sustained notes and rests alternate with independent piano passages.",
+        "Common-time Allegro moderato includes slurs, accents and register changes."
+      ],
+      "scope": "Exact tenor/piano publisher preview, printed page 1, measures 1-21. Full range and later passages unverified.",
+      "score_url": "https://www.stantons.com/scores/E/M/R/3/5/1/8/0/editio-emr35180.pdf",
+      "source_label": "Editions Marc Reift EMR35180 preview hosted by Stanton's",
+      "recording_url": null,
+      "image_path": "/tmp/saxobrain-decision-packets/assets/run148-notation.png",
+      "identity_caveat": "John Glenesk Mortimer arrangement. Existing streaming link has not been verified against this edition.",
+      "batch_number": 24,
+      "review_id": 442,
+      "review_file": "content/research-review/Review 0442 - Scott Joplin - Magnetic Rag.md",
+      "image_file": "content/research-review/score-excerpts-2026-10-16/run148-notation.png"
+    },
+    {
+      "run_number": 153,
+      "path": "content/works/Stephen Yates - Il Baco.md",
+      "title": "Il Baco",
+      "instrumentation": "Soprano Saxophone, Piano",
+      "duration": "about 8:50 (publisher)",
+      "demands": [
+        "Soft soprano entry uses slurred chromatic motion after a four-measure piano introduction.",
+        "Long densely beamed chromatic runs combine triplet, quintuplet and sextuplet subdivisions.",
+        "Slow quarter = about 63 requires coordinated subdivision over punctuated piano chords."
+      ],
+      "scope": "Publisher one-page opening sample, measures 1-7 only. Full range and later sections unknown.",
+      "score_url": "https://cdn.shopify.com/s/files/1/0018/5896/1460/files/Il-Baco-sheet-music_027436a3-8f8e-4a66-8c47-7ca348d2ac1c.pdf?10625643554350088356",
+      "source_label": "Wirripang public score sample, ISMN 9790720140117",
+      "recording_url": null,
+      "image_path": "/tmp/saxobrain-decision-packets/assets/run153-notation.png",
+      "identity_caveat": "Score identifies 1997, revised 2011; publication October 2013.",
+      "batch_number": 25,
+      "review_id": 443,
+      "review_file": "content/research-review/Review 0443 - Stephen Yates - Il Baco.md",
+      "image_file": "content/research-review/score-excerpts-2026-10-16/run153-notation.png"
+    }
+  ],
+  "research_holds": [
+    {
+      "review_id": 414,
+      "review_file": "content/research-review/Review 0414 - Carl Anton Wirth - A Keening.md",
+      "path": "content/works/Carl Anton Wirth - A Keening.md"
+    },
+    {
+      "review_id": 415,
+      "review_file": "content/research-review/Review 0415 - Carl Anton Wirth - Antiphon.md",
+      "path": "content/works/Carl Anton Wirth - Antiphon.md"
+    },
+    {
+      "review_id": 416,
+      "review_file": "content/research-review/Review 0416 - Carl Anton Wirth - Ballad No. 1.md",
+      "path": "content/works/Carl Anton Wirth - Ballad No. 1.md"
+    },
+    {
+      "review_id": 417,
+      "review_file": "content/research-review/Review 0417 - Carl Anton Wirth - Two Adagios.md",
+      "path": "content/works/Carl Anton Wirth - Two Adagios.md"
+    },
+    {
+      "review_id": 418,
+      "review_file": "content/research-review/Review 0418 - Carl Anton Wirth - Wherefore.md",
+      "path": "content/works/Carl Anton Wirth - Wherefore.md"
+    }
+  ],
+  "removals": [
+    {
+      "path": "content/works/Wolfgang Amadeus Mozart - Adagio & Romance.md",
+      "reason": "Recommend scope removal under the approved exclusion of educational lyrical transcriptions. Exact Hautvast soprano/piano identity is corroborated by the distributor. Tierolff lists the same title and arranger for soprano as an alternative solo instrument and labels it grade 2-3. This is a scope judgment. It is not a score-based finding about its complete musical demands.",
+      "evidence": [
+        {
+          "url": "https://tierolff.nl/en/adagio-romance-p46.html",
+          "label": "Tierolff primary publisher; live search-index verification, direct fetch unavailable",
+          "claim": "Adagio & Romance by Wolfgang Amadeus Mozart, arranged Willy Hautvast, item P46, soprano saxophone among the solo alternatives, publisher grade 2-3."
+        },
+        {
+          "url": "https://www.elkinmusic.com/public/catalog.pdf",
+          "label": "Elkin Music distributor catalog; live indexed exact edition",
+          "claim": "Printed page 500 identifies Mozart Adagio & Romance, Willy Hautvast, soprano saxophone and piano, TierolffSS3075."
+        }
+      ],
+      "confidence": "high edition identification; medium scope-removal recommendation",
+      "code": "R1"
+    },
+    {
+      "path": "content/works/Felix Mendelssohn - Six Romances sans parole.md",
+      "reason": "Recommend scope removal only if the approved exclusion covers complete collections of lyrical Romantic piano transcriptions. Billaudot identifies this exact Venturi collection as cycle 2. A newly found mirror of a 2015 MTNA Young Artist program includes three selections, so do not say the edition has no college-age use. Its removal would be a deliberate catalog-scope choice.",
+      "evidence": [
+        {
+          "url": "https://www.billaudot.com/gb6917-6.html",
+          "label": "Billaudot primary publisher; live search-index verification, direct fetch unavailable",
+          "claim": "Six romances sans paroles opus 19, 30 et 53, Gerald Venturi arrangement, E-flat saxophone and piano, GB6917, 32 pages, copyright 2000, moderately difficult (cycle 2)."
+        },
+        {
+          "url": "https://www.billaudot.com/six-romances-sans-paroles-opus-19-30-et-53-3.html",
+          "label": "Billaudot French primary catalog; live index",
+          "claim": "Same GB6917 edition and identity with cycle-2 classification."
+        },
+        {
+          "url": "https://expydoc.com/doc/4967429/student-performance-competitions-january-18--2015",
+          "label": "Third-party mirror of MTNA South Central program; opened live, original host not located",
+          "claim": "Young Artist woodwinds section of January 18, 2015 program lists Six Romances Sans Paroles transcribed by Gerald Venturi, selecting Op.19 No.4, Op.19 No.6 and Op.53 No.4. The program defines Young Artist as ages 19-26. This is counterevidence to a blanket claim of no college-age use; mirror provenance limits confidence."
+        }
+      ],
+      "confidence": "high edition identification; medium scope-removal recommendation",
+      "code": "R2"
+    },
+    {
+      "path": "content/works/Armando Ghidoni - Douce Chansonnette.md",
+      "reason": "Recommend removal as educational repertoire outside the collection’s college/professional focus. This is an original work, rather than a transcription. Lille Conservatoire places it in cycle I, fourth year; that system is not a SaxoBrain college-year designation. The list misattributes the publisher, so the exact Leduc edition should be checked if retained.",
+      "evidence": [
+        {
+          "url": "https://conservatoire.lille.fr/download/file/2471?key=I3Mr1V05Oj1bGR6cr4%2F3vQ%3D%3D",
+          "label": "Lille Conservatoire admission repertoire, live search-index verification",
+          "claim": "Cycle I, fourth-year admission repertoire lists Douce chansonnette by A. Ghidoni; the list’s Billaudot imprint conflicts with the established Leduc AL27575 edition."
+        }
+      ],
+      "confidence": "medium, educational-use evidence; no complete score reviewed",
+      "code": "R3"
+    }
+  ],
+  "identity_proposals": [
+    {
+      "code": "C1",
+      "path": "content/works/Cecilia Sung - Sur La Memoire.md",
+      "proposal": "Attribute to Stella Sung",
+      "reason": "Exact title and Lemoine soprano/clarinet-and-piano edition are cataloged under Stella Sung. Confirm the intended edition before changing the catalog.",
+      "evidence": [
+        {
+          "claim": "Stella Sung, soprano or clarinet/piano, Lemoine 1998",
+          "url": "https://ci.nii.ac.jp/ncid/BC02232661",
+          "source_name": "CiNii Books",
+          "kind": "library",
+          "access": "search_index_only"
+        },
+        {
+          "claim": "Edition, score/part, four minutes",
+          "url": "https://www.sheetmusicplus.com/en/product/sur-la-memoire-2234152.html",
+          "source_name": "Lemoine via Sheet Music Plus",
+          "kind": "publisher listing",
+          "access": "search_index_only"
+        },
+        {
+          "claim": "1995 commission and described techniques",
+          "url": "https://era.library.ualberta.ca/items/8f4bdd47-5d5c-4329-92d1-bfd34eed0be2/view/875481a9-ad02-4484-abc0-8f6d749d397b/1997-10-09.pdf",
+          "source_name": "University of Alberta visiting-artist program",
+          "kind": "institutional",
+          "access": "search_index_only"
+        }
+      ],
+      "run_number": 21
+    },
+    {
+      "code": "C2",
+      "path": "content/works/Claude T. Smith - Sonata No. 1.md",
+      "proposal": "Attribute to Charles W. Smith if SU194 is intended",
+      "reason": "Hal Leonard names Charles W. Smith for Southern Music SU194, Sonata No. 1 (1989).",
+      "evidence": [
+        {
+          "claim": "Charles W. Smith, SU194, 44 pages, 1989 in title",
+          "url": "https://www.halleonard.com/product/3776036/sonata-no-1-1989",
+          "source_name": "Hal Leonard / Southern Music",
+          "kind": "primary",
+          "access": "search_index_only"
+        },
+        {
+          "claim": "Alto saxophone and piano",
+          "url": "https://www.alle-noten.de/Kuenstler/Charles-W-Smith/",
+          "source_name": "alle-noten.de",
+          "kind": "retailer",
+          "access": "search_index_only"
+        },
+        {
+          "claim": "Estate compilation has no Sonata title",
+          "url": "https://claudetsmith.com/wp-content/uploads/2025/01/Compliation-of-Compositions-of-Claude-T-Smith-02.01.2025.pdf",
+          "source_name": "Claude T. Smith Publications",
+          "kind": "primary",
+          "access": "opened"
+        }
+      ],
+      "run_number": 26
+    },
+    {
+      "code": "C3",
+      "path": "content/works/Dulce Holland - Shy One.md",
+      "proposal": "Correct Dulce to Dulcie Holland",
+      "reason": "Publisher notation explicitly spells the composer Dulcie Holland. This work also appears in score batch 01.",
+      "evidence": [
+        {
+          "claim": "1956,Amadio,three minutes,Grade4,editor and purchase",
+          "url": "https://www.australiancomposers.com.au/products/shy-one",
+          "source_name": "Wirripang",
+          "kind": "primary",
+          "access": "opened"
+        },
+        {
+          "claim": "1956,title spelling,alto+piano,April2021edition,ISMN and opening notation",
+          "url": "https://cdn.shopify.com/s/files/1/0018/5896/1460/files/Shy_One_sc_Holland.pdf?v=1618891167",
+          "source_name": "Wirripang score sample",
+          "kind": "score",
+          "access": "score_inspected"
+        }
+      ],
+      "run_number": 37
+    },
+    {
+      "code": "C4",
+      "path": "content/works/Gabriel Pierné - Le Vol de la Mouche.md",
+      "proposal": "Attribute to Paul Pierné",
+      "reason": "Billaudot CC2842 names Paul Pierné for this exact title and E-flat saxophone/piano scoring.",
+      "evidence": [
+        {
+          "claim": "Paul Pierné; E-flat saxophone and piano; Billaudot CC2842",
+          "url": "https://www.billaudot.com/le-vol-de-la-mouche-4.html",
+          "source_name": "Éditions Billaudot",
+          "kind": "publisher",
+          "access": "search_index_only"
+        },
+        {
+          "claim": "Trois pièces number 1; Costallat; dedicated to Marcel Mule",
+          "url": "https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf",
+          "source_name": "Royal Conservatoire Antwerp library",
+          "kind": "library",
+          "access": "opened",
+          "corroborated_on": "2026-10-16"
+        }
+      ],
+      "run_number": 50
+    },
+    {
+      "code": "C5",
+      "path": "content/works/Jean Thierry - Chant Tenebres.md",
+      "proposal": "Investigate consolidation with the existing Escaich piano-reduction entry",
+      "reason": "Billaudot GB5367 is Thierry Escaich’s Le Chant des Ténèbres for soprano or B-flat clarinet and piano. Two Escaich entries already exist in the catalog. Their versions need to be distinguished before any merge.",
+      "evidence": [
+        {
+          "claim": "Escaich attribution; piano reduction GB5367; soprano or B-flat clarinet/piano;15min;9790043053675",
+          "url": "https://www.billaudot.com/le-chant-des-tenebres-2.html",
+          "source_name": "Éditions Billaudot",
+          "kind": "publisher",
+          "access": "opened"
+        },
+        {
+          "claim": "Original1992 concerto soprano/twelve saxophones; Delangle premiere; composer discussion",
+          "url": "https://www.escaich.org/en/pages/works/concertos/le-chant-des-tenebres-solo-sax-12-sax.html",
+          "source_name": "Thierry Escaich",
+          "kind": "composer",
+          "access": "search_index_only"
+        }
+      ],
+      "run_number": 71
+    },
+    {
+      "code": "C6",
+      "path": "content/works/Libby Larsen - Concerto.md",
+      "proposal": "Confirm title as Song Concerto",
+      "reason": "Larsen’s official work page and score identify Song Concerto. One player doubles alto and soprano. The catalog currently says only Concerto; confirmation is needed before importing that identity.",
+      "evidence": [
+        {
+          "claim": "Exact candidate composition date, duration, scoring, movements, commission, premiere and recording credits",
+          "url": "https://libbylarsen.com/works/song-concerto/",
+          "source_name": "Libby Larsen official work page",
+          "kind": "composer/publisher",
+          "access": "opened"
+        },
+        {
+          "claim": "One performer doubles alto and soprano; only Larsen saxophone concerto",
+          "url": "https://digital.library.unt.edu/ark:/67531/metadc2415995/",
+          "source_name": "Ruiqian Zhang, A Performance Guide to the Song Concerto, UNT DMA2024",
+          "kind": "dissertation",
+          "access": "opened"
+        },
+        {
+          "claim": "Actual orchestral notation, solo instrument change and copyright",
+          "url": "https://assets.ctfassets.net/yqiwcpstd52e/4PP86NTuynm0vpsRbsTaez/bdf043aa7aa5213da31bca0761af9782/_PERUSAL__Song_Concerto_-_FULL_SCORE.pdf",
+          "source_name": "Libby Larsen Publishing public perusal",
+          "kind": "score",
+          "access": "score_inspected"
+        }
+      ],
+      "run_number": 98
+    },
+    {
+      "code": "C7",
+      "path": "content/works/Pamela Tanious Worley - Six Dances.md",
+      "proposal": "Attribute to John C. Worley",
+      "reason": "Kenneth Tse’s official discography attributes Six Dances to John C. Worley. Dorn identifies the soprano/piano edition as DP991.",
+      "evidence": [
+        {
+          "claim": "John C. Worley attribution and exact recorded performers",
+          "url": "https://www.kenneth-tse.com/discography/lyric-soprano",
+          "source_name": "Kenneth Tse official discography",
+          "kind": "performer",
+          "access": "opened"
+        },
+        {
+          "claim": "Senior-recital performance",
+          "url": "https://www.frostburg.edu/_files/pdfs/StateLines1/f2010/StateLinesN8.pdf",
+          "source_name": "Frostburg State University",
+          "kind": "institution",
+          "access": "search_index_only"
+        },
+        {
+          "claim": "College curriculum",
+          "url": "https://content.byui.edu/file/14872087-1c4b-403b-ab63-0e610f68bb5b/1/Curricular%20Repertoire%20%28Freshman%29.pdf",
+          "source_name": "BYU-Idaho",
+          "kind": "institution",
+          "access": "search_index_only"
+        },
+        {
+          "claim": "DP991 soprano/piano",
+          "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+          "source_name": "Dorn Publications",
+          "kind": "publisher",
+          "access": "opened"
+        },
+        {
+          "claim": "Movement titles",
+          "url": "https://m.yes24.com/Goods/Detail/27069128",
+          "source_name": "Yes 24 recording listing",
+          "kind": "record retailer",
+          "access": "search_index_only"
+        }
+      ],
+      "run_number": 123
+    },
+    {
+      "code": "C8",
+      "path": "content/works/Pamela Tanious Worley - Suite.md",
+      "proposal": "Attribute to John C. Worley",
+      "reason": "Dorn lists Suite, DP152, for soprano and piano under John C. Worley; retailer edition DP0152 agrees.",
+      "evidence": [
+        {
+          "claim": "Exact composer, instrumentation and edition",
+          "url": "https://www.juneemersonwindmusic.com/Suite-b77bf8b1-6d9c-b048-ccaf-e2ec8c22d52d.html",
+          "source_name": "June Emerson Wind Music",
+          "kind": "retailer",
+          "access": "opened"
+        },
+        {
+          "claim": "DP152 soprano/piano",
+          "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+          "source_name": "Dorn Publications",
+          "kind": "publisher",
+          "access": "opened"
+        }
+      ],
+      "run_number": 124
+    },
+    {
+      "code": "C9",
+      "path": "content/works/Pedro Jakubowski - Ibeji IV.md",
+      "proposal": "Attribute to Pascale Jakubowski",
+      "reason": "The composer’s official catalog lists Ibéji IV (1997), soprano saxophone and piano, with a 1998 University of Alberta premiere.",
+      "evidence": [
+        {
+          "claim": "Composer identity, date, instrumentation and premiere",
+          "url": "https://www.pascalejakubowski.com/catalogue/",
+          "source_name": "Pascale Jakubowski official website",
+          "kind": "composer",
+          "access": "opened"
+        },
+        {
+          "claim": "Exact recorded work reference",
+          "url": "https://www.musicae.fr/Pascale-Jakubowski.html",
+          "source_name": "Éditions Aedam Musicae",
+          "kind": "publisher composer biography",
+          "access": "search_index_only"
+        },
+        {
+          "claim": "Historical library holding and distribution",
+          "url": "https://cid-fg.lu/wp-content/uploads/2022/07/2000_1.pdf",
+          "source_name": "Cid-femmes newsletter 1/2000",
+          "kind": "institution",
+          "access": "search_index_only"
+        }
+      ],
+      "run_number": 127
+    },
+    {
+      "code": "C10",
+      "path": "content/works/Richard Stillwell - Sonata No. 1.md",
+      "proposal": "Check the Joseph Stillwell soprano sonata match",
+      "reason": "Joseph Stillwell’s official catalog documents his 2006 soprano saxophone/piano sonata, op. 4. Confirm the intended score before correcting the existing Richard Stillwell attribution.",
+      "evidence": [
+        {
+          "claim": "Exact scoring, date, opus, duration, dedicatee and three movements",
+          "url": "https://www.josephstillwell.com/soprano-saxophone-sonata-op-4.html",
+          "source_name": "Joseph Stillwell official work page",
+          "kind": "composer",
+          "access": "opened"
+        },
+        {
+          "claim": "SonataNo.1 title and college recital history",
+          "url": "https://www.josephstillwell.com/performances.html",
+          "source_name": "Joseph Stillwell performance archive",
+          "kind": "composer",
+          "access": "opened"
+        },
+        {
+          "claim": "Alternate movement headings and composer inquiry route",
+          "url": "https://www.josephstillwell.com/band.html",
+          "source_name": "Joseph Stillwell official overview",
+          "kind": "composer",
+          "access": "opened"
+        }
+      ],
+      "run_number": 140
+    },
+    {
+      "code": "C11",
+      "path": "content/works/Paul R. Goldstaub - Graphics IV.md",
+      "proposal": "Confirm Graphic IV and celesta scoring",
+      "reason": "The excerpt and Dorn catalog identify Graphic IV for alto and celesta. The record currently says Graphics IV with piano. Confirm this identity before grading.",
+      "evidence": [
+        {
+          "claim": "Graphic IV, DP502, alto/celeste",
+          "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+          "source_name": "Dorn Publications",
+          "kind": "publisher",
+          "access": "opened"
+        },
+        {
+          "claim": "1981 bibliography and multiphonic references",
+          "url": "https://tombergeron.us/download/sax-multiphonics.pdf",
+          "source_name": "Tom Bergeron",
+          "kind": "performer research",
+          "access": "search_index_only"
+        },
+        {
+          "claim": "Notation excerpt and timbre trills",
+          "url": "https://www.mattswallow.com/uploads/1/2/3/2/12324820/microtone_presentation_script.pdf",
+          "source_name": "Matt Swallow microtone presentation",
+          "kind": "performer research",
+          "access": "score_inspected"
+        }
+      ],
+      "run_number": 126
+    }
+  ]
+}

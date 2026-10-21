@@ -9,7 +9,8 @@ instruments:
 composed: 
 year-of-study: "Second Year"
 streaming: 
-purchase: []
+purchase:
+  - "Stevens edition (E♭ and B♭ parts with piano) · https://saxpress.com/store/saxophone-solo-sheet-music/vocalise-etude-2/"
 want-to-play: true
 added: 2019-11-13
 aliases: []

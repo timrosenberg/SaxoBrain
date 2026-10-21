@@ -1,0 +1,3012 @@
+{
+  "date": "2026-10-16",
+  "scope": "All182 works unassigned at the start of the pass. No level assignments, deletions or identity corrections.",
+  "works": [
+    {
+      "run_number": 1,
+      "path": "content/works/Alain Louvier - Ephemeres.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Alphonse Leduc"
+        ],
+        "instruments": [
+          "Soprano Saxophone",
+          "Piano"
+        ],
+        "library-score": [
+          "https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf"
+        ],
+        "research": 3
+      },
+      "withheld_metadata": {
+        "purchase": [
+          "https://www.stretta-music.de/louvier-ephmres-nr-240340.html"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 2,
+      "path": "content/works/Aleks Sternfeld-Dunn - Sonata.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "composed": 2005,
+        "download": [
+          "https://www.aleksandersternfelddunn.com/s/Sonata-for-Alto-Saxophone.pdf"
+        ],
+        "research": 3
+      },
+      "withheld_metadata": {},
+      "notation_inspected": true
+    },
+    {
+      "run_number": 3,
+      "path": "content/works/Alexander Glazunov - Serenade Espagnole.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Southern Music Company"
+        ],
+        "arranger-edition": [
+          "Cecil Leeson; ST462 / HL 3775159"
+        ],
+        "research": 3
+      },
+      "withheld_metadata": {
+        "purchase": [
+          "https://www.sheetmusicplus.com/en/product/serenade-espagnole-archive-198734.html"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 4,
+      "path": "content/works/Allen Johnson - Night Song.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 3
+      },
+      "withheld_metadata": {
+        "publisher": [
+          "G. Schirmer"
+        ],
+        "instruments": [
+          "Alto Saxophone",
+          "Piano"
+        ],
+        "purchase": [
+          "https://www.prestomusic.com/sheet-music/products/7063923--a-johnson-nightsong"
+        ],
+        "arranger-edition": [
+          "GS82586; ISBN 9780793556991; piano reduction"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 5,
+      "path": "content/works/Almeida Prado - East Street New York.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Tonos International"
+        ],
+        "composed": 1983,
+        "research": 4
+      },
+      "withheld_metadata": {
+        "arranger-edition": [
+          "Tonos catalogue10379 lists alto saxophone or clarinet and piano; dissertation describes soprano edition. Clarify intended version."
+        ]
+      },
+      "notation_inspected": true
+    },
+    {
+      "run_number": 6,
+      "path": "content/works/Andriy Talpash - Zut!.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "composed": 2009,
+        "research": 3
+      },
+      "withheld_metadata": {},
+      "notation_inspected": true
+    },
+    {
+      "run_number": 7,
+      "path": "content/works/Antonio Vivaldi - Concerto La Mineur.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Alphonse Leduc"
+        ],
+        "instruments": [
+          "Soprano Saxophone",
+          "Piano"
+        ],
+        "arranger-edition": [
+          "Trent Kynaston; AL28950; ISMN 9790046289507"
+        ],
+        "purchase": [
+          "https://www.laflutedepan.com/partition/1030266/vivaldi-concerto-en-la-mineur-partition-saxophone-soprano-ou-clarinette-et-piano.html"
+        ],
+        "research": 3
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 8,
+      "path": "content/works/Antony Garlick - Six Pieces.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Seesaw Music"
+        ],
+        "instruments": [
+          "Soprano Saxophone",
+          "Piano"
+        ],
+        "purchase": [
+          "https://www.jwpepper.com/six-pieces-soprano-sax-solo-7853419/p"
+        ],
+        "arranger-edition": [
+          "Seesaw / Subito 50012070, copyright 1987"
+        ],
+        "research": 2
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 9,
+      "path": "content/works/Armando Ghidoni - Douce Chansonnette.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Alphonse Leduc"
+        ],
+        "purchase": [
+          "https://www.forsyths.co.uk/sheet-music/instruments/woodwind/saxophone-sheet-music/369689-ghidoni-armando-douce-chansonnette-9790046275753.html"
+        ],
+        "arranger-edition": [
+          "AL27575; ISMN 9790046275753"
+        ],
+        "research": 6
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Alto Saxophone",
+          "Piano"
+        ]
+      },
+      "notation_inspected": true
+    },
+    {
+      "run_number": 10,
+      "path": "content/works/Armando Ghidoni - Far West Adventure.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Alphonse Leduc"
+        ],
+        "instruments": [
+          "Soprano Saxophone",
+          "Piano"
+        ],
+        "arranger-edition": [
+          "AL29431; alternate alto or tenor saxophone; ISMN 9790046294310"
+        ],
+        "purchase": [
+          "https://www.forsyths.co.uk/sheet-music/instruments/woodwind/saxophone-sheet-music/370906-ghidoni-armando-far-west-adventure-9790046294310.html"
+        ],
+        "research": 3
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 11,
+      "path": "content/works/Benedetto Marcello - Sonate.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 2
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 12,
+      "path": "content/works/Blagoje Petric - Prelidij za Burlesko.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 2
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 13,
+      "path": "content/works/Carl Anton Wirth - A Keening.md",
+      "status": "no_reliable_match",
+      "added": {},
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 14,
+      "path": "content/works/Carl Anton Wirth - Antiphon.md",
+      "status": "no_reliable_match",
+      "added": {},
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 15,
+      "path": "content/works/Carl Anton Wirth - Ballad No. 1.md",
+      "status": "no_reliable_match",
+      "added": {},
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 16,
+      "path": "content/works/Carl Anton Wirth - Prologue.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 2
+      },
+      "withheld_metadata": {
+        "publisher": [
+          "Wirth"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 17,
+      "path": "content/works/Carl Anton Wirth - Three Indonesian Landscapes.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 1
+      },
+      "withheld_metadata": {
+        "publisher": [
+          "CAW Publications"
+        ],
+        "instruments": [
+          "Alto Saxophone",
+          "Piano"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 18,
+      "path": "content/works/Carl Anton Wirth - Two Adagios.md",
+      "status": "no_reliable_match",
+      "added": {},
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 19,
+      "path": "content/works/Carl Anton Wirth - Wherefore.md",
+      "status": "no_reliable_match",
+      "added": {},
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 20,
+      "path": "content/works/Carson Cooman - Of Songs and Swirls - Four Lyric Pieces.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "composed": 2002,
+        "publisher": [
+          "Musik Fabrik"
+        ],
+        "instruments": [
+          "Soprano Saxophone",
+          "Piano"
+        ],
+        "arranger-edition": [
+          "MFCC005; op.384"
+        ],
+        "research": 3
+      },
+      "withheld_metadata": {
+        "purchase": [
+          "https://www.sheetmusicplus.com/en/product/carson-cooman-of-songs-and-swirls-four-lyric-pieces-2002-for-soprano-saxophone-and-piano-20421126.html"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 21,
+      "path": "content/works/Cecilia Sung - Sur La Memoire.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 3
+      },
+      "withheld_metadata": {
+        "publisher": [
+          "Editions Henry Lemoine"
+        ],
+        "purchase": [
+          "https://www.ficksmusic.com/en-ca/products/sung-sur-la-memoire-lemoine"
+        ],
+        "library-score": [
+          "https://ci.nii.ac.jp/ncid/BC02232661"
+        ],
+        "arranger-edition": [
+          "26652; Collection Claude Delangle; ISMN 9790230966528"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 22,
+      "path": "content/works/Celia Swart - Les Secrets de L'air.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "streaming": "https://www.etcetera-records.com/product/la-fille-et-le-saxophone-femke-steketee-tobias-borsboom/",
+        "research": 3
+      },
+      "withheld_metadata": {
+        "composed": 2019,
+        "publisher": [
+          "Donemus"
+        ],
+        "instruments": [
+          "Soprano Saxophone",
+          "Piano"
+        ],
+        "purchase": [
+          "https://webshop.donemus.com/action/front/sheetmusic/20234/Les%2Bsecrets%2Bde%2Bl%27air"
+        ],
+        "arranger-edition": [
+          "Donemus 20234"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 23,
+      "path": "content/works/Christian Blaha - Concerto.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "composed": 2014,
+        "publisher": [
+          "Donemus"
+        ],
+        "instruments": [
+          "Alto Saxophone",
+          "Orchestra",
+          "String Orchestra"
+        ],
+        "download": [
+          "https://www.christianblaha.com/s/Saxophone-Concerto-watermark.pdf"
+        ],
+        "arranger-edition": [
+          "D20150; score in C; copyright 2020"
+        ],
+        "research": 3
+      },
+      "withheld_metadata": {
+        "purchase": [
+          "https://webshop.donemus.com/action/front/sheetmusic/20150"
+        ]
+      },
+      "notation_inspected": true
+    },
+    {
+      "run_number": 24,
+      "path": "content/works/Clare Loveday - Displacement.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "library-score": [
+          "https://www.samroscores.org.za/work/displacement/"
+        ],
+        "research": 3
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 25,
+      "path": "content/works/Claude Pascal - Impromptu.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Editions Durand"
+        ],
+        "purchase": [
+          "https://www.halleonard.com/product/50562415/impromptu?promotion=1610004promotion%3D1610004"
+        ],
+        "library-score": [
+          "https://windmusic.org/index.php?id=7355&lvl=notice_display"
+        ],
+        "arranger-edition": [
+          "DF13650; HL50562415; ISMN 9790044063727"
+        ],
+        "research": 4
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 26,
+      "path": "content/works/Claude T. Smith - Sonata No. 1.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 3
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 27,
+      "path": "content/works/Colin Cowles - Blacker and Blues.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Studio Music"
+        ],
+        "arranger-edition": [
+          "M-050-03325-7"
+        ],
+        "library-score": [
+          "https://windmusic.org/index.php?lvl=notice_display&id=16010"
+        ],
+        "research": 4
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Alto Saxophone",
+          "Piano"
+        ],
+        "purchase": [
+          "https://www.creativemusic.com.au/products/c103-saxophone/?page=219"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 28,
+      "path": "content/works/Colin Cowles - Legends of Avalon.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Ricordi"
+        ],
+        "arranger-edition": [
+          "RLD929 / LD00092900; tenor alternative; ISMN 9790570023707"
+        ],
+        "purchase": [
+          "https://www.prestomusic.com/sheet-music/products/7069394--colin-cowles-legends-of-avalon"
+        ],
+        "research": 4
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 29,
+      "path": "content/works/Costin Miereanu - Aksax.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Salabert"
+        ],
+        "arranger-edition": [
+          "EAS18107 / SLB00226100; ISMN 9790048027213; bass or baritone solo"
+        ],
+        "research": 4
+      },
+      "withheld_metadata": {
+        "purchase": [
+          "https://books.ludimusic.com/livro/aksax-basse-saxophone-seul-373747"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 30,
+      "path": "content/works/Costin Miereanu - Concerto pour saxophone et orchestre.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 4
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Soprano Saxophone",
+          "Orchestra"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 31,
+      "path": "content/works/Costin Miereanu - Ondes.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "composed": 1986,
+        "publisher": [
+          "Salabert"
+        ],
+        "arranger-edition": [
+          "EAS18485 / SLB2456; ISMN 9790048001510"
+        ],
+        "research": 3
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Alto Saxophone",
+          "Unaccompanied"
+        ],
+        "purchase": [
+          "https://www.forsyths.co.uk/sheet-music/instruments/woodwind/saxophone-sheet-music/154504-ondes-saxophone-alto-9790048001510.html"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 32,
+      "path": "content/works/Daniel Lefebvre - Diptyque.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 2
+      },
+      "withheld_metadata": {
+        "arranger-edition": [
+          "Groth MAURER04; Presto MAUEJM1345; ISMN 9790365605064, edition equivalence requires cover/plate verification"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 33,
+      "path": "content/works/David Resnick - A Novel Idea.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 3
+      },
+      "withheld_metadata": {
+        "publisher": [
+          "Alliance Music Publications, AP291"
+        ],
+        "instruments": [
+          "Alto saxophone",
+          "Piano"
+        ],
+        "purchase": [
+          "https://www.prestomusic.com/sheet-music/products/9820344--a-novel-idea-alto-sax-solo-pno"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 34,
+      "path": "content/works/David Udell - Elegie & Ecossaise.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 3
+      },
+      "withheld_metadata": {
+        "publisher": [
+          "Southern Music Company"
+        ],
+        "instruments": [
+          "Tenor saxophone or soprano saxophone",
+          "Piano"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 35,
+      "path": "content/works/Denise Rogier - Cortege.md",
+      "status": "no_reliable_match",
+      "added": {},
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 36,
+      "path": "content/works/Dietrich Erdmann - Konzert.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "composed": 1989,
+        "publisher": [
+          "Ries & Erler"
+        ],
+        "multi-instruments": "One player doubling soprano and alto saxophones, with orchestra or piano reduction",
+        "research": 4
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Soprano saxophone and alto saxophone (one player)",
+          "Orchestra or piano reduction"
+        ],
+        "arranger-edition": [
+          "Piano reduction by Dietrich Erdmann; edited Detlef Bensmann; ISMN9790013240067"
+        ],
+        "purchase": [
+          "https://www.kulturkaufhaus.de/de/detail/ISBN-9790013240067/Erdmann-Dietrich/Konzert"
+        ],
+        "streaming": "https://www.prestomusic.com/classical/products/9814928--dietrich-erdmann-musik-fur-saxophon"
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 37,
+      "path": "content/works/Dulce Holland - Shy One.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "composed": 1956,
+        "publisher": [
+          "Wirripang"
+        ],
+        "purchase": [
+          "https://nla.gov.au/nla.obj-2940023561",
+          "https://www.australiancomposers.com.au/products/shy-one"
+        ],
+        "arranger-edition": [
+          "Edited by Nessyah Buder Gallagher"
+        ],
+        "research": 2
+      },
+      "withheld_metadata": {},
+      "notation_inspected": true
+    },
+    {
+      "run_number": 38,
+      "path": "content/works/Erich Wolfgang Korngold - Much Ado About Nothing.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 3
+      },
+      "withheld_metadata": {
+        "purchase": [
+          "https://www.alfred.com/products/much-ado-op-11-for-alto-sax-or-clarinet-and-piano-36-m277491?variant=44600780980360"
+        ],
+        "publisher": [
+          "Keiser Productions/LudwigMasters,36-M277491,UPC660355169175 (alto or clarinet edition)"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 39,
+      "path": "content/works/Erland von Koch - Off The Beaten Path.md",
+      "status": "no_reliable_match",
+      "added": {},
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 40,
+      "path": "content/works/Erland von Koch - Suite.md",
+      "status": "no_reliable_match",
+      "added": {},
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 41,
+      "path": "content/works/Felix Mendelssohn - Six Romances sans parole.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Éditions Billaudot"
+        ],
+        "purchase": [
+          "https://www.billaudot.com/gb6917-6.html"
+        ],
+        "research": 1
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 42,
+      "path": "content/works/Floyd O. Harris - Sax Caprice.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "LudwigMasters/Lauren Keiser10450137"
+        ],
+        "purchase": [
+          "https://www.forsyths.co.uk/music/sheet-music/instruments/woodwind/saxophone-sheet-music/431114-harris-floyd-o-sax-caprice-9781633615601.html"
+        ],
+        "research": 3
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 43,
+      "path": "content/works/Floyd O. Harris - Two Marionettes.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Ludwig Music"
+        ],
+        "research": 4
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 44,
+      "path": "content/works/Frederick Fox - Annexus.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "composed": 1980,
+        "publisher": [
+          "Dorn Publications"
+        ],
+        "multi-instruments": "Alto saxophone and prepared piano",
+        "research": 2
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Alto saxophone",
+          "Prepared piano"
+        ]
+      },
+      "notation_inspected": true
+    },
+    {
+      "run_number": 45,
+      "path": "content/works/Frederik van Rossum - Pathetic Story.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 5
+      },
+      "withheld_metadata": {
+        "publisher": [
+          "Millstone,©2002; MP0261(piano reduction, distributor catalogue)"
+        ],
+        "instruments": [
+          "Alto saxophone",
+          "String orchestra,harp,piano and percussion; piano reduction available"
+        ],
+        "library-score": [
+          "https://search.worldcat.org/title/Pathetic-story-%3A-concerto-for-alto-saxophone-in-E-string-orchestra-harp-piano-and-percussion-opus-61/oclc/62139910"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 46,
+      "path": "content/works/Fritz Jakma - Cavatine.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 2
+      },
+      "withheld_metadata": {
+        "publisher": [
+          "Tierolff"
+        ],
+        "instruments": [
+          "Soprano or tenor saxophone",
+          "Piano"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 47,
+      "path": "content/works/Fritz Jakma - Second Concertino.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 2
+      },
+      "withheld_metadata": {
+        "publisher": [
+          "Tierolff,product2049"
+        ],
+        "purchase": [
+          "https://tierolff.nl/en/concertino-ii-2049.html"
+        ],
+        "instruments": [
+          "Soprano or tenor saxophone (alternative oboe/clarinet)",
+          "Piano"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 48,
+      "path": "content/works/Fritz Jakma - Starlight Dreams.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 3
+      },
+      "withheld_metadata": {
+        "publisher": [
+          "J.J.Lispet,distributed Tierolff"
+        ],
+        "instruments": [
+          "Soprano saxophone or B-flat clarinet",
+          "Piano"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 49,
+      "path": "content/works/Gabriel Pares - Crepuscule.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Éditions Billaudot"
+        ],
+        "purchase": [
+          "https://www.billaudot.com/af0026-c-6.html",
+          "https://www.justflutes.com/shop/product/crepuscule-alto-saxophone-piano-gabriel-pares"
+        ],
+        "research": 5
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 50,
+      "path": "content/works/Gabriel Pierné - Le Vol de la Mouche.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 2
+      },
+      "withheld_metadata": {
+        "publisher": [
+          "Billaudot (CC2842); formerly Costallat"
+        ],
+        "instruments": [
+          "Alto Saxophone",
+          "Piano"
+        ],
+        "purchase": [
+          "https://www.prestomusic.com/sheet-music/products/7760885--paul-pierne-le-vol-de-la-mouche"
+        ],
+        "library-score": [
+          "https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 51,
+      "path": "content/works/Gary Steward - Gather the Wind.md",
+      "status": "no_reliable_match",
+      "added": {},
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 52,
+      "path": "content/works/Geoff Hannan - Bubblegum.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "composed": 2001,
+        "streaming": "https://geoffhannan.com/concert",
+        "research": 3
+      },
+      "withheld_metadata": {
+        "publisher": [
+          "Donemus"
+        ],
+        "purchase": [
+          "https://webshop.donemus.com/action/front/search?name=%22Hannan%2C+Geoff%22&order=name"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 53,
+      "path": "content/works/Georg Philipp Telemann - Concerto in F.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 3
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Soprano Saxophone",
+          "Piano"
+        ],
+        "arranger-edition": [
+          "Ber Joosen; Molenaar 06051060 (1965); oboe, clarinet, or soprano saxophone and piano"
+        ],
+        "publisher": [
+          "Molenaar"
+        ],
+        "library-score": [
+          "https://windmusic.org/index.php?lvl=notice_display&id=7846"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 54,
+      "path": "content/works/George Frideric Handel - Cantilena.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Neil A. Kjos Music Company"
+        ],
+        "arranger-edition": [
+          "Forrest L. Buchtel; copyright 1960 edition"
+        ],
+        "purchase": [
+          "https://www.sheetmusicplus.com/en/product/cantilena-296783.html"
+        ],
+        "research": 3
+      },
+      "withheld_metadata": {
+        "library-score": [
+          "https://search.worldcat.org/title/Cantilena-%3A-E-alto-saxophone-solo-with-piano-accompaniment/oclc/869634384"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 55,
+      "path": "content/works/George Gershwin - Andante and Finale from Rhapsody in Blue.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Warner Bros. Publications / Alfred Music"
+        ],
+        "arranger-edition": [
+          "Walter Beeler; 1946 issue reported by June Emerson; ISBN 9780769275468"
+        ],
+        "purchase": [
+          "https://www.juneemersonwindmusic.com/RHAPSODY-IN-BLUE-Andante-and-Finale.html"
+        ],
+        "research": 3
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "B-flat, E-flat, or C bass-clef solo instrument",
+          "Piano"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 56,
+      "path": "content/works/Georges Sporck - Meditation.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 4
+      },
+      "withheld_metadata": {
+        "publisher": [
+          "Billaudot, AF0021-A (B-flat); AF0021-C (E-flat)"
+        ],
+        "instruments": [
+          "Soprano Saxophone",
+          "Piano"
+        ],
+        "purchase": [
+          "https://www.billaudot.com/meditation-op-37-1.html"
+        ],
+        "arranger-edition": [
+          "Méditation, op. 37; B-flat edition also for clarinet; E-flat edition also available"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 57,
+      "path": "content/works/Germaine Tailleferre - Menuet.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 4
+      },
+      "withheld_metadata": {
+        "publisher": [
+          "Musik Fabrik"
+        ],
+        "instruments": [
+          "Soprano Saxophone",
+          "Piano"
+        ],
+        "purchase": [
+          "https://www.juneemersonwindmusic.com/Saxophone/?page=59&sort="
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 58,
+      "path": "content/works/Germaine Tailleferre - Trois Dances.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 3
+      },
+      "withheld_metadata": {
+        "publisher": [
+          "Musik Fabrik, MFGT015C (alto edition)"
+        ],
+        "instruments": [
+          "Alto Saxophone",
+          "Piano"
+        ],
+        "arranger-edition": [
+          "Trois danses de La Nouvelle Cythère, MFGT015C; separate B-flat soprano/tenor version also indexed"
+        ],
+        "purchase": [
+          "https://www.prestomusic.com/sheet-music/publishers/3703/browse?size=10&view=large"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 59,
+      "path": "content/works/Harold Farberman - Concerto.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "instruments": [
+          "Alto Saxophone",
+          "Piano",
+          "Orchestra",
+          "String Orchestra"
+        ],
+        "arranger-edition": [
+          "Recital version: alto saxophone and piano reduction"
+        ],
+        "research": 5
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 60,
+      "path": "content/works/Harry Gee - Essay for Saxophone.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Dorn Publications"
+        ],
+        "research": 2
+      },
+      "withheld_metadata": {
+        "purchase": [
+          "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 61,
+      "path": "content/works/Henk Klop - L'exposition de Peinture.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "composed": 1985,
+        "publisher": [
+          "Donemus"
+        ],
+        "purchase": [
+          "https://webshop.donemus.nl/action/front/sheetmusic/14848"
+        ],
+        "research": 2
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 62,
+      "path": "content/works/Henri Challan - Concerto.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 4
+      },
+      "withheld_metadata": {
+        "publisher": [
+          "Alphonse Leduc, AL20337; HL48181147; ISMN 9790046203374"
+        ],
+        "instruments": [
+          "Alto Saxophone",
+          "Orchestra"
+        ],
+        "arranger-edition": [
+          "Alto saxophone/piano reduction; copyright 1946 cited by BnF"
+        ],
+        "purchase": [
+          "https://www.halleonard.com/product/48181147/concertoconcerto"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 63,
+      "path": "content/works/Hitomi Kaneko - La Bulle.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "arranger-edition": [
+          "Collection Nobuya Sugawa, Saxy Ever; copyright 2002"
+        ],
+        "streaming": "https://www.youtube.com/watch?v=LVI7t6iJKB4",
+        "research": 5
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Alto Saxophone",
+          "Piano"
+        ]
+      },
+      "notation_inspected": true
+    },
+    {
+      "run_number": 64,
+      "path": "content/works/Hitomi Kaneko - Vitamin C.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "streaming": "https://www.youtube.com/watch?v=PtsS3ISPXGg",
+        "multi-instruments": "Two alto saxophones",
+        "research": 2
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Two Alto Saxophones"
+        ],
+        "arranger-edition": [
+          "Vitamin C: Composition by 3D Modeling V"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 65,
+      "path": "content/works/Isao Matsushita - Atoll II.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "composed": 1982,
+        "publisher": [
+          "Ongaku no Tomo Sha"
+        ],
+        "research": 4
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Alto Saxophone",
+          "Piano"
+        ],
+        "streaming": "https://www.qobuz.com/gb-en/album/music-for-saxophone-from-berlin-vol-3-1982-2004-frank-lunte-and-tatjana-blome/vj1bls52ka4gi"
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 66,
+      "path": "content/works/Jacqueline Fontyn - Dialogues.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "composed": 1969,
+        "publisher": [
+          "Choudens"
+        ],
+        "library-score": [
+          "https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf"
+        ],
+        "research": 3
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Alto Saxophone",
+          "Piano"
+        ],
+        "arranger-edition": [
+          "Choudens 1971 edition"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 67,
+      "path": "content/works/Jan Friedlin - Waterspring Song.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "composed": 2004,
+        "publisher": [
+          "Musik Fabrik"
+        ],
+        "arranger-edition": [
+          "Soprano edition; composer also lists tenor alternative"
+        ],
+        "purchase": [
+          "https://www.notendownload.com/en/water-spring-song/mfjf006-pdf",
+          "https://www.prestomusic.com/sheet-music/products/9458123--jan-freidlin-waterspring-song"
+        ],
+        "research": 3
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Soprano Saxophone",
+          "Piano"
+        ]
+      },
+      "notation_inspected": true
+    },
+    {
+      "run_number": 68,
+      "path": "content/works/Jay Vosk - Concerto.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Dorn Publications"
+        ],
+        "arranger-edition": [
+          "Original for alto saxophone and chamber orchestra; Dorn piano version 202"
+        ],
+        "research": 2
+      },
+      "withheld_metadata": {
+        "purchase": [
+          "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 69,
+      "path": "content/works/Jean Baptiste Loeillet - Sonata Op. 4 No. 11.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Southern Music"
+        ],
+        "arranger-edition": [
+          "Harvey Pittel; recording arrangement also credits Malcolm Hamilton"
+        ],
+        "purchase": [
+          "https://www.halleonard.com/product/3776210/sonata-op-4-no-11-in-f-minor"
+        ],
+        "research": 4
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Soprano Saxophone",
+          "Continuo"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 70,
+      "path": "content/works/Jean Baptiste Loeillet - Sonata XII Op. 3-2.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 2
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Soprano Saxophone",
+          "Piano"
+        ],
+        "arranger-edition": [
+          "Durst, Sonata No.12, Op.3 No.2, DP1309"
+        ],
+        "purchase": [
+          "https://www.juneemersonwindmusic.com/Bb-Soprano-Sax-Pieces/?page=7&sort="
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 71,
+      "path": "content/works/Jean Thierry - Chant Tenebres.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 2
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 72,
+      "path": "content/works/Jean-Luc Falchamps - Décalcomanie de Reich et Ligeti.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "composed": 2005,
+        "research": 3
+      },
+      "withheld_metadata": {
+        "purchase": [
+          "https://www.demond.de/jean-luc-fafchamps-decalcomanie-de-reich-et-ligeti-pour-saxophone-alto-et-piano-52646"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 73,
+      "path": "content/works/Jean-Luc Lepage - Fantaisie.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Combre"
+        ],
+        "purchase": [
+          "https://www.laflutedepan.com/partition/1079733/jean-luc-lepage-fantaisie-partition-saxophone-alto-et-piano.html"
+        ],
+        "research": 4
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 74,
+      "path": "content/works/Jeanne Leleu - Danse Nostalgique.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Henry Lemoine"
+        ],
+        "library-score": [
+          "https://catalogue.bnf.fr/ark:/12148/cb39726348h"
+        ],
+        "streaming": "https://www.qobuz.com/nz-en/album/leleu-danse-nostalgique-jerome-laran-michael-ertzscheid/i1r4rwr4tnzun",
+        "research": 5
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 75,
+      "path": "content/works/Johan van der Linden - Five Short Pieces.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Molenaar Edition"
+        ],
+        "research": 3
+      },
+      "withheld_metadata": {
+        "purchase": [
+          "https://www.sheetmusicplus.com/en/product/five-short-pieces-19292316.html"
+        ]
+      },
+      "notation_inspected": true
+    },
+    {
+      "run_number": 76,
+      "path": "content/works/John Martin - Smoky Blue.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "composed": 2020,
+        "publisher": [
+          "Wirripang"
+        ],
+        "purchase": [
+          "https://nla.gov.au/nla.obj-2997045346",
+          "https://www.australiancomposers.com.au/products/smoky-blue?_pos=1&_sid=8c2a46ca4&_ss=r"
+        ],
+        "research": 2
+      },
+      "withheld_metadata": {},
+      "notation_inspected": true
+    },
+    {
+      "run_number": 77,
+      "path": "content/works/Jun Nagao - L'aphorisme.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 4
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Soprano Saxophone",
+          "Piano"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 78,
+      "path": "content/works/Jun Nagao - Motus Animi.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "streaming": "https://www.youtube.com/watch?v=1GDuQJtFZlQ",
+        "multi-instruments": "Two alto saxophones",
+        "research": 4
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Alto Saxophone",
+          "Duo"
+        ]
+      },
+      "notation_inspected": true
+    },
+    {
+      "run_number": 79,
+      "path": "content/works/Jun Nagao - Trilithon.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "multi-instruments": "Alto saxophone, baritone saxophone and piano (three players)",
+        "research": 4
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Alto Saxophone",
+          "Baritone Saxophone",
+          "Piano",
+          "Trio"
+        ]
+      },
+      "notation_inspected": true
+    },
+    {
+      "run_number": 80,
+      "path": "content/works/Jérôme Naulais - Frissons.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Éditions Billaudot"
+        ],
+        "purchase": [
+          "https://www.billaudot.com/frissons-18.html"
+        ],
+        "research": 5
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Alto Saxophone",
+          "Piano"
+        ],
+        "library-score": [
+          "https://windmusic.org/index.php?id=14816&lvl=notice_display"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 81,
+      "path": "content/works/Kae Hirakawa - A Sequence of Impulses.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "purchase": [
+          "https://shop.zen-on.co.jp/downloads/detail/59024700/",
+          "https://shop.zen-on.co.jp/item/detail/590247/"
+        ],
+        "multi-instruments": "Clarinet, one saxophonist doubling alto and soprano, and piano (three players)",
+        "research": 3
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Alto Saxophone",
+          "Soprano Saxophone",
+          "Clarinet",
+          "Piano",
+          "Trio"
+        ]
+      },
+      "notation_inspected": true
+    },
+    {
+      "run_number": 82,
+      "path": "content/works/Kenji Sakai - Between the Wave and the Memory.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 6
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Any Saxophone",
+          "Electronics"
+        ],
+        "composed": "2005–2006"
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 83,
+      "path": "content/works/Kenji Sakai - Etheric Visions II.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 4
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Alto Saxophone",
+          "Unaccompanied"
+        ]
+      },
+      "notation_inspected": true
+    },
+    {
+      "run_number": 84,
+      "path": "content/works/Kenji Sakai - In a Haze.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "multi-instruments": "Two alto saxophones",
+        "research": 5
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Alto Saxophone",
+          "Duo"
+        ],
+        "purchase": [
+          "https://www.schott-music.com/en/in-a-haze-no598726.html"
+        ]
+      },
+      "notation_inspected": true
+    },
+    {
+      "run_number": 85,
+      "path": "content/works/Kenji Sakai - Initial S II.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "multi-instruments": "Soprano voice and alto saxophone",
+        "research": 5
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Alto Saxophone",
+          "Voice",
+          "Duo"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 86,
+      "path": "content/works/Kenji Sakai - Initial S.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "streaming": "https://vimeo.com/161118511",
+        "research": 7
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Alto Saxophone",
+          "Unaccompanied"
+        ]
+      },
+      "notation_inspected": true
+    },
+    {
+      "run_number": 87,
+      "path": "content/works/Kenji Sakai - Melodia Labile.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "streaming": "https://music.youtube.com/watch?v=r5dofZWy3cQ&list=RDAMVMr5dofZWy3cQ",
+        "research": 4
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Soprano Saxophone",
+          "Piano"
+        ]
+      },
+      "notation_inspected": true
+    },
+    {
+      "run_number": 88,
+      "path": "content/works/Kenji Sakai - Reflecting Space II: Fantasia and Berceuse.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 6
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Any Saxophone",
+          "Electronics"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 89,
+      "path": "content/works/Kent Holliday - Cythera.md",
+      "status": "no_reliable_match",
+      "added": {},
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 90,
+      "path": "content/works/L.A. Logrande - Scattering Light.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "composed": 2015,
+        "research": 3
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 91,
+      "path": "content/works/Lennie Niehaus - Waltz for Emily.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Kendor Music"
+        ],
+        "purchase": [
+          "https://www.stantons.com/sheet-music/title/waltz-for-emily/11495/"
+        ],
+        "research": 2
+      },
+      "withheld_metadata": {},
+      "notation_inspected": true
+    },
+    {
+      "run_number": 92,
+      "path": "content/works/Leo Samama - Past Tense.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "composed": 1997,
+        "research": 3
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Alto Saxophone",
+          "Guitar"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 93,
+      "path": "content/works/Leonard Mark Lewis - As in Stained Light.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Leonard Mark Lewis"
+        ],
+        "research": 4
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Alto Saxophone",
+          "Piano"
+        ]
+      },
+      "notation_inspected": true
+    },
+    {
+      "run_number": 94,
+      "path": "content/works/Leonard Mark Lewis - Book of Dances and Other Diversions.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Leonard Mark Lewis"
+        ],
+        "research": 4
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Alto Saxophone",
+          "Marimba"
+        ]
+      },
+      "notation_inspected": true
+    },
+    {
+      "run_number": 95,
+      "path": "content/works/Leonard Mark Lewis - Elegy.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Leonard Mark Lewis"
+        ],
+        "research": 3
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Alto Saxophone",
+          "Piano"
+        ]
+      },
+      "notation_inspected": true
+    },
+    {
+      "run_number": 96,
+      "path": "content/works/Leonard Mark Lewis - Fire and Ice.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Leonard Mark Lewis"
+        ],
+        "research": 3
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Baritone Saxophone",
+          "Piano"
+        ]
+      },
+      "notation_inspected": true
+    },
+    {
+      "run_number": 97,
+      "path": "content/works/Leonard Mark Lewis - Winter Canticles.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Leonard Mark Lewis"
+        ],
+        "research": 3
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Soprano Saxophone",
+          "Piano"
+        ]
+      },
+      "notation_inspected": true
+    },
+    {
+      "run_number": 98,
+      "path": "content/works/Libby Larsen - Concerto.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 3
+      },
+      "withheld_metadata": {},
+      "notation_inspected": true
+    },
+    {
+      "run_number": 99,
+      "path": "content/works/Lucie Robert-Diessel - Concerto.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 3
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 100,
+      "path": "content/works/Lucie Robert-Diessel - Sonate.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Éditions Billaudot"
+        ],
+        "purchase": [
+          "https://www.billaudot.com/sonate-186.html"
+        ],
+        "research": 3
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Alto Saxophone",
+          "Piano"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 101,
+      "path": "content/works/Lucie Robert-Diessel - Variations.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Éditions Billaudot"
+        ],
+        "purchase": [
+          "https://www.billaudot.com/variations-24.html"
+        ],
+        "research": 1
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Alto Saxophone",
+          "Piano"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 102,
+      "path": "content/works/Lynden De Young - Transformation (with a tribute to Johnny Hodges).md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 2
+      },
+      "withheld_metadata": {
+        "publisher": [
+          "Dorn Publications"
+        ],
+        "instruments": [
+          "Alto Saxophone",
+          "Piano"
+        ],
+        "purchase": [
+          "https://www.juneemersonwindmusic.com/Sheet-Music/?page=292&sort=composer"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 103,
+      "path": "content/works/Marcel De Jonghe - Concerto.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "composed": 1993,
+        "research": 3
+      },
+      "withheld_metadata": {
+        "publisher": [
+          "Lantro Music"
+        ],
+        "instruments": [
+          "Alto Saxophone",
+          "Piano",
+          "Wind Ensemble"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 104,
+      "path": "content/works/Marcel Perrin - Burlesque.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 1
+      },
+      "withheld_metadata": {
+        "publisher": [
+          "Dorn Publications"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 105,
+      "path": "content/works/Marcel Perrin - Duo Concertant.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 3
+      },
+      "withheld_metadata": {
+        "composed": "1973-1974",
+        "publisher": [
+          "Éditions Billaudot"
+        ],
+        "instruments": [
+          "Alto Saxophone",
+          "Piano"
+        ],
+        "purchase": [
+          "https://www.chimesmusic.com/products/duo-concertant-1.html"
+        ],
+        "library-score": [
+          "https://patrinum.ch/record/18469/files/inventaire_Perrin_Scherrer_2014.pdf"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 106,
+      "path": "content/works/Marga Richter Wirth - Ballade No. 2.md",
+      "status": "no_reliable_match",
+      "added": {},
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 107,
+      "path": "content/works/Marga Richter Wirth - Dari Jawa.md",
+      "status": "no_reliable_match",
+      "added": {},
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 108,
+      "path": "content/works/Martin Romberg - The Tale of Taliesin Concerto.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 3
+      },
+      "withheld_metadata": {
+        "publisher": [
+          "Éditions Billaudot"
+        ],
+        "instruments": [
+          "Alto Saxophone",
+          "Piano",
+          "Orchestra"
+        ],
+        "arranger-edition": [
+          "Piano reduction of orchestral concerto, GB8903"
+        ],
+        "purchase": [
+          "https://www.ficksmusic.com/products/romberg-the-tale-of-taliesin-billaudot"
+        ],
+        "streaming": "https://music.apple.com/us/song/1437850907"
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 109,
+      "path": "content/works/Masa Matsuura - Le Cinéma.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "purchase": [
+          "https://shop.zen-on.co.jp/downloads/detail/56003600/",
+          "https://shop.zen-on.co.jp/item/detail/560036/"
+        ],
+        "multi-instruments": "Alto saxophone, tenor saxophone and piano (three players)",
+        "research": 3
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Alto Saxophone",
+          "Tenor Saxophone",
+          "Piano",
+          "Trio"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 110,
+      "path": "content/works/Masanori Katoh - Slovakian Rhapsody.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "purchase": [
+          "https://shop.zen-on.co.jp/downloads/detail/56002300/",
+          "https://www.halleonard.com/product/49019439/slovakian-rhapsody"
+        ],
+        "research": 5
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Alto Saxophone",
+          "Piano"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 111,
+      "path": "content/works/Meyer Kupferman - Five Forms.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "instruments": [
+          "Soprano Saxophone",
+          "Piano"
+        ],
+        "research": 2
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 112,
+      "path": "content/works/Meyer Kupferman - In Two Bits.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 2
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 113,
+      "path": "content/works/Michele Sweeney - Duo.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 4
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 114,
+      "path": "content/works/Michio Kitazume - Chain.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "purchase": [
+          "https://shop.zen-on.co.jp/downloads/detail/56001700/",
+          "https://shop.zen-on.co.jp/item/detail/560017/"
+        ],
+        "research": 3
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Soprano Saxophone",
+          "Unaccompanied"
+        ],
+        "library-score": [
+          "https://ge.nii.ac.jp/ncid/BB07923094"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 115,
+      "path": "content/works/Miriama Young - This Earthly Round.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "composed": 2014,
+        "purchase": [
+          "https://www.miriamayoung.com/works/this-earthly-round"
+        ],
+        "multi-instruments": "Alto saxophone and prepared piano",
+        "research": 3
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Alto Saxophone",
+          "Prepared Piano"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 116,
+      "path": "content/works/Niccolo Paganini - Cantabile.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Dorn Publications"
+        ],
+        "research": 2
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 117,
+      "path": "content/works/Niccolo Paganini - Sonata Appassionata.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Dorn Publications"
+        ],
+        "research": 2
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 118,
+      "path": "content/works/Niccolò Paganini - Non Piu Mesta Accanto al Fuoco.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Dorn Publications"
+        ],
+        "instruments": [
+          "Soprano Saxophone",
+          "Piano"
+        ],
+        "arranger-edition": [
+          "Dave Camwell; DP1417"
+        ],
+        "research": 3
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 119,
+      "path": "content/works/Niccolò Paganini - Sonata Appassionata.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Dorn Publications"
+        ],
+        "instruments": [
+          "Soprano Saxophone",
+          "Piano"
+        ],
+        "arranger-edition": [
+          "Dave Camwell; DP1442"
+        ],
+        "purchase": [
+          "https://www.juneemersonwindmusic.com/Sonata-Appassionata-e38d73a5-3867-8bb7-e7b3-7899cce2d714.html"
+        ],
+        "research": 2
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 120,
+      "path": "content/works/Niccolò Paganini - Sul Margine D'Un Rio.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 3
+      },
+      "withheld_metadata": {
+        "publisher": [
+          "Dorn Publications"
+        ],
+        "instruments": [
+          "Soprano Saxophone",
+          "Tenor Saxophone",
+          "Piano"
+        ],
+        "arranger-edition": [
+          "Dave Camwell; DP1408"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 121,
+      "path": "content/works/Nubim - City Life.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "composed": 2018,
+        "publisher": [
+          "Donemus"
+        ],
+        "purchase": [
+          "https://webshop.donemus.com/action/front/sheetmusic/20030"
+        ],
+        "research": 3
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Alto Saxophone",
+          "Tenor Saxophone",
+          "Piano"
+        ],
+        "streaming": "https://music.amazon.co.jp/albums/B0CT5XT426"
+      },
+      "notation_inspected": true
+    },
+    {
+      "run_number": 122,
+      "path": "content/works/Nubim - Rotary Vertigo.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "composed": 2016,
+        "publisher": [
+          "Donemus"
+        ],
+        "purchase": [
+          "https://webshop.donemus.com/action/front/sheetmusic/20028"
+        ],
+        "research": 3
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Alto Saxophone",
+          "Piano"
+        ],
+        "streaming": "https://music.amazon.co.jp/albums/B0CT5XT426"
+      },
+      "notation_inspected": true
+    },
+    {
+      "run_number": 123,
+      "path": "content/works/Pamela Tanious Worley - Six Dances.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 5
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 124,
+      "path": "content/works/Pamela Tanious Worley - Suite.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 2
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 125,
+      "path": "content/works/Pascal Proust - Combien de Marins.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Éditions Billaudot"
+        ],
+        "purchase": [
+          "https://www.billaudot.com/gb7158-6.html"
+        ],
+        "research": 2
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Alto Saxophone",
+          "Piano"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 126,
+      "path": "content/works/Paul R. Goldstaub - Graphics IV.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Dorn Publications"
+        ],
+        "research": 3
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Alto Saxophone",
+          "Celesta"
+        ]
+      },
+      "notation_inspected": true
+    },
+    {
+      "run_number": 127,
+      "path": "content/works/Pedro Jakubowski - Ibeji IV.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 3
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 128,
+      "path": "content/works/Peter Ondishko - Goodnight Wine.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Dorn Publications"
+        ],
+        "instruments": [
+          "Soprano Saxophone",
+          "Piano"
+        ],
+        "research": 2
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 129,
+      "path": "content/works/Pierre Liémans - A la bonne heure.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 3
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Alto Saxophone",
+          "Piano"
+        ],
+        "purchase": [
+          "https://www.noten-roehr.de/en/scores/0005/woodwind-instruments/0507/saxophone/0504/woodwind%2Bpiano-harpsichord/107419"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 130,
+      "path": "content/works/Pierre Petit - Saxopera.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 2
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 131,
+      "path": "content/works/Pierre Verhiel - Introduction & Dance Espagnole.md",
+      "status": "no_reliable_match",
+      "added": {},
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 132,
+      "path": "content/works/Pierre Verhiel - Sonatine.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 3
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 133,
+      "path": "content/works/Randall Snyder - Retrospective Sonata.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "composed": 2009,
+        "publisher": [
+          "Universal Edition"
+        ],
+        "research": 2
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Tenor Saxophone",
+          "Piano"
+        ]
+      },
+      "notation_inspected": true
+    },
+    {
+      "run_number": 134,
+      "path": "content/works/Randall Snyder - Second Sonata.md",
+      "status": "no_reliable_match",
+      "added": {},
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 135,
+      "path": "content/works/Randall Snyder - Song of the Loon.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "composed": 1998,
+        "publisher": [
+          "Universal Edition"
+        ],
+        "research": 2
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Alto Saxophone",
+          "Orchestra"
+        ]
+      },
+      "notation_inspected": true
+    },
+    {
+      "run_number": 136,
+      "path": "content/works/Randall Thompson - Song and Dance.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 2
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 137,
+      "path": "content/works/Reginald Heath - Reflections.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Studio Music"
+        ],
+        "library-score": [
+          "https://windmusic.org/index.php?lvl=notice_display&id=16014"
+        ],
+        "research": 3
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 138,
+      "path": "content/works/Renato Goulart - Imagens do Broasil.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 3
+      },
+      "withheld_metadata": {
+        "composed": "1999"
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 139,
+      "path": "content/works/Richard Faith - Phantasies.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 3
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 140,
+      "path": "content/works/Richard Stillwell - Sonata No. 1.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 3
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 141,
+      "path": "content/works/Robert Myers - Sonatine.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 2
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 142,
+      "path": "content/works/Rudy Wiedoeft - Rudy Wiedoeft Collection Volume 3 - Sax Serene; Lightnin'; The Doll Dance (Brown); Dainty Miss Miller (Barnes); Melancholy Charlie (Cr.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Musik Fabrik"
+        ],
+        "arranger-edition": [
+          "Paul Wehage, editor"
+        ],
+        "purchase": [
+          "https://www.notenpunkt.de/rudy-wiedoeft-the-rudy-wiedoeft-collection-vol-3-vaudeville-repertoire-for-alto-saxophone-and-piano-65679"
+        ],
+        "research": 2
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Alto Saxophone",
+          "Piano"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 143,
+      "path": "content/works/Rudy Wiedoeft - Valse - Mazane-Saxema.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 4
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 144,
+      "path": "content/works/Ryo Noda - Pulse 72±.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "composed": 1982,
+        "publisher": [
+          "Alphonse Leduc"
+        ],
+        "research": 4
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 145,
+      "path": "content/works/Sam Raphling - Sonata No. 1.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 1
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 146,
+      "path": "content/works/Sam Raphling - Sonata No. 2.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "composed": 1968,
+        "research": 1
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 147,
+      "path": "content/works/Sarah Neutkens - People And Things.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "composed": 2021,
+        "publisher": [
+          "Donemus"
+        ],
+        "purchase": [
+          "https://webshop.donemus.com/action/front/sheetmusic/20245/People%2Band%2BThings"
+        ],
+        "research": 3
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 148,
+      "path": "content/works/Scott Joplin - Magnetic Rag.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Editions Marc Reift"
+        ],
+        "purchase": [
+          "https://www.sheetmusicplus.com/title/magnetic-rag-sheet-music/20512109?narrow_by=piano?aff_id=426309&utm_medium=plg1",
+          "https://www.stantons.com/sheet-music/title/magnetic-rag/EMR35180/"
+        ],
+        "research": 1
+      },
+      "withheld_metadata": {},
+      "notation_inspected": true
+    },
+    {
+      "run_number": 149,
+      "path": "content/works/Sergei Prokofiev - Romance and Troika from Lieutenant Kijé.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Rubank Publications"
+        ],
+        "purchase": [
+          "https://www.sheetmusicplus.com/title/romance-and-troika-from-lieutenant-kije-sheet-music/3009171?aff_id=426309&utm_medium=plg1",
+          "https://www.halleonard.com/product/4477547/romance-and-troika-from-lieutenant-kije"
+        ],
+        "research": 1
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 150,
+      "path": "content/works/Sherwood Shaffer - Sonata.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 1
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 151,
+      "path": "content/works/Shin'ichirō Ikebe - Bivalence VIII.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "multi-instruments": "Two players: soprano/alto saxophones and tenor/baritone saxophones",
+        "research": 2
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Soprano",
+          "Alto",
+          "Tenor",
+          "Baritone"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 152,
+      "path": "content/works/Sky Macklay - Density Dancity.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "composed": 2016,
+        "publisher": [
+          "Edition Peters"
+        ],
+        "purchase": [
+          "https://www.edition-peters.com/product/density-dancity/ep68655"
+        ],
+        "research": 1
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 153,
+      "path": "content/works/Stephen Yates - Il Baco.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "composed": 1997,
+        "publisher": [
+          "Wirripang"
+        ],
+        "purchase": [
+          "https://www.australiancomposers.com.au/products/il-baco-saxophone"
+        ],
+        "research": 2
+      },
+      "withheld_metadata": {},
+      "notation_inspected": true
+    },
+    {
+      "run_number": 154,
+      "path": "content/works/Sterling Cossaboom - Fragments.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Southern Music Company"
+        ],
+        "instruments": [
+          "Soprano Saxophone",
+          "Piano"
+        ],
+        "research": 1
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 155,
+      "path": "content/works/Steven Galante - Shu Gath Manna.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "composed": 1987,
+        "publisher": [
+          "Steven Galante"
+        ],
+        "research": 3
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 156,
+      "path": "content/works/Susan Hurley - Nocturne.md",
+      "status": "no_reliable_match",
+      "added": {},
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 157,
+      "path": "content/works/Sydney Hodkinson - Panels - Simple Songs Without Words.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Theodore Presser Company"
+        ],
+        "purchase": [
+          "https://www.presser.com/144-40667-panels.html"
+        ],
+        "research": 1
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 158,
+      "path": "content/works/Takuma Itoh - Sarcasms.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 1
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 159,
+      "path": "content/works/Thoma Simaku - Albanian Folk Song “My Beautiful Morea”.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 2
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 160,
+      "path": "content/works/Timothy Franklin - Three Vignettes.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Wirripang"
+        ],
+        "research": 2
+      },
+      "withheld_metadata": {},
+      "notation_inspected": true
+    },
+    {
+      "run_number": 161,
+      "path": "content/works/Tokuhide Niimi - La Valse F.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 2
+      },
+      "withheld_metadata": {
+        "instruments": [
+          "Alto"
+        ]
+      },
+      "notation_inspected": false
+    },
+    {
+      "run_number": 162,
+      "path": "content/works/Tomoyuki Hisatome - Merry Bacteria Music.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "multi-instruments": "Two players: alto saxophone and flute doubling piccolo",
+        "research": 2
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 163,
+      "path": "content/works/Unknown - Solo.md",
+      "status": "no_reliable_match",
+      "added": {},
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 164,
+      "path": "content/works/Victor Fenigstein - Concerto.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "composed": 1961,
+        "research": 1
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 165,
+      "path": "content/works/Walter Hartley - Sacred Harp Songs.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "LudwigMasters Publications"
+        ],
+        "purchase": [
+          "https://www.jwpepper.com/seven-sacred-harp-songs-alto-sax-5406335/p"
+        ],
+        "research": 1
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 166,
+      "path": "content/works/Walter Hartley - Saxophone Album.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Dorn Publications"
+        ],
+        "instruments": [
+          "Soprano Saxophone",
+          "Piano"
+        ],
+        "research": 1
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 167,
+      "path": "content/works/Walter Skolnik - Arioso and Dance.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Tritone Press & Tenuto Publications"
+        ],
+        "purchase": [
+          "https://schottmusiclondon.com/arioso-danza-no440674.html"
+        ],
+        "instruments": [
+          "Soprano Saxophone",
+          "Piano"
+        ],
+        "research": 2
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 168,
+      "path": "content/works/Warren Gooch - Soliloquy.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Dorn Publications"
+        ],
+        "instruments": [
+          "Soprano Saxophone",
+          "Piano"
+        ],
+        "research": 1
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 169,
+      "path": "content/works/Warren Gooch - Sonata.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Dorn Publications"
+        ],
+        "instruments": [
+          "Soprano Saxophone",
+          "Piano"
+        ],
+        "research": 2
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 170,
+      "path": "content/works/William Presser - Arioso.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 2
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 171,
+      "path": "content/works/William Presser - Four Grounds.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Tritone Press & Tenuto Publications"
+        ],
+        "purchase": [
+          "https://www.presser.com/494-01515-4-grounds.html"
+        ],
+        "multi-instruments": "Soprano saxophone (or oboe), horn and timpani",
+        "research": 2
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 172,
+      "path": "content/works/William Presser - Prelude and Rondo.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 2
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 173,
+      "path": "content/works/William Presser - Sonatina.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 1
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 174,
+      "path": "content/works/William Schmidt - Little Midnight Music.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 2
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 175,
+      "path": "content/works/William Schmidt - Variations on a Theme of Mussorgsky.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 1
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 176,
+      "path": "content/works/Willy van Dorsselaer - Musicolor.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Éditions Billaudot"
+        ],
+        "purchase": [
+          "https://www.billaudot.com/mrb1308-6.html"
+        ],
+        "research": 3
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 177,
+      "path": "content/works/Wolfgang Amadeus Mozart - Adagio & Romance.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Tierolff Muziekcentrale"
+        ],
+        "instruments": [
+          "Soprano Saxophone",
+          "Piano"
+        ],
+        "arranger-edition": [
+          "Willy Hautvast"
+        ],
+        "research": 1
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 178,
+      "path": "content/works/Wolfgang Amadeus Mozart - Adagio from Clarinet Concerto K.622.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 1
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 179,
+      "path": "content/works/Wolfgang Amadeus Mozart - Concerto for Oboe in C Major, KV314.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 1
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 180,
+      "path": "content/works/Yasuhide Ito - Le Saxophone Lyrique.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "research": 2
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 181,
+      "path": "content/works/Yuan-Chen Li - Spell.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "composed": 2009,
+        "publisher": [
+          "Yuan-Chen Li"
+        ],
+        "streaming": "https://yclimusic.com/music/",
+        "purchase": [
+          "https://www.sheetmusicplus.com/en/product/spell-aka-ling-20699205.html"
+        ],
+        "research": 2
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    },
+    {
+      "run_number": 182,
+      "path": "content/works/Yvonne Desportes - Melopee Dorienne.md",
+      "status": "researched_with_gaps",
+      "added": {
+        "publisher": [
+          "Éditions Combre"
+        ],
+        "research": 1
+      },
+      "withheld_metadata": {},
+      "notation_inspected": false
+    }
+  ],
+  "counts": {
+    "publisher": 76,
+    "instruments": 17,
+    "library-score": 7,
+    "research": 166,
+    "composed": 32,
+    "download": 2,
+    "arranger-edition": 24,
+    "purchase": 42,
+    "streaming": 9,
+    "multi-instruments": 13
+  },
+  "research_statuses": {
+    "researched_with_gaps": 166,
+    "no_reliable_match": 16
+  },
+  "notation_inspected": 33
+}

@@ -1,14 +1,15 @@
 ---
-title: "Gerard Harrison"
+title: Gerard Harrison
 slug: gerard-harrison
-nationality: []
-gender: 
+nationality:
+  - 🇬🇧 British
+gender: Male
 race: []
-born: 
-died: 
-wikidata: 
-photo: 
-photo-credit: 
-photo-source: 
+born:
+died:
+wikidata:
+photo:
+photo-credit:
+photo-source:
 aliases: []
 ---

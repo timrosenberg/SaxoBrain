@@ -13,7 +13,8 @@ arranger-edition:
 publisher:
   - "Salabert"
 streaming: 
-purchase: []
+purchase:
+  - "Rent from Publisher · https://www.durand-salabert-eschig.com/fr-FR/ContactUs.aspx"
 added: 2026-10-09
 research:
   - "Wikipedia lists 'Doppel(kammer)konzert, for saxophone, percussion, and chamber orchestra (1985)' · https://en.wikipedia.org/wiki/Costin_Miereanu"
@@ -21,6 +22,11 @@ research:
   - "Hire-symbol interpretation for orchestral materials. · https://www.durand-salabert-eschig.com/-/media/Images/DSE/PDFs/Brochures/M/miereanu_costin.ashx?hash=DB3940F1A0022C98EE93628A8FA342AAB67BA94A&la=en-GB"
 aliases: []
 ---
+
+## Ordering
+
+Request rental materials from [Durand Salabert Eschig](https://www.durand-salabert-eschig.com/fr-FR/ContactUs.aspx) at [location.dse@umusic.com](mailto:location.dse@umusic.com). Quote **EAS 18334**, as listed in [Salabert’s catalog](https://www.durand-salabert-eschig.com/-/media/Images/DSE/PDFs/Brochures/M/miereanu_costin.ashx?hash=DB3940F1A0022C98EE93628A8FA342AAB67BA94A&la=en-GB#page=10).
+
 ## Research notes (private)
 
 ### Chat batch 07 follow-up, 2026-10-13

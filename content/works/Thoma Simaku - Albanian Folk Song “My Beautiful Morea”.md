@@ -1,17 +1,19 @@
 ---
-title: "Albanian Folk Song “My Beautiful Morea”"
+title: Albanian Folk Song “My Beautiful Morea”
 slug: thoma-simaku-albanian-folk-song-my-beautiful-morea
 composer:
   - "[[Thoma Simaku]]"
 instruments:
-  - "Soprano Saxophone"
-  - "Piano"
-composed: 
-year-of-study: 
-streaming: 
-purchase: []
+  - Soprano Saxophone
+  - Piano
+composed: 2015
+year-of-study: Second Year
+streaming: https://www.youtube.com/watch?v=cgVHQsa5xUA
+purchase:
+  - https://www.all-sheetmusic.com/Wind-Instruments/Saxophone/Albanian-Folk-Song-My-Beautiful-Morea.html
 library-recording:
-  - "https://search.alexanderstreet.com/lti/view/work/bibliographic_entity|score|5158620"
 added: 2025-04-21
 aliases: []
+research:
 ---
+Based on the sixteenth-century folk song *Moj e Bukura Moré*.

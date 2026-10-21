@@ -11,7 +11,7 @@ year-of-study: "Fourth Year"
 arranger-edition: 
 publisher:
   - "Zen-On"
-streaming: 
+streaming: "https://www.youtube.com/watch?v=feP_qPPo_Qg"
 purchase:
   - https://www.zen-on.co.jp/en/publishing/cr/composers/works/detail/1336/
   - "https://shop.zen-on.co.jp/downloads/detail/56003400/"
@@ -20,6 +20,11 @@ research:
   - "Duration 14 minutes; commissioned by Zen-On; premiered 9 Dec 2016 at Tokyo Bunka Kaikan by Nobuya Sugawa and Michiyo Haneishi; three sections; source mentions a saxophone solo section, hard sounds in the low register, and a heartbeat-based rhythmic pulse · https://www.eamdc.com/news/zen-on-releases-alice-nakamuras-wind-channel-for-alto-saxophone-and-piano/"
 aliases: []
 ---
+
+## Listening links
+
+- [Nobuya Sugawa and Michiyo Haneishi (Zen-On, 2016)](https://www.youtube.com/watch?v=feP_qPPo_Qg)
+
 ## Research notes (private)
 
 - Duration 14 minutes; commissioned by Zen-On; premiered 9 Dec 2016 at Tokyo Bunka Kaikan by Nobuya Sugawa and Michiyo Haneishi; three sections; source mentions a saxophone solo section, hard sounds in the low register, and a heartbeat-based rhythmic pulse · [eamdc.com](https://www.eamdc.com/news/zen-on-releases-alice-nakamuras-wind-channel-for-alto-saxophone-and-piano/)

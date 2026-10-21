@@ -1,0 +1,53 @@
+{
+  "run_number": 11,
+  "filename": "Benedetto Marcello - Sonate.md",
+  "path": "content/works/Benedetto Marcello - Sonate.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "notation_inspected": false,
+  "score_observations": [],
+  "score_links": [],
+  "listening": [],
+  "collection_flag": null,
+  "identity": "Benedetto Marcello, Sonate: exact sonata unresolved",
+  "findings": [
+    "A soprano saxophone/piano Sonata in F major edited by Jean-François Michel exists as Marc Reift EMR97467-DL, eight minutes, released April 2026.",
+    "Other editions include alto/continuo and tenor/piano sonatas. The catalog's unqualified Sonate cannot uniquely identify a source.",
+    "The 2026 Michel edition postdates this catalog record's April 2025 added date, so it cannot safely be treated as its original intended edition."
+  ],
+  "evidence": [
+    {
+      "claim": "Soprano F-major candidate, Michel, EMR97467-DL, 2026",
+      "url": "https://www.partitions-musicales.net/Vents/Saxophone/Sonate-en-fa-majeur-nr-EMR97467-DL.html",
+      "source_name": "partitions-musicales.net",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Different tenor F-major edition, Mortimer EMR57003",
+      "url": "https://www.stretta-music.be/marcello-sonata-no-1-nr-1220471.html",
+      "source_name": "Stretta",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {},
+  "gaps": [
+    "Need key, opus, sonata number or edition to resolve the catalog identity.",
+    "No metadata fields proposed from a merely possible candidate.",
+    "No exact recording or score inspection."
+  ],
+  "searches": [
+    "Benedetto Marcello Sonate saxophone",
+    "\"Marcello\" \"Sonate\" \"soprano\" \"Leduc\"",
+    "\"Marcello\" \"Sonate\" soprano saxophone Londeix",
+    "\"Benedetto Marcello\" \"Sonate\" soprano saxophone piano"
+  ],
+  "proposed_corrections": [
+    {
+      "field": "title",
+      "suggestion": "Add key, sonata number and arranger once owned edition is known",
+      "reason": "Several conflicting saxophone arrangements match generic title."
+    }
+  ]
+}

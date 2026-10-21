@@ -12,7 +12,8 @@ arranger-edition:
 publisher:
   - "Golden River Music"
 streaming: 
-purchase: []
+purchase:
+  - "https://goldenrivermusic.eu/nl-be/product/trilogie/"
 added: 2026-10-09
 aliases: []
 ---

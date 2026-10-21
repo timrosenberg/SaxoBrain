@@ -1,0 +1,24 @@
+[
+  {
+    "file": "content/works/Frederick Fox - Annexus.md",
+    "name": "Frederick Fox - Annexus",
+    "status": "verified-purchase",
+    "purchase_url": "https://www.juneemersonwindmusic.com/Annexus-b8e9d9bf-c352-10e2-b89f-8ad46a7d4bb5.html",
+    "source_urls": [
+      "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+      "https://www.juneemersonwindmusic.com/Annexus-b8e9d9bf-c352-10e2-b89f-8ad46a7d4bb5.html",
+      "https://www.grothmusic.com/search.aspx?searchterm=Annexus",
+      "https://www.juneemersonwindmusic.com/search_advanced_ss.php?mode=advs&adv_q=Annexus"
+    ],
+    "evidence": "Opened June Emerson product page: Annexus by Frederick Fox, printed edition for alto saxophone and piano, Dorn Publications DP0796, £19.95 with quantity field and Add to Cart button.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Frederick Fox\" \"Annexus\" sheet music",
+      "\"Annexus\" \"Fox\" \"Dorn\" purchase",
+      "Groth Music site search: Annexus",
+      "Groth Music internal search: Annexus (no results)",
+      "June Emerson internal detailed search: Annexus"
+    ],
+    "notes": "Existing catalog specifies prepared piano. Retailer abbreviates scoring as sax/A. pft. without explaining preparation. Dorn number DP0796 matches the publisher catalog lead. Stock and dispatch timing not stated on opened product page."
+  }
+]

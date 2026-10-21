@@ -1,0 +1,47 @@
+filters:
+  and:
+    - 'note["review-packet"] == "Remaining Scores 01" || note["review-packet"] == "Remaining Scores 02" || note["review-packet"] == "Remaining Scores 03" || note["review-packet"] == "Remaining Scores 04" || note["review-packet"] == "Remaining Scores 05" || note["review-packet"] == "Remaining research holds" || note["review-decision"] == "Hold"'
+properties:
+  note.review-id:
+    displayName: Review Number
+  note.catalog-entry:
+    displayName: Work
+  note.review-decision:
+    displayName: Your Decision
+views:
+  - type: table
+    name: Score decisions
+    filters:
+      and:
+        - 'note["review-packet"] == "Remaining Scores 05"'
+        - 'note["review-decision"] == "Pending"'
+    order:
+      - review-id
+      - file.name
+      - catalog-entry
+      - review-decision
+      - review-applied
+    sort:
+      - property: review-id
+        direction: ASC
+  - type: table
+    name: Decisions to apply
+    filters:
+      and:
+        - 'note["review-applied"] == false'
+        - 'note["review-decision"] != "Pending"'
+        - 'note["review-decision"] != "Hold"'
+    order:
+      - review-id
+      - catalog-entry
+      - review-decision
+      - review-applied
+  - type: table
+    name: Research holds
+    filters:
+      and:
+        - 'note["review-decision"] == "Hold"'
+    order:
+      - review-id
+      - catalog-entry
+      - review-decision

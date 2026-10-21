@@ -8,7 +8,7 @@ instruments:
   - "Piano"
 composed: 1991
 year-of-study: "Fourth Year"
-streaming: 
+streaming: "https://scholarworks.uark.edu/musccr/2114/"
 purchase:
   - https://www.grothmusic.com/p-156787.aspx
 added: 2024-03-08
@@ -22,7 +22,18 @@ aliases: []
 publisher:
   - "Dorn Publications"
 ---
+
+## Recording
+
+[Listen to the October 1, 1998 faculty recital](https://scholarworks.uark.edu/musccr/2114/), with Stan Morris, saxophone, and Henry Runkles, piano. *Phantastes* begins at **33:20** in the full recital recording.
+
+[Download the recital program (PDF)](https://scholarworks.uark.edu/cgi/viewcontent.cgi?article=3221&context=musccr).
+
 ## Research notes (private)
+
+### Recording confirmed October 20, 2026
+
+Tim supplied the archive link and the 33:20 start time. The archive page contains an embedded recording and identifies Phantastes (1991) by James Greeson, with Stan Morris on saxophone and Henry Runkles on piano. Its Download button was checked: the file is a three-page recital-program PDF. The program confirms the title Phantastes, the performers and the October 1, 1998 date. Audio was not auditioned. The existing Fourth Year assignment is unchanged.
 
 ### Chat batch 11 follow-up, 2026-10-14
 

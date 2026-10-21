@@ -9,7 +9,8 @@ instruments:
 composed: 
 year-of-study: "Advanced"
 streaming: 
-purchase: []
+purchase:
+  - "https://resolute-music.com/products/pent-etude-23"
 added: 2024-02-23
 aliases: []
 ---

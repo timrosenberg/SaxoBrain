@@ -1,28 +1,27 @@
 ---
-title: "Dance Suite"
+title: Dance Suite
 slug: gerard-harrison-dance-suite
 composer:
   - "[[Gerard Harrison]]"
 instruments:
-  - "Soprano Saxophone"
-  - "Piano"
-composed: 
-year-of-study: "First Year"
-streaming: 
+  - Soprano Saxophone
+  - Piano
+composed: 2005
+year-of-study: First Year
+streaming:
 purchase:
-  - "https://www.grothmusic.com/p-37774.aspx"
-  - "Printed edition · https://www.juneemersonwindmusic.com/DANCE-SUITE-5e165d8b-1fde-4523-977b-5e7623c3f632.html"
-  - "Digital edition · https://www.juneemersonwindmusic.com/DANCE-SUITE-6f7a83b6-30f8-ac90-4b81-d5583cb423d5.html"
+  - https://www.grothmusic.com/p-37774.aspx
+  - Digital edition · https://www.juneemersonwindmusic.com/DANCE-SUITE-6f7a83b6-30f8-ac90-4b81-d5583cb423d5.html
 added: 2025-04-18
 research:
-  - "Publisher June Emerson, catalog EE481; soprano sax (or clarinet) and piano · https://www.grothmusic.com/p-37774.aspx"
-  - "Exact E481 score sample 1 inspected. · https://www.juneemersonwindmusic.com/images/D/E481%20page%201.jpg"
-  - "Exact E481 score sample 2 inspected. · https://www.juneemersonwindmusic.com/images/D/E481%20page%202.jpg"
-  - "Exact E481 score sample 3 inspected. · https://www.juneemersonwindmusic.com/images/D/E481%20page%203.jpg"
-  - "Exact instrumentation, publisher, catalogue code, skill rating, and digital edition link. · https://www.juneemersonwindmusic.com/DANCE-SUITE-5e165d8b-1fde-4523-977b-5e7623c3f632.html"
+  - Publisher June Emerson, catalog EE481; soprano sax (or clarinet) and piano · https://www.grothmusic.com/p-37774.aspx
+  - Exact E481 score sample 1 inspected. · https://www.juneemersonwindmusic.com/images/D/E481%20page%201.jpg
+  - Exact E481 score sample 2 inspected. · https://www.juneemersonwindmusic.com/images/D/E481%20page%202.jpg
+  - Exact E481 score sample 3 inspected. · https://www.juneemersonwindmusic.com/images/D/E481%20page%203.jpg
+  - Exact instrumentation, publisher, catalogue code, skill rating, and digital edition link. · https://www.juneemersonwindmusic.com/DANCE-SUITE-5e165d8b-1fde-4523-977b-5e7623c3f632.html
 aliases: []
 publisher:
-  - "Emerson Edition"
+  - Emerson Edition
 ---
 ## Research notes (private)
 

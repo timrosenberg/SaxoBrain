@@ -10,7 +10,8 @@ instruments:
 composed: 
 year-of-study: "Third Year"
 streaming: 
-purchase: []
+purchase:
+  - "Composer profile · https://digitalcommons.unl.edu/musicsnyder/"
 added: 2025-04-16
 research:
   - "Score listed for tenor sax, horn in F and trombone, 20 pages, copyright 2007 · https://digitalcommons.unl.edu/musicsnyder/37"

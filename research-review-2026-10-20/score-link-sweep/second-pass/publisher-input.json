@@ -1,0 +1,197 @@
+[
+  {
+    "file": "content/works/Dana Wilson - We Sing to Each Other.md",
+    "name": "Dana Wilson - We Sing to Each Other",
+    "status": "lead",
+    "purchase_url": null,
+    "source_urls": [
+      "https://www.danawilson.org/chamber_music",
+      "https://www.danawilson.org/node/2"
+    ],
+    "evidence": "Opened composer list identifies We Sing to Each Other as solo alto saxophone and provides a score-order link to Groth Music. General composer ordering policy was browser verified, but exact Groth product was not resolved.",
+    "composer_site_checked": "https://www.danawilson.org/chamber_music",
+    "queries": [
+      "\"Dana Wilson\" \"We Sing to Each Other\" score"
+    ],
+    "notes": "Catalog says any saxophone. Composer specifies alto. The linked retailer homepage alone is not an exact purchase URL.",
+    "checked_date": "2026-10-20",
+    "current_text": "---\ntitle: \"We Sing to Each Other\"\nslug: dana-wilson-we-sing-to-each-other\ncomposer:\n  - \"[[Dana Wilson]]\"\ninstruments:\n  - \"Any Saxophone\"\n  - \"Unaccompanied\"\ncomposed: \nyear-of-study: \"Fourth Year\"\narranger-edition: \nstreaming: \npurchase: []\nadded: 2026-10-09\naliases: []\n---\n"
+  },
+  {
+    "file": "content/works/David Baker - The Jazz Style of Cannonball Adderly.md",
+    "name": "David Baker - The Jazz Style of Cannonball Adderly",
+    "status": "lead",
+    "purchase_url": null,
+    "source_urls": [
+      "https://www.ammareal.fr/livre/932987-the-jazz-style-of-cannonball-adderley-a-musical-and-historical-perspective-giants-of-jazz",
+      "https://www.iberlibro.com/Jazz-style-Cannonball-Adderley-Musical-Historical/32213973827/bd"
+    ],
+    "evidence": "Live browser and screenshot verified exact David Baker book at Ammareal, but currently unavailable. Alternative ThriftBooksVintage listing on IberLibro also explicitly says unavailable.",
+    "composer_site_checked": "http://www.davidbakermusic.org/",
+    "queries": [
+      "\"David Baker\" \"Cannonball Adderley\" book buy",
+      "\"Jazz Style of Cannonball Adderley\" buy book Baker"
+    ],
+    "notes": "Search-index stock/prices are stale. No current purchasable copy verified; composer site could not connect.",
+    "checked_date": "2026-10-20",
+    "current_text": "---\ntitle: \"The Jazz Style of Cannonball Adderly\"\nslug: david-baker-the-jazz-style-of-cannonball-adderly\ncomposer:\n  - \"[[David Baker]]\"\ninstruments:\n  - \"Soprano Saxophone\"\n  - \"Alto Saxophone\"\n  - \"Tenor Saxophone\"\n  - \"Baritone Saxophone\"\ntags:\n  - \"Jazz\"\ncomposed: \nyear-of-study: \"Second Year\"\nstreaming: \npurchase: []\nadded: 2019-08-25\naliases: []\n---\n"
+  },
+  {
+    "file": "content/works/Frederik van Rossum - Pathetic Story.md",
+    "name": "Frederik van Rossum - Pathetic Story",
+    "status": "lead",
+    "purchase_url": null,
+    "source_urls": [
+      "https://www.elkinmusic.com/public/catalog.pdf",
+      "https://www.newconsonantmusic.com/composer/van-rossum-frederik/"
+    ],
+    "evidence": "Opened Elkin sales catalog(2022) identifies Pathetic Story Op61 for alto saxophone and piano, Millstone MP0261. Opened representative publisher composer page mentions orchestral work, but does not offer it for sale.",
+    "composer_site_checked": "https://www.newconsonantmusic.com/composer/van-rossum-frederik/",
+    "queries": [
+      "Frederik van Rossum Pathetic Story saxophone score buy",
+      "\"Pathetic Story\" \"MP0261\"",
+      "\"Pathetic Story\" saxophone sheet music Millstone buy",
+      "\"Frederik van Rossum\" official composer website"
+    ],
+    "notes": "Historical sales catalog alone is not current purchase verification. Catalog Any Saxophone is broader than identified alto edition. No personal composer site found; publisher representative checked.",
+    "checked_date": "2026-10-20",
+    "current_text": "---\ntitle: \"Pathetic Story\"\nslug: frederik-van-rossum-pathetic-story\ncomposer:\n  - \"[[Frederik van Rossum]]\"\ninstruments:\n  - \"Any Saxophone\"\n  - \"Piano\"\ncomposed: \nyear-of-study: \narranger-edition: \npublisher:\n  - \"Cebedem\"\nstreaming: \npurchase: []\nadded: 2026-10-09\naliases: []\nresearch:\n  - \"Search-index evidence only: Millstone 2002, op61, and full orchestral scoring · https://search.worldcat.org/title/Pathetic-story-%3A-concerto-for-alto-saxophone-in-E-string-orchestra-harp-piano-and-percussion-opus-61/oclc/62139910\"\n  - \"Search-index evidence only: 2002 final commission and alto scoring · https://dinant2002.adolphesax.com/Html-esp/datosgenerales.htm\"\n  - \"2000–2001,24 minutes · https://gulabin.com/composers/pdf/FREDERIK%20VAN%20ROSSUM.pdf\"\n  - \"Search-index evidence only: Alto+piano MP0261 · https://www.elkinmusic.com/public/catalog.pdf\"\n  - \"Exact Hara recording on2013 association release · https://pmb.artsaucarre.be/opac_css/index.php?id=2553&lvl=publisher_see\"\n---\n\n\n## Research notes (private)\n\n### Research checked October 16, 2026\n\n**Identity checked:** Frederik van Rossum, Pathetic Story, op.61, concerto for alto saxophone and orchestra, with piano reduction.\n\n**Findings**\n\n- WorldCat documents Millstone, Ramillies,©2002 edition for alto saxophone, string orchestra, harp, piano and percussion.\n- Competition primary indexed reports identify it as 2002 Dinant final commissioned compulsory concerto; a forum's 2006 claim is contradicted by competition records.\n- Orchestral catalogue at Gulabin lists 2000–2001 composition and 24 minutes; primary composition-date confirmation still needed.\n- Elkin distributor catalogue identifies alto+piano reduction MP0261; used-score dealer describes 54-page score plus 18-page solo part, Millstone 2002.\n- ARTS² library catalogue confirms Hiroshi Hara recording on International Adolphe Sax Association 2013 three-CD/DVDcollection.\n- Existing Cebedem publisher is preserved as a conflicting lead; located edition says Millstone.\n\n**Notation inspected:** No.\n\n**Recordings and listening leads**\n\n- [Hiroshi Hara, Pathetic Story, International Adolphe Sax Association 2013 anthology CD1](https://pmb.artsaucarre.be/opac_css/index.php?id=2553&lvl=publisher_see) Library exact composer, title, performer and disc contents verified live; no accessible stream or audition.\n\n**Collection fit:** Professional international competition final concerto,2002 Dinant. Strong college/professional relevance.\n\n**Catalog observations and proposed corrections**\n\nThese refer to the catalog at the start of research. Verified missing fields were filled. Changes to existing values remain proposals.\n\n- Instruments: Alto saxophone Piano reduction (catalog at research start: Any Saxophone Piano). Library, competition, and distributor identify alto specifically.\n- Publisher: Review Millstone©2002 edition MP0261 (catalog at research start: Cebedem). Located library edition differs from current metadata.\n\n**Still unknown**\n\n- No public notation inspected or streaming URL verified.\n- Composition 2000–2001 needs primary corroboration; 2002 is verified edition/competition year.\n- Existing Cebedem publisher conflicts with located Millstone edition.\n- AIAS report PDF URLs redirect to unrelated current website document and were not treated as opened evidence.\n\n**Sources and access**\n\n- [WorldCat](https://search.worldcat.org/title/Pathetic-story-%3A-concerto-for-alto-saxophone-in-E-string-orchestra-harp-piano-and-percussion-opus-61/oclc/62139910): Millstone 2002, op 61, and full orchestral scoring. Search-index evidence only; source page not retrieved.\n- [Dinant 2002 competition archive](https://dinant2002.adolphesax.com/Html-esp/datosgenerales.htm): 2002 final commission and alto scoring. Search-index evidence only; source page not retrieved.\n- [Gulabin orchestral catalogue](https://gulabin.com/composers/pdf/FREDERIK%20VAN%20ROSSUM.pdf): 2000–2001,24 minutes. Source opened.\n- [Elkin Music distributor catalogue](https://www.elkinmusic.com/public/catalog.pdf): Alto+piano MP0261. Search-index evidence only; source page not retrieved.\n- [ARTS²library](https://pmb.artsaucarre.be/opac_css/index.php?id=2553&lvl=publisher_see): Exact Hara recording on 2013 association release. Source opened.\n\n**Searches tried:** `Frederik van Rossum Pathetic Story`; `Rossum Pathetic`; `Pathetic Story saxophone`; `Pathetic Story Rossum Millstone score`; `Pathetic Story Hiroshi Hara video`; `Pathetic Story Cebedem`.\n\n[[Remaining Repertoire Research - 2026-10-16|Full research overview]]\n"
+  },
+  {
+    "file": "content/works/Georg Philipp Telemann - Concerto in F.md",
+    "name": "Georg Philipp Telemann - Concerto in F",
+    "status": "lead",
+    "purchase_url": null,
+    "source_urls": [
+      "https://www.stretta-music.nl/author-ber-joosen",
+      "https://windmusic.org/index.php?lvl=notice_display&id=7846"
+    ],
+    "evidence": "Stretta indexed listing offers Telemann Concerto in F, Joosen arrangement, Molenaar, €11.40. Direct browser access stopped at site verification.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Telemann\" \"Concerto in F\" \"soprano\" Joosen",
+      "\"Telemann\" \"Concerto in F\" Molenaar Joosen purchase",
+      "\"Concerto in F\" \"06051060\" buy"
+    ],
+    "notes": "Catalog research identifies Molenaar 06051060 for soprano saxophone or oboe/clarinet and piano. No opened sale detail.",
+    "checked_date": "2026-10-20",
+    "current_text": "---\ntitle: \"Concerto in F\"\nslug: georg-philipp-telemann-concerto-in-f\ncomposer:\n  - \"[[Georg Philipp Telemann]]\"\ninstruments:\n  - \"Soprano Saxophone\"\ncomposed: \nyear-of-study: \"First Year\"\nstreaming: \"https://youtu.be/-74aNxnyLRU\"\npurchase: []\nadded: 2025-04-18\naliases: []\nresearch:\n  - \"Search-index evidence only: Ber Joosen, Molenaar, soprano saxophone arrangement · https://www.knmo.nl/wp-content/uploads/2014/05/05-Repertorium-Houtblazers-Solisten-Ensembles-2010.pdf\"\n  - \"Search-index evidence only: 06051060; 6:50; three movements; piano; 1965 edition · https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf\"\n  - \"Search-index evidence only: Molenaar 1965, Ber Joosen; 16+3+3 pages; translated title F minor · https://windmusic.org/index.php?lvl=notice_display&id=7846\"\n---\n\n## Listening links\n\n- [Recording selected by Tim](https://youtu.be/-74aNxnyLRU)\n\n## Research notes (private)\n\n### Research checked October 16, 2026\n\n**Identity checked:** [[Georg Philipp Telemann]]: Concerto in F\n\n**Findings**\n\n- A saxophone-specific institutional repertoire list identifies the Molenaar edition as Ber Joosen's arrangement for soprano saxophone.\n- The Philharmonie de Paris digitized 10 ans avec le saxophone identifies Molenaar 06051060, 6 minutes 50 seconds, and movements Allegro, Siciliano, Vivace (3/8). It describes the edition as oboe, clarinet, or soprano saxophone with piano, dated 1965. This is edition evidence, not Telemann's composition date.\n- Windmusic library's matching entry calls the work Concerto en Fa mineur in its translated title. Exact original-work TWV identity and major/minor labeling require the edition before linking general Telemann concerto recordings.\n\n**Notation inspected:** No.\n\n**Collection fit:** Substantial three-movement Baroque transcription; saxophone repertoire guide and institutional list support its established use.\n\n**Catalog observations and proposed corrections**\n\nThese refer to the catalog at the start of research. Verified missing fields were filled. Changes to existing values remain proposals.\n\n- Instruments: Soprano Saxophone Piano. Matching Joosen edition explicitly includes piano; catalog currently lists only soprano saxophone.\n\n**Still unknown**\n\n- Original TWV number and major/minor key unresolved; do not conflate with the recorder concerto TWV 51:F1.\n- No exact Joosen score preview or verified saxophone recording found.\n\n**Sources and access**\n\n- [KNMO institutional repertoire list](https://www.knmo.nl/wp-content/uploads/2014/05/05-Repertorium-Houtblazers-Solisten-Ensembles-2010.pdf): Ber Joosen, Molenaar, soprano saxophone arrangement. Search-index evidence only; source page not retrieved.\n- [Philharmonie de Paris digitized saxophone guide](https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf): 06051060; 6:50; three movements; piano; 1965 edition. Search-index evidence only; source page not retrieved.\n- [Windmusic library catalog](https://windmusic.org/index.php?lvl=notice_display&id=7846): Molenaar 1965, Ber Joosen; 16+3+3 pages; translated title F minor. Search-index evidence only; source page not retrieved.\n\n**Searches tried:** `Georg Philipp Telemann Concerto in F saxophone`; `Telemann Concerto in F saxophone piano Londeix`; `Telemann Concerto in F Molenaar saxophone`; `Telemann Concerto in F Joosen`.\n\n[[Remaining Repertoire Research - 2026-10-16|Full research overview]]\n"
+  },
+  {
+    "file": "content/works/Guy Lacour - Étude de Concert.md",
+    "name": "Guy Lacour - Étude de Concert",
+    "status": "lead",
+    "purchase_url": null,
+    "source_urls": [
+      "https://www.billaudot.com/etude-de-concert-3.html"
+    ],
+    "evidence": "GB5202; solo saxophone. Publisher says forthcoming, availability uncertain.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Guy Lacour\" \"Étude de Concert\" score"
+    ],
+    "notes": "Publisher GB5202 product is forthcoming/unavailable with no purchase button. Retailer listing exists but current orderability was not verified.",
+    "verification_method": "Opened with web reader or browser accessibility snapshot.",
+    "checked_date": "2026-10-20",
+    "current_text": "---\ntitle: \"Étude de Concert\"\nslug: guy-lacour-etude-de-concert\ncomposer:\n  - \"[[Guy Lacour]]\"\ninstruments:\n  - \"Any Saxophone\"\n  - \"Unaccompanied\"\ncomposed: \nyear-of-study: \"Third Year\"\narranger-edition: \nstreaming: \npurchase: []\nadded: 2026-10-09\naliases: []\n---\n"
+  },
+  {
+    "file": "content/works/Jay Vosk - Concerto.md",
+    "name": "Jay Vosk - Concerto",
+    "status": "lead",
+    "purchase_url": null,
+    "source_urls": [
+      "http://jayvosk.com/published-works/",
+      "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+      "https://www.grothmusic.com/search.aspx?searchterm=Vosk+Concerto"
+    ],
+    "evidence": "Opened composer's published-works page confirms Concerto for alto saxophone/chamber orchestra at Dorn. Opened Dorn April2025 catalog at Groth lists alto/piano order202 for USD15. Groth's live Vosk Concerto search returns no results.",
+    "composer_site_checked": "http://jayvosk.com/published-works/",
+    "queries": [
+      "\"Jay Vosk\" Concerto saxophone piano score",
+      "\"Vosk\" \"Concerto\" \"Dorn\" buy score",
+      "Jay Vosk Dorn publications purchase scores website"
+    ],
+    "notes": "Specific edition identified, but catalog-only listing lacks a live purchase or work-specific score-order mechanism.",
+    "checked_date": "2026-10-20",
+    "current_text": "---\ntitle: \"Concerto\"\nslug: jay-vosk-concerto\ncomposer:\n  - \"[[Jay Vosk]]\"\ninstruments:\n  - \"Alto Saxophone\"\n  - \"Piano\"\ncomposed: \nyear-of-study: \nstreaming: \npurchase: []\nadded: 2024-03-08\naliases: []\npublisher:\n  - \"Dorn Publications\"\narranger-edition:\n  - \"Original for alto saxophone and chamber orchestra; Dorn piano version 202\"\nresearch:\n  - \"Concerto for alto saxophone/chamber orchestra; Dorn · http://jayvosk.com/published-works/\"\n  - \"Vosk Concerto, order 202, saxophone/piano section · https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf\"\n---\n\n\n## Research notes (private)\n\n### Batch 05 Decision, October 20, 2026\n\nDifficulty unknown; retain unassigned. Older research below records the catalog before these corrections.\n\n### Research checked October 16, 2026\n\n**Identity checked:** [[Jay Vosk]]: Concerto\n\n**Findings**\n\n- Official Published Works page identifies Concerto for Alto Saxophone and Chamber Orchestra, published by Dorn Productions (site wording).\n- Dorn Publications April 2025 catalog lists Vosk Concerto, order 202, in its alto saxophone/piano section, supporting the piano edition.\n- Current Larger Works and Listen pages exposed no further concerto details; unrelated Chimera analysis excluded.\n\n**Notation inspected:** No.\n\n**Collection fit:** Chamber-orchestra concerto; exact college-performance context unverified.\n\n**Still unknown**\n\n- Composition/publication date, duration, movements, orchestration, dedication and premiere unresolved.\n- No exact recording, notation preview or individual retail page verified.\n\n**Sources and access**\n\n- [Jay Vosk official website](http://jayvosk.com/published-works/): Concerto for alto saxophone/chamber orchestra; Dorn. Source opened.\n- [Dorn Publications April 2025 catalog](https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf): Vosk Concerto, order 202, saxophone/piano section. Source opened.\n\n**Searches tried:** `Jay Vosk Concerto saxophone`; `Jay Vosk Concerto alto saxophone piano score Dorn`; `Jay Vosk saxophone concerto score composer`; `Jay Vosk Concerto saxophone 202 Dorn recording`.\n\n[[Remaining Repertoire Research - 2026-10-16|Full research overview]]\n"
+  },
+  {
+    "file": "content/works/Lucie Robert-Diessel - Double Concerto.md",
+    "name": "Lucie Robert-Diessel - Double Concerto",
+    "status": "lead",
+    "purchase_url": null,
+    "source_urls": [
+      "https://www.billaudot.com/double-concerto-38.html"
+    ],
+    "evidence": "Billaudot's catalog identifies EFM2340 O, for alto saxophone and piano soloists with orchestra.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Lucie Robert\" \"Double Concerto\" Billaudot"
+    ],
+    "notes": "The indexed page offers partition et materiel without a verified sale control or price. Sale versus hire remains unknown.",
+    "checked_date": "2026-10-20",
+    "current_text": "---\ntitle: \"Double Concerto\"\nslug: lucie-robert-diessel-concerto\ncomposer:\n  - \"[[Lucie Robert-Diessel]]\"\ninstruments: [\"Alto Saxophone\", \"Piano\", \"Orchestra\"]\ncomposed: \nyear-of-study: \"Advanced\"\nstreaming: \npurchase: []\nadded: 2024-03-11\naliases: []\nresearch:\n  - \"Double Concerto instrumentation, duration and plate EFM2340 O · https://www.billaudot.com/double-concerto-38.html\"\n  - \"Search-index evidence only: Alto saxophone and piano soloists; 1969 copyright miniature score · https://ci.nii.ac.jp/ncid/BA85788275\"\n  - \"Search-index evidence only: Only other concerto is Dialogue Symphonique · https://cnm.uiowa.edu/concerts/2015/06/season-40-concert-4\"\npublisher: [\"Éditions Billaudot\"]\nlibrary-score: [\"https://ci.nii.ac.jp/ncid/BA85788275\"]\n---\n\n\n## Research notes (private)\n\n### Batch 05 Decision, October 20, 2026\n\nAdvanced; title and scoring confirmed as Double Concerto for alto saxophone and piano soloists with orchestra. Confirmed fields and source links are retained in [[Remaining Repertoire - Score Batch 05|Batch 05]] and this work’s research. Older research below records the catalog before these corrections.\n\n### Research checked October 16, 2026\n\n**Identity checked:** Possible misidentification of Double Concerto for alto saxophone, piano and orchestra\n\n**Findings**\n\n- Billaudot's Double Concerto is a 27-minute work with alto saxophone and piano as soloists, orchestra including harp and three percussionists. This conflicts with the catalog's soprano saxophone listing.\n- CiNii describes an Éditions françaises de musique score copyrighted 1969, 97 pages. This is a publication date, not verified composition date.\n- University of Iowa program notes distinguish Dialogue Symphonique from the earlier double concerto, so the generic Concerto title needs confirmation.\n\n**Notation inspected:** No.\n\n**Score and edition links**\n\n- [Publisher rental score and materials entry, no notation preview found](https://www.billaudot.com/double-concerto-38.html)\n\n**Catalog observations and proposed corrections**\n\nThese refer to the catalog at the start of research. Verified missing fields were filled. Changes to existing values remain proposals.\n\n- Title/instruments: If intended work is EFM2340 O, title Double Concerto and alto saxophone plus piano are the soloists.\n\n**Still unknown**\n\n- Confirm whether this catalog record means Double Concerto or another work before changing title/instrumentation.\n- No exact recording or accessible notation verified.\n\n**Sources and access**\n\n- [Éditions Billaudot](https://www.billaudot.com/double-concerto-38.html): Double Concerto instrumentation, duration and plate EFM2340 O. Source opened.\n- [CiNii Books](https://ci.nii.ac.jp/ncid/BA85788275): Alto saxophone and piano soloists; 1969 copyright miniature score. Search-index evidence only; source page not retrieved.\n- [University of Iowa Center for New Music](https://cnm.uiowa.edu/concerts/2015/06/season-40-concert-4): Only other concerto is Dialogue Symphonique. Search-index evidence only; source page not retrieved.\n\n**Searches tried:** `Lucie Robert Diessel Concerto soprano saxophone`; `Robert Concerto soprano Lucie`; `Lucie Robert concerto saxophone partition`.\n\n[[Remaining Repertoire Research - 2026-10-16|Full research overview]]\n"
+  },
+  {
+    "file": "content/works/Marcel De Jonghe - Concerto.md",
+    "name": "Marcel De Jonghe - Concerto",
+    "status": "lead",
+    "purchase_url": null,
+    "source_urls": [
+      "https://dinant2006.adolphesax.com/html/obras.htm",
+      "https://www.lantromusic.be/",
+      "https://www.svm.be/componisten/de-jonghe-marcel?language=en"
+    ],
+    "evidence": "Dinant competition search evidence identifies concerto with piano, Lantro Music. Publisher domain opened but is parked. No exact sale page located.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Marcel De Jonghe\" \"Concerto\" saxophone piano score",
+      "\"Marcel De Jonghe\" saxophone composer official website",
+      "\"Concerto\" \"De Jonghe\" \"saxophone\" \"€\"",
+      "\"De Jonghe\" \"Concerto\" Lantro sax score shop"
+    ],
+    "notes": "No personal composer site established after live lookup. Composer identity corroborated by Flemish Music Study Centre lead; no score ordering instructions found.",
+    "checked_date": "2026-10-20",
+    "current_text": "---\ntitle: \"Concerto\"\nslug: marcel-de-jonghe-concerto\ncomposer:\n  - \"[[Marcel De Jonghe]]\"\ninstruments:\n  - \"Any Saxophone\"\n  - \"Piano\"\ncomposed: 1993\nyear-of-study: \narranger-edition: \npublisher:\n  - \"Lantro Music\"\nstreaming: \npurchase: []\nadded: 2026-10-09\naliases: []\nresearch:\n  - \"1993 date and recording commission · https://culture.uliege.be/jcms/c_1766655/fr/norbert-nozy-les-oeuvres-qui-ont-marque-sa-carriere-de-saxophoniste\"\n  - \"Search-index evidence only: Alto saxophone, band and recording performers · https://www.royalbands.mil.be/sites/default/files/content/download/files/discografie_kmuzgidsen_-_discographie_musrguides.pdf\"\n  - \"Search-index evidence only: Piano version and Lantro publisher in competition rules · https://dinant2006.adolphesax.com/html/obras.htm\"\n---\n\n\n## Research notes (private)\n\n### Research checked October 16, 2026\n\n**Identity checked:** Concerto for alto saxophone, with band original and piano version\n\n**Findings**\n\n- Norbert Nozy's University of Liège interview dates the concerto 1993 and says it was written for his recording with the Royal Band of the Belgian Guides.\n- The Guides' official discography identifies Nozy as soloist, Walter Boeykens as conductor, and Concerto for Alto Saxophone and Symphonic Band on CD 8.\n- Archived 2006 Dinant competition rules include the work among pieces performed with piano and name Lantro Music.\n\n**Notation inspected:** No.\n\n**Recordings and listening leads**\n\n- [CD 8 Concerti for Alto Saxophone and Symphonic Band; Norbert Nozy, Belgian Guides, Walter Boeykens](https://www.royalbands.mil.be/sites/default/files/content/download/files/discografie_kmuzgidsen_-_discographie_musrguides.pdf) Official discography identifies exact work and performers; this is a recording reference, not a streaming link.\n\n**Collection fit:** Documented international competition repertoire and professional recording.\n\n**Catalog observations and proposed corrections**\n\nThese refer to the catalog at the start of research. Verified missing fields were filled. Changes to existing values remain proposals.\n\n- Instruments: Replace Any Saxophone with Alto Saxophone; distinguish piano version from band original.\n\n**Still unknown**\n\n- Exact score plate, piano arranger, movements, duration and accessible notation unverified.\n- No exact streaming URL verified.\n\n**Sources and access**\n\n- [University of Liège interview with Norbert Nozy](https://culture.uliege.be/jcms/c_1766655/fr/norbert-nozy-les-oeuvres-qui-ont-marque-sa-carriere-de-saxophoniste): 1993 date and recording commission. Source opened.\n- [Royal Bands of the Belgian Defence](https://www.royalbands.mil.be/sites/default/files/content/download/files/discografie_kmuzgidsen_-_discographie_musrguides.pdf): Alto saxophone, band and recording performers. Search-index evidence only; source page not retrieved.\n- [Archived Dinant competition rules on Adolphesax](https://dinant2006.adolphesax.com/html/obras.htm): Piano version and Lantro publisher in competition rules. Search-index evidence only; source page not retrieved.\n\n**Searches tried:** `Marcel De Jonghe Concerto saxophone`; `Marcel De Jonghe Concerto Lantro`; `Marcel De Jonghe Concerto saxophone piano Lantro score`.\n\n[[Remaining Repertoire Research - 2026-10-16|Full research overview]]\n"
+  },
+  {
+    "file": "content/works/Robert Sibbing - Sonata.md",
+    "name": "Robert Sibbing - Sonata",
+    "status": "lead",
+    "purchase_url": null,
+    "source_urls": [
+      "https://www.ravellorecords.com/catalog/rr8062/",
+      "https://www.totheforepublishers.com/composerindex.php",
+      "https://www.totheforepublishers.com/sopranosax.php"
+    ],
+    "evidence": "Opened Ravello release confirms exact three-movement soprano saxophone/piano Sonata and credits To the Fore Publishers. Opened publisher composer index and soprano saxophone catalog do not list Sibbing Sonata.",
+    "composer_site_checked": null,
+    "queries": [
+      "\"Robert Sibbing\" saxophone sonata Ethos Etoile",
+      "\"Robert Sibbing\" composer website scores sonata",
+      "\"Sibbing\" \"Sonata\" \"soprano\" sheet music buy"
+    ],
+    "notes": "Publisher contact is a lead, not verified work-specific score ordering. No personal composer website identified. Schott's Sibbing Sonata is for tuba/piano and was excluded.",
+    "checked_date": "2026-10-20",
+    "current_text": "---\ntitle: \"Sonata\"\nslug: robert-sibbing-sonata\ncomposer:\n  - \"[[Robert Sibbing]]\"\ninstruments:\n  - \"Soprano Saxophone\"\n  - \"Piano\"\ncomposed: \nyear-of-study: \"Third Year\"\nstreaming: \"https://music.apple.com/us/album/soprano-saxophone-sonata-i-allegro-moderato/1606452820?i=1606452832\"\npurchase: []\nadded: 2025-04-18\nresearch:\n  - \"An Apple Music album lists 'Robert Sibbing: Soprano Saxophone Sonata' (A. Harberg album, with Paul Cohen, saxophone) · https://classical.music.apple.com/cd/album/1606452820\"\n  - \"Tracks 7-9 credit Sibbing Sonata to Paul Cohen, soprano, and Allison Brewster Franzetti, piano; publisher To the Fore. Notes describe three contrasting movements. · https://www.ravellorecords.com/catalog/rr8062/\"\n  - \"Exact movement titles, artist credits and individual track URLs checked; only the correct work movements are linked. · https://itunes.apple.com/lookup?id=1606452820&entity=song\"\naliases: []\npublisher:\n  - \"To the Fore Publishers\"\n---\n## Research notes (private)\n\n### Chat Batch 16 Follow-Up, October 15, 2026\n\nThree movements; recording totals about 13 minutes. Paul Cohen recalls the work already written by their early-1970s meeting; exact composition year remains unknown.\n\n[[Review 0334 - Robert Sibbing - Sonata|Evidence and pending recommendation]]\n\n\n- An Apple Music album lists 'Robert Sibbing: Soprano Saxophone Sonata' (A. Harberg album, with Paul Cohen, saxophone) · [classical.music.apple.com](https://classical.music.apple.com/cd/album/1606452820)\n\n<!-- saxobrain-research-review-2026-10-11 -->\n\n### Research Review, October 11, 2026\n\n[[Review 0334 - Robert Sibbing - Sonata|Full review note]]\n\nCatalog entry: [[Robert Sibbing - Sonata]].\n\nThe Apple Music catalog lists a track titled Robert Sibbing: Soprano Saxophone Sonata on Lois Anderson's Soprano Summit album, but this alone does not resolve the work's edition or scoring.\n[Apple Music catalog](https://classical.music.apple.com/tw/album/1606452820) (search_index_only): Apple Music search result identifies an album track with that title; track credits and score were not opened.\n\nCollection/transcription context: Potential original soprano saxophone sonata; identity remains provisional.\n\nReview focus: Confirm the title, composer attribution, piano accompaniment, and score identity from liner notes or publisher.\n\nOpen questions: No primary score/publisher evidence or recording credit verification was opened. Catalog instrument and accompaniment fields remain uncertain.\n\nSearches checked:\n- Robert Sibbing Soprano Saxophone Sonata score\n- Lois Anderson Soprano Summit Robert Sibbing track credits\n\n"
+  },
+  {
+    "file": "content/works/Takashi Yoshimatsu - Cyberbird Concerto.md",
+    "name": "Takashi Yoshimatsu - Cyberbird Concerto",
+    "status": "lead",
+    "purchase_url": null,
+    "source_urls": [
+      "https://yoshim.music.coocan.jp/~data/EnglishPage/publisherE.html",
+      "https://asks-orch.com/shopen/"
+    ],
+    "evidence": "Composer's publishers page specifically assigns CyberBird Op.59 and its saxophone/piano reduction to Japan Arts / ASKS.",
+    "composer_site_checked": "https://yoshim.music.coocan.jp/~data/EnglishPage/publisherE.html",
+    "queries": [
+      "\"Cyberbird Concerto\" \"piano reduction\" score"
+    ],
+    "notes": "Composer page is dated 2016. The live ASKS shop search for Cyberbird returned zero results. Current ordering requires publisher inquiry.",
+    "checked_date": "2026-10-20",
+    "current_text": "---\ntitle: \"Cyberbird Concerto\"\nslug: takashi-yoshimatsu-cyberbird-concerto\ncomposer:\n  - \"[[Takashi Yoshimatsu]]\"\ninstruments:\n  - \"Alto Saxophone\"\n  - \"Piano\"\ncomposed: 1994\nyear-of-study: \"Fourth Year\"\narranger-edition: \nstreaming: \npurchase: []\nadded: 2026-10-09\naliases: []\n---\n"
+  }
+]

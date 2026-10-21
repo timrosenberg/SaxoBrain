@@ -1,0 +1,90 @@
+{
+  "run_number": 74,
+  "filename": "Jeanne Leleu - Danse Nostalgique.md",
+  "path": "content/works/Jeanne Leleu - Danse Nostalgique.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": {
+    "title": "Danse Nostalgique",
+    "composer": [
+      "[[Jeanne Leleu]]"
+    ]
+  },
+  "findings": [
+    "Danse nostalgique is extracted from Nautéos; alto saxophone in E-flat and piano. Bibliothèque nationale de France catalogs Henry Lemoine1956,plate23736HL,Collection Alpha,score six pages and part. Publication date is not verified composition date.",
+    "A2026commercial recording by Jérôme Laran and Michaël Ertzscheid includes full performance3:54 plus piano-only and slower practice tracks.",
+    "Conservatorio di Como lists the work in its preparatory saxophone curriculum; professional presentation is also documented at a2022 conference on women Prix de Rome composers."
+  ],
+  "evidence": [
+    {
+      "claim": "Title,extraction from Nautéos,instrumentation,1956 publication,plate23736HL",
+      "url": "https://catalogue.bnf.fr/ark:/12148/cb39726348h",
+      "source_name": "Bibliothèque nationale de France",
+      "kind": "library",
+      "access": "opened"
+    },
+    {
+      "claim": "Lemoine23736,9790230937368,alto/piano",
+      "url": "https://www.ficksmusic.com/products/leleu-danse-nostalgique-lemoine",
+      "source_name": "Ficks Music",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Laran alto saxophone/Ertzscheid piano recording",
+      "url": "https://www.qobuz.com/nz-en/album/leleu-danse-nostalgique-jerome-laran-michael-ertzscheid/i1r4rwr4tnzun",
+      "source_name": "Qobuz",
+      "kind": "recording",
+      "access": "opened"
+    },
+    {
+      "claim": "Preparatory curriculum listing",
+      "url": "https://conservatoriocomo.it/afam/pre-acc/preparatori/sassofono.pdf",
+      "source_name": "Conservatorio di Como",
+      "kind": "institution",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "2022 concert Giuseppe Cavone saxophone,Sara Moro piano",
+      "url": "https://www.bruzanemediabase.com/sites/default/files/2023-10/2022%2010%20programma-convegno-Le-compositrici-e-il-Prix-de-Rome.pdf",
+      "source_name": "Palazzetto Bru Zane",
+      "kind": "institution",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {
+    "publisher": [
+      "Henry Lemoine"
+    ],
+    "instruments": [
+      "Alto Saxophone",
+      "Piano"
+    ],
+    "library-score": [
+      "https://catalogue.bnf.fr/ark:/12148/cb39726348h"
+    ],
+    "streaming": "https://www.qobuz.com/nz-en/album/leleu-danse-nostalgique-jerome-laran-michael-ertzscheid/i1r4rwr4tnzun"
+  },
+  "score_observations": [],
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [
+    {
+      "url": "https://www.qobuz.com/nz-en/album/leleu-danse-nostalgique-jerome-laran-michael-ertzscheid/i1r4rwr4tnzun",
+      "description": "Jérôme Laran alto saxophone and Michaël Ertzscheid piano, Danse nostalgique, 3:54, NomadPlay2026",
+      "verification": "Opened Qobuz exact track credits verify title, composer, alto saxophone and piano roles. No audio auditioned."
+    }
+  ],
+  "collection_flag": "Ballet excerpt with sourced preparatory teaching and professional concert contexts. Scope review useful.",
+  "gaps": [
+    "No actual score preview inspected.",
+    "Composition/arrangement date and arranger remain unverified.",
+    "Instructional publication describes range low C to high F, but this was not independently checked against notation."
+  ],
+  "searches": [
+    "Jeanne Leleu Danse Nostalgique",
+    "Jeanne Leleu Danse Nostalgique score",
+    "Jeanne Leleu Danse Nostalgique site:henry-lemoine.com"
+  ],
+  "proposed_corrections": []
+}

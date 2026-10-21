@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-20",
+  "decisions": [
+    {
+      "code": "R1",
+      "path": "content/works/Wolfgang Amadeus Mozart - Adagio & Romance.md",
+      "decision": "Remove",
+      "applied": true,
+      "old_url": "/works/wolfgang-amadeus-mozart-adagio-romance/"
+    },
+    {
+      "code": "R2",
+      "path": "content/works/Felix Mendelssohn - Six Romances sans parole.md",
+      "decision": "Remove",
+      "applied": true,
+      "old_url": "/works/felix-mendelssohn-six-romances-sans-parole/"
+    },
+    {
+      "code": "R3",
+      "path": "content/works/Armando Ghidoni - Douce Chansonnette.md",
+      "decision": "Remove",
+      "applied": true,
+      "old_url": "/works/armando-ghidoni-douce-chansonnette/"
+    }
+  ],
+  "mendelssohn_future_intent": "Tim intends to add the repertoire back in a different edition someday. No replacement edition selected."
+}

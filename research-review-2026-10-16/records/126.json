@@ -1,0 +1,77 @@
+{
+  "run_number": 126,
+  "filename": "Paul R. Goldstaub - Graphics IV.md",
+  "path": "content/works/Paul R. Goldstaub - Graphics IV.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": "Graphic IV by Paul Goldstaub, alto saxophone and celeste",
+  "findings": [
+    "Dorn catalog identifies Graphic IV, DP502, for alto saxophone and celeste; catalog title Graphics IV and piano accompaniment conflict.",
+    "Tom Bergeron's multiphonics bibliography dates its entry 1981 and identifies Dorn; this alone does not distinguish composition from publication date.",
+    "Matt Swallow's performer research reproduces an excerpt showing timbre trills with fingering diagrams."
+  ],
+  "evidence": [
+    {
+      "claim": "Graphic IV, DP502, alto/celeste",
+      "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+      "source_name": "Dorn Publications",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "1981 bibliography and multiphonic references",
+      "url": "https://tombergeron.us/download/sax-multiphonics.pdf",
+      "source_name": "Tom Bergeron",
+      "kind": "performer research",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Notation excerpt and timbre trills",
+      "url": "https://www.mattswallow.com/uploads/1/2/3/2/12324820/microtone_presentation_script.pdf",
+      "source_name": "Matt Swallow microtone presentation",
+      "kind": "performer research",
+      "access": "score_inspected"
+    }
+  ],
+  "metadata": {
+    "publisher": [
+      "Dorn Publications"
+    ],
+    "instruments": [
+      "Alto Saxophone",
+      "Celesta"
+    ]
+  },
+  "score_observations": [
+    "Figure 4 on PDF page 7 shows sustained saxophone tones carrying long trill indications and explicit alternative fingering diagrams above the staff.",
+    "The excerpt visibly uses changing fingerings for color on sustained pitches, mixed accidentals and multiple dynamic levels. This supports timbral-control demands; complete range and form cannot be inferred from this short excerpt."
+  ],
+  "notation_inspected": true,
+  "score_links": [
+    {
+      "url": "https://www.mattswallow.com/uploads/1/2/3/2/12324820/microtone_presentation_script.pdf",
+      "description": "Research reproduction of short Graphic IV excerpt, Figure 4 PDF page 7; visually inspected",
+      "inspected": true
+    }
+  ],
+  "listening": [],
+  "collection_flag": "Contemporary extended-technique chamber repertoire; celeste availability is a practical programming requirement.",
+  "gaps": [
+    "Composer catalog uses Paul Goldstaub/Paul B. Goldstaub rather than catalog Paul R.; verify full identity before composer correction.",
+    "No exact recording, full score, duration or verified composition date."
+  ],
+  "searches": [
+    "Paul R Goldstaub Graphics IV saxophone",
+    "Goldstaub Graphics IV",
+    "Goldstaub Graphic IV",
+    "Goldstaub Graphic IV saxophone celeste score",
+    "Paul Goldstaub Graphic IV recording"
+  ],
+  "proposed_corrections": [
+    {
+      "field": "title/instruments",
+      "suggestion": "Graphic IV; replace Piano with Celesta, subject to score/edition confirmation.",
+      "source": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf"
+    }
+  ]
+}

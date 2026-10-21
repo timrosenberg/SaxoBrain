@@ -1,22 +1,23 @@
 ---
-title: "Come Back"
+title: Come Back
 slug: pierre-max-dubois-come-back
 composer:
   - "[[Pierre-Max DuBois]]"
 instruments:
-  - "Alto Saxophone"
-  - "Piano"
+  - Alto Saxophone
+  - Piano
 composed: 1992
-year-of-study: "Third Year"
-streaming: 
-purchase: []
+year-of-study: Third Year
+streaming:
+purchase:
+  - https://www.planetepartitions.com/en/band-orchestra/31051-come-back-9790043046370.html
 added: 2024-03-08
 research:
   - "Wikipedia work list: Come back, for alto sax and piano (1992) · https://en.wikipedia.org/wiki/Pierre_Max_Dubois"
-  - "Sixteen-minute duo, movement sequence, harmonics, easy multiphonics and agile Vivo; printed p86. · https://pdfcoffee.com/10-ans-avec-le-saxophonepdf-pdf-free.html"
+  - Sixteen-minute duo, movement sequence, harmonics, easy multiphonics and agile Vivo; printed p86. · https://pdfcoffee.com/10-ans-avec-le-saxophonepdf-pdf-free.html
 aliases: []
 publisher:
-  - "Éditions Billaudot"
+  - Éditions Billaudot
 ---
 ## Research notes (private)
 

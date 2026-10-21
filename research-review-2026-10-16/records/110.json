@@ -1,0 +1,88 @@
+{
+  "run_number": 110,
+  "filename": "Masanori Katoh - Slovakian Rhapsody.md",
+  "path": "content/works/Masanori Katoh - Slovakian Rhapsody.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": "Slovakian Rhapsody for alto saxophone and orchestra, piano reduction",
+  "findings": [
+    "Zen-On's composer biography verifies a 2005 Nobuya Sugawa commission and premiere with the Slovak Philharmonic at Suntory Hall, Tokyo.",
+    "Piano reduction edition ZN560023 / ISBN 9784115600232 has 44 total pages and belongs to Sugawa's Saxy Ever Originals collection; CiNii identifies 2012 publication.",
+    "Publisher verifies a Sugawa recording with Seikyo Kim and Tokyo Symphony Orchestra. CDJapan identifies Aria AVCL-84046, track 9.",
+    "Tokyo Kosei Wind Orchestra's official program documents the 2005/2015 wind-orchestra version with Sugawa in April 2015."
+  ],
+  "evidence": [
+    {
+      "claim": "2005 composition/commission, premiere and orchestral recording",
+      "url": "https://www.zen-on.co.jp/en/publishing/cr/composers/detail/33/",
+      "source_name": "Zen-On composer biography",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Piano reduction digital edition",
+      "url": "https://shop.zen-on.co.jp/downloads/detail/56002300/",
+      "source_name": "Zen-On Music",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Edition identifiers and 44 pages",
+      "url": "https://www.halleonard.com/product/49019439/slovakian-rhapsody",
+      "source_name": "Hal Leonard",
+      "kind": "distributor",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Exact Aria recording track",
+      "url": "https://www.cdjapan.co.jp/product/AVCL-84046",
+      "source_name": "CDJapan",
+      "kind": "record retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Wind-orchestra version 2005/2015",
+      "url": "https://www.tkwo.jp/concert/uploads/123_124th.pdf",
+      "source_name": "Tokyo Kosei Wind Orchestra",
+      "kind": "ensemble",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {
+    "composed": 2005,
+    "publisher": [
+      "Zen-On"
+    ],
+    "instruments": [
+      "Alto Saxophone",
+      "Piano"
+    ],
+    "arranger-edition": [
+      "Piano reduction of alto saxophone and orchestra version, ZN560023"
+    ],
+    "purchase": [
+      "https://shop.zen-on.co.jp/downloads/detail/56002300/",
+      "https://www.halleonard.com/product/49019439/slovakian-rhapsody"
+    ]
+  },
+  "score_observations": [],
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [
+    {
+      "url": "https://www.cdjapan.co.jp/product/AVCL-84046",
+      "description": "Aria, Nobuya Sugawa, track 9 Slovakian Rhapsody",
+      "verification": "Exact recording retailer metadata corroborates publisher's performer/orchestra identification; recording reference only."
+    }
+  ],
+  "collection_flag": "Professional concerto with orchestral and wind-orchestra performance evidence.",
+  "gaps": [
+    "No lawful public solo notation preview or exact streaming link verified.",
+    "Duration, formal sections, piano-reduction arranger and orchestral doubling remain unverified."
+  ],
+  "searches": [
+    "Masanori Katoh Slovakian Rhapsody saxophone",
+    "Slovakian Rhapsody Sugawa youtube"
+  ],
+  "proposed_corrections": []
+}

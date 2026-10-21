@@ -1,26 +1,27 @@
 ---
-title: "Gen"
+title: Gen
 slug: ryo-noda-gen
 composer:
   - "[[Ryo Noda]]"
 instruments:
-  - "Alto Saxophone"
-  - "Piano"
-composed: 
-year-of-study: "Fourth Year"
-streaming: 
+  - Alto Saxophone
+  - Piano
+  - Orchestra
+composed: 1990
+year-of-study: Fourth Year
+streaming: https://www.youtube.com/watch?v=MZEvSyVAyaw
 purchase:
-  - "https://www.grothmusic.com/p-38005.aspx"
+  - https://www.grothmusic.com/p-38005.aspx
 added: 2024-03-08
 research:
-  - "Groth lists it as 'Gen Concerto - Alto Sax and Piano', Alphonse Leduc AL27329 · https://www.grothmusic.com/p-38005.aspx"
-  - "Orchestral original, alto solo, 15 minutes. · https://www.wisemusicclassical.com/work/51441/Gen---Concerto-for-Alto-Saxophone--Ryo-Noda/"
-  - "Gen appears in same group as Desenclos Prélude, Cadence et Finale. · https://fr.scribd.com/document/981701217/Applied-Saxophone-Lesson-Packet"
-  - "Exact alto/piano Leduc product and AL27329. · https://www.halleonard.com/product/48184348/gen-saxophone-alto-piano"
-arranger-edition: "Ryo Noda"
+  - Groth lists it as 'Gen Concerto - Alto Sax and Piano', Alphonse Leduc AL27329 · https://www.grothmusic.com/p-38005.aspx
+  - Orchestral original, alto solo, 15 minutes. · https://www.wisemusicclassical.com/work/51441/Gen---Concerto-for-Alto-Saxophone--Ryo-Noda/
+  - Gen appears in same group as Desenclos Prélude, Cadence et Finale. · https://fr.scribd.com/document/981701217/Applied-Saxophone-Lesson-Packet
+  - Exact alto/piano Leduc product and AL27329. · https://www.halleonard.com/product/48184348/gen-saxophone-alto-piano
+arranger-edition: Ryo Noda
 aliases: []
 publisher:
-  - "Alphonse Leduc"
+  - Alphonse Leduc
 ---
 ## Research notes (private)
 

@@ -1,0 +1,97 @@
+{
+  "run_number": 59,
+  "filename": "Harold Farberman - Concerto.md",
+  "path": "content/works/Harold Farberman - Concerto.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": {
+    "title": "Concerto",
+    "composer": [
+      "[[Harold Farberman]]"
+    ]
+  },
+  "findings": [
+    "Current catalog note already contains relevant prior research, which was reviewed and preserved. No catalog edits made.",
+    "Groth's live product and visually inspected cover confirm General Music Publishing GEN823, Concerto for Alto Saxophone and String Orchestra, recital version with piano reduction. Gallery exposes only the cover, so solo notation remains uninspected.",
+    "AFM Local 802's obituary states the concerto was written for and recorded by Harvey Estrin. A contemporary December 1967 Billboard report names Estrin with Stuttgart Philharmonia strings, establishing existence by 1967 independently of the later copyright record.",
+    "Baker's Biographical Dictionary, hosted by Encyclopedia.com, dates the concerto 1965; use as a secondary date lead pending primary score confirmation."
+  ],
+  "evidence": [
+    {
+      "claim": "General GEN823; alto saxophone and string orchestra, recital piano reduction",
+      "url": "https://www.grothmusic.com/p-37714.aspx",
+      "source_name": "Groth Music product and publisher cover",
+      "kind": "retailer",
+      "access": "opened"
+    },
+    {
+      "claim": "Cover confirms original scoring and reduction; no notation",
+      "url": "https://grothmusic.com/images/product/large/ae00-23446.jpg",
+      "source_name": "General Music Publishing cover via Groth",
+      "kind": "score_cover",
+      "access": "opened"
+    },
+    {
+      "claim": "Written for and recorded by Harvey Estrin",
+      "url": "https://www.local802afm.org/allegro/articles/requiem-24/",
+      "source_name": "American Federation of Musicians Local 802",
+      "kind": "performer biography",
+      "access": "opened"
+    },
+    {
+      "claim": "1967 recording with Estrin and Stuttgart Philharmonia strings",
+      "url": "https://www.worldradiohistory.com/Archive-All-Music/Billboard/60s/1967/Billboard%201967-12-16.pdf",
+      "source_name": "Billboard contemporary report",
+      "kind": "contemporary press",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Secondary work list dates concerto 1965",
+      "url": "https://www.encyclopedia.com/arts/dictionaries-thesauruses-pictures-and-press-releases/farberman-harold",
+      "source_name": "Baker's Biographical Dictionary of Musicians",
+      "kind": "reference",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {
+    "publisher": [
+      "General Music Publishing, GEN823"
+    ],
+    "instruments": [
+      "Alto Saxophone",
+      "String Orchestra"
+    ],
+    "arranger-edition": [
+      "Recital version: alto saxophone and piano reduction"
+    ],
+    "purchase": [
+      "https://www.grothmusic.com/p-37714.aspx"
+    ]
+  },
+  "score_observations": [],
+  "notation_inspected": false,
+  "score_links": [
+    {
+      "url": "https://www.grothmusic.com/x-mc-product-picture.aspx?ProductID=37714&ErrorExisted=0",
+      "description": "Publisher cover only, visually inspected; no solo notation",
+      "inspected": false
+    }
+  ],
+  "listening": [],
+  "collection_flag": {
+    "context": "Professional orchestral concerto written for Harvey Estrin; documented historical recording."
+  },
+  "gaps": [
+    "No exact public playback verified.",
+    "Primary-source composition date, complete movement list, duration, and notation demands remain unverified.",
+    "Do not use the 1984 copyright record as composition date."
+  ],
+  "searches": [
+    "Harold Farberman Concerto saxophone",
+    "Farberman concerto saxophone GEN823",
+    "Farberman Concerto Estrin",
+    "Farberman Concerto alto saxophone General Music 1965 score",
+    "Farberman Concerto YouTube saxophone"
+  ],
+  "proposed_corrections": []
+}

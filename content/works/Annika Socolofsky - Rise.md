@@ -9,7 +9,8 @@ instruments:
 composed: 2019
 year-of-study: Fourth Year
 streaming: https://www.youtube.com/watch?v=8WmO5Xc1p94
-purchase: []
+purchase:
+  - "https://annika-socolofsky.squarespace.com/store/rise"
 added: 2024-02-21
 research:
   - Premiered as a video April 2019 by Jonathan Hulting-Cohen (alto sax) and Nicholas Shaneyfelt (piano); written for his album Timbre|ine · https://icareifyoulisten.com/?p=20665

@@ -1,0 +1,101 @@
+{
+  "run_number": 84,
+  "filename": "Kenji Sakai - In a Haze.md",
+  "path": "content/works/Kenji Sakai - In a Haze.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": {
+    "title": "In a Haze",
+    "composer": [
+      "[[Kenji Sakai]]"
+    ]
+  },
+  "findings": [
+    "In a Haze2018,for two alto saxophones,10min,commissioned Naomi Shirai; premiered21December2018,Rexxam Hall Kagawa,Naomi Shirai and Masanori Oishi.",
+    "Composer describes stereo interaction that begins in coordination and grows opposed; latter half quotes dawn arpeggios from Ravel Daphnis et Chloé.",
+    "Zen-On509549,ISMN9790223332620,ISBN9784115095496; publisher catalog15May2024publication,16score+8x2part pages. Retailer2025date should not replace this publisher date.",
+    "Publisher identifies recording OVCC-00160; label album page verifies Naomi Shirai and Masanori Oishi; no individual streaming track URL located."
+  ],
+  "evidence": [
+    {
+      "claim": "2018,two altos,10min,commission,premiere,OVCC00160 and composer form commentary",
+      "url": "https://www.zen-on.co.jp/en/publishing/cr/composers/works/detail/399/",
+      "source_name": "Zen-On",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "2024publication,edition identifiers and page counts",
+      "url": "https://www.zen-on.co.jp/en/products/search_catalog/?page=80",
+      "source_name": "Zen-On",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Actual notation legend and opening printedp6",
+      "url": "https://www.zen-on.co.jp/trial/509549/?pNo=1&detailFlg=0",
+      "source_name": "Zen-On",
+      "kind": "score",
+      "access": "score_inspected"
+    },
+    {
+      "claim": "Exact recording:In a Haze,Naomi Shirai and Masanori Oishi,OVCC00160;recorded20–21December2018RexxamHall;released25November2020",
+      "url": "https://octavia-shop.com/shopdetail/000000001548/CD02-02/page1/order/",
+      "source_name": "Octavia Records",
+      "kind": "recording",
+      "access": "opened"
+    },
+    {
+      "claim": "Composer sound page lists alternate exact In a Haze performance:Masanori Oishi and Shoki Sai,Kyoto City University of Arts",
+      "url": "http://kenjisakai.net/sound",
+      "source_name": "Kenji Sakai",
+      "kind": "composer",
+      "access": "opened"
+    }
+  ],
+  "metadata": {
+    "composed": "2018",
+    "publisher": [
+      "Zen-On"
+    ],
+    "instruments": [
+      "Alto Saxophone",
+      "Duo"
+    ],
+    "purchase": [
+      "https://www.schott-music.com/en/in-a-haze-no598726.html"
+    ],
+    "multi-instruments": false
+  },
+  "score_observations": [
+    "Inspected legend defines slap,key noise with a little breath,bisbigliando measured or fast,harmonics,non-vibrato,quarter tones and two multiphonic fingerings.",
+    "Opening printedp6,2/4 quarter60,two alto parts closely aligned. Accented very short attacks alternate with pp slurred notes and hairpins; rhythmic figures expand into triplet,quintuplet and thirty-second-note subdivisions. Bisbigliando and non-vibrato instructions appear."
+  ],
+  "notation_inspected": true,
+  "score_links": [
+    {
+      "url": "https://www.zen-on.co.jp/trial/509549/?pNo=1&detailFlg=0",
+      "description": "Publisher legend and opening; local084-p6/p7.jpg",
+      "inspected": true
+    }
+  ],
+  "listening": [
+    {
+      "url": "https://octavia-shop.com/shopdetail/000000001548/CD02-02/page1/order/",
+      "description": "Naomi Shirai and Masanori Oishi,In a Haze,on Initial S,OVCC00160,2020",
+      "verification": "Opened record-label page identifies exact work and flags Masanori Oishi as duo partner. No audio auditioned."
+    }
+  ],
+  "collection_flag": "Professional duo commission with explicit contemporary technique and close ensemble coordination.",
+  "gaps": [
+    "Only opening notation inspected.",
+    "Current Zen-On URL in purchase field is descriptive availability page; add edition sale link when opened."
+  ],
+  "searches": [
+    "Kenji Sakai In a Haze",
+    "Sakai In a Haze recording OVCC00160",
+    "Sakai In a Haze score",
+    "Sakai In a Haze Shirai"
+  ],
+  "proposed_corrections": []
+}

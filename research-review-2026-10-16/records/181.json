@@ -1,0 +1,58 @@
+{
+  "run_number": 181,
+  "filename": "Yuan-Chen Li - Spell.md",
+  "path": "content/works/Yuan-Chen Li - Spell.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": "Yuan-Chen Li: Spell, also Ling / 凌, solo alto saxophone",
+  "findings": [
+    "Composer dates Spell 2009, edited 2011, about 6:30, with separate solo saxophone, clarinet and bass-flute versions.",
+    "Composer identifies solo alto saxophone recording, written for Chun-Hao Ku, and embeds her exact studio recording."
+  ],
+  "evidence": [
+    {
+      "claim": "Composer dates Spell 2009, edited 2011, about 6:30, with separate solo saxophone, clarinet and bass-flute versions.",
+      "url": "https://yclimusic.com/work/",
+      "source_name": "Yuan-Chen Li",
+      "kind": "composer",
+      "access": "opened"
+    },
+    {
+      "claim": "Composer identifies solo alto saxophone recording, written for Chun-Hao Ku, and embeds her exact studio recording.",
+      "url": "https://yclimusic.com/music/",
+      "source_name": "Yuan-Chen Li",
+      "kind": "composer",
+      "access": "opened"
+    }
+  ],
+  "metadata": {
+    "composed": 2009,
+    "publisher": [
+      "Yuan-Chen Li"
+    ],
+    "streaming": "https://yclimusic.com/music/",
+    "purchase": [
+      "https://www.sheetmusicplus.com/en/product/spell-aka-ling-20699205.html"
+    ]
+  },
+  "score_observations": "",
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [
+    {
+      "url": "https://yclimusic.com/music/",
+      "description": "Composer-hosted Spell studio recording for alto; exact title/instrument verified, audio not auditioned.",
+      "verification": "Exact work and performer metadata verified; audio not auditioned."
+    }
+  ],
+  "collection_flag": "Original contemporary concert work with named saxophonist and professional performance history.",
+  "gaps": [
+    "Notated techniques and full range not inspected."
+  ],
+  "searches": [
+    "Yuan-Chen Li Spell saxophone",
+    "Spell Ling Yuan Chen Li score",
+    "Yuan Chen Li Spell recording"
+  ],
+  "proposed_corrections": []
+}

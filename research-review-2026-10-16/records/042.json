@@ -1,0 +1,66 @@
+{
+  "run_number": 42,
+  "filename": "Floyd O. Harris - Sax Caprice.md",
+  "path": "content/works/Floyd O. Harris - Sax Caprice.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "notation_inspected": false,
+  "score_observations": [],
+  "score_links": [],
+  "listening": [],
+  "collection_flag": "School contest repertoire documented by Illinois Grade School Music Association; pre-college audience flag.",
+  "identity": "Floyd O.Harris, Sax Caprice, saxophone and piano, LudwigMasters10450137.",
+  "findings": [
+    "Live Forsyth page confirms Lauren Keiser/LudwigMasters Woodwind Series10450137,ISBN9781633615601,UPC660355187407,saxophone and piano.",
+    "Current retailer publication dates conflict: Forsyth live1September2020 versus Presto4January2025; neither establishes composition date.",
+    "Illinois Grade School Music Association lists Sax Caprice in ClassC alto repertoire; earlier list also has tenor version.",
+    "Indexed retailer Grade2 supports educational context but was absent from live page; use institutional school context preferentially."
+  ],
+  "evidence": [
+    {
+      "claim": "Exact edition identifiers,instrumentation and current retailer date",
+      "url": "https://www.forsyths.co.uk/music/sheet-music/instruments/woodwind/saxophone-sheet-music/431114-harris-floyd-o-sax-caprice-9781633615601.html",
+      "source_name": "Forsyth",
+      "kind": "retailer",
+      "access": "opened"
+    },
+    {
+      "claim": "Alto ClassC school repertoire",
+      "url": "https://igsmasouth.org/Downloads/IGSMA/Doc/Lists/IGSMA_Solo_List_Complete_2023_v1.pdf",
+      "source_name": "Illinois Grade School Music Association",
+      "kind": "institutional",
+      "access": "opened"
+    },
+    {
+      "claim": "Different retailer publication date",
+      "url": "https://www.prestomusic.com/sheet-music/products/9758309--harris-floyd-o-sax-caprice",
+      "source_name": "Presto Music",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {
+    "publisher": [
+      "LudwigMasters/Lauren Keiser10450137;ISBN9781633615601"
+    ],
+    "instruments": [
+      "Saxophone",
+      "Piano"
+    ],
+    "purchase": [
+      "https://www.forsyths.co.uk/music/sheet-music/instruments/woodwind/saxophone-sheet-music/431114-harris-floyd-o-sax-caprice-9781633615601.html"
+    ]
+  },
+  "gaps": [
+    "Composition date,duration and actual score demands not verified.",
+    "No exact audio recording or public notation located.",
+    "Need title page to establish whether10450137includes alto only or alternatives."
+  ],
+  "searches": [
+    "Floyd O Harris Sax Caprice",
+    "Sax Caprice Harris sheet sample",
+    "Sax Caprice36-10450137",
+    "Sax Caprice Harris recording saxophone"
+  ],
+  "proposed_corrections": []
+}

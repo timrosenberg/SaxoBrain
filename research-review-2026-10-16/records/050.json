@@ -1,0 +1,75 @@
+{
+  "run_number": 50,
+  "filename": "Gabriel Pierné - Le Vol de la Mouche.md",
+  "path": "content/works/Gabriel Pierné - Le Vol de la Mouche.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": {
+    "title": "Le Vol de la mouche",
+    "composer": "Paul Pierné",
+    "catalog_attribution": "Gabriel Pierné",
+    "match": "Publisher and conservatory library identify Paul Pierné; attribution conflict."
+  },
+  "findings": [
+    "Billaudot identifies Paul Pierné as composer of this E-flat saxophone and piano work, plate CC2842.",
+    "The Royal Conservatoire Antwerp library catalog identifies it as number 1 of Trois pièces, published by Costallat and dedicated to Marcel Mule. This supports an attribution correction rather than assuming the Gabriel Pierné entry is a different work."
+  ],
+  "evidence": [
+    {
+      "claim": "Paul Pierné; E-flat saxophone and piano; Billaudot CC2842",
+      "url": "https://www.billaudot.com/le-vol-de-la-mouche-4.html",
+      "source_name": "Éditions Billaudot",
+      "kind": "publisher",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Trois pièces number 1; Costallat; dedicated to Marcel Mule",
+      "url": "https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf",
+      "source_name": "Royal Conservatoire Antwerp library",
+      "kind": "library",
+      "access": "opened",
+      "corroborated_on": "2026-10-16"
+    }
+  ],
+  "metadata": {
+    "publisher": [
+      "Billaudot (CC2842); formerly Costallat"
+    ],
+    "instruments": [
+      "Alto Saxophone",
+      "Piano"
+    ],
+    "purchase": [
+      "https://www.prestomusic.com/sheet-music/products/7760885--paul-pierne-le-vol-de-la-mouche"
+    ],
+    "library-score": [
+      "https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf"
+    ]
+  },
+  "score_observations": [],
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [],
+  "collection_flag": null,
+  "gaps": [
+    "Composition date and duration unverified.",
+    "No accessible notation preview or exact recording confirmed; publisher and retailer page retrieval failed despite indexed descriptions."
+  ],
+  "searches": [
+    "Gabriel Pierné Le Vol de la Mouche saxophone",
+    "Paul Pierné Vol mouche saxophone score",
+    "Le Vol de la mouche Paul Pierné recording"
+  ],
+  "proposed_corrections": [
+    {
+      "field": "composer",
+      "existing": "Gabriel Pierné",
+      "suggestion": "Paul Pierné",
+      "reason": "Publisher and conservatory library agree on Paul Pierné.",
+      "sources": [
+        "https://www.billaudot.com/le-vol-de-la-mouche-4.html",
+        "https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf"
+      ]
+    }
+  ]
+}

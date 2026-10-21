@@ -1,0 +1,64 @@
+{
+  "run_number": 99,
+  "filename": "Lucie Robert-Diessel - Concerto.md",
+  "path": "content/works/Lucie Robert-Diessel - Concerto.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": "Possible misidentification of Double Concerto for alto saxophone, piano and orchestra",
+  "findings": [
+    "Billaudot's Double Concerto is a 27-minute work with alto saxophone and piano as soloists, orchestra including harp and three percussionists. This conflicts with the catalog's soprano saxophone listing.",
+    "CiNii describes an Éditions françaises de musique score copyrighted 1969, 97 pages. This is a publication date, not verified composition date.",
+    "University of Iowa program notes distinguish Dialogue Symphonique from the earlier double concerto, so the generic Concerto title needs confirmation."
+  ],
+  "evidence": [
+    {
+      "claim": "Double Concerto instrumentation, duration and plate EFM2340 O",
+      "url": "https://www.billaudot.com/double-concerto-38.html",
+      "source_name": "Éditions Billaudot",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Alto saxophone and piano soloists; 1969 copyright miniature score",
+      "url": "https://ci.nii.ac.jp/ncid/BA85788275",
+      "source_name": "CiNii Books",
+      "kind": "library",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Only other concerto is Dialogue Symphonique",
+      "url": "https://cnm.uiowa.edu/concerts/2015/06/season-40-concert-4",
+      "source_name": "University of Iowa Center for New Music",
+      "kind": "institution",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {},
+  "score_observations": [],
+  "notation_inspected": false,
+  "score_links": [
+    {
+      "url": "https://www.billaudot.com/double-concerto-38.html",
+      "description": "Publisher rental score and materials entry, no notation preview found",
+      "inspected": false
+    }
+  ],
+  "listening": [],
+  "collection_flag": null,
+  "gaps": [
+    "Confirm whether this catalog record means Double Concerto or another work before changing title/instrumentation.",
+    "No exact recording or accessible notation verified."
+  ],
+  "searches": [
+    "Lucie Robert Diessel Concerto soprano saxophone",
+    "Robert Concerto soprano Lucie",
+    "Lucie Robert concerto saxophone partition"
+  ],
+  "proposed_corrections": [
+    {
+      "field": "title/instruments",
+      "suggestion": "If intended work is EFM2340 O, title Double Concerto and alto saxophone plus piano are the soloists.",
+      "source": "https://www.billaudot.com/double-concerto-38.html"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "run_number": 20,
+  "filename": "Carson Cooman - Of Songs and Swirls - Four Lyric Pieces.md",
+  "path": "content/works/Carson Cooman - Of Songs and Swirls - Four Lyric Pieces.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "notation_inspected": false,
+  "score_observations": [],
+  "score_links": [],
+  "listening": [],
+  "collection_flag": "Original four-movement lyrical duo commissioned for named performers; retailer calls intermediate, no beginner conclusion from notation.",
+  "identity": "Of Songs and Swirls: Four Lyric Pieces, op.384, Carson Cooman",
+  "findings": [
+    "Composer confirms 2002, op.384, soprano saxophone and piano, 6.5 minutes.",
+    "Movements: Harvest Song; River Music; Snow Ritual; Ocean Cascade.",
+    "Dedicated to Paul Wehage and Moyuru Maeda; commissioned by Maurice and Amy Katz.",
+    "Publisher Musik Fabrik, print catalog MFCC005; digital score and part offered as 19-page edition.",
+    "Publisher-supplied description calls these short lyrical movements exploring the singing qualities of the saxophone."
+  ],
+  "evidence": [
+    {
+      "claim": "Op.384, 2002, movements, 6.5 minutes, dedication, commission, publisher",
+      "url": "https://carsoncooman.com/music/of-songs-and-swirls-four-lyric-pieces/",
+      "source_name": "Composer",
+      "kind": "primary",
+      "access": "opened"
+    },
+    {
+      "claim": "MFCC005 print edition",
+      "url": "https://www.prestomusic.com/sheet-music/products/9457080--carson-cooman-of-songs-et-swirls-4-lyric-pieces",
+      "source_name": "Presto Music",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "19-page digital score and part, lyrical description",
+      "url": "https://www.sheetmusicplus.com/en/product/carson-cooman-of-songs-and-swirls-four-lyric-pieces-2002-for-soprano-saxophone-and-piano-20421126.html",
+      "source_name": "Musik Fabrik via Sheet Music Plus",
+      "kind": "publisher listing",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {
+    "composed": 2002,
+    "publisher": [
+      "Musik Fabrik"
+    ],
+    "instruments": [
+      "Soprano Saxophone",
+      "Piano"
+    ],
+    "arranger-edition": [
+      "MFCC005; op.384"
+    ],
+    "purchase": [
+      "https://www.sheetmusicplus.com/en/product/carson-cooman-of-songs-and-swirls-four-lyric-pieces-2002-for-soprano-saxophone-and-piano-20421126.html"
+    ]
+  },
+  "gaps": [
+    "No public score notation inspected.",
+    "No exact recording verified."
+  ],
+  "searches": [
+    "Carson Cooman Of Songs and Swirls Four Lyric Pieces",
+    "Carson Cooman Of Songs Swirls site:carsoncooman.com",
+    "\"Cooman\" \"Of Songs\" \"Musik Fabrik\""
+  ],
+  "proposed_corrections": [
+    {
+      "field": "instruments",
+      "suggestion": "Add Piano",
+      "reason": "Composer confirms accompanied work."
+    }
+  ]
+}

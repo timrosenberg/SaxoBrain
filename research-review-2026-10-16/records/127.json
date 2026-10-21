@@ -1,0 +1,67 @@
+{
+  "run_number": 127,
+  "filename": "Pedro Jakubowski - Ibeji IV.md",
+  "path": "content/works/Pedro Jakubowski - Ibeji IV.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": "Ibéji IV (1997) by Pascale Jakubowski, soprano saxophone and piano",
+  "findings": [
+    "Composer's official catalog identifies Ibéji IV (1997), soprano saxophone and piano, premiered February 1998 at University of Alberta by Jean-Michel Goury and Yves Josset.",
+    "Éditions Aedam Musicae's composer biography identifies a recording on Jean-Michel Goury / North-American Tours 1998-1999.",
+    "Cid-femmes' 2000 newsletter lists the score in its library and historically identifies Art & Recherches as distributor.",
+    "Retailer result mislabels an alto/accordion work Ibéji IV; composer identifies Ibéji V for that instrumentation. Do not substitute it."
+  ],
+  "evidence": [
+    {
+      "claim": "Composer identity, date, instrumentation and premiere",
+      "url": "https://www.pascalejakubowski.com/catalogue/",
+      "source_name": "Pascale Jakubowski official website",
+      "kind": "composer",
+      "access": "opened"
+    },
+    {
+      "claim": "Exact recorded work reference",
+      "url": "https://www.musicae.fr/Pascale-Jakubowski.html",
+      "source_name": "Éditions Aedam Musicae",
+      "kind": "publisher composer biography",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Historical library holding and distribution",
+      "url": "https://cid-fg.lu/wp-content/uploads/2022/07/2000_1.pdf",
+      "source_name": "Cid-femmes newsletter 1/2000",
+      "kind": "institution",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {},
+  "score_observations": [],
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [
+    {
+      "url": "https://www.musicae.fr/Pascale-Jakubowski.html",
+      "description": "Discography names Ibéji IV on Jean-Michel Goury / North-American Tours 1998-1999",
+      "verification": "Publisher composer biography confirms exact work/performer release; no streaming URL verified."
+    }
+  ],
+  "collection_flag": "University premiere and professional saxophonist recording support college/professional relevance.",
+  "gaps": [
+    "Catalog Pedro Jakubowski attribution needs correction to Pascale before metadata application.",
+    "Duration, actual notation, modern purchase route and recording URL unverified."
+  ],
+  "searches": [
+    "Pedro Jakubowski Ibeji IV",
+    "Ibeji IV saxophone",
+    "Ibéji IV partition Jakubowski",
+    "Ibéji IV Goury",
+    "Ibéji IV Goury recording saxophone"
+  ],
+  "proposed_corrections": [
+    {
+      "field": "composer/instruments/composed",
+      "suggestion": "Pascale Jakubowski, soprano saxophone and piano, 1997.",
+      "source": "https://www.pascalejakubowski.com/catalogue/"
+    }
+  ]
+}

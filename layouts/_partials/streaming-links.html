@@ -1,0 +1,12 @@
+{{- /* Work recordings accept one URL or a list of URLs. Optional "Label · URL"
+       entries use the same format as labeled score links in Obsidian. */ -}}
+{{- $links := slice -}}
+{{- with .Params.streaming -}}
+  {{- range cond (reflect.IsSlice .) . (slice .) -}}
+    {{- with . -}}
+      {{- $link := partial "purchase-link.html" . -}}
+      {{- if $link.url }}{{ $links = $links | append $link }}{{ end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $links -}}

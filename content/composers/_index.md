@@ -1,6 +1,8 @@
 ---
 title: "Composers"
 aliases:
+  - /composers/john-cooper/
+  - /composers/willem-breuker/
   - /composers/j-b-faulx/
   - /composers/j-b-faulx-2/
   - /composers/joseph-descamps/

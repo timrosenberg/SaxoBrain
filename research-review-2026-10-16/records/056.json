@@ -1,0 +1,82 @@
+{
+  "run_number": 56,
+  "filename": "Georges Sporck - Meditation.md",
+  "path": "content/works/Georges Sporck - Meditation.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": {
+    "title": "Meditation",
+    "composer": [
+      "[[Georges Sporck]]"
+    ]
+  },
+  "findings": [
+    "Billaudot identifies Méditation, op. 37, in B-flat saxophone/clarinet with piano, AF0021-A, and separately E-flat saxophone with piano, AF0021-C.",
+    "The UMP saxophone catalog explicitly offers soprano, alto, or tenor saxophone with piano.",
+    "Conservatorio di Udine's annual saxophone-family course includes Méditation op. 37 under soprano saxophone and piano. This is direct conservatory repertoire context.",
+    "So French by Alexandre Doisy contains Sporck's Légende and Massenet's Méditation de Thaïs; it is not an exact recording of Sporck's Méditation."
+  ],
+  "evidence": [
+    {
+      "claim": "Op.37 B-flat saxophone or clarinet and piano, AF0021-A",
+      "url": "https://www.billaudot.com/meditation-op-37-1.html",
+      "source_name": "Éditions Billaudot",
+      "kind": "publisher",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "E-flat saxophone and piano edition AF0021-C",
+      "url": "https://www.billaudot.com/meditation-op-37-2.html",
+      "source_name": "Éditions Billaudot",
+      "kind": "publisher",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Soprano/alto/tenor with piano",
+      "url": "https://johanvanderlinden.com/saxophone_catalogue_2010.pdf",
+      "source_name": "United Music Publishers 2010 saxophone catalog",
+      "kind": "publisher",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Conservatory soprano saxophone and piano course repertoire",
+      "url": "https://www.conservatorio.udine.it/attachments/article/4473/programma_studio_saxofono_strumenti_affini.pdf",
+      "source_name": "Conservatorio di Udine",
+      "kind": "institution",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {
+    "publisher": [
+      "Billaudot, AF0021-A (B-flat); AF0021-C (E-flat)"
+    ],
+    "instruments": [
+      "Soprano Saxophone",
+      "Piano"
+    ],
+    "purchase": [
+      "https://www.billaudot.com/meditation-op-37-1.html"
+    ],
+    "arranger-edition": [
+      "Méditation, op. 37; B-flat edition also for clarinet; E-flat edition also available"
+    ]
+  },
+  "score_observations": [],
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [],
+  "collection_flag": {
+    "context": "Documented conservatory soprano repertoire."
+  },
+  "gaps": [
+    "Original composition date, duration, arranger credit, and exact recording unresolved.",
+    "No actual score preview inspected."
+  ],
+  "searches": [
+    "Georges Sporck Meditation saxophone",
+    "Sporck Méditation saxophone Billaudot AF0021",
+    "Sporck Méditation saxophone soprano",
+    "Sporck Meditation recording saxophone"
+  ],
+  "proposed_corrections": []
+}

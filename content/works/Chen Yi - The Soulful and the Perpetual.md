@@ -9,7 +9,8 @@ instruments:
 composed: 
 year-of-study: "Fourth Year"
 streaming: "https://www.youtube.com/watch?v=WnxM1qXMxGE"
-purchase: []
+purchase:
+  - "https://www.sheetmusicplus.com/en/product/the-soulful-and-the-perpetual-19855113.html"
 added: 2024-02-21
 aliases: []
 ---

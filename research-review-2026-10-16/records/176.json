@@ -1,0 +1,58 @@
+{
+  "run_number": 176,
+  "filename": "Willy van Dorsselaer - Musicolor.md",
+  "path": "content/works/Willy van Dorsselaer - Musicolor.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": "Willy van Dorsselaer: Musicolor, Op.87, alto saxophone and piano",
+  "findings": [
+    "Primary publisher confirms alto/piano, Billaudot MRB1308.",
+    "Philharmonie teaching guide printed page 12 identifies 1970, about 1:30, G-major melody, 2/4 quarter = 88, occasional C-sharp/E-flat, range low F to high A."
+  ],
+  "evidence": [
+    {
+      "claim": "Primary publisher confirms alto/piano, Billaudot MRB1308.",
+      "url": "https://www.billaudot.com/mrb1308-6.html",
+      "source_name": "Éditions Billaudot",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Philharmonie teaching guide printed page 12 identifies 1970, about 1:30, G-major melody, 2/4 quarter = 88, occasional C-sharp/E-flat, range low F to high A.",
+      "url": "https://mediatheque.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+      "source_name": "Philharmonie de Paris teaching guide",
+      "kind": "institution",
+      "access": "opened"
+    },
+    {
+      "claim": "Official December 1970 CMF contest list places Musicolor in Préparatoire A for alto saxophone.",
+      "url": "https://www.cmf-archives.org/files/original/893ade2691b1256d1e06d54ec70bfa1beae2d457.pdf",
+      "source_name": "Confédération Musicale de France archive",
+      "kind": "institution",
+      "access": "opened"
+    }
+  ],
+  "metadata": {
+    "publisher": [
+      "Éditions Billaudot"
+    ],
+    "purchase": [
+      "https://www.billaudot.com/mrb1308-6.html"
+    ]
+  },
+  "score_observations": "",
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [],
+  "collection_flag": "Strong pre-college flag: documented preparatory teaching/contest repertoire, not a college curriculum designation.",
+  "gaps": [
+    "1970 is the edition/guide date; composition date not independently corroborated.",
+    "No authorized notation preview or exact recording inspected."
+  ],
+  "searches": [
+    "Willy van Dorsselaer Musicolor",
+    "Dorsselaer Musicolor Op87 score",
+    "Musicolor CMF preparatoire"
+  ],
+  "proposed_corrections": []
+}

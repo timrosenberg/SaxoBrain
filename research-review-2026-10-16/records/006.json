@@ -1,0 +1,77 @@
+{
+  "run_number": 6,
+  "filename": "Andriy Talpash - Zut!.md",
+  "path": "content/works/Andriy Talpash - Zut!.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "notation_inspected": true,
+  "score_observations": [
+    "Composer-authorized excerpt reproduced in ECM+ retrospective printedp119 was visually inspected. SectionA is marked Aggressively, quarter note144.",
+    "Excerpt has rapid dynamic shifts from very soft to ff/fff/ffff, accents, trills, upper-register passages with8va, dense accidentals and a5:4figure. Some saxophone sonorities are written with stacked noteheads, requiring consultation of full performance instructions.",
+    "The piano part contains dense chords and rapid runs. Only the short opening excerpt was inspected; complete range and duration requirements are not inferred."
+  ],
+  "score_links": [
+    {
+      "url": "https://ecm.qc.ca/images/LivreGeneration20ans_integral-PageParPage1.pdf",
+      "description": "Composer score excerpt in ECM+ retrospective printedp119; local corrob-006-score-detail.png.",
+      "inspected": true
+    }
+  ],
+  "listening": [
+    {
+      "url": "https://adolphesax.com/videos/wscxvi-william-street-zut-by-andriy-talpash/",
+      "description": "William Street, World Saxophone Congress XVI",
+      "verification": "Exact composer/title/performer in archive index; page access blocked, embedded video not independently opened."
+    }
+  ],
+  "collection_flag": "Professional guest recital premiere at a college documented.",
+  "identity": "Zut! (2009), Andriy Talpash",
+  "findings": [
+    "Gustavus Adolphus College documents a 14 September 2009 premiere by William Street and Roger Admiral on a guest artist recital.",
+    "ECM+ retrospective lists alto saxophone and piano, 2009, seven minutes.",
+    "World Saxophone Congress XVI video listing identifies William Street playing Zut! by Talpash.",
+    "Existing AMP publisher field retained as catalog evidence, but independent publisher expansion not established."
+  ],
+  "evidence": [
+    {
+      "claim": "2009 premiere, Street and Admiral",
+      "url": "https://finearts.blog.gustavus.edu/2009/09/14/jean-marie-londiex-opens-music-season-at-gustavus/",
+      "source_name": "Gustavus Adolphus College",
+      "kind": "institutional",
+      "access": "opened"
+    },
+    {
+      "claim": "Alto saxophone, piano, 2009, 7 minutes",
+      "url": "https://ecm.qc.ca/images/LivreGeneration20ans_integral-PageParPage1.pdf",
+      "source_name": "ECM+ 20-year retrospective",
+      "kind": "institutional",
+      "access": "score_inspected"
+    },
+    {
+      "claim": "Exact work/performance listing",
+      "url": "https://adolphesax.com/videos/wscxvi-william-street-zut-by-andriy-talpash/",
+      "source_name": "Adolphesax congress archive",
+      "kind": "performance archive",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {
+    "composed": 2009,
+    "instruments": [
+      "Alto Saxophone",
+      "Piano"
+    ]
+  },
+  "gaps": [
+    "AMP publisher expansion and purchase link unverified.",
+    "Composer works page fetched but did not yield accessible work details.",
+    "Full score and performance instructions not obtained; WSC video page currently blocks access."
+  ],
+  "searches": [
+    "Andriy Talpash Zut",
+    "\"Talpash\" \"Zut\"",
+    "Talpash Zut saxophone score AMP",
+    "\"Talpash\" \"Zut!\" score buy"
+  ],
+  "proposed_corrections": []
+}

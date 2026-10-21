@@ -1,0 +1,39 @@
+{
+  "checked_date": "2026-10-20",
+  "hugo": {
+    "command": "hugo --minify --destination /private/tmp/saxobrain-snyder-sources-20261020-01a15b72",
+    "exit_code": 0,
+    "pages": 2076,
+    "static_files": 517,
+    "aliases": 494
+  },
+  "address_check": {
+    "exit_code": 0,
+    "addresses": 2567,
+    "none_lost": true,
+    "baseline": "file:///private/tmp/saxobrain-rental-routes-20261020-01a15b72/addresses.txt"
+  },
+  "targeted_git_diff_check": {
+    "exit_code": 0,
+    "file": "content/works/Randall Snyder - Seven Epigrams.md"
+  },
+  "changed_work_files_since_snapshot": [
+    "content/works/Randall Snyder - Seven Epigrams.md"
+  ],
+  "new_purchase_links_rendered": 2,
+  "rendered_labels": [
+    "Buy the score (Universal Edition)",
+    "Buy the alto saxophone part (Universal Edition)"
+  ],
+  "separate_part_note_rendered": true,
+  "local_download_link_preserved": true,
+  "local_pdf_sha256": {
+    "static/media/works/randall-snyder-chance-designs/Snyder_-_Chance_Designs_for_tenor_saxophone_trombone_vibraphone.pdf": "bfcd6cea0d166ee039ddee980d425e32142afe866835916857f76c1604738fbf",
+    "static/media/works/randall-snyder-improvisations/fulltext_stamped-2.pdf": "77ee58e1adb57f17b3ea538a3f94e7f8936340b3216f323090b1112b2195e488",
+    "static/media/works/randall-snyder-juggernaut/fulltext.pdf": "bb2457d7b499f489064c2ccbbf6714db92eaf4d2958877c6342124a75b7eacb9",
+    "static/media/works/randall-snyder-seven-epigrams/fulltext_stamped.pdf": "c275628cbc5157f00152aadd05ea1bea9cf2f24e54b4e59fffbf869072cc864b"
+  },
+  "local_pdf_checks": "All four hashes unchanged and all four assets present in fresh build",
+  "all_other_work_files_unchanged_since_snapshot": true,
+  "research_json_valid": true
+}

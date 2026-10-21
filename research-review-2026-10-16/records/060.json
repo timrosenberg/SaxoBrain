@@ -1,0 +1,67 @@
+{
+  "run_number": 60,
+  "filename": "Harry Gee - Essay for Saxophone.md",
+  "path": "content/works/Harry Gee - Essay for Saxophone.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": {
+    "title": "Essay for Saxophone",
+    "composer": [
+      "[[Harry Gee]]"
+    ]
+  },
+  "findings": [
+    "Dorn Publications' April 2025 catalog identifies Gee, Essay for Saxophone, catalog 1223 in its saxophone-and-piano section.",
+    "Po-Yuan Ku's 2009 University of Alberta doctoral bibliography lists Harry Gee's Essay for Saxophone and Piano, instrumentation alto saxophone/piano, publisher abbreviation DP. The table was visually inspected to avoid misreading the adjacent dates; no composition year is given for Essay.",
+    "The bibliography row corroborates identity after broad searches returned little direct retail information."
+  ],
+  "evidence": [
+    {
+      "claim": "Dorn catalog 1223, Gee Essay for Saxophone",
+      "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+      "source_name": "Dorn Publications music catalog, April 2025, page 5",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Harry Gee Essay for Saxophone and Piano; alto saxophone/piano; DP; no date in that row",
+      "url": "https://www.collectionscanada.gc.ca/obj/thesescanada/vol2/002/NR55841.PDF",
+      "source_name": "Po-Yuan Ku, University of Alberta doctoral thesis, 2009, printed page 103",
+      "kind": "academic bibliography",
+      "access": "opened"
+    }
+  ],
+  "metadata": {
+    "publisher": [
+      "Dorn Publications, 1223"
+    ],
+    "instruments": [
+      "Alto Saxophone",
+      "Piano"
+    ],
+    "purchase": [
+      "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf"
+    ]
+  },
+  "score_observations": [],
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [],
+  "collection_flag": null,
+  "gaps": [
+    "Composition/publication date, duration, movement structure, dedication, performance context and exact recording remain unresolved.",
+    "No actual score notation found; inspected images were catalog/bibliography pages only.",
+    "Purchase link is publisher ordering catalog, not a verified individual checkout page."
+  ],
+  "searches": [
+    "Harry Gee Essay for Saxophone",
+    "Harry Gee Essay",
+    "Essay for Saxophone",
+    "Harry R. Gee Essay saxophone",
+    "Gee Essay saxophone piano music",
+    "Essay Gee saxophone Southern Music",
+    "Gee Essay Dorn",
+    "Gee Essay for Saxophone recording"
+  ],
+  "proposed_corrections": []
+}

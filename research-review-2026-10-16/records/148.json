@@ -1,0 +1,49 @@
+{
+  "run_number": 148,
+  "filename": "Scott Joplin - Magnetic Rag.md",
+  "path": "content/works/Scott Joplin - Magnetic Rag.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": "Scott Joplin: Magnetic Rag, tenor saxophone and piano, John Glenesk Mortimer arrangement, EMR35180",
+  "findings": [
+    "The score cover identifies tenor saxophone and piano, arranger John Glenesk Mortimer and Editions Marc Reift EMR35180."
+  ],
+  "evidence": [
+    {
+      "claim": "The score cover identifies tenor saxophone and piano, arranger John Glenesk Mortimer and Editions Marc Reift EMR35180.",
+      "url": "https://www.stantons.com/scores/E/M/R/3/5/1/8/0/editio-emr35180.pdf",
+      "source_name": "Editions Marc Reift publisher preview",
+      "kind": "score",
+      "access": "score_inspected"
+    }
+  ],
+  "metadata": {
+    "publisher": [
+      "Editions Marc Reift"
+    ],
+    "purchase": [
+      "https://www.stantons.com/sheet-music/title/magnetic-rag/EMR35180/"
+    ]
+  },
+  "score_observations": "Preview printed page 1, measures 1–21: common time, Allegro moderato; tenor line in C with frequent chromatic inflections, syncopated eighth-note gestures, sustained notes and rests alternating with piano passages. Sample is conventional notation. The preview does not establish the entire work's highest pitch or sustained difficulty.",
+  "notation_inspected": true,
+  "score_links": [
+    {
+      "url": "https://www.stantons.com/scores/E/M/R/3/5/1/8/0/editio-emr35180.pdf",
+      "description": "Four-page publisher preview for the exact tenor/piano edition; opening notation inspected.",
+      "inspected": true
+    }
+  ],
+  "listening": [],
+  "collection_flag": "Transcription of a piano rag. The sampled music is rhythmic ragtime, rather than a generic lyrical melody arrangement. Intended student age unverified.",
+  "gaps": [
+    "The database does not name an arranger. Relationship of its older Sheet Music Plus link to this edition remains unverified.",
+    "Existing streaming link has not been verified against this arrangement."
+  ],
+  "searches": [
+    "Scott Joplin Magnetic Rag tenor saxophone piano",
+    "Magnetic Rag EMR35180 Mortimer",
+    "Scott Joplin Magnetic Rag tenor recording"
+  ],
+  "proposed_corrections": []
+}

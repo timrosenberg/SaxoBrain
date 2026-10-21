@@ -1,0 +1,46 @@
+{
+  "run_number": 180,
+  "filename": "Yasuhide Ito - Le Saxophone Lyrique.md",
+  "path": "content/works/Yasuhide Ito - Le Saxophone Lyrique.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": "Le Saxophone lyrique appears to be Fumie Ito's two-volume transcription collection, not an original Yasuhide Ito work",
+  "findings": [
+    "Strong proposed identity correction: the title matches a Fumie Ito transcription collection in two volumes, rather than a verified original composition by Yasuhide Ito. Primary publisher catalog and retailer edition contents agree on the collection identity."
+  ],
+  "evidence": [
+    {
+      "claim": "Primary publisher catalog lists Le Saxophone lyrique volumes 1 and 2, saxophone/piano, Ito, Lemoine 26892 and 26893, among collections.",
+      "url": "https://www.henry-lemoine.com/assets/pdf/CATASAX.pdf",
+      "source_name": "Henry Lemoine catalog",
+      "kind": "publisher",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Exact first-volume retailer identifies Fumie Ito, alto/piano, Lemoine, with Campra Chanson du papillon, Gluck Air d'Orphée, Grieg Solveig's Song and Purcell When I Am Laid in Earth.",
+      "url": "https://www.forsyths.co.uk/sheet-music/instruments/woodwind/saxophone-sheet-music/336513-ito-fumie-saxophone-lyrique-vol1-9790230968928.html",
+      "source_name": "Forsyth Music Shop",
+      "kind": "retailer",
+      "access": "opened"
+    }
+  ],
+  "metadata": {},
+  "score_observations": "",
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [],
+  "collection_flag": "Lyrical vocal transcription collection. This closely matches the collection-type material Tim asked to flag; player age remains unverified.",
+  "gaps": [
+    "Current record does not identify volume.",
+    "No notation inspected; primary catalog retrieval was HTTP 403, so evidence is search-index-only."
+  ],
+  "searches": [
+    "Yasuhide Ito Le Saxophone Lyrique",
+    "Ito saxophone lyrique",
+    "site:henry-lemoine.com Saxophone lyrique",
+    "saxophone lyrique Fumie"
+  ],
+  "proposed_corrections": [
+    "Investigate moving attribution from Yasuhide Ito to arranger Fumie Ito and identifying volume 1 or 2. This is a collection of works by other composers. Do not auto-change composer or split records."
+  ]
+}

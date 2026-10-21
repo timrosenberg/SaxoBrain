@@ -1,0 +1,47 @@
+{
+  "run_number": 134,
+  "filename": "Randall Snyder - Second Sonata.md",
+  "path": "content/works/Randall Snyder - Second Sonata.md",
+  "checked_on": "2026-10-16",
+  "status": "no_reliable_match",
+  "identity": "Unresolved edition: Randall Snyder, Second Sonata",
+  "findings": [
+    "Existing catalog supplies a University of Nebraska score URL, but the PDF returned a 403 challenge. No notation or title page was inspected.",
+    "Searches for Second Sonata and Sonata No.2 with tenor saxophone did not establish an exact match. The verified Retrospective Sonata (2009) is not assumed to be the same work.",
+    "University composer collection contains several generic Sonata records for other instruments; those do not resolve this title."
+  ],
+  "evidence": [
+    {
+      "claim": "Existing catalog lead, retrieval blocked; contents not verified",
+      "url": "https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1310&context=musicsnyder",
+      "source_name": "Existing SaxoBrain link to University of Nebraska",
+      "kind": "existing metadata lead",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Composer institutional collection checked without resolving exact title",
+      "url": "https://digitalcommons.unl.edu/musicsnyder/",
+      "source_name": "University of Nebraska-Lincoln Digital Commons",
+      "kind": "composer archive",
+      "access": "opened"
+    }
+  ],
+  "metadata": {},
+  "score_observations": [],
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [],
+  "collection_flag": null,
+  "gaps": [
+    "Exact identity, composition date, duration, tenor/piano scoring, publisher and movements remain unverified.",
+    "Existing University PDF needs manual title-page verification; no recording verified."
+  ],
+  "searches": [
+    "Randall Snyder Second Sonata",
+    "Randall Snyder Second Sonata tenor saxophone",
+    "Snyder Sonata No.2 saxophone",
+    "Second Sonata site:digitalcommons.unl.edu/musicsnyder",
+    "Snyder second sonata tenor piano score"
+  ],
+  "proposed_corrections": []
+}

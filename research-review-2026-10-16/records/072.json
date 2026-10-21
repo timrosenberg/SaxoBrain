@@ -1,0 +1,80 @@
+{
+  "run_number": 72,
+  "filename": "Jean-Luc Falchamps - Décalcomanie de Reich et Ligeti.md",
+  "path": "content/works/Jean-Luc Falchamps - Décalcomanie de Reich et Ligeti.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": {
+    "title": "Décalcomanie de Reich et Ligeti",
+    "composer": [
+      "[[Jean-Luc Falchamps]]"
+    ]
+  },
+  "findings": [
+    "Composer is Jean-Luc Fafchamps. The catalog spelling Falchamps is unsupported by composer and institutional sources.",
+    "Décalcomanie de Reich et Ligeti (avec Piazzola en surimpression),2005, for alto saxophone and piano, seven minutes. Commissioned by Société Internationale Adolphe Sax for the2006 Dinant competition semifinal; dedicated Philippe Leblanc.",
+    "Composer note describes repetition subjected to rhythmic, harmonic, melodic and timbral changes, a cadenza exploring extreme registers and special sounds, then a tango-associated final section. These are composer descriptions, not inspected notation.",
+    "PM Europe edition FAF007, ISMN9790803751063, is indexed by specialist retailer; school library lists Tienen2006 publication."
+  ],
+  "evidence": [
+    {
+      "claim": "2005,alto/piano,7min,2006 Dinant semifinal commission,dedication Philippe Leblanc",
+      "url": "https://jeanlucfafchamps.eu/catalogue-musique-de-chambre/",
+      "source_name": "Jean-Luc Fafchamps",
+      "kind": "composer",
+      "access": "opened"
+    },
+    {
+      "claim": "Composer program note and premiere7November2006",
+      "url": "https://creationmusicale.be/fr/catalogue/fafchamps/decalcomanie-de-reich-et-ligeti-avec-piazzola-en-surimpression",
+      "source_name": "Création Musicale",
+      "kind": "institution",
+      "access": "opened"
+    },
+    {
+      "claim": "PM Europe FAF007,9790803751063",
+      "url": "https://www.demond.de/jean-luc-fafchamps-decalcomanie-de-reich-et-ligeti-pour-saxophone-alto-et-piano-52646",
+      "source_name": "Musikhaus Demond",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {
+    "composed": "2005",
+    "instruments": [
+      "Alto Saxophone",
+      "Piano"
+    ],
+    "purchase": [
+      "https://www.demond.de/jean-luc-fafchamps-decalcomanie-de-reich-et-ligeti-pour-saxophone-alto-et-piano-52646"
+    ]
+  },
+  "score_observations": [],
+  "notation_inspected": false,
+  "score_links": [
+    {
+      "url": "https://jeanlucfafchamps.eu/wp-content/uploads/2018/12/notice-fr-decalcomanie_de_reich_et_ligeti-avec_piazzolla_en_surimpression.pdf",
+      "description": "Composer program note, not score",
+      "inspected": false
+    }
+  ],
+  "listening": [],
+  "collection_flag": "College/professional context: international competition semifinal commission.",
+  "gaps": [
+    "No public notation preview found.",
+    "No exact accessible recording verified.",
+    "Publisher plate and publication year remain indexed evidence."
+  ],
+  "searches": [
+    "Jean Luc Falchamps Décalcomanie de Reich et Ligeti",
+    "Fafchamps Décalcomanie saxophone score",
+    "Fafchamps Decalcomanie recording saxophone",
+    "Fafchamps Decalcomanie youtube"
+  ],
+  "proposed_corrections": [
+    {
+      "proposal": "Correct composer spelling Falchamps to Fafchamps; specify alto saxophone rather than Any Saxophone.",
+      "url": "https://jeanlucfafchamps.eu/catalogue-musique-de-chambre/"
+    }
+  ]
+}

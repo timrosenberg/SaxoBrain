@@ -1,0 +1,77 @@
+{
+  "run_number": 66,
+  "filename": "Jacqueline Fontyn - Dialogues.md",
+  "path": "content/works/Jacqueline Fontyn - Dialogues.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": {
+    "title": "Dialogues",
+    "composer": [
+      "[[Jacqueline Fontyn]]"
+    ]
+  },
+  "findings": [
+    "Antwerp conservatory library identifies Dialogues (1969), alto saxophone/piano, dedicated to François Daneels, approximately 13 minutes; Choudens edition 1971.",
+    "Philharmonie de Paris guide identifies Choudens AC20478 and Introduction followed by Grazioso, Maestoso, Prestissimo, Cantabile and Sereno. Five numbered movements follow the introduction.",
+    "Current 2025–26 Córdoba conservatory curriculum includes Dialogues."
+  ],
+  "evidence": [
+    {
+      "claim": "1969, Daneels dedication, 13 minutes, Choudens 1971",
+      "url": "https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf",
+      "source_name": "Royal Conservatoire Antwerp library",
+      "kind": "library",
+      "access": "opened",
+      "corroborated_on": "2026-10-16"
+    },
+    {
+      "claim": "AC20478, movement list",
+      "url": "https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+      "source_name": "Philharmonie de Paris repertoire guide",
+      "kind": "institution",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Conservatory curriculum inclusion",
+      "url": "https://csmcordoba.com/wp-content/uploads/2025/10/GD-Saxofon-25-26.pdf",
+      "source_name": "Conservatorio Superior Rafael Orozco",
+      "kind": "institution",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {
+    "composed": 1969,
+    "publisher": [
+      "Choudens, AC20478"
+    ],
+    "instruments": [
+      "Alto Saxophone",
+      "Piano"
+    ],
+    "arranger-edition": [
+      "Choudens 1971 edition"
+    ],
+    "library-score": [
+      "https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf"
+    ]
+  },
+  "score_observations": [],
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [],
+  "collection_flag": {
+    "context": "13-minute concert work in current conservatory curriculum."
+  },
+  "gaps": [
+    "No notation preview or exact recording located.",
+    "Current individual score purchase availability unverified."
+  ],
+  "searches": [
+    "Jacqueline Fontyn Dialogues saxophone",
+    "Fontyn Dialogues saxophone Choudens",
+    "Jacqueline Fontyn Dialogues recording saxophone Daneels",
+    "Fontyn Dialogues AC20478",
+    "Jacqueline Fontyn Dialogues score purchase"
+  ],
+  "proposed_corrections": []
+}

@@ -9,7 +9,8 @@ instruments:
 composed: 
 year-of-study: "Advanced"
 streaming: 
-purchase: []
+purchase:
+  - "Volume 7 collection (soprano) · https://resolute-music.com/products/volume-7-etudes"
 added: 2024-02-23
 aliases: []
 ---

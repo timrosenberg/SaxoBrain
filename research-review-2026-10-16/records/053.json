@@ -1,0 +1,83 @@
+{
+  "run_number": 53,
+  "filename": "Georg Philipp Telemann - Concerto in F.md",
+  "path": "content/works/Georg Philipp Telemann - Concerto in F.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": {
+    "title": "Concerto in F",
+    "composer": [
+      "[[Georg Philipp Telemann]]"
+    ]
+  },
+  "findings": [
+    "A saxophone-specific institutional repertoire list identifies the Molenaar edition as Ber Joosen's arrangement for soprano saxophone.",
+    "The Philharmonie de Paris digitized 10 ans avec le saxophone identifies Molenaar 06051060, 6 minutes 50 seconds, and movements Allegro, Siciliano, Vivace (3/8). It describes the edition as oboe, clarinet, or soprano saxophone with piano, dated 1965. This is edition evidence, not Telemann's composition date.",
+    "Windmusic library's matching entry calls the work Concerto en Fa mineur in its translated title. Exact original-work TWV identity and major/minor labeling require the edition before linking general Telemann concerto recordings."
+  ],
+  "evidence": [
+    {
+      "claim": "Ber Joosen, Molenaar, soprano saxophone arrangement",
+      "url": "https://www.knmo.nl/wp-content/uploads/2014/05/05-Repertorium-Houtblazers-Solisten-Ensembles-2010.pdf",
+      "source_name": "KNMO institutional repertoire list",
+      "kind": "institution",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "06051060; 6:50; three movements; piano; 1965 edition",
+      "url": "https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+      "source_name": "Philharmonie de Paris digitized saxophone guide",
+      "kind": "institution",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Molenaar 1965, Ber Joosen; 16+3+3 pages; translated title F minor",
+      "url": "https://windmusic.org/index.php?lvl=notice_display&id=7846",
+      "source_name": "Windmusic library catalog",
+      "kind": "library",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {
+    "instruments": [
+      "Soprano Saxophone",
+      "Piano"
+    ],
+    "arranger-edition": [
+      "Ber Joosen; Molenaar 06051060 (1965); oboe, clarinet, or soprano saxophone and piano"
+    ],
+    "publisher": [
+      "Molenaar"
+    ],
+    "library-score": [
+      "https://windmusic.org/index.php?lvl=notice_display&id=7846"
+    ]
+  },
+  "score_observations": [],
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [],
+  "collection_flag": {
+    "context": "Substantial three-movement Baroque transcription; saxophone repertoire guide and institutional list support its established use."
+  },
+  "gaps": [
+    "Original TWV number and major/minor key unresolved; do not conflate with the recorder concerto TWV 51:F1.",
+    "No exact Joosen score preview or verified saxophone recording found."
+  ],
+  "searches": [
+    "Georg Philipp Telemann Concerto in F saxophone",
+    "Telemann Concerto in F saxophone piano Londeix",
+    "Telemann Concerto in F Molenaar saxophone",
+    "Telemann Concerto in F Joosen"
+  ],
+  "proposed_corrections": [
+    {
+      "field": "instruments",
+      "suggestion": [
+        "Soprano Saxophone",
+        "Piano"
+      ],
+      "reason": "Matching Joosen edition explicitly includes piano; catalog currently lists only soprano saxophone."
+    }
+  ]
+}

@@ -20,6 +20,10 @@ build:
 > [!info] Your Decision
 > Record your choice in `review-decision`, or give it to Codex in chat using this work’s number. The catalog changes only when you ask Codex to apply the decision or edit the catalog entry yourself.
 
+## Recording Follow-Up, October 20, 2026
+
+Tim supplied the [University of Arkansas recording](https://scholarworks.uark.edu/musccr/2114/) and its **33:20** start time for Phantastes. The public work page now links to the full recital and states the start time. The archive identifies Stan Morris, saxophone, and Henry Runkles, piano, recorded October 1, 1998. Its Download button retrieves a three-page recital-program PDF, which was inspected and confirms the title Phantastes (1991). An embedded recording is present on the archive page; audio was not auditioned. Fourth Year remains unchanged.
+
 ## Research
 
 Catalog: [[James Greeson - Phantastes]]

@@ -62,3 +62,7 @@ Tenuto edition 494-01951 is for soprano saxophone and piano. Groth lists 12 page
 Tim retained the work with difficulty unknown. The catalog level remains unassigned.
 
 **Tim’s decision:** Hold. Recorded 2026-10-15.
+
+### Research checked October 16, 2026
+
+Updated sources, notation observations and unresolved questions are in [[William Presser - Sonatina|the catalog work’s private research notes]]. See [[Remaining Repertoire Research - 2026-10-16|the complete research overview]]. Your existing review decision is unchanged.

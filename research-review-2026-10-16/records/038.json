@@ -1,0 +1,68 @@
+{
+  "run_number": 38,
+  "filename": "Erich Wolfgang Korngold - Much Ado About Nothing.md",
+  "path": "content/works/Erich Wolfgang Korngold - Much Ado About Nothing.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "notation_inspected": false,
+  "score_observations": [],
+  "score_links": [],
+  "listening": [],
+  "collection_flag": "Substantial suite transcription with diploma context in clarinet; no evidence supports classifying it as a simple lyrical excerpt.",
+  "identity": "Korngold Much Ado About Nothing,op.11: saxophone edition found for alto or clarinet and piano; current soprano attribution remains unverified.",
+  "findings": [
+    "Alfred lists Much Ado,Op.11 for Alto Sax or Clarinet and Piano,Master Woodwind Series,LudwigMasters,Keiser Productions,36-M277491,UPC660355169175.",
+    "Publisher page offers no sample pages or audio; arranger and specific contents are not identified.",
+    "London College of Music woodwind diploma repertoire includes complete Much Ado About Nothing from Masters Music in clarinet context; substantial recital transcription context exists,but exact catalogued soprano version is not established.",
+    "Original incidental music dates1917–1918 in Schott's catalog; that date does not date an unidentified saxophone arrangement."
+  ],
+  "evidence": [
+    {
+      "claim": "Alto or clarinet and piano edition,identifier,publisher,no samples",
+      "url": "https://www.alfred.com/products/much-ado-op-11-for-alto-sax-or-clarinet-and-piano-36-m277491?variant=44600780980360",
+      "source_name": "Alfred Music",
+      "kind": "primary",
+      "access": "opened"
+    },
+    {
+      "claim": "Diploma repertoire uses complete Masters Music version",
+      "url": "https://lcme.uwl.ac.uk/media/rzjfqioh/woodwind-diplomas-repertoire-list.pdf",
+      "source_name": "London College of Music",
+      "kind": "institutional",
+      "access": "opened"
+    },
+    {
+      "claim": "Original music1917–1918; separate orchestral arrangement",
+      "url": "https://www.schott-music.com/en/much-ado-about-nothing-no794635.html",
+      "source_name": "Schott Music",
+      "kind": "primary",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {
+    "purchase": [
+      "https://www.alfred.com/products/much-ado-op-11-for-alto-sax-or-clarinet-and-piano-36-m277491?variant=44600780980360"
+    ],
+    "publisher": [
+      "Keiser Productions/LudwigMasters,36-M277491,UPC660355169175 (alto or clarinet edition)"
+    ]
+  },
+  "gaps": [
+    "Exact soprano saxophone edition,arranger,accompaniment and movements not verified.",
+    "No saxophone score or exact saxophone recording inspected.",
+    "Original1918date preserved separately from unknown arrangement date."
+  ],
+  "searches": [
+    "Erich Wolfgang Korngold Much Ado About Nothing",
+    "Korngold Much Ado About Nothing soprano saxophone piano sheet",
+    "Much Ado Korngold saxophone arr",
+    "Much ado Korngold soprano saxophone score"
+  ],
+  "proposed_corrections": [
+    {
+      "field": "instruments/edition",
+      "suggested": "Review against title page: documented edition is alto saxophone or clarinet and piano.",
+      "reason": "Current soprano-only field lacks corroboration; do not change until intended edition identified."
+    }
+  ]
+}

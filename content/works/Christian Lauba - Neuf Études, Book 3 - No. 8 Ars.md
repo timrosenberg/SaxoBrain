@@ -9,7 +9,8 @@ instruments:
 composed: 
 year-of-study: "Advanced"
 streaming: 
-purchase: []
+purchase:
+  - "Neuf Études, Book 3 collection · https://www.prestomusic.com/sheet-music/products/7380893--christian-lauba-neuf-etudes-9-pour-saxophones-cahier-3"
 added: 2024-02-23
 aliases: []
 ---

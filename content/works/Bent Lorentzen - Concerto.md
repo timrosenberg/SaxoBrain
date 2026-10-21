@@ -9,7 +9,8 @@ instruments:
 composed: 1986
 year-of-study: "Third Year"
 streaming: 
-purchase: []
+purchase:
+  - "Rent from Publisher · https://www.wisemusicclassical.com/work/22267/Saxofonkoncert--Bent-Lorentzen/"
 library-recording:
   - "https://search.alexanderstreet.com/lti/view/work/bibliographic_entity|score|2131719"
 added: 2025-04-21
@@ -23,6 +24,11 @@ aliases: []
 publisher:
   - "Edition Wilhelm Hansen"
 ---
+
+## Ordering
+
+Request rental materials through the Hire link on [Wise Music’s work page](https://www.wisemusicclassical.com/work/22267/Saxofonkoncert--Bent-Lorentzen/). The link opens Zinfonia for Edition Wilhelm Hansen’s *Saxofonkoncert*.
+
 ## Research notes (private)
 
 ### Chat batch 06 follow-up, 2026-10-12

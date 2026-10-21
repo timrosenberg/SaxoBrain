@@ -1,0 +1,68 @@
+{
+  "run_number": 113,
+  "filename": "Michele Sweeney - Duo.md",
+  "path": "content/works/Michele Sweeney - Duo.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": "Likely Eric Sweeney's Duo (1991), soprano saxophone and piano",
+  "findings": [
+    "Contemporary Music Centre identifies Eric Sweeney's Duo (1991), originally violin and piano, approximately 4 minutes, later rescored for saxophone and other winds.",
+    "Camden edition CM116 / ISMN 9790570341160 is for soprano saxophone and piano, with Gerard McChrystal credited as editor by Noten Roehr.",
+    "CMC's composer interview describes layered rhythms built on three notes, with an Irish-tradition drone effect in the piano.",
+    "Trinity's official Grade 7 list includes Duo, Camden CM116. This is external exam context, not a SaxoBrain level."
+  ],
+  "evidence": [
+    {
+      "claim": "Composer, original date, duration and premiere",
+      "url": "https://www.cmc.ie/music/duo",
+      "source_name": "Contemporary Music Centre, Ireland",
+      "kind": "composer resource centre",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Composer account of saxophone version and musical construction",
+      "url": "https://www.cmc.ie/features/through-digital-door-works-eric-sweeney-cmcs-library",
+      "source_name": "Contemporary Music Centre",
+      "kind": "composer interview",
+      "access": "opened"
+    },
+    {
+      "claim": "Edition and soprano-piano instrumentation",
+      "url": "https://www.forsyths.co.uk/sheet-music/instruments/woodwind/saxophone-sheet-music/46908-duo---eric-sweeney--9790570341160.html",
+      "source_name": "Forsyths",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Exam repertoire context",
+      "url": "https://www.trinitycollege.com/resource/?id=9985",
+      "source_name": "Trinity College London",
+      "kind": "exam board",
+      "access": "opened"
+    }
+  ],
+  "metadata": {},
+  "score_observations": [],
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [],
+  "collection_flag": "Likely substantial minimal/Irish-derived concert transcription, with exam-board use.",
+  "gaps": [
+    "Catalog says Michele Sweeney; sources establish Eric Sweeney's same-title soprano work. Confirm intended identity before applying metadata.",
+    "No exact accessible notation or streaming recording verified. Forsyths reports Gerard McChrystal CMC CD01."
+  ],
+  "searches": [
+    "Michele Sweeney Duo saxophone",
+    "Michele Sweeney Duo music",
+    "Michelle Sweeney Duo saxophone",
+    "Sweeney Duo saxophone score Michele",
+    "Duo Eric Sweeney Camden Music CM116"
+  ],
+  "proposed_corrections": [
+    {
+      "field": "composer/instruments",
+      "suggestion": "Probable intended work is Eric Sweeney's Duo with piano, CM116. Verify import provenance before correcting.",
+      "source": "https://www.cmc.ie/features/through-digital-door-works-eric-sweeney-cmcs-library"
+    }
+  ]
+}

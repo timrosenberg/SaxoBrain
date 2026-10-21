@@ -1,0 +1,77 @@
+{
+  "run_number": 34,
+  "filename": "David Udell - Elegie & Ecossaise.md",
+  "path": "content/works/David Udell - Elegie & Ecossaise.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "notation_inspected": false,
+  "score_observations": [],
+  "score_links": [],
+  "listening": [],
+  "collection_flag": "Institutional pre-college professional-studies repertoire context exists; this does not establish a SaxoBrain level.",
+  "identity": "Exact title Elegie and Ecossaise is attributed to Budd Udell by two institutional repertoire sources; current David Udell attribution needs correction review.",
+  "findings": [
+    "Philharmonie de Paris's saxophone repertoire guide lists Budd Udell, Elegie and Ecossaise, tenor saxophone and piano, Southern Music.",
+    "The same guide explicitly allows soprano saxophone.",
+    "A Spanish professional-studies entrance repertoire list independently attributes the Southern edition to Budd Udell.",
+    "Retail Southern lists include separate soprano listing HL03775856 and another listing HL03775885; exact editions need title-page confirmation."
+  ],
+  "evidence": [
+    {
+      "claim": "Budd Udell; tenor and piano, playable on soprano; Southern",
+      "url": "https://mediatheque.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+      "source_name": "Philharmonie de Paris repertoire guide",
+      "kind": "institutional",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Budd Udell exact title and Southern",
+      "url": "https://escolamusicagrau.com/wp-content/uploads/2019/03/Saxo-acce%C4%97s-4EP.pdf",
+      "source_name": "Professional music studies entrance list",
+      "kind": "institutional",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Separate Southern soprano edition listing",
+      "url": "https://www.stantons.com/sheet-music/publishers/leon_sotex/E/",
+      "source_name": "Stanton's",
+      "kind": "retailer",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {
+    "publisher": [
+      "Southern Music Company"
+    ],
+    "instruments": [
+      "Tenor saxophone or soprano saxophone",
+      "Piano"
+    ]
+  },
+  "gaps": [
+    "No composition date, duration, inspected score or exact recording located.",
+    "Full Southern edition identifiers need title-page confirmation."
+  ],
+  "searches": [
+    "David Udell Elegie Ecossaise",
+    "Udell Elegie saxophone",
+    "Budd Udell Elegie Ecossaise Southern",
+    "Elegie and Ecossaise soprano Udell"
+  ],
+  "proposed_corrections": [
+    {
+      "field": "composer",
+      "current": "David Udell",
+      "suggested": "Budd Udell",
+      "reason": "Two independent institutional sources give Budd Udell for this exact title and Southern edition."
+    },
+    {
+      "field": "instruments",
+      "suggested": [
+        "Soprano or tenor saxophone",
+        "Piano"
+      ],
+      "reason": "Institutional guide confirms piano and alternative saxophone."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "run_number": 143,
+  "filename": "Rudy Wiedoeft - Valse - Mazane-Saxema.md",
+  "path": "content/works/Rudy Wiedoeft - Valse - Mazane-Saxema.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": "Likely Two Rudy Wiedoeft Classics: Valse Mazanetta and Saxema, edited Ted Hegvik",
+  "findings": [
+    "A2003 advertisement names Two Rudy Wiedoeft Classics for alto saxophone and piano, Valse Mazanetta and Saxema, edited by Ted Hegvik, published through Et Cetera Productions. This closely matches the catalog's compressed title.",
+    "The two are separate compositions in a paired edition. Mazane appears to be a truncation of Mazanetta.",
+    "Other current editions differ: Lyrical Music offers Valse Mazanetta for B-flat tenor or soprano and piano, and Saxema for C-melody saxophone and piano. These alternatives should not replace the likely Hegvik alto edition.",
+    "The Clarinet Classics historical reissue Kreisler of the Saxophone lists Rudy Wiedoeft performing Valse Mazanetta (2:58) and Saxema (2:48)."
+  ],
+  "evidence": [
+    {
+      "claim": "Paired alto/piano edition, Ted Hegvik editor, Et Cetera publisher",
+      "url": "https://gunnarmossblad.com/home/wp-content/uploads/2015/10/A-Guide-to-Selecting-and-trying-Mouthpieces.pdf",
+      "source_name": "Saxophone Journal September/October 2003 advertisement, hosted by Gunnar Mossblad",
+      "kind": "publisher advertisement",
+      "access": "opened"
+    },
+    {
+      "claim": "Distinct B-flat saxophone edition of Valse Mazanetta",
+      "url": "https://www.lyricalpub.com/product-page/valse-mazanetta-for-bb-tenor-or-soprano-saxophone-and-piano",
+      "source_name": "Lyrical Music Publications",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Distinct C-melody Saxema edition; publisher states composition 1920",
+      "url": "https://www.lyricalpub.com/product-page/saxema-for-c-melody-saxophone-and-piano",
+      "source_name": "Lyrical Music Publications",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Historical recordings, exact titles, performer and timings",
+      "url": "https://music.apple.com/us/album/saxema/218714235?i=218716351",
+      "source_name": "Apple Music, Clarinet Classics reissue",
+      "kind": "recording metadata",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {},
+  "score_observations": [],
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [
+    {
+      "url": "https://music.apple.com/us/album/saxema/218714235?i=218716351",
+      "description": "Rudy Wiedoeft, Kreisler of the Saxophone: track 8Valse Mazanetta, track 14Saxema",
+      "verification": "Exact track titles and historical performer match in service index; direct access failed. Does not verify the Hegvik edition or recorded saxophone types."
+    }
+  ],
+  "collection_flag": "Likely paired edition of two distinct works; exact catalog identity needs title-page confirmation. No split proposed without user review.",
+  "gaps": [
+    "No actual notation inspected; no current exact Hegvik purchase page, plate or ISMN verified.",
+    "Catalog's intended paired edition remains probable rather than certain.",
+    "No single date can represent both compositions; no composed metadata suggested."
+  ],
+  "searches": [
+    "Rudy Wiedoeft Valse Mazane Saxema",
+    "Wiedoeft Valse Mazanetta Saxema score piano",
+    "Valse Mazane saxophone",
+    "Saxema Valse Mazanetta sheet music alto piano collection",
+    "Valse Mazanetta Hegvik Saxema"
+  ],
+  "proposed_corrections": [
+    {
+      "field": "title",
+      "existing": "Valse: Mazane/Saxema",
+      "proposed": "Two Rudy Wiedoeft Classics: Valse Mazanetta and Saxema (verify edition)",
+      "reason": "Exact paired alto/piano edition advertised by Ted Hegvik matches both titles."
+    }
+  ]
+}

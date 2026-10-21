@@ -1,0 +1,45 @@
+{
+  "run_number": 146,
+  "filename": "Sam Raphling - Sonata No. 2.md",
+  "path": "content/works/Sam Raphling - Sonata No. 2.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": "Sam Raphling’s Sonata No. 2 for alto saxophone and piano is listed in the University of Maryland research chronology of American wind repertoire.",
+  "findings": [
+    "Printed page 42, PDF page 48, explicitly lists Sam Raphling, Sonata for Alto Saxophone No. 2, 1968."
+  ],
+  "evidence": [
+    {
+      "claim": "Printed page 42, PDF page 48, explicitly lists Sam Raphling, Sonata for Alto Saxophone No. 2, 1968.",
+      "url": "https://api.drum.lib.umd.edu/server/api/core/bitstreams/2153c64b-6b45-45aa-8f96-15586240afc5/content",
+      "source_name": "University of Maryland DRUM dissertation, American wind-repertoire chronology",
+      "kind": "institution",
+      "access": "opened"
+    }
+  ],
+  "metadata": {
+    "composed": 1968
+  },
+  "score_observations": "",
+  "notation_inspected": false,
+  "score_links": [
+    {
+      "url": "https://api.drum.lib.umd.edu/server/api/core/bitstreams/2153c64b-6b45-45aa-8f96-15586240afc5/content",
+      "description": "University research chronology, printed page 42; no score notation",
+      "inspected": false
+    }
+  ],
+  "listening": [],
+  "collection_flag": "Original saxophone repertoire; intended pedagogical level unverified.",
+  "gaps": [
+    "No current edition, public score preview, duration, movements or exact recording verified.",
+    "Do not confuse the 1968 alto No. 2 with the unnumbered 1945 alto sonata or the separate tenor sonata."
+  ],
+  "searches": [
+    "Sam Raphling Sonata No 2 saxophone piano",
+    "\"Raphling\" \"Sonata No. 2\"",
+    "\"Raphling\" \"Sonata\" \"saxophone\" 1968",
+    "Sam Raphling alto saxophone Sonata 2 1968 publisher"
+  ],
+  "proposed_corrections": []
+}

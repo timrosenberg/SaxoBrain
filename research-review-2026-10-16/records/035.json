@@ -1,0 +1,54 @@
+{
+  "run_number": 35,
+  "filename": "Denise Rogier - Cortege.md",
+  "path": "content/works/Denise Rogier - Cortege.md",
+  "checked_on": "2026-10-16",
+  "status": "no_reliable_match",
+  "notation_inspected": false,
+  "score_observations": [],
+  "score_links": [],
+  "listening": [],
+  "collection_flag": null,
+  "identity": "No reliable exact match located for Denise Rogier, Cortege.",
+  "findings": [
+    "Searches under Rogier, Roger, Cortege and Cortège did not verify this exact work.",
+    "Denise Roger has documented saxophone works, including Conversation, but no source found connects her to this title.",
+    "An archived Combre catalogue's nearby Cortège is by Pierre Bigot for viola and piano, so it is not evidence for the catalogued saxophone piece."
+  ],
+  "evidence": [
+    {
+      "claim": "Denise Roger catalogue offers a composer spelling lead but not exact Cortege identity",
+      "url": "https://www.femmesetmusique.com/catalogue-new2.html",
+      "source_name": "Femmes et Musique composer catalogue",
+      "kind": "catalog",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Conversation is a different Denise Roger saxophone work",
+      "url": "https://windmusic.org/index.php?id=7178&lvl=notice_display",
+      "source_name": "Wind Music catalogue",
+      "kind": "catalog",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Combre Cortège nearby Roger references concerns Pierre Bigot viola piece",
+      "url": "https://www.cmf-archives.org/files/original/7dc88b20403f7f4788ff4236221e543c192d2814.pdf",
+      "source_name": "Archived Combre catalogue",
+      "kind": "primary",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {},
+  "gaps": [
+    "Composer identity and title unverified.",
+    "No exact edition, score, recording, instrumentation, date or duration verified."
+  ],
+  "searches": [
+    "Denise Rogier Cortege",
+    "Rogier Cortege saxophone",
+    "Cortege Denise saxophone",
+    "Denise Roger Cortège",
+    "Cortège Roger Denise saxophone piano"
+  ],
+  "proposed_corrections": []
+}

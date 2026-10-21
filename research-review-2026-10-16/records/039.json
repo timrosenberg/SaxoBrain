@@ -1,0 +1,40 @@
+{
+  "run_number": 39,
+  "filename": "Erland von Koch - Off The Beaten Path.md",
+  "path": "content/works/Erland von Koch - Off The Beaten Path.md",
+  "checked_on": "2026-10-16",
+  "status": "no_reliable_match",
+  "notation_inspected": false,
+  "score_observations": [],
+  "score_links": [],
+  "listening": [],
+  "collection_flag": null,
+  "identity": "No reliable match for Erland von Koch,Off The Beaten Path.",
+  "findings": [
+    "Plain and alternate title searches did not connect Erland von Koch to this title.",
+    "Most exact-title saxophone results concern Dave Koz's album,which is not evidence for this work.",
+    "Swedish Musical Heritage's Erland von Koch page was checked; its explicitly incomplete list does not identify this work."
+  ],
+  "evidence": [
+    {
+      "claim": "Composer identity and incomplete work inventory checked,without exact title match",
+      "url": "https://www.swedishmusicalheritage.com/composers/koch-erland-von/",
+      "source_name": "Swedish Musical Heritage",
+      "kind": "institutional",
+      "access": "opened"
+    }
+  ],
+  "metadata": {},
+  "gaps": [
+    "Exact work,composer attribution,date,publisher,score and recording remain unverified.",
+    "Do not substitute unrelated Dave Koz album."
+  ],
+  "searches": [
+    "Erland von Koch Off The Beaten Path",
+    "von Koch Off Beaten",
+    "Koch Off The Beaten Path saxophone composer",
+    "Off the Beaten Path saxophone piano -Koz -Goodwin",
+    "Frederick Koch Off beaten"
+  ],
+  "proposed_corrections": []
+}

@@ -9,7 +9,8 @@ instruments:
 composed:
 year-of-study: Second Year
 streaming:
-purchase: []
+purchase:
+  - "Dohr edition (alto and piano) · https://www.prestomusic.com/sheet-music/products/8386942--mayeur-l-le-carnaval-de-venise"
 download:
   - "https://imslp.org/wiki/Grande_fantaisie_brillante_sur_'Le_carnaval_de_Venise'_(Mayeur%2C_Louis_Adolphe)"
 added: 2026-10-14

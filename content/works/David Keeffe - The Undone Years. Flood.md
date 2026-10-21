@@ -24,6 +24,8 @@ aliases: []
 
 Companion wind-ensemble version of [[David Keeffe - The Undone Years. Fire|The Undone Years. Fire]]. [Australian Music Centre work record](https://www.australianmusiccentre.com.au/work/keeffe-david-undone-years-flood).
 
+Contact the [Australian Music Centre](https://www.australianmusiccentre.com.au/contact) for score inquiries.
+
 ## Research notes (private)
 
 ### Chat batch 09 follow-up, 2026-10-13

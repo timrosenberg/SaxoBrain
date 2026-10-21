@@ -25,7 +25,7 @@
       "y" (index .Params "year-of-study" | default "")
       "d" (.Params.composed | default "")
       "a" (.Params.added | default "" | string)
-      "s" (or (ne (.Params.streaming | default "") "") (isset (partialCached "recordings-index.html" "all") .Path))
+      "s" (or (gt (len (partial "streaming-links.html" .)) 0) (isset (partialCached "recordings-index.html" "all") .Path))
       "p" (or (gt (len (.Params.purchase | default slice)) 0) (gt (len (.Params.download | default slice)) 0))
   ) -}}
 {{- end -}}

@@ -1,0 +1,99 @@
+{
+  "run_number": 88,
+  "filename": "Kenji Sakai - Reflecting Space II: Fantasia and Berceuse.md",
+  "path": "content/works/Kenji Sakai - Reflecting Space II: Fantasia and Berceuse.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": {
+    "title": "Reflecting Space II: Fantasia and Berceuse",
+    "composer": [
+      "[[Kenji Sakai]]"
+    ]
+  },
+  "findings": [
+    "Reflecting Space II:Fantasia and Berceuse,composed2007–2008,12min,saxophone and electronics;commissioned Masanori Oishi. Composer work catalog gives2007–2008,while current Zen-On page shortens to2008.",
+    "Premiere11March2008,Tokyo Opera City,Masanori Oishi,per Zen-On. IRCAM date11March2006 conflicts with its own2007–2008composition range;do not use2006premiere.",
+    "A2010academic report on live-electronics performance describes four-channel real-time Max/MSP processing:record/playback,delay,harmonization,FM,granular synthesis,filtering,phase vocoder and sound-file playback; saxophonist advances events via MIDI pedal.",
+    "IRCAM specifies at least four loudspeakers around audience,computer,mixing/amplification,microphones and MIDI pedal. Composer sound page lists two exact Oishi extracts at Parthenon Tama,within embedded SoundCloud playlist.",
+    "Kyoto City University of Arts programmed this work in a2017lecture-concert for a recording/electronic-music class,Haruka Inoue saxophone and Sumihisa Arima electronics. Zen-On score availability is by inquiry."
+  ],
+  "evidence": [
+    {
+      "claim": "2008,12min,commission,premiere11March2008,inquiryavailability",
+      "url": "https://www.zen-on.co.jp/en/publishing/cr/composers/works/detail/425/",
+      "source_name": "Zen-On",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Composer2007–2008work dating",
+      "url": "http://kenjisakai.net/work",
+      "source_name": "Kenji Sakai",
+      "kind": "composer",
+      "access": "opened"
+    },
+    {
+      "claim": "Four-channel Max/MSP live processing,MIDIpedal events",
+      "url": "https://data.jssa.info/paper/2010v02n04/3.Ando_Panel.pdf",
+      "source_name": "Japanese Society for Sonic Arts",
+      "kind": "research paper",
+      "access": "opened"
+    },
+    {
+      "claim": "Four-speaker setup and date conflict",
+      "url": "https://resources.ircam.fr/en/work/reflecting-space-ii-fantasia-and-berceuse",
+      "source_name": "IRCAM",
+      "kind": "institution",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Exact two Oishi extracts at Parthenon Tama",
+      "url": "http://kenjisakai.net/sound",
+      "source_name": "Kenji Sakai",
+      "kind": "composer",
+      "access": "opened"
+    },
+    {
+      "claim": "2017universitylectureconcert,HarukaInoue,SumihisaArima",
+      "url": "https://www.kcua.ac.jp/20170916_music/",
+      "source_name": "Kyoto City University of Arts",
+      "kind": "institution",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {
+    "composed": "2007–2008",
+    "instruments": [
+      "Any Saxophone",
+      "Electronics"
+    ]
+  },
+  "score_observations": [],
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [
+    {
+      "url": "http://kenjisakai.net/sound",
+      "description": "Composer playlist,two Reflecting Space II extracts,Masanori Oishi,Parthenon Tama",
+      "verification": "Exact composer caption and embedded SoundCloud user playlist opened;individual track URLs/playability unresolved. No audio auditioned."
+    }
+  ],
+  "collection_flag": "Professional live-electronics commission and university lecture-concert context;requires electronics coordination.",
+  "gaps": [
+    "Saxophone type not established;generic catalog wording does not prove every saxophone is authorized.",
+    "No public score preview or current electronics software package found.",
+    "Individual recording URLs unresolved.",
+    "Current Max/MSP compatibility and performance material availability require publisher inquiry."
+  ],
+  "searches": [
+    "Kenji Sakai Reflecting Space II Fantasia Berceuse",
+    "Kenji Sakai Reflecting Space II recording",
+    "Reflecting Space II Sakai score saxophone electronics"
+  ],
+  "proposed_corrections": [
+    {
+      "proposal": "Expand composition date to2007–2008;classify descriptive publisher URL as availability inquiry rather than direct sale.",
+      "url": "http://kenjisakai.net/work"
+    }
+  ]
+}

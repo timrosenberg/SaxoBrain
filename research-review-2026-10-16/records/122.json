@@ -1,0 +1,82 @@
+{
+  "run_number": 122,
+  "filename": "Nubim - Rotary Vertigo.md",
+  "path": "content/works/Nubim - Rotary Vertigo.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": "Rotary Vertigo (2016), alto saxophone and piano version D20028",
+  "findings": [
+    "Donemus distinguishes the 2016 alto/piano original, approximately 3:40, D20028, from Rotary Vertigo II for large ensemble (2019). Preview bears 2021 copyright.",
+    "Composer's press page links the work to Manhattan's Guggenheim Museum and credits Wietse Voermans with S'yo Fang on Chapel of Light.",
+    "Chapel of Light track 4 has duration 3:41, corroborating the publisher duration."
+  ],
+  "evidence": [
+    {
+      "claim": "2016, instrumentation, version, duration and copyright",
+      "url": "https://webshop.donemus.com/action/front/sheetmusic/20028",
+      "source_name": "Donemus Publishing",
+      "kind": "publisher",
+      "access": "score_inspected"
+    },
+    {
+      "claim": "Program and performers",
+      "url": "https://www.nubim.net/press.html",
+      "source_name": "Nubim official press page",
+      "kind": "composer",
+      "access": "opened"
+    },
+    {
+      "claim": "Exact track/credits/duration",
+      "url": "https://music.amazon.co.jp/albums/B0CT5XT426",
+      "source_name": "Amazon Music",
+      "kind": "streaming metadata",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {
+    "composed": 2016,
+    "publisher": [
+      "Donemus"
+    ],
+    "instruments": [
+      "Alto Saxophone",
+      "Piano"
+    ],
+    "purchase": [
+      "https://webshop.donemus.com/action/front/sheetmusic/20028"
+    ],
+    "streaming": "https://music.amazon.co.jp/albums/B0CT5XT426"
+  },
+  "score_observations": [
+    "Public preview last page is explicitly a score in C, so its displayed pitches must not be treated as the transposed alto part range.",
+    "Opening quarter=110 alternates chromatic eighth-note piano figures with saxophone sustained notes, accented upper notes and later sixteenth-note runs.",
+    "Excerpt changes 4/4, 3/4 and 2/4 and includes a trill, ritardando, and a new quarter=80 section. Visible articulation/dynamic changes are frequent; no claim about techniques outside excerpt."
+  ],
+  "notation_inspected": true,
+  "score_links": [
+    {
+      "url": "https://webshop.donemus.com/action/front/sheetmusic/20028",
+      "description": "Free publisher preview retrieved through page form; lane assets/20028-preview.pdf; final notation page inspected",
+      "inspected": true
+    }
+  ],
+  "listening": [
+    {
+      "url": "https://music.amazon.co.jp/albums/B0CT5XT426",
+      "description": "Chapel of Light, track 4 Rotary Vertigo (3:41), Wietse Voermans and S'yo Fang",
+      "verification": "Exact track metadata corroborates composer's page and Donemus recording note; no audition claim."
+    }
+  ],
+  "collection_flag": null,
+  "gaps": [
+    "Full saxophone part, maximum written range and complete technical inventory unverified.",
+    "Existing Alexander Street score link retained as catalog evidence; not independently accessed."
+  ],
+  "searches": [
+    "Nubim Rotary Vertigo saxophone",
+    "Nubim Rotary Vertigo",
+    "Nubim Rotary Vertigo piano alto",
+    "Rotary Vertigo Nubim score saxophone piano"
+  ],
+  "proposed_corrections": []
+}

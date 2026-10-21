@@ -9,7 +9,8 @@ instruments:
 composed: 
 year-of-study: "Fourth Year"
 streaming: "https://youtu.be/RqaYoeR5Jq0?si=pq_SUqKePNUwsiHR"
-purchase: []
+purchase:
+  - "full conductor score only (made to order) · https://www.ficksmusic.com/products/albright-heater-peters-1"
 added: 2024-03-10
 aliases: []
 ---

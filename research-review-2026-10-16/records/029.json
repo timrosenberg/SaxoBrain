@@ -1,0 +1,85 @@
+{
+  "run_number": 29,
+  "filename": "Costin Miereanu - Aksax.md",
+  "path": "content/works/Costin Miereanu - Aksax.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "notation_inspected": false,
+  "score_observations": [],
+  "score_links": [],
+  "listening": [
+    {
+      "url": "https://kientzy.pro/discographie",
+      "description": "L'Art du Saxophone, Nova Musica NMCD5101 (1994), Daniel Kientzy",
+      "verification": "Performer's discography exact work; no direct stream established."
+    }
+  ],
+  "collection_flag": "Contemporary professional solo work, Darmstadt premiere and 2026 IREMUS program.",
+  "identity": "Aksax (1983), Costin Miereanu",
+  "findings": [
+    "IRCAM confirms 1983, bass or baritone saxophone solo, 5:35, Salabert EAS18107; premiered by Daniel Kientzy at Darmstadt in 1984.",
+    "Philharmonie de Paris repertoire guide describes repetition around B-flat and C, then expansion with crescendos and accelerandos; this is source analysis, not personal score inspection.",
+    "Performer discography identifies a recording on L'Art du Saxophone, Nova Musica NMCD5101 (1994).",
+    "CNRS/IREMUS 2026 symposium program schedules Daniel Kientzy playing Aksax for bass saxophone, confirming ongoing professional context.",
+    "Retailer reprint SLB00226100, ISMN 9790048027213, publication 2002; distinct from composition."
+  ],
+  "evidence": [
+    {
+      "claim": "1983, bass/baritone alternatives, 5:35, EAS18107, premiere",
+      "url": "https://brahms.ircam.fr/fr/work/aksax",
+      "source_name": "IRCAM",
+      "kind": "institutional",
+      "access": "opened",
+      "corroborated_on": "2026-10-16"
+    },
+    {
+      "claim": "Described repetitive pitch design",
+      "url": "https://mediatheque.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+      "source_name": "Philharmonie de Paris",
+      "kind": "institutional",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Exact recording NMCD5101, 1994",
+      "url": "https://kientzy.pro/discographie",
+      "source_name": "Daniel Kientzy",
+      "kind": "performer",
+      "access": "opened"
+    },
+    {
+      "claim": "2026 professional performance program",
+      "url": "https://www.iremus.cnrs.fr/sites/default/files/2026-03/programmecostin2026b-0.4.pdf",
+      "source_name": "CNRS / IREMUS",
+      "kind": "institutional",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {
+    "composed": 1983,
+    "publisher": [
+      "Salabert"
+    ],
+    "arranger-edition": [
+      "EAS18107 / SLB00226100; ISMN 9790048027213; bass or baritone solo"
+    ],
+    "purchase": [
+      "https://books.ludimusic.com/livro/aksax-basse-saxophone-seul-373747"
+    ]
+  },
+  "gaps": [
+    "No notation inspected.",
+    "Baritone option supported by IRCAM; verify edition part/transposition before treating as interchangeable.",
+    "No direct stream verified."
+  ],
+  "searches": [
+    "Costin Miereanu Aksax",
+    "Miereanu Aksax bass saxophone score Salabert"
+  ],
+  "proposed_corrections": [
+    {
+      "field": "instruments",
+      "suggestion": "Document baritone alternative in edition note",
+      "reason": "IRCAM explicitly says bass or baritone."
+    }
+  ]
+}

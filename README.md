@@ -23,6 +23,7 @@ Everything outside `content/` builds the site. You never need to open it.
 
 - **Quick fixes:** open `Catalog.base` in Obsidian and type into the cells.
 - **Longer edits:** open the piece's file. Notes about the piece go below the fields.
+- **Recordings:** `streaming` accepts one URL or a list. Label entries as `Improvisation II · https://...` to show a title above each player. With several recordings, Listen opens that section of the piece's page.
 - **New piece:** copy an existing piece file, rename it `Composer Name - Title`, and change the fields.
 - **Composer:** type `[[Composer Name]]` in the composer field. The name must match a file in `composers/` exactly. If it doesn't, the site won't publish, and the error names the file to fix.
 

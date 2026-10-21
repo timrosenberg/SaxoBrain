@@ -9,7 +9,8 @@ instruments:
 composed: 
 year-of-study: "Advanced"
 streaming: "https://jeffreyheisler.bandcamp.com/track/gradient"
-purchase: []
+purchase:
+  - "https://www.jwpepper.com/gradient-11560608/p"
 added: 2025-04-19
 aliases: []
 ---

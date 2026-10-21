@@ -10,7 +10,8 @@ instruments:
 composed: 1887
 year-of-study: "First Year"
 streaming: 
-purchase: []
+purchase:
+  - "Guthrie edition (alto and piano) · https://www.sheetmusicplus.com/en/product/faure-pavane-op-50-for-alto-sax-piano-21305457.html"
 added: 2024-03-08
 aliases: []
 ---

@@ -1,0 +1,55 @@
+{
+  "run_number": 171,
+  "filename": "William Presser - Four Grounds.md",
+  "path": "content/works/William Presser - Four Grounds.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": "William Presser: Four Grounds, oboe or soprano saxophone, horn and timpani",
+  "findings": [
+    "Publisher edition 494-01515 lists soprano saxophone and oboe alternatives and classifies the work among mixed trios.",
+    "Premiere participant Randall Faust's catalog explicitly identifies Four Grounds for oboe (soprano saxophone), horn and timpani, Tenuto."
+  ],
+  "evidence": [
+    {
+      "claim": "Publisher edition 494-01515 lists soprano saxophone and oboe alternatives and classifies the work among mixed trios.",
+      "url": "https://www.presser.com/494-01515-4-grounds.html",
+      "source_name": "Theodore Presser",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Premiere participant Randall Faust's catalog explicitly identifies Four Grounds for oboe (soprano saxophone), horn and timpani, Tenuto.",
+      "url": "https://www.faustmusic.com/media/wysiwyg/4-fold_8.5x11_February_2023.pdf",
+      "source_name": "Randall Faust / Faust Music catalog",
+      "kind": "performer",
+      "access": "opened"
+    }
+  ],
+  "metadata": {
+    "publisher": [
+      "Tritone Press & Tenuto Publications"
+    ],
+    "purchase": [
+      "https://www.presser.com/494-01515-4-grounds.html"
+    ],
+    "multi-instruments": "Soprano saxophone (or oboe), horn and timpani"
+  },
+  "score_observations": "",
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [],
+  "collection_flag": "Chamber trio with horn and timpani, not an unaccompanied soprano solo.",
+  "gaps": [
+    "A retailer labels accompaniment piano, conflicting with the composer-associated Faust catalog. Score required to settle edition contents.",
+    "1987 premiere reported by university program; composition year not independently established.",
+    "Exact soprano recording and notation not inspected."
+  ],
+  "searches": [
+    "William Presser Four Grounds",
+    "William Presser Four Grounds oboe soprano horn timpani",
+    "Four Grounds Presser 494-01515"
+  ],
+  "proposed_corrections": [
+    "Current instrumentation contains only soprano. Add horn and timpani after checking score/edition; do not substitute piano based on an ambiguous retailer label."
+  ]
+}

@@ -2,13 +2,13 @@
 title: Prayer
 slug: jeroen-d-hoe-prayer
 composer:
-  - "[[Jeroen d' Hoe]]"
+  - "[[Jeroen D’hoe]]"
 instruments:
   - Alto Saxophone
   - Violin
   - Piano
 composed: 2019
-year-of-study: "Second Year"
+year-of-study: Second Year
 streaming: https://youtu.be/Y1S-usZY9nQ?si=mSp3FrbvcZh4NlVp
 purchase:
   - https://webshop.donemus.com/action/front/sheetmusic/20960/Prayer

@@ -10,7 +10,8 @@ instruments:
 composed: 
 year-of-study: "Fourth Year"
 streaming: 
-purchase: []
+purchase:
+  - "piano reduction · https://www.jacobtv.net/product/tallahatchie-concerto/"
 library-recording:
   - "https://search.alexanderstreet.com/lti/view/work/bibliographic_entity|score|2075805"
 added: 2024-02-23

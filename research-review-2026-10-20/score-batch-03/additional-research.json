@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-20",
+  "selection_note": "Three refreshed identity-only candidates were replaced with clearer technical evidence. No level or Hold decisions applied.",
+  "records": [
+    {
+      "run_number": 27,
+      "path": "content/works/Colin Cowles - Blacker and Blues.md",
+      "title": "Blacker and Blues",
+      "instrumentation": "E-flat alto saxophone and piano",
+      "duration": "Unverified",
+      "demands": [
+        "CDMC specifies one alto saxophone with piano accompaniment, so pianist coordination is part of this edition’s performing context.",
+        "CDMC catalogs seven pages and indexes the work under blues and original repertoire. No actual swing, articulation or range requirement has been verified."
+      ],
+      "scope": "No notation inspected. The seven-page extent is library metadata. Public searches located no authorized notation preview or exact playback. Rhythms, register, stamina and movement structure remain unknown.",
+      "score_url": "https://windmusic.org/index.php?lvl=notice_display&id=16010",
+      "source_label": "CDMC WindMusic; Studio Music edition",
+      "recording_url": null,
+      "recording_description": "No exact public recording verified. A Tyrol 2009 competition program documents a performance, without providing playback.",
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "CDMC publication year is 1982. This has not been established separately as the composition year. Studio Music product identifier M-050-03325-7 is corroborated by retailer indexing.",
+      "evidence": [
+        {
+          "url": "https://windmusic.org/index.php?lvl=notice_display&id=16010",
+          "label": "CDMC WindMusic library",
+          "claim": "Exact title, Cowles, E-flat alto and piano, Studio Music London 1982, seven pages",
+          "access": "opened live 2026-10-20"
+        },
+        {
+          "url": "https://www.creativemusic.com.au/products/c103-saxophone/?page=219",
+          "label": "Creative Music retailer",
+          "claim": "Studio Music product M-050-03325-7 and alto/piano scoring",
+          "access": "live search index only 2026-10-20"
+        },
+        {
+          "url": "https://www.musikausbildung.tirol/fileadmin/landesmusikdirektion/mitarbeiterinnen-infos/plm_hefte/plm_Landeswettbewerb_2009.pdf",
+          "label": "Tyrol music-school competition program",
+          "claim": "Sandro Huter with Reinhard Mathoy programmed the exact work in 2009",
+          "access": "live search index only 2026-10-20"
+        }
+      ],
+      "recording_links": []
+    },
+    {
+      "run_number": 68,
+      "path": "content/works/Jay Vosk - Concerto.md",
+      "title": "Concerto",
+      "instrumentation": "Alto saxophone and piano; original for alto saxophone and chamber orchestra",
+      "duration": "Status unknown",
+      "demands": [
+        "Technical demands remain unknown: no saxophone notation preview was located.",
+        "Movement structure, solo range and rhythmic writing remain unknown."
+      ],
+      "scope": "Identity and piano-edition evidence only. Weak candidate for the score-review packet until a score or exact performance is available.",
+      "score_url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+      "source_label": "Dorn Publications April 2025 catalog, order 202",
+      "recording_url": null,
+      "recording_description": "",
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Composer lists the chamber-orchestra original; Dorn places order 202 in Alto Saxophone and Piano. Exact reduction credits, duration and date unresolved.",
+      "evidence": [
+        {
+          "url": "http://jayvosk.com/published-works/",
+          "label": "Jay Vosk, composer",
+          "claim": "Lists Concerto for alto saxophone and chamber orchestra; Dorn Productions.",
+          "access": "fetched live HTML; saved c/vosk.html"
+        },
+        {
+          "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+          "label": "Dorn Publications",
+          "claim": "Order 202 is Vosk Concerto in Alto Saxophone and Piano section.",
+          "access": "opened live 2026-10-20"
+        }
+      ],
+      "recording_links": []
+    },
+    {
+      "run_number": 70,
+      "path": "content/works/Jean Baptiste Loeillet - Sonata XII Op. 3-2.md",
+      "title": "Sonata XII Op. 3/2",
+      "instrumentation": "Soprano saxophone and piano, arrangement A. Durst",
+      "duration": "Status unknown",
+      "demands": [
+        "Technical demands unresolved: the Durst saxophone edition was not accessible for inspection.",
+        "The source-sonata number and key remain unresolved, preventing reliable transfer of demands from an original recorder edition."
+      ],
+      "scope": "Edition identity evidence only. Weak candidate until the Durst score can be compared with the original.",
+      "score_url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+      "source_label": "Dorn Publications April 2025 catalog, order 1309",
+      "recording_url": null,
+      "recording_description": "",
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Dorn prints Sonata XII Op3/2 arr:A.Durst. June Emerson uses Sonata No.12, Op.3 No.2. These ambiguous numbers have not been normalized. No exact performance located.",
+      "evidence": [
+        {
+          "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+          "label": "Dorn Publications",
+          "claim": "Order1309 in Soprano Saxophone and Piano section; title Sonata XII Op3/2; arr:A.Durst.",
+          "access": "opened live 2026-10-20"
+        },
+        {
+          "url": "https://www.juneemersonwindmusic.com/Bb-Soprano-Sax-Pieces/?page=7&sort=",
+          "label": "June Emerson Wind Music, retailer",
+          "claim": "Matching DP1309 listing, Durst arrangement, soprano saxophone and piano.",
+          "access": "live search index only; direct retrieval403"
+        }
+      ],
+      "recording_links": []
+    }
+  ]
+}

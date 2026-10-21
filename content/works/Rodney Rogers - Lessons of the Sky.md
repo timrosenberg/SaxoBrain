@@ -13,7 +13,5 @@ purchase:
   - https://www.grothmusic.com/p-139716.aspx
 added: 2024-03-11
 research:
-  - Publisher Dorn Publications, catalog no. DORN1136 · https://www.grothmusic.com/p-139716.aspx
-  - 22 pages · https://www.grothmusic.com/p-139716.aspx
 aliases: []
 ---

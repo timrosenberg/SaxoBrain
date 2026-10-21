@@ -1,0 +1,85 @@
+{
+  "run_number": 81,
+  "filename": "Kae Hirakawa - A Sequence of Impulses.md",
+  "path": "content/works/Kae Hirakawa - A Sequence of Impulses.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "identity": {
+    "title": "A Sequence of Impulses",
+    "composer": [
+      "[[Kae Hirakawa]]"
+    ]
+  },
+  "findings": [
+    "A Sequence of Impulses,clarinet,saxophone(alto and soprano)and piano,is a three-player chamber work with saxophone doubling.",
+    "Seven continuously connected sections portray situations and emotions around impulse,such as desire,conflict and patience. Duration13:50.",
+    "Premiere18May2017,21st Century Music Society14thconcert,Tokyo Bunka Kaikan Small Hall:Rie Arima clarinet,Hiromi Hara saxophone,composer Kae Hirakawa piano.",
+    "Zen-On590247,ISBN9784115902473,print release15June2024,48score+12pages each of2parts; digital64pages. This release date is distinct from2017work date."
+  ],
+  "evidence": [
+    {
+      "claim": "Instrumentation,duration,premiere and seven-part uninterrupted form",
+      "url": "https://shop.zen-on.co.jp/downloads/detail/59024700/",
+      "source_name": "Zen-On",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Print release15June2024,ISBN,48+12x2pages",
+      "url": "https://shop.zen-on.co.jp/item/detail/590247/",
+      "source_name": "Zen-On",
+      "kind": "publisher",
+      "access": "opened"
+    },
+    {
+      "claim": "Actual score opening with alto part,B-flat clarinet,piano and extended articulation",
+      "url": "https://www.zen-on.co.jp/trial/590247/?pNo=1&detailFlg=0",
+      "source_name": "Zen-On",
+      "kind": "score",
+      "access": "score_inspected"
+    }
+  ],
+  "metadata": {
+    "publisher": [
+      "Zen-On"
+    ],
+    "instruments": [
+      "Alto Saxophone",
+      "Soprano Saxophone",
+      "Clarinet",
+      "Piano",
+      "Trio"
+    ],
+    "purchase": [
+      "https://shop.zen-on.co.jp/downloads/detail/59024700/",
+      "https://shop.zen-on.co.jp/item/detail/590247/"
+    ],
+    "multi-instruments": true
+  },
+  "score_observations": [
+    "Inspected printedpp4–6:opening3/4 quarter124,sparse offbeat notes and rests in winds; slap-tongue label and symbols,short slurred chromatic sixteenth-note bursts,and strongly independent piano gestures.",
+    "Bybar27,wind parts have rapid chromatic descending runs and Fz indications; meter shifts common time then3/4. Preview alto part reaches several ledger lines above staff. Soprano switching location is outside inspected pages."
+  ],
+  "notation_inspected": true,
+  "score_links": [
+    {
+      "url": "https://www.zen-on.co.jp/trial/590247/?pNo=1&detailFlg=0",
+      "description": "Actual opening printedpp4–6; local081-p5/p6/p7.jpg",
+      "inspected": true
+    }
+  ],
+  "listening": [],
+  "collection_flag": "Professional contemporary chamber premiere with composer at piano; substantial original trio.",
+  "gaps": [
+    "No exact recording located in English/Japanese title searches.",
+    "Only first section opening inspected; no full range or doubling schedule.",
+    "Composition year2017 retained from existing field and contemporaneous premiere,not independently established by composition-date statement."
+  ],
+  "searches": [
+    "Kae Hirakawa A Sequence of Impulses",
+    "Kae Hirakawa Sequence saxophone",
+    "Hirakawa A Sequence of Impulses recording",
+    "Hirakawa Sequence Impulses score sample clarinet saxophone"
+  ],
+  "proposed_corrections": []
+}

@@ -1,0 +1,68 @@
+{
+  "run_number": 3,
+  "filename": "Alexander Glazunov - Serenade Espagnole.md",
+  "path": "content/works/Alexander Glazunov - Serenade Espagnole.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "notation_inspected": false,
+  "score_observations": [],
+  "score_links": [],
+  "listening": [],
+  "collection_flag": "Short lyrical transcription; publisher Grade 4 and school/community edition context. College relevance requires artistic/programming judgment.",
+  "identity": "Sérénade espagnole, Alexander Glazunov, Cecil Leeson arrangement",
+  "findings": [
+    "Southern Music publisher confirms Cecil Leeson's arrangement for alto saxophone and piano, duration three minutes, ST462 / 3775159.",
+    "Publisher describes a Romantic cello transcription; this is a short lyrical transcription.",
+    "Retailer lists eight pages and publisher Grade 4. This is a publisher grade only.",
+    "Original cello work is op.20 no.2. IMSLP dates original composition 1888 and publication 1890; publisher loosely calls it written in 1890, so original date should be checked before metadata entry."
+  ],
+  "evidence": [
+    {
+      "claim": "Leeson arrangement, three minutes, alto saxophone/piano, ST462",
+      "url": "https://keiserproductions.com/catalog/southern-music/?ic=&sc=&tc=&tid=21A625A6-CF50-4D8C-BF6E-BA3F90E622EB",
+      "source_name": "Southern Music",
+      "kind": "primary",
+      "access": "opened"
+    },
+    {
+      "claim": "8 pages, Grade 4 edition",
+      "url": "https://www.sheetmusicplus.com/en/product/serenade-espagnole-archive-198734.html",
+      "source_name": "Sheet Music Plus",
+      "kind": "retailer",
+      "access": "search_index_only"
+    },
+    {
+      "claim": "Original composition 1888, publication 1890",
+      "url": "https://imslp.org/wiki/2_Pieces_for_Cello_and_Orchestra%2C_Op.20_%28Glazunov%2C_Aleksandr%29",
+      "source_name": "IMSLP",
+      "kind": "library",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {
+    "publisher": [
+      "Southern Music Company"
+    ],
+    "instruments": [
+      "Alto Saxophone",
+      "Piano"
+    ],
+    "arranger-edition": [
+      "Cecil Leeson; ST462 / HL 3775159"
+    ],
+    "purchase": [
+      "https://www.sheetmusicplus.com/en/product/serenade-espagnole-archive-198734.html"
+    ]
+  },
+  "gaps": [
+    "Saxophone notation not inspected.",
+    "No exact saxophone recording verified.",
+    "Original date conflict must remain separate from arrangement/publication date."
+  ],
+  "searches": [
+    "Alexander Glazunov Serenade Espagnole saxophone",
+    "Glazunov Serenade Espagnole Leeson saxophone Southern Music ST462",
+    "Glazunov Leeson serenade saxophone recording"
+  ],
+  "proposed_corrections": []
+}

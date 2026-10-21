@@ -1,0 +1,43 @@
+{
+  "run_number": 107,
+  "filename": "Marga Richter Wirth - Dari Jawa.md",
+  "path": "content/works/Marga Richter Wirth - Dari Jawa.md",
+  "checked_on": "2026-10-16",
+  "status": "no_reliable_match",
+  "identity": "Dari Jawa attributed to Marga Richter Wirth remains unverified",
+  "findings": [
+    "Title/composer and alternate-spelling searches did not locate an exact musical work or reliable composer attribution.",
+    "Marga Richter's official site documents a composer with that shorter name, but does not establish this record's identity."
+  ],
+  "evidence": [
+    {
+      "claim": "Separate identity lead only, not an exact-work source",
+      "url": "https://www.margarichtercomposer.com/",
+      "source_name": "Marga Richter official composer site",
+      "kind": "composer",
+      "access": "opened"
+    }
+  ],
+  "metadata": {},
+  "score_observations": [],
+  "notation_inspected": false,
+  "score_links": [],
+  "listening": [],
+  "collection_flag": null,
+  "gaps": [
+    "Combined composer name and title require source-document checking.",
+    "Soprano instrumentation, date, publisher, score and recording unverified."
+  ],
+  "searches": [
+    "Marga Richter Wirth Dari Jawa",
+    "Dari Jawa saxophone",
+    "Richter Dari saxophone",
+    "Dari Jawa",
+    "Dari Jawa music saxophone Wirth",
+    "Dari Djava saxophone",
+    "Dari Jawa Wirth music soprano sax",
+    "Dari Jawa saxophone composition",
+    "Marga Richter Wirth"
+  ],
+  "proposed_corrections": []
+}

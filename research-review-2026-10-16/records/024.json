@@ -1,0 +1,65 @@
+{
+  "run_number": 24,
+  "filename": "Clare Loveday - Displacement.md",
+  "path": "content/works/Clare Loveday - Displacement.md",
+  "checked_on": "2026-10-16",
+  "status": "researched_with_gaps",
+  "notation_inspected": false,
+  "score_observations": [],
+  "score_links": [],
+  "listening": [],
+  "collection_flag": "Explicit undergraduate/professional suitability in scholarship bibliography and international congress performance.",
+  "identity": "Displacement (2005), Clare Loveday",
+  "findings": [
+    "SAMRO archive confirms 2005 and reports performance directions are in English and intended as guidance.",
+    "University of Pretoria annotated bibliography gives alto saxophone and piano, nine minutes, copyright Loveday 2005, SAMRO call A06364.",
+    "Bibliography documents 2008 SAMRO scholarship intermediate-round prescribed repertoire and 16 April 2005 premiere at Wits Atrium by Ceri Moelwyn-Hughes and Gregory Mollenz.",
+    "Gerber's bibliography explicitly describes professional performance and undergraduate relevance, with changing 4/4, 5/4, 3/4 and 2/4 meters. This is published analysis, not personal score inspection.",
+    "Matthew Lombard and Casey Dierlam programmed it at World Saxophone Congress Zagreb, 14 July 2018.",
+    "SAMRO currently shows the score being processed with an inquiry form; a downloadable score is not yet available there."
+  ],
+  "evidence": [
+    {
+      "claim": "2005; English directions; score being processed",
+      "url": "https://www.samroscores.org.za/work/displacement/",
+      "source_name": "SAMRO Scores",
+      "kind": "primary",
+      "access": "opened"
+    },
+    {
+      "claim": "9 minutes, A06364, premiere, scholarship use and analysis",
+      "url": "https://repository.up.ac.za/bitstreams/c85ea27d-b97a-4b47-bfa6-266368d61904/download",
+      "source_name": "Karlien Gerber, University of Pretoria bibliography",
+      "kind": "scholarship",
+      "access": "opened"
+    },
+    {
+      "claim": "2018 congress recital",
+      "url": "https://www.zagrebsaxcongress.com/index.php/participants/artists/item/359-matthew-lombard",
+      "source_name": "World Saxophone Congress",
+      "kind": "institutional",
+      "access": "search_index_only"
+    }
+  ],
+  "metadata": {
+    "composed": 2005,
+    "instruments": [
+      "Alto Saxophone",
+      "Piano"
+    ],
+    "library-score": [
+      "https://www.samroscores.org.za/work/displacement/"
+    ]
+  },
+  "gaps": [
+    "SAMRO download currently unavailable; inquiry route only.",
+    "No exact recording verified.",
+    "No original notation inspected."
+  ],
+  "searches": [
+    "Clare Loveday Displacement",
+    "\"Clare Loveday\" \"Displacement\" saxophone",
+    "Clare Loveday Displacement recording score"
+  ],
+  "proposed_corrections": []
+}

@@ -35,7 +35,7 @@ Perform three works in any order, within 45 minutes:
 - *[[William Albright - Sonata|Sonata]]* by [[William Albright]] (Peters).
 - *[[Fernande Decruck - Sonata in C sharp minor|Sonata]]* by [[Fernande Decruck]] (Billaudot).
 - *[[Edison Denisov - Sonata|Sonata]]* by [[Edison Denisov]] (Leduc).
-- *[[Jindřich Feld - Sonata|Sonata]]* by [[Jindřich Feld]] (Leduc).
+- *[[Jindřich Feld - Sonate pour saxophone alto et piano|Sonata]]* by [[Jindřich Feld]] (Leduc).
 - *[[Jeanine Rueff - Sonate|Sonata for Alto Saxophone Solo]]* by [[Jeanine Rueff]] (Leduc).
 - *[[Anđelko Klobučar - Sonata|Sonata]]* by [[Anđelko Klobučar]] (HDS).
 

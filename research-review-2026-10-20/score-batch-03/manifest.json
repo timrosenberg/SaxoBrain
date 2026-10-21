@@ -1,0 +1,1370 @@
+{
+  "date": "2026-10-20",
+  "packet": "Remaining Scores 03",
+  "batch_file": "content/research-review/Remaining Repertoire - Score Batch 03.md",
+  "scores": [
+    {
+      "run_number": 24,
+      "path": "content/works/Clare Loveday - Displacement.md",
+      "title": "Displacement",
+      "instrumentation": "Alto saxophone and piano",
+      "duration": "9 minutes, reported by Karlien Gerber, pp.74-75",
+      "demands": [
+        "Gerber reports changing 4/4, 5/4, 3/4 and 2/4 meters, with quarter-note tempos 63 and 72.",
+        "Gerber identifies short-note disjunct passages with wide leaps and a free passage after a fermata rest.",
+        "Gerber reports trills and grace-note ornaments, with dynamics extending from ppp to fff.",
+        "Gerber says the solo remains within the standard saxophone range. This has not been independently checked against notation."
+      ],
+      "scope": "No notation inspected. Gerber’s discussion on printed pp.74-75 supplies attributed evidence. SAMRO still displays a processing/request form rather than a public preview. Full range, ensemble interaction and edition details need the actual score.",
+      "score_url": "https://www.samroscores.org.za/work/displacement/",
+      "source_label": "SAMRO archive; Gerber annotated bibliography",
+      "recording_url": null,
+      "recording_description": "No exact public recording verified. The Zagreb congress program is performance documentation only.",
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "SAMRO identifies the work as 2005. Gerber’s entry also says 2005, while her bibliography lists a 2004 photocopy citation. Preserve this small date discrepancy pending a title-page check.",
+      "evidence": [
+        {
+          "url": "https://www.samroscores.org.za/work/displacement/",
+          "label": "SAMRO Scores",
+          "claim": "Exact work and composer; 2005; English directions; score processing/inquiry route",
+          "access": "opened live 2026-10-20"
+        },
+        {
+          "url": "https://repository.up.ac.za/bitstreams/c85ea27d-b97a-4b47-bfa6-266368d61904/download",
+          "label": "Karlien Gerber, University of Pretoria, annotated bibliography, pp.74-75",
+          "claim": "Alto/piano, 9 minutes, meters, leaps, ornaments, dynamics and standard-range statement; analysis is Gerber’s",
+          "access": "opened live 2026-10-20"
+        },
+        {
+          "url": "https://www.zagrebsaxcongress.com/images/sax_congress_zagreb_catalog.pdf",
+          "label": "World Saxophone Congress Zagreb program",
+          "claim": "Matthew Lombard and Casey Dierlam programmed Displacement on 14 July 2018",
+          "access": "live search index only 2026-10-20"
+        }
+      ],
+      "recording_links": [],
+      "batch_number": 1,
+      "review_id": 469,
+      "review_file": "content/research-review/Review 0469 - Clare Loveday - Displacement.md",
+      "evidence_type": "Source description",
+      "decision_focus": "Gerber reports changing 4/4, 5/4, 3/4 and 2/4 meters, with quarter-note tempos 63 and 72."
+    },
+    {
+      "run_number": 25,
+      "path": "content/works/Claude Pascal - Impromptu.md",
+      "title": "Impromptu",
+      "instrumentation": "Alto saxophone in E-flat and piano",
+      "duration": "5 minutes, Philharmonie repertoire guide p.68",
+      "demands": [
+        "Philharmonie guide: rapid 6/8 opening at dotted-quarter 152; slow central contrast.",
+        "The same guide highlights tongued octave work and side-key use at very quiet dynamics. These are attributed observations."
+      ],
+      "scope": "No notation inspected. Hal Leonard’s linked Closer Look JSON endpoint returned {\"closerLook\":null}. The Alenuty and Ficks listings supplied cover images only. Full solo range and detailed notation remain unverified. The complete Philharmonie guide was retrieved by the parent; its p.68 discussion supplies attributed evidence.",
+      "score_url": "https://www.halleonard.com/product/50562415/impromptu",
+      "source_label": "Durand / Hal Leonard HL50562415; Philharmonie repertoire guide",
+      "recording_url": null,
+      "recording_description": "No exact saxophone recording verified.",
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Durand DF13650 / DF1365000, ISMN 9790044063727. The library describes a 1953 publication with 15+5 pages. Current distributor gives 22 pages. These are bibliographic extents, not a verified duration or composition-date distinction.",
+      "evidence": [
+        {
+          "url": "https://www.halleonard.com/product/50562415/impromptu",
+          "label": "Hal Leonard / Editions Durand",
+          "claim": "Claude Pascal; alto saxophone; HL50562415; DF1365000; 22-page edition",
+          "access": "opened live 2026-10-20"
+        },
+        {
+          "url": "https://windmusic.org/index.php?id=7355&lvl=notice_display",
+          "label": "CDMC WindMusic library",
+          "claim": "1953 Durand edition, alto saxophone and piano, 15+5 pages",
+          "access": "live search index only 2026-10-20"
+        },
+        {
+          "url": "https://www.halleonard.com/viewcloserlook.action?itemId=50562415&name=impromptu&type=json",
+          "label": "Hal Leonard advertised Closer Look",
+          "claim": "No sample returned: closerLook null",
+          "access": "opened live 2026-10-20"
+        },
+        {
+          "url": "https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+          "label": "Philharmonie de Paris, 10 ans avec le saxophone, p.68",
+          "claim": "Five minutes; rapid 6/8 and slow middle; tongued octaves and side-key use at extreme pianissimo",
+          "access": "Full guide retrieved live by parent; local text inspected 2026-10-20"
+        }
+      ],
+      "recording_links": [],
+      "batch_number": 2,
+      "review_id": 470,
+      "review_file": "content/research-review/Review 0470 - Claude Pascal - Impromptu.md",
+      "evidence_type": "Source description",
+      "decision_focus": "Philharmonie guide: rapid 6/8 opening at dotted-quarter 152; slow central contrast."
+    },
+    {
+      "run_number": 28,
+      "path": "content/works/Colin Cowles - Legends of Avalon.md",
+      "title": "The Legends of Avalon",
+      "instrumentation": "Alto or tenor saxophone and piano; edition alternatives",
+      "duration": "Whole-suite duration unverified",
+      "demands": [
+        "Presto describes five movements depicting Arthurian scenes, with the composer’s foreword and performance notes.",
+        "London College of Music lists movements 1, 2 and 5 as a selection, so that listing does not establish requirements for the complete suite.",
+        "National College of Music lists King Arthur and Sir Lancelot separately. No movement’s register, rhythms or articulation have been inspected."
+      ],
+      "scope": "No notation inspected. Five-movement identity is confirmed. Movement-specific decisions require the actual parts. The complete movement order and duration remain unverified.",
+      "score_url": "https://www.prestomusic.com/sheet-music/products/7069394--colin-cowles-legends-of-avalon",
+      "source_label": "Ricordi LD00092900; Presto listing",
+      "recording_url": null,
+      "recording_description": "No exact recording or whole-suite playback verified.",
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Edition says alto or tenor. LCM also permits soprano in its examination context; this is not evidence of saxophone doubling. Ricordi RLD929 / LD00092900; ISMN 9790570023707. A 1995 publication is documented by the University of Rochester; later retail dates describe other manifestations.",
+      "evidence": [
+        {
+          "url": "https://www.prestomusic.com/sheet-music/products/7069394--colin-cowles-legends-of-avalon",
+          "label": "Presto Music, Ricordi edition",
+          "claim": "Five-movement alto-or-tenor/piano suite; foreword and notes; LD00092900, ISMN",
+          "access": "opened live 2026-10-20"
+        },
+        {
+          "url": "https://lcme.uwl.ac.uk/media/rzjfqioh/woodwind-diplomas-repertoire-list.pdf",
+          "label": "London College of Music woodwind diploma list",
+          "claim": "Specific selection of movements 1, 2 and 5, under multiple saxophones",
+          "access": "live search index only 2026-10-20"
+        },
+        {
+          "url": "https://ncm-london.co.uk/wp/wp-content/uploads/2020/04/syllabus-saxophone-tenor-soprano.pdf",
+          "label": "National College of Music, London syllabus",
+          "claim": "King Arthur and Sir Lancelot is selected individually",
+          "access": "live search index only 2026-10-20"
+        },
+        {
+          "url": "https://d.lib.rochester.edu/camelot/text/the-music-of-arthur-a-listing.html",
+          "label": "University of Rochester, Arthurian music bibliography",
+          "claim": "Ricordi London 1995 publication",
+          "access": "live search index only 2026-10-20"
+        }
+      ],
+      "recording_links": [],
+      "batch_number": 3,
+      "review_id": 471,
+      "review_file": "content/research-review/Review 0471 - Colin Cowles - Legends of Avalon.md",
+      "evidence_type": "Source description",
+      "decision_focus": "Presto describes five movements depicting Arthurian scenes, with the composer’s foreword and performance notes."
+    },
+    {
+      "run_number": 30,
+      "path": "content/works/Costin Miereanu - Concerto pour saxophone et orchestre.md",
+      "title": "Concerto pour saxophone et orchestre",
+      "instrumentation": "Soprano saxophone and orchestra",
+      "duration": "23 minutes, Daniel Kientzy’s repertoire catalog",
+      "demands": [
+        "Kientzy specifies soprano saxophone as the concerto’s solo instrument, without the multiple-saxophone changes found in his adjacent Doppelkammerkonzert entry.",
+        "Critic Despina Petecel-Theodoru describes three large parts divided into twelve sections.",
+        "Her account describes upward and downward octave leaps and alternation between forceful activity and contemplative material. These are review descriptions, not verified score instructions."
+      ],
+      "scope": "No notation inspected. Solo range, technical notation, detailed sectional sequence and possible extended techniques require a score. The performer’s repertoire page is an identity/source route, not a score download.",
+      "score_url": "https://kientzy.pro/en/k-2",
+      "source_label": "Daniel Kientzy, performer repertoire; Despina Petecel-Theodoru review",
+      "recording_url": "https://kientzy.pro/en/discography",
+      "recording_description": "Performer discography documents the exact concerto on 7 Saxophones, 3 Concertos, Nova Musica NMCD5123 (2009), with Romanian National Radio Orchestra and Horia Andreescu. Discographic listing only; no direct playback verified.",
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Kientzy dates the work 2007; the contemporary 2010 review says 2006. The catalog’s existing date should remain unresolved until a manuscript/title-page check. Do not substitute the different Miereanu Doppelkammerkonzert video.",
+      "evidence": [
+        {
+          "url": "https://kientzy.pro/en/k-2",
+          "label": "Daniel Kientzy, concertante repertoire",
+          "claim": "Soprano saxophone, 2007, 23 minutes; orchestral scoring; work written for and recorded by Kientzy",
+          "access": "opened live 2026-10-20"
+        },
+        {
+          "url": "https://kientzy.pro/en/discography",
+          "label": "Daniel Kientzy, discography",
+          "claim": "NMCD5123, 2009, exact concerto and orchestra/conductor",
+          "access": "opened live 2026-10-20"
+        },
+        {
+          "url": "https://no14plusminus.wordpress.com/2010/06/10/despina-petecel-theodoru/",
+          "label": "Despina Petecel-Theodoru, 2010 festival/recording review",
+          "claim": "2006 date; three parts/twelve sections; octave movement and changing character",
+          "access": "opened live 2026-10-20"
+        },
+        {
+          "url": "https://music.amazon.com.au/artists/B001QU25I8/costin-miereanu",
+          "label": "Amazon Music artist listing",
+          "claim": "Exact concerto is indexed under Miereanu and Kientzy",
+          "access": "live search index only 2026-10-20; direct page did not expose track links"
+        }
+      ],
+      "recording_links": [
+        {
+          "url": "https://kientzy.pro/en/discography",
+          "label": "Performer discography documents the exact concerto on 7 Saxophones, 3 Concertos, Nova Musica NMCD5123 (2009), with Romanian National Radio Orchestra and Horia Andreescu. Discographic listing only; no direct playback verified.",
+          "scope": "album/discography reference, as described"
+        },
+        {
+          "url": "https://music.amazon.com.au/artists/B001QU25I8/costin-miereanu",
+          "label": "Amazon Music artist page: Costin Miereanu",
+          "scope": "Artist page search index lists the exact Concerto pour saxophone et orchestre by Miereanu and Kientzy. Direct track URL and availability unresolved; not presented as a verified full-work player."
+        }
+      ],
+      "batch_number": 4,
+      "review_id": 472,
+      "review_file": "content/research-review/Review 0472 - Costin Miereanu - Concerto pour saxophone et orchestre.md",
+      "evidence_type": "Recording + sources",
+      "decision_focus": "A published review describes octave leaps and alternating forceful and contemplative sections; Kientzy lists a 23-minute soprano concerto."
+    },
+    {
+      "run_number": 36,
+      "path": "content/works/Dietrich Erdmann - Konzert.md",
+      "title": "Konzert für Saxophon und Orchester",
+      "instrumentation": "Soprano and alto saxophone, one player; orchestra or composer’s piano reduction",
+      "duration": "Publisher: ca.24 minutes; Bensmann recording listing: 22:31",
+      "demands": [
+        "Ries & Erler explicitly lists soprano/alto for one soloist, establishing a doubling requirement.",
+        "Nico Schüler describes four movements: Sostenuto/Vivace, Allegretto scherzando, Adagio molto espressivo, Allegro assai.",
+        "Schüler reports special sound effects in solo cadenzas, including three-note chords at the close of the first-movement cadenza.",
+        "Schüler identifies changing short tonal centers, contrasting expressive and aggressive episodes, and irregular rhythms. This remains attributed analysis."
+      ],
+      "scope": "No notation inspected. Publisher catalog p.64 and scholarly analysis p.102 were retrieved. The latter was visually inspected as prose only. Change locations, fingerings, exact range and practical piano-reduction balance remain unverified.",
+      "score_url": "https://www.rieserler.de/wp-content/uploads/2019/05/RE_Orchesterkatalog2019_Web.pdf",
+      "source_label": "Ries & Erler orchestral catalog 81012; Nico Schüler p.102",
+      "recording_url": "https://www.prestomusic.com/classical/products/9814928--dietrich-erdmann-musik-fur-saxophon",
+      "recording_description": "Album page with exact four-track concerto listing, Detlef Bensmann and Thüringen Philharmonie Suhl, Thorofon CTH2269 (1996). Page offers previews/streaming; no audio audition claimed.",
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "This is the 1989 full concerto. Keep it separate from Erdmann’s 1988 one-movement Konzertstück for alto and small orchestra. Piano reduction is Ries & Erler 24006, edited Detlef Bensmann. A 2002 retail date is edition metadata.",
+      "evidence": [
+        {
+          "url": "https://www.rieserler.de/wp-content/uploads/2019/05/RE_Orchesterkatalog2019_Web.pdf",
+          "label": "Ries & Erler orchestral catalog, p.64",
+          "claim": "81012, ca.24 minutes, soprano/alto one player",
+          "access": "opened live 2026-10-20"
+        },
+        {
+          "url": "https://zurnalai.lmta.lt/wp-content/uploads/2023/01/MKP_III_Nico-Schuler.pdf",
+          "label": "Nico Schüler, Modernism in Color, p.102",
+          "claim": "Four movements, doubling, cadenzas, three-note chords, tonal and rhythmic observations; prose visually inspected",
+          "access": "opened live 2026-10-20"
+        },
+        {
+          "url": "https://www.prestomusic.com/classical/products/9814928--dietrich-erdmann-musik-fur-saxophon",
+          "label": "Presto Music, Thorofon CTH2269",
+          "claim": "Exact Bensmann concerto, four tracks, duration 22:31",
+          "access": "live search index only 2026-10-20"
+        },
+        {
+          "url": "https://www.kulturkaufhaus.de/de/detail/ISBN-9790013240067/Erdmann-Dietrich/Konzert",
+          "label": "Dussmann retailer",
+          "claim": "Composer piano reduction, Bensmann editor, Ries & Erler 24006",
+          "access": "live search index only 2026-10-20"
+        },
+        {
+          "url": "https://music.amazon.co.jp/albums/B004CJR7DS",
+          "label": "Amazon Music album listing",
+          "claim": "Bensmann/Thüringen Philharmonie Suhl full four-movement concerto, tracks 1-4",
+          "access": "live search index only 2026-10-20"
+        }
+      ],
+      "recording_links": [
+        {
+          "url": "https://www.prestomusic.com/classical/products/9814928--dietrich-erdmann-musik-fur-saxophon",
+          "label": "Album page with exact four-track concerto listing, Detlef Bensmann and Thüringen Philharmonie Suhl, Thorofon CTH2269 (1996). Page offers previews/streaming; no audio audition claimed.",
+          "scope": "album/discography reference, as described"
+        },
+        {
+          "url": "https://music.amazon.co.jp/albums/B004CJR7DS",
+          "label": "Amazon Music: Dietrich Erdmann, Musik für Saxophon, Detlef Bensmann",
+          "scope": "Album stream listing; concerto complete as tracks 1-4 (8:31, 3:34, 6:02, 4:24). Subscription/region access may apply. No audition."
+        }
+      ],
+      "batch_number": 5,
+      "review_id": 473,
+      "review_file": "content/research-review/Review 0473 - Dietrich Erdmann - Konzert.md",
+      "evidence_type": "Recording + sources",
+      "decision_focus": "Ries & Erler explicitly lists soprano/alto for one soloist, establishing a doubling requirement."
+    },
+    {
+      "run_number": 45,
+      "path": "content/works/Frederik van Rossum - Pathetic Story.md",
+      "title": "Pathetic Story, op.61",
+      "instrumentation": "E-flat alto saxophone, string orchestra, harp, piano and percussion; piano reduction documented",
+      "duration": "24 minutes, Gulabin orchestral catalog",
+      "demands": [
+        "The 2002 competition archive specifies an alto concerto with strings, harp, piano and percussion, establishing the orchestral coordination context.",
+        "The competition selected the complete commissioned concerto for its final. This establishes performance context, with no inference about specific techniques.",
+        "Solo range, rhythm, articulation and extended techniques remain unknown because no authorized notation preview was located."
+      ],
+      "scope": "No notation inspected. The WorldCat full-score record, competition history and recording catalog identify the work. The piano reduction and full orchestration must remain distinct in review.",
+      "score_url": "https://search.worldcat.org/title/Pathetic-story-%3A-concerto-for-alto-saxophone-in-E-string-orchestra-harp-piano-and-percussion-opus-61/oclc/62139910",
+      "source_label": "Millstone 2002 WorldCat edition; Dinant competition archive",
+      "recording_url": "https://pmb.artsaucarre.be/opac_css/index.php?id=2553&lvl=publisher_see",
+      "recording_description": "ARTS² library confirms Hiroshi Hara’s exact Pathetic Story on CD1 of the International Adolphe Sax Association 2013 anthology (3 CDs + DVD). Library/album record only; no accessible playback verified.",
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Catalog’s Any Saxophone scoring is too broad for the located alto concerto. WorldCat lists Millstone ©2002, while the catalog’s Cebedem is also named in the 2006 competition archive as a distribution contact. Treat the publisher question as unresolved edition/distribution history, without replacing either value.",
+      "evidence": [
+        {
+          "url": "https://search.worldcat.org/title/Pathetic-story-%3A-concerto-for-alto-saxophone-in-E-string-orchestra-harp-piano-and-percussion-opus-61/oclc/62139910",
+          "label": "WorldCat OCLC 62139910",
+          "claim": "Op.61, alto and full orchestral scoring, Millstone ©2002",
+          "access": "live search index only 2026-10-20"
+        },
+        {
+          "url": "https://dinant2002.adolphesax.com/Html-esp/datosgenerales.htm",
+          "label": "Dinant 2002 competition archive",
+          "claim": "Final commissioned concerto; alto, strings, harp, piano and percussion",
+          "access": "live search index only 2026-10-20; direct TLS certificate error"
+        },
+        {
+          "url": "https://gulabin.com/composers/pdf/FREDERIK%20VAN%20ROSSUM.pdf",
+          "label": "Gulabin orchestral catalog",
+          "claim": "2000-2001, op.61, 24 minutes",
+          "access": "opened live 2026-10-20"
+        },
+        {
+          "url": "https://pmb.artsaucarre.be/opac_css/index.php?id=2553&lvl=publisher_see",
+          "label": "ARTS² music library",
+          "claim": "Exact Hara recording in 2013 anthology CD1",
+          "access": "opened live 2026-10-20"
+        },
+        {
+          "url": "https://dinant2006.adolphesax.com/html/reglamento.htm",
+          "label": "Dinant 2006 competition repertoire archive",
+          "claim": "Lists Pathetic Story with Cebedem contact",
+          "access": "live search index only 2026-10-20"
+        }
+      ],
+      "recording_links": [
+        {
+          "url": "https://pmb.artsaucarre.be/opac_css/index.php?id=2553&lvl=publisher_see",
+          "label": "ARTS² library confirms Hiroshi Hara’s exact Pathetic Story on CD1 of the International Adolphe Sax Association 2013 anthology (3 CDs + DVD). Library/album record only; no accessible playback verified.",
+          "scope": "album/discography reference, as described"
+        }
+      ],
+      "batch_number": 6,
+      "review_id": 474,
+      "review_file": "content/research-review/Review 0474 - Frederik van Rossum - Pathetic Story.md",
+      "evidence_type": "Recording + sources",
+      "decision_focus": "The 2002 competition archive specifies an alto concerto with strings, harp, piano and percussion, establishing the orchestral coordination context."
+    },
+    {
+      "run_number": 46,
+      "path": "content/works/Fritz Jakma - Cavatine.md",
+      "title": "Cavatine | Frits Jakma",
+      "instrumentation": "Soprano or tenor saxophone and piano",
+      "duration": "Unknown",
+      "demands": [
+        "HeBu labels its soprano/tenor edition 301028 as difficulty 2+ on its own scale; no range, rhythm, articulation or tempo evidence was obtained.",
+        "Tierolff specifies a single B-flat soloist with piano; saxophones are alternatives to the listed brass instruments (publisher catalog)."
+      ],
+      "scope": "Identity evidence only. No notation preview retrieved. No score-based assessment of lyrical or technical demands is possible.",
+      "score_url": "https://tierolff.nl/fr/partitions-pour-solo-duo-trio-ensemble/saxophone/solo-soprano-sax.html",
+      "source_label": "Tierolff publisher catalog; live search index",
+      "recording_url": null,
+      "recording_description": "No exact recording verified.",
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Catalog composer filename says Fritz; publisher uses Frits. Do not mistake the nearby Rossini Cavatine entries for Jakma. The retailer grade does not establish college suitability.",
+      "evidence": [
+        {
+          "url": "https://tierolff.nl/fr/partitions-pour-solo-duo-trio-ensemble/saxophone/solo-soprano-sax.html",
+          "label": "Tierolff",
+          "claim": "Exact composer spelling, soprano/tenor alternatives and piano",
+          "access": "live search index; direct page blocked by bot verification"
+        },
+        {
+          "url": "https://www.hebu-music.com/en/musician/frits-jakma.14102/?layout=line&page=1",
+          "label": "HeBu",
+          "claim": "Soprano/tenor edition 301028; retailer difficulty 2+",
+          "access": "live search index; direct HTML did not expose item"
+        }
+      ],
+      "recording_links": [],
+      "batch_number": 7,
+      "review_id": 475,
+      "review_file": "content/research-review/Review 0475 - Fritz Jakma - Cavatine.md",
+      "evidence_type": "Source description",
+      "decision_focus": "HeBu labels its soprano/tenor edition 301028 as difficulty 2+ on its own scale; no range, rhythm, articulation or tempo evidence was obtained."
+    },
+    {
+      "run_number": 47,
+      "path": "content/works/Fritz Jakma - Second Concertino.md",
+      "title": "Concertino (II) / Second Concertino",
+      "instrumentation": "Soprano or tenor saxophone and piano; oboe or clarinet alternatives",
+      "duration": "Unverified",
+      "demands": [
+        "Tierolff labels the edition Grade 4 on its own publisher scale. This is external context, not a SaxoBrain level.",
+        "Tierolff specifies solo instrument with piano, with soprano and tenor as alternatives rather than a doubling instruction.",
+        "Technical demands remain unverified: publisher advertises sample images and a sample score, but direct retrieval presented bot verification."
+      ],
+      "scope": "No notation inspected. Publisher search indexing supplies the identity. Duration, movement structure, saxophone register and articulation require the actual saxophone part. Do not analyze the separately indexed oboe part or an unattributed Concertino II scan.",
+      "score_url": "https://tierolff.nl/en/concertino-ii-2049.html",
+      "source_label": "Tierolff product 2049",
+      "recording_url": null,
+      "recording_description": "No exact public recording verified.",
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Publisher spells the composer Frits Jakma; catalog file uses Fritz. Publisher title is Concertino (II), distinct from Concertino (I). The saxophone-specific part number is unresolved. No composer-name or catalog metadata edits made.",
+      "evidence": [
+        {
+          "url": "https://tierolff.nl/en/concertino-ii-2049.html",
+          "label": "Tierolff publisher",
+          "claim": "Concertino (II), Frits Jakma, product2049, soprano/tenor/oboe/clarinet plus piano; advertised sample",
+          "access": "live search index only 2026-10-20; direct bot-verification page"
+        },
+        {
+          "url": "https://tierolff.nl/en/sheetmusic-for-solo-duo-trio-quartet-ensemble/music-for-clarinets/solo-clarinet.html",
+          "label": "Tierolff publisher clarinet catalog",
+          "claim": "Concertino (I) is a separate clarinet/piano item",
+          "access": "live search index only 2026-10-20"
+        }
+      ],
+      "recording_links": [],
+      "batch_number": 8,
+      "review_id": 476,
+      "review_file": "content/research-review/Review 0476 - Fritz Jakma - Second Concertino.md",
+      "evidence_type": "Source description",
+      "decision_focus": "Tierolff labels the edition Grade 4 on its own publisher scale. This is external context, not a SaxoBrain level."
+    },
+    {
+      "run_number": 52,
+      "path": "content/works/Geoff Hannan - Bubblegum.md",
+      "title": "Bubblegum | Geoff Hannan",
+      "instrumentation": "Alto saxophone, one percussionist and piano; saxophonist and pianist also use whistles and balloons",
+      "duration": "About 11 minutes (composer and Donemus)",
+      "demands": [
+        "The opening score page marks quarter note = 144, Molto risoluto e ritmico; frequent 3/8, 2/4, 3/4 and 4/4 changes divide isolated accented saxophone attacks and rests.",
+        "Composer-hosted score page 24 shows chromatic six-note and nine-note runs, tied/slurred across phrases, among changing meters and short rests.",
+        "The instrumentation page assigns the saxophonist three balloons, raspberry tube, siren whistle and referee whistle; a jazz mouthpiece is preferred.",
+        "Performance notes require maintaining the character of recurring sampled objects and playing straight through audience reaction; score is in C."
+      ],
+      "scope": "Visually inspected Donemus preview title, copyright, instrumentation/performance notes and opening page, plus composer-hosted score page 24. Preview covers selected pages only; total range and complete technique inventory remain unassessed.",
+      "score_url": "https://webshop.donemus.com/action/front/sheetmusic?preview=1&numdon=20550",
+      "source_label": "Donemus D20550 public watermarked preview; composer image",
+      "recording_url": "https://www.youtube.com/watch?v=PmYmUJ4sUPo",
+      "recording_description": "Composer identifies this embedded video as University of Leeds students, 5 May 2023. Exact work and scoring verified; audio not auditioned.",
+      "image_path": "/tmp/saxobrain-score03/b/hannan-preview-04.png",
+      "notation_inspected": true,
+      "identity_caveat": "Concert-pitch score requires care when interpreting written saxophone range. Object doubling is essential to this chamber work.",
+      "evidence": [
+        {
+          "url": "https://webshop.donemus.com/action/front/sheetmusic/20550/Bubblegum",
+          "label": "Donemus",
+          "claim": "D20550, 2001, three players, 11 minutes and public PDF preview",
+          "access": "opened 2026-10-20"
+        },
+        {
+          "url": "https://webshop.donemus.com/action/front/sheetmusic?preview=1&numdon=20550",
+          "label": "Donemus public preview",
+          "claim": "Visual instrumentation, performance directions, tempo, meters and opening notation",
+          "access": "opened 2026-10-20"
+        },
+        {
+          "url": "https://geoffhannan.com/concert",
+          "label": "Geoff Hannan, composer",
+          "claim": "Work metadata, public score image and exact Leeds YouTube embed",
+          "access": "opened 2026-10-20"
+        }
+      ],
+      "recording_links": [
+        {
+          "url": "https://www.youtube.com/watch?v=PmYmUJ4sUPo",
+          "label": "University of Leeds students, composer-authorized embed",
+          "scope": "Full-work performance identified by composer; not auditioned"
+        },
+        {
+          "url": "https://geoffhannan.com/concert",
+          "label": "Composer work page with video and audio player",
+          "scope": "Exact-work players; audio not downloaded or auditioned"
+        }
+      ],
+      "batch_number": 9,
+      "review_id": 477,
+      "review_file": "content/research-review/Review 0477 - Geoff Hannan - Bubblegum.md",
+      "evidence_type": "Notation",
+      "image_file": "content/research-review/score-excerpts-2026-10-20-batch-03/run052-notation.png",
+      "decision_focus": "The opening score page marks quarter note = 144, Molto risoluto e ritmico; frequent 3/8, 2/4, 3/4 and 4/4 changes divide isolated accented saxophone attacks and rests."
+    },
+    {
+      "run_number": 55,
+      "path": "content/works/George Gershwin - Andante and Finale from Rhapsody in Blue.md",
+      "title": "Andante and Finale from Rhapsody in Blue | George Gershwin / Walter Beeler",
+      "instrumentation": "One B-flat, E-flat or bass-clef solo instrument and piano; B-flat part accommodates soprano saxophone",
+      "duration": "Unknown for this excerpt arrangement",
+      "demands": [
+        "Opening Allegro con brio uses accented triplet repeated notes followed by a chromatic eighth-note descent and molto ritardando e diminuendo.",
+        "Andantino moderato con espressione begins with stepwise quarter notes and whole notes tied over barlines, requiring sustained tone and planned breathing.",
+        "The soloist must coordinate rubato, a fermata, tempo transition and long held notes over a moving chromatic piano accompaniment."
+      ],
+      "scope": "Visual inspection limited to the retailer public preview, piano score page 1 with solo line. This supports expressive and ensemble observations only; the finale and transposed B-flat part were unavailable.",
+      "score_url": "https://www.stantons.com/media/34619/andante-and-finale-from-rhapsody-in-blue.pdf",
+      "source_label": "Stanton's public TS0008 preview",
+      "recording_url": null,
+      "recording_description": "No exact recording verified.",
+      "image_path": "/tmp/saxobrain-score03/b/gershwin-1.png",
+      "notation_inspected": true,
+      "identity_caveat": "Beeler transcription, copyright 1924/1946 on inspected page. This is an excerpt arrangement. The printed solo line above piano is a score reference, so its displayed pitches do not establish soprano written range. Its slow lyrical opening does not establish elementary difficulty for the complete arrangement.",
+      "evidence": [
+        {
+          "url": "https://www.stantons.com/media/34619/andante-and-finale-from-rhapsody-in-blue.pdf",
+          "label": "Stanton's / Warner Bros preview",
+          "claim": "Title, Beeler credit, flexible scoring, 1924/1946 copyright and observed page-1 notation",
+          "access": "opened 2026-10-20"
+        },
+        {
+          "url": "https://www.juneemersonwindmusic.com/RHAPSODY-IN-BLUE-Andante-and-Finale.html",
+          "label": "June Emerson Wind Music",
+          "claim": "TS0008; B-flat/E-flat/bass-clef parts; 1946 issue and ISBN 9780769275468",
+          "access": "live web page/index"
+        },
+        {
+          "url": "https://www.stantons.com/sheet-music/title/andante-and-finale-from-rhapsody-in-blue/TS0008/",
+          "label": "Stanton's",
+          "claim": "Same TS0008 product and public one-page preview; listed out of print",
+          "access": "opened 2026-10-20"
+        }
+      ],
+      "recording_links": [],
+      "batch_number": 10,
+      "review_id": 478,
+      "review_file": "content/research-review/Review 0478 - George Gershwin - Andante and Finale from Rhapsody in Blue.md",
+      "evidence_type": "Notation",
+      "image_file": "content/research-review/score-excerpts-2026-10-20-batch-03/run055-notation.png",
+      "decision_focus": "Opening Allegro con brio uses accented triplet repeated notes followed by a chromatic eighth-note descent and molto ritardando e diminuendo."
+    },
+    {
+      "run_number": 56,
+      "path": "content/works/Georges Sporck - Meditation.md",
+      "title": "Méditation, op. 37 | Georges Sporck",
+      "instrumentation": "B-flat saxophone or clarinet and piano, AF0021-A; separate E-flat saxophone and piano edition AF0021-C",
+      "duration": "Unknown",
+      "demands": [
+        "Publisher identifies solo saxophone with piano, with separate B-flat and E-flat editions.",
+        "UMP catalog names soprano, alto or tenor alternatives; no actual tempo, range, phrase lengths or articulation evidence was retrieved."
+      ],
+      "scope": "Identity evidence only. Billaudot pages retrieved, but displayed a placeholder image and no score PDF. No notation analysis or lyrical difficulty claim is supported.",
+      "score_url": "https://www.billaudot.com/meditation-op-37-1.html",
+      "source_label": "Éditions Billaudot AF0021-A and AF0021-C",
+      "recording_url": null,
+      "recording_description": "No exact recording verified.",
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Use the B-flat edition for soprano. Doisy's So French album pairs Sporck's Légende with Massenet's Méditation de Thaïs; it does not verify this work.",
+      "evidence": [
+        {
+          "url": "https://www.billaudot.com/meditation-op-37-1.html",
+          "label": "Éditions Billaudot",
+          "claim": "Méditation op. 37, AF0021-A; clarinet/B-flat saxophone and piano; no preview available in retrieved product data",
+          "access": "opened 2026-10-20"
+        },
+        {
+          "url": "https://www.billaudot.com/af0021-c-6.html",
+          "label": "Éditions Billaudot",
+          "claim": "Separate E-flat edition AF0021-C",
+          "access": "opened 2026-10-20"
+        },
+        {
+          "url": "https://johanvanderlinden.com/saxophone_catalogue_2010.pdf",
+          "label": "United Music Publishers saxophone catalog",
+          "claim": "Soprano/alto/tenor alternatives with piano",
+          "access": "live search index"
+        }
+      ],
+      "recording_links": [],
+      "batch_number": 11,
+      "review_id": 479,
+      "review_file": "content/research-review/Review 0479 - Georges Sporck - Meditation.md",
+      "evidence_type": "Identity / recording reference",
+      "decision_focus": "No notation or exact recording verified. Separate B-flat and E-flat piano editions identified."
+    },
+    {
+      "run_number": 58,
+      "path": "content/works/Germaine Tailleferre - Trois Dances.md",
+      "title": "Trois danses de La Nouvelle Cythère | Germaine Tailleferre",
+      "instrumentation": "Alto saxophone and piano; separate B-flat clarinet/soprano saxophone and piano version",
+      "duration": "Saxophone performance duration unknown",
+      "demands": [
+        "The Academy concert program specifies contrasting slow Pavane, very slow Nocturne and very fast Galop; tempo contrast is attributed to that program.",
+        "Publisher offers one solo wind player and piano in alternative alto and soprano/clarinet editions; simultaneous alto/soprano doubling is not established.",
+        "No notation was retrieved, so range, fast-note patterns, articulation and ensemble detail remain unknown."
+      ],
+      "scope": "Edition and program evidence. Publisher primary page refreshed successfully through HTTP. No usable saxophone notation preview; linked cover image returned 404. Clarinet recording supplied strictly as an alternate-instrument reference.",
+      "score_url": "http://www.classicalmusicnow.com/nouvellecythere.htm",
+      "source_label": "Musik Fabrik dedicated La Nouvelle Cythère publisher page",
+      "recording_url": "https://classical.music.apple.com/br/album/1840940186",
+      "recording_description": "Anastasia Schmidlin, clarinet, and Denis Zhdanov, piano, Prospero Classical 2025: three movements totaling 6:38. This is a clarinet reference recording, not verification of the saxophone edition.",
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Catalog title Trois Dances should be checked against Trois danses de La Nouvelle Cythère. Current publisher page labels the first excerpt Sarabande, while the Elkin catalog and saxophone recital program say Pavane. Edition or publisher-text discrepancy remains unresolved. Do not transfer the clarinet track duration to the saxophone version.",
+      "evidence": [
+        {
+          "url": "http://www.classicalmusicnow.com/nouvellecythere.htm",
+          "label": "Musik Fabrik",
+          "claim": "Primary scoring alternatives; first movement called Sarabande; no usable sample image",
+          "access": "opened 2026-10-20"
+        },
+        {
+          "url": "https://www.elkinmusic.com/public/catalog.pdf",
+          "label": "Elkin Music distributor catalog",
+          "claim": "MFGT015C alto/piano; Pavane, Nocturne, Galop",
+          "access": "live search index"
+        },
+        {
+          "url": "https://www.realacademiabellasartessanfernando.com/actividades/conciertos/women-composerselisa-urrestarazu-y-cornelia-lenzin/",
+          "label": "Royal Academy of Fine Arts of San Fernando concert program",
+          "claim": "Urrestarazu/Lenzin saxophone-piano program; Pavane assez lent, Nocturne très lent, Galop très vite",
+          "access": "opened 2026-10-20"
+        },
+        {
+          "url": "https://classical.music.apple.com/br/album/1840940186",
+          "label": "Apple Music Classical / Prospero metadata",
+          "claim": "Clarinet-piano recording, performers, movement lengths",
+          "access": "live search index"
+        }
+      ],
+      "recording_links": [
+        {
+          "url": "https://classical.music.apple.com/br/album/1840940186",
+          "label": "Schmidlin / Zhdanov, Prospero Classical",
+          "scope": "Complete three-movement clarinet arrangement reference, 6:38; saxophone version not confirmed"
+        }
+      ],
+      "batch_number": 12,
+      "review_id": 480,
+      "review_file": "content/research-review/Review 0480 - Germaine Tailleferre - Trois Dances.md",
+      "evidence_type": "Recording + sources",
+      "decision_focus": "The Academy concert program specifies contrasting slow Pavane, very slow Nocturne and very fast Galop; tempo contrast is attributed to that program."
+    },
+    {
+      "run_number": 60,
+      "path": "content/works/Harry Gee - Essay for Saxophone.md",
+      "title": "Essay for Saxophone | Harry Gee",
+      "instrumentation": "Alto saxophone and piano (University of Alberta bibliography); Dorn 1223",
+      "duration": "Unknown",
+      "demands": [
+        "Dorn lists Essay for Saxophone, catalog 1223, in its saxophone-and-piano section.",
+        "Actual notation was unavailable; range, rhythm, movement structure and extended techniques remain unknown."
+      ],
+      "scope": "Identity evidence only. Refreshed publisher catalog confirms product identity, but it is an ordering catalog rather than a score preview. No score-based demands or exact recording could be verified.",
+      "score_url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+      "source_label": "Dorn Publications April 2025 catalog",
+      "recording_url": null,
+      "recording_description": "No exact recording verified.",
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Publisher catalog abbreviates composer as Gee. Po-Yuan Ku bibliography identifies Harry Gee and alto/piano. No composition year should be borrowed from adjacent bibliography rows.",
+      "evidence": [
+        {
+          "url": "https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf",
+          "label": "Dorn Publications via Groth Music",
+          "claim": "Catalog 1223 Essay for Saxophone in saxophone-and-piano section; downloaded and text-checked",
+          "access": "opened 2026-10-20"
+        },
+        {
+          "url": "https://www.collectionscanada.gc.ca/obj/thesescanada/vol2/002/NR55841.PDF",
+          "label": "Po-Yuan Ku, University of Alberta doctoral bibliography",
+          "claim": "Harry Gee; Essay for Saxophone and Piano; alto/piano",
+          "access": "live search index; earlier visual row verification recorded in catalog research"
+        }
+      ],
+      "recording_links": [],
+      "batch_number": 13,
+      "review_id": 481,
+      "review_file": "content/research-review/Review 0481 - Harry Gee - Essay for Saxophone.md",
+      "evidence_type": "Identity / recording reference",
+      "decision_focus": "No notation or exact recording verified; range, rhythm and technical demands remain unknown."
+    },
+    {
+      "run_number": 65,
+      "path": "content/works/Isao Matsushita - Atoll II.md",
+      "title": "Atoll II | Isao Matsushita",
+      "instrumentation": "Alto saxophone and piano",
+      "duration": "About 10 minutes (composer); recording metadata 9:18",
+      "demands": [
+        "Composer program note on EDA describes five sections built from repeated notes and interacting waves of chords; this is attributed description.",
+        "The official work list confirms a saxophone-piano duo commissioned by Detlef Bensmann; coordination details, range and extended techniques require an actual score."
+      ],
+      "scope": "Program-note evidence. Composer and label sources refreshed; no authorized notation preview found. No score-based technical observations are claimed.",
+      "score_url": "https://isao-matsushita.jp/compositions.php",
+      "source_label": "Isao Matsushita official work list; no score preview",
+      "recording_url": "https://www.qobuz.com/gb-en/album/music-for-saxophone-from-berlin-vol-3-1982-2004-frank-lunte-and-tatjana-blome/vj1bls52ka4gi",
+      "recording_description": "EDA29, Music for Saxophone from Berlin volume 3, Frank Lunte and Tatjana Blome, track 1. Qobuz album has the exact work; EDA offers a short Atoll clip. Metadata checked, audio not auditioned.",
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "1982 from official composer list. Atoll I is a separate saxophone-quartet work. EDA player is a sample excerpt; Qobuz is an album landing page, not a direct standalone track URL.",
+      "evidence": [
+        {
+          "url": "https://isao-matsushita.jp/compositions.php",
+          "label": "Isao Matsushita official work list",
+          "claim": "1982, alto/piano, about 10 minutes, Bensmann commission, Ongaku no Tomo Sha",
+          "access": "opened 2026-10-20"
+        },
+        {
+          "url": "https://www.eda-records.com/177-0-CD-im-Detail.html?cd_id=42",
+          "label": "EDA Records EDA29",
+          "claim": "Exact track and performers; composer note with five-part/repeated-note/chord-wave description; sample clip link",
+          "access": "opened 2026-10-20"
+        },
+        {
+          "url": "https://www.qobuz.com/gb-en/album/music-for-saxophone-from-berlin-vol-3-1982-2004-frank-lunte-and-tatjana-blome/vj1bls52ka4gi",
+          "label": "Qobuz label metadata",
+          "claim": "Exact Atoll II track on Lunte/Blome album and recording duration",
+          "access": "live search index"
+        }
+      ],
+      "recording_links": [
+        {
+          "url": "https://www.qobuz.com/gb-en/album/music-for-saxophone-from-berlin-vol-3-1982-2004-frank-lunte-and-tatjana-blome/vj1bls52ka4gi",
+          "label": "Frank Lunte / Tatjana Blome, EDA29",
+          "scope": "Album page containing exact complete work, track 1; audio not auditioned"
+        },
+        {
+          "url": "https://www.eda-records.com/177-0-CD-im-Detail.html?cd_id=42",
+          "label": "EDA29 official album page",
+          "scope": "Exact track metadata and short listening excerpt"
+        },
+        {
+          "url": "https://www.eda-records.com/files/01_atoll_clip.mp3",
+          "label": "EDA Atoll II sample",
+          "scope": "Short label-authorized excerpt only; link obtained from label page; audio not downloaded"
+        }
+      ],
+      "batch_number": 14,
+      "review_id": 482,
+      "review_file": "content/research-review/Review 0482 - Isao Matsushita - Atoll II.md",
+      "evidence_type": "Recording + sources",
+      "decision_focus": "Composer program note on EDA describes five sections built from repeated notes and interacting waves of chords; this is attributed description."
+    },
+    {
+      "run_number": 66,
+      "path": "content/works/Jacqueline Fontyn - Dialogues.md",
+      "title": "Dialogues | Jacqueline Fontyn",
+      "instrumentation": "Alto saxophone and piano",
+      "duration": "13 minutes (composer official work list)",
+      "demands": [
+        "The Philharmonie repertoire guide lists an Introduction followed by Grazioso, Maestoso, Prestissimo, Cantabile and Sereno; movement/character contrast is attributed to the guide.",
+        "The official composer list confirms a 13-minute saxophone-piano duo; exact range, technical patterns and extended techniques remain unknown without notation."
+      ],
+      "scope": "Form and identity evidence. Official composer work list refreshed, with Antwerp edition corroboration. No actual notation preview or publicly playable exact recording found.",
+      "score_url": "https://www.jacquelinefontyn.be/oeuvre2.php",
+      "source_label": "Jacqueline Fontyn official work list; Choudens AC20478 via repertoire guide",
+      "recording_url": null,
+      "recording_description": "No exact recording verified.",
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "1969 composition, Choudens 1971 edition according to Antwerp. Introduction plus five numbered sections should not be silently flattened to five total sections. Performer reference to a Czech Radio recording establishes a recording lead, not public stream availability.",
+      "evidence": [
+        {
+          "url": "https://www.jacquelinefontyn.be/oeuvre2.php",
+          "label": "Jacqueline Fontyn official work list",
+          "claim": "Dialogues 1969, alto/piano, 13 minutes",
+          "access": "opened 2026-10-20"
+        },
+        {
+          "url": "https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf",
+          "label": "Royal Conservatoire Antwerp library",
+          "claim": "1971 Choudens edition, Daneels dedication, circa 13 minutes; downloaded and text-checked",
+          "access": "opened 2026-10-20"
+        },
+        {
+          "url": "https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+          "label": "Philharmonie de Paris repertoire guide",
+          "claim": "AC20478 and named introduction/sections",
+          "access": "live search index; guide available from parent research"
+        },
+        {
+          "url": "https://saxofon.cz/en/repertoir-sax-piano-duo-2/",
+          "label": "Saxophonist Pavel Fiedler repertoire page",
+          "claim": "Dialogues recorded live for Czech Radio with pianist Daniel Wiesner; no work audio link found",
+          "access": "opened 2026-10-20"
+        }
+      ],
+      "recording_links": [
+        {
+          "url": "https://saxofon.cz/en/repertoir-sax-piano-duo-2/",
+          "label": "Pavel Fiedler repertoire: Czech Radio with Daniel Wiesner",
+          "scope": "Recording reference only; no stream verified"
+        }
+      ],
+      "batch_number": 15,
+      "review_id": 483,
+      "review_file": "content/research-review/Review 0483 - Jacqueline Fontyn - Dialogues.md",
+      "evidence_type": "Source description",
+      "decision_focus": "The Philharmonie repertoire guide lists an Introduction followed by Grazioso, Maestoso, Prestissimo, Cantabile and Sereno; movement/character contrast is attributed to the guide."
+    },
+    {
+      "run_number": 69,
+      "path": "content/works/Jean Baptiste Loeillet - Sonata Op. 4 No. 11.md",
+      "title": "Sonata Op. 4 No. 11 in F minor",
+      "instrumentation": "Soprano saxophone, Harvey Pittel arrangement; printed accompaniment options unresolved",
+      "duration": "Status unknown",
+      "demands": [
+        "Technical demands remain unknown without the Pittel solo part.",
+        "The exact saxophone edition is 28 pages in the publisher listing; notation, solo range and articulations were not inspected."
+      ],
+      "scope": "Baroque transcription with an exact professional recording documented. No accessible saxophone playback or public notation preview verified.",
+      "score_url": "https://www.halleonard.com/product/3776210/sonata-op-4-no-11-in-f-minor",
+      "source_label": "Hal Leonard / Southern Music, SU317 / HL3776210",
+      "recording_url": "https://www.crystalrecords.com/LPs.html",
+      "recording_description": "Record-label catalog documents Harvey Pittel playing the exact Op.4 No.11 on Crystal S105 with harpsichord and cello among the album personnel. LP marked out of print. This is a recording reference page, with no playback verified.",
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Do not substitute recorder-source notation for the Pittel saxophone arrangement. The label page lists album personnel collectively; exact printed accompaniment options require the edition.",
+      "evidence": [
+        {
+          "url": "https://www.halleonard.com/product/3776210/sonata-op-4-no-11-in-f-minor",
+          "label": "Hal Leonard / Southern Music",
+          "claim": "F-minor Sonata Op.4 No.11, soprano saxophone, arranger Harvey Pittel; SU317; 28 pages.",
+          "access": "opened web and fetched HTML c/loeillet.html"
+        },
+        {
+          "url": "https://www.crystalrecords.com/LPs.html",
+          "label": "Crystal Records, record label",
+          "claim": "S105 includes exact Loeillet opus and Pittel performance; album personnel include Malcolm Hamilton, harpsichord, and Robert Adcock, cello.",
+          "access": "opened live 2026-10-20"
+        }
+      ],
+      "recording_links": [
+        {
+          "url": "https://www.crystalrecords.com/LPs.html",
+          "label": "Crystal S105: Harvey Pittel",
+          "scope": "Exact recording catalog reference; no playback verified; LP marked out of print"
+        }
+      ],
+      "batch_number": 16,
+      "review_id": 484,
+      "review_file": "content/research-review/Review 0484 - Jean Baptiste Loeillet - Sonata Op. 4 No. 11.md",
+      "evidence_type": "Identity / recording reference",
+      "decision_focus": "Pittel’s exact transcription and professional recording are documented; no playable recording or saxophone part inspected."
+    },
+    {
+      "run_number": 72,
+      "path": "content/works/Jean-Luc Falchamps - Décalcomanie de Reich et Ligeti.md",
+      "title": "Décalcomanie de Reich et Ligeti (avec Piazzola en surimpression)",
+      "instrumentation": "Alto saxophone and piano",
+      "duration": "7 minutes, composer catalog",
+      "demands": [
+        "Composer describes a repetitive figure undergoing rhythmic, harmonic, melodic and timbral disruptions.",
+        "Composer describes a solo cadenza spanning extreme registers and special sounds.",
+        "Composer describes a dislocated tango rhythm in the conclusion and contrasts refined articulation with rough modern and jazz timbres."
+      ],
+      "scope": "Source-attributed technical evidence only. Competition commission for the 2006 Dinant semifinal. The linked PDF is a program note, not notation.",
+      "score_url": "https://jeanlucfafchamps.eu/wp-content/uploads/2018/12/notice-fr-decalcomanie_de_reich_et_ligeti-avec_piazzolla_en_surimpression.pdf",
+      "source_label": "Composer program note; no notation preview located",
+      "recording_url": null,
+      "recording_description": "",
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Composer surname is Fafchamps. Existing catalog file says Falchamps and Any Saxophone. Primary sources specify alto. No exact accessible recording located.",
+      "evidence": [
+        {
+          "url": "https://jeanlucfafchamps.eu/catalogue-musique-de-chambre/",
+          "label": "Jean-Luc Fafchamps, composer",
+          "claim": "2005; alto/piano;7 minutes; commissioned for Dinant2006 semifinal.",
+          "access": "fetched live HTML c/fafchamps.html"
+        },
+        {
+          "url": "https://creationmusicale.be/fr/catalogue/fafchamps/decalcomanie-de-reich-et-ligeti-avec-piazzola-en-surimpression",
+          "label": "Forum des Compositeurs, composer-supplied note",
+          "claim": "Technical descriptions of repetitive transformations, extreme registers, special sounds and tango conclusion.",
+          "access": "opened live search-index text"
+        }
+      ],
+      "recording_links": [],
+      "batch_number": 17,
+      "review_id": 485,
+      "review_file": "content/research-review/Review 0485 - Jean-Luc Falchamps - Décalcomanie de Reich et Ligeti.md",
+      "evidence_type": "Source description",
+      "decision_focus": "Composer describes a repetitive figure undergoing rhythmic, harmonic, melodic and timbral disruptions."
+    },
+    {
+      "run_number": 74,
+      "path": "content/works/Jeanne Leleu - Danse Nostalgique.md",
+      "title": "Danse nostalgique, extraite de Nautéos",
+      "instrumentation": "Alto saxophone and piano",
+      "duration": "3:54, Laran/Ertzscheid commercial full-duet track; guide estimates3:30",
+      "demands": [
+        "Philharmonie teaching guide describes a melodic piece with legato phrases. This is source-attributed and was not checked against notation.",
+        "Technical range and rhythmic demands remain unresolved without an authorized score preview."
+      ],
+      "scope": "Short ballet excerpt with an exact commercial duet track and separately labeled practice tracks. Score-based demands remain unverified.",
+      "score_url": "https://catalogue.bnf.fr/ark:/12148/cb39726348h",
+      "source_label": "Bibliothèque nationale de France score record; Lemoine23736HL",
+      "recording_url": "https://music.apple.com/us/album/leleu-danse-nostalgique-play-along-single/6808320429",
+      "recording_description": "Apple Music metadata lists track 1 Danse nostalgique, 3:54, Jérôme Laran and Michaël Ertzscheid. Tracks 2 and 3 are piano karaoke and slower practice versions. Page offers previews; audio was not auditioned.",
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "1956 is the edition publication date. The arranger and composition date remain unresolved. Do not inherit a low-C to high-F range from adjacent guide entries.",
+      "evidence": [
+        {
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb39726348h",
+          "label": "Bibliothèque nationale de France",
+          "claim": "Exact title, alto/piano scoring,1956 publication and23736HL.",
+          "access": "opened live search-index text"
+        },
+        {
+          "url": "https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+          "label": "Philharmonie de Paris, digitized teaching guide",
+          "claim": "Entry describes melodic legato phrases and duration3:30.",
+          "access": "full PDF retrieved by parent; relevant text read in parent/guide.txt,printed page46"
+        },
+        {
+          "url": "https://music.apple.com/us/album/leleu-danse-nostalgique-play-along-single/6808320429",
+          "label": "Apple Music, recording service",
+          "claim": "Exact full duet track3:54 and separately labeled practice tracks.",
+          "access": "live search index only"
+        },
+        {
+          "url": "https://www.qobuz.com/nz-en/album/leleu-danse-nostalgique-jerome-laran-michael-ertzscheid/i1r4rwr4tnzun",
+          "label": "Qobuz, recording service",
+          "claim": "Credits Laran, alto saxophone; Ertzscheid, piano; Jeanne Leleu, composer.",
+          "access": "live search index only"
+        }
+      ],
+      "recording_links": [
+        {
+          "url": "https://music.apple.com/us/album/leleu-danse-nostalgique-play-along-single/6808320429",
+          "label": "Laran / Ertzscheid: Danse nostalgique",
+          "scope": "Commercial release page;track1 full duet3:54;tracks2-3 practice accompaniments;preview access"
+        },
+        {
+          "url": "https://www.qobuz.com/nz-en/album/leleu-danse-nostalgique-jerome-laran-michael-ertzscheid/i1r4rwr4tnzun",
+          "label": "Qobuz: Laran / Ertzscheid",
+          "scope": "Same commercial release;exact title and instrumental credits verified"
+        }
+      ],
+      "batch_number": 18,
+      "review_id": 486,
+      "review_file": "content/research-review/Review 0486 - Jeanne Leleu - Danse Nostalgique.md",
+      "evidence_type": "Recording + sources",
+      "decision_focus": "Philharmonie teaching guide describes a melodic piece with legato phrases. This is source-attributed and was not checked against notation."
+    },
+    {
+      "run_number": 100,
+      "path": "content/works/Lucie Robert-Diessel - Sonate.md",
+      "title": "Sonate",
+      "instrumentation": "Alto / E-flat saxophone and piano",
+      "duration": "11 minutes, Philharmonie teaching guide",
+      "demands": [
+        "Philharmonie teaching guide reports frequent tempo changes.",
+        "The guide reports altissimo up to A-sharp. These source-reported demands have not been checked against notation."
+      ],
+      "scope": "Source-attributed technical evidence from Philharmonie teaching guide, printed page 69. No saxophone notation inspected; exact recording remains unverified.",
+      "score_url": "https://www.billaudot.com/sonate-186.html",
+      "source_label": "Éditions Billaudot, EFM1732",
+      "recording_url": null,
+      "recording_description": "",
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Publisher lists EFM1732,38 pages,1974 copyright. The guide also identifies alto/piano Sonate and1974. No source-verifiable last-page preview was found; no whole-work notation claims are made.",
+      "evidence": [
+        {
+          "url": "https://www.billaudot.com/sonate-186.html",
+          "label": "Éditions Billaudot, publisher",
+          "claim": "Exact work, E-flat saxophone/piano and plate EFM1732. Publisher lists38 pages and1974 copyright.",
+          "access": "fetched live HTML c/sonate.html; placeholder only; hasPdfFile:false"
+        },
+        {
+          "url": "https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+          "label": "Philharmonie de Paris, digitized teaching guide",
+          "claim": "Sonate entry:11minutes;tempo changes;altissimo A-sharp.",
+          "access": "full PDF retrieved by parent; relevant text read in parent/guide.txt,printed page69"
+        }
+      ],
+      "recording_links": [],
+      "batch_number": 19,
+      "review_id": 487,
+      "review_file": "content/research-review/Review 0487 - Lucie Robert-Diessel - Sonate.md",
+      "evidence_type": "Source description",
+      "decision_focus": "Guide reports frequent tempo changes and altissimo up to A-sharp; notation not inspected."
+    },
+    {
+      "run_number": 101,
+      "path": "content/works/Lucie Robert-Diessel - Variations.md",
+      "title": "Variations",
+      "instrumentation": "Alto / E-flat saxophone and piano",
+      "duration": "8:20, Philharmonie teaching guide",
+      "demands": [
+        "Philharmonie teaching guide reports a theme and five variations, ending with a short passacaglia.",
+        "The guide reports altissimo up to C-sharp. These source-reported demands have not been checked against notation."
+      ],
+      "scope": "Source-attributed technical evidence from Philharmonie teaching guide, printed page 101. No saxophone notation inspected; exact recording remains unverified.",
+      "score_url": "https://www.billaudot.com/variations-24.html",
+      "source_label": "Éditions Billaudot, GB3192",
+      "recording_url": null,
+      "recording_description": "",
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "1982 is the publisher copyright date, not a verified composition date. Do not confuse this solo/piano work with Variations Diapason for quartet.",
+      "evidence": [
+        {
+          "url": "https://www.billaudot.com/variations-24.html",
+          "label": "Éditions Billaudot, publisher",
+          "claim": "Exact work, E-flat saxophone/piano and plate GB3192. Publisher lists20 pages,1982 copyright, Gourdet collection, and Difficile (cycle3); this external label is not adopted as a level.",
+          "access": "fetched live HTML c/variations.html; placeholder only; hasPdfFile:false"
+        },
+        {
+          "url": "https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+          "label": "Philharmonie de Paris, digitized teaching guide",
+          "claim": "Variations entry:8:20;theme,five variations,passacaglia conclusion;altissimo C-sharp.",
+          "access": "full PDF retrieved by parent; relevant text read in parent/guide.txt,printed page101"
+        }
+      ],
+      "recording_links": [],
+      "batch_number": 20,
+      "review_id": 488,
+      "review_file": "content/research-review/Review 0488 - Lucie Robert-Diessel - Variations.md",
+      "evidence_type": "Source description",
+      "decision_focus": "Guide reports five variations, a short passacaglia and altissimo up to C-sharp; notation not inspected."
+    },
+    {
+      "run_number": 115,
+      "path": "content/works/Miriama Young - This Earthly Round.md",
+      "title": "This Earthly Round (Redux)",
+      "instrumentation": "Alto saxophone and prepared piano",
+      "duration": "9 minutes, composer; Redux recording10:02, Apple Music Classical",
+      "demands": [
+        "Opening sample instructs the saxophonist to position the instrument into the piano for sympathetic resonance.",
+        "Prepared-piano instruction specifies blue-tak or a leather wallet/case on notes to soften the timbre.",
+        "Opening is 2/4, Allegretto quarter approximately 100, with back-on-beat playing, variable gaps between phrases, offbeat saxophone entries and printed alternate fingerings."
+      ],
+      "scope": "First-page notation only, downloaded from composer store and visually inspected. Full preparation instructions, later range and later techniques remain uninspected.",
+      "score_url": "https://cdn.prod.website-files.com/64139cea50c6ae389c75595f/648ef2c04ee43a43794ba009_This%20Earthly%20Round%20first%20page.png",
+      "source_label": "Miriama Young, composer store first-page sample",
+      "recording_url": "https://classical.music.apple.com/au/album/1793050767",
+      "recording_description": "Exact Redux track on Earthly Round, Stephen Page and Alexandre Maynegre-Torra, 10:02. Commercial album page offers a preview. Composer-embedded YouTube aUSNB11eWXk is explicitly an excerpt. Existing VZAJyooWzIA title matches; uploader Kyle Hutchins, version/duration unresolved.",
+      "image_path": "/tmp/saxobrain-score03/c/young-firstpage.png",
+      "notation_inspected": true,
+      "identity_caveat": "Catalog title omits Redux. Inspected sample is explicitly Redux,©2014,revised2021. The original and revision must be distinguished before using later technical claims.",
+      "evidence": [
+        {
+          "url": "https://www.miriamayoung.com/product/this-earthly-round",
+          "label": "Miriama Young, composer store",
+          "claim": "Links the first-page notation sample; alto/prepared piano;2014 revised2021;9 minutes.",
+          "access": "opened live 2026-10-20"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/64139cea50c6ae389c75595f/648ef2c04ee43a43794ba009_This%20Earthly%20Round%20first%20page.png",
+          "label": "Miriama Young, authorized score sample",
+          "claim": "Opening notation and printed performance instructions.",
+          "access": "downloaded and visually inspected 2026-10-20; copyright retained"
+        },
+        {
+          "url": "https://classical.music.apple.com/au/album/1793050767",
+          "label": "Apple Music Classical",
+          "claim": "2025 album lists exact Redux work and performers,10:02.",
+          "access": "live search index"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=aUSNB11eWXk",
+          "label": "Miriama Young, composer YouTube",
+          "claim": "Composer page embeds video; oEmbed title explicitly says excerpt.",
+          "access": "oEmbed title verified; no audio auditioned"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=VZAJyooWzIA",
+          "label": "Kyle Hutchins, YouTube uploader",
+          "claim": "Existing catalog link title This Earthly Round by Miriama Young.",
+          "access": "oEmbed title verified; no audio auditioned"
+        }
+      ],
+      "recording_links": [
+        {
+          "url": "https://classical.music.apple.com/au/album/1793050767",
+          "label": "Stephen Page / Alexandre Maynegre-Torra: Earthly Round",
+          "scope": "Commercial album page;exact Redux work10:02;preview access"
+        },
+        {
+          "url": "https://music.apple.com/us/song/1704792579",
+          "label": "Stephen Page / Alex Maynegre-Torra: This Earthly Round (Redux)",
+          "scope": "Exact-work commercial song page;2023 release metadata from live search index"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=aUSNB11eWXk",
+          "label": "Composer video: This Earthly Round (excerpt)",
+          "scope": "Excerpt explicitly named in oEmbed;embedded on composer work page"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=VZAJyooWzIA",
+          "label": "Kyle Hutchins: This Earthly Round",
+          "scope": "Existing catalog link;exact title/uploader verified by oEmbed;version,duration and completeness unverified"
+        }
+      ],
+      "batch_number": 21,
+      "review_id": 489,
+      "review_file": "content/research-review/Review 0489 - Miriama Young - This Earthly Round.md",
+      "evidence_type": "Notation",
+      "image_file": "content/research-review/score-excerpts-2026-10-20-batch-03/run115-notation.png",
+      "decision_focus": "Opening sample instructs the saxophonist to position the instrument into the piano for sympathetic resonance."
+    },
+    {
+      "run_number": 144,
+      "path": "content/works/Ryo Noda - Pulse 72±.md",
+      "title": "Pulse 72±",
+      "instrumentation": "Unaccompanied saxophone; alto in Philharmonie/Córdoba sources, soprano in catalog and conflicting scholarly listings",
+      "duration": "Approximately 15 minutes, Philharmonie guide p.101",
+      "demands": [
+        "Philharmonie guide: circular breathing; playing while singing or growling; double and triple articulation.",
+        "Tom Bergeron’s specialist multiphonics bibliography identifies numerous specified multiphonic fingerings."
+      ],
+      "scope": "No original notation inspected. Attributed technique evidence is concrete, but full register, pacing, fingering practicality and exact scoring need the original part. Leduc AL27003 is verified in the Philharmonie guide; no current publisher product page or authorized score preview was located.",
+      "score_url": "https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+      "source_label": "Philharmonie de Paris repertoire guide p.101; Tom Bergeron multiphonics bibliography p.89",
+      "recording_url": "https://www.jamesbunte.com/listen",
+      "recording_description": "James Bunte’s official page documents the 2018 Pulse72± album, Teal Creek. Album reference only. The currently embedded Noda selection is Phoenix-Fushicho, which is another work. The later full-album heading belongs to Ida Gotkovsky. No exact Pulse72± player verified.",
+      "recording_links": [
+        {
+          "url": "https://www.jamesbunte.com/listen",
+          "label": "James Bunte, official listening page",
+          "scope": "Noda album documentation and Phoenix-Fushicho sample; no verified Pulse72± title-track playback"
+        }
+      ],
+      "image_path": null,
+      "notation_inspected": false,
+      "identity_caveat": "Catalog says soprano. Philharmonie guide p.101 and Córdoba conservatory curriculum say alto. A University of Córdoba notation-study table p.147 instead says soprano. No title page was located to settle this conflict. Do not automatically change saxophone type. The bibliography distinguishes 1982 composition from 1984 publication.",
+      "evidence": [
+        {
+          "url": "https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf",
+          "label": "Philharmonie de Paris, 10 ans avec le saxophone, p.101",
+          "claim": "AL27003, alto solo, 1982, approximately15minutes; circular breathing, playing/singing or growl, double/triple articulation",
+          "access": "Full guide retrieved by parent; local text inspected 2026-10-20"
+        },
+        {
+          "url": "https://tombergeron.us/download/sax-multiphonics.pdf",
+          "label": "Tom Bergeron, Sax Multiphonics, p.89",
+          "claim": "1982 work, Leduc1984 publication; multiple listed multiphonic fingerings",
+          "access": "live search index refreshed 2026-10-20"
+        },
+        {
+          "url": "https://csmcordoba.com/wp-content/uploads/2023/02/Saxofon_guiadocente2223.pdf",
+          "label": "Conservatorio Superior Rafael Orozco, Córdoba curriculum",
+          "claim": "Alto solo and same contemporary techniques",
+          "access": "live search index refreshed 2026-10-20"
+        },
+        {
+          "url": "https://helvia.uco.es/bitstream/handle/10396/12998/2015000001186.pdf?isAllowed=y&sequence=1",
+          "label": "University of Córdoba repository, notation-study table p.147",
+          "claim": "Contradictory soprano designation and additional technique descriptions",
+          "access": "live search index refreshed 2026-10-20; direct download returned non-PDF response"
+        },
+        {
+          "url": "https://www.jamesbunte.com/listen",
+          "label": "James Bunte official site",
+          "claim": "2018 Noda album documentation; current embedded Noda sample title is Phoenix-Fushicho; full-album heading applies to Gotkovsky",
+          "access": "opened live HTML 2026-10-20"
+        }
+      ],
+      "batch_number": 22,
+      "review_id": 490,
+      "review_file": "content/research-review/Review 0490 - Ryo Noda - Pulse 72±.md",
+      "evidence_type": "Recording + sources",
+      "decision_focus": "Philharmonie guide: circular breathing; playing while singing or growling; double and triple articulation."
+    },
+    {
+      "run_number": 155,
+      "path": "content/works/Steven Galante - Shu Gath Manna.md",
+      "title": "Shu Gath Manna",
+      "image_path": null,
+      "notation_inspected": false,
+      "instrumentation": "Alto saxophone and Yamaha DX7 synthesizer",
+      "duration": "Not verified",
+      "demands": [
+        "Tom Bergeron’s multiphonic bibliography identifies four multiphonic entries in this work. The original notation was not inspected.",
+        "The composer specifies DX7 synthesizer and includes technical data with the score. Current synthesizer or playback compatibility requires checking.",
+        "The label divides the work into Prologue, Silicon Dance, Threnody and Regeneration."
+      ],
+      "scope": "Recording and technical-bibliography evidence. The bibliography page was visually inspected; it contains references, not a score excerpt. No direct score analysis or audio audition.",
+      "score_url": "https://www.galanteharp.com/StevenGalanteMusic/",
+      "source_label": "Steven Galante, composer score and technical-data offer",
+      "recording_url": "https://www.youtube.com/watch?v=mm8uG3r5308",
+      "recording_description": "Existing exact-title video, Steven Galante- Shu Gath Manna for Alto Sax and DX7. Live YouTube oEmbed confirms title and uploader anothermusician0; performer, edition, duration and completeness not independently verified.",
+      "identity_caveat": "Original saxophone/synthesizer concert work. The composer’s sale includes an example audio file; that file is not a freely verified stream. DX7 accompaniment should not be assumed interchangeable with ordinary piano.",
+      "recording_links": [
+        {
+          "url": "https://www.youtube.com/watch?v=mm8uG3r5308",
+          "label": "Shu Gath Manna for alto saxophone and DX7",
+          "scope": "Exact-title video; performers and completeness unverified; not auditioned"
+        },
+        {
+          "url": "https://www.crystalrecords.com/saxophone.html",
+          "label": "Laura Hunter and Brian Connelly, Crystal CD651",
+          "scope": "Label recording reference and legacy RealPlayer samples; playback not verified"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.galanteharp.com/StevenGalanteMusic/",
+          "label": "Steven Galante, composer",
+          "claim": "Alto saxophone and DX7; score, part, technical data and example audio supplied.",
+          "access": "opened live October 20, 2026"
+        },
+        {
+          "url": "https://tombergeron.us/download/sax-multiphonics.pdf#page=123",
+          "label": "Tom Bergeron, saxophone multiphonics study",
+          "claim": "Bibliography printed p.88 identifies 1987 Shu Gath Manna and four multiphonic entries.",
+          "access": "PDF page123 visually inspected October 20, 2026"
+        },
+        {
+          "url": "https://www.crystalrecords.com/saxophone.html",
+          "label": "Crystal Records",
+          "claim": "Hunter/Connelly album CD651 includes four named movements of Shu Gath Manna.",
+          "access": "live publisher search index checked October 20, 2026"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=mm8uG3r5308",
+          "label": "YouTube public metadata",
+          "claim": "Exact work title and uploader anothermusician0.",
+          "access": "live oEmbed returned October 20, 2026; no audio audition"
+        }
+      ],
+      "batch_number": 23,
+      "review_id": 491,
+      "review_file": "content/research-review/Review 0491 - Steven Galante - Shu Gath Manna.md",
+      "evidence_type": "Recording + sources",
+      "decision_focus": "Tom Bergeron’s multiphonic bibliography identifies four multiphonic entries in this work. The original notation was not inspected."
+    },
+    {
+      "run_number": 158,
+      "path": "content/works/Takuma Itoh - Sarcasms.md",
+      "title": "Sarcasms",
+      "instrumentation": "Alto saxophone and piano",
+      "duration": "8 minutes, composer webpage;7:00 total in preview contents table",
+      "demands": [
+        "First movement opening alternates 2/4 and3/4 with accented low triplets at fff and a leap into a high growled note.",
+        "Second-movement sample at quarter = 120 contains chromatic triplet lines, slurred leaps and an isolated sfz note marked honk.",
+        "Both inspected pages demand close coordination with active piano writing and abrupt dynamic or tempo changes."
+      ],
+      "scope": "Authorized composer excerpt has 12 PDF pages. Visually inspected PDF pages 3 and 5, the opening notation of movements I and II. Retained complete page 3 with copyright. Later movements were not visually analyzed.",
+      "score_url": "https://takumaitoh.com/pdf/sarcasms-excerpt.pdf",
+      "source_label": "Takuma Itoh, composer score excerpt",
+      "recording_url": "https://takumaitoh.com/music/sarcasms.html",
+      "recording_description": "Composer page embeds five separately labeled movement audio files and credits Andrew Liebermann,alto saxophone,and Seo Hee Kang,piano. This is a movement-based audio source, not a verified single full-work player. Audio was not auditioned or downloaded.",
+      "image_path": "/tmp/saxobrain-score03/c/itoh-03.png",
+      "notation_inspected": true,
+      "identity_caveat": "Composer identifies five short movements,2008,commissioned by Donald Sinta. Webpage and score table differ on duration. Do not transfer circular-breathing claims from Itoh Palpitations to this work.",
+      "evidence": [
+        {
+          "url": "https://takumaitoh.com/music/sarcasms.html",
+          "label": "Takuma Itoh, composer",
+          "claim": "2008;alto/piano;five movements;8-minute estimate;Donald Sinta commission;named audio performers.",
+          "access": "fetched live HTML c/itoh.html"
+        },
+        {
+          "url": "https://takumaitoh.com/pdf/sarcasms-excerpt.pdf",
+          "label": "Takuma Itoh, authorized excerpt",
+          "claim": "Transposed score;contents7-minute estimate;observed opening techniques in movementsI andII.",
+          "access": "downloaded; PDF pages3 and5 rendered and visually inspected; copyright retained"
+        },
+        {
+          "url": "https://takumaitoh.com/music/sarcasms.html",
+          "label": "Takuma Itoh, composer audio references",
+          "claim": "Five exact movement audio links;all five HTTPS endpoints respond200 audio/mpeg.",
+          "access": "HEAD metadata only verified2026-10-20;no audio downloaded"
+        }
+      ],
+      "recording_links": [
+        {
+          "url": "https://takumaitoh.com/audio/sarcasms_1.mp3",
+          "label": "I. Primal; Obnoxious",
+          "scope": "Composer-embedded individual movement audio;Andrew Liebermann / Seo Hee Kang;HEAD200 audio/mpeg verified;no audio downloaded or auditioned"
+        },
+        {
+          "url": "https://takumaitoh.com/audio/sarcasms_2.mp3",
+          "label": "II. Crazy Circus Music",
+          "scope": "Composer-embedded individual movement audio;Andrew Liebermann / Seo Hee Kang;HEAD200 audio/mpeg verified;no audio downloaded or auditioned"
+        },
+        {
+          "url": "https://takumaitoh.com/audio/sarcasms_3.mp3",
+          "label": "III. Ugly; Like an Angry Duck",
+          "scope": "Composer-embedded individual movement audio;Andrew Liebermann / Seo Hee Kang;HEAD200 audio/mpeg verified;no audio downloaded or auditioned"
+        },
+        {
+          "url": "https://takumaitoh.com/audio/sarcasms_4.mp3",
+          "label": "IV. Another Wild Circus Music",
+          "scope": "Composer-embedded individual movement audio;Andrew Liebermann / Seo Hee Kang;HEAD200 audio/mpeg verified;no audio downloaded or auditioned"
+        },
+        {
+          "url": "https://takumaitoh.com/audio/sarcasms_5.mp3",
+          "label": "V. Manic-Depressive",
+          "scope": "Composer-embedded individual movement audio;Andrew Liebermann / Seo Hee Kang;HEAD200 audio/mpeg verified;no audio downloaded or auditioned"
+        }
+      ],
+      "batch_number": 24,
+      "review_id": 492,
+      "review_file": "content/research-review/Review 0492 - Takuma Itoh - Sarcasms.md",
+      "evidence_type": "Notation",
+      "image_file": "content/research-review/score-excerpts-2026-10-20-batch-03/run158-notation.png",
+      "decision_focus": "First movement opening alternates 2/4 and 3/4 with accented low triplets at fff and a leap into a high growled note."
+    },
+    {
+      "run_number": 182,
+      "path": "content/works/Yvonne Desportes - Melopee Dorienne.md",
+      "title": "Melopee Dorienne",
+      "image_path": null,
+      "notation_inspected": false,
+      "instrumentation": "Alto saxophone and piano",
+      "duration": "About 2 minutes, Philharmonie guide",
+      "demands": [
+        "Philharmonie guide describes expressive, free playing in 3/4 at quarter = 60, varied rhythms and a very easy piano part.",
+        "A publisher advertisement places it in an examination/audition collection and labels it El. 1-2. This is source context; no SaxoBrain level is proposed."
+      ],
+      "scope": "Publisher educational context and attributed guide description. Printed guide page63 and the original Combre advertisement were visually checked. Neither is actual score notation; solo range, later passages and full technical demands remain unverified.",
+      "score_url": "https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf#page=59",
+      "source_label": "Philharmonie de Paris, 10 ans avec le saxophone, printed p.63",
+      "recording_url": null,
+      "recording_description": null,
+      "identity_caveat": "Original educational repertoire, not identified as a transcription. Combre C4981, La Pléiade collection. Guide duration is 2 minutes; the nearby 4:30 timing belongs to Saxo Dances and must not be transferred.",
+      "recording_links": [],
+      "evidence": [
+        {
+          "url": "https://catalogue.philharmoniedeparis.fr/AloesSynchro/stockage/10-ans-avec-le-saxophone.pdf#page=59",
+          "label": "Philharmonie de Paris, digitized repertoire guide",
+          "claim": "Alto/piano, Combre C4981, 2 minutes, free expressive3/4, quarter60, varied rhythms and easy accompaniment.",
+          "access": "PDF page59, printed63 visually inspected October 20, 2026"
+        },
+        {
+          "url": "https://www.cmf-archives.org/files/original/7dc88b20403f7f4788ff4236221e543c192d2814.pdf#page=2",
+          "label": "Combre publisher advertisement, Confédération Musicale de France archive",
+          "claim": "La Pléiade examination/audition collection; exact title and El.1-2 publisher label.",
+          "access": "Original magazine March-April1987, PDF page2 visually inspected October 20, 2026"
+        }
+      ],
+      "batch_number": 25,
+      "review_id": 493,
+      "review_file": "content/research-review/Review 0493 - Yvonne Desportes - Melopee Dorienne.md",
+      "evidence_type": "Source description",
+      "decision_focus": "Philharmonie guide describes expressive, free playing in 3/4 at quarter = 60, varied rhythms and a very easy piano part."
+    }
+  ],
+  "new_files": [
+    "content/research-review/Review 0469 - Clare Loveday - Displacement.md",
+    "content/research-review/Review 0470 - Claude Pascal - Impromptu.md",
+    "content/research-review/Review 0471 - Colin Cowles - Legends of Avalon.md",
+    "content/research-review/Review 0472 - Costin Miereanu - Concerto pour saxophone et orchestre.md",
+    "content/research-review/Review 0473 - Dietrich Erdmann - Konzert.md",
+    "content/research-review/Review 0474 - Frederik van Rossum - Pathetic Story.md",
+    "content/research-review/Review 0475 - Fritz Jakma - Cavatine.md",
+    "content/research-review/Review 0476 - Fritz Jakma - Second Concertino.md",
+    "content/research-review/Review 0477 - Geoff Hannan - Bubblegum.md",
+    "content/research-review/Review 0478 - George Gershwin - Andante and Finale from Rhapsody in Blue.md",
+    "content/research-review/Review 0479 - Georges Sporck - Meditation.md",
+    "content/research-review/Review 0480 - Germaine Tailleferre - Trois Dances.md",
+    "content/research-review/Review 0481 - Harry Gee - Essay for Saxophone.md",
+    "content/research-review/Review 0482 - Isao Matsushita - Atoll II.md",
+    "content/research-review/Review 0483 - Jacqueline Fontyn - Dialogues.md",
+    "content/research-review/Review 0484 - Jean Baptiste Loeillet - Sonata Op. 4 No. 11.md",
+    "content/research-review/Review 0485 - Jean-Luc Falchamps - Décalcomanie de Reich et Ligeti.md",
+    "content/research-review/Review 0486 - Jeanne Leleu - Danse Nostalgique.md",
+    "content/research-review/Review 0487 - Lucie Robert-Diessel - Sonate.md",
+    "content/research-review/Review 0488 - Lucie Robert-Diessel - Variations.md",
+    "content/research-review/Review 0489 - Miriama Young - This Earthly Round.md",
+    "content/research-review/Review 0490 - Ryo Noda - Pulse 72±.md",
+    "content/research-review/Review 0491 - Steven Galante - Shu Gath Manna.md",
+    "content/research-review/Review 0492 - Takuma Itoh - Sarcasms.md",
+    "content/research-review/Review 0493 - Yvonne Desportes - Melopee Dorienne.md",
+    "content/research-review/Remaining Repertoire - Score Batch 03.md"
+  ]
+}
