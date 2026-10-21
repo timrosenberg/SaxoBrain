@@ -2,18 +2,19 @@
    Light and dark follow the visitor's system setting. */
 :root {
   --bg: #f5f6f8; --surface: #ffffff; --fg: #1b2029; --muted: #5d6676; --line: #dde1e8;
-  --accent: #9a6514; --accent-soft: #f3e7d2; --chip: #eceff3;
+  --brass: #e0bf61; --brass-ink: #1b2029;
+  --accent: var(--fg); --accent-soft: #f8efd2; --chip: #eceff3;
   --lv-pre: #7c8594; --lv-1: #2f8a4c; --lv-2: #b58a0e; --lv-3: #2f6fb8; --lv-4: #c0453a; --lv-adv: #7a4fb5; --lv-none: #a3abb8;
   --sx-soprano: #e8751a; --sx-alto: #d9b20f; --sx-tenor: #7a4fb5; --sx-baritone: #2f6fb8; --sx-bass: #c0453a;
   --notice-bg: #fbf6e4; --notice-line: #b08900; --shadow: 0 10px 40px rgba(20, 26, 36, .16);
-  --font-display: "Bricolage Grotesque", "Avenir Next", "Segoe UI", sans-serif;
+  --font-display: "Schibsted Grotesk", "Avenir Next", "Segoe UI", sans-serif;
   --font-body: "Public Sans", -apple-system, "Segoe UI", Roboto, sans-serif;
   --font-mono: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     --bg: #12151b; --surface: #1a1e26; --fg: #e7eaf0; --muted: #9aa3b2; --line: #2b313c;
-    --accent: #e0a64a; --accent-soft: #3a2e1c; --chip: #242a34;
+    --accent: #e4c979; --accent-soft: #30291a; --chip: #242a34;
     --lv-pre: #9aa3b2; --lv-1: #5cc27c; --lv-2: #e3bb45; --lv-3: #6aa6ea; --lv-4: #ee7b70; --lv-adv: #ad8ae6; --lv-none: #6b7382;
     --sx-soprano: #f29a4a; --sx-alto: #ecd04e; --sx-tenor: #ad8ae6; --sx-baritone: #6aa6ea; --sx-bass: #ee7b70;
     --notice-bg: #2d2614; --notice-line: #c9a227; --shadow: 0 10px 40px rgba(0, 0, 0, .5);
@@ -24,21 +25,23 @@
 [hidden] { display: none !important; }
 html { scroll-padding-top: 5rem; }
 body { margin: 0; background: var(--bg); color: var(--fg); font-family: var(--font-body); font-size: 15px; line-height: 1.5; }
-a { color: var(--accent); }
+a { color: var(--accent); text-decoration-color: var(--brass); text-decoration-thickness: 2px; text-underline-offset: 3px; }
 button { font: inherit; color: inherit; }
 :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 .skip { position: absolute; left: -999px; top: 0; background: var(--surface); padding: 8px 12px; z-index: 30; }
 .skip:focus { left: 8px; top: 8px; }
 
 /* header and navigation */
+.masthead { background: #252a32; --fg: #e7eaf0; --muted: #aeb6c4; --line: #2b313c; color: var(--fg); }
+.masthead :focus-visible { outline-color: var(--brass); }
 .site-head, main, .site-foot { max-width: 980px; margin: 0 auto; padding-inline: 20px; }
 .site-head { display: flex; align-items: baseline; justify-content: space-between; gap: 8px 16px; flex-wrap: wrap; padding-block: 28px 0; }
 .brand { font-family: var(--font-display); font-weight: 700; font-size: 34px; letter-spacing: -.02em; line-height: 1.1; color: var(--fg); text-decoration: none; }
-.brand span { color: var(--accent); }
-.site-head nav { flex-basis: 100%; display: flex; gap: 4px; flex-wrap: wrap; border-bottom: 1px solid var(--line); margin-top: 8px; }
-.site-head nav a { text-decoration: none; color: var(--muted); padding: 10px 14px; border-bottom: 2px solid transparent; font-weight: 600; margin-bottom: -1px; }
+.brand span { color: var(--brass); }
+.site-head nav { flex-basis: 100%; display: flex; gap: 4px; flex-wrap: wrap; border-bottom: 1px solid transparent; margin-top: 8px; }
+.site-head nav a { text-decoration: none; color: var(--muted); padding: 10px 14px; border-bottom: 4px solid transparent; font-weight: 600; margin-bottom: -1px; }
 .site-head nav a:hover { color: var(--fg); }
-.site-head nav a[aria-current="page"] { color: var(--fg); border-bottom-color: var(--accent); }
+.site-head nav a[aria-current="page"] { color: var(--fg); border-bottom-color: var(--brass); }
 main { padding-block: 8px 64px; }
 
 /* typography shared by pages */
@@ -83,8 +86,8 @@ article.page.lists, article.page.lists .prose, article.page.lists .notice { max-
 /* buttons and the facts list on a work */
 .actions { display: flex; gap: 10px; flex-wrap: wrap; margin: 22px 0 16px; }
 .btn { display: inline-flex; align-items: center; gap: 8px; text-decoration: none; padding: 10px 16px; border-radius: 10px; font-weight: 600; border: 1px solid var(--line); color: var(--fg); background: var(--surface); }
-.btn:hover { border-color: var(--accent); }
-.btn.primary { background: var(--accent); border-color: var(--accent); color: var(--surface); }
+.btn:hover { border-color: var(--brass); }
+.btn.primary { background: var(--brass); border-color: var(--brass); color: var(--brass-ink); }
 .btn.missing { color: var(--muted); border-style: dashed; font-weight: 400; cursor: default; }
 .btn.missing:hover { border-color: var(--line); }
 /* Streaming-service buttons: a pastel tint of each service's color with a full-color outline. The tint
@@ -158,7 +161,7 @@ article.page.lists, article.page.lists .prose, article.page.lists .notice { max-
 .facts dd { margin: 0; min-width: 0; }
 .released { margin: 14px 0; color: var(--muted); }
 .tag { font-size: 12px; border: 1px solid var(--line); border-radius: 6px; padding: 2px 7px; color: var(--muted); white-space: nowrap; }
-.tag.on { border-color: var(--accent); color: var(--accent); }
+.tag.on { border-color: var(--brass); color: var(--accent); }
 .pill.oop { background: color-mix(in srgb, var(--lv-4) 18%, var(--surface)); color: var(--fg); border-radius: 999px; padding: 1px 9px; font-size: 12.5px; font-weight: 500; white-space: nowrap; margin-left: 4px; }
 
 /* lists: other works, composer works, section pages */
@@ -212,12 +215,12 @@ article.page.lists, article.page.lists .prose, article.page.lists .notice { max-
 .letters .label-sm { width: 92px; flex-shrink: 0; margin: 0; }
 .letter-row { display: flex; flex-wrap: wrap; gap: 3px; }
 .letters a { min-width: 28px; height: 30px; display: inline-grid; place-items: center; border-radius: 8px; text-decoration: none; font-family: var(--font-display); font-weight: 700; font-size: 14px; color: var(--fg); background: var(--chip); border: 1px solid transparent; }
-.letters a:hover { border-color: var(--accent); color: var(--accent); }
-.letters a.here { background: var(--accent); color: var(--surface); }
+.letters a:hover { border-color: var(--brass); color: var(--accent); }
+.letters a.here { background: var(--brass); color: var(--brass-ink); }
 .letters a.off { background: none; color: var(--line); cursor: default; }
 .letters a.off:hover { border-color: transparent; }
 .totop { position: fixed; right: 20px; bottom: 20px; z-index: 6; background: var(--fg); color: var(--bg); border: 0; border-radius: 999px; padding: 10px 16px; font-weight: 600; cursor: pointer; box-shadow: var(--shadow); }
-.totop:hover { background: var(--accent); color: var(--surface); }
+.totop:hover { background: var(--brass); color: var(--brass-ink); }
 .letter-group { margin-top: 28px; }
 .letter-group h2 { margin: 0; }
 .clist .who { display: inline-flex; align-items: center; gap: 8px; text-align: right; }
@@ -233,7 +236,7 @@ article.page.lists, article.page.lists .prose, article.page.lists .notice { max-
 .cur .pair { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(280px, 100%), 1fr)); gap: 12px; }
 .cur .acts { display: flex; gap: 6px; align-items: center; flex-wrap: wrap; }
 .cur .act { display: inline-flex; align-items: center; gap: 4px; font-size: 12.5px; font-weight: 600; text-decoration: none; border: 1px solid var(--line); border-radius: 999px; padding: 2px 9px; color: var(--fg); white-space: nowrap; background: var(--surface); }
-.cur .act:hover { border-color: var(--accent); color: var(--accent); }
+.cur .act:hover { border-color: var(--brass); color: var(--accent); }
 .cur .act.listen { background: var(--accent-soft); border-color: transparent; color: var(--accent); }
 .cur .act svg { width: 10px; height: 10px; fill: currentColor; }
 .cur .tag.soprano { --sx: var(--sx-soprano); } .cur .tag.alto { --sx: var(--sx-alto); } .cur .tag.tenor { --sx: var(--sx-tenor); } .cur .tag.baritone { --sx: var(--sx-baritone); } .cur .tag.bass { --sx: var(--sx-bass); }
@@ -309,7 +312,7 @@ a.t:hover { color: var(--accent); text-decoration: underline; text-underline-off
 /* The title link covers the whole box, so a click anywhere opens it. Any other link in the box sits above it. */
 .read .t a:first-child::after { content: ""; position: absolute; inset: 0; border-radius: inherit; }
 .read a:not(.t a:first-child) { position: relative; z-index: 1; }
-.read:has(.t a:first-child):hover { border-color: var(--accent); background: color-mix(in srgb, var(--accent) 5%, var(--surface)); }
+.read:has(.t a:first-child):hover { border-color: var(--brass); background: color-mix(in srgb, var(--brass) 5%, var(--surface)); }
 .read:hover .t a:first-child { color: var(--accent); }
 .read .t a:first-child:focus-visible { outline: none; }
 .read:has(.t a:first-child:focus-visible) { outline: 2px solid var(--accent); outline-offset: 2px; }
@@ -354,7 +357,7 @@ a.t:hover { color: var(--accent); text-decoration: underline; text-underline-off
 .starts { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 10px; margin-block: 8px 6px; }
 .start { text-align: left; text-decoration: none; color: var(--fg); background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; display: grid; gap: 2px; align-content: start; }
 .start .label-sm { margin: 0 0 2px; }
-.start:hover { border-color: var(--accent); }
+.start:hover { border-color: var(--brass); }
 .start b { font-family: var(--font-display); font-weight: 500; font-size: 16px; }
 .start small { color: var(--muted); font-size: 13px; }
 .bar { position: sticky; top: 0; z-index: 5; background: var(--bg); padding-block: 14px 10px; border-bottom: 1px solid var(--line); display: grid; gap: 10px; margin-top: 18px; }
