@@ -37,7 +37,7 @@ Freshly inspected Donemus D13128 public preview, PDF pp. 3–4 / printed pp. 1�
 
 ### Research Review, October 11, 2026
 
-[[Review 0036 - Carlos Micháns - Four City Nocturnes|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Carlos Micháns - Four City Nocturnes]].
 

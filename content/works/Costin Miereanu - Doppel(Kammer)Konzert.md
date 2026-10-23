@@ -33,7 +33,7 @@ Request rental materials from [Durand Salabert Eschig](https://www.durand-salabe
 
 Miereanu’s original 16:40 double concerto pairs saxophonist and percussionist with chamber orchestra. [Salabert’s catalog](https://www.durand-salabert-eschig.com/-/media/Images/DSE/PDFs/Brochures/M/miereanu_costin.ashx?hash=DB3940F1A0022C98EE93628A8FA342AAB67BA94A&la=en-GB) verifies the 1985 Metz premiere and hire materials. The saxophonist role spans multiple instruments. No actual score or exact recording was available, so instrument changes and detailed demands remain open.
 
-[[Review 0059 - Costin Miereanu - Doppel(Kammer)Konzert|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Wikipedia lists 'Doppel(kammer)konzert, for saxophone, percussion, and chamber orchestra (1985)' · [en.wikipedia.org](https://en.wikipedia.org/wiki/Costin_Miereanu)
@@ -42,9 +42,9 @@ Miereanu’s original 16:40 double concerto pairs saxophonist and percussionist 
 
 ### Research Review, October 11, 2026
 
-[[Review 0059 - Costin Miereanu - Doppel(Kammer)Konzert|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Costin Miereanu - Doppel(Kammer)Konzert.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Costin Miereanu - Doppel(Kammer)Konzert.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0059.json).
+Catalog: [Costin Miereanu - Doppel(Kammer)Konzert.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Costin Miereanu - Doppel(Kammer)Konzert.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Costin Miereanu’s Doppel(Kammer)Konzert (1985) is a concertante work for a saxophone soloist, percussion soloist and chamber orchestra, published by Salabert as EAS 18334. IRCAM and Salabert both give 16:40 and identify original performers at the 1985 Metz Festival. The saxophonist may use instruments from the sopranino through bass saxophone family, according to IRCAM’s work record.
 

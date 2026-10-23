@@ -35,6 +35,6 @@ Tim assigned First Year. Tim selected the inspected John Tyndall/Belwin arrangem
 
 The saxophone part is in written A major; the matching piano accompaniment is in C major. Original composition year remains unknown. The 1989 edition date is not used as composed. Earlier comparisons with the Cordeiro and Rascher editions remain in the private review history.
 
-[[Review 0204 - Joseph-Hector Fiocco - Allegro|Full review note]].
+[[SaxoBrain - Review and Repair Record]].
 
 The inspected opening excerpt includes an active piano introduction, connected saxophone figures, and a trill. The complete written range remains unverified. [Alto part](https://www.musicnotes.com/sheetmusic/joseph-hector-fiocco/allegro/MN0040759) · [Piano accompaniment](https://www.musicnotes.com/sheetmusic/joseph-hector-fiocco/allegro/MN0040745).

@@ -1,0 +1,11 @@
+{{- $page := . -}}
+{{- $parts := partial "equipment/split-sections.html" (dict "page" $page) -}}
+{{ with $parts.intro }}<div class="prose">{{ . | safeHTML }}</div>{{ end }}
+{{ range $parts.sections }}
+<details class="equipment-method" id="{{ .id }}">
+  <summary>{{ .title | safeHTML }}</summary>
+  <div class="equipment-method-body">
+    <div class="prose">{{ .body | safeHTML }}</div>
+  </div>
+</details>
+{{ end }}

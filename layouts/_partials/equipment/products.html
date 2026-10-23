@@ -1,0 +1,7 @@
+{{- $parts := partial "equipment/split-sections.html" (dict "html" (.html | default "") "tag" (.tag | default "h2") "page" .page "scope" .scope) -}}
+{{ with $parts.intro }}<div class="prose">{{ . | safeHTML }}</div>{{ end }}
+<div class="equipment-products{{ if eq .layout "cards" }} equipment-products-cards{{ end }}">
+{{ range $parts.sections }}
+  {{ partial "equipment/product-card.html" . }}
+{{ end }}
+</div>

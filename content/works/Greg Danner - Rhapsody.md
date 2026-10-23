@@ -25,7 +25,7 @@ publisher:
 
 Danner Rhapsody: exact AV3613 identity is now verified in the live retailer page, including 28 pages and Phil Barham dedication. No saxophone score or recording was found. The common Bryan Crisp excerpt is a trumpet lead and is excluded.
 
-[[Review 0125 - Greg Danner - Rhapsody|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Avanti Music, catalog AV3613; dedicated to Phil Barham · [grothmusic.com](https://www.grothmusic.com/p-143302.aspx)
@@ -34,7 +34,7 @@ Danner Rhapsody: exact AV3613 identity is now verified in the live retailer page
 
 ### Research Review, October 11, 2026
 
-[[Review 0125 - Greg Danner - Rhapsody|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Greg Danner - Rhapsody]].
 

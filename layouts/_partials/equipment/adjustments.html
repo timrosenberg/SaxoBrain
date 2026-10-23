@@ -1,0 +1,19 @@
+{{- $parts := partial "equipment/split-sections.html" (dict "page" .) -}}
+{{- $figures := findRE `(?s)<figure class="equipment-reed-diagram">.*?</figure>` $parts.intro 1 -}}
+<div class="equipment-diagnostics" data-equipment-symptoms>
+  {{ range $figures }}{{ . | safeHTML }}{{ end }}
+  <div class="equipment-symptom-list">
+    {{ $intro := $parts.intro }}{{ range $figures }}{{ $intro = replace $intro . "" }}{{ end }}
+    {{ with $intro | strings.TrimSpace }}<div class="prose">{{ . | safeHTML }}</div>{{ end }}
+    <label class="equipment-symptom-control" hidden>
+      <span>{{ partial "t.html" "equipment-choose-symptom" }}</span>
+      <select><option value="">{{ partial "t.html" "equipment-all-symptoms" }}</option></select>
+    </label>
+    {{ range $parts.sections }}
+    <details class="equipment-symptom" id="{{ .id }}" data-symptom>
+      <summary>{{ .title | safeHTML }}</summary>
+      <div class="prose">{{ .body | safeHTML }}</div>
+    </details>
+    {{ end }}
+  </div>
+</div>

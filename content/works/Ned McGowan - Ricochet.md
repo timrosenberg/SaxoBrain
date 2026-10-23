@@ -28,7 +28,7 @@ publisher:
 
 Ricochet, version for baritone saxophone and percussion; 2014; 12 minutes; Donemus 13753. Score available as paid PDF or print.
 
-[[Review 0271 - Ned McGowan - Ricochet|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Composer's site lists Ricochet (2014) for contrabass flute and percussion, with alternates for bass clarinet; no baritone sax version listed, so composed year may not apply to this catalog entry · [nedmcgowan.com](https://www.nedmcgowan.com/list-of-works-2/)
@@ -37,7 +37,7 @@ Ricochet, version for baritone saxophone and percussion; 2014; 12 minutes; Donem
 
 ### Research Review, October 11, 2026
 
-[[Review 0271 - Ned McGowan - Ricochet|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Ned McGowan - Ricochet]].
 

@@ -29,7 +29,7 @@ publisher:
 
 POLMIC identifies Per Gato for alto OR tenor saxophone and piano, composed 1988. Score sample independently gives 1988 and dedication to David Pituch. Dorn publication number is DORN 0196. A documented 1994 recording features Krzysztof Herder and Romuald Matecki on Felix Victor FVCD 01.
 
-[[Review 0310 - Rafał Stradomski - Per Gato|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Dorn Publications, catalog no. DORN0196 · [grothmusic.com](https://www.grothmusic.com/p-146112.aspx)
@@ -38,7 +38,7 @@ POLMIC identifies Per Gato for alto OR tenor saxophone and piano, composed 1988.
 
 ### Research Review, October 11, 2026
 
-[[Review 0310 - Rafał Stradomski - Per Gato|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Rafał Stradomski - Per Gato]]
 

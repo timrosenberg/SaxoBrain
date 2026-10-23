@@ -27,7 +27,7 @@ aliases: []
 
 Prior estate no. 173 is an estate work-list index, not the current Dorn piano catalog number. Current piano edition is DP1055; orchestral score/parts DP431.
 
-[[Review 0385 - Walter Hartley - Concerto No. 2|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Concerto No. 2 for alto saxophone and small orchestra, 1989; Dorn Publications; ca. 10:30 (ECU library record) · [lib.ecu.edu](https://lib.ecu.edu/catalog-preview/catalog/958336)
@@ -36,7 +36,7 @@ Prior estate no. 173 is an estate work-list index, not the current Dorn piano ca
 
 ### Research Review, October 11, 2026
 
-[[Review 0385 - Walter Hartley - Concerto No. 2|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Walter Hartley - Concerto No. 2]]
 

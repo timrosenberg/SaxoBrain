@@ -29,7 +29,7 @@ publisher:
 
 The partly masked ZM11840 piano preview opens Andante rubato with decorated, flexible-tempo keyboard writing. The solo cue combines sustained/slurred notes and sixteenth-note connections, then more chromatic motion. The separate alto part is unavailable. Linnala’s 1957 saxophone recording is documented at 4:25, but playback was not verified.
 
-[[Review 0097 - Fritz Mareczek - Sommerabend am Berg|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Zimmermann, catalog ZM11840; listed as Summer Evening on the Mountain, subtitled Impression for English Horn/Alto Saxophone and piano · [grothmusic.com](https://www.grothmusic.com/p-118908.aspx)
@@ -38,7 +38,7 @@ The partly masked ZM11840 piano preview opens Andante rubato with decorated, fle
 
 ### Research Review, October 11, 2026
 
-[[Review 0097 - Fritz Mareczek - Sommerabend am Berg|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Fritz Mareczek - Sommerabend am Berg]]
 

@@ -1,0 +1,3 @@
+{{- /* Site text lookup: {{ partial "t.html" "key" }}. Values live in content/Site Text/*.md front matter. A missing key fails the build. */ -}}
+{{- $all := partialCached "site-text.html" "all" -}}
+{{- with index $all . -}}{{ . }}{{- else -}}{{ errorf "site text: no key %q in content/Site Text" . }}{{- end -}}

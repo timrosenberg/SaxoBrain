@@ -26,7 +26,7 @@ publisher:
 
 Pressman’s supplied manuscript page contains a chromatic slurred solo line, meter changes and dynamic shaping over repeated low piano patterns with pedal. The alto staff is explicitly in concert pitch, so its notes cannot be treated as written saxophone range. Complete movements, date, recording, and separate solo part remain unverified.
 
-[[Review 0235 - Lisa Gaye Pressman - Sonata|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Dorn DORN0187 · [grothmusic.com](https://www.grothmusic.com/p-145621.aspx)
@@ -35,7 +35,7 @@ Pressman’s supplied manuscript page contains a chromatic slurred solo line, me
 
 ### Research Review, October 11, 2026
 
-[[Review 0235 - Lisa Gaye Pressman - Sonata|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Lisa Gaye Pressman - Sonata]]
 

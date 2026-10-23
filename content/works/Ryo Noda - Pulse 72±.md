@@ -65,4 +65,4 @@ These refer to the catalog at the start of research. Verified missing fields wer
 
 **Searches tried:** `Ryo Noda Pulse 72`; `Noda Pulse 72 Leduc`; `Ryo Noda Pulse score`; `Noda Pulse AL27003`; `Pulse 72 James Bunte Apple Music`; `Pulse 72 Bunte spotify`.
 
-[[Remaining Repertoire Research - 2026-10-16|Full research overview]]
+[[SaxoBrain - Review and Repair Record]]

@@ -36,7 +36,7 @@ Freshly retrieved the official Theodore Presser product page for 114-41686. It i
 
 ### Research Review, October 11, 2026
 
-[[Review 0105 - Gary Schocker - Nightsong|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Gary Schocker - Nightsong]].
 

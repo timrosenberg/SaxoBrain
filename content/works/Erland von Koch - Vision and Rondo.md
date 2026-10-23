@@ -27,7 +27,7 @@ publisher:
 
 Koch, Vision and Rondo: [Dorn DORN0996 at Groth](https://www.grothmusic.com/p-145578-vision-and-rondo-alto-saxophone-and-piano.aspx) is a six-minute pair dedicated to Ingmar Bergman. Vision uses a theme from Koch’s score for the 1949 film Prison. The [actual Vision preview](https://grothmusic.com/images/product/large/ae00-126436.jpg) shows Andante espressivo, chromatic slurred melody and an active piano part, dated 1950/rev.1983. Its staff is in C, so written sax range remains unknown. Rondo notation and exact paired-version listening remain gaps.
 
-[[Review 0089 - Erland von Koch - Vision and Rondo|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Dorn Publications, catalog DORN0996; two short movements, total duration 6 minutes · [grothmusic.com](https://www.grothmusic.com/p-145578.aspx)
@@ -36,7 +36,7 @@ Koch, Vision and Rondo: [Dorn DORN0996 at Groth](https://www.grothmusic.com/p-14
 
 ### Research Review, October 11, 2026
 
-[[Review 0089 - Erland von Koch - Vision and Rondo|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Erland von Koch - Vision and Rondo]]
 

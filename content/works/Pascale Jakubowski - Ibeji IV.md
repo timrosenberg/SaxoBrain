@@ -21,7 +21,7 @@ publisher: ["Éditions de la Fabrique Musique"]
 
 ### Batch 05 Decision, October 20, 2026
 
-Advanced; composer corrected to Pascale Jakubowski. Confirmed fields and source links are retained in [[Remaining Repertoire - Score Batch 05|Batch 05]] and this work’s research. Older research below records the catalog before these corrections.
+Advanced; composer corrected to Pascale Jakubowski. Confirmed fields and source links are retained in [[SaxoBrain - Review and Repair Record]] and this work’s research. Older research below records the catalog before these corrections.
 
 ### Research checked October 16, 2026
 
@@ -61,4 +61,4 @@ These refer to the catalog at the start of research. Verified missing fields wer
 
 **Searches tried:** `Pedro Jakubowski Ibeji IV`; `Ibeji IV saxophone`; `Ibéji IV partition Jakubowski`; `Ibéji IV Goury`; `Ibéji IV Goury recording saxophone`.
 
-[[Remaining Repertoire Research - 2026-10-16|Full research overview]]
+[[SaxoBrain - Review and Repair Record]]

@@ -27,7 +27,7 @@ publisher:
 
 Billaudot MRB1412, Sisyphus 1971 for E-flat saxophone and piano, 18 pages, copyright 1971. Kallestad’s 2005 appendix printed 87 lists exact work sophomore, two lists; Lunde sophomore, nine lists; Heiden sophomore, thirteen lists. The current catalog Orchestra instrument remains unverified. Exact publisher product is saxophone/piano. 1971 occurs in the title and copyright field; independent composition date is not yet established.
 
-[[Review 0396 - William Latham - Sisyphus|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Billaudot edition MRB1412 listed on Boosey & Hawkes as 'Sisyphus 1971' for saxophone Mi b (E-flat) and piano; the catalog entry also lists Orchestra, check which version · [boosey.com](https://boosey.com/shop/prod/Latham-William-P-Sisyphus-1971/2293157)
@@ -36,7 +36,7 @@ Billaudot MRB1412, Sisyphus 1971 for E-flat saxophone and piano, 18 pages, copyr
 
 ### Research Review, October 11, 2026
 
-[[Review 0396 - William Latham - Sisyphus|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[William Latham - Sisyphus]]
 

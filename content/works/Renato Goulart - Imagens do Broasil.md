@@ -62,4 +62,4 @@ These refer to the catalog at the start of research. Verified missing fields wer
 
 **Searches tried:** `Renato Goulart Imagens do Broasil`; `Goulart Imagens do Brasil saxophone`; `Goulart Imagens do Brasil sheet music`; `Imagens do Brasil Goulart saxophone recording`; `Imagens do Brasil A0.1741457`.
 
-[[Remaining Repertoire Research - 2026-10-16|Full research overview]]
+[[SaxoBrain - Review and Repair Record]]

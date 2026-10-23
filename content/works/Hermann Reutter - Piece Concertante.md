@@ -33,7 +33,7 @@ The embedded recording plays I. Exposition only (4:56). Listen also to [II. Berc
 
 A substantial original with recurring rhythmic motives, fugue and hemiola in the outer sections. The lyrical Berceuse changes between 5/8 and 6/8. These details come from performer notes; notation was unavailable. Three exact Lunte/Blome recordings are linked.
 
-[[Review 0153 - Hermann Reutter - Piece Concertante|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Schott, catalog no. ED5893 · [grothmusic.com](https://www.grothmusic.com/p-34062.aspx)
@@ -43,7 +43,7 @@ A substantial original with recurring rhythmic motives, fugue and hemiola in the
 
 ### Research Review, October 11, 2026
 
-[[Review 0153 - Hermann Reutter - Piece Concertante|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Hermann Reutter - Piece Concertante]]
 

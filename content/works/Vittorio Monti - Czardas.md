@@ -38,7 +38,7 @@ aliases: []
 
 ### Research Review, October 11, 2026
 
-[[Review 0382 - Vittorio Monti - Czardas|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Vittorio Monti - Czardas]]
 

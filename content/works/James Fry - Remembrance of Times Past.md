@@ -28,7 +28,7 @@ publisher:
 
 Fry Remembrance of Times Past: actual opening Poem page confirms composer date January 1987, distinct from © 1989. Andante 60, changing meters, chromatic triplets and sparse piano chords are visible. Perpetual Motion and full-range demands remain uninspected; no recording verified.
 
-[[Review 0161 - James Fry - Remembrance of Times Past|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Dorn Publications, catalog no. DORN0827 · [grothmusic.com](https://www.grothmusic.com/p-139715.aspx)
@@ -38,7 +38,7 @@ Fry Remembrance of Times Past: actual opening Poem page confirms composer date J
 
 ### Research Review, October 11, 2026
 
-[[Review 0161 - James Fry - Remembrance of Times Past|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[James Fry - Remembrance of Times Past]]
 

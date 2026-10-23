@@ -28,7 +28,7 @@ publisher:
 
 Schibler’s own commentary supplies the missing musical profile: a classical saxophone line meets jazz-derived piano/percussion rhythm through fast, slow and Agitato sections. GM902 is the piano reduction of an original concerto. No notation or playable Listen verified; published durations disagree.
 
-[[Review 0012 - Armin Schibler - Konzertante Fantasie|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Boosey & Hawkes lists Konzertante Fantasie for alto saxophone and piano · [boosey.com](https://www.boosey.com/shop/directory/product/composer/Schibler-Armin/Schibler,%20Armin)
@@ -37,7 +37,7 @@ Schibler’s own commentary supplies the missing musical profile: a classical sa
 
 ### Research Review, October 11, 2026
 
-[[Review 0012 - Armin Schibler - Konzertante Fantasie|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Armin Schibler - Konzertante Fantasie]]
 

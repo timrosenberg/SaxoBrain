@@ -27,7 +27,7 @@ publisher:
 
 Kraft’s first score page gives 1977, separately from its 1979 copyright. The opening combines chromatic slurred lines, beamed runs, triplet and quintuplet groupings, changing meters, and active piano writing. This is an original published duo, with no simplification evidence. The complete score, full range, and exact recording remain unverified.
 
-[[Review 0230 - Leo Kraft - Three Pieces|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Dorn DORN0178 · [grothmusic.com](https://www.grothmusic.com/p-145580.aspx)
@@ -36,7 +36,7 @@ Kraft’s first score page gives 1977, separately from its 1979 copyright. The o
 
 ### Research Review, October 11, 2026
 
-[[Review 0230 - Leo Kraft - Three Pieces|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Leo Kraft - Three Pieces]]
 

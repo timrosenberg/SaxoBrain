@@ -29,7 +29,7 @@ publisher:
 
 Alto and piano, written for James Flowers and Nancy DeSalvo, who premiered it at Westminster College. Dorn DORN1851 is confirmed. No notation or matching recording was found, so musical demands remain unknown and a score copy is needed.
 
-[[Review 0062 - Daniel Perttu - Towers of Dalmatia|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Published by Dorn Publications as 'Towers of Dalmatia: A Rhapsody for Saxophone and Piano'; announced September 2012 · [westminster.edu](https://www.westminster.edu/about/news/release.cfm?id=3960)
@@ -39,9 +39,9 @@ Alto and piano, written for James Flowers and Nancy DeSalvo, who premiered it at
 
 ### Research Review, October 11, 2026
 
-[[Review 0062 - Daniel Perttu - Towers of Dalmatia|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Daniel Perttu - Towers of Dalmatia.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Daniel Perttu - Towers of Dalmatia.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0062.json).
+Catalog: [Daniel Perttu - Towers of Dalmatia.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Daniel Perttu - Towers of Dalmatia.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Daniel Perttu identifies Towers of Dalmatia as an alto saxophone and piano work available through Dorn Publications. Westminster College announced its commission for saxophonist James Flowers and pianist Nancy DeSalvo.
 

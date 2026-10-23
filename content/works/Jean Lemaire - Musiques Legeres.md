@@ -29,7 +29,7 @@ publisher:
 
 The inspected Hispano opening asks for light precise playing around quarter note 80, detached and accented upper notes, slurred runs and grace figures over chromatic piano chords. A contemporary Leduc advertisement identifies the work as the 1969 Paris Conservatoire saxophone competition piece. Three other pieces remain uninspected.
 
-[[Review 0168 - Jean Lemaire - Musiques Legeres|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Alphonse Leduc, catalog no. AL24211 · [grothmusic.com](https://www.grothmusic.com/p-141576.aspx)
@@ -39,7 +39,7 @@ The inspected Hispano opening asks for light precise playing around quarter note
 
 ### Research Review, October 11, 2026
 
-[[Review 0168 - Jean Lemaire - Musiques Legeres|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Jean Lemaire - Musiques Legeres]]
 

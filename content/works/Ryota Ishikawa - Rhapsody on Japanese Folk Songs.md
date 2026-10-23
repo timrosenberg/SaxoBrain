@@ -28,9 +28,9 @@ aliases: []
 
 ### Research Review, October 11, 2026
 
-[[Review 0353 - Ryota Ishikawa - Rhapsody on Japanese Folk Songs|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Ryota Ishikawa - Rhapsody on Japanese Folk Songs.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Ryota Ishikawa - Rhapsody on Japanese Folk Songs.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0353.json).
+Catalog: [Ryota Ishikawa - Rhapsody on Japanese Folk Songs.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Ryota Ishikawa - Rhapsody on Japanese Folk Songs.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Ryota Ishikawa's Rhapsody on Japanese Folk Songs is an original 2010 alto saxophone and piano work, published by Zen-On in 2014, commissioned by Nobuya Sugawa.
 

@@ -28,7 +28,7 @@ Request a rental quotation from Billaudot for *Double Concerto*, catalog number 
 
 ### Batch 05 Decision, October 20, 2026
 
-Advanced; title and scoring confirmed as Double Concerto for alto saxophone and piano soloists with orchestra. Confirmed fields and source links are retained in [[Remaining Repertoire - Score Batch 05|Batch 05]] and this work’s research. Older research below records the catalog before these corrections.
+Advanced; title and scoring confirmed as Double Concerto for alto saxophone and piano soloists with orchestra. Confirmed fields and source links are retained in [[SaxoBrain - Review and Repair Record]] and this work’s research. Older research below records the catalog before these corrections.
 
 ### Research checked October 16, 2026
 
@@ -65,4 +65,4 @@ These refer to the catalog at the start of research. Verified missing fields wer
 
 **Searches tried:** `Lucie Robert Diessel Concerto soprano saxophone`; `Robert Concerto soprano Lucie`; `Lucie Robert concerto saxophone partition`.
 
-[[Remaining Repertoire Research - 2026-10-16|Full research overview]]
+[[SaxoBrain - Review and Repair Record]]

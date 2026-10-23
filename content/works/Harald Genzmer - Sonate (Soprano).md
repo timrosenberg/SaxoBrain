@@ -27,7 +27,7 @@ publisher:
 
 The exact RE24008 soprano/piano edition is verified. Groth describes substantial writing for both players. Its prose says three movements while its contents lists four, so the earlier three-movement claim needs score confirmation. No notation or exact public saxophone recording was found.
 
-[[Review 0138 - Harald Genzmer - Sonate (Soprano)|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Ries & Erler, catalog RE24008 · [grothmusic.com](https://www.grothmusic.com/p-144588.aspx)
@@ -37,9 +37,9 @@ The exact RE24008 soprano/piano edition is verified. Groth describes substantial
 
 ### Research Review, October 11, 2026
 
-[[Review 0138 - Harald Genzmer - Sonate (Soprano)|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Harald Genzmer - Sonate (Soprano).md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Harald Genzmer - Sonate (Soprano).md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0138.json).
+Catalog: [Harald Genzmer - Sonate (Soprano).md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Harald Genzmer - Sonate (Soprano).md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Harald Genzmer’s Sonata for B-flat soprano saxophone and piano is the 1982 work GeWV 246, published as Ries & Erler RE24008 (ISBN 9790013240081). A seller describes a three-movement form and compares its more varied harmonic palette to the earlier flute sonata; this is secondary commentary, not direct score analysis.
 

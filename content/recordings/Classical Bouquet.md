@@ -20,4 +20,25 @@ amazon-music:
 tidal: 
 ---
 
+## Tracks
 
+1. Sonata in G major, Op. 3: I. Grave · [[Giovanni Benedetto Platti]]
+2. Sonata in G major, Op. 3: II. Allegro · [[Giovanni Benedetto Platti]]
+3. Sonata in G major, Op. 3: III. Adagio · [[Giovanni Benedetto Platti]]
+4. Sonata in G major, Op. 3: IV. Allegro molto · [[Giovanni Benedetto Platti]]
+5. Sonata in E-flat major, BWV 1031: I. Allegro moderato · [[Johann Sebastian Bach]]
+6. Sonata in E-flat major, BWV 1031: II. Siciliano · [[Johann Sebastian Bach]]
+7. Sonata in E-flat major, BWV 1031: III. Allegro · [[Johann Sebastian Bach]]
+8. Pièce en forme de Habanera · [[Maurice Ravel]]
+9. Sonata for soprano saxophone: I. Recitative · [[Charles Rochester Young]]
+10. Sonata for soprano saxophone: II. Nocturne, Tarantella · [[Charles Rochester Young]]
+11. Fantasia: I. Animé · [[Hector Villa-Lobos|Heitor Villa-Lobos]]
+12. Fantasia: II–III. Lentement, Très animé · [[Hector Villa-Lobos|Heitor Villa-Lobos]]
+13. Oboe Concerto in C major, K. 314: I. Allegro aperto · [[Wolfgang Amadeus Mozart]]
+14. Oboe Concerto in C major, K. 314: II. Adagio non troppo · [[Wolfgang Amadeus Mozart]]
+15. Oboe Concerto in C major, K. 314: III. Rondo, Allegretto · [[Wolfgang Amadeus Mozart]]
+
+## Research notes (private)
+
+- Track order and composer credits: https://www.ithaca.edu/faculty/mauk/publications/recordings-partial-listing
+- Track order and composer credits: https://www.tagtuner.com/music/albums/Steven-Mauk/Classical-Bouquet/album-v21d816c

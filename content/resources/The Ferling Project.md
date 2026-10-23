@@ -2,25 +2,15 @@
 title: "The Ferling Project"
 slug: the-ferling-project
 third-party-files: true
+embed-youtube: true
 notion-id: 920314b3112b4df9935b4e36d869d60f
 ---
 
-During the 2020 COVID-19 pandemic Jean-Denis Michat took on the project to record his favorite set of études, The [[Franz Wilhelm Ferling - 48 Famous Studies|48 Famous Studies]]  by Franz Wilhelm Ferling. He performed them with accompaniments that he composed himself and upload the videos, one by one, to [YouTube](https://www.youtube.com/channel/UCe4h3w4Xgf1sXBDjxfH7jKg/videos). The videos are embedded below. 
+During the 2020 COVID-19 pandemic Jean-Denis Michat took on the project to record his favorite set of études, The *[[Franz Wilhelm Ferling - 48 Famous Studies|48 Famous Studies]]* by Franz Wilhelm Ferling. He performed them with accompaniments that he composed himself and uploaded the videos, one by one, to [YouTube](https://www.youtube.com/channel/UCe4h3w4Xgf1sXBDjxfH7jKg/videos). The videos are embedded below.
 
-For archival purposes all of the videos are also bundled into a `.zip` file below. Audio-only versions are also available for download.
-
-Monsieur Michat has also released the sheet music for several of the études with his accompaniments on [his website](https://www.jdmichat.com/ferling). 
+Monsieur Michat offers downloads of the études with his accompaniments on [his website](https://www.jdmichat.com/ferling). They include the sheet music, MIDI files, Finale files, and demo and playback recordings.
 
 ---
-
-# Downloads
-
-Michat - Project FERLING videos.zip
-
-Michat - Project FERLING audio.zip
-
-[Michat - Project FERLING sheet music.zip](/media/resources/the-ferling-project/Michat_-_Project_FERLING_sheet_music.zip)
-
 # Embedded Videos
 
 ## Projet FERLING Étude n°1 en do majeur, "Adagio con espressione."

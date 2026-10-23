@@ -35,7 +35,7 @@ Request rental materials through the Hire link on [Wise Music’s work page](htt
 
 Pituch’s publisher-hosted commentary supplies a clear musical profile. Premiere and festival performance are verified. Score and playable Listen remain unavailable.
 
-[[Review 0018 - Bent Lorentzen - Concerto|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Scored for solo alto saxophone with winds, piano and percussion (2.2.2.2/2.2.2.1/timp, 3 perc, piano); Edition Wilhelm Hansen; about 23 minutes · [wisemusicclassical.com](https://www.wisemusicclassical.com/work/22267/Saxofonkoncert--Bent-Lorentzen/)
@@ -45,7 +45,7 @@ Pituch’s publisher-hosted commentary supplies a clear musical profile. Premier
 
 ### Research Review, October 11, 2026
 
-[[Review 0018 - Bent Lorentzen - Concerto|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Bent Lorentzen - Concerto]]
 

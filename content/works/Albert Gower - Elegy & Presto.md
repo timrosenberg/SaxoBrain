@@ -26,7 +26,7 @@ publisher:
 
 Gower, Elegy & Presto: Tenuto 494-01779 includes a separate B-flat soprano part alongside the oboe part and piano score. [Score edition](https://www.grothmusic.com/p-144593.aspx). No notation or saxophone recording was located; duration, composition date, and adaptation history remain unknown.
 
-[[Review 0001 - Albert Gower - Elegy & Presto|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Elegy and Presto for oboe or soprano saxophone and piano, Tenuto, about 1994, duration about 4:10 (per search summary of UMD score record) · [digital.lib.umd.edu](https://digital.lib.umd.edu/scores/id/00008473)
@@ -35,7 +35,7 @@ Gower, Elegy & Presto: Tenuto 494-01779 includes a separate B-flat soprano part 
 
 ### Research Review, October 11, 2026
 
-[[Review 0001 - Albert Gower - Elegy & Presto|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Albert Gower - Elegy & Presto]]
 

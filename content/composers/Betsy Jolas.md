@@ -10,7 +10,9 @@ born: 1926
 died: 
 wikidata: Q262420
 photo: "/media/composers/betsy-jolas.jpg"
-photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Betsy_004.jpg"
 aliases: []
 ---
+
+> [!caption]
+> Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Betsy_004.jpg)

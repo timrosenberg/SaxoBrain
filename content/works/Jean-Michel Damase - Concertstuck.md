@@ -31,7 +31,7 @@ multi-instruments: "Alto saxophone with piano or chamber orchestra"
 
 Damase Concertstück: 1950 orchestral original and AL20759 piano edition verified. Opening score shows chromatic legato phrasing over chordal piano pulses. Bachelor curriculum and Ingham/Cuckston recording verified.
 
-[[Review 0185 - Jean-Michel Damase - Concertstuck|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Alphonse Leduc, catalog no. AL20759 · [grothmusic.com](https://www.grothmusic.com/p-147309.aspx)
@@ -40,7 +40,7 @@ Damase Concertstück: 1950 orchestral original and AL20759 piano edition verifie
 
 ### Research Review, October 11, 2026
 
-[[Review 0185 - Jean-Michel Damase - Concertstuck|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Jean-Michel Damase - Concertstuck]].
 

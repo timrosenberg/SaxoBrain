@@ -30,7 +30,7 @@ publisher:
 
 Tubin, Sonata: Harri Kiisk’s [BIS booklet](https://eclassical.textalk.se/shop/art28/BIS-CD-269_booklet_scan.pdf-cd34f8.pdf) explains the saxophone/piano thematic development, virtuosic runs into an unbroken transition to the Adagio, and a fast finale that exchanges material between the players. The slow movement has a cello Troubadour Song origin according to Eino Tubin’s biography. I inspected six short thematic examples, which do not establish written sax range. [Virgo Veldi and Johan Randvere’s complete video](https://www.youtube.com/watch?v=HmePahyMMuk) is verified playable, with movement starts 0:00, 5:07 and 9:23. NMS1998 is a 1993 Gehrmans edition of the 1951 work; premiere day remains disputed between two primary sources.
 
-[[Review 0082 - Eduard Tubin - Sonata|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Completed in Stockholm 9 March 1951; three movements (Allegro, Adagio, Allegro vivace); first played in Uppsala in 1951 by saxophonist Jules de Vries and pianist Martin Keil · [eclassical.textalk.se](https://eclassical.textalk.se/shop/art28/BIS-CD-269_booklet_scan.pdf-cd34f8.pdf)
@@ -40,7 +40,7 @@ Tubin, Sonata: Harri Kiisk’s [BIS booklet](https://eclassical.textalk.se/shop/
 
 ### Research Review, October 11, 2026
 
-[[Review 0082 - Eduard Tubin - Sonata|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Eduard Tubin - Sonata]]
 

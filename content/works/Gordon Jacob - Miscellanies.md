@@ -29,7 +29,7 @@ publisher:
 
 Miscellanies has verified 1976 composition metadata and visually inspected alto-part previews. Folk Song contrasts lyrical/ornamented phrases with Moto Perpetuo’s slurred sixteenths. Flag the conflicting scoring-origin accounts rather than silently resolving them.
 
-[[Review 0123 - Gordon Jacob - Miscellanies|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher June Emerson, catalog EE66 · [grothmusic.com](https://www.grothmusic.com/p-37912.aspx)
@@ -38,7 +38,7 @@ Miscellanies has verified 1976 composition metadata and visually inspected alto-
 
 ### Research Review, October 11, 2026
 
-[[Review 0123 - Gordon Jacob - Miscellanies|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Gordon Jacob - Miscellanies]].
 

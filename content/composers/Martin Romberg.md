@@ -10,7 +10,9 @@ born: 1978
 died: 
 wikidata: Q17106892
 photo: "/media/composers/martin-romberg.jpg"
-photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:MartinRomberg.jpg"
 aliases: []
 ---
+
+> [!caption]
+> Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:MartinRomberg.jpg)

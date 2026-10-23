@@ -1,0 +1,15 @@
+{{- $parts := partial "equipment/split-sections.html" (dict "page" .) -}}
+<div class="equipment-instruments" data-equipment-instruments data-default-instrument="alto-saxophone">
+  <div class="prose">{{ $parts.intro | safeHTML }}</div>
+  <div class="equipment-instrument-picker" role="group" aria-label="{{ partial "t.html" "equipment-instrument-label" }}" hidden>
+  {{ range $parts.sections }}
+    <button class="btn" type="button" data-instrument-target="{{ .id }}" aria-controls="{{ .id }}" aria-pressed="false">{{ .title | plainify }}</button>
+  {{ end }}
+  </div>
+  {{ range $parts.sections }}
+  <section id="{{ .id }}" class="equipment-instrument-panel" data-instrument-panel>
+    <h3>{{ .title | safeHTML }}</h3>
+    <div class="prose equipment-recommendations">{{ .body | safeHTML }}</div>
+  </section>
+  {{ end }}
+</div>

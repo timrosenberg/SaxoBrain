@@ -31,7 +31,7 @@ The linked performance begins at 48:38 in Lawrence Gwozdz’s guest recital with
 
 Dorn’s opening score verifies Russo’s 1964 composition for clarinet or alto saxophone and piano. Repeating piano bass, accented sustained notes, chromatic slurs and an active right hand make rhythmic coordination a concrete review focus. Gwozdz’s university guest recital supplies a verified chapter link for the complete three-movement work. The dealer’s tenor claim remains unresolved.
 
-[[Review 0203 - John Russo - Three Ostinati|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Dorn Publications, catalog no. DORN0192 · [grothmusic.com](https://www.grothmusic.com/p-146055.aspx)
@@ -40,9 +40,9 @@ Dorn’s opening score verifies Russo’s 1964 composition for clarinet or alto 
 
 ### Research Review, October 11, 2026
 
-[[Review 0203 - John Russo - Three Ostinati|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [John Russo - Three Ostinati.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/John Russo - Three Ostinati.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0203.json).
+Catalog: [John Russo - Three Ostinati.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/John Russo - Three Ostinati.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** The local work file attributes Three Ostinati to John Russo and lists Dorn DORN0192 for alto saxophone and piano. The linked Groth listing was not independently retrieved this pass. Search results for “Three Ostinatos” surfaced Roger Zare’s unrelated ensemble work, which was excluded.
 

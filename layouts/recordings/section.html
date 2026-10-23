@@ -1,28 +1,33 @@
 {{ define "main" }}
 {{- /* Two views of the same albums: a list and a grid of covers. Both are in the HTML; static/js/recordings.js
-       switches between them and keeps the choice in the address bar (/recordings/?view=list; albums are the
+       filters them and keeps the query and view in the address bar (/recordings/?view=list; albums are the
        default). Without JavaScript the grid shows and the switch stays hidden. Pages with no cover
        appear in the list only. */ -}}
 <div class="section-list recordings-index">
 <h1>{{ .Title }}</h1>
 {{ partial "notice.html" . }}
 {{ with partial "body.html" . }}<div class="prose">{{ . }}</div>{{ end }}
-<div class="views" role="group" aria-label="View" hidden>
-<button type="button" class="chip" data-view="albums" aria-pressed="true">Albums</button>
-<button type="button" class="chip" data-view="list" aria-pressed="false">List</button>
+<div class="bar" id="rcontrols" hidden>
+<input id="rq" class="search" type="search" placeholder="{{ partial "t.html" "recordings-search-placeholder" }}" aria-label="{{ partial "t.html" "recordings-search-label" }}" autocomplete="off">
+<div class="views" role="group" aria-label="{{ partial "t.html" "recordings-view-label" }}">
+<button type="button" class="chip" data-view="albums" aria-pressed="true">{{ partial "t.html" "recordings-view-albums" }}</button>
+<button type="button" class="chip" data-view="list" aria-pressed="false">{{ partial "t.html" "recordings-view-list" }}</button>
 </div>
+</div>
+<div class="status" id="rstatus" hidden><span id="rcount" aria-live="polite" aria-atomic="true"></span><button class="clear" id="rclear" type="button" hidden>{{ partial "t.html" "recordings-clear-search" }}</button></div>
 {{ with .RegularPages.ByTitle }}
 <ul class="alist" data-view-panel="list" hidden>
-{{ range . }}<li><a href="{{ .RelPermalink }}"><span>{{ .Title }}{{ if index .Params "out-of-print" }} <span class="pill oop">Out of print</span>{{ end }}</span>{{ with .Params.saxophonists }}<span class="who">{{ . }}</span>{{ end }}</a></li>{{ end }}
+{{ range . }}<li data-search="{{ .Title }} {{ .Params.saxophonists }} {{ index .Params "year-released" }}"><a href="{{ .RelPermalink }}"><span>{{ .Title }}{{ if index .Params "out-of-print" }} <span class="pill oop">{{ partial "t.html" "recordings-out-of-print" }}</span>{{ end }}</span>{{ with .Params.saxophonists }}<span class="who">{{ . }}</span>{{ end }}</a></li>{{ end }}
 </ul>
 <ul class="albumgrid" data-view-panel="albums">
-{{ range . }}{{ $p := . }}{{ with .Params.cover }}<li><a href="{{ $p.RelPermalink }}">
+{{ range . }}{{ $p := . }}{{ with .Params.cover }}<li data-search="{{ $p.Title }} {{ $p.Params.saxophonists }} {{ index $p.Params "year-released" }}"><a href="{{ $p.RelPermalink }}">
   <img src="{{ if hasPrefix . "/" }}{{ relURL (strings.TrimPrefix "/" .) }}{{ else }}{{ . }}{{ end }}" alt="" loading="lazy">
   <span class="t">{{ $p.Title }}</span>
-  {{ with $p.Params.saxophonists }}<span class="muted">{{ . }}</span>{{ end }}{{ with index $p.Params "year-released" }}<span class="muted yr">{{ . }}{{ if index $p.Params "out-of-print" }} <span class="pill oop">Out of print</span>{{ end }}</span>{{ end }}
+  {{ with $p.Params.saxophonists }}<span class="muted">{{ . }}</span>{{ end }}{{ with index $p.Params "year-released" }}<span class="muted yr">{{ . }}{{ if index $p.Params "out-of-print" }} <span class="pill oop">{{ partial "t.html" "recordings-out-of-print" }}</span>{{ end }}</span>{{ end }}
 </a></li>{{ end }}{{ end }}
 </ul>
 {{ end }}
+<p class="empty" id="rempty" hidden>{{ partial "t.html" "recordings-empty" }}</p>
 </div>
 <script defer src="{{ "js/recordings.js" | relURL }}"></script>
 {{ end }}

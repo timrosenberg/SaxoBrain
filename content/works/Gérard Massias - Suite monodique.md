@@ -30,7 +30,7 @@ aliases: []
 
 Suite monodique: exact full public Maillet performance verified, all five movements indexed, 9:22. Slow third movement lasts about 4 minutes. RCM performance diploma repertoire adds strong context to Billaudot teaching collection. No notation inspected.
 
-[[Review 0131 - Gérard Massias - Suite monodique|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Billaudot, catalog MRB1068 · [grothmusic.com](https://www.grothmusic.com/p-147272.aspx)
@@ -39,9 +39,9 @@ Suite monodique: exact full public Maillet performance verified, all five moveme
 
 ### Research Review, October 11, 2026
 
-[[Review 0131 - Gérard Massias - Suite monodique|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Gérard Massias - Suite monodique.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Gérard Massias - Suite monodique.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0131.json).
+Catalog: [Gérard Massias - Suite monodique.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Gérard Massias - Suite monodique.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Billaudot MRB1068 is Gérard Massias’s Suite monodique for solo alto saxophone. Billaudot places it in its L’enseignement moderne du saxophone collection and assigns its publisher classification “Difficult (cycle 3).” This is publisher pedagogy metadata, not a SaxoBrain level.
 

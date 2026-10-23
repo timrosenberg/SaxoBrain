@@ -28,7 +28,7 @@ library-score:
 
 The Royal Conservatoire Antwerp library catalog explicitly gives composition year 1985, duration eight minutes, and publication by CeBeDeM in 1999. The publisher cover and opening page identify alto saxophone or violin with piano. Groth specifies that the piano score is in concert pitch, with a separate alto part. Three movements are listed: Moderato, Simplice and Con calore, dans l’esprit d’un blues. The opening manuscript also bears 1985 and an eight-minute duration.
 
-[[Review 0405 - Yolande Uyttenhove - Sonata Op. 119|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Cebedem, catalog no. CEBEDEM28; 19 pages; Moderato, Simplice, Con calore (dans l'esprit d'un blues) · [grothmusic.com](https://www.grothmusic.com/p-142213.aspx)
@@ -37,7 +37,7 @@ The Royal Conservatoire Antwerp library catalog explicitly gives composition yea
 
 ### Research Review, October 11, 2026
 
-[[Review 0405 - Yolande Uyttenhove - Sonata Op. 119|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Yolande Uyttenhove - Sonata Op. 119]].
 

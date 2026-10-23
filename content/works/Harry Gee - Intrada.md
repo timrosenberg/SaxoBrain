@@ -26,7 +26,7 @@ publisher:
 
 Dorn DORN1759 verified for alto saxophone and piano. NYPL has a manuscript photocopy in its American Music Center collection. No public notation or exact recording was verified, so musical demands remain unknown.
 
-[[Review 0145 - Harry Gee - Intrada|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Dorn Publications, catalog no. DORN1759 · [grothmusic.com](https://www.grothmusic.com/p-156785.aspx)
@@ -35,9 +35,9 @@ Dorn DORN1759 verified for alto saxophone and piano. NYPL has a manuscript photo
 
 ### Research Review, October 11, 2026
 
-[[Review 0145 - Harry Gee - Intrada|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Harry Gee - Intrada.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Harry Gee - Intrada.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0145.json).
+Catalog: [Harry Gee - Intrada.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Harry Gee - Intrada.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Dorn Publications DORN1759 is Harry Gee’s Intrada for alto saxophone and piano. Searches returned unrelated pieces with the same title and no verified performance or score preview for this work.
 

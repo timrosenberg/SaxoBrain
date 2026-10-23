@@ -1,0 +1,30 @@
+<dialog class="pdf-overlay" id="pdf-overlay" aria-labelledby="pdf-overlay-title">
+  <div class="pdf-overlay-shell">
+    <header class="pdf-overlay-head">
+      <h2 id="pdf-overlay-title">{{ partial "t.html" "pdf-title" }}</h2>
+      <div class="pdf-overlay-actions">
+        <a class="btn" id="pdf-overlay-download" download>{{ partial "t.html" "pdf-download" }}</a>
+        <button class="btn" id="pdf-overlay-close" type="button" autofocus>{{ partial "t.html" "pdf-close" }}</button>
+      </div>
+    </header>
+    <div class="pdf-overlay-toolbar" role="group" aria-label="{{ partial "t.html" "pdf-controls" }}">
+      <div class="pdf-overlay-group">
+        <button type="button" class="btn" id="pdf-previous" aria-label="{{ partial "t.html" "pdf-previous" }}" disabled>‹</button>
+        <output id="pdf-page" aria-live="polite" aria-atomic="true"></output>
+        <button type="button" class="btn" id="pdf-next" aria-label="{{ partial "t.html" "pdf-next" }}" disabled>›</button>
+      </div>
+      <div class="pdf-overlay-group">
+        <button type="button" class="btn" id="pdf-zoom-out" aria-label="{{ partial "t.html" "pdf-zoom-out" }}" disabled>−</button>
+        <button type="button" class="btn" id="pdf-fit" disabled>{{ partial "t.html" "pdf-fit" }}</button>
+        <button type="button" class="btn" id="pdf-zoom-in" aria-label="{{ partial "t.html" "pdf-zoom-in" }}" disabled>+</button>
+      </div>
+    </div>
+    <div class="pdf-overlay-body">
+      <div class="pdf-overlay-container" id="pdf-container" tabindex="0" role="region" aria-label="{{ partial "t.html" "pdf-document" }}" aria-busy="true">
+        <div class="pdfViewer" id="pdf-pages"></div>
+        <img class="image-viewer-image" id="viewer-image" alt="" hidden>
+      </div>
+      <p class="pdf-overlay-status" id="pdf-status" role="status"></p>
+    </div>
+  </div>
+</dialog>

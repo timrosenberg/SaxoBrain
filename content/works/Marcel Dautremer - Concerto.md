@@ -29,7 +29,7 @@ publisher:
 
 Original scoring is E-flat alto saxophone and string orchestra. Lemoine 24084 provides piano reduction and solo part. Groth lists three movements: Allegro, Largo cantabile, Allegro giocoso, 35 pages. Opening sample dedicates the concerto to Georges Gourdet and bears copyright 1964. Antwerp holds an orchestral score; MSHSAA lists it in broad Class A repertoire.
 
-[[Review 0242 - Marcel Dautremer - Concerto|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Lemoine HL24084; piano reduction; movements Allegro, Largo cantabile, Allegro giocoso; 35 pages · [grothmusic.com](https://www.grothmusic.com/p-143303.aspx)
@@ -38,7 +38,7 @@ Original scoring is E-flat alto saxophone and string orchestra. Lemoine 24084 pr
 
 ### Research Review, October 11, 2026
 
-[[Review 0242 - Marcel Dautremer - Concerto|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Marcel Dautremer - Concerto]]
 

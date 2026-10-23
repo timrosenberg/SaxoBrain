@@ -1,0 +1,37 @@
+{{- /* Keep former heading fragments on their corresponding cells when a reference becomes a table. */ -}}
+{{- $page := . -}}
+{{- $html := partial "body.html" $page | string -}}
+{{- $anchors := slice -}}
+{{- range index .Params "equipment-table-anchors" -}}
+  {{- $label := $page.RenderString .text | string -}}
+  {{- $anchors = $anchors | append (dict "id" .id "cell" (printf `<td>%s</td>` $label) "replacement" (printf `<td id="%s">%s</td>` .id $label)) -}}
+{{- end -}}
+{{- $used := slice -}}
+{{- range findRE `(?s)<tr>.*?</tr>` $html -}}
+  {{- $original := . -}}
+  {{- $row := . -}}
+  {{- range $anchors -}}
+    {{- if and (not (in $used .id)) (strings.Contains $row .cell) -}}
+      {{- $row = replace $row .cell .replacement -}}
+      {{- $used = $used | append .id -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $html = replace $html $original $row -}}
+{{- end -}}
+{{- range $anchors -}}
+  {{- if not (in $used .id) }}{{ errorf "Equipment table in %s has no cell for fragment %q" $page.File.Path .id }}{{ end -}}
+{{- end -}}
+{{- /* Keep former embedded fragments beside the link to their new location. */ -}}
+{{- range $target, $aliases := index .Params "equipment-fragment-aliases" -}}
+  {{- $opening := findRE (printf `<[^>]+\s+id="%s"[^>]*>` $target) $html 1 -}}
+  {{- if not $opening -}}
+    {{- errorf "Equipment fragment aliases in %s point to missing fragment %q" $page.File.Path $target -}}
+  {{- else -}}
+    {{- $markers := "" -}}
+    {{- range $aliases -}}
+      {{- $markers = printf `%s<span id="%s" aria-hidden="true"></span>` $markers . -}}
+    {{- end -}}
+    {{- $html = replace $html (index $opening 0) (printf "%s%s" (index $opening 0) $markers) -}}
+  {{- end -}}
+{{- end -}}
+{{- return ($html | safeHTML) -}}

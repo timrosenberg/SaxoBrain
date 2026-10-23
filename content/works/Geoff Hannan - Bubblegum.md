@@ -66,4 +66,4 @@ These refer to the catalog at the start of research. Verified missing fields wer
 
 **Searches tried:** `Geoff Hannan Bubblegum`; `Bubblegum Hannan saxophone`; `Geoff Hannan Bubblegum score`.
 
-[[Remaining Repertoire Research - 2026-10-16|Full research overview]]
+[[SaxoBrain - Review and Repair Record]]

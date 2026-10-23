@@ -32,7 +32,7 @@ publisher:
 
 CM115 pairs two jazz-rooted pieces in McChrystal’s soprano saxophone and piano arrangement. The official ABRSM syllabus uses this same soprano-titled edition for B-flat repertoire, so tenor use does not establish a separate adaptation. Shiraz’s exam instruction selects the upper ossia. No notation or complete exact sax recording of the pair was inspected; a tenor Gentle Dreams practice demo is verified. The two originals do not have a confirmed shared year. [Edition](https://stainer.co.uk/shop/cm115/) · [Exam evidence pp.129,137](https://www.abrsm.org/sites/default/files/2023-10/Woodwind%202022%20Practical%20syllabus%20(0%20ALL)%2020230911.pdf) · [Practice](https://www.youronlinepianist.co.uk/index.php?id=20647&route=yop%2Ftrack).
 
-[[Review 0065 - David Heath - Gentle Dreams & Shiraz|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Camden Music CM115, soprano saxophone and piano; two contrasting jazz-rooted pieces playable separately or as a pair; Gerard McChrystal Saxophone Series · [justflutes.com](https://justflutes.com/shop/product/gentle-dreams-shiraz-soprano-sax-dave-heath)
@@ -42,9 +42,9 @@ CM115 pairs two jazz-rooted pieces in McChrystal’s soprano saxophone and piano
 
 ### Research Review, October 11, 2026
 
-[[Review 0065 - David Heath - Gentle Dreams & Shiraz|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [David Heath - Gentle Dreams & Shiraz.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/David Heath - Gentle Dreams & Shiraz.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0065.json).
+Catalog: [David Heath - Gentle Dreams & Shiraz.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/David Heath - Gentle Dreams & Shiraz.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Dave Heath’s Gentle Dreams and Shiraz originated as pieces for other instruments and were arranged by Gerard McChrystal for soprano saxophone and piano. Stainer & Bell identifies Camden Music CM115; another catalog lists 18 pages. These are paired contrasting pieces rooted in jazz.
 

@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{{ if .IsHome }}{{ site.Title }}: saxophone repertoire, curriculum and reading{{ else }}{{ .Title }} · {{ site.Title }}{{ end }}</title>
-<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
+<title>{{ if .IsHome }}{{ site.Title }}{{ partial "t.html" "home-title-suffix" }}{{ else }}{{ .Title }} · {{ site.Title }}{{ end }}</title>
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ partial "t.html" "site-description" }}{{ end }}">
 <link rel="canonical" href="{{ .Permalink }}">
 <link rel="icon" href="{{ "favicon.ico" | relURL }}" sizes="16x16 32x32 48x48">
 <link rel="icon" href="{{ "favicon.svg" | relURL }}" type="image/svg+xml" sizes="any">
@@ -13,21 +13,29 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600&family=Schibsted+Grotesk:wght@500;600;700&display=swap">
 <link rel="stylesheet" href="{{ "css/site.css" | relURL }}">
+{{ if eq .Type "equipment" }}<link rel="stylesheet" href="{{ "css/equipment.css" | relURL }}">{{ end }}
+{{ if index .Params "pdf-viewer" }}
+<link rel="stylesheet" href="{{ "vendor/pdfjs/6.4.299/web/pdf_viewer.css" | relURL }}">
+{{ end }}
+{{ if or (index .Params "pdf-viewer") (index .Params "image-viewer") }}
+<link rel="stylesheet" href="{{ "css/pdf-overlay.css" | relURL }}">
+{{ end }}
 </head>
 <body>
-<a class="skip" href="#main">Skip to content</a>
+<a class="skip" href="#main">{{ partial "t.html" "skip-link" }}</a>
 {{- $sec := .Section -}}
 <div class="masthead">
 <header class="site-head">
-<a class="brand" href="{{ site.Home.RelPermalink }}">Saxo<span>Brain</span></a>
-<nav aria-label="Sections">
-<a href="{{ site.Home.RelPermalink }}"{{ if or .IsHome (eq $sec "works") }} aria-current="page"{{ end }}>Repertoire</a>
-<a href="{{ "composers/" | relURL }}"{{ if eq $sec "composers" }} aria-current="page"{{ end }}>Composers</a>
-<a href="{{ "curriculum/" | relURL }}"{{ if eq $sec "curriculum" }} aria-current="page"{{ end }}>Curriculum</a>
-<a href="{{ "reading/" | relURL }}"{{ if eq $sec "reading" }} aria-current="page"{{ end }}>Reading</a>
-<a href="{{ "recordings/" | relURL }}"{{ if eq $sec "recordings" }} aria-current="page"{{ end }}>Recordings</a>
-<a href="{{ "lists/" | relURL }}"{{ if eq $sec "lists" }} aria-current="page"{{ end }}>Lists</a>
-<a href="{{ "resources/" | relURL }}"{{ if eq $sec "resources" }} aria-current="page"{{ end }}>Resources</a>
+<a class="brand" href="{{ site.Home.RelPermalink }}">{{ partial "t.html" "brand-first" }}<span>{{ partial "t.html" "brand-second" }}</span></a>
+<nav aria-label="{{ partial "t.html" "nav-label" }}">
+<a href="{{ site.Home.RelPermalink }}"{{ if or .IsHome (eq $sec "works") }} aria-current="page"{{ end }}>{{ partial "t.html" "nav-repertoire" }}</a>
+<a href="{{ "composers/" | relURL }}"{{ if eq $sec "composers" }} aria-current="page"{{ end }}>{{ partial "t.html" "nav-composers" }}</a>
+<a href="{{ "curriculum/" | relURL }}"{{ if eq $sec "curriculum" }} aria-current="page"{{ end }}>{{ partial "t.html" "nav-curriculum" }}</a>
+<a href="{{ "reading/" | relURL }}"{{ if eq $sec "reading" }} aria-current="page"{{ end }}>{{ partial "t.html" "nav-reading" }}</a>
+<a href="{{ "recordings/" | relURL }}"{{ if eq $sec "recordings" }} aria-current="page"{{ end }}>{{ partial "t.html" "nav-recordings" }}</a>
+<a href="{{ "resources/equipment/" | relURL }}"{{ if eq .Type "equipment" }} aria-current="page"{{ end }}>{{ partial "t.html" "nav-equipment" }}</a>
+<a href="{{ "lists/" | relURL }}"{{ if eq $sec "lists" }} aria-current="page"{{ end }}>{{ partial "t.html" "nav-lists" }}</a>
+<a href="{{ "resources/" | relURL }}"{{ if and (eq $sec "resources") (ne .Type "equipment") }} aria-current="page"{{ end }}>{{ partial "t.html" "nav-resources" }}</a>
 </nav>
 </header>
 </div>
@@ -35,7 +43,14 @@
 {{ block "main" . }}{{ end }}
 </main>
 <footer class="site-foot">
-<p>Built and maintained by <a href="https://timothyrosenberg.com">Timothy Rosenberg</a>. Licensed <a href="https://creativecommons.org/licenses/by-sa/4.0/">{{ site.Params.license }}</a>. Links may contain affiliate codes.</p>
+<p>{{ partial "t.html" "footer-built-by" }} <a href="https://timothyrosenberg.com">{{ partial "t.html" "footer-name" }}</a>. {{ partial "t.html" "footer-licensed" }} <a href="https://creativecommons.org/licenses/by-sa/4.0/">{{ partial "t.html" "footer-license-name" }}</a>. {{ partial "t.html" "footer-affiliate" }}</p>
 </footer>
+{{- $js := dict }}{{ range $k, $v := partialCached "site-text.html" "all" }}{{ if or (hasPrefix $k "js-") (hasPrefix $k "level-") }}{{ $js = merge $js (dict $k $v) }}{{ end }}{{ end }}
+<script type="application/json" id="site-text">{{ $js | jsonify | safeJS }}</script>
+{{ if eq .Type "equipment" }}<script src="{{ "js/equipment.js" | relURL }}" defer></script>{{ end }}
+{{ if or (index .Params "pdf-viewer") (index .Params "image-viewer") }}
+{{ partial "pdf-overlay.html" . }}
+<script type="module" src="{{ "js/pdf-overlay.js" | relURL }}"></script>
+{{ end }}
 </body>
 </html>

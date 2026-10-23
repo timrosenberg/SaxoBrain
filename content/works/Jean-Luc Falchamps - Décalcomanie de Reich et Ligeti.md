@@ -66,4 +66,4 @@ These refer to the catalog at the start of research. Verified missing fields wer
 
 **Searches tried:** `Jean Luc Falchamps Décalcomanie de Reich et Ligeti`; `Fafchamps Décalcomanie saxophone score`; `Fafchamps Decalcomanie recording saxophone`; `Fafchamps Decalcomanie youtube`.
 
-[[Remaining Repertoire Research - 2026-10-16|Full research overview]]
+[[SaxoBrain - Review and Repair Record]]

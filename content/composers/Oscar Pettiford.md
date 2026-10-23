@@ -10,7 +10,9 @@ born: 1922
 died: 1960
 wikidata: Q497183
 photo: "/media/composers/oscar-pettiford.jpg"
-photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Oscar_Pettiford_(Gottlieb_07051).jpg"
 aliases: []
 ---
+
+> [!caption]
+> Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Oscar_Pettiford_%28Gottlieb_07051%29.jpg)

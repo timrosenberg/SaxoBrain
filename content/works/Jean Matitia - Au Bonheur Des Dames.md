@@ -30,7 +30,7 @@ publisher:
 
 The exact alto/piano edition appears in a French teaching repertoire list and a professional festival program. A verified 10-minute Ducros/Teboul live video supplies a usable listening link. A specialist retailer reports altissimo G-sharp, but no notation was available to confirm it.
 
-[[Review 0169 - Jean Matitia - Au Bonheur Des Dames|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Lemoine, catalog no. HL27975 · [grothmusic.com](https://www.grothmusic.com/p-147273.aspx)
@@ -40,7 +40,7 @@ The exact alto/piano edition appears in a French teaching repertoire list and a 
 
 ### Research Review, October 11, 2026
 
-[[Review 0169 - Jean Matitia - Au Bonheur Des Dames|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Jean Matitia - Au Bonheur Des Dames]]
 

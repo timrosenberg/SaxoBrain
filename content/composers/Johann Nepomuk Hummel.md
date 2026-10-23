@@ -9,7 +9,9 @@ born: 1778
 died: 1837
 wikidata: Q151953
 photo: "/media/composers/johann-nepomuk-hummel.jpg"
-photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:JNHummel_2.jpg"
 aliases: []
 ---
+
+> [!caption]
+> Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:JNHummel_2.jpg)

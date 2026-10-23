@@ -28,7 +28,7 @@ aliases:
 
 Leduc AL29061, alto saxophone with piano or electric organ; distributor confirms exact scoring. UNAM thesis bibliography indexes 1992, but source does not yet establish whether this is composition or publication.
 
-[[Review 0352 - Ryo Noda - Naissance de la Neige|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Alphonse Leduc, catalog no. AL29061 · [grothmusic.com](https://www.grothmusic.com/p-139812.aspx)
@@ -38,9 +38,9 @@ Leduc AL29061, alto saxophone with piano or electric organ; distributor confirms
 
 ### Research Review, October 11, 2026
 
-[[Review 0352 - Ryo Noda - Naissance de la Neige|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Ryo Noda - Naissance de la Neige.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Ryo Noda - Naissance de la Neige.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0352.json).
+Catalog: [Ryo Noda - Naissance de la Neige.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Ryo Noda - Naissance de la Neige.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Ryo Noda’s Naissance de la Neige is Alphonse Leduc AL29061 for alto saxophone and piano or electric organ; Presto lists a 20-page score.
 

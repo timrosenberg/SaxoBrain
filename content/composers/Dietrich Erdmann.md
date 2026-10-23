@@ -10,7 +10,9 @@ born: 1917
 died: 2009
 wikidata: Q1223732
 photo: "/media/composers/dietrich-erdmann.jpg"
-photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:D2003.06.29-16.22.25.png"
 aliases: []
 ---
+
+> [!caption]
+> Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:D2003.06.29-16.22.25.png)

@@ -29,14 +29,14 @@
 <h1>{{ .Title }}</h1>
 
 <div class="bar">
-<input id="cq" class="search" type="search" placeholder="Search composers" aria-label="Search composers" autocomplete="off" hidden>
+<input id="cq" class="search" type="search" placeholder="{{ partial "t.html" "composers-search-placeholder" }}" aria-label="{{ partial "t.html" "composers-search-label" }}" autocomplete="off" hidden>
 <div class="groups" id="cgroups"></div>
 </div>
-<nav class="letters" aria-label="Jump to a last name">
-<span class="label-sm">Jump to</span>
+<nav class="letters" aria-label="{{ partial "t.html" "composers-jump-label" }}">
+<span class="label-sm">{{ partial "t.html" "composers-jump-to" }}</span>
 <span class="letter-row">{{ range $letters }}<a href="#letter-{{ lower . }}" data-letter="{{ . }}">{{ . }}</a>{{ end }}</span>
 </nav>
-<div class="status"><span id="ccount" aria-live="polite">{{ len $rows }} composers</span><button class="clear" id="cclear" type="button" hidden>Clear all</button></div>
+<div class="status"><span id="ccount" aria-live="polite">{{ replace (partial "t.html" "js-composers-count-all") "{count}" (string (len $rows)) }}</span><button class="clear" id="cclear" type="button" hidden>{{ partial "t.html" "composers-clear-all" }}</button></div>
 
 {{ range $letter := $letters }}
 <section class="letter-group" id="letter-{{ lower $letter }}" data-letter="{{ $letter }}">
@@ -46,13 +46,13 @@
 {{- $p := .p -}}
 {{- $nat := $p.Params.nationality | default slice -}}
 {{- $life := partial "life.html" $p -}}
-<li data-nat="{{ delimit $nat "|" }}" data-lv="{{ delimit .lv " " }}"{{ with $p.Params.born }} data-born="{{ . }}"{{ end }}{{ if eq $p.Params.gender "Female" }} data-w="1"{{ end }}{{ if partial "poc.html" $p }} data-o="1"{{ end }}{{ if partial "living.html" $p }} data-living="1"{{ end }}><a href="{{ $p.RelPermalink }}"><span class="name">{{ $p.Title }}</span><span class="who">{{ range $nat }}<span class="pill nat">{{ . }}</span>{{ end }}{{ with $life }}{{ . }} · {{ end }}{{ .n }} {{ cond (eq .n 1) "work" "works" }}<span class="dots" aria-hidden="true">{{ $lv := .lv }}{{ range $order }}{{ if in $lv . }}<span class="dot lv-{{ . }}"></span>{{ end }}{{ end }}</span></span></a></li>
+<li data-nat="{{ delimit $nat "|" }}" data-lv="{{ delimit .lv " " }}"{{ with $p.Params.born }} data-born="{{ . }}"{{ end }}{{ if eq $p.Params.gender "Female" }} data-w="1"{{ end }}{{ if partial "poc.html" $p }} data-o="1"{{ end }}{{ if partial "living.html" $p }} data-living="1"{{ end }}><a href="{{ $p.RelPermalink }}"><span class="name">{{ $p.Title }}</span><span class="who">{{ range $nat }}<span class="pill nat">{{ . }}</span>{{ end }}{{ with $life }}{{ . }} · {{ end }}{{ .n }} {{ cond (eq .n 1) (partial "t.html" "composers-work-one") (partial "t.html" "composers-work-many") }}<span class="dots" aria-hidden="true">{{ $lv := .lv }}{{ range $order }}{{ if in $lv . }}<span class="dot lv-{{ . }}"></span>{{ end }}{{ end }}</span></span></a></li>
 {{ end }}
 </ul>
 </section>
 {{ end }}
-<p class="empty" id="cempty" hidden>No composers match. Try removing a filter.</p>
-<button class="totop" id="totop" type="button" hidden><span aria-hidden="true">↑</span> Back to top</button>
+<p class="empty" id="cempty" hidden>{{ partial "t.html" "composers-empty" }}</p>
+<button class="totop" id="totop" type="button" hidden><span aria-hidden="true">↑</span> {{ partial "t.html" "composers-back-to-top" }}</button>
 </div>
 <script defer src="{{ "js/composers.js" | relURL }}"></script>
 {{ end }}

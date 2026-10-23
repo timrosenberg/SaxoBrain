@@ -33,7 +33,7 @@ publisher:
 
 College recital notes describe syncopated ensemble writing, a lyrical 9/8 middle section, and 5/8 interruptions in the finale. Dorn 141 offers tenor or soprano with piano. The Houlik/Ayers finale excerpt is identified, but its audio link is dead; no notation was inspected.
 
-[[Review 0014 - Arthur Frackenpohl - Sonata (Soprano-Tenor)|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher and catalog no.: Dorn Publications DORN0141 · [grothmusic.com](https://www.grothmusic.com/p-139710.aspx)
@@ -43,7 +43,7 @@ College recital notes describe syncopated ensemble writing, a lyrical 9/8 middle
 
 ### Research Review, October 11, 2026
 
-[[Review 0014 - Arthur Frackenpohl - Sonata (Soprano-Tenor)|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Arthur Frackenpohl - Sonata (Soprano-Tenor)]]
 

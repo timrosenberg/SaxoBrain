@@ -31,7 +31,7 @@ multi-instruments: "Alternate alto or soprano solo parts, with piano; not simult
 
 A score preview supports assessment of the Andante opening: 4/4, an exposed p entrance, slurred phrases, triplets, upper-register writing and dynamic contrast. The Brillante section remains unseen. DORN0188 includes an alternate soprano part, so soprano should be added to the catalog's available instruments.
 
-[[Review 0140 - Harley Rex - Andando and Brillante|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Dorn Publications, catalog no. DORN0188 · [grothmusic.com](https://www.grothmusic.com/p-140129.aspx)
@@ -41,9 +41,9 @@ A score preview supports assessment of the Andante opening: 4/4, an exposed p en
 
 ### Research Review, October 11, 2026
 
-[[Review 0140 - Harley Rex - Andando and Brillante|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Harley Rex - Andando and Brillante.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Harley Rex - Andando and Brillante.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0140.json).
+Catalog: [Harley Rex - Andando and Brillante.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Harley Rex - Andando and Brillante.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Dorn Publications DORN0188 is Harley Rex’s Andando and Brillante for alto saxophone and piano. The publisher/seller record names Dale Underwood and the U.S. Navy Band as dedicatees; no score or performance details were found.
 

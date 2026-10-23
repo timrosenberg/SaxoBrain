@@ -1,0 +1,6 @@
+{{- /* Merges the front matter of every file in content/Site Text into one map. */ -}}
+{{- $d := dict -}}
+{{- with site.GetPage "/site-text" -}}
+{{- range .RegularPages -}}{{- range $k, $v := .Params -}}{{- if and (ne $k "title") (eq (printf "%T" $v) "string") -}}{{- $d = merge $d (dict $k $v) -}}{{- end -}}{{- end -}}{{- end -}}
+{{- else -}}{{ errorf "content/Site Text is missing" }}{{- end -}}
+{{- return $d -}}

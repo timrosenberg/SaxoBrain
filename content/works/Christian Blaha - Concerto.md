@@ -75,4 +75,4 @@ These refer to the catalog at the start of research. Verified missing fields wer
 
 **Searches tried:** `Christian Blaha Concerto saxophone`; `"Christian Blaha" "Saxophone Concerto"`.
 
-[[Remaining Repertoire Research - 2026-10-16|Full research overview]]
+[[SaxoBrain - Review and Repair Record]]

@@ -29,7 +29,7 @@ publisher:
 
 Walicki dates this 12-minute alto saxophone and piano work to 1985. The concert-pitch Dorn preview combines meter changes, accented phrases and rapid figures with sweeping piano runs. The composer PDF supplies further notation, but its ending contains extensive all-rest measures. Completeness is uncertain, and no exact recording was verified.
 
-[[Review 0218 - Kenneth Walicki - Rhapsody|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Dorn DORN0204 · [grothmusic.com](https://www.grothmusic.com/p-146140.aspx)
@@ -38,9 +38,9 @@ Walicki dates this 12-minute alto saxophone and piano work to 1985. The concert-
 
 ### Research Review, October 11, 2026
 
-[[Review 0218 - Kenneth Walicki - Rhapsody|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Kenneth Walicki - Rhapsody.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Kenneth Walicki - Rhapsody.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0218.json).
+Catalog: [Kenneth Walicki - Rhapsody.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Kenneth Walicki - Rhapsody.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** The local work file identifies Kenneth Walicki’s Rhapsody as Dorn DORN0204 for alto saxophone and piano. The linked retailer listing was not independently retrieved this pass.
 

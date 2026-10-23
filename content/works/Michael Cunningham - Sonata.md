@@ -24,7 +24,7 @@ aliases: []
 
 ### Research Review, October 11, 2026
 
-[[Review 0263 - Michael Cunningham - Sonata|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Michael Cunningham - Sonata]].
 

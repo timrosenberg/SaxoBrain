@@ -1,4 +1,5 @@
 ---
+equipment-parent: /resources/equipment/reeds/breaking-in-and-storing-reeds/
 title: "The Alexander Method"
 slug: the-alexander-method
 third-party: true

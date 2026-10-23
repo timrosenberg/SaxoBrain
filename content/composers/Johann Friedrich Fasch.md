@@ -10,7 +10,9 @@ born: 1688
 died: 1758
 wikidata: Q77236
 photo: "/media/composers/johann-friedrich-fasch.jpg"
-photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Johann_Friedrich_Fasch_-_uncertain.jpg"
 aliases: []
 ---
+
+> [!caption]
+> Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Johann_Friedrich_Fasch_-_uncertain.jpg)

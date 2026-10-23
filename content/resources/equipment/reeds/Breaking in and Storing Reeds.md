@@ -4,20 +4,24 @@ slug: breaking-in-and-storing-reeds
 notion-id: a0e348b0c3ab49b4a0f03c1bc74db78f
 ---
 
-# Dr. Young's Method
+> [!lead]
+>
+> Choose a method for breaking in and storing reeds.
 
-[https://www.youtube.com/watch?v=9vsqFG826vw](https://www.youtube.com/watch?v=9vsqFG826vw)
-
-[[Summary of Dr. Young's Method|Summary of Dr. Young's Method]]
-
-# Dr. Page's Method
-
-[https://www.youtube.com/watch?v=5EC1jt5AtPs](https://www.youtube.com/watch?v=5EC1jt5AtPs)
-
-# The Saxophone Academy Method
-
-[https://www.youtube.com/watch?v=cH0jWvSm78Q](https://www.youtube.com/watch?v=cH0jWvSm78Q)
-
-# The Alexander Method
-
-[[The Alexander Method|The Alexander Method]]
+> [!topics]
+>
+> > [!topic] [Dr. Young's Method](/resources/equipment/reeds/dr-youngs-method/)
+> >
+> > Video demonstration and written checklist.
+>
+> > [!topic] [Dr. Page's Method](/resources/equipment/reeds/dr-pages-break-in-method/)
+> >
+> > Video demonstration.
+>
+> > [!topic] [The Saxophone Academy Method](/resources/equipment/reeds/the-saxophone-academy-method/)
+> >
+> > Video demonstration.
+>
+> > [!topic] [The Alexander Method](/resources/equipment/reeds/the-alexander-method/)
+> >
+> > Written guidance on breaking in and customizing reeds.

@@ -28,7 +28,7 @@ aliases: []
 
 ### Research Review, October 11, 2026
 
-[[Review 0350 - Ruud Roelofsen - Stratos|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Ruud Roelofsen - Stratos]].
 

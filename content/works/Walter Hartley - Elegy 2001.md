@@ -28,7 +28,7 @@ aliases: []
 
 494-02543, alto saxophone or English horn or F mezzo-soprano saxophone with piano; duration 2:45. Publisher cover explicitly says E-flat alto and F mezzo-soprano; older research calling the alternative soprano saxophone is imprecise. Stratton’s 2014 appendix dates the composition 2001; publication copyright 2002 is distinct. Publisher dedication names Susanne Lucker, English horn, and Jay Easton, saxophones.
 
-[[Review 0386 - Walter Hartley - Elegy 2001|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Fischer Presser lists Elegy 2001 for alto saxophone and piano, copyright 2002; another listing gives English horn or soprano sax · [performersmusicchicago.com](https://www.performersmusicchicago.com/elegy-2001-hartley-cf-494-02543)
@@ -37,7 +37,7 @@ aliases: []
 
 ### Research Review, October 11, 2026
 
-[[Review 0386 - Walter Hartley - Elegy 2001|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Walter Hartley - Elegy 2001]]
 

@@ -28,7 +28,7 @@ aliases: []
 
 Piano accompaniment missing from current instrument tags.
 
-[[Review 0344 - Ronald Caravan - Sonata|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Ethos, catalog no. ET070209 · [grothmusic.com](https://www.grothmusic.com/p-37410.aspx)
@@ -37,7 +37,7 @@ Piano accompaniment missing from current instrument tags.
 
 ### Research Review, October 11, 2026
 
-[[Review 0344 - Ronald Caravan - Sonata|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Ronald Caravan - Sonata]].
 

@@ -10,7 +10,9 @@ born: 1857
 died: 1934
 wikidata: Q179631
 photo: "/media/composers/edward-elgar.jpg"
-photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Edward_Elgar_1857_-_1934.jpg"
 aliases: []
 ---
+
+> [!caption]
+> Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Edward_Elgar_1857_-_1934.jpg)

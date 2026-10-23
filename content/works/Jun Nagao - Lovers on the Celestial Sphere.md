@@ -30,9 +30,9 @@ aliases: []
 
 ### Research Review, October 11, 2026
 
-[[Review 0212 - Jun Nagao - Lovers on the Celestial Sphere|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Jun Nagao - Lovers on the Celestial Sphere.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Jun Nagao - Lovers on the Celestial Sphere.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0212.json).
+Catalog: [Jun Nagao - Lovers on the Celestial Sphere.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Jun Nagao - Lovers on the Celestial Sphere.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Jun Nagao’s Lovers on the Celestial Sphere is Zen-On 560015 for soprano saxophone, tenor saxophone and piano, composed on commission from Nobuya Sugawa. Zen-On gives about 12 minutes, while an institutional catalog gives about 12.5 for the later band study score. Zen-On’s public four-page sample includes a preface and an opening score leaf.
 

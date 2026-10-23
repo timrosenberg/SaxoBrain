@@ -32,7 +32,7 @@ multi-instruments: "One saxophonist changes among alto, tenor and baritone saxop
 
 Actual Part I notation verified: 1988/rev. 1995, timed seconds, broad dynamics and piano-string playing. Alto/tenor/baritone doubling and wooden stick/iron chain now verified in the retailer. Add tenor and baritone tags; instrument sequence, total range and recording remain unknown.
 
-[[Review 0147 - Helge Jung - Calculated Wounds|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Hofmeister, catalog no. FH2407 · [grothmusic.com](https://www.grothmusic.com/p-143808.aspx)
@@ -42,9 +42,9 @@ Actual Part I notation verified: 1988/rev. 1995, timed seconds, broad dynamics a
 
 ### Research Review, October 11, 2026
 
-[[Review 0147 - Helge Jung - Calculated Wounds|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Helge Jung - Calculated Wounds.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Helge Jung - Calculated Wounds.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0147.json).
+Catalog: [Helge Jung - Calculated Wounds.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Helge Jung - Calculated Wounds.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Friedrich Hofmeister publishes Helge Jung’s Calculated Wounds, FH2407, for alto saxophone and piano. The publisher’s catalog assigns its own level marker 5. Retailer details say the saxophonist changes saxophones and the pianist uses a wooden stick and iron chain; those specific instructions were not checked against score pages.
 

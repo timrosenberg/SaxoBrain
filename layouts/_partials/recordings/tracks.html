@@ -1,8 +1,9 @@
 {{- /* Track list under a recording's YouTube playlist, from the note's `tracks:` list in playlist order:
        "Title · 8:42 · [[Work File]]" (or "· [[Composer File]]" when the piece has no page, several
-       comma-separated composer links for a joint work, or no link).
-       Titles and times came from YouTube 2026-10-08; links point into the catalog, which supplies the
-       composer. Consecutive tracks of one work are grouped under the work's catalog title; unlinked
+       comma-separated composer links for a joint work, a verified plain composer name, or no credit).
+       Titles and times came from YouTube 2026-10-08; linked credits come from the catalog.
+       Plain names supply credits without requiring composer pages.
+       Consecutive tracks of one work are grouped under the work's catalog title; unlinked
        tracks that share a "Work: " title prefix are grouped by that prefix. static/js/tracks.js makes
        each row play its track in the embedded player. */ -}}
 {{ $idx := partialCached "page-index.html" "all" }}
@@ -10,7 +11,7 @@
 {{ $total := 0 }}
 {{ range .Params.tracks }}
   {{ $title := . }}{{ $time := "" }}{{ $links := "" }}
-  {{ with findRESubmatch `^(.*?) · (\d+(?::\d\d){1,2})(?: · (\[\[[^\]]+\]\](?:, \[\[[^\]]+\]\])*))?$` . 1 }}
+  {{ with findRESubmatch `^(.*?) · (\d+(?::\d\d){1,2})(?: · (.+))?$` . 1 }}
     {{ $title = index (index . 0) 1 }}{{ $time = index (index . 0) 2 }}{{ $links = index (index . 0) 3 }}
   {{ end }}
   {{ $work := false }}{{ $composers := slice }}{{ $link := "" }}
@@ -25,6 +26,7 @@
     {{ else }}{{ errorf "Track link [[%s]] in %s matches no page file." $l $.File.Path }}{{ end }}
   {{ end }}
   {{ $names := slice }}{{ range $composers }}{{ $names = $names | append .Title }}{{ end }}
+  {{ if and $links (not $found) }}{{ $names = $names | append $links }}{{ end }}
   {{ $s := 0 }}{{ range split $time ":" }}{{ $s = add (mul $s 60) (int (float .)) }}{{ end }}
   {{ $total = add $total $s }}
   {{ $tracks = $tracks | append (dict "title" $title "time" $time "link" (lower $link) "work" $work "by" (delimit $names ", ")) }}
@@ -60,8 +62,8 @@
   {{ end }}
 {{ end }}
 {{ $h := div $total 3600 }}{{ $m := div (mod $total 3600) 60 }}{{ $sec := mod $total 60 }}
-<section class="tracks" data-tracks aria-label="Tracks">
-<p class="tracks-head"><span>{{ $n }} tracks</span><span>{{ if $h }}{{ printf "%d:%02d:%02d" $h $m $sec }}{{ else }}{{ printf "%d:%02d" $m $sec }}{{ end }}</span></p>
+<section class="tracks" data-tracks aria-label="{{ partial "t.html" "recordings-tracks-label" }}">
+<p class="tracks-head"><span>{{ replace (partial "t.html" "recordings-tracks-count") "{count}" (string $n) }}</span><span>{{ if $h }}{{ printf "%d:%02d:%02d" $h $m $sec }}{{ else }}{{ printf "%d:%02d" $m $sec }}{{ end }}</span></p>
 <ol>
 {{ $last := "" }}
 {{ range $i, $t := $tracks }}

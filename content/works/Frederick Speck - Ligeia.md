@@ -27,7 +27,7 @@ publisher:
 
 The exact opening score is now inspected: E-flat alto and piano, circa quarter = 60, chromatic flourishes, unequal tuplets, sustained tones, tempo changes and coordination arrows. Handwritten score credit dates the work 1983. FSU documents a 1989 festival tape; no playable recording was verified.
 
-[[Review 0096 - Frederick Speck - Ligeia|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Dorn Publications, catalog DORN0195; includes two performance scores · [grothmusic.com](https://www.grothmusic.com/p-146122.aspx)
@@ -36,7 +36,7 @@ The exact opening score is now inspected: E-flat alto and piano, circa quarter =
 
 ### Research Review, October 11, 2026
 
-[[Review 0096 - Frederick Speck - Ligeia|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Frederick Speck - Ligeia]]
 

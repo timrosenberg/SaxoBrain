@@ -28,7 +28,7 @@ publisher:
 
 About 13 minutes. Written range diagram reaches C-sharp7 from B-flat3. Inspected written-pitch excerpts confirm timbral trill, growl, downward bend and slap, with extended piano techniques documented. Full score and exact recording remain unavailable.
 
-[[Review 0094 - Frederick Fox - When the Thunder Speaks|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Dorn Publications, catalog DORN1398 · [grothmusic.com](https://www.grothmusic.com/p-142657.aspx)
@@ -37,7 +37,7 @@ About 13 minutes. Written range diagram reaches C-sharp7 from B-flat3. Inspected
 
 ### Research Review, October 11, 2026
 
-[[Review 0094 - Frederick Fox - When the Thunder Speaks|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Frederick Fox - When the Thunder Speaks]]
 

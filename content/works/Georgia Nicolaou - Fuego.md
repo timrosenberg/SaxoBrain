@@ -26,7 +26,7 @@ aliases: []
 
 ### Research Review, October 11, 2026
 
-[[Review 0109 - Georgia Nicolaou - Fuego|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Georgia Nicolaou - Fuego]].
 

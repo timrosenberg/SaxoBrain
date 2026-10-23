@@ -30,7 +30,7 @@ publisher:
 
 Leguay Sève: composition 1974 verified separately from publication 1983. Actual opening alto part shows flutter tongue, abrupt dynamic contrasts and retained low-C fingering effects. Publisher documents Decouais premiere and Delangle Duo use. Recording remains unknown.
 
-[[Review 0189 - Jean-Pierre Leguay - Seve|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Lemoine, catalog no. HL24663 · [grothmusic.com](https://www.grothmusic.com/p-147255.aspx)
@@ -40,7 +40,7 @@ Leguay Sève: composition 1974 verified separately from publication 1983. Actual
 
 ### Research Review, October 11, 2026
 
-[[Review 0189 - Jean-Pierre Leguay - Seve|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Jean-Pierre Leguay - Seve]].
 

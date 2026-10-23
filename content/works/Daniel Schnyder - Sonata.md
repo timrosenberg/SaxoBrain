@@ -28,9 +28,9 @@ publisher:
 
 ### Research Review, October 11, 2026
 
-[[Review 0063 - Daniel Schnyder - Sonata|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Daniel Schnyder - Sonata.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Daniel Schnyder - Sonata.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0063.json).
+Catalog: [Daniel Schnyder - Sonata.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Daniel Schnyder - Sonata.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Daniel Schnyder’s Sonata for Soprano Saxophone and Piano is the soprano work in Edition Kunzelmann GM1725A, issued as a 36-page score and part. Carlos Felipe Vina’s 2015 University of Miami DMA guide concerns the composer’s subsequent bassoon adaptation; it reports the bassoon version’s multiphonics and Latin-jazz/Balkan influences, but those instrument-specific analysis details should not be transferred to the soprano score.
 

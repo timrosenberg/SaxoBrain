@@ -30,7 +30,7 @@ multi-instruments: "One player doubling soprano, alto and tenor saxophones, with
 
 Triangle is for one player using soprano, alto and tenor saxophones, with piano. Rideau Rouge RR 1217 contains Caprice, Lied and Rondo. Score is dedicated to Jean-Pierre Vermeeren and bears copyright 1975.
 
-[[Review 0308 - Pierre-Max DuBois - Triangle|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Triangle: Ballad for 1 Player and 3 Saxophones and Piano; three movements: I. Caprice, II. Lied, III. Rondo; publisher Rideau Rouge, catalog no. RR1217 · [grothmusic.com](https://www.grothmusic.com/p-143412.aspx)
@@ -39,7 +39,7 @@ Triangle is for one player using soprano, alto and tenor saxophones, with piano.
 
 ### Research Review, October 11, 2026
 
-[[Review 0308 - Pierre-Max DuBois - Triangle|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Pierre-Max DuBois - Triangle]]
 

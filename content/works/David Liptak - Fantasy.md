@@ -28,7 +28,7 @@ publisher:
 
 Liptak’s own catalogue verifies Fantasy (1980) for alto saxophone and piano and identifies a recording by Chien-Kwan Lin and Pi-Lin Ni. It lists 14 minutes; Groth’s Dorn DORN0179 edition lists 13 minutes and dedication to James Forger. His six-minute 2006 violin Fantasy is a different piece, so its program note and youth commission do not apply. No sax score preview was located. [Composer catalogue and recording](https://www.dliptak.com/compositions/duo.html) · [Dorn edition](https://www.grothmusic.com/p-145846.aspx). [Listen: Lin/Ni](https://soundcloud.com/david-liptak-946907213/fantasy-1/s-Rw3HpG2gKbz).
 
-[[Review 0069 - David Liptak - Fantasy|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Dorn Publications, catalog number DORN0179 · [grothmusic.com](https://www.grothmusic.com/p-145846.aspx)
@@ -38,9 +38,9 @@ Liptak’s own catalogue verifies Fantasy (1980) for alto saxophone and piano an
 
 ### Research Review, October 11, 2026
 
-[[Review 0069 - David Liptak - Fantasy|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [David Liptak - Fantasy.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/David Liptak - Fantasy.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0069.json).
+Catalog: [David Liptak - Fantasy.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/David Liptak - Fantasy.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Identity of David Liptak’s Fantasy for alto saxophone and piano is not established by the current catalog record. Searches surfaced other Fantasy titles by Liptak and a saxophone work in a different instrumentation, but no source tying DORN0179 to this combination.
 

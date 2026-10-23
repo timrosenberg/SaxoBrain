@@ -8,3 +8,12 @@ content/.obsidian/cache
 content/.trash/
 __pycache__/
 .obsidian/
+
+# Local agent state and regenerated audit reports
+.claudian/
+.claude/
+scripts/migration/link-check.csv
+scripts/migration/wikidata-review.json
+
+# Prevent accidental absolute-path trees from entering the repo
+/Users/

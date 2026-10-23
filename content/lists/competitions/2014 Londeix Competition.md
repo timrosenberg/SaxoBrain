@@ -37,7 +37,7 @@ Each competitor will choose one piece from list 1 and one piece from list 2, two
 - *[[André Caplet - Légende|Légende]]* (version for alto saxophone and piano) by André CAPLET (Resolute Music Publications)
 - *[[Florent Schmitt - Légende, Op. 66|Légende]] op. 66* (alto saxophone) by Florent SCHMITT (Édition Durand)
 - *[[Paul Hindemith - Sonata|Sonate]]* (alto saxophone, with Finale by JML), by Paul HINDEMITH (Édition Schott)
-- *[[Alfred Desenclos - Prelude, Cadence et Finale|Prélude, Cadence et Final]]* (alto saxophone) by Alfred DESENCLOS (Édition Leduc)
+- *[[Alfred Desenclos - Prelude, cadence et finale|Prélude, Cadence et Final]]* (alto saxophone) by Alfred DESENCLOS (Édition Leduc)
 - *[[Edison Denisov - Sonata|Sonate]]* (alto saxophone) by Edison DENISOV (Édition Leduc)
 - *[[Marcel Mihalovici - Chant Premier, Op. 103|Chant Premier]]* (tenor saxophone) by Marcel MIHALOVICI (Édition Heugel)
 - *Music for tenor saxophone* by William KARLINS (Southern).

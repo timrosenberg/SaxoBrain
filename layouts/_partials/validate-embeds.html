@@ -1,0 +1,15 @@
+{{- $valid := true -}}
+{{- $path := .page.File.Path -}}
+{{- if in .stack $path -}}
+  {{- errorf "Circular note embed: %s -> %s" (delimit .stack " -> ") $path -}}
+  {{- $valid = false -}}
+{{- else -}}
+  {{- $stack := .stack | append $path -}}
+  {{- $source := partial "source-body.html" .page -}}
+  {{- range findRESubmatch `(?s)<p>!\[\[([^\]]+)\]\]</p>` $source -}}
+    {{- with partial "wiki-page.html" (index . 1) -}}
+      {{- if not (partial "validate-embeds.html" (dict "page" . "stack" $stack)) }}{{ $valid = false }}{{ end -}}
+    {{- else -}}{{ errorf "Note embed in %s has no matching note: %s" $path (index . 1) }}{{ $valid = false }}{{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $valid -}}

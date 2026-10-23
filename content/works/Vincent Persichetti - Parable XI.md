@@ -35,7 +35,7 @@ publisher:
 
 Unaccompanied form, fast articulation and extensive tone color control support a provisional second-year placement.
 
-[[Review 0381 - Vincent Persichetti - Parable XI|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Elkan-Vogel, catalog no. 16400106; listed as Parable for unaccompanied alto sax, 4 pages, duration 7:00 (page does not give the Parable number or opus) · [grothmusic.com](https://www.grothmusic.com/p-33832.aspx)
@@ -44,7 +44,7 @@ Unaccompanied form, fast articulation and extensive tone color control support a
 
 ### Research Review, October 11, 2026
 
-[[Review 0381 - Vincent Persichetti - Parable XI|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Vincent Persichetti - Parable XI]]
 

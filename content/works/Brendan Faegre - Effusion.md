@@ -28,7 +28,7 @@ aliases: []
 
 ### Research Review, October 11, 2026
 
-[[Review 0027 - Brendan Faegre - Effusion|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Brendan Faegre - Effusion]].
 

@@ -17,16 +17,20 @@ tracks:
   - "Concertino: I. Fantasqueetleger · 4:28 · [[Eugène Bozza - Concertino]]"
   - "Concertino: II. Andantino · 4:03 · [[Eugène Bozza - Concertino]]"
   - "Concertino: III. Tarantelle · 4:04 · [[Eugène Bozza - Concertino]]"
-  - "Le Merle Noir · 5:37"
-  - "Yizkor · 9:38"
+  - "Le Merle Noir · 5:37 · Olivier Messiaen"
+  - "Yizkor · 9:38 · Odon Partos"
   - "Scaramouche · 2:31 · [[Eugène Bozza - Scaramouche Op. 53, No. 2]]"
   - "Mouvements · 6:58 · [[Paul-Baudouin Michel - Mouvements]]"
-  - "Gradus: Part I · 5:18"
-  - "Gradus: Part II · 3:27"
+  - "Gradus: Part I · 5:18 · Philip Glass"
+  - "Gradus: Part II · 3:27 · Philip Glass"
   - "Sonata in A Minor: I. Allegro moderato con moto · 5:38 · [[Ross Lee Finney - Sonata]]"
   - "Sonata in A Minor: II. Largo sostenuto · 2:59 · [[Ross Lee Finney - Sonata]]"
   - "Sonata in A Minor: III. Allegretto con spirito · 4:10 · [[Ross Lee Finney - Sonata]]"
 year-released: "2013"
 cover: "/media/recordings/le-merle-noir/cover.jpg"
 ---
+
+## Research notes (private)
+
+- Track composer credits verified against https://originarts.com/c/recording.php?TitleID=33017.
 

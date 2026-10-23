@@ -29,14 +29,14 @@ publisher:
 
 Daniel Lefebvre’s Diptyque is for alto saxophone and piano, Éditions J. Maurer, MAURER 04. Groth lists score plus solo part and six pages.
 
-[[Review 0061 - Daniel Lefebvre - Diptyque|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 ### Chat batch 07 follow-up, 2026-10-13
 
 [Maurer MAURER04](https://www.grothmusic.com/p-142041.aspx) is now verified through the live Groth page as Daniel Lefebvre’s alto-and-piano edition with score and separate part. The sample area is empty. Date, duration, form, original/transcription history, exact musical demands and a recording remain unknown.
 
-[[Review 0061 - Daniel Lefebvre - Diptyque|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Maurer, catalog number MAURER04 · [grothmusic.com](https://www.grothmusic.com/p-142041.aspx)
@@ -46,9 +46,9 @@ Daniel Lefebvre’s Diptyque is for alto saxophone and piano, Éditions J. Maure
 
 ### Research Review, October 11, 2026
 
-[[Review 0061 - Daniel Lefebvre - Diptyque|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Daniel Lefebvre - Diptyque.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Daniel Lefebvre - Diptyque.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0061.json).
+Catalog: [Daniel Lefebvre - Diptyque.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Daniel Lefebvre - Diptyque.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Daniel Lefebvre’s Diptyque is listed in a French Wikipedia biography as an alto saxophone and piano work published by Maurer. The local catalog cites Maurer MAURER04; search results for the same title also surfaced unrelated works by René Bernier and Eugène Bozza.
 
@@ -93,4 +93,4 @@ Catalog: [Daniel Lefebvre - Diptyque.md](/Users/trosenberg/Documents/GitHub/Saxo
 
 **Searches tried:** `Daniel Lefebvre Diptyque saxophone`; `Daniel Lefebvre Diptyque Maurer score recording`; `Daniel Lefebvre Diptyque saxophone partition Maurer`.
 
-[[Remaining Repertoire Research - 2026-10-16|Full research overview]]
+[[SaxoBrain - Review and Repair Record]]

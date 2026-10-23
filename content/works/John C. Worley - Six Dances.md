@@ -28,7 +28,7 @@ arranger-edition: ["DP 991"]
 
 ### Batch 05 Decision, October 20, 2026
 
-Second Year; composer corrected to John C. Worley. Confirmed fields and source links are retained in [[Remaining Repertoire - Score Batch 05|Batch 05]] and this work’s research. Older research below records the catalog before these corrections.
+Second Year; composer corrected to John C. Worley. Confirmed fields and source links are retained in [[SaxoBrain - Review and Repair Record]] and this work’s research. Older research below records the catalog before these corrections.
 
 ### Research checked October 16, 2026
 
@@ -70,4 +70,4 @@ These refer to the catalog at the start of research. Verified missing fields wer
 
 **Searches tried:** `Pamela Tanious Worley Six Dances saxophone`; `Worley Six Dances soprano saxophone`; `Worley Six Dances Dorn`; `Pamela Tanious Worley`; `Pamela Tanious saxophone Worley`.
 
-[[Remaining Repertoire Research - 2026-10-16|Full research overview]]
+[[SaxoBrain - Review and Repair Record]]

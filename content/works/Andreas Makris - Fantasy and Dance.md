@@ -22,7 +22,7 @@ aliases: []
 
 ### Research Review, October 11, 2026
 
-[[Review 0004 - Andreas Makris - Fantasy and Dance|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Andreas Makris - Fantasy and Dance]]
 

@@ -10,7 +10,9 @@ born: 1932
 died: 
 wikidata: Q131285
 photo: "/media/composers/john-williams.jpg"
-photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:John_Williams_2024.jpg"
 aliases: []
 ---
+
+> [!caption]
+> Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:John_Williams_2024.jpg)

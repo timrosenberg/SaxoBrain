@@ -31,7 +31,7 @@ publisher:
 
 Hassan (2022), for alto saxophone and tape, runs about eleven minutes. Donemus D 21530 was commissioned for SAXGO 22 and dedicated to Matjaž Drevenšek. Performance notes require an unamplified saxophonist with a stereo pair of studio monitors and carefully matched loud/soft balances.
 
-[[Review 0371 - Tilen Lebar - Hassan|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Duration 11 minutes; alto saxophone and tape (prepared saxophone, fixed media) · [donemus.nl](https://donemus.nl/events/tilen-lebar-hassan/)
@@ -42,9 +42,9 @@ Hassan (2022), for alto saxophone and tape, runs about eleven minutes. Donemus D
 
 ### Research Review, October 11, 2026
 
-[[Review 0371 - Tilen Lebar - Hassan|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Tilen Lebar - Hassan.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Tilen Lebar - Hassan.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0371.json).
+Catalog: [Tilen Lebar - Hassan.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Tilen Lebar - Hassan.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Tilen Lebar's Hassan (2022) is an 11-minute work for prepared alto saxophone and tape/sound recording. Donemus describes it as an obligatory first-round work for SAXGO22 and documents glass-jar preparation, whistle tones, natural spectral multiphonics, microtonal polyrhythms, and very soft dynamics.
 

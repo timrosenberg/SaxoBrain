@@ -27,7 +27,7 @@ aliases: []
 
 Holliday’s three-movement Sonata includes a piano score and alto part. The inspected Invocation opening shows an accelerating piano introduction, followed by freely marked chromatic saxophone phrases with colla parte accompaniment. This creates visible timing and ensemble demands. Full range, later movements, composition date and an exact recording remain unverified.
 
-[[Review 0220 - Kent Holliday - Sonata|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Dorn DORN0172; dedicated to David Jacobsen and Caryl Conger; three movements: Invocation, Elegy, Tarantella; 61 pages · [grothmusic.com](https://www.grothmusic.com/p-140165.aspx)
@@ -36,9 +36,9 @@ Holliday’s three-movement Sonata includes a piano score and alto part. The ins
 
 ### Research Review, October 11, 2026
 
-[[Review 0220 - Kent Holliday - Sonata|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Kent Holliday - Sonata.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Kent Holliday - Sonata.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0220.json).
+Catalog: [Kent Holliday - Sonata.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Kent Holliday - Sonata.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Dorn DORN0172 identifies Kent Holliday’s alto saxophone and piano Sonata, dedicated to David Jacobsen and Caryl Conger, with three movements named Invocation, Elegy and Tarantella. The retailer lists 61 pages, but the score/part format is unknown.
 

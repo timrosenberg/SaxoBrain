@@ -33,7 +33,7 @@ aliases: []
 
 Ghidoni, Nocturne & Sicilienne: [Leduc opening score](https://www.forsyths.co.uk/787862/ghidoni-armando-nocturne-et-sicilienne-alto-saxophone-piano.jpg) confirms about five minutes and alto/soprano/tenor with piano or harp. The inspected opening combines expressive legato saxophone phrases with a busier chromatic piano part; the Sicilienne and complete range remain uninspected. A [composer-identified alto/harp performance](https://www.facebook.com/Emmapigatosaxofonista/videos/1230819853712669/) is linked, but playback availability is unverified.
 
-[[Review 0009 - Armando Ghidoni - Nocturne & Sicilienne|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Alphonse Leduc; about 5 minutes; retailer rates it medium difficulty for upper-intermediate players; alto saxophone (soprano or tenor possible), piano may be replaced by harp · [blowwinds.com.au](https://www.blowwinds.com.au/product/ghidoni-nocturne-and-sicilienne-alto-or-tenor-sax-piano/)
@@ -42,7 +42,7 @@ Ghidoni, Nocturne & Sicilienne: [Leduc opening score](https://www.forsyths.co.uk
 
 ### Research Review, October 11, 2026
 
-[[Review 0009 - Armando Ghidoni - Nocturne & Sicilienne|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Armando Ghidoni - Nocturne & Sicilienne]]
 

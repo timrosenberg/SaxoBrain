@@ -36,7 +36,7 @@ The Listen link opens movement I of Lawrence Gwozdz’s orchestral recording. Co
 
 The 1962 concerto in Hartley’s piano reduction. Its inspected opening combines chromatic figures, upper-register leaps and changes between common time and 5/4 at quarter note 112–120. All three orchestral recording movements and a university jury performance of movement III with piano are linked. Later notation remains uninspected.
 
-[[Review 0195 - John C. Worley - Claremont Concerto|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Presser, catalog no. 164-00254 · [grothmusic.com](https://www.grothmusic.com/p-142039.aspx)
@@ -46,7 +46,7 @@ The 1962 concerto in Hartley’s piano reduction. Its inspected opening combines
 
 ### Research Review, October 11, 2026
 
-[[Review 0195 - John C. Worley - Claremont Concerto|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[John C. Worley - Claremont Concerto]].
 

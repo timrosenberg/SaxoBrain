@@ -5,6 +5,11 @@
 {{- $idx := partialCached "page-index.html" "all" -}}
 {{- $html := .html -}}
 {{- $page := .page -}}
+{{- /* Literal examples in code must remain examples, not note references. */ -}}
+{{- range findRE `(?s)<pre\b[^>]*>.*?</pre>|<code\b[^>]*>.*?</code>` $html -}}
+  {{- $escaped := replace (replace . "[[" "&#91;&#91;") "]]" "&#93;&#93;" -}}
+  {{- $html = replace $html . $escaped -}}
+{{- end -}}
 {{- range findRE `\[\[[^\]]+\]\]` $html -}}
   {{- $match := . -}}
   {{- $parts := split (strings.TrimSuffix "]]" (strings.TrimPrefix "[[" $match)) "|" -}}

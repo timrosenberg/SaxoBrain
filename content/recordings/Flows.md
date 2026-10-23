@@ -13,3 +13,15 @@ year-released: "2015"
 cover: /media/recordings/flows/cover.jpg
 ---
 
+## Tracks
+
+1. Résurgences · Michael Jarrell
+2. Bug · [[Bruno Mantovani]]
+3. Schizophrenia · Yann Robin
+4. Prelude and Blue · Martin Matalon
+5. A bâtons rompus · Philippe Hurel
+6. Hot · Franco Donatoni
+
+## Research notes (private)
+
+- Track order and composer credits: https://music.apple.com/us/album/1440143569

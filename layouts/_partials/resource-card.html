@@ -1,0 +1,20 @@
+{{- $file := lower (index (split .href "?") 0) -}}
+{{- $pdf := hasSuffix $file ".pdf" -}}
+{{- $image := findRE `\.(jpe?g|png|webp)$` $file -}}
+<div class="pdf-resource{{ if not (or $pdf $image) }} resource-article{{ end }}">
+<div class="pdf-resource-details">
+<span class="pdf-resource-title">{{ .title | safeHTML }}</span>
+{{ with .body }}<div class="pdf-resource-origin">{{ . }}</div>{{ end }}
+</div>
+<span class="pdf-resource-actions">
+{{ if $pdf }}
+<a class="btn primary" href="{{ .href | safeURL }}" data-pdf-view data-pdf-title="{{ .title | plainify }}" aria-haspopup="dialog">{{ partial "t.html" "pdf-view" }}</a>
+<a class="btn" href="{{ .href | safeURL }}" download>{{ partial "t.html" "pdf-download" }}</a>
+{{ else if $image }}
+<a class="btn primary" href="{{ .href | safeURL }}" data-image-view data-pdf-title="{{ .title | plainify }}" aria-haspopup="dialog">{{ partial "t.html" "image-view" }}</a>
+<a class="btn" href="{{ .href | safeURL }}" download>{{ partial "t.html" "image-download" }}</a>
+{{ else }}
+<a class="btn primary" href="{{ .href | safeURL }}">{{ partial "t.html" "resource-article-link" }}</a>
+{{ end }}
+</span>
+</div>

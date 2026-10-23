@@ -38,9 +38,9 @@ Freshly retrieved Scott D. Kallestad's 2005 University of North Texas DMA disser
 
 ### Research Review, October 11, 2026
 
-[[Review 0071 - Denis Joly - Cantilene et Danse|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Denis Joly - Cantilene et Danse.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Denis Joly - Cantilene et Danse.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0071.json).
+Catalog: [Denis Joly - Cantilene et Danse.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Denis Joly - Cantilene et Danse.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Denis Joly’s Cantilène et Danse is an eight-page Alphonse Leduc work for alto saxophone and piano (AL20698). The publisher describes slow cantabile and scherzando sections, later fast notes, trills, staccato, accidentals, and endurance demands. Scott D. Kallestad’s 2005 UNT DMA annotated bibliography treats it as a college-level candidate and appears on three college lists; the dissertation summary table labels it freshman.
 

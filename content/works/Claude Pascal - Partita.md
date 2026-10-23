@@ -30,7 +30,7 @@ publisher:
 
 [Combre C05990](https://www.grothmusic.com/p-144132.aspx) is dedicated to Jean Ledieu. Antwerp holds its 1999 publication, and CMF documents a 2000 examination selection. A partial actual score preview shows slurred moving figures, accidentals and dynamic changes. Its full range and tempo remain unverified. Retailer labels conflict, and no exact-work playable recording was found.
 
-[[Review 0056 - Claude Pascal - Partita|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Combre, catalog number C05990 · [grothmusic.com](https://www.grothmusic.com/p-144132.aspx)
@@ -40,9 +40,9 @@ publisher:
 
 ### Research Review, October 11, 2026
 
-[[Review 0056 - Claude Pascal - Partita|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Claude Pascal - Partita.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Claude Pascal - Partita.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0056.json).
+Catalog: [Claude Pascal - Partita.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Claude Pascal - Partita.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Claude Pascal’s Partita is catalogued as an alto saxophone and piano work published by Éditions Combre as C05990 in the Arc en Ciel series, dedicated to Jean Ledieu. The catalog and conservatory library record identify the edition, but original-work provenance was not established.
 

@@ -28,7 +28,7 @@ multi-instruments: "One player doubling soprano and alto saxophones, with piano"
 
 Peters EP66445, one player alternating soprano and alto with piano; about ten minutes. VCIS lists 17+11 pages, frequent saxophone changes, extended techniques for both players, and equal musical partnership. Source dates conflict: catalog currently 1981, historical Peters advertisement indexed 1980; retail 1984/2001 are publication data.
 
-[[Review 0345 - Ross Lee Finney - Two Studies|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Encyclopedia.com lists '2 Studies for Saxophones and Piano (1981)'; instrument not specified beyond 'saxophones' · [encyclopedia.com](https://www.encyclopedia.com/arts/dictionaries-thesauruses-pictures-and-press-releases/finney-ross-lee-0)
@@ -37,7 +37,7 @@ Peters EP66445, one player alternating soprano and alto with piano; about ten mi
 
 ### Research Review, October 11, 2026
 
-[[Review 0345 - Ross Lee Finney - Two Studies|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Ross Lee Finney - Two Studies]].
 

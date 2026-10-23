@@ -3,15 +3,14 @@
 <h1>{{ .Title }}</h1>
 {{ partial "notice.html" . }}
 {{ with partial "body.html" . }}<div class="prose">{{ . }}</div>{{ end }}
-{{ with .Sections }}
+{{ if ne (index .Params "list-children") false }}
+{{ $sections := where .Sections "Params.list-in-parent" "ne" false }}
+{{ if or $sections .RegularPages }}
 <ul class="alist">
-{{ range .ByTitle }}<li><a href="{{ .RelPermalink }}"><span>{{ .Title }}</span></a></li>{{ end }}
+{{ range $sections.ByTitle }}<li><a href="{{ .RelPermalink }}"><span>{{ .Title }}</span></a></li>{{ end }}
+{{ range .RegularPages.ByTitle }}<li><a href="{{ .RelPermalink }}"><span>{{ cond (eq .Section "works") (partial "work-title.html" .) .Title }}</span>{{ with .Params.saxophonists }}<span class="who">{{ . }}</span>{{ end }}</a></li>{{ end }}
 </ul>
 {{ end }}
-{{ with .RegularPages.ByTitle }}
-<ul class="alist">
-{{ range . }}<li><a href="{{ .RelPermalink }}"><span>{{ cond (eq .Section "works") (partial "work-title.html" .) .Title }}</span>{{ with .Params.saxophonists }}<span class="who">{{ . }}</span>{{ end }}</a></li>{{ end }}
-</ul>
 {{ end }}
 </div>
 {{ end }}

@@ -34,7 +34,7 @@ library-score:
 
 Zen-On gives alto or tenor saxophone and piano, ca.4:40; first performance 1 November 2009 by Sumichika Arimura and Masa Matsuura; published 15 July 2023. Composer’s English preface says the work was conceived for alto and adapted by her to allow tenor for publication. Publisher links the composer’s YouTube alto performance; video title and channel verified through YouTube oEmbed metadata; audio not auditioned.
 
-[[Review 0257 - Masa Matsuura - Dreaming Stone|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher catalogue lists the 2009 work for alto or tenor saxophone, about 5 minutes · [eamdc.com](https://www.eamdc.com/audio/presskit/9e75b192-1866-4a02-8b3f-d2233176d17e/)
@@ -43,7 +43,7 @@ Zen-On gives alto or tenor saxophone and piano, ca.4:40; first performance 1 Nov
 
 ### Research Review, October 11, 2026
 
-[[Review 0257 - Masa Matsuura - Dreaming Stone|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Masa Matsuura - Dreaming Stone]].
 

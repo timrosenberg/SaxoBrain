@@ -26,7 +26,7 @@ aliases:
 
 Composer gives 2016, alto/piano, five minutes, Jeffrey Leung commission. Composer program note printed by Butler expressly requires circular breathing. Composer sells emailed PDF score/part; linked video O9FTWSHfwww.
 
-[[Review 0346 - Roydon Tse - Speak, my soul|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Composer's program note: 'the difficulty lies in the execution of the saxophone part which requires circular breathing from the performer'; 'a still and deliberately slow piece' on simple harmonies that move slowly · [butlerartspresents.org](https://www.butlerartspresents.org/wp-content/uploads/2024/09/rev.DAS-Phil-Pierick-10-29-24-WEB.pdf)
@@ -36,7 +36,7 @@ Composer gives 2016, alto/piano, five minutes, Jeffrey Leung commission. Compose
 
 ### Research Review, October 11, 2026
 
-[[Review 0346 - Roydon Tse - Speak, my soul|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Roydon Tse - Speak, my soul]].
 

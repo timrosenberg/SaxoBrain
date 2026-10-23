@@ -27,7 +27,7 @@ publisher:
 
 The inspected EMR13406 preview verifies the alto/piano edition. Swiss National Library distinguishes tenor EMR13407. Score excerpts show mixed meters, accidentals, expressive dynamics and active piano writing. No matching saxophone recording or composition year was verified.
 
-[[Review 0024 - Bertrand Gay - Five Love Songs|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher and catalog no.: Editions Marc Reift EMR13406 · [grothmusic.com](https://www.grothmusic.com/p-147386.aspx)
@@ -37,7 +37,7 @@ The inspected EMR13406 preview verifies the alto/piano edition. Swiss National L
 
 ### Research Review, October 11, 2026
 
-[[Review 0024 - Bertrand Gay - Five Love Songs|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Bertrand Gay - Five Love Songs]]
 

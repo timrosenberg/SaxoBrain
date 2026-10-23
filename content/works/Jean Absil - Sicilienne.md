@@ -1,18 +1,18 @@
 ---
-title: "Sicilienne"
+title: Sicilienne
 slug: jean-absil-sicilienne
 composer:
   - "[[Jean Absil]]"
 instruments:
-  - "Alto Saxophone"
-  - "Soprano Saxophone"
-  - "Piano"
-composed: 
-year-of-study: "First Year"
-streaming: 
+  - Piano
+  - Harp
+  - Any Saxophone
+composed: 1950
+year-of-study: First Year
+streaming: https://www.youtube.com/watch?v=uFLT1ldsRpw
 purchase:
-  - "https://www.sheetmusicplus.com/en/product/sicilienne-19259125.html"
-  - "https://saxpress.com/store/saxophone-solo/sicilienne-jean-absil/"
+  - https://www.jwpepper.com/sicilienne-11606202/p
 added: 2024-03-05
 aliases: []
+multi-instruments: Any saxophone with piano or harp accompaniment
 ---

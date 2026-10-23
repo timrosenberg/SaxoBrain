@@ -28,7 +28,7 @@ publisher:
 
 Billaudot GB 5367 is the piano reduction of the concerto for soprano saxophone and twelve saxophones. Publisher nomenclature specifies soprano saxophone or B-flat clarinet and piano; it does not explicitly authorize tenor saxophone. The original concerto is dated 1992 in the composer catalog; Billaudot marks the reduction concert level, contemporary, fifteen minutes.
 
-[[Review 0367 - Thierry Escaich - Le Chant de Tenebres|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Billaudot, catalog no. GB5367; soprano (or tenor) sax and piano · [grothmusic.com](https://www.grothmusic.com/p-37415.aspx)
@@ -37,9 +37,9 @@ Billaudot GB 5367 is the piano reduction of the concerto for soprano saxophone a
 
 ### Research Review, October 11, 2026
 
-[[Review 0367 - Thierry Escaich - Le Chant de Tenebres|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Thierry Escaich - Le Chant de Tenebres.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Thierry Escaich - Le Chant de Tenebres.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0367.json).
+Catalog: [Thierry Escaich - Le Chant de Tenebres.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Thierry Escaich - Le Chant de Tenebres.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** The catalogued alto/soprano saxophone piano version is not verified. Thierry Escaich's original Le Chant des ténèbres (1992) is for soprano saxophone and 12 saxophones or strings; Billaudot GB9831 is a later soprano saxophone and organ transcription by Tobias Willi, 15 minutes. A separate Billaudot BILL5367 listing for B-flat saxophone and piano appeared in a retailer catalog and needs identification.
 
@@ -110,4 +110,4 @@ These refer to the catalog at the start of research. Verified missing fields wer
 
 **Searches tried:** `Jean Thierry Chant Tenebres`; `Jean Thierry Chant`; `Jean Thierry saxophone tenebres`; `Chant Tenebres saxophone`; `Jean-Thierry ténèbres saxophone`.
 
-[[Remaining Repertoire Research - 2026-10-16|Full research overview]]
+[[SaxoBrain - Review and Repair Record]]

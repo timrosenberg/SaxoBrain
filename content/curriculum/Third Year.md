@@ -2,14 +2,13 @@
 title: "Third Year"
 slug: third-year
 year: 3
-reading-focus: "Repertoire, then and now"
 aliases:
   - /curriculum/junior-year-alto-saxophone/
   - /curriculum/junior-year-tenor-saxophone/
   - /curriculum/junior-year-jazz-studies/
 ---
 
-## Technique
+## [Technique](#technique)
 
 - Scales in 4ths
 - Advanced altissimo
@@ -20,12 +19,12 @@ aliases:
     - Circular breathing
     - Double tonguing
 
-## Études
+## [Études](#etudes)
 
 - [[Franz Wilhelm Ferling - 48 Famous Studies]] [[The Ferling Project]]
 - [[Noël Samyn - 9 Études Transcendantes]]
 
-## Solo Repertoire
+## [Solo repertoire](#repertoire)
 
 Choose one piece from each category.
 
@@ -77,19 +76,28 @@ Choose one piece from each category.
 - [[William Duckworth - Ballad in Time and Space]]
 - [[William Karlins - Music for Tenor Saxophone and Piano]]
 
-## Reading
+
+> [!catalog] Third Year
+> Looking for something else? The catalog lists **{count}** third-year pieces.
+>
+> [See them all →](/?lvl=Third%20Year)
+
+## [Reading](#reading)
+
+> [!focus] This year’s focus:
+> Repertoire, then and now
 
 ### Fall
 
-- [Ch. 4: “Repertoire Heritage”](/media/curriculum/Liley-The-Cambridge-companion-to-the-saxophone-Ch.-4.pdf), *The Cambridge Companion to the Saxophone*, by Thomas Liley
+- [[The Repertoire Heritage by Thomas Liley|Ch. 4: “The Repertoire Heritage”]], *The Cambridge Companion to the Saxophone*, by Thomas Liley
     - A tour of the classical repertoire and of the players, such as Elise Hall, Marcel Mule and Sigurd Rascher.
 
 ### Spring
 
-- [Ch. 14: “The Saxophone Today”](/media/curriculum/Delangle-and-Michat-The-Cambridge-companion-to-the-saxophone-Ch.-14.pdf), *The Cambridge Companion to the Saxophone*, by Claude Delangle and Jean-Denis Michat
+- [[The Saxophone Today by Claude Delangle and Jean-Denis Michat|Ch. 10: “The Saxophone Today”]], *The Cambridge Companion to the Saxophone*, by Claude Delangle and Jean-Denis Michat
     - A survey of contemporary techniques and ways to teach these skills.
 
-## Listening
+## [Listening](#listening)
 
 ### Advanced Classical Saxophone
 

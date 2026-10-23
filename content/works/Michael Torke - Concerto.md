@@ -28,7 +28,7 @@ aliases: []
 
 1993; soprano saxophone and orchestra; three movements; 18 minutes; band version and piano reduction exist. Composer documents flowing sixteenth-note decorations and a long, plaintive second-movement melody. Penn State lists Torke Concerto among suggested graduate saxophone audition works. Bill Holab sells piano reduction/solo part and study-score versions; orchestral/band performance material rented.
 
-[[Review 0268 - Michael Torke - Concerto|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Concerto for Soprano Sax and Piano; publisher Adjustable, catalog no. ADJUST02 · [grothmusic.com](https://www.grothmusic.com/p-37451.aspx)
@@ -37,7 +37,7 @@ aliases: []
 
 ### Research Review, October 11, 2026
 
-[[Review 0268 - Michael Torke - Concerto|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Michael Torke - Concerto]].
 

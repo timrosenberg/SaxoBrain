@@ -31,7 +31,7 @@ aliases: []
 
 Pierné Canzonetta: Mule AL19414 is verified. Publisher describes dotted siciliano-like opening rhythms, scherzando character, Più Vivo contrast, and theme return. Trinity lists the exact edition in Grade 7. Public Mule/Gaveau recording, 3:38, is playable. Notation remains uninspected.
 
-[[Review 0103 - Gabriel Pierné - Canzonetta|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Canzonetta, Op. 19, for clarinet and piano, listed as 1888 (original instrumentation clarinet; assumes catalog entry is this piece) · [en.wikipedia.org](https://en.wikipedia.org/wiki/Gabriel_Pierné)
@@ -40,7 +40,7 @@ Pierné Canzonetta: Mule AL19414 is verified. Publisher describes dotted sicilia
 
 ### Research Review, October 11, 2026
 
-[[Review 0103 - Gabriel Pierné - Canzonetta|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Gabriel Pierné - Canzonetta]].
 

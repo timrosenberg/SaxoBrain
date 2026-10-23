@@ -1,0 +1,18 @@
+{{- $html := partial "body.html" . -}}
+{{- $parts := dict -}}
+{{- range slice "focus" "catalog" "strands" "columns" -}}
+  {{- $part := partial "body-extract.html" (dict "html" $html "name" .) -}}
+  {{- $parts = merge $parts (dict . $part.content) -}}
+  {{- $html = $part.body -}}
+{{- end -}}
+{{- $focus := partial "body-extract.html" (dict "html" (index $parts "focus") "name" "focus-value") -}}
+{{- $parts = merge $parts (dict "focus-value" $focus.content) -}}
+{{- $headings := dict -}}
+{{- range findRESubmatch `(?m)^## \[([^\]]+)\]\(#([a-z-]+)\)[ \t]*$` .RawContent -}}
+  {{- $headings = merge $headings (dict (index . 2) (index . 1)) -}}
+{{- end -}}
+{{- $strands := slice -}}
+{{- range findRESubmatch `<a href="#([a-z-]+)">(.*?)</a>` (index $parts "strands") -}}
+  {{- $strands = $strands | append (dict "key" (index . 1) "label" (index . 2)) -}}
+{{- end -}}
+{{- return (merge $parts (dict "body" $html "headings" $headings "rows" $strands)) -}}

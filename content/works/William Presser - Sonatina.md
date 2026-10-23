@@ -29,7 +29,7 @@ publisher:
 
 Tenuto edition 494-01951 is for soprano saxophone and piano. Groth lists 12 pages and three movements: Allegretto, Adagio, Around the Corner. The official publisher and Groth cover identify the edition. Only the cover was available for visual inspection. The J.W. Pepper listing explicitly has no score or audio preview. Search results for Trinity’s 2026 diploma list can be misleading: the soprano sonatina there is by John Rae; Presser appears as a publisher elsewhere on that page. It is not evidence for this work.
 
-[[Review 0399 - William Presser - Sonatina|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Tenuto, catalog no. 494-01951; 12 pages; I. Allegretto, II. Adagio, III. Around the Corner · [grothmusic.com](https://www.grothmusic.com/p-147489.aspx)
@@ -38,7 +38,7 @@ Tenuto edition 494-01951 is for soprano saxophone and piano. Groth lists 12 page
 
 ### Research Review, October 11, 2026
 
-[[Review 0399 - William Presser - Sonatina|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[William Presser - Sonatina]]
 
@@ -71,4 +71,4 @@ Catalog: [[William Presser - Sonatina]]
 
 **Searches tried:** `William Presser Sonatina soprano`; `William Presser soprano Sonatina score`; `William Presser soprano Sonatina recording`.
 
-[[Remaining Repertoire Research - 2026-10-16|Full research overview]]
+[[SaxoBrain - Review and Repair Record]]

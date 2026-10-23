@@ -26,7 +26,7 @@ publisher:
 
 Interactions is confirmed as soprano saxophone and piano, Dorn DORN0136. Bergeron’s technical reference dates composition to 1980 and publication to 1981, and indexes four multiphonic combinations on printed p.87. The score and exact sax recording remain unavailable, so their frequency, range and other demands are unknown. [Edition](https://www.grothmusic.com/p-141738.aspx) · [Multiphonics reference](https://tombergeron.us/download/sax-multiphonics.pdf).
 
-[[Review 0064 - David Bomberg - Interactions|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Dorn Publications, catalog number DORN0136 · [grothmusic.com](https://www.grothmusic.com/p-141738.aspx)
@@ -35,9 +35,9 @@ Interactions is confirmed as soprano saxophone and piano, Dorn DORN0136. Bergero
 
 ### Research Review, October 11, 2026
 
-[[Review 0064 - David Bomberg - Interactions|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [David Bomberg - Interactions.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/David Bomberg - Interactions.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0064.json).
+Catalog: [David Bomberg - Interactions.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/David Bomberg - Interactions.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** David Bomberg's Interactions is catalogued by a retailer as soprano saxophone and piano, Dorn DORN0136. Tom Bergeron's independent saxophone-multiphonics reference (third edition, 2020; originally published 1989) lists Interactions (1980) with four coded fingering/pitch combinations. This reference is technical context, not the work's score.
 

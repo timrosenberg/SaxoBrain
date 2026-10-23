@@ -42,7 +42,7 @@ AMC confirms Fire and Flood share much of their material with different orchestr
 
 This 2010 tenor concerto lasts about 25 minutes and has four movements. AMC documents altissimo, multiphonics and a virtuosic solo part, with serial writing in a consonant soundworld. The 2011 Wirripang publication is a 52-page full score. Score notation, exact audio and separate performance parts remain unverified. [Work and composer notes](https://www.australianmusiccentre.com.au/work/keeffe-david-undone-years-fire) · [Full score](https://www.australianmusiccentre.com.au/product/the-undone-years-fire-a-concerto-for-tenor-saxophone-with-strings-piano-and-timpani).
 
-[[Review 0068 - David Keeffe - The Undone Years. Fire|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Duration about 25 minutes · [representation.australianmusiccentre.com.au](https://representation.australianmusiccentre.com.au/work/keeffe-david-undone-years-fire)
@@ -55,9 +55,9 @@ This 2010 tenor concerto lasts about 25 minutes and has four movements. AMC docu
 
 ### Research Review, October 11, 2026
 
-[[Review 0068 - David Keeffe - The Undone Years. Fire|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [David Keeffe - The Undone Years. Fire.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/David Keeffe - The Undone Years. Fire.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0068.json).
+Catalog: [David Keeffe - The Undone Years. Fire.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/David Keeffe - The Undone Years. Fire.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Australian Music Centre catalog links David Keeffe's The Undone Years to a concerto for tenor saxophone with strings, piano and timpani. Bourbaki Ensemble's 2011 program gives the work's four movements as I The Undone Years, II The Old Lie, III Spring Winds and IV Legs as Quick as Lilac-shoots, performed by Jason Xanthoudakis. The catalog title 'The Undone Years. Fire' does not match that program's movement titles, so the relationship of 'Fire' remains unresolved.
 

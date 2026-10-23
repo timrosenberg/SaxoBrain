@@ -1,4 +1,13 @@
 {{- /* Links that start with a single slash are site paths: add the site's base path so they work under /SaxoBrain/. */ -}}
 {{- $dest := .Destination -}}
 {{- if and (strings.HasPrefix $dest "/") (not (strings.HasPrefix $dest "//")) }}{{ $dest = relURL (strings.TrimPrefix "/" $dest) }}{{ end -}}
+{{- $yt := findRESubmatch `^https?://(?:www\.|m\.)?(?:youtu\.be/|youtube\.com/(?:watch\?(?:[^#]*&)?v=|shorts/|embed/))([A-Za-z0-9_-]{11})` .Destination 1 -}}
+{{- if and (index .Page.Params "embed-youtube") $yt (eq .PlainText .Destination) -}}
+{{- /* On a page with embed-youtube: true, a link whose text is its own YouTube address plays in place (a t= start time is kept). */ -}}
+{{- $src := printf "https://www.youtube-nocookie.com/embed/%s" (index (index $yt 0) 1) -}}
+{{- with findRESubmatch `[?&]t=(\d+)` .Destination 1 }}{{ $src = printf "%s?start=%s" $src (index (index . 0) 1) }}{{ end -}}
+<span class="video"><iframe src="{{ $src }}" title="{{ partial "t.html" "embed-youtube-title" }}" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></span>
+{{ if eq .Page.Type "equipment" }}<a class="equipment-video-source" href="{{ $dest | safeURL }}" rel="noopener">{{ partial "t.html" "equipment-watch-youtube" }}</a>{{ end }}
+{{- else -}}
 <a href="{{ $dest | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if strings.HasPrefix .Destination "http" }} rel="noopener"{{ end }}>{{ .Text | safeHTML }}</a>
+{{- end -}}

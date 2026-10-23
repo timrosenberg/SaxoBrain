@@ -10,7 +10,9 @@ born: 1893
 died: 1945
 wikidata: Q7681184
 photo: "/media/composers/tamezo-narita.jpg"
-photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Tamezo_Narita.jpg"
 aliases: []
 ---
+
+> [!caption]
+> Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tamezo_Narita.jpg)

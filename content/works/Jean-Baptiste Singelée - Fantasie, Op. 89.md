@@ -31,7 +31,7 @@ arranger-edition:
 
 Exact Ronkin RON1069 soprano/piano preview inspected. Recitative entrances, chromatic sixteenths, high fermatas, più lento melody and flexible piano coordination are concrete demands. School second-cycle syllabus and Osaka master’s program both document use. Commercial Dynamic track verified. Piano omission and conflicting date evidence remain private.
 
-[[Review 0176 - Jean-Baptiste Singelée - Fantasie, Op. 89|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Roncorp, catalog no. RON1069 · [grothmusic.com](https://www.grothmusic.com/p-37467.aspx)
@@ -40,7 +40,7 @@ Exact Ronkin RON1069 soprano/piano preview inspected. Recitative entrances, chro
 
 ### Research Review, October 11, 2026
 
-[[Review 0176 - Jean-Baptiste Singelée - Fantasie, Op. 89|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Jean-Baptiste Singelée - Fantasie, Op. 89]].
 

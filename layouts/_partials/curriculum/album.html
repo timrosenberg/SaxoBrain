@@ -27,7 +27,7 @@
 {{- with $more }}{{ $extras = replace (partial "resolve-links.html" (dict "html" (. | markdownify | string) "page" $page)) "<a " `<a class="act" ` }}{{ end -}}
 <li><span class="main"><span class="t">{{ $title | markdownify }}</span><span class="a">{{ $by }}</span>
 {{- with $.rest }}<span class="note">{{ partial "resolve-links.html" (dict "html" (. | markdownify | string) "page" $page) | safeHTML }}</span>{{ end }}</span>
-<span class="acts">{{ with $listen }}<a class="act listen" href="{{ . }}" rel="noopener"><svg viewBox="0 0 10 10" aria-hidden="true"><path d="M2 1l7 4-7 4z"/></svg>Listen</a>{{ end }}{{ $extras | safeHTML }}</span></li>
+<span class="acts">{{ with $listen }}<a class="act listen" href="{{ . }}" rel="noopener"><svg viewBox="0 0 10 10" aria-hidden="true"><path d="M2 1l7 4-7 4z"/></svg>{{ partial "t.html" "curriculum-listen" }}</a>{{ end }}{{ $extras | safeHTML }}</span></li>
 {{- else -}}
 <li><span class="main">{{ partial "resolve-links.html" (dict "html" (.line | markdownify | string) "page" $page) | safeHTML }}</span><span class="acts"></span></li>
 {{- end -}}

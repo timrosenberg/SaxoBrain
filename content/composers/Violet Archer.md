@@ -10,7 +10,9 @@ born: 1913
 died: 2000
 wikidata: Q292581
 photo: "/media/composers/violet-archer.jpg"
-photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Violet_Archer_at_the_piano.tif"
 aliases: []
 ---
+
+> [!caption]
+> Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Violet_Archer_at_the_piano.tif)

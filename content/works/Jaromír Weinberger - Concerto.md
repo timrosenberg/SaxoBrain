@@ -50,7 +50,7 @@ Freshly retrieved the publisher's history and current revised alto/piano product
 
 ### Research Review, October 11, 2026
 
-[[Review 0166 - Jaromír Weinberger - Concerto|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Jaromír Weinberger - Concerto]]
 

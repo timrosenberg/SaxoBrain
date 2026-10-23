@@ -30,7 +30,7 @@ Contact [To the Fore Publishers](https://www.totheforepublishers.com/order.php) 
 
 Three movements; recording totals about 13 minutes. Paul Cohen recalls the work already written by their early-1970s meeting; exact composition year remains unknown.
 
-[[Review 0334 - Robert Sibbing - Sonata|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - An Apple Music album lists 'Robert Sibbing: Soprano Saxophone Sonata' (A. Harberg album, with Paul Cohen, saxophone) · [classical.music.apple.com](https://classical.music.apple.com/cd/album/1606452820)
@@ -39,7 +39,7 @@ Three movements; recording totals about 13 minutes. Paul Cohen recalls the work 
 
 ### Research Review, October 11, 2026
 
-[[Review 0334 - Robert Sibbing - Sonata|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Robert Sibbing - Sonata]].
 

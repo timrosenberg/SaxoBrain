@@ -29,7 +29,7 @@ publisher:
 
 Tritone Press & Tenuto Publications 494-00004; alto saxophone or viola with piano; 12-page score/parts edition. Publisher exact URL uses encoded ampersand spelling prelude-26-rondo. 1963 appears in secondary viola work lists, but composition versus publication and saxophone-version relationship remain unverified.
 
-[[Review 0398 - William Presser - Prelude and Rondo|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Score and parts, 12 pages; alto saxophone (or viola) and piano; Tenuto Publications / Tritone Press, CF:494-00004 · [performersmusicchicago.com](https://www.performersmusicchicago.com/prelude-rondo-presser-cf-494-00004)
@@ -38,7 +38,7 @@ Tritone Press & Tenuto Publications 494-00004; alto saxophone or viola with pian
 
 ### Research Review, October 11, 2026
 
-[[Review 0398 - William Presser - Prelude and Rondo|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[William Presser - Prelude and Rondo]]
 
@@ -72,4 +72,4 @@ Catalog: [[William Presser - Prelude and Rondo]]
 
 **Searches tried:** `William Presser Prelude and Rondo saxophone`; `Presser Prelude Rondo score 494-00004`; `Presser Prelude Rondo saxophone recording`.
 
-[[Remaining Repertoire Research - 2026-10-16|Full research overview]]
+[[SaxoBrain - Review and Repair Record]]

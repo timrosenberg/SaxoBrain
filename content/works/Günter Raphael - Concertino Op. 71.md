@@ -30,7 +30,7 @@ arranger-edition:
 
 Raphael Concertino: estate directly verifies 1951. EB5986 is the piano reduction of the orchestral original. Lunte calls it highly virtuosic and documents Manz/Sawallisch WDR recording. Full public Piotrowska upload 15:23 names piano accompanist; no notation inspected.
 
-[[Review 0132 - Günter Raphael - Concertino Op. 71|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Breitkopf, catalog EB5986; piano reduction of the orchestra · [grothmusic.com](https://www.grothmusic.com/p-38053.aspx)
@@ -39,9 +39,9 @@ Raphael Concertino: estate directly verifies 1951. EB5986 is the piano reduction
 
 ### Research Review, October 11, 2026
 
-[[Review 0132 - Günter Raphael - Concertino Op. 71|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Günter Raphael - Concertino Op. 71.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Günter Raphael - Concertino Op. 71.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0132.json).
+Catalog: [Günter Raphael - Concertino Op. 71.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Günter Raphael - Concertino Op. 71.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Breitkopf EB5986 is the piano reduction of Günter Raphael’s Concertino Op. 71 for alto saxophone and small orchestra. The piano reduction is the relevant rehearsal/performance edition in the current catalog; no score preview or saxophone part was inspected.
 

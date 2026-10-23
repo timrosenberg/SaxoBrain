@@ -35,7 +35,7 @@ The free download is the composer’s revised edition, with Loxodromus Rag, Rhum
 
 Three Line Rags has substantial chromatic, syncopated saxophone and piano writing. The complete composer edition supplies transposed alto notation, slide instructions and three contrasting rags. Its movement titles differ from the Dorn purchase preview. Composition dates conflict between 1983 and 1984, and no exact recording was verified.
 
-[[Review 0219 - Kenneth Walicki - Three Line Rags|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Dorn DORN0203; listed as '3 Line Rags' · [grothmusic.com](https://www.grothmusic.com/p-146139.aspx)
@@ -44,9 +44,9 @@ Three Line Rags has substantial chromatic, syncopated saxophone and piano writin
 
 ### Research Review, October 11, 2026
 
-[[Review 0219 - Kenneth Walicki - Three Line Rags|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Kenneth Walicki - Three Line Rags.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Kenneth Walicki - Three Line Rags.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0219.json).
+Catalog: [Kenneth Walicki - Three Line Rags.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Kenneth Walicki - Three Line Rags.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Dorn Publications DORN0203 is Kenneth Walicki’s Three Line Rags, also styled 3 Line Rags, for alto saxophone and piano. No notation or performance source was located.
 

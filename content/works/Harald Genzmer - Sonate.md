@@ -30,14 +30,14 @@ aliases: []
 
 Genzmer Foundation lists Sonate for alto saxophone and piano, composed 1984, GeWV 249. Current edition is Ries & Erler RE 24010. Tibia’s 1986 review describes seventh leaps, required harmonics/altissimo to written G, a Largo cantilena and a rhythmically precise 7/8 finale with a virtuoso conclusion.
 
-[[Review 0137 - Harald Genzmer - Sonate (Alto)|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 ### Chat batch 10 follow-up, 2026-10-14
 
 Genzmer's 1984 alto Sonata now has useful score-review evidence: seventh leaps, written altissimo G in the first movement and Largo, and a 7/8 finale with virtuosic runs. A contemporary Tibia reviewer supplies these observations. The actual notation remains unavailable for inspection.
 
-[[Review 0137 - Harald Genzmer - Sonate (Alto)|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Ries & Erler, catalog RE24010 · [grothmusic.com](https://www.grothmusic.com/p-37738.aspx)
@@ -46,9 +46,9 @@ Genzmer's 1984 alto Sonata now has useful score-review evidence: seventh leaps, 
 
 ### Research Review, October 11, 2026
 
-[[Review 0137 - Harald Genzmer - Sonate (Alto)|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Harald Genzmer - Sonate (Alto).md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Harald Genzmer - Sonate (Alto).md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0137.json).
+Catalog: [Harald Genzmer - Sonate (Alto).md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Harald Genzmer - Sonate (Alto).md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Harald Genzmer’s Sonata for E-flat alto saxophone and piano is the 1984 work GeWV 249, published as Ries & Erler RE24010 (ISBN 9790013240104). Retailer search surfaced movement-level description and a “more varied harmonic palette” comparison, but this is seller text, not score analysis.
 

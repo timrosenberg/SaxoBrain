@@ -27,7 +27,7 @@ publisher:
 
 Composer catalog identifies Godba under 1992 for alto/piano, approximately 14 minutes, premiered in Ljubljana by John-Edward Kelly and Bojan Gorišek. DSS 2012 catalog’s 1954 workdate is contradicted by composer chronology and its own composer birth year. The 2003 date belongs to edition publication. Composer’s works page supplies two exact You Tube performance links.
 
-[[Review 0374 - Uroš Rojko - Godba|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher DSS, catalog no. DSS1362; alto sax and piano · [grothmusic.com](https://www.grothmusic.com/p-38064.aspx)
@@ -36,9 +36,9 @@ Composer catalog identifies Godba under 1992 for alto/piano, approximately 14 mi
 
 ### Research Review, October 11, 2026
 
-[[Review 0374 - Uroš Rojko - Godba|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Uroš Rojko - Godba.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Uroš Rojko - Godba.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0374.json).
+Catalog: [Uroš Rojko - Godba.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Uroš Rojko - Godba.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** DSS’s 2012 catalogue lists Uroš Rojko’s Godba for alto saxophone and piano, edition DSS 1362, with a listed duration of 15 minutes. The edition-number register gives publication by DSS in 2003. The work-list entry prints “Godba (1954)” under the composer heading “Rojko, Uroš (1954),” so the composition date remains unresolved.
 

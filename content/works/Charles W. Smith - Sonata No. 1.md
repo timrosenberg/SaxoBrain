@@ -24,7 +24,7 @@ arranger-edition: ["SU 194"]
 
 ### Batch 05 Decision, October 20, 2026
 
-Difficulty unknown; retain unassigned; composer corrected to Charles W. Smith. Confirmed fields and source links are retained in [[Remaining Repertoire - Score Batch 05|Batch 05]] and this work’s research. Older research below records the catalog before these corrections.
+Difficulty unknown; retain unassigned; composer corrected to Charles W. Smith. Confirmed fields and source links are retained in [[SaxoBrain - Review and Repair Record]] and this work’s research. Older research below records the catalog before these corrections.
 
 ### Research checked October 16, 2026
 
@@ -59,4 +59,4 @@ These refer to the catalog at the start of research. Verified missing fields wer
 
 **Searches tried:** `Claude T Smith Sonata No 1 saxophone`; `"Claude T. Smith" "Sonata"`; `"Claude T Smith" "Sonata No. 1"`; `"Smith" "Sonata No. 1" "saxophone" Claude`; `Charles W Smith Sonata SU194 Southern Music`.
 
-[[Remaining Repertoire Research - 2026-10-16|Full research overview]]
+[[SaxoBrain - Review and Repair Record]]

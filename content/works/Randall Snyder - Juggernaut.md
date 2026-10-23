@@ -30,7 +30,7 @@ library-score:
 
 UNL identifies Juggernaut by Randall Snyder for tenor saxophone, horn in F and trombone,20 pages. The institutional record carries copyright 2007. UNL explicitly states that this item has been withdrawn.
 
-[[Review 0314 - Randall Snyder - Juggernaut|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Score listed for tenor sax, horn in F and trombone, 20 pages, copyright 2007 · [digitalcommons.unl.edu](https://digitalcommons.unl.edu/musicsnyder/37)
@@ -39,7 +39,7 @@ UNL identifies Juggernaut by Randall Snyder for tenor saxophone, horn in F and t
 
 ### Research Review, October 11, 2026
 
-[[Review 0314 - Randall Snyder - Juggernaut|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Randall Snyder - Juggernaut]]
 

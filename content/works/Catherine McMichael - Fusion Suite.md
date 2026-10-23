@@ -29,7 +29,7 @@ publisher:
 
 Fusion Suite’s first two musical pages are inspectable. Fusion opens at quarter note 92 with tied syncopations, slurred figures, accidentals, and changing dynamics in dialogue with piano. C. Alan labels the bari edition Medium and 12:15. Albany confirms Klock with McMichael on Connections. The remaining movements and full compass still need inspection. Score and publisher audio: https://c-alanpublications.com/fusion-suite/; named professional recording: https://www.albanyrecords.com/catalog/troy1182/.
 
-[[Review 0039 - Catherine McMichael - Fusion Suite|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - C. Alan Publications grade: Medium; duration 12:15; three movements; dedicated to Lynn Klock, UMass Amherst; leans toward jazz-rock fusion · [c-alanpublications.com](http://c-alanpublications.com/fusion-suite/)
@@ -38,7 +38,7 @@ Fusion Suite’s first two musical pages are inspectable. Fusion opens at quarte
 
 ### Research Review, October 11, 2026
 
-[[Review 0039 - Catherine McMichael - Fusion Suite|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Catherine McMichael - Fusion Suite]].
 

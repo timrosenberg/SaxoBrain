@@ -2,86 +2,108 @@
 title: "Saxophone Mouthpiece Comparisons"
 slug: saxophone-mouthpiece-comparisons
 notion-id: 7867da93eff74f03ae5268eb462084d1
+equipment-title: "Mouthpiece comparison charts"
+equipment-table-anchors:
+  - text: "Vandoren"
+    id: vandoren
+  - text: "Vandoren A17"
+    id: vandoren-a17
+  - text: "Vandoren A27"
+    id: vandoren-a27
+  - text: "Vandoren A28"
+    id: vandoren-a28
+  - text: "Vandoren AL3"
+    id: vandoren-al3
+  - text: "Vandoren AL 4"
+    id: vandoren-al-4
+  - text: "Vandoren AL5"
+    id: vandoren-al5
+  - text: "Selmer"
+    id: selmer
+  - text: "Selmer S80 / C"
+    id: selmer-s80
+  - text: "Selmer S90 / 170"
+    id: selmer-s90
+  - text: "Selmer Concept (Alto)"
+    id: selmer-concept-alto
+  - text: "Selmer Soloist (Alto) / C*"
+    id: selmer-soloist-alto
+  - text: "Selmer SD20 (Alto)"
+    id: selmer-sd20-alto
+  - text: "Playnick"
+    id: playnick
+  - text: "Lars **Mlekusch (LM)** / LM1"
+    id: lars-mlekusch-lm
+  - text: "Backun"
+    id: bakun
+  - text: "TM Vocalise (Timothy McAllister) / TM1"
+    id: tm-vocalise-timothy-mcallister
 ---
 
-# Vandoren
+Compare tip openings and facings within each saxophone. The alto chart includes additional models beyond [Tim’s classical recommendations](/resources/equipment/mouthpieces/classical-saxophone-mouthpieces/).
 
-## Vandoren A17
+Tip opening is the gap between the reed tip and mouthpiece tip. Facing length is the distance from the tip to where the reed meets the flat table. Facing categories are retained as published by each manufacturer.
 
-- Tip Opening: 1.52
-- Facing: Short
+Linked measurements lead to their specification sources. Sources checked October 21, 2026. “Not published” means the source does not give a facing length. The SD20 measurements remain unverified notes. Vandoren’s plus sign is retained on the A28 and AL4 openings.
 
-## Vandoren A27
+[Alto](#alto-saxophone) · [Soprano](#soprano-saxophone) · [Tenor](#tenor-saxophone) · [Baritone](#baritone-saxophone)
 
-- Tip Opening: 1.65
-- Facing: Medium Short
+## Alto Saxophone
 
-## Vandoren A28
+| Brand | Model / facing | Tip opening (mm) | Facing length |
+| --- | --- | --- | --- |
+| Vandoren | Vandoren A17 | [1.52](https://vandoren.fr/en/vandoren-mouthpieces/a17-v5-alto-saxophone-mouthpiece/) | Short |
+| Vandoren | Vandoren A27 | [1.65](https://vandoren.fr/en/vandoren-mouthpieces/a27-v5-alto-saxophone-mouthpiece/) | Medium Short |
+| Vandoren | Vandoren A28 | [1.63+](https://vandoren.fr/en/vandoren-mouthpieces/a28-v5-alto-saxophone-mouthpiece/) | Medium Short |
+| Vandoren | Vandoren AL3 | [1.52](https://vandoren.fr/en/vandoren-mouthpieces/al3-optimum-alto-saxophone-mouthpiece/) | Medium Long |
+| Vandoren | Vandoren AL 4 | [1.63+](https://vandoren.fr/en/vandoren-mouthpieces/al4-optimum-alto-saxophone-mouthpiece/) | Medium Short |
+| Vandoren | Vandoren AL5 | [1.68](https://vandoren.fr/en/vandoren-mouthpieces/al5-optimum-alto-saxophone-mouthpiece/) | Medium Long |
+| Selmer | Selmer S80 / C | [1.45](https://www.selmer.fr/en/products/bec-s80-pour-saxophone-alto) | 24 mm |
+| Selmer | Selmer S80 / C* | [1.55](https://www.selmer.fr/en/products/bec-s80-pour-saxophone-alto) | 24 mm |
+| Selmer | Selmer S80 / C** | [1.65](https://www.selmer.fr/en/products/bec-s80-pour-saxophone-alto) | 24 mm |
+| Selmer | Selmer S90 / 170 | [1.35](https://www.selmer.fr/en/products/bec-s90-pour-saxophone-alto) | 24 mm |
+| Selmer | Selmer S90 / 180 | [1.45](https://www.selmer.fr/en/products/bec-s90-pour-saxophone-alto) | 24 mm |
+| Selmer | Selmer S90 / 190 | [1.55](https://www.selmer.fr/en/products/bec-s90-pour-saxophone-alto) | 24 mm |
+| Selmer | Selmer S90 / 200 | [1.65](https://www.selmer.fr/en/products/bec-s90-pour-saxophone-alto) | 24 mm |
+| Selmer | Selmer Concept (Alto) | [1.52](https://www.selmer.fr/en/products/bec-concept-pour-saxophone-alto) | 24 mm |
+| Selmer | Selmer Soloist (Alto) / C* | [1.55](https://www.selmer.fr/en/products/bec-soloist-pour-saxophone-alto) | 24 mm |
+| Selmer | Selmer Soloist (Alto) / C** | [1.65](https://www.selmer.fr/en/products/bec-soloist-pour-saxophone-alto) | 24 mm |
+| Selmer | Selmer Soloist (Alto) / D | [1.75](https://www.selmer.fr/en/products/bec-soloist-pour-saxophone-alto) | 24 mm |
+| Selmer | Selmer Soloist (Alto) / E | [1.85](https://www.selmer.fr/en/products/bec-soloist-pour-saxophone-alto) | 24 mm |
+| Selmer | Selmer Soloist (Alto) / F | [1.95](https://www.selmer.fr/en/products/bec-soloist-pour-saxophone-alto) | 24 mm |
+| Selmer | Selmer Soloist (Alto) / G | [2.05](https://www.selmer.fr/en/products/bec-soloist-pour-saxophone-alto) | 24 mm |
+| Selmer | Selmer SD20 (Alto) | 1.74 (unverified) | 30 mm (unverified) |
+| Playnick | Lars **Mlekusch (LM)** / LM1 | [1.60](https://playnick.at/en/product/lars-mlekusch-classic-sax-series/) | Not published |
+| Playnick | Lars **Mlekusch (LM)** / LM2 | [1.64](https://playnick.at/en/product/lars-mlekusch-classic-sax-series/) | Not published |
+| Backun | TM Vocalise (Timothy McAllister) / TM1 | [1.44](https://backunmusical.com/products/vocalise-alto-saxophone-mouthpieces) | Not published |
+| Backun | TM Vocalise (Timothy McAllister) / TM2 | [1.53](https://backunmusical.com/products/vocalise-alto-saxophone-mouthpieces) | Not published |
+| Selmer | Selmer Claude Delangle | [1.65](https://www.selmer.fr/en/products/bec-claude-delangle-pour-saxophone-alto) | 24 mm |
+| D’Addario | D’Addario Reserve D150 | [1.50](https://www.justflutes.com/assets/pdf/products/daddario/DAddario-Reserve-Alto-Mouthpiece.pdf) | Medium Long |
 
-- Tip Opening: 1.63 mm
-- Facing: Medium Short
+## Soprano Saxophone
 
-## Vandoren AL3
+| Model / facing | Tip opening (mm) | Facing length |
+| --- | --- | --- |
+| Selmer S90 170 | [1.07](https://www.selmer.fr/en/products/bec-s90-pour-saxophone-soprano) | 18 mm |
+| Selmer Concept | [1.06](https://www.selmer.fr/en/products/bec-concept-pour-saxophone-soprano) | 21 mm |
+| Vandoren SL3 | [1.14](https://vandoren.fr/en/vandoren-mouthpieces/sl3-optimum-soprano-saxophone-mouthpiece/) | Medium Long |
+| Vandoren S27 | [1.11](https://vandoren.fr/en/vandoren-mouthpieces/s27-v5-soprano-saxophone-mouthpiece/) | Medium |
+| Playnick LM2 | Unknown for soprano | Unknown for soprano |
 
-- Tip Opening: 1.524 mm
-- Facing: Medium Long
+The soprano Playnick LM2 entry needs review. [Playnick currently lists LM1 and LM2 for alto only](https://playnick.at/en/product/lars-mlekusch-classic-sax-series/).
 
-## Vandoren AL 4
+## Tenor Saxophone
 
-- Tip Opening: 1.6256 mm
-- Facing: Medium Short
+| Model / facing | Tip opening (mm) | Facing length |
+| --- | --- | --- |
+| Selmer S90 180 | [1.80](https://www.selmer.fr/en/products/bec-s90-pour-saxophone-tenor) | 23 mm |
+| Vandoren T20 | [2.04](https://vandoren.fr/en/vandoren-mouthpieces/t20-v5-tenor-saxophone-mouthpiece/) | Medium |
+| Vandoren TL3 | [1.76](https://vandoren.fr/en/vandoren-mouthpieces/tl3-optimum-tenor-saxophone-mouthpiece/) | Medium Short |
+| Vandoren TL5 | [2.05](https://vandoren.fr/en/vandoren-mouthpieces/tl5-optimum-tenor-saxophone-mouthpiece/) | Medium |
 
-## Vandoren AL5
+## Baritone Saxophone
 
-- Tip Opening: 1.6764 mm
-- Facing: Medium Long
-
-# Selmer
-
-## Selmer S80
-
-- C - 145 mm Tip
-- C* - 155 mm Tip
-- C** - 165 mm Tip
-- Facing: 24 mm
-
-## Selmer S90
-
-- 170 - 1.35 mm
-- 180 - 1.45 mm
-- 190 - 1.55 mm
-- 200 - 1.65 mm
-
-## Selmer Concept (Alto)
-
-- Tip Opening: 1.47828 mm
-- Facing: 23.9776 mm
-
-## Selmer Soloist (Alto)
-
-- C* – 1.55 mm Tip
-- C** – 1.65 mm Tip
-- D – 1.75 mm Tip
-- E – 1.85 mm Tip
-- F – 1.95 mm Tip
-- G – 2.05 mm Tip
-- Facing: 24 mm
-
-## Selmer SD20 (Alto)
-
-- Tip Opening: 1.74 mm
-- Facing 30 mm
-
-# Playnick
-
-## Lars **Mlekusch (LM)**
-
-- LM1: 160 mm Tip
-- LM2: 164 mm Tip
-
-# Bakun
-
-## TM Vocalise (Timothy McAllister)
-
-- TM1: 144 mm
-- TM2: 153 mm
+| Model / facing | Tip opening (mm) | Facing length |
+| --- | --- | --- |
+| Selmer S90 190 | [2.05](https://www.selmer.fr/en/products/bec-s90-pour-saxophone-baryton) | 27 mm |
+| Vandoren BL3 | [1.85](https://vandoren.fr/en/vandoren-mouthpieces/bl3-optimum-baritone-saxophone-mouthpiece/) | Short |

@@ -27,7 +27,7 @@ publisher:
 
 Composer’s own catalog identifies Twelve Tone Rag as original alto/piano music published by Dorn. The inspected score has 2015 copyright, which is not assumed to be composition date. Exact 2018 recording by Victor Herbiet and Frédéric Lacroix is five minutes, on The Roadtothe Ethereal Gate.
 
-[[Review 0377 - Victor Herbiet - Twelve Tone Rag|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Dorn Publications, catalog no. DORN1947; alto sax and piano · [grothmusic.com](https://www.grothmusic.com/p-143499.aspx)
@@ -36,7 +36,7 @@ Composer’s own catalog identifies Twelve Tone Rag as original alto/piano music
 
 ### Research Review, October 11, 2026
 
-[[Review 0377 - Victor Herbiet - Twelve Tone Rag|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Victor Herbiet - Twelve Tone Rag]]
 

@@ -27,7 +27,7 @@ publisher:
 
 Alto saxophone and piano edition BMC 382; inspected cover and score show Boston Music imprint and General Music copyright 1966. University of Scranton composer archive lists publication 1966 and duration 4:30. Neither establishes composition date. The syllabus PDF is titled 2013 Edition despite 2016 appearing in its download filename; the precise source is cited accordingly.
 
-[[Review 0375 - Vaclav Nelhybel - Allegro|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Boston, catalog no. BMC382; 10 pages; piano score and solo E-flat alto sax part · [grothmusic.com](https://www.grothmusic.com/p-147605.aspx)
@@ -36,9 +36,9 @@ Alto saxophone and piano edition BMC 382; inspected cover and score show Boston 
 
 ### Research Review, October 11, 2026
 
-[[Review 0375 - Vaclav Nelhybel - Allegro|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Vaclav Nelhybel - Allegro.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Vaclav Nelhybel - Allegro.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0375.json).
+Catalog: [Vaclav Nelhybel - Allegro.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Vaclav Nelhybel - Allegro.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** A retailer identifies Václav Nelhýbel’s Allegro as a 10-page BMC382 edition for E-flat alto saxophone and piano. The Royal Conservatory of Music’s 2016 syllabus includes Allegro as an optional work in Grade 8 alto saxophone repertoire.
 

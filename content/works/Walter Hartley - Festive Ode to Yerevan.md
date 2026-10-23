@@ -27,7 +27,7 @@ aliases: []
 
 Dorn 1988 is the alto saxophone and one-piano version. Manuscript title dates the work 1998. Printed note says originally for saxophone and piano duet, dedicated to Sasha, Olga and Elena Manoukian. The separate two-piano edition is not the same accompaniment layout. The displayed full score is in C; do not read its pitches as a transposed alto part.
 
-[[Review 0387 - Walter Hartley - Festive Ode to Yerevan|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Dorn Publications, catalog no. DORN1988; piano score and separate sax part (an alto sax with two pianos edition also exists at https://www.grothmusic.com/p-146393.aspx) · [grothmusic.com](https://www.grothmusic.com/p-143819.aspx)
@@ -36,7 +36,7 @@ Dorn 1988 is the alto saxophone and one-piano version. Manuscript title dates th
 
 ### Research Review, October 11, 2026
 
-[[Review 0387 - Walter Hartley - Festive Ode to Yerevan|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Walter Hartley - Festive Ode to Yerevan]]
 

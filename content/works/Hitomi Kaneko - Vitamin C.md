@@ -58,4 +58,4 @@ research:
 
 **Searches tried:** `Hitomi Kaneko Vitamin C saxophone`; `Vitamin C Kaneko saxophone`; `Vitamin C Kaneko Sugawa`; `Vitamin C Kaneko saxophone youtube`.
 
-[[Remaining Repertoire Research - 2026-10-16|Full research overview]]
+[[SaxoBrain - Review and Repair Record]]

@@ -31,7 +31,7 @@ aliases: []
 
 Advance Music ADV7054, Trent Kynaston transcription for alto saxophone and piano or organ. Edition preview copyright2002 is not composition date.
 
-[[Review 0261 - Max Reger - Romanze|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Transcribed by Trent Kynaston; publisher Advance Music, catalog no. ADV7054 · [grothmusic.com](https://www.grothmusic.com/p-144217.aspx)
@@ -40,7 +40,7 @@ Advance Music ADV7054, Trent Kynaston transcription for alto saxophone and piano
 
 ### Research Review, October 11, 2026
 
-[[Review 0261 - Max Reger - Romanze|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Max Reger - Romanze]].
 

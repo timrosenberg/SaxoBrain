@@ -29,7 +29,7 @@ publisher:
 
 Dorn 1193, Michael Golemo arrangement, alto/piano, seven pages. Mt San Antonio applied lesson packet mirror places this exact arrangement with Heiden/Milhaud/Maurice.
 
-[[Review 0348 - Rudy Wiedoeft - Saxophobia|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Dorn Publications, catalog no. DORN1193 · [grothmusic.com](https://www.grothmusic.com/p-146059.aspx)
@@ -39,7 +39,7 @@ Dorn 1193, Michael Golemo arrangement, alto/piano, seven pages. Mt San Antonio a
 
 ### Research Review, October 11, 2026
 
-[[Review 0348 - Rudy Wiedoeft - Saxophobia|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Rudy Wiedoeft - Saxophobia]].
 

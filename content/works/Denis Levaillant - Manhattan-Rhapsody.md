@@ -27,9 +27,9 @@ aliases: []
 
 ### Research Review, October 11, 2026
 
-[[Review 0072 - Denis Levaillant - Manhattan-Rhapsody|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Denis Levaillant - Manhattan-Rhapsody.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Denis Levaillant - Manhattan-Rhapsody.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0072.json).
+Catalog: [Denis Levaillant - Manhattan-Rhapsody.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Denis Levaillant - Manhattan-Rhapsody.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Denis Levaillant’s Manhattan Rhapsody is a concert work for tenor saxophone and piano, 11:40, DLM 0013, written for Jean-Michel Goury and Yves Josset. The composer’s site provides synchronized score and recording and quotes Jean-Marie Londeix recommending the work for the Londeix competition. The composer’s synchronized score/audio page is available and its first page was visually inspected. The opening bears the title Manhattan Rhapsody, tenor saxophone and piano, 2003; it begins at quarter=42, mysterioso, with a soft, slurred saxophone line over dense piano sonorities. A search-indexed composer interview in the Greensboro-hosted booklet describes seven sections, later saxophone multiphonics and slaps, a sax-piano chase, and a coda; treat those details as indexed text until the booklet can be read directly.
 

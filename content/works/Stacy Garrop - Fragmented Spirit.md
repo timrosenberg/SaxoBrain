@@ -30,7 +30,7 @@ publisher:
 
 Presser 114-41106, alto/piano, score and parts, 7:30, dedicated to Steven Stusek. UCLA official program and Noa Even repertoire page date the work 1998. Kallestad 2005 appendix:Garrop senior, one list; Desenclos senior, 13 lists. Publisher gallery inspected but contains cover only; this does not count as notation inspection.
 
-[[Review 0361 - Stacy Garrop - Fragmented Spirit|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Recorded by Michael Duke (saxophone) and David Howie (piano) on a Saxophone Classics anthology, track 9:15, recorded 2012 at the Sydney Conservatorium · [sactx.aspendiscovery.org](https://sactx.aspendiscovery.org/NaxosMusicLibrary/on1034803276)
@@ -40,9 +40,9 @@ Presser 114-41106, alto/piano, score and parts, 7:30, dedicated to Steven Stusek
 
 ### Research Review, October 11, 2026
 
-[[Review 0361 - Stacy Garrop - Fragmented Spirit|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Stacy Garrop - Fragmented Spirit.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Stacy Garrop - Fragmented Spirit.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0361.json).
+Catalog: [Stacy Garrop - Fragmented Spirit.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Stacy Garrop - Fragmented Spirit.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Stacy Garrop’s Fragmented Spirit is Theodore Presser 114-41106 for E-flat alto saxophone and piano, 28 pages, listed at 7:30 by the retailer and Presser. The public Sheet Music Plus preview was opened and displays only the cover, without notation. Noa Even’s performer repertoire listing gives a different timing, about 8:20; it remains a performance-specific estimate.
 

@@ -31,7 +31,7 @@ publisher:
 
 RM011 is soprano and piano, written for Barry Cockcroft. The part labels 1998, with this version 2000. The inspected opening has very quiet long slurs, slurred grace notes and a gradual crescendo. A publisher duo recording is verified. The catalog’s existing 2000 date is retained pending review of the original/version distinction.
 
-[[Review 0028 - Brenton Broadstock - I Touched Your Glistening Tears|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Duration 8 minutes; Australian Music Centre difficulty rating: medium; Reed Music RM011 · [representation.australianmusiccentre.com.au](https://representation.australianmusiccentre.com.au/product/i-touched-your-glistening-tears-soprano-saxophone-piano)
@@ -41,7 +41,7 @@ RM011 is soprano and piano, written for Barry Cockcroft. The part labels 1998, w
 
 ### Research Review, October 11, 2026
 
-[[Review 0028 - Brenton Broadstock - I Touched Your Glistening Tears|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Brenton Broadstock - I Touched Your Glistening Tears]].
 

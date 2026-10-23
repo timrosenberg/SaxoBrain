@@ -27,7 +27,7 @@ publisher:
 
 DMP108046 identity verified from actual score pages 3 and 6. Opening 3/8, written E-flat saxophone notation, chromatic runs, repeated-note figure, dynamic shaping and independent piano material are visible. 2008 is copyright only; no exact recording found.
 
-[[Review 0148 - Hendrik de Regt - Caprice|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Listed by Boosey & Hawkes as Digital Music Print DMP108046, alto saxophone and piano (from search snippet; page itself did not load) · [boosey.com](https://boosey.com/shop/prod/Hendrik-de-Regt-Caprice/2454493)
@@ -36,9 +36,9 @@ DMP108046 identity verified from actual score pages 3 and 6. Opening 3/8, writte
 
 ### Research Review, October 11, 2026
 
-[[Review 0148 - Hendrik de Regt - Caprice|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Hendrik de Regt - Caprice.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Hendrik de Regt - Caprice.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0148.json).
+Catalog: [Hendrik de Regt - Caprice.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Hendrik de Regt - Caprice.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Boosey & Hawkes DMP108046 identifies Hendrik de Regt’s Caprice for alto saxophone and piano. An opened retailer record confirms the instrumentation; no score, recording, duration or technique evidence was located.
 

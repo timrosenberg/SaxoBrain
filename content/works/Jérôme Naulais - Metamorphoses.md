@@ -31,7 +31,7 @@ library-score:
 
 Métamorphoses exposes a freely paced opening with rapid grouped runs, accidentals and dynamic changes over sustained piano chords. The inspected score uses transposed alto notation. Billaudot gives 6:45 and a cycle-2 classification. A credited complete-work performance is available; the remaining score and full range still require inspection.
 
-[[Review 0215 - Jérôme Naulais - Metamorphoses|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Billaudot GB6204 · [grothmusic.com](https://www.grothmusic.com/p-144547.aspx)
@@ -40,9 +40,9 @@ Métamorphoses exposes a freely paced opening with rapid grouped runs, accidenta
 
 ### Research Review, October 11, 2026
 
-[[Review 0215 - Jérôme Naulais - Metamorphoses|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Jérôme Naulais - Metamorphoses.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Jérôme Naulais - Metamorphoses.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0215.json).
+Catalog: [Jérôme Naulais - Metamorphoses.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Jérôme Naulais - Metamorphoses.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Billaudot GB6204 identifies Naulais’s Métamorphoses for alto saxophone and piano, duration 6:45, with publisher classification “Moyennement difficile (cycle 2).” A Luxembourg public conservatory syllabus includes the work in its alto-saxophone/piano study repertoire. The French publisher cycle and Luxembourg syllabus are reported as their own systems.
 

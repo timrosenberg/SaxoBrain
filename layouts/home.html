@@ -1,25 +1,18 @@
 {{ define "main" }}
 {{ $home := site.Home.RelPermalink }}
-<section aria-label="Quick starts">
-<p class="label-sm">Start here</p>
-<div class="starts">
-<a class="start" href="{{ "curriculum/" | relURL }}"><span class="label-sm">Curriculum</span><b>Follow the curriculum</b><small>Four years of études, solos and listening, in order</small></a>
-<a class="start" href="{{ "lists/competitions/" | relURL }}"><span class="label-sm">Lists</span><b>Competition lists</b><small>What competitions ask for</small></a>
-<a class="start" href="{{ "recordings/" | relURL }}"><span class="label-sm">Recordings</span><b>Albums to know</b><small>Classical saxophone recordings, ready to play</small></a>
-</div>
-</section>
+{{ partial "body.html" . }}
 
 <div class="bar" id="results">
-<input id="q" class="search" type="search" placeholder="Search by title or composer" aria-label="Search by title or composer" autocomplete="off">
+<input id="q" class="search" type="search" placeholder="{{ partial "t.html" "home-search-placeholder" }}" aria-label="{{ partial "t.html" "home-search-label" }}" autocomplete="off">
 <div class="groups" id="groups"></div>
 </div>
-<div class="status"><span id="count" aria-live="polite"></span><span class="status-tools"><button class="clear" id="clear" type="button" hidden>Clear all</button><label class="sort" hidden>Sort by <select id="sort"><option value="composer">Composer</option><option value="title">Title</option><option value="level">Year of study</option><option value="added">Newest additions</option></select></label></span></div>
+<div class="status"><span id="count" aria-live="polite"></span><span class="status-tools"><button class="clear" id="clear" type="button" hidden>{{ partial "t.html" "home-clear-all" }}</button><label class="sort" hidden>{{ partial "t.html" "home-sort-label" }} <select id="sort"><option value="composer">{{ partial "t.html" "home-sort-composer" }}</option><option value="title">{{ partial "t.html" "home-sort-title" }}</option><option value="level">{{ partial "t.html" "home-sort-level" }}</option><option value="added">{{ partial "t.html" "home-sort-added" }}</option></select></label></span></div>
 <ul class="results" id="list"></ul>
-<button class="showmore" id="more" type="button" hidden>Show more</button>
-<button class="totop" id="totop" type="button" hidden><span aria-hidden="true">↑</span> Back to top</button>
+<button class="showmore" id="more" type="button" hidden>{{ partial "t.html" "home-show-more" }}</button>
+<button class="totop" id="totop" type="button" hidden><span aria-hidden="true">↑</span> {{ partial "t.html" "home-back-to-top" }}</button>
 <div class="scrim" id="scrim" hidden></div>
-<aside class="panel" id="panel" hidden role="dialog" aria-modal="true" aria-label="Work details" tabindex="-1"></aside>
-<noscript><p>Search needs JavaScript. You can <a href="{{ "works/" | relURL }}">browse every work</a> or <a href="{{ "composers/" | relURL }}">every composer</a> without it.</p></noscript>
+<aside class="panel" id="panel" hidden role="dialog" aria-modal="true" aria-label="{{ partial "t.html" "home-panel-label" }}" tabindex="-1"></aside>
+<noscript><p>{{ partial "t.html" "home-noscript-before" }} <a href="{{ "works/" | relURL }}">{{ partial "t.html" "home-noscript-works-link" }}</a> {{ partial "t.html" "home-noscript-middle" }} <a href="{{ "composers/" | relURL }}">{{ partial "t.html" "home-noscript-composers-link" }}</a> {{ partial "t.html" "home-noscript-after" }}</p></noscript>
 <script defer src="{{ "js/catalog.js" | relURL }}" data-index="{{ "index.json" | relURL }}"></script>
 <script defer src="{{ "js/totop.js" | relURL }}"></script>
 {{ end }}

@@ -27,7 +27,7 @@ publisher:
 
 Höflich’s publisher preface dates the concerto1934 and identifies alto saxophone and orchestra. Lemoine23950 is the alto saxophone/piano reduction, score44 pages plus11-page part.
 
-[[Review 0294 - Pierre Vellones - Concerto Op. 65|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Concerto for alto saxophone and orchestra, Op. 65; Marcel Mule gave a first performance of a complete concerto on 16 November 1935, described as this work; Henry Lemoine handles performance material (the source does not label it explicitly as the premiere) · [repertoire-explorer.musikmph.de](https://repertoire-explorer.musikmph.de/prefaces/4559.html)
@@ -36,9 +36,9 @@ Höflich’s publisher preface dates the concerto1934 and identifies alto saxoph
 
 ### Research Review, October 11, 2026
 
-[[Review 0294 - Pierre Vellones - Concerto Op. 65|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Pierre Vellones - Concerto Op. 65.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Pierre Vellones - Concerto Op. 65.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0294.json).
+Catalog: [Pierre Vellones - Concerto Op. 65.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Pierre Vellones - Concerto Op. 65.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Pierre Vellones’s Concerto Op.65 is for alto saxophone and orchestra; assignment lists the piano reduction. An academic repertoire entry says Marcel Mule gave a complete first performance on 16 November 1935, but it does not explicitly call this the premiere. Confirm the reduction edition and avoid equating a documented first complete performance with premiere status.
 

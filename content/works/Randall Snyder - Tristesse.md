@@ -26,7 +26,7 @@ publisher:
 
 Tristesse for alto saxophone and piano is dated 1999 in the score. Dedicated to Larry Gwozdz; Dorn edition DORN 0189 bears copyright 2000.
 
-[[Review 0316 - Randall Snyder - Tristesse|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Dorn Publications, catalog no. DORN0189 · [grothmusic.com](https://www.grothmusic.com/p-146114.aspx)
@@ -35,7 +35,7 @@ Tristesse for alto saxophone and piano is dated 1999 in the score. Dedicated to 
 
 ### Research Review, October 11, 2026
 
-[[Review 0316 - Randall Snyder - Tristesse|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Randall Snyder - Tristesse]]
 

@@ -65,4 +65,4 @@ The [[Café 1930]] recording includes all five movements.
 
 Tim approved merging the four movement-only entries into this existing suite page. The suite remains Third Year. The previous unlabeled purchase link is AL23061, movement I only. Separately labeled movement purchase links and all four direct recording links are preserved.
 
-Original work snapshots are retained in individual private merge archives and in the batch 15 manifest. Movement-level evidence: [[Review 0297 - Pierre-Max DuBois - A l'Espagnole|Pierre-Max DuBois - A l'Espagnole]] · [[Review 0298 - Pierre-Max DuBois - A la Francaise|Pierre-Max DuBois - A la Francaise]] · [[Review 0299 - Pierre-Max DuBois - A la Hongroise|Pierre-Max DuBois - A la Hongroise]] · [[Review 0300 - Pierre-Max DuBois - A la Russe|Pierre-Max DuBois - A la Russe]].
+Original work snapshots are retained in individual private merge archives and in the batch 15 manifest. Movement-level evidence: [[SaxoBrain - Review and Repair Record]] · [[SaxoBrain - Review and Repair Record]] · [[SaxoBrain - Review and Repair Record]] · [[SaxoBrain - Review and Repair Record]].

@@ -38,7 +38,7 @@ Freshly inspected Donemus D5473 public preview, PDF pp. 3–4 / printed pp. 1–
 
 ### Research Review, October 11, 2026
 
-[[Review 0048 - Chiel Meijering - The Pizza Connection|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Chiel Meijering - The Pizza Connection]].
 

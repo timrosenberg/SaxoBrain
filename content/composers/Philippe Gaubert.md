@@ -10,7 +10,9 @@ born: 1879
 died: 1941
 wikidata: Q959431
 photo: "/media/composers/philippe-gaubert.jpg"
-photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Philippe_Gaubert.JPG"
 aliases: []
 ---
+
+> [!caption]
+> Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Philippe_Gaubert.JPG)

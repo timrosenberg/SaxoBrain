@@ -28,7 +28,7 @@ aliases: []
 
 Terra Incognita’s three-page concert-pitch sample shows inside-piano plucking, scraping and string slaps before the saxophone enters. Later saxophone writing includes glissandos, trills, tuplets and accelerating runs. Murdock documents a 1988 saxophone-association premiere and ten-minute duration. A composer-hosted recording is available; the complete score remains uninspected.
 
-[[Review 0217 - Katherine Ann Murdock - Terra Incognita|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Dorn DORN0181 · [grothmusic.com](https://www.grothmusic.com/p-145599.aspx)
@@ -37,9 +37,9 @@ Terra Incognita’s three-page concert-pitch sample shows inside-piano plucking,
 
 ### Research Review, October 11, 2026
 
-[[Review 0217 - Katherine Ann Murdock - Terra Incognita|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Katherine Ann Murdock - Terra Incognita.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Katherine Ann Murdock - Terra Incognita.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0217.json).
+Catalog: [Katherine Ann Murdock - Terra Incognita.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Katherine Ann Murdock - Terra Incognita.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Composer Katherine Ann Murdock’s works page identifies Terra Incognita (1988) for alto saxophone and piano, matching Dorn DORN0181 in the local listing. The composer site requests score acquisition directly from her; no score preview, performance or technique notes were located.
 

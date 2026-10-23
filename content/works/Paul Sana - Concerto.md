@@ -28,14 +28,14 @@ publisher:
 
 The concerto opening remains too brief for grading; fresh federation repertoire evidence supports retention.
 
-[[Review 0283 - Paul Sana - Concerto|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 ### Chat Batch 15 Follow-Up, October 15, 2026
 
 Andel edition 9790365114313 is alto saxophone and piano, 21 pages, three movements. Retailer movement labels: Allegro ma non troppo, Andante, Agitato. Score opening is dedicated to Alain Crépin and begins Largo rubato before Maestoso and Allegro ma non troppo.
 
-[[Review 0283 - Paul Sana - Concerto|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Three movements: I. Allegro ma non troppo, II. Andante, III. Agitato; publisher Andel Editions, catalog no. 9790365114313; 21 pages · [grothmusic.com](https://www.grothmusic.com/p-141082.aspx)
@@ -44,9 +44,9 @@ Andel edition 9790365114313 is alto saxophone and piano, 21 pages, three movemen
 
 ### Research Review, October 11, 2026
 
-[[Review 0283 - Paul Sana - Concerto|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Paul Sana - Concerto.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Paul Sana - Concerto.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0283.json).
+Catalog: [Paul Sana - Concerto.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Paul Sana - Concerto.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** The catalog identifies Paul Sana’s Concerto for alto saxophone and piano, Andel Editions, 21 pages, with movements Allegro ma non troppo, Andante and Agitato. Search results did not yield an independently verified publisher page or recording; these details remain catalog leads.
 

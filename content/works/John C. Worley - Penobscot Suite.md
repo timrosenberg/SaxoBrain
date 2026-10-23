@@ -27,7 +27,7 @@ aliases: []
 
 Six-movement alto/piano suite dated 1967. The inspected opening has a sextuplet, chromatic thirty-second-note run and fermata, followed by a quieter melody over repeated piano eighth notes. Later movements include Vivo furioso and Allegro con brio. Only the first page was inspected; no exact recording was found.
 
-[[Review 0197 - John C. Worley - Penobscot Suite|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Dorn Publications, catalog no. DORN0888 · [grothmusic.com](https://www.grothmusic.com/p-146143.aspx)
@@ -36,7 +36,7 @@ Six-movement alto/piano suite dated 1967. The inspected opening has a sextuplet,
 
 ### Research Review, October 11, 2026
 
-[[Review 0197 - John C. Worley - Penobscot Suite|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[John C. Worley - Penobscot Suite]].
 

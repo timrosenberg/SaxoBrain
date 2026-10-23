@@ -30,7 +30,7 @@ aliases: []
 
 Exact Gorner score opening now inspected: Andante, eighth note 80, 2/4, frequent trills, grace figures and slurred thirty-second notes over independent piano lines. The Southern edition also appears in New Zealand performance diploma repertoire. No full score or exact recording located.
 
-[[Review 0181 - Jean-Marie Leclair - Sonata in G min|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Southern, catalog no. SS788 · [grothmusic.com](https://www.grothmusic.com/p-143007.aspx)
@@ -40,7 +40,7 @@ Exact Gorner score opening now inspected: Andante, eighth note 80, 2/4, frequent
 
 ### Research Review, October 11, 2026
 
-[[Review 0181 - Jean-Marie Leclair - Sonata in G min|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Jean-Marie Leclair - Sonata in G min]].
 

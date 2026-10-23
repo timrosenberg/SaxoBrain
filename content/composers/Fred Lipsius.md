@@ -10,8 +10,10 @@ born: 1943
 died: 
 wikidata: Q1441251
 photo: "/media/composers/fred-lipsius.jpg"
-photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:FredLipsius.jpg"
 aliases: []
 website: https://www.fredlipsius.com/
 ---
+
+> [!caption]
+> Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:FredLipsius.jpg)

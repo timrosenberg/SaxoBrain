@@ -1,0 +1,20 @@
+{{- /* Reusable presentations for source notes, shared by full pages and embeds. */ -}}
+{{- $format := index .Params "equipment-format" -}}
+{{ if eq $format "instruments" }}
+  {{ partial "equipment/instruments.html" . }}
+{{ else if eq $format "products" }}
+  {{ partial "equipment/products.html" (dict "page" . "layout" "cards") }}
+{{ else if eq $format "saxophones" }}
+  {{- $page := . -}}
+  {{- $parts := partial "equipment/split-sections.html" (dict "page" . "defer" true) -}}
+  {{ with $parts.intro }}<div class="prose">{{ . | safeHTML }}</div>{{ end }}
+  {{ range $parts.sections }}
+    <section class="equipment-guide" id="{{ .id }}"><h2>{{ .title | safeHTML }}</h2>{{ partial "equipment/products.html" (dict "html" .body "tag" "h3" "page" $page "scope" .id "layout" "cards") }}</section>
+  {{ end }}
+{{ else if eq $format "adjustments" }}
+  {{ partial "equipment/adjustments.html" . }}
+{{ else if eq $format "methods" }}
+  {{ partial "equipment/methods.html" . }}
+{{ else }}
+  <div class="prose equipment-reference">{{ partial "equipment/reference.html" . }}</div>
+{{ end }}

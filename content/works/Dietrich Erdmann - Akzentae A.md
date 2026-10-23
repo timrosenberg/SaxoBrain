@@ -28,7 +28,7 @@ publisher:
 
 Akzente A is Erdmann’s alto reworking of the 1989 tenor Akzente. EDA dates it 1989/2003. Its performers describe turbulent displaced accents, triplet cascades, lyrical trills and sevenths, and slap tongue followed by a laughing effect. Exact recordings of all three movements by Frank Lunte and Tatjana Blome are publicly available. The title spelling and date relationship need decision flags. Score-based range remains unverified. The default Listen plays movement I; II and III have separate verified links.
 
-[[Review 0075 - Dietrich Erdmann - Akzentae A|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Breitkopf, catalog number EB9138 · [grothmusic.com](https://www.grothmusic.com/p-143408.aspx)
@@ -38,9 +38,9 @@ Akzente A is Erdmann’s alto reworking of the 1989 tenor Akzente. EDA dates it 
 
 ### Research Review, October 11, 2026
 
-[[Review 0075 - Dietrich Erdmann - Akzentae A|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Dietrich Erdmann - Akzentae A.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Dietrich Erdmann - Akzentae A.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0075.json).
+Catalog: [Dietrich Erdmann - Akzentae A.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Dietrich Erdmann - Akzentae A.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Dietrich Erdmann’s Akzente A is an alto saxophone and piano work published by Breitkopf & Härtel, EB 9138. EDA Records lists three movements: Allegro con fuoco, Adagio espressivo, and Presto grotesco. The Philharmonie guide also lists a distinct tenor-and-piano work titled Akzente.
 

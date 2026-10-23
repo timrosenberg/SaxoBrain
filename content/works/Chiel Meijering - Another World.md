@@ -36,7 +36,7 @@ Freshly inspected Donemus D20367 preview cover, instrumentation, PDF p. 3 / Part
 
 ### Research Review, October 11, 2026
 
-[[Review 0047 - Chiel Meijering - Another World|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Chiel Meijering - Another World]].
 

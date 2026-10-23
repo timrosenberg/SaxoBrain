@@ -28,7 +28,7 @@ aliases: []
 
 ### Research Review, October 11, 2026
 
-[[Review 0025 - Bob Mintzer - Concertino|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Bob Mintzer - Concertino]]
 

@@ -29,7 +29,7 @@ aliases: []
 
 The composer provides a score excerpt and a 6:04 duration. Measures 80–83 show changing 5/4 and 6/4, rapid chromatic thirty-second notes, upper-register writing and p/f contrasts above sustained piano textures. These are direct notation observations from an internal excerpt. Its transposition and tempo are not stated, and audio remains unverified.
 
-[[Review 0142 - Harold Fortuin - Epitaph|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Dorn Publications, catalog no. DORN0164 · [grothmusic.com](https://www.grothmusic.com/p-142335.aspx)
@@ -40,9 +40,9 @@ The composer provides a score excerpt and a 6:04 duration. Measures 80–83 show
 
 ### Research Review, October 11, 2026
 
-[[Review 0142 - Harold Fortuin - Epitaph|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Harold Fortuin - Epitaph.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Harold Fortuin - Epitaph.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0142.json).
+Catalog: [Harold Fortuin - Epitaph.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Harold Fortuin - Epitaph.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Harold Fortuin’s Epitaph is an alto saxophone and piano work dated 1991. Dorn lists DORN0164, commission by Christopher Creviston and a 1991 premiere with pianist Karen Koch. The composer’s archived site links an Epitaph MP3; the performance audio was not auditioned.
 

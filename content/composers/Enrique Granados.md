@@ -9,7 +9,9 @@ born: 1867
 died: 1916
 wikidata: Q294225
 photo: "/media/composers/enrique-granados.jpg"
-photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Enric_Granados_-_Ilustraci%C3%B3_Catalana.jpg"
 aliases: []
 ---
+
+> [!caption]
+> Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Enric_Granados_-_Ilustraci%C3%B3_Catalana.jpg)

@@ -28,7 +28,7 @@ publisher:
 
 Woodbury’s composer explanation identifies an original integration of jazz and classical music. Wise Music verifies seven minutes, alto/piano and C.F. Peters. No score preview or Listen verified; retailer dates conflict and do not establish composition year.
 
-[[Review 0016 - Arthur Woodbury - Between Categories|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher and catalog no.: Peters EP67113 · [grothmusic.com](https://www.grothmusic.com/p-146308.aspx)
@@ -38,7 +38,7 @@ Woodbury’s composer explanation identifies an original integration of jazz and
 
 ### Research Review, October 11, 2026
 
-[[Review 0016 - Arthur Woodbury - Between Categories|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Arthur Woodbury - Between Categories]]
 

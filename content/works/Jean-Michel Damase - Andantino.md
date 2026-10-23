@@ -28,7 +28,7 @@ publisher:
 
 Damase Andantino: exact AL29507 cover confirms first-cycle teaching context and alto with piano. Borges and Lacerda recording verified. Notation and composition year remain unknown.
 
-[[Review 0183 - Jean-Michel Damase - Andantino|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Alphonse Leduc, catalog no. AL29507 · [grothmusic.com](https://www.grothmusic.com/p-147310.aspx)
@@ -38,7 +38,7 @@ Damase Andantino: exact AL29507 cover confirms first-cycle teaching context and 
 
 ### Research Review, October 11, 2026
 
-[[Review 0183 - Jean-Michel Damase - Andantino|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Jean-Michel Damase - Andantino]].
 

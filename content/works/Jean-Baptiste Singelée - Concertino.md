@@ -32,7 +32,7 @@ aliases: []
 
 Linked Concertino edition is Ronkin’s RON1125, with an actual facilité ossia visible in its opening preview. Main solo has slurred chromatic sixteenths and register changes; intro is piano cue. Separate Galeano part corroborates later triplet/chromatic writing. School admission and Debrecen faculty recording documented. Londeix/current-publisher conflicts retained privately.
 
-[[Review 0175 - Jean-Baptiste Singelée - Concertino|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Roncorp, catalog no. RON1125 · [grothmusic.com](https://www.grothmusic.com/p-38098.aspx)
@@ -42,7 +42,7 @@ Linked Concertino edition is Ronkin’s RON1125, with an actual facilité ossia 
 
 ### Research Review, October 11, 2026
 
-[[Review 0175 - Jean-Baptiste Singelée - Concertino|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Jean-Baptiste Singelée - Concertino]]
 

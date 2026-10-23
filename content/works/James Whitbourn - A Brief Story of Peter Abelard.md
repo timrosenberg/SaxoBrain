@@ -34,7 +34,7 @@ The linked recording uses soprano saxophone and organ. A separate soprano saxoph
 
 The exact piano and organ editions are distinct. Naxos’s full recording is Jeremy Powell with organist Ken Cowan, correcting the earlier piano-credit error. A University of Utah student recital also uses the organ version. Saxophone notation is unavailable.
 
-[[Review 0165 - James Whitbourn - A Brief Story of Peter Abelard|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Duration 7 min 33 s; versions for soprano saxophone and organ, and soprano saxophone and piano; recorded on Living Voices (Naxos 8.572737) · [wisemusicclassical.com](https://www.wisemusicclassical.com/work/47106/A-brief-story-of-Peter-Abelard--James-Whitbourn/)
@@ -43,7 +43,7 @@ The exact piano and organ editions are distinct. Naxos’s full recording is Jer
 
 ### Research Review, October 11, 2026
 
-[[Review 0165 - James Whitbourn - A Brief Story of Peter Abelard|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[James Whitbourn - A Brief Story of Peter Abelard]]
 

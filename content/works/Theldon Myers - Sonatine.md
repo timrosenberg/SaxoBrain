@@ -24,7 +24,7 @@ research:
 
 ### Batch 05 Decision, October 20, 2026
 
-Difficulty unknown; retain unassigned; composer corrected to Theldon Myers. Confirmed fields and source links are retained in [[Remaining Repertoire - Score Batch 05|Batch 05]] and this work’s research. Older research below records the catalog before these corrections.
+Difficulty unknown; retain unassigned; composer corrected to Theldon Myers. Confirmed fields and source links are retained in [[SaxoBrain - Review and Repair Record]] and this work’s research. Older research below records the catalog before these corrections.
 
 ### Research checked October 16, 2026
 
@@ -60,4 +60,4 @@ These refer to the catalog at the start of research. Verified missing fields wer
 
 **Searches tried:** `Robert Myers Sonatine`; `Robert Myers Sonatine saxophone`; `Myers Sonatine alto saxophone Theldon`; `Myers Sonatine saxophone score Theldon publisher`.
 
-[[Remaining Repertoire Research - 2026-10-16|Full research overview]]
+[[SaxoBrain - Review and Repair Record]]

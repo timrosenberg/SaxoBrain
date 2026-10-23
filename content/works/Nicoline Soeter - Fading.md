@@ -47,7 +47,7 @@ Freshly retrieved Donemus D16533 product page and two-page public preview. The p
 
 ### Research Review, October 11, 2026
 
-[[Review 0273 - Nicoline Soeter - Fading|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Nicoline Soeter - Fading]].
 

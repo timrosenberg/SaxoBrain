@@ -2,24 +2,23 @@
 title: "Second Year"
 slug: second-year
 year: 2
-reading-focus: "The instrument’s history"
 aliases:
   - /curriculum/second-year-alto-saxophone/
   - /curriculum/second-year-tenor-saxophone/
   - /curriculum/second-year-jazz-materials/
 ---
 
-## Technique
+## [Technique](#technique)
 
 - [[The Scale Series]]: completely memorized by the end of the first semester
 - Beginning altissimo
 
-## Études
+## [Études](#etudes)
 
 - [[J. L. Small - 27 Melodious and Rhythmical Exercises]]
 - [[Jean-Marie Londeix - Exercices d’intonation]]
 
-## Solo Repertoire
+## [Solo repertoire](#repertoire)
 
 Each semester, choose one piece from each category. In the spring, choose a different piece in each category than you played in the fall.
 
@@ -63,19 +62,28 @@ Each semester, choose one piece from each category. In the spring, choose a diff
 - [[Dana Wilson - Incantation and Ritual]]
 - [[Ronald Caravan - Quiet Time]]
 
-## Reading
+
+> [!catalog] Second Year
+> Looking for something else? The catalog lists **{count}** second-year pieces.
+>
+> [See them all →](/?lvl=Second%20Year)
+
+## [Reading](#reading)
+
+> [!focus] This year’s focus:
+> The instrument’s history
 
 ### Fall
 
-- [Ch. 1: “Invention and Development”](/media/curriculum/Liley-The-Cambridge-Companion-to-the-Saxophone-Ch.-1.pdf), *The Cambridge Companion to the Saxophone*, by Thomas Liley
+- [[Invention and Development by Thomas Liley|Ch. 1: “Invention and Development”]], *The Cambridge Companion to the Saxophone*, by Thomas Liley
     - The life of Adolphe Sax and how the instrument changed in its first decades.
 
 ### Spring
 
-- [Ch. 2: “In the Twentieth Century”](/media/curriculum/Ashton-The-Cambridge-Companion-to-the-Saxophone-Ch.-2.pdf), *The Cambridge Companion to the Saxophone*, by Don Ashton
+- [[In the Twentieth Century by Don Ashton|Ch. 2: “In the Twentieth Century”]], *The Cambridge Companion to the Saxophone*, by Don Ashton
     - How instruments and mouthpieces changed along the way.
 
-## Listening
+## [Listening](#listening)
 
 ### Next Steps: Classical Saxophone
 

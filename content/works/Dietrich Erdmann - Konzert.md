@@ -68,4 +68,4 @@ These refer to the catalog at the start of research. Verified missing fields wer
 
 **Searches tried:** `Dietrich Erdmann Konzert saxophone`; `Erdmann Konzert saxophon klavier`; `Dietrich Erdmann Konzert saxophone Ries Erler`; `Erdmann Konzert 24006`.
 
-[[Remaining Repertoire Research - 2026-10-16|Full research overview]]
+[[SaxoBrain - Review and Repair Record]]

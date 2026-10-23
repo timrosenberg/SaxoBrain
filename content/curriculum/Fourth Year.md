@@ -2,22 +2,21 @@
 title: "Fourth Year"
 slug: fourth-year
 year: 4
-reading-focus: "Teaching"
 aliases:
   - /curriculum/senior-year-alto-saxophone/
   - /curriculum/senior-year-tenor-saxophone/
   - /curriculum/senior-year-jazz-studies/
 ---
 
-## Technique
+## [Technique](#technique)
 
 - Overtone exercises
 
-## Études
+## [Études](#etudes)
 
 - [[Guy Lacour - 228 études sur les modes à transpositions limitées d'Olivier Messiaen]]
 
-## Solo Repertoire
+## [Solo repertoire](#repertoire)
 
 By the time a student reaches their fourth year of study they should have advanced enough in their technique to play most of the saxophone repertoire. The pieces below are suggestions.
 
@@ -55,19 +54,28 @@ By the time a student reaches their fourth year of study they should have advanc
 - [[Betsy Jolas - Episode Quatrième]]
 - [[Christian Lauba - Neuf Études, Book 2 - No. 6 Gyn]] and [[Christian Lauba - Neuf Études, Book 2 - No. 7 Vir]]
 
-## Reading
+
+> [!catalog] Fourth Year
+> Looking for something else? The catalog lists **{count}** fourth-year pieces, plus **{advanced-count}** advanced pieces.
+>
+> [See them all →](/?lvl=Fourth%20Year) [Advanced →](/?lvl=Advanced)
+
+## [Reading](#reading)
+
+> [!focus] This year’s focus:
+> Teaching
 
 ### Fall
 
-- [Ch. 11: “Teaching the Saxophone”](/media/curriculum/Horch-The-Cambridge-companion-to-the-saxophone-Ch.-11.pdf), *The Cambridge Companion to the Saxophone*, by Kyle Horch
+- [[Teaching the Saxophone by Kyle Horch|Ch. 11: “Teaching the Saxophone”]], *The Cambridge Companion to the Saxophone*, by Kyle Horch
     - The roles of student and teacher, with hands-on ways to teach a first embouchure, vibrato and a relaxed tone.
 
 ### Spring
 
-- [Common Problems (and Solutions) for Developing Saxophonists](/media/curriculum/Blackwell-Common-Problems-and-Solutions.pdf) by Jennifer Blackwell
+- [[Common Problems and Solutions for Developing Saxophonists by Jennifer Blackwell|Common Problems (and Solutions) for Developing Saxophonists]] by Jennifer Blackwell
     - Causes and fixes for common problems music teachers encounter.
 
-## Listening
+## [Listening](#listening)
 
 ### Classical Saxophone
 

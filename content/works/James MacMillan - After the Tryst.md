@@ -32,7 +32,7 @@ aliases:
 
 The composer directly describes virtuosic melodic ornamentation and expressive shaping over simple piano arpeggiation. The exact soprano/piano edition and professional recording are verified. The available performer video is an 80-second excerpt, and saxophone notation remains unavailable.
 
-[[Review 0163 - James MacMillan - After the Tryst|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Duration 3 minutes · [boosey.com](https://boosey.com/cr/music/James-MacMillan-After-the-Tryst/5367)
@@ -43,7 +43,7 @@ The composer directly describes virtuosic melodic ornamentation and expressive s
 
 ### Research Review, October 11, 2026
 
-[[Review 0163 - James MacMillan - After the Tryst|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[James MacMillan - After the Tryst]]
 

@@ -41,4 +41,4 @@ aliases: []
 
 **Searches tried:** `Carl Anton Wirth Ballad No 1`; `"Wirth" "Ballad No. 1" saxophone`; `"Carl Anton Wirth" "Ballad"`; `Wirth Ballad 1 saxophone piano`.
 
-[[Remaining Repertoire Research - 2026-10-16|Full research overview]]
+[[SaxoBrain - Review and Repair Record]]

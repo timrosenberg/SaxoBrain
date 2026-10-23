@@ -11,7 +11,9 @@ born: 1894
 died: 1942
 wikidata: Q89540
 photo: "/media/composers/erwin-schulhoff.jpg"
-photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Schulhoff_Mayerova_1931.jpg"
 aliases: []
 ---
+
+> [!caption]
+> Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Schulhoff_Mayerova_1931.jpg)

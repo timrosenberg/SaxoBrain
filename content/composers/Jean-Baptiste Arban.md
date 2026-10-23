@@ -10,7 +10,9 @@ born: 1825
 died: 1889
 wikidata: Q542616
 photo: "/media/composers/jean-baptiste-arban.jpg"
-photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Jean_Baptiste_Arban_Disderi_BNF_Gallica.jpg"
 aliases: []
 ---
+
+> [!caption]
+> Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jean_Baptiste_Arban_Disderi_BNF_Gallica.jpg)

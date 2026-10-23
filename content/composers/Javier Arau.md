@@ -10,8 +10,10 @@ born: 1975
 died: 
 wikidata: Q17299893
 photo: "/media/composers/javier-arau.jpg"
-photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Photo_of_Javier_Arau.jpg"
 aliases: []
 website: https://www.javierarau.com/
 ---
+
+> [!caption]
+> Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Photo_of_Javier_Arau.jpg)

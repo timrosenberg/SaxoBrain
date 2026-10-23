@@ -30,7 +30,7 @@ multi-instruments: "Two saxophones of the same type, unaccompanied"
 
 Mood Music II is a duet for two saxophones of the same type. Publisher Grade IV–V and recording credits are verified. Music I quartet evidence is excluded. Public publisher preview returned null and no exact audio was located.
 
-[[Review 0119 - Glenn Smith - Mood Music II|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher grade IV-V (retailer listing) · [musicarts.com](https://www.musicarts.com/lauren-keiser-music-publishing-mood-music-2-unaccompanied-lkm-music-series-by-glenn-smith-main0362129)
@@ -40,7 +40,7 @@ Mood Music II is a duet for two saxophones of the same type. Publisher Grade IV�
 
 ### Research Review, October 11, 2026
 
-[[Review 0119 - Glenn Smith - Mood Music II|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Glenn Smith - Mood Music II]].
 

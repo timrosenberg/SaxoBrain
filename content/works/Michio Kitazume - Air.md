@@ -26,7 +26,7 @@ publisher:
 
 Composer confirms Air I(1980), alto saxophone/piano, nine minutes; Paris premiere by Kenichirou Muto and Ichiro Nodaira; Henry Lemoine. Cádiz conservatory final professional-year entry list includes Air with Milhaud Scaramouche and Tomasi Ballade. Philharmonie guide indexed text describes free/improvised passages, repeated-note groups, flutter, bisbigliando, chromatic glissando, irregular tempo, proportional notation and free final cadenza; full PDF retrieval currently fails.
 
-[[Review 0269 - Michio Kitazume - Air|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Henry Lemoine composer page lists Air for alto saxophone and piano; no date or duration found · [henry-lemoine.com](https://www.henry-lemoine.com/en/compositeurs/324-michio-kitazume)
@@ -35,7 +35,7 @@ Composer confirms Air I(1980), alto saxophone/piano, nine minutes; Paris premier
 
 ### Research Review, October 11, 2026
 
-[[Review 0269 - Michio Kitazume - Air|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Michio Kitazume - Air]].
 

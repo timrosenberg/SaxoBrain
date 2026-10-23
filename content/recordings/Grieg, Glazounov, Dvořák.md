@@ -10,11 +10,11 @@ apple-music: "https://music.apple.com/us/album/1572068155"
 amazon-music: "https://music.amazon.com/albums/B074DBP5BZ"
 tidal: "https://listen.tidal.com/album/187349303"
 tracks:
-  - "Holberg Suite, Op. 40: I. Prélude · 2:41"
-  - "Holberg Suite, Op. 40: II. Sarabande · 3:40"
-  - "Holberg Suite, Op. 40: III. Gavotte · 2:48"
-  - "Holberg Suite, Op. 40: IV. Air · 4:45"
-  - "Holberg Suite, Op. 40: V. Rigaudon · 3:52"
+  - "Holberg Suite, Op. 40: I. Prélude · 2:41 · Edvard Grieg"
+  - "Holberg Suite, Op. 40: II. Sarabande · 3:40 · Edvard Grieg"
+  - "Holberg Suite, Op. 40: III. Gavotte · 2:48 · Edvard Grieg"
+  - "Holberg Suite, Op. 40: IV. Air · 4:45 · Edvard Grieg"
+  - "Holberg Suite, Op. 40: V. Rigaudon · 3:52 · Edvard Grieg"
   - "Saxophone Quartet in B-Flat Major, Op. 109, G. 184: I. Allegro · 6:04 · [[Alexander Glazunov]]"
   - "Saxophone Quartet in B-Flat Major, Op. 109, G. 184: II. Canzone variée · 1:37 · [[Alexander Glazunov]]"
   - "Saxophone Quartet in B-Flat Major, Op. 109, G. 184: II. Canzone variée, variation No. 1 · 1:21 · [[Alexander Glazunov]]"
@@ -30,4 +30,8 @@ tracks:
 year-released: "2002"
 cover: "/media/recordings/grieg-glazounov-dvorak/cover.jpg"
 ---
+
+## Research notes (private)
+
+- Track composer credits verified against https://music.apple.com/us/album/1572068155.
 

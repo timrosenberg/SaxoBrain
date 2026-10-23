@@ -3,6 +3,6 @@
 {{- $d := .Params.died -}}
 {{- $out := "" -}}
 {{- if and $b $d }}{{ $out = printf "%v–%v" $b $d }}
-{{- else if $b }}{{ $out = printf "born %v" $b }}
-{{- else if $d }}{{ $out = printf "died %v" $d }}{{ end -}}
+{{- else if $b }}{{ $out = replace (partial "t.html" "composer-born") "{year}" (printf "%v" $b) }}
+{{- else if $d }}{{ $out = replace (partial "t.html" "composer-died") "{year}" (printf "%v" $d) }}{{ end -}}
 {{- return $out -}}

@@ -29,7 +29,7 @@ publisher:
 
 Official publisher identifies Sonata for alto saxophone and piano by Randall Snyder, SKU 494-00057. Published by Tritone Press & Tenuto Publications, made available from the composer’s original edition as score and parts. The two existing Groth purchase entries repeat the same edition. Composer’s recording notes date the sonata to 1966, with slight revision in 2005. Composer-hosted recording credits Paul Haar, alto saxophone, and Christy Zuniga, piano. Composer describes three motivically related movements: sonata form with passacaglia conclusion, arch-form slow movement, and finale combining rondo and variation features.
 
-[[Review 0315 - Randall Snyder - Sonata|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Tenuto, catalog no. 49400057 · [grothmusic.com](https://www.grothmusic.com/p-38108.aspx)
@@ -38,7 +38,7 @@ Official publisher identifies Sonata for alto saxophone and piano by Randall Sny
 
 ### Research Review, October 11, 2026
 
-[[Review 0315 - Randall Snyder - Sonata|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Randall Snyder - Sonata]]
 

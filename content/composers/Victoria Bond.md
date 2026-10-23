@@ -10,8 +10,10 @@ born: 1945
 died:
 wikidata: Q16106886
 photo: "/media/composers/victoria-bond.jpg"
-photo-credit: Anna Ablogina
 photo-source: https://images.kultureshock.net/0003/10182-d14aeea23afcc34ad4cc44213d7c39d7.jpg
 aliases: []
 website: https://www.victoriabond.com/
 ---
+
+> [!caption]
+> Photo: [Anna Ablogina](https://images.kultureshock.net/0003/10182-d14aeea23afcc34ad4cc44213d7c39d7.jpg)

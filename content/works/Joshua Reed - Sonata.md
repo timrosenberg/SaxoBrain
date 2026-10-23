@@ -26,7 +26,7 @@ publisher:
 
 DORN1746 is now independently identified and its opening notation inspected. The first movement has rhythmic solo articulation, upper-register detached notes and a busy chromatic piano part at quarter=132. Only the opening page is available, so later movement demands and exact performance links remain unknown.
 
-[[Review 0205 - Joshua Reed - Sonata|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Dorn DORN1746 · [grothmusic.com](https://www.grothmusic.com/p-156780.aspx)
@@ -35,9 +35,9 @@ DORN1746 is now independently identified and its opening notation inspected. The
 
 ### Research Review, October 11, 2026
 
-[[Review 0205 - Joshua Reed - Sonata|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Joshua Reed - Sonata.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Joshua Reed - Sonata.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0205.json).
+Catalog: [Joshua Reed - Sonata.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Joshua Reed - Sonata.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** The local work file identifies Joshua Reed’s Sonata as Dorn DORN1746 for alto saxophone and piano. The linked Groth page did not yield work-specific text in this pass, so the item identity remains a catalog lead.
 

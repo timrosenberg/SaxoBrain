@@ -32,7 +32,7 @@ Tim assigned First Year. Changed the instrument to baritone and retained piano. 
 
 ### Research Review, October 11, 2026
 
-[[Review 0177 - Jean-Baptiste Singelée - Septieme Solo de Concert Op. 93|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Jean-Baptiste Singelée - Septieme Solo de Concert Op. 93]].
 

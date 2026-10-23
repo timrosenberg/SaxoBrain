@@ -6,8 +6,6 @@ disableKinds = ["taxonomy", "term", "rss"]
 ignoreFiles = ['\.base$', '\.obsidian']
 
 [params]
-  description = "Repertoire, curriculum and reading for saxophonists, maintained by Timothy Rosenberg."
-  license = "CC BY-SA 4.0"
 
 # Every page's address comes from its slug field, never from the file name
 [permalinks.page]

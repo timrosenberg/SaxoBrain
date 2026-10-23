@@ -56,4 +56,4 @@ These refer to the catalog at the start of research. Verified missing fields wer
 
 **Searches tried:** `Sherwood Shaffer Sonata saxophone`; `Sherwood Shaffer alto saxophone sonata`; `Sherwood Shaffer Sonata When Mountains Rising`.
 
-[[Remaining Repertoire Research - 2026-10-16|Full research overview]]
+[[SaxoBrain - Review and Repair Record]]

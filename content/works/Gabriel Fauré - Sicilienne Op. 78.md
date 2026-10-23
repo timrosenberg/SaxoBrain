@@ -30,7 +30,7 @@ publisher:
 
 Fauré Sicilienne: readable exact Deffayet score opening shows Allegretto molto moderato in 6/8, soft arpeggiated piano, and p dolce legato saxophone phrasing. About 3:30. Score saxophone staff is concert pitch. Full written range remains unknown. Public alto saxophone and piano video verified, with arranger unspecified.
 
-[[Review 0101 - Gabriel Fauré - Sicilienne Op. 78|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Written in 1893 for a Molière production at the Paris Grand Théâtre that was later abandoned; typical duration about 3.5 to 4 minutes · [en.wikipedia.org](https://en.wikipedia.org/wiki/Sicilienne_(Fauré))
@@ -39,7 +39,7 @@ Fauré Sicilienne: readable exact Deffayet score opening shows Allegretto molto 
 
 ### Research Review, October 11, 2026
 
-[[Review 0101 - Gabriel Fauré - Sicilienne Op. 78|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Gabriel Fauré - Sicilienne Op. 78]].
 

@@ -34,7 +34,7 @@ arranger-edition:
 
 The Ethos cover verifies B-flat soprano with piano and Caravan’s editorial role. The publisher identifies an original work and outlines Andante contrasts, moderately difficult faster passages, cadenza and final flourish. Two exact recordings are verified. Piano is a confirmed catalog addition; Op. 56 and a historical D-sax interpretation should be withheld.
 
-[[Review 0207 - Jules Demersseman - Fantaisie-Pastorale|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Caravan edition for soprano saxophone and piano, about 4 minutes, rated Grade 6 (Advanced) by the retailer; written in C (saxophone in D); Andante, faster sections of moderate technical difficulty, brief cadenza, closing flourish (retailer description) · [hickeys.com](https://www.hickeys.com/music/woodwinds/sax/solos/soprano_with_piano/products/sku124239-demersseman-jules-caravan-fantasiepastorale.php)
@@ -43,9 +43,9 @@ The Ethos cover verifies B-flat soprano with piano and Caravan’s editorial rol
 
 ### Research Review, October 11, 2026
 
-[[Review 0207 - Jules Demersseman - Fantaisie-Pastorale|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Jules Demersseman - Fantaisie-Pastorale.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Jules Demersseman - Fantaisie-Pastorale.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0207.json).
+Catalog: [Jules Demersseman - Fantaisie-Pastorale.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Jules Demersseman - Fantaisie-Pastorale.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Ethos Publications identifies Jules Demersseman’s Fantaisie-Pastorale, Op.56, as an original soprano saxophone and piano work, in C with saxophone in D, about four minutes. Its description outlines an Andante opening and return, quicker moderately difficult passages, a short cadenza and a closing flourish. Two commercial recordings are listed, including Ronald Caravan’s 2017 recording.
 

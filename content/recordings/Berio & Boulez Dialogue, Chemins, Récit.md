@@ -18,7 +18,7 @@ tracks:
   - "Cinq duos: Shlomit (Almog) · 0:34 · [[Luciano Berio]]"
   - "Cinq duos: Tatjana (Globokar) · 0:37 · [[Luciano Berio]]"
   - "Cinq duos: Franco (Gulli) · 0:51 · [[Luciano Berio]]"
-  - "Dialoque de l'ombre double · 17:36"
+  - "Dialoque de l'ombre double · 17:36 · Pierre Boulez"
   - "Cinq duos: Annie (Neuburger) · 0:40 · [[Luciano Berio]]"
   - "Cinq duos: Leonardo (Pinzauti) · 1:21 · [[Luciano Berio]]"
   - "Cinq duos: Rodion (Shchedrin) · 0:46 · [[Luciano Berio]]"
@@ -29,9 +29,13 @@ tracks:
   - "Quatre duos: Igor (Stravinsky) · 0:36 · [[Luciano Berio]]"
   - "Quatre duos: Daniella (Rabinovitch) · 0:56 · [[Luciano Berio]]"
   - "Quatre duos: Marcello (Panni) · 1:08 · [[Luciano Berio]]"
-  - "Quatuor Op.22: Sehr mässig · 2:50"
-  - "Quatuor Op.22: Sehr schwungvoll · 2:45"
+  - "Quatuor Op.22: Sehr mässig · 2:50 · Anton Webern"
+  - "Quatuor Op.22: Sehr schwungvoll · 2:45 · Anton Webern"
 year-released: "2008"
 cover: "/media/recordings/berio-boulez-dialogue-chemins-recit/cover.jpg"
 ---
+
+## Research notes (private)
+
+- Track composer credits verified against https://music.apple.com/us/album/1571966136.
 

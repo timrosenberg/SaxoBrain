@@ -28,7 +28,7 @@ aliases: []
 
 ### Research Review, October 11, 2026
 
-[[Review 0349 - Ruud Roelofsen - Fracture Iv|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Ruud Roelofsen - Fracture IV]].
 

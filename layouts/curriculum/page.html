@@ -3,17 +3,18 @@
        ## Technique, ## Études, ## Solo Repertoire (### category), ## Reading (### Fall / ### Spring), ## Listening (### group). */ -}}
 {{- $p := . -}}
 {{- $b := partialCached "curriculum/parse.html" . .Path -}}
+{{- $body := partialCached "curriculum/body.html" . .Path -}}
 {{- $n := int (.Params.year | default 0) -}}
 <article class="cur cur-year c-lv-{{ $n }}">
 <h1>{{ .Title }}</h1>
 {{ partial "curriculum/years.html" . }}
-<nav class="secbar" aria-label="On this page"><a href="#technique">Technique</a><a href="#etudes">Études</a><a href="#repertoire">Solo repertoire</a><a href="#reading">Reading</a><a href="#listening">Listening</a></nav>
+<nav class="secbar" aria-label="{{ partial "t.html" "curriculum-on-this-page" }}"><a href="#technique">{{ index $body.headings "technique" }}</a><a href="#etudes">{{ index $body.headings "etudes" }}</a><a href="#repertoire">{{ index $body.headings "repertoire" }}</a><a href="#reading">{{ index $body.headings "reading" }}</a><a href="#listening">{{ index $body.headings "listening" }}</a></nav>
 
 <section class="sec" id="technique"><div class="pair">
-<div class="card"><h2 class="h3">Technique</h2>
-<ul class="goals">{{ range where (where $b "h2" "Technique") "kind" "item" }}<li><div>{{ partial "resolve-links.html" (dict "html" (.first | markdownify | string) "page" $p) | safeHTML }}{{ with .rest }}<div class="sub">{{ partial "resolve-links.html" (dict "html" (. | markdownify | string) "page" $p) | safeHTML }}</div>{{ end }}</div></li>{{ end }}</ul></div>
-<div class="card" id="etudes"><h2 class="h3">Études</h2>
-{{- range where (where $b "h2" "Études") "kind" "item" }}
+<div class="card"><h2 class="h3">{{ index $body.headings "technique" }}</h2>
+<ul class="goals">{{ range where (where $b "h2" "technique") "kind" "item" }}<li><div>{{ partial "resolve-links.html" (dict "html" (.first | markdownify | string) "page" $p) | safeHTML }}{{ with .rest }}<div class="sub">{{ partial "resolve-links.html" (dict "html" (. | markdownify | string) "page" $p) | safeHTML }}</div>{{ end }}</div></li>{{ end }}</ul></div>
+<div class="card" id="etudes"><h2 class="h3">{{ index $body.headings "etudes" }}</h2>
+{{- range where (where $b "h2" "etudes") "kind" "item" }}
 {{- $line := .first -}}
 {{- $w := partial "curriculum/find.html" (dict "line" $line "page" $p) -}}
 <div class="book">
@@ -21,7 +22,7 @@
 <a class="t" href="{{ $w.RelPermalink }}">{{ partial "work-title.html" $w }}</a>
 <span class="muted">{{ range $i, $c := partial "composers-of.html" $w }}{{ if $i }}, {{ end }}{{ $c.Title }}{{ end }}</span>
 {{- $more := replaceRE `^\[\[[^\]]+\]\]\s*` "" $line -}}
-<span class="links">{{ with $w.Params.purchase }}<a href="{{ (partial "purchase-link.html" (index . 0)).url }}" rel="noopener">Buy the book</a>{{ end }}{{ with $more }}{{ partial "resolve-links.html" (dict "html" (. | markdownify | string) "page" $p) | safeHTML }}{{ end }}</span>
+<span class="links">{{ with $w.Params.purchase }}<a href="{{ (partial "purchase-link.html" (index . 0)).url }}" rel="noopener">{{ partial "t.html" "curriculum-buy-the-book" }}</a>{{ end }}{{ with $more }}{{ partial "resolve-links.html" (dict "html" (. | markdownify | string) "page" $p) | safeHTML }}{{ end }}</span>
 {{- else -}}
 <span class="t">{{ partial "resolve-links.html" (dict "html" ($line | markdownify | string) "page" $p) | safeHTML }}</span>
 {{- end -}}
@@ -30,47 +31,39 @@
 </div>
 </div></section>
 
-{{- $rep := where $b "h2" "Solo Repertoire" -}}
+{{- $rep := where $b "h2" "repertoire" -}}
 {{- $cats := slice -}}{{- range $rep }}{{ if and .h3 (not (in $cats .h3)) }}{{ $cats = $cats | append .h3 }}{{ end }}{{ end -}}
 {{- $nPieces := len (where (where $rep "h3" "ne" "") "kind" "item") }}
 <section class="sec" id="repertoire">
-<div class="sec-h"><h2>Solo repertoire</h2><span class="label-sm">{{ $nPieces }} pieces</span></div>
+<div class="sec-h"><h2>{{ index $body.headings "repertoire" }}</h2><span class="label-sm">{{ replace (partial "t.html" "curriculum-pieces-count") "{count}" (string $nPieces) }}</span></div>
 {{ with where (where $rep "h3" "") "kind" "p" }}<div class="rule">{{ range . }}<p>{{ partial "resolve-links.html" (dict "html" (.first | markdownify | string) "page" $p) | safeHTML }}</p>{{ end }}</div>{{ end }}
 <div class="catgrid">
 {{- range $cats }}
-<div class="catcard"><header><h3>{{ . }}</h3><span class="label-sm">Choose one</span></header>
+<div class="catcard"><header><h3>{{ . }}</h3><span class="label-sm">{{ partial "t.html" "curriculum-choose-one" }}</span></header>
 <ul class="pieces">{{ range where (where $rep "h3" .) "kind" "item" }}{{ partial "curriculum/piece.html" (dict "line" .first "page" $p) }}{{ end }}</ul>
 </div>
 {{- end }}
 </div>
-{{- /* How many catalog works sit at this year of study, all instruments together (the catalog's level filter). */ -}}
-{{- $lv := index (dict "1" "First Year" "2" "Second Year" "3" "Third Year" "4" "Fourth Year") (string $n) -}}
-{{- $works := where site.RegularPages "Section" "works" -}}
-{{- $all := len (where $works "Params.year-of-study" $lv) -}}
-{{- $adv := len (where $works "Params.year-of-study" "Advanced") -}}
-{{- $ord := lower (index (split .Title " ") 0) -}}
-{{- $cat := site.Home.RelPermalink -}}
-<div class="more"><span>Looking for something else? The catalog lists <b>{{ $all }}</b> {{ $ord }}-year pieces{{ if eq $n 4 }}, plus <b>{{ $adv }}</b> advanced pieces{{ end }}.</span>
-<span class="links"><a class="go" href="{{ $cat }}?lvl={{ $lv }}">See them all →</a>{{ if eq $n 4 }}<a class="go" href="{{ $cat }}?lvl=Advanced">Advanced →</a>{{ end }}</span></div>
+{{ $body.catalog | safeHTML }}
 </section>
 
-{{- $read := where (where $b "h2" "Reading") "kind" "item" -}}
+{{- $read := where (where $b "h2" "reading") "kind" "item" -}}
 {{- $terms := slice -}}{{- range $read }}{{ if not (in $terms .h3) }}{{ $terms = $terms | append .h3 }}{{ end }}{{ end }}
 <section class="sec" id="reading">
-<div class="sec-h"><h2>Reading</h2>{{ with index .Params "reading-focus" }}<span class="focus">This year’s focus: <b>{{ . }}</b></span>{{ end }}</div>
+<div class="sec-h"><h2>{{ index $body.headings "reading" }}</h2>{{ $body.focus | safeHTML }}</div>
 <div class="pair">{{ range $terms }}<div class="term"><span class="label-sm">{{ . }}</span>
 {{- range where $read "h3" . }}
 <div class="read"><div class="t">{{ replaceRE `^(<a [^>]*>.*?</a>)\s*[,:;]\s*` "$1 " (partial "resolve-links.html" (dict "html" (.first | markdownify | string) "page" $p)) | safeHTML }}</div>
 {{- with .rest }}<div class="note">{{ partial "resolve-links.html" (dict "html" (. | markdownify | string) "page" $p) | safeHTML }}</div>{{ end -}}
-{{- if findRE `\.pdf\)` .first }}<span class="tag">PDF</span>{{ end }}</div>
+{{- if findRE `\.pdf\)` .first }}<span class="tag">{{ partial "t.html" "curriculum-pdf" }}</span>{{ end }}</div>
 {{- end }}</div>{{ end }}</div>
 {{ partial "notice.html" . }}
 </section>
 
-{{- $lis := where (where $b "h2" "Listening") "kind" "item" -}}
+{{- $lis := where (where $b "h2" "listening") "kind" "item" -}}
 {{- $groups := slice -}}{{- range $lis }}{{ if not (in $groups .h3) }}{{ $groups = $groups | append .h3 }}{{ end }}{{ end }}
 <section class="sec" id="listening">
-<div class="sec-h"><h2>Listening</h2>{{ if eq (len $groups) 1 }}<span class="focus">{{ index $groups 0 }}</span>{{ end }}</div>
+<div class="sec-h"><h2>{{ index $body.headings "listening" }}</h2>{{ if eq (len $groups) 1 }}<span class="focus">{{ index $groups 0 }}</span>{{ end }}</div>
 {{- range $groups }}
 {{ if gt (len $groups) 1 }}<h3>{{ . }}</h3>{{ end }}
 <div class="card"><ol class="albums">{{ range where $lis "h3" . }}{{ partial "curriculum/album.html" (dict "line" .first "rest" .rest "page" $p) }}{{ end }}</ol></div>
@@ -80,9 +73,9 @@
 {{- $years := sort .CurrentSection.RegularPages "Params.year" -}}
 {{- $prev := false }}{{ $next := false -}}
 {{- range $years }}{{ if eq (int .Params.year) (sub $n 1) }}{{ $prev = . }}{{ end }}{{ if eq (int .Params.year) (add $n 1) }}{{ $next = . }}{{ end }}{{ end }}
-<nav class="yfoot" aria-label="Other years">
-{{ with $prev }}<a href="{{ .RelPermalink }}"><small>← Previous year</small><b>{{ .Title }}</b></a>{{ else }}<a href="{{ $p.CurrentSection.RelPermalink }}"><small>← Back to</small><b>All four years</b></a>{{ end }}
-{{ with $next }}<a href="{{ .RelPermalink }}"><small>Next year →</small><b>{{ .Title }}</b></a>{{ else }}<a href="{{ $p.CurrentSection.RelPermalink }}"><small>Back to →</small><b>All four years</b></a>{{ end }}
+<nav class="yfoot" aria-label="{{ partial "t.html" "curriculum-other-years-label" }}">
+{{ with $prev }}<a href="{{ .RelPermalink }}"><small>{{ partial "t.html" "curriculum-previous-year" }}</small><b>{{ .Title }}</b></a>{{ else }}<a href="{{ $p.CurrentSection.RelPermalink }}"><small>{{ partial "t.html" "curriculum-back-to-before" }}</small><b>{{ partial "t.html" "curriculum-all-four-years" }}</b></a>{{ end }}
+{{ with $next }}<a href="{{ .RelPermalink }}"><small>{{ partial "t.html" "curriculum-next-year" }}</small><b>{{ .Title }}</b></a>{{ else }}<a href="{{ $p.CurrentSection.RelPermalink }}"><small>{{ partial "t.html" "curriculum-back-to-after" }}</small><b>{{ partial "t.html" "curriculum-all-four-years" }}</b></a>{{ end }}
 </nav>
 </article>
 {{ end }}

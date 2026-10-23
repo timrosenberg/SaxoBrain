@@ -35,7 +35,7 @@ The video includes an introduction. The performance by Chi-Chun Chen and Vicky J
 
 A substantial score preview is now inspected: concert-pitch Allegretto at quarter 92, chromatic solo figures and independent sixteenth-note piano lines, followed by changing meters. Editor notes describe lyrical II and energetic III. The verified festival recording begins after its introduction at 2:34.
 
-[[Review 0211 - Julius Hijman - Sonatine|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Sonatine for alto saxophone in E-flat and piano, 1934; movements Allegretto, Andantino, Allegro con brio; score published, linked to the Donemus webshop · [forbiddenmusicregained.org](https://forbiddenmusicregained.org/search/composition/id/101587)
@@ -44,9 +44,9 @@ A substantial score preview is now inspected: concert-pitch Allegretto at quarte
 
 ### Research Review, October 11, 2026
 
-[[Review 0211 - Julius Hijman - Sonatine|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Julius Hijman - Sonatine.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Julius Hijman - Sonatine.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0211.json).
+Catalog: [Julius Hijman - Sonatine.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Julius Hijman - Sonatine.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Forbidden Music Regained identifies Julius Hijman’s 1934 Sonatine for alto saxophone in E-flat and piano, with movements Allegretto, Andantino and Allegro con brio. The site provides archival background and a featured video, and says Hijman performed the sonatine in Paris in 1938. Its linked score is order-only; no notation was inspected.
 

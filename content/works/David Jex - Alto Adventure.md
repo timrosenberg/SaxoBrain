@@ -28,7 +28,7 @@ publisher:
 
 Alto Adventure was composed for Lynn Klock and is sold as alto saxophone with piano, Wingert-Jones 3055131, about six minutes. The publisher describes upper-register lyricism, technical passagework, a driving piano and an accelerating close. The exact Klock/Zeisler/Virginia Wind Symphony recording is verified, using wind ensemble. No notation or composition year was found. The publisher page has a conflicting generic band-package label. [Piano edition](https://wingertjones.com/product/3055131-alto-adventure-jex/) · [Listen](https://www.youtube.com/watch?v=K1APvNEYTcc).
 
-[[Review 0067 - David Jex - Alto Adventure|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Wingert-Jones, catalog number 3055131 · [grothmusic.com](https://www.grothmusic.com/p-143738.aspx)
@@ -38,9 +38,9 @@ Alto Adventure was composed for Lynn Klock and is sold as alto saxophone with pi
 
 ### Research Review, October 11, 2026
 
-[[Review 0067 - David Jex - Alto Adventure|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [David Jex - Alto Adventure.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/David Jex - Alto Adventure.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0067.json).
+Catalog: [David Jex - Alto Adventure.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/David Jex - Alto Adventure.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** David Jex’s Alto Adventure is an original short alto saxophone and piano work for Lynn Klock, available from Wingert-Jones. A recording by Lynn Klock with the Virginia Wind Symphony appears on Links: New Concertos for Saxophone and Wind Ensemble, apparently a wind-ensemble performance; keep this separate from the piano edition.
 

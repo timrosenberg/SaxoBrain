@@ -1,0 +1,27 @@
+{{- /* Split already-rendered Markdown at a heading level. Render hooks and wikilinks retain their page context. */ -}}
+{{- $tag := .tag | default "h2" -}}
+{{- $html := .html | default "" | string -}}
+{{- $page := .page -}}
+{{- if and $page (not $html) }}{{ $html = partial "source-body.html" $page }}{{ end -}}
+{{- /* Split the source note before expanding embedded notes, so their headings
+       can never create extra sections in this note's presentation. */ -}}
+{{- $marked := replaceRE (printf `<%s ` $tag) (printf `<!--equipment-section--><%s ` $tag) $html -}}
+{{- if and $page (not .defer) -}}
+  {{- $marked = partial "resolve-embeds.html" (dict "html" $marked "page" $page "scope" .scope) -}}
+  {{- $marked = partial "resolve-links.html" (dict "html" $marked "page" $page) -}}
+{{- end -}}
+{{- $parts := split $marked "<!--equipment-section-->" -}}
+{{- $sections := slice -}}
+{{- range after 1 $parts -}}
+  {{- $heading := index (findRESubmatch (printf `(?s)^<%s\s+id="([^"]+)"[^>]*>(.*?)</%s>` $tag $tag) . 1) 0 -}}
+  {{- $body := replaceRE (printf `(?s)^<%s\s[^>]*>.*?</%s>` $tag $tag) "" . -}}
+  {{- $title := index $heading 2 -}}
+  {{- if $page }}{{ $title = partial "resolve-links.html" (dict "html" $title "page" $page) }}{{ end -}}
+  {{- $sections = $sections | append (dict "id" (index $heading 1) "title" $title "body" $body) -}}
+{{- end -}}
+{{- $intro := index $parts 0 -}}
+{{- if and $page .defer -}}
+  {{- $intro = partial "resolve-embeds.html" (dict "html" $intro "page" $page "scope" "intro") -}}
+  {{- $intro = partial "resolve-links.html" (dict "html" $intro "page" $page) -}}
+{{- end -}}
+{{- return (dict "intro" $intro "sections" $sections) -}}

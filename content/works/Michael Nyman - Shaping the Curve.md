@@ -28,7 +28,7 @@ aliases: []
 
 1990; soprano saxophone and piano; Chester Music CH61078, HL14023663. Publisher says composed for John Harle, based on four chords. RIAM Licentiate saxophone Teacher and Performer lists include this work alongside Desenclos and other substantial repertoire.
 
-[[Review 0267 - Michael Nyman - Shaping the Curve|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Chester, catalog no. CH61078; page says 'Composed for John Harle in 1990 and is based strictly on a sequence of four chords' · [grothmusic.com](https://www.grothmusic.com/p-146522.aspx)
@@ -37,7 +37,7 @@ aliases: []
 
 ### Research Review, October 11, 2026
 
-[[Review 0267 - Michael Nyman - Shaping the Curve|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Michael Nyman - Shaping the Curve]].
 

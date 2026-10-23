@@ -28,7 +28,7 @@ aliases: []
 
 ### Research Review, October 11, 2026
 
-[[Review 0120 - Gordan Tudor - Da-Da Miniatures|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Gordan Tudor - Da-Da Miniatures]].
 

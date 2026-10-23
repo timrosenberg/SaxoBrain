@@ -30,7 +30,7 @@ aliases: []
 
 Southern Music SS497 is a three-movement alto sonata with complete-work placement on the current ARSM diploma list. Hal Leonard labels it Level 5. The Leeson repertoire document gives 1939 and identifies his ENS-2002 recording. Those are useful historical and repertoire signals. The official preview is unavailable, so exact saxophone demands still need a score check. Score/purchase: https://www.halleonard.com/product/3774129/sonata; current diploma list: https://www.abrsm.com.tw/diploma/from2024/music%20performance/ARSM/ABRSM%20Saxophone%20Performance%20ARSM%20Repertoire%20from%202026.pdf.
 
-[[Review 0031 - Burnet Tuthill - Sonata Op. 20|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Sheet Music Plus labels the Southern Music edition (SS497) Grade 5 · [sheetmusicplus.com](https://www.sheetmusicplus.com/en/product/sonata-191691.html)
@@ -39,7 +39,7 @@ Southern Music SS497 is a three-movement alto sonata with complete-work placemen
 
 ### Research Review, October 11, 2026
 
-[[Review 0031 - Burnet Tuthill - Sonata Op. 20|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Burnet Tuthill - Sonata Op. 20]].
 

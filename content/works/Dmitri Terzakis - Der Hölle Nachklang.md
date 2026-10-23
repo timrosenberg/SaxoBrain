@@ -31,7 +31,7 @@ aliases: []
 
 Der Hölle Nachklang I is dated 1992 on both publisher page and score opening. The inspected transposed alto incipit has a slow 4/4 opening with slurred ornamented entry and triplet over repeated quiet piano bass. The Hellenic Saxophone Library reports later altissimo and microtonal demands. The existing Kelly/Versteegh YouTube recording is public and exact. The full score remains blocked, and publisher versus recorded duration differs.
 
-[[Review 0077 - Dmitri Terzakis - Der Hölle Nachklang|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Gravis, catalog number EG322 · [grothmusic.com](https://www.grothmusic.com/p-38334.aspx)
@@ -41,7 +41,7 @@ Der Hölle Nachklang I is dated 1992 on both publisher page and score opening. T
 
 ### Research Review, October 11, 2026
 
-[[Review 0077 - Dmitri Terzakis - Der Hölle Nachklang|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Dmitri Terzakis - Der Hölle Nachklang]]
 

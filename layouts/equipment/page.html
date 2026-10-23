@@ -1,0 +1,9 @@
+{{ define "main" }}
+<article class="equipment-page">
+  {{ partial "equipment/return.html" (dict "top" true "page" .) }}
+  <h1>{{ index .Params "equipment-title" | default .Title }}</h1>
+  {{ partial "notice.html" . }}
+  {{ partial "equipment/content.html" . }}
+  {{ partial "equipment/return.html" (dict "top" false "page" .) }}
+</article>
+{{ end }}

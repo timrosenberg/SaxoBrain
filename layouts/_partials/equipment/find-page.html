@@ -1,0 +1,10 @@
+{{- /* Equipment references use permanent URL paths. Some slugs differ from their Markdown file names. */ -}}
+{{- $page := site.GetPage . -}}
+{{- if not $page -}}
+  {{- $url := strings.TrimSuffix "/" (relURL (strings.TrimPrefix "/" .)) -}}
+  {{- range where site.RegularPages "Type" "equipment" -}}
+    {{- if eq (strings.TrimSuffix "/" .RelPermalink) $url }}{{ $page = . }}{{ end -}}
+  {{- end -}}
+{{- end -}}
+{{- if not $page }}{{ errorf "Equipment reference points to missing page %q" . }}{{ end -}}
+{{- return $page -}}

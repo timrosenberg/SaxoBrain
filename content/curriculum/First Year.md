@@ -2,21 +2,20 @@
 title: "First Year"
 slug: first-year
 year: 1
-reading-focus: "How to practice"
 aliases:
   - /curriculum/first-year-alto-saxophone/
   - /curriculum/first-year-tenor-saxophone/
 ---
 
-## Technique
+## [Technique](#technique)
 
 - [[The Scale Series]]: memorized up to 4 sharps and 4 flats by the end of the year
 
-## Études
+## [Études](#etudes)
 
 - [[David Hite - Melodious and Progressive Studies Book 1]]
 
-## Solo Repertoire
+## [Solo repertoire](#repertoire)
 
 Each semester, choose one piece from each category. In the spring, choose a different piece in each category than you played in the fall.
 
@@ -58,7 +57,16 @@ Each semester, choose one piece from each category. In the spring, choose a diff
 - [[Béla Bartók - Evening in the Country]]
 - [[Sergei Prokofiev - Romance and Troika from Lieutenant Kijé]]
 
-## Reading
+
+> [!catalog] First Year
+> Looking for something else? The catalog lists **{count}** first-year pieces.
+>
+> [See them all →](/?lvl=First%20Year)
+
+## [Reading](#reading)
+
+> [!focus] This year’s focus:
+> How to practice
 
 ### Fall
 
@@ -74,12 +82,12 @@ Each semester, choose one piece from each category. In the spring, choose a diff
 - [[Quality Practice by Susan Williams|Quality Practice: A Musician’s Guide]] by Susan Williams
     - What research says about how musicians learn.
 
-## Listening
+## [Listening](#listening)
 
 ### Intro to Classical Saxophone
 
 - [[Saxophone & Piano Brahms, Franck, and Schumann|Saxophone and Piano]] by Arno Bornkamp
-- [[The Historic Saxophone Music Written for and Published By Adolphe Sax|The Historic Saxophone]] by Claude Delangle
+- [[The Historic Saxophone Music Written for and Published by Adolphe Sax|The Historic Saxophone]] by Claude Delangle
 - [[Maslanka Concertos|Maslanka: Concertos]] by Joseph Lulloff
 - [[Exhibition of Saxophone|An Exhibition of Saxophone]] by Nobuya Sugawa
 - [[Saxophone Classics]] by Diastema Saxophone Quartet

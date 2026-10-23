@@ -26,7 +26,7 @@ publisher:
 
 Western International Music AV316 is titled Variations on a Theme of Modest Moussorgsky for Alto Saxophone and Piano. The public gallery supplies the cover only. Searches also return Schmidt arrangements of Pictures at an Exhibition, including saxophone choir material. Those are different works and were excluded.
 
-[[Review 0401 - William Schmidt - Variations on a Theme of Mussorgsky|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher WIM, catalog no. AV316 · [grothmusic.com](https://www.grothmusic.com/p-38086.aspx)
@@ -35,7 +35,7 @@ Western International Music AV316 is titled Variations on a Theme of Modest Mous
 
 ### Research Review, October 11, 2026
 
-[[Review 0401 - William Schmidt - Variations on a Theme of Mussorgsky|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[William Schmidt - Variations on a Theme of Mussorgsky]].
 
@@ -75,4 +75,4 @@ Searches checked:
 
 **Searches tried:** `William Schmidt Variations Theme Mussorgsky`; `Schmidt Mussorgsky AV316 score`; `Schmidt Mussorgsky alto saxophone recording`.
 
-[[Remaining Repertoire Research - 2026-10-16|Full research overview]]
+[[SaxoBrain - Review and Repair Record]]

@@ -31,7 +31,7 @@ aliases: []
 
 Existing two purchase URLs refer to different numbered volumes; title should clarify scope before any difficulty assignment. An educator chronology dates composition of Paradigms I to 1976; do not apply one composition year to a combined I/II entry.
 
-[[Review 0343 - Ronald Caravan - Paradigms|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Paradigms I (Dorn Publications DORN1148): ten graded pieces using contemporary techniques (quarter tones, multiphonics, slap tongue, key clicks); 20 pages; commissioned by The Saxophone Service, dedicated to Everett Gates · [grothmusic.com](https://www.grothmusic.com/p-144055.aspx)
@@ -40,7 +40,7 @@ Existing two purchase URLs refer to different numbered volumes; title should cla
 
 ### Research Review, October 11, 2026
 
-[[Review 0343 - Ronald Caravan - Paradigms|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Ronald Caravan - Paradigms]].
 

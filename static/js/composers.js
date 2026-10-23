@@ -1,12 +1,15 @@
 /* Filters for the Composers page. The list is already on the page; this hides rows that do not match
    and keeps the filters in the address bar (/composers/?nat=French&lvl=First+Year&born=1900&women=1&poc=1&living=1). */
 (function () {
+  // Visible text lives in content/Site Text (keys js-*), embedded by baseof.html.
+  const T = JSON.parse(document.getElementById("site-text").textContent);
+  const fill = (s, v) => s.replace(/\{(\w+)\}/g, (m, k) => k in v ? v[k] : m);
   const LEVELS = [["Pre-college", "pre"], ["First Year", "1"], ["Second Year", "2"], ["Third Year", "3"], ["Fourth Year", "4"], ["Advanced", "adv"]];
-  const LV_NAME = { "Pre-college": "Pre-college", "First Year": "First year", "Second Year": "Second year", "Third Year": "Third year", "Fourth Year": "Fourth year", "Advanced": "Advanced" };
+  const LV_NAME = { "Pre-college": T["level-pre-college"], "First Year": T["level-first-year"], "Second Year": T["level-second-year"], "Third Year": T["level-third-year"], "Fourth Year": T["level-fourth-year"], "Advanced": T["level-advanced"] };
   const lvCode = y => (LEVELS.find(l => l[0] === y) || [0, "none"])[1];
   const TOP_NATIONS = 8;
   // Birth-year groups: URL value -> [label, first year, last year]
-  const ERAS = { "0": ["Before 1850", -9999, 1849], "1850": ["1850–1899", 1850, 1899], "1900": ["1900–1949", 1900, 1949], "1950": ["1950 or later", 1950, 9999] };
+  const ERAS = { "0": [T["js-composers-era-0"], -9999, 1849], "1850": [T["js-composers-era-1850"], 1850, 1899], "1900": [T["js-composers-era-1900"], 1900, 1949], "1950": [T["js-composers-era-1950"], 1950, 9999] };
   const fold = s => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
   const nf = new Intl.NumberFormat("en-US");
   const $ = id => document.getElementById(id);
@@ -64,21 +67,21 @@
   function group(name, chips) {
     const g = document.createElement("div");
     g.className = "group";
-    g.innerHTML = `<span class="label-sm">${name}</span>`;
+    g.innerHTML = `<span class="label-sm">${name.replace(/&/g, "&amp;").replace(/</g, "&lt;")}</span>`;
     chips.forEach(c => g.appendChild(c));
     return g;
   }
   const toggle = (k, v) => () => { state[k].has(v) ? state[k].delete(v) : state[k].add(v); update(); };
   function buildChips() {
     const box = $("cgroups");
-    box.appendChild(group("Nationality", top.map(n => chip(n, () => state.nat.has(label(n)), toggle("nat", label(n))))
-      .concat([chip("Other", () => state.nat.has("Other"), toggle("nat", "Other"))])));
-    box.appendChild(group("Has works at", LEVELS.map(([v, c]) => chip(LV_NAME[v], () => state.lvl.has(v), toggle("lvl", v), "c-lv-" + c, "lv-" + c))));
-    box.appendChild(group("Born", Object.entries(ERAS).map(([v, [lab]]) => chip(lab, () => state.born.has(v), toggle("born", v)))));
-    box.appendChild(group("Only show", [
-      chip("Women composers", () => state.women, () => { state.women = !state.women; update(); }),
-      chip("Composers of color", () => state.poc, () => { state.poc = !state.poc; update(); }),
-      chip("Living composers", () => state.living, () => { state.living = !state.living; update(); })
+    box.appendChild(group(T["js-composers-group-nationality"], top.map(n => chip(n, () => state.nat.has(label(n)), toggle("nat", label(n))))
+      .concat([chip(T["js-composers-nationality-other"], () => state.nat.has("Other"), toggle("nat", "Other"))])));
+    box.appendChild(group(T["js-composers-group-level"], LEVELS.map(([v, c]) => chip(LV_NAME[v], () => state.lvl.has(v), toggle("lvl", v), "c-lv-" + c, "lv-" + c))));
+    box.appendChild(group(T["js-composers-group-born"], Object.entries(ERAS).map(([v, [lab]]) => chip(lab, () => state.born.has(v), toggle("born", v)))));
+    box.appendChild(group(T["js-composers-group-only"], [
+      chip(T["js-composers-flag-women"], () => state.women, () => { state.women = !state.women; update(); }),
+      chip(T["js-composers-flag-poc"], () => state.poc, () => { state.poc = !state.poc; update(); }),
+      chip(T["js-composers-flag-living"], () => state.living, () => { state.living = !state.living; update(); })
     ]));
   }
   function syncChips() {
@@ -107,7 +110,7 @@
       if (off) a.setAttribute("aria-disabled", "true"); else a.removeAttribute("aria-disabled");
     });
     const active = state.q || state.nat.size || state.lvl.size || state.born.size || state.women || state.poc || state.living;
-    $("ccount").textContent = active ? `${nf.format(n)} of ${nf.format(rows.length)} composers` : `${nf.format(rows.length)} composers`;
+    $("ccount").textContent = fill(T[active ? "js-composers-count-filtered" : "js-composers-count-all"], { count: nf.format(active ? n : rows.length), total: nf.format(rows.length) });
     $("cclear").hidden = !active;
     $("cempty").hidden = n > 0;
     markHere();

@@ -31,7 +31,7 @@ aliases: []
 
 ### Research Review, October 11, 2026
 
-[[Review 0023 - Bertold Hummel - Sonata Brevis|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Bertold Hummel - Sonata Brevis]]
 

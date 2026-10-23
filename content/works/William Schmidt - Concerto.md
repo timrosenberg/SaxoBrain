@@ -28,7 +28,7 @@ arranger-edition:
 
 Western International Music AV257 is the alto concerto dedicated to Douglas Masek. The cover specifies symphonic winds and a piano reduction by the composer, edited by Sharon Davis. Groth lists 62 pages. The preview bears a 1994 copyright, which is not confirmed as the composition year. The University of Arkansas archive lists William Schmidt’s Concerto in Will Brani’s April 25, 2015 saxophone recital with pianist S. Michael Shuman. The public page supplies program metadata, not an accessible player verified here.
 
-[[Review 0400 - William Schmidt - Concerto|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher WIM, catalog no. AV257; for Douglas Masek; 62 pages; piano reduction (edited by Sharon Davis) and solo alto sax part · [grothmusic.com](https://www.grothmusic.com/p-143369.aspx)
@@ -37,7 +37,7 @@ Western International Music AV257 is the alto concerto dedicated to Douglas Mase
 
 ### Research Review, October 11, 2026
 
-[[Review 0400 - William Schmidt - Concerto|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[William Schmidt - Concerto]]
 

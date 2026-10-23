@@ -32,7 +32,7 @@ library-score:
 
 Alphonse Leduc AL21161 is Marcel Mule's transcription for alto saxophone and piano. Rozet library explicitly identifies an oboe/piano original and a 1946 copyright edition; composition year remains unknown. Trinity's April 2026 diploma list places Intermède champêtre at FTCL. Groth lists score and solo part, 12 pages.
 
-[[Review 0287 - Philippe Gaubert - Intermede Champetre|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Alphonse Leduc, catalog no. AL21161 · [grothmusic.com](https://www.grothmusic.com/p-148100.aspx)
@@ -41,9 +41,9 @@ Alphonse Leduc AL21161 is Marcel Mule's transcription for alto saxophone and pia
 
 ### Research Review, October 11, 2026
 
-[[Review 0287 - Philippe Gaubert - Intermede Champetre|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Philippe Gaubert - Intermede Champetre.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Philippe Gaubert - Intermede Champetre.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0287.json).
+Catalog: [Philippe Gaubert - Intermede Champetre.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Philippe Gaubert - Intermede Champetre.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Philippe Gaubert’s Intermède champêtre was originally for oboe and piano; Marcel Mule transcribed it for alto saxophone and piano in Leduc AL21161. Library and retailer records confirm the saxophone transcription, including score and part. This is a historically distinct arrangement, not an original saxophone composition.
 

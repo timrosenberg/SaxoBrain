@@ -2,13 +2,16 @@
 
 Compares the addresses in the new build (public/addresses.txt) with the live
 site's addresses.txt. Every live address must still exist, either as a page or
-as a redirect (an entry in some file's `aliases:` list). Also fails if two
-pages claim the same address.
+as a redirect (an entry in some file's `aliases:` list), unless its exact path
+is an approved retirement in retired-addresses.json. Also fails if two pages
+claim the same address.
 
 Usage: python3 scripts/check_addresses.py public/addresses.txt <new site base URL> <live addresses.txt URL> [more live URLs]
 With more than one live URL, an address that exists at any of them must survive (used while moving to a new domain).
 """
 import collections
+import json
+from pathlib import Path
 import sys
 import urllib.error
 import urllib.parse
@@ -58,7 +61,13 @@ def main(new_path, new_base, live_urls):
             # a new custom domain does not resolve until its DNS is set up
             print(f"Could not reach {live_url} ({e.reason}). Skipping it.")
 
-    missing = sorted(live - set(new))
+    retired_path = Path(__file__).resolve().with_name("retired-addresses.json")
+    retired = set(read_lines("\n".join(json.loads(retired_path.read_text(encoding="utf-8"))["addresses"])))
+    removed = live - set(new)
+    approved = removed & retired
+    if approved:
+        print(f"Allowed {len(approved)} approved retired addresses to remain unpublished.")
+    missing = sorted(removed - retired)
     for a in missing:
         problems.append(f"This address is live but would disappear: {a}\n"
                         f"    Fix: add it to the `aliases:` list of the page it should point to.")
@@ -67,7 +76,7 @@ def main(new_path, new_base, live_urls):
         print("Publish stopped. Existing links would break:\n")
         print("\n".join(problems))
         sys.exit(1)
-    print(f"Address check passed: {len(new)} addresses, none lost.")
+    print(f"Address check passed: {len(new)} addresses, no unapproved losses.")
 
 
 if __name__ == "__main__":

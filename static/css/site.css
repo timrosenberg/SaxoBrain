@@ -55,18 +55,16 @@ h3 { font-weight: 500; font-size: 19px; margin: 22px 0 6px; }
 .work .byline { font-family: var(--font-display); font-size: 21px; font-weight: 500; line-height: 1.25; color: var(--fg); margin-top: 6px; }
 .work .byline a { text-decoration: none; }
 .work .byline a:hover { text-decoration: underline; text-underline-offset: 3px; }
-.lede { max-width: 58ch; margin-block: 6px 0; }
+.lede { margin-block: 6px 0; }
 .lvl { display: inline-flex; align-items: center; gap: 6px; font-weight: 500; color: var(--fg); }
 .dot { width: 9px; height: 9px; border-radius: 50%; display: inline-block; flex-shrink: 0; background: var(--lv-none); }
 .lv-pre { background: var(--lv-pre); } .lv-1 { background: var(--lv-1); } .lv-2 { background: var(--lv-2); }
 .lv-3 { background: var(--lv-3); } .lv-4 { background: var(--lv-4); } .lv-adv { background: var(--lv-adv); }
 
 /* page text: curriculum, articles, notes on a work */
-.prose { max-width: 68ch; min-width: 0; }
-/* Notes text keeps a reading width; quotes span the page. */
+.prose { min-width: 0; }
+/* Body text fills the available content column. */
 .notes { min-width: 0; }
-.notes > * { max-width: 68ch; }
-.notes > blockquote { max-width: none; }
 .prose p, .notes p { margin: 6px 0 14px; line-height: 1.65; font-size: 16px; }
 .prose ul, .prose ol, .notes ul, .notes ol { margin: 4px 0 14px; padding-left: 22px; }
 .prose li, .notes li { margin: 3px 0; }
@@ -78,9 +76,6 @@ h3 { font-weight: 500; font-size: 19px; margin: 22px 0 6px; }
 .prose th, .prose td { border-bottom: 1px solid var(--line); padding: 6px 12px 6px 0; text-align: left; }
 .prose hr { border: 0; border-top: 1px solid var(--line); margin: 22px 0; }
 .prose a, .notes a { text-underline-offset: 3px; }
-article.page { max-width: 68ch; }
-/* Lists are scanned, not read as prose, so they use the full page width. */
-article.page.lists, article.page.lists .prose, article.page.lists .notice { max-width: none; }
 .prose { margin-top: 10px; }
 
 /* buttons and the facts list on a work */
@@ -95,6 +90,7 @@ article.page.lists, article.page.lists .prose, article.page.lists .notice { max-
 .btn.svc { background: color-mix(in srgb, var(--svc) 16%, var(--surface)); border-color: var(--svc); }
 .btn.svc:hover { background: color-mix(in srgb, var(--svc) 32%, var(--surface)); border-color: var(--svc); }
 .btn.youtube { --svc: #ff0000; }
+.btn.soundcloud { --svc: #ff5500; }
 .btn.spotify { --svc: #1ed760; }
 .btn.apple-music { --svc: #ea4259; }
 .btn.amazon-music { --svc: #2ad5de; }
@@ -102,6 +98,7 @@ article.page.lists, article.page.lists .prose, article.page.lists .notice { max-
 .btn.bandcamp { --svc: #408294; }
 .video { aspect-ratio: 16 / 9; max-width: 680px; margin: 4px 0 18px; border-radius: 10px; overflow: hidden; background: var(--chip); }
 .video iframe { width: 100%; height: 100%; border: 0; display: block; }
+span.video { display: block; }
 /* Track list under a recording's player (layouts/_partials/recordings/tracks.html, static/js/tracks.js).
    Player and list read as one card: the video gives up its bottom corners to the list. */
 /* .player wraps both and narrows beside the floated cover as one block, so they keep the same width. */
@@ -178,6 +175,46 @@ article.page.lists, article.page.lists .prose, article.page.lists .notice { max-
 .alist .who { color: var(--muted); font-size: 13.5px; font-weight: 400; }
 .section-list h2 { margin-top: 28px; }
 
+/* Topic boxes shared by Equipment and other section pages. */
+.equipment-topics { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; margin: 24px 0; }
+.equipment-topic { display: flex; justify-content: space-between; align-items: flex-start; gap: 16px; padding: 20px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); text-decoration: none; min-width: 0; }
+.equipment-topic:hover { border-color: var(--brass); }
+.equipment-topic { position: relative; color: var(--accent); }
+.equipment-topic-title { color: inherit; text-decoration: none; }
+.equipment-topic-title::after { content: ""; position: absolute; inset: 0; border-radius: inherit; }
+.equipment-topic-description a { position: relative; z-index: 1; }
+.equipment-topic:focus-within { border-color: var(--brass); }
+.equipment-topic strong { display: block; font: 600 19px/1.3 var(--font-display); }
+.equipment-topic-description { display: block; margin-top: 7px; font-size: 14px; line-height: 1.5; color: var(--muted); }
+.equipment-topic-description p { margin: 0; }
+.equipment-arrow { font-size: 22px; line-height: 1.2; flex-shrink: 0; }
+@media (max-width: 620px) {
+  .equipment-topics { grid-template-columns: 1fr; }
+  .equipment-topic { padding: 18px; }
+}
+
+/* Body-authored article libraries. */
+.article-cards { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; margin: 18px 0 36px; }
+.article-cards > h2 { grid-column: 1 / -1; }
+.article-card { display: flex; flex-direction: column; align-items: flex-start; position: relative; min-width: 0; padding: 22px; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); }
+.article-card:hover, .article-card:focus-within { border-color: var(--brass); }
+.prose .article-card-title { margin: 0; font-size: 21px; font-weight: 600; line-height: 1.3; text-wrap: pretty; }
+.article-card-title a { text-decoration: none; }
+.article-card-title a::after { content: ""; position: absolute; inset: 0; border-radius: 12px; }
+.article-card > :not(.article-card-title) a { position: relative; z-index: 1; }
+.article-card > p { margin: 12px 0 0; font-size: 15px; line-height: 1.65; }
+.article-byline { color: var(--muted); }
+.prose .article-byline p { margin: 6px 0 0; font-size: 13px; line-height: 1.5; }
+.article-card > .article-label { margin-top: auto; padding-top: 18px; }
+.article-label { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+.prose .article-label p { margin: 0; padding: 4px 10px; border: 1px solid var(--line); border-radius: 6px; background: var(--accent-soft); font-size: 12px; font-weight: 600; line-height: 1.5; }
+.article-label a { text-decoration: none; }
+.article-label a:hover { text-decoration: underline; }
+@media (max-width: 620px) {
+  .article-cards { grid-template-columns: 1fr; gap: 12px; }
+  .article-card { padding: 20px; }
+}
+
 /* albums a work appears on */
 .albumlist { list-style: none; margin: 8px 0; padding: 0; }
 .albumlist li { border-bottom: 1px solid var(--line); }
@@ -189,6 +226,8 @@ article.page.lists, article.page.lists .prose, article.page.lists .notice { max-
 .albumlist .muted { color: var(--muted); font-size: 13.5px; }
 
 /* Recordings page: List / Albums switch and the cover grid */
+.recordings-index .bar { margin-top: 8px; padding-block: 6px 8px; gap: 14px; }
+.recordings-index .views { margin: 0; }
 .views { display: flex; gap: 6px; margin: 14px 0 6px; }
 .views[hidden], [data-view-panel][hidden] { display: none; }
 .albumgrid { list-style: none; margin: 16px 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 22px 18px; }
@@ -228,7 +267,7 @@ article.page.lists, article.page.lists .prose, article.page.lists .notice { max-
 .clist .dots { display: inline-flex; gap: 3px; }
 
 /* curriculum: overview grid (years across, strands down) and year pages. --c is the year's color, from .c-lv-N */
-.cur .lede { max-width: 62ch; font-size: 16px; }
+.cur .lede { font-size: 16px; }
 .cur .lede p { margin: 4px 0 0; }
 .cur .h3 { font-family: var(--font-display); font-weight: 500; font-size: 18px; margin: 0 0 8px; }
 .cur h3 { margin: 0; }
@@ -347,7 +386,7 @@ a.t:hover { color: var(--accent); text-decoration: underline; text-underline-off
 }
 
 /* notice for content by other people */
-.notice { border-left: 4px solid var(--notice-line); background: var(--notice-bg); padding: 2px 16px; margin: 16px 0; border-radius: 0 8px 8px 0; font-size: 14.5px; max-width: 68ch; }
+.notice { border-left: 4px solid var(--notice-line); background: var(--notice-bg); padding: 2px 16px; margin: 16px 0; border-radius: 0 8px 8px 0; font-size: 14.5px; }
 /* Comes first in the page so its top lines up with the top of the eyebrow's capitals. The eyebrow's
    18px top margin collapses into the header's, the float's does not, hence 4px. */
 .cover { float: right; max-width: 12rem; margin: 4px 0 1rem 1.5rem; border-radius: 8px; }
@@ -430,3 +469,12 @@ body.panel-open { overflow: hidden; }
   .panel:not([hidden]) { animation: slide .18s ease-out; }
   @keyframes slide { from { transform: translateX(24px); opacity: .6; } to { transform: none; opacity: 1; } }
 }
+
+/* Body-authored entry cards keep their full-card target and independent description links. */
+.start { position: relative; }
+.start-title { color: inherit; text-decoration: none; }
+.start-title::after { content: ""; position: absolute; inset: 0; border-radius: inherit; }
+.start small p { margin: 0; }
+.start small a { position: relative; z-index: 1; }
+.start:focus-within { border-color: var(--brass); }
+.portrait figcaption p { margin: 0; }

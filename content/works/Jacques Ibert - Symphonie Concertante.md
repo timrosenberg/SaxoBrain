@@ -37,7 +37,7 @@ Originally for Oboe and Orchestra
 
 Ibert Symphonie concertante: original completed 1949; actual AL29268 score confirms Nicole’s soprano-and-piano transcription. Opening previews show chromatic slurs, triplets, long counted rests and active piano reduction. School/examination use verified. Exact saxophone recording remains unknown; alto metadata and Orchestra field conflicts flagged.
 
-[[Review 0159 - Jacques Ibert - Symphonie Concertante|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Alphonse Leduc, catalog no. AL29268 · [grothmusic.com](https://www.grothmusic.com/p-147587.aspx)
@@ -47,7 +47,7 @@ Ibert Symphonie concertante: original completed 1949; actual AL29268 score confi
 
 ### Research Review, October 11, 2026
 
-[[Review 0159 - Jacques Ibert - Symphonie Concertante|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Jacques Ibert - Symphonie Concertante]]
 

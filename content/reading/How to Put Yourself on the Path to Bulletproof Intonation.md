@@ -58,7 +58,7 @@ Here are some tips on how to practice this exercise *without moving your lower j
 
 - As an obvious example of controlling the pitch via the movement of the throat, practice singing a note and then jumping up an octave. **Notice the changes in your throat that occur with each note.** Now that you know which muscles to feel out for, try to maintain the throat position for the note you’re shooting for as your fingers take you up the range of the instrument.
 - **Experiment with making very subtle changes to the position of your tongue** to keep your pitch in place while the fingers do something else. In his book *Developing a Personal Saxophone Sound*, David Liebman suggests that moving the back of the tongue could help with pitch control.
-- Make sure to include [**the practice of overtones**](https://www.bestsaxophonewebsiteever.com//intro-to-saxophone-overtones-part-3-exercises/) in your practice regiment. In practicing those, you’re going to be working the same muscles that you’re going to need here*.*
+- Make sure to include [**the practice of overtones**](https://www.bestsaxophonewebsiteever.com//intro-to-saxophone-overtones-part-3-exercises/) in your practice regiment. In practicing those, you’re going to be working the same muscles that you’re going to need *here*.
 
 # To Keep in Mind
 

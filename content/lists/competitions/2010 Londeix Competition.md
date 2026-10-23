@@ -31,7 +31,7 @@ With piano accompaniment- maximum length: 30 minutes. Two works to be chosen fro
 - [[Florent Schmitt - Légende, Op. 66|Légende]] op. 66 (alto saxophone) by Florent SCHMITT (pub. Durand)
 - [[Paul Hindemith - Sonata|Sonate]] (with finale by JML.), by Paul HINDEMITH (pub. Schott)
 - Études n° 8, 2, 10, 3 (alto saxophone) by Charles KOECHLIN (pub. Billaudot)
-- [[Alfred Desenclos - Prelude, Cadence et Finale|Prélude, Cadence et Final]] (alto saxophone) by Alfred DESENCLOS (pub. Leduc)
+- [[Alfred Desenclos - Prelude, cadence et finale|Prélude, Cadence et Final]] (alto saxophone) by Alfred DESENCLOS (pub. Leduc)
 - [[Edison Denisov - Sonata|Sonate]] (alto saxophone) by Edison DENISOV (pub. Leduc)
 - [[Andriy Talpash - Zut!|Zut]]! (Alto saxophone) by Andriy TALPASH (pub. AMP, ([http://www.atalpash.ca/purchase.html](http://www.atalpash.ca/purchase.html))
 - [[William Karlins - Music for Tenor Saxophone and Piano|Music for Tenor Saxophone and Piano]] by M.William KARLINS (pub. Southern)

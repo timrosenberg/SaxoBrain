@@ -27,7 +27,7 @@ publisher:
 
 Dorn 1362 for alto saxophone and piano. Composer-attributed College Music Society program note states composed 2003 for Randall Smith and Patrice Ewoldt, who premiered it at the World Saxophone Congress in Minneapolis. One continuous work in five sections: Marcato, dialogue-like cadenza, Cantabile, perpetual motion and energetic scherzo with opening return. Score copyright 2004 is publication data.
 
-[[Review 0391 - Warren Gooch - Rhapsody|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Dorn Publications, catalog no. DORN1362 · [grothmusic.com](https://www.grothmusic.com/p-142802.aspx)
@@ -36,7 +36,7 @@ Dorn 1362 for alto saxophone and piano. Composer-attributed College Music Societ
 
 ### Research Review, October 11, 2026
 
-[[Review 0391 - Warren Gooch - Rhapsody|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Warren Gooch - Rhapsody]]
 

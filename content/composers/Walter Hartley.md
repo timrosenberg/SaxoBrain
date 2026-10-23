@@ -10,7 +10,9 @@ born: 1927
 died: 2016
 wikidata: Q2544662
 photo: "/media/composers/walter-hartley.jpg"
-photo-credit: 
 photo-source: "https://www.walterhartley.com/images/download.jpg"
 aliases: []
 ---
+
+> [!caption]
+> Photo: [walterhartley.com](https://www.walterhartley.com/images/download.jpg)

@@ -63,4 +63,4 @@ These refer to the catalog at the start of research. Verified missing fields wer
 
 **Searches tried:** `Paul R Goldstaub Graphics IV saxophone`; `Goldstaub Graphics IV`; `Goldstaub Graphic IV`; `Goldstaub Graphic IV saxophone celeste score`; `Paul Goldstaub Graphic IV recording`.
 
-[[Remaining Repertoire Research - 2026-10-16|Full research overview]]
+[[SaxoBrain - Review and Repair Record]]

@@ -27,7 +27,7 @@ aliases: []
 
 Publisher-documented fast asymmetrical waltz and sustained concert scale support a provisional upper-college placement.
 
-[[Review 0378 - Vincent David - Éveil de la Toupie|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Billaudot's Saxophone Sound Technique (Vincent David) builds exercises around this piece among others · [billaudot.com](https://billaudot.com/saxophone-sound-technique.html)
@@ -36,7 +36,7 @@ Publisher-documented fast asymmetrical waltz and sustained concert scale support
 
 ### Research Review, October 11, 2026
 
-[[Review 0378 - Vincent David - Éveil de la Toupie|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Vincent David - Éveil de la Toupie]]
 

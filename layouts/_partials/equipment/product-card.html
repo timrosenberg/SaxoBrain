@@ -1,0 +1,9 @@
+{{- $images := findRE `<img\s[^>]+>` .body -}}
+{{- $notes := replaceRE `<img\s[^>]+>` "" .body | replaceRE `<p>\s*</p>` "" -}}
+<section class="equipment-product"{{ with .id }} id="{{ . }}"{{ end }}>
+  {{ with $images }}<div class="equipment-product-image">{{ range . }}{{ . | safeHTML }}{{ end }}</div>{{ end }}
+  <div class="equipment-product-notes">
+    <h3>{{ .title | safeHTML }}</h3>
+    <div class="prose">{{ $notes | safeHTML }}</div>
+  </div>
+</section>

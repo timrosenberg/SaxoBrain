@@ -23,7 +23,7 @@ publisher:
 
 Concerto is originally for alto saxophone and orchestra; the purchased edition includes piano reduction. Three movements: Allegro con brio, Largo and Vivace. Leduc AL 20337. Score dedication names Marcel Mule; copyright 1946 does not establish the composition year. Kallestad’s 2005 college-repertoire survey records the Challan Concerto on one senior-year repertoire list.
 
-[[Review 0317 - René Challan - Concerto|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Alphonse Leduc, catalog no. AL20337 · [grothmusic.com](https://www.grothmusic.com/p-146474.aspx)
@@ -33,7 +33,7 @@ Concerto is originally for alto saxophone and orchestra; the purchased edition i
 
 ### Research Review, October 11, 2026
 
-[[Review 0317 - René Challan - Concerto|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[René Challan - Concerto]]
 
@@ -86,4 +86,4 @@ These refer to the catalog at the start of research. Verified missing fields wer
 
 **Searches tried:** `Henri Challan Concerto saxophone`; `Challan Concerto saxophone 1944 Leduc`; `René Challan concerto saxophone recording`; `Challan Concerto saxophone Mule`.
 
-[[Remaining Repertoire Research - 2026-10-16|Full research overview]]
+[[SaxoBrain - Review and Repair Record]]

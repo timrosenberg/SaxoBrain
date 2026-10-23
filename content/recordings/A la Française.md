@@ -1,20 +1,20 @@
 ---
-title: "A la Française"
+title: A la Française
 slug: a-la-francaise
-saxophonists: "Claude Delangle"
+saxophonists: Claude Delangle
 works:
   - "[[Fernande Decruck - Sonata in C sharp minor]]"
   - "[[Claude Delvincourt - Croquembouches]]"
   - "[[Pierre Sancan - Lamento et Rondo]]"
   - "[[Paule Maurice - Tableaux de Provence]]"
   - "[[Charles Koechlin - Études for Saxophone and Piano]]"
-  - "[[Alfred Desenclos - Prelude, Cadence et Finale]]"
-streaming: "https://album.link/i/1727089933"
-youtube: "https://www.youtube.com/playlist?list=OLAK5uy_mIXCG6VhXpfk-ZBq_4efQUIlIjTu0_Kxs"
-spotify: "https://open.spotify.com/album/7slDrB6UkqmSdCxs6AHyvL"
-apple-music: "https://music.apple.com/us/album/1727089933"
-amazon-music: "https://music.amazon.com/albums/B0CT2R895W"
-tidal: "https://listen.tidal.com/album/341666247"
+  - "[[Alfred Desenclos - Prelude, cadence et finale]]"
+streaming: https://album.link/i/1727089933
+youtube: https://www.youtube.com/playlist?list=OLAK5uy_mIXCG6VhXpfk-ZBq_4efQUIlIjTu0_Kxs
+spotify: https://open.spotify.com/album/7slDrB6UkqmSdCxs6AHyvL
+apple-music: https://music.apple.com/us/album/1727089933
+amazon-music: https://music.amazon.com/albums/B0CT2R895W
+tidal: https://listen.tidal.com/album/341666247
 tracks:
   - "Saxophone Sonata in C-Sharp Major: I. Tres modéré, expressif · 4:10 · [[Fernande Decruck - Sonata in C sharp minor]]"
   - "Saxophone Sonata in C-Sharp Major: II. Andante · 2:45 · [[Fernande Decruck - Sonata in C sharp minor]]"
@@ -40,11 +40,11 @@ tracks:
   - "Etudes pour saxophone alto et piano, Op. 188: IX. Pour la longueur de la respiration et... · 2:21 · [[Charles Koechlin - Études for Saxophone and Piano]]"
   - "Etudes pour saxophone alto et piano, Op. 188: X. Pour la qualite du son dans un style soutenu... · 2:50 · [[Charles Koechlin - Études for Saxophone and Piano]]"
   - "Etudes pour saxophone alto et piano, Op. 188: XIII. Pour la legerete du son · 2:01 · [[Charles Koechlin - Études for Saxophone and Piano]]"
-  - "Prelude · 2:38 · [[Alfred Desenclos - Prelude, Cadence et Finale]]"
+  - Prelude · 2:38 · [[Alfred Desenclos - Prelude, Cadence et Finale]]
   - "Prelude, Cadence et Finale: Cadence · 2:38 · [[Alfred Desenclos - Prelude, Cadence et Finale]]"
   - "Prelude, Cadence et Finale: Final · 5:30 · [[Alfred Desenclos - Prelude, Cadence et Finale]]"
 year-released: "2002"
-cover: "/media/recordings/a-la-francaise/512x512bb.jpg"
+cover: /media/recordings/a-la-francaise/512x512bb.jpg
 notion-id: ba26b7539a55458cadb3fd1763c4f290
 ---
 

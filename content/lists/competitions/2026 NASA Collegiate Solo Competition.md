@@ -24,7 +24,7 @@ Live piano accompaniment is required where applicable.
 
 ## Semi-Final Round
 
-- [[Alfred Desenclos - Prelude, Cadence et Finale|Prélude, cadence et finale]] by [[Alfred Desenclos]].
+- [[Alfred Desenclos - Prelude, cadence et finale|Prélude, cadence et finale]] by [[Alfred Desenclos]].
 - [[Steven Banks - Salleras Variation|Salleras Variations]] by [[Steven Banks]].
 - Additional music of the performer's choice.
 

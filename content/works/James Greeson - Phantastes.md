@@ -39,7 +39,7 @@ Tim supplied the archive link and the 33:20 start time. The archive page contain
 
 Greeson Phantastes: actual score confirms December 1991 and Allison Sloan dedication. Opening is unmetered Molto Rubato, with quiet sustained notes, chromatic flourishes, coordinated arrows and pedaled piano chords. Faculty/university recital performances verified. Existing composed 1991 retained.
 
-[[Review 0162 - James Greeson - Phantastes|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Listed as Phantastes (1991) by James Greeson on a 1 Oct 1998 University of Arkansas faculty recital (Stan Morris, saxophone; Henry Runkles, piano) · [scholarworks.uark.edu](https://scholarworks.uark.edu/musccr/2114)
@@ -48,7 +48,7 @@ Greeson Phantastes: actual score confirms December 1991 and Allison Sloan dedica
 
 ### Research Review, October 11, 2026
 
-[[Review 0162 - James Greeson - Phantastes|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[James Greeson - Phantastes]]
 

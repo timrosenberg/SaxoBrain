@@ -1,0 +1,55 @@
+{{- /* Explicit Obsidian callouts keep their complete editorial content in Markdown. */ -}}
+{{- $title := partial "resolve-links.html" (dict "html" (.AlertTitle | string) "page" .Page) -}}
+{{- $link := findRESubmatch `(?s)^<a\s[^>]*href="([^"]+)"[^>]*>(.*?)</a>$` $title 1 -}}
+{{- $href := "" -}}{{- $label := $title -}}
+{{- with $link }}{{ $href = htmlUnescape (index (index . 0) 1) }}{{ $label = index (index . 0) 2 }}{{ end -}}
+{{- $kind := .AlertType -}}
+{{- if in (slice "starts" "start" "columns" "column" "caption" "focus" "catalog" "strands" "pdf") $kind -}}
+  {{- partial "editorial-block.html" (dict "kind" $kind "title" $title "label" $label "href" $href "text" .Text "page" .Page) -}}
+{{- else if and (eq $kind "resource") $href -}}
+  {{- partial "resource-card.html" (dict "href" $href "title" $label "body" .Text) -}}
+{{- else if eq $kind "articles" -}}
+<div class="article-cards">{{ with $title }}<h2>{{ . | safeHTML }}</h2>{{ end }}{{ .Text }}</div>
+{{- else if and (eq $kind "article") $href -}}
+<article class="article-card">
+<h3 class="article-card-title"><a href="{{ $href | safeURL }}">{{ $label | safeHTML }}</a></h3>
+{{ .Text }}
+</article>
+{{- else if eq $kind "byline" -}}
+<div class="article-byline">{{ with $title }}<p>{{ . | safeHTML }}</p>{{ end }}{{ .Text }}</div>
+{{- else if eq $kind "label" -}}
+<div class="article-label">{{ with $title }}<p>{{ . | safeHTML }}</p>{{ end }}{{ .Text }}</div>
+{{- else if eq $kind "products" -}}
+<div class="equipment-products equipment-products-cards">{{ .Text }}</div>
+{{- else if and (eq $kind "product") $href -}}
+  {{- partial "equipment/product-card.html" (dict "title" $title "body" .Text) -}}
+{{- else if and (eq $kind "topic") $href -}}
+  {{- partial "equipment/cards.html" (dict "href" $href "title" $label "body" .Text) -}}
+{{- else if eq $kind "topics" -}}
+<div class="equipment-topics">{{ with $title }}<h2>{{ . | safeHTML }}</h2>{{ end }}{{ .Text }}</div>
+{{- else if eq $kind "lead" -}}
+{{ with $title }}<p class="lede equipment-intro">{{ . | safeHTML }}</p>{{ end }}
+{{ replaceRE `<p>` `<p class="lede equipment-intro">` .Text | safeHTML }}
+{{- else if eq $kind "section" -}}
+<section class="equipment-guide"{{ if hasPrefix $href "#" }} id="{{ strings.TrimPrefix "#" $href }}"{{ end }}>
+{{ with $label }}<h2>{{ . | safeHTML }}</h2>{{ end }}
+{{ .Text }}
+</section>
+{{- else if eq $kind "links" -}}
+<div class="equipment-quick-reference">{{ with $title }}<strong>{{ . | safeHTML }}</strong>{{ end }}{{ .Text }}</div>
+{{- else if eq $kind "figure" -}}
+  {{- $images := findRE `<img\s[^>]+>` .Text 1 -}}
+  {{- if $images -}}
+    {{- $image := index $images 0 -}}
+    {{- $src := index (index (findRESubmatch `src="([^"]+)"` $image 1) 0) 1 -}}
+<figure class="equipment-reed-diagram">
+{{ if index .Page.Params "image-viewer" }}<a href="{{ $src | safeURL }}" data-image-view data-pdf-title="{{ $title | plainify }}" aria-haspopup="dialog">{{ $image | safeHTML }}</a>{{ else }}{{ $image | safeHTML }}{{ end }}
+{{ with $title }}<figcaption>{{ . | safeHTML }}</figcaption>{{ end }}
+{{ replaceRE `<p>\s*</p>` "" (replace (.Text | string) $image "") | safeHTML }}
+</figure>
+  {{- else -}}
+<figure>{{ with $title }}<figcaption>{{ . | safeHTML }}</figcaption>{{ end }}{{ .Text }}</figure>
+  {{- end -}}
+{{- else -}}
+<blockquote>{{ with $title }}<p><strong>{{ . | safeHTML }}</strong></p>{{ end }}{{ .Text }}</blockquote>
+{{- end -}}

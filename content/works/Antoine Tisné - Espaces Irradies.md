@@ -31,7 +31,7 @@ publisher:
 
 Tisné, Espaces irradiés: Choudens AC20883 is a four-movement alto-and-piano work. A [University of Córdoba score analysis](https://helvia.uco.es/xmlui/bitstream/handle/10396/12998/2015000001186.pdf?isAllowed=y&sequence=1) identifies free timing, changing meters, quarter tones and multiphonics, and dates it 1978 with approximately 24:30 duration. No original notation or playable recording was inspected; the technical observations remain attributed to that researcher.
 
-[[Review 0008 - Antoine Tisné - Espaces Irradies|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher and catalog no.: Choudens ACF020883 · [grothmusic.com](https://www.grothmusic.com/p-146317.aspx)
@@ -41,7 +41,7 @@ Tisné, Espaces irradiés: Choudens AC20883 is a four-movement alto-and-piano wo
 
 ### Research Review, October 11, 2026
 
-[[Review 0008 - Antoine Tisné - Espaces Irradies|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Antoine Tisné - Espaces Irradies]]
 

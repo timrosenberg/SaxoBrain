@@ -1,0 +1,5 @@
+{{- $title := .Title -}}
+{{- with index .Params "display-title" -}}
+  {{- $title = $.RenderString . -}}
+{{- end -}}
+{{- return $title -}}

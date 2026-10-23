@@ -1,20 +1,20 @@
 ---
-title: "Sonate pour saxophone alto et piano"
+title: Sonate pour saxophone alto et piano
 slug: jindrich-feld-sonata
 composer:
   - "[[Jindřich Feld]]"
 instruments:
   - Alto Saxophone
   - Piano
-composed: "1989–1990"
+composed: 1989–1990
 year-of-study: Advanced
-streaming:
+streaming: https://www.youtube.com/watch?v=SRdn0bREMq4
 purchase:
-  - "https://www.all-sheetmusic.com/Wind-Instruments/Saxophone/Sonate-nr-4.html"
+  - https://www.all-sheetmusic.com/Wind-Instruments/Saxophone/Sonate-nr-4.html
 added: 2024-03-10
 aliases: []
 publisher:
-  - "Alphonse Leduc"
+  - Alphonse Leduc
 research:
   - "Alphonse Leduc AL28813; composed 1989–1990; Four movements: Allegro ritmico; Adagio (Bells of liberty); Allegro vivo (Scherzo); Allegro con fuoco. Separate from Feld’s other saxophone-and-piano sonata. · https://www.halleonard.com/product/48185318/sonate-pour-saxophone-alto-et-piano"
 ---

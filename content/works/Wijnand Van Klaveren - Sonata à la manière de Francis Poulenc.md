@@ -26,7 +26,7 @@ aliases: []
 
 ### Research Review, October 11, 2026
 
-[[Review 0392 - Wijnand Van Klaveren - Sonata à la manière de Francis Poulenc|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Wijnand Van Klaveren - Sonata à la manière de Francis Poulenc]]
 

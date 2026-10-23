@@ -34,7 +34,7 @@ multi-instruments: "One player doubling soprano, alto and baritone saxophones, w
 
 Schott exact EA432 is piano reduction with solo part; orchestral original 1977, 27 minutes. Daniels orchestral catalog identifies one soloist doubling soprano, alto and baritone. IMEP library catalogs piano reduction with saxophone part and alternate clarinet/bass clarinet part.
 
-[[Review 0362 - Stanislaw Skrowaczewski - Ricercari Notturni|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - POLMIC lists Ricercari notturni for saxophone or clarinet and orchestra (1977) · [polmic.pl](https://polmic.pl/en/encyclopedia/subject-entries/s/skrowaczewski-stanislaw-en)
@@ -45,9 +45,9 @@ Schott exact EA432 is piano reduction with solo part; orchestral original 1977, 
 
 ### Research Review, October 11, 2026
 
-[[Review 0362 - Stanislaw Skrowaczewski - Ricercari Notturni|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Stanislaw Skrowaczewski - Ricercari Notturni.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Stanislaw Skrowaczewski - Ricercari Notturni.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0362.json).
+Catalog: [Stanislaw Skrowaczewski - Ricercari Notturni.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Stanislaw Skrowaczewski - Ricercari Notturni.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Stanisław Skrowaczewski's 1977 Ricercari notturni is a saxophone (or clarinet) concerto; the listed piano reduction with solo part is a separate purchasable edition, EA432.
 

@@ -1,0 +1,73 @@
+/* Equipment guides share the site's tokens, typography, and media viewer. */
+.equipment-page { padding-top: 22px; min-width: 0; }
+.equipment-page h1 { margin-bottom: 12px; }
+.equipment-intro { max-width: 680px; font-size: 16px; line-height: 1.65; }
+.equipment-quick-reference > p { display: contents; }
+.equipment-method-body .prose > h3 { padding-top: 14px; font-size: 18px; }
+.equipment-method-body .embedded-note h2 { font-size: 18px; }
+.equipment-quick-reference { display: flex; align-items: baseline; flex-wrap: wrap; gap: 10px 22px; padding: 16px 20px; border-radius: 8px; background: var(--accent-soft); font-size: 14px; }
+.equipment-quick-reference strong { font-weight: 600; }
+.equipment-guide { margin-top: 38px; scroll-margin-top: 24px; }
+.equipment-guide > h2 { margin-bottom: 18px; }
+.equipment-return { margin: 32px 0 0; border-top: 1px solid var(--line); padding-top: 18px; font-size: 14px; }
+.equipment-return-top { margin: 0 0 18px; border-top: 0; padding-top: 0; }
+.equipment-instrument-picker { display: flex; gap: 8px; flex-wrap: wrap; margin: 20px 0 16px; }
+.equipment-instrument-picker .btn { padding: 8px 14px; min-height: 44px; }
+.equipment-instrument-picker [aria-pressed="true"] { background: var(--fg); color: var(--bg); border-color: var(--fg); }
+.equipment-instrument-panel h3 { margin: 12px 0; }
+.equipment-recommendations > ul { list-style: none; padding: 0; margin: 0; }
+.equipment-recommendations > ul > li { padding: 12px 0; margin: 0; border-bottom: 1px solid var(--line); overflow-wrap: anywhere; }
+.equipment-recommendations > ul > li > p { margin: 0; }
+.equipment-recommendations > ul > li > p + p { margin-top: 5px; color: var(--muted); font-size: 14px; line-height: 1.6; }
+.equipment-reference { min-width: 0; }
+.equipment-reference table { display: table; width: 100%; font-size: 14px; table-layout: fixed; }
+.equipment-reference th { vertical-align: bottom; font-weight: 600; }
+.equipment-reference td { vertical-align: top; overflow-wrap: anywhere; }
+.equipment-reference th, .equipment-reference td { padding: 12px 14px 12px 0; }
+.equipment-products { margin: 16px 0; }
+.equipment-products-cards { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; }
+.equipment-products-cards .equipment-product { flex-direction: column; padding: 20px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); }
+.equipment-products-cards .equipment-product-notes > .prose { margin-top: 0; }
+.equipment-product { display: flex; align-items: flex-start; gap: 24px; padding: 22px 0; border-bottom: 1px solid var(--line); min-width: 0; }
+.equipment-product h3 { margin: 0 0 10px; font-weight: 600; }
+.equipment-product-notes { min-width: 0; flex: 1; }
+.equipment-product-notes .prose > :last-child { margin-bottom: 0; }
+.equipment-product-image { flex: 0 0 145px; display: grid; gap: 8px; }
+.equipment-product-image img { width: 145px; height: 145px; object-fit: contain; border-radius: 8px; background: #fff; }
+.equipment-method, .equipment-symptom { border-bottom: 1px solid var(--line); }
+.equipment-method > summary, .equipment-symptom > summary { padding: 16px 4px; font-weight: 600; cursor: pointer; overflow-wrap: anywhere; }
+.equipment-method > summary { font-family: var(--font-display); font-size: 18px; }
+.equipment-method-body { padding: 2px 4px 20px; min-width: 0; }
+.equipment-method-body .prose { margin-top: 0; }
+.equipment-method-body .prose > :last-child { margin-bottom: 0; }
+.equipment-checklist { padding-top: 14px; }
+.equipment-checklist h3 { font-size: 18px; }
+.equipment-checklist h2 { font-size: 18px; }
+.equipment-video-source { display: inline-block; margin: 0 0 16px; font-size: 14px; }
+.equipment-diagnostics { display: grid; grid-template-columns: 200px minmax(0, 1fr); gap: 32px; align-items: start; margin-top: 24px; }
+.equipment-reed-diagram { position: sticky; top: 24px; margin: 0; padding: 16px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); }
+.equipment-reed-diagram img { display: block; width: 100%; height: auto; background: #fff; }
+.equipment-reed-diagram a { display: block; }
+.equipment-reed-diagram figcaption { font-size: 12px; color: var(--muted); margin-top: 12px; }
+.equipment-symptom-list { min-width: 0; }
+.equipment-symptom-control { display: grid; gap: 8px; margin: 0 0 14px; font-size: 14px; font-weight: 600; }
+.equipment-symptom-control select { width: 100%; min-width: 0; min-height: 44px; padding: 9px 12px; border: 1px solid var(--line); border-radius: 8px; color: var(--fg); background: var(--surface); font: inherit; font-weight: 400; }
+.equipment-symptom > .prose { padding: 0 4px 12px; margin: 0; }
+.equipment-symptom .prose ul { margin-bottom: 0; }
+@media (max-width: 620px) {
+  .equipment-page { padding-top: 16px; }
+  .equipment-products-cards { grid-template-columns: 1fr; }
+  .equipment-guide { margin-top: 30px; }
+  .equipment-product { gap: 16px; }
+  .equipment-product-image { flex-basis: 100px; }
+  .equipment-product-image img { width: 100px; height: 100px; }
+  .equipment-diagnostics { grid-template-columns: 1fr; gap: 20px; }
+  .equipment-reed-diagram { position: static; width: 180px; }
+  .equipment-reference table { font-size: 13px; }
+  .equipment-reference th, .equipment-reference td { padding-right: 8px; }
+}
+@media (max-width: 420px) {
+  .equipment-product { flex-direction: column; }
+  .equipment-product-image { flex-basis: auto; }
+  .equipment-instrument-picker .btn { flex: 1 0 40%; justify-content: center; }
+}

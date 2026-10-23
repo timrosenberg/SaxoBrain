@@ -32,7 +32,7 @@ aliases:
 
 Eshpai, Concerto: a 19-minute original soprano concerto; [Muzyka score](https://www.ficksmusic.com/products/eshpai-concerto-for-soprano-saxophone-muzyka) supplies the solo part and piano reduction. [Listen: Jan Schulte-Bunert and Neue Philharmonie Westfalen](https://music.apple.com/us/album/saxophone-concerto/624039906?i=624040295&uo=4). Publisher dates conflict, and no notation preview was available to establish the solo demands.
 
-[[Review 0005 - Andrei Eshpai - Concerto|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Concerto for soprano saxophone and orchestra, 1987, about 19 minutes; Schirmer Russian Music (USA/Canada) · [wisemusicclassical.com](https://www.wisemusicclassical.com/work/44351/Concerto-for-Soprano-Saxophone-and-Orchestra--Andrei-Eshpai)
@@ -42,7 +42,7 @@ Eshpai, Concerto: a 19-minute original soprano concerto; [Muzyka score](https://
 
 ### Research Review, October 11, 2026
 
-[[Review 0005 - Andrei Eshpai - Concerto|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Andrei Eshpai - Concerto]]
 

@@ -30,7 +30,7 @@ publisher:
 
 Leeson’s 1948 Concertino is an original alto concert work available as a piano reduction. The opening has chromatic slurred figures over an active piano texture. The composer identifies conversational, lyrical and jazz-influenced movement characters. [Buy](https://www.grothmusic.com/p-143006.aspx). [Score opening](https://grothmusic.com/images/product/large/ae00-124620_2_.jpg). Later demands and a playable exact recording remain unknown.
 
-[[Review 0041 - Cecil Leeson - Concertino|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Southern, catalog number SS817 · [grothmusic.com](https://www.grothmusic.com/p-143006.aspx)
@@ -40,7 +40,7 @@ Leeson’s 1948 Concertino is an original alto concert work available as a piano
 
 ### Research Review, October 11, 2026
 
-[[Review 0041 - Cecil Leeson - Concertino|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Cecil Leeson - Concertino]].
 

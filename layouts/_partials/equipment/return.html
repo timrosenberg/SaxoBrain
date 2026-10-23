@@ -1,0 +1,16 @@
+{{ $top := .top | default false }}
+{{ $reeds := false }}
+{{ $parent := "" }}
+{{ with .page }}{{ $reeds = eq .Parent.Path "/resources/equipment/reeds" }}{{ end }}
+{{ with .page }}{{ with index .Params "equipment-parent" }}{{ $parent = partial "equipment/find-page.html" . }}{{ end }}{{ end }}
+{{ if $parent }}
+<p class="equipment-return{{ if $top }} equipment-return-top{{ end }}"><a href="{{ $parent.RelPermalink }}">{{ printf (partial "t.html" "equipment-back-to") $parent.Title }}</a></p>
+{{ else if $reeds }}
+{{ with .page.Parent }}
+<p class="equipment-return{{ if $top }} equipment-return-top{{ end }}"><a href="{{ .RelPermalink }}">{{ partial "t.html" "equipment-reeds" }}</a></p>
+{{ end }}
+{{ else }}
+{{ with partial "equipment/find-page.html" "/resources/equipment" }}
+<p class="equipment-return{{ if $top }} equipment-return-top{{ end }}"><a href="{{ .RelPermalink }}">{{ partial "t.html" "equipment-all" }}</a></p>
+{{ end }}
+{{ end }}

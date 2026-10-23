@@ -29,7 +29,7 @@ aliases: []
 
 The Antwerp library confirms Fantasia op.37, composed 1979, Kunzelmann publication 1981 and dedication to Iwan Roth. The freshly retrieved Philharmonie guide describes a slow-to-rhythmic-Allegro span; Van Cott supplies three tempo headings. No notation or matching recording was verified, and GM937 remains an indexed exact-edition purchase lead.
 
-[[Review 0026 - Boris Mersson - Fantasia|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher and catalog no.: Kunzelmann GM937 · [grothmusic.com](https://www.grothmusic.com/p-143811.aspx)
@@ -39,7 +39,7 @@ The Antwerp library confirms Fantasia op.37, composed 1979, Kunzelmann publicati
 
 ### Research Review, October 11, 2026
 
-[[Review 0026 - Boris Mersson - Fantasia|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Boris Mersson - Fantasia]].
 

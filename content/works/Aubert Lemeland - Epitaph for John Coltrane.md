@@ -29,7 +29,7 @@ aliases: []
 
 Publisher-distributor and conservatoire records confirm soprano and piano, correcting the missing piano tag. A saxophone-teacher guide describes expressive outer movements and an alternating 3/8–5/8 middle movement. No score or exact-work Listen was verified; composition year remains unknown.
 
-[[Review 0017 - Aubert Lemeland - Epitaph for John Coltrane|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Catalogued as 'Epitaph to John Coltrane', Op. 86, for B-flat soprano saxophone and piano, Billaudot 1981, about 5 minutes · [nypl.org](https://www.nypl.org/research/research-catalog/bib/b10912519)
@@ -38,7 +38,7 @@ Publisher-distributor and conservatoire records confirm soprano and piano, corre
 
 ### Research Review, October 11, 2026
 
-[[Review 0017 - Aubert Lemeland - Epitaph for John Coltrane|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Aubert Lemeland - Epitaph for John Coltrane]]
 

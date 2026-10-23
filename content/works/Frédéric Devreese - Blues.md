@@ -29,7 +29,7 @@ aliases:
 
 ### Research Review, October 11, 2026
 
-[[Review 0098 - Frédéric Devreese - Blues|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Frédéric Devreese - Blues]]
 

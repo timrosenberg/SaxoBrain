@@ -26,7 +26,7 @@ arranger-edition: ["CM 116"]
 
 ### Batch 05 Decision, October 20, 2026
 
-Second Year; composer corrected to Eric Sweeney. Confirmed fields and source links are retained in [[Remaining Repertoire - Score Batch 05|Batch 05]] and this work’s research. Older research below records the catalog before these corrections.
+Second Year; composer corrected to Eric Sweeney. Confirmed fields and source links are retained in [[SaxoBrain - Review and Repair Record]] and this work’s research. Older research below records the catalog before these corrections.
 
 ### Research checked October 16, 2026
 
@@ -63,4 +63,4 @@ These refer to the catalog at the start of research. Verified missing fields wer
 
 **Searches tried:** `Michele Sweeney Duo saxophone`; `Michele Sweeney Duo music`; `Michelle Sweeney Duo saxophone`; `Sweeney Duo saxophone score Michele`; `Duo Eric Sweeney Camden Music CM116`.
 
-[[Remaining Repertoire Research - 2026-10-16|Full research overview]]
+[[SaxoBrain - Review and Repair Record]]

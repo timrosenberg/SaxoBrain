@@ -1,0 +1,28 @@
+{{- $html := .html -}}
+{{- $page := .page -}}
+{{- $scope := .scope | default "" -}}
+{{- $matches := findRESubmatch `(?s)<p>!\[\[([^\]]+)\]\]</p>` $html -}}
+{{- if and $matches (partial "validate-embeds.html" (dict "page" $page "stack" slice)) -}}
+  {{- $used := slice -}}
+  {{- range findRESubmatch `\sid="([^"]+)"` (partial "source-body.html" $page) }}{{ $used = $used | append (index . 1) }}{{ end -}}
+  {{- range $ordinal, $match := $matches -}}
+    {{- with partial "wiki-page.html" (index $match 1) -}}
+      {{- $embedded := .Render "embed" | string -}}
+      {{- $prefix := printf "embed-%s-%s-%d-" $scope (.File.ContentBaseName | urlize) $ordinal -}}
+      {{- range findRESubmatch `\sid="([^"]+)"` $embedded -}}
+        {{- $id := index . 1 -}}
+        {{- if or $scope (in $used $id) -}}
+          {{- $replacement := printf "%s%s" $prefix $id -}}
+          {{- $embedded = replace $embedded (printf `id="%s"` $id) (printf `id="%s"` $replacement) -}}
+          {{- $embedded = replace $embedded (printf `href="#%s"` $id) (printf `href="#%s"` $replacement) -}}
+          {{- range slice "aria-controls" "data-instrument-target" "data-default-instrument" "for" -}}
+            {{- $embedded = replace $embedded (printf `%s="%s"` . $id) (printf `%s="%s"` . $replacement) -}}
+          {{- end -}}
+          {{- $used = $used | append $replacement -}}
+        {{- else }}{{ $used = $used | append $id }}{{ end -}}
+      {{- end -}}
+      {{- $html = replace $html (index $match 0) $embedded 1 -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $html -}}

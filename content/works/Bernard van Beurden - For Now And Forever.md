@@ -31,7 +31,7 @@ publisher:
 
 Donemus D13546 verifies the 2014 solo tenor piece and offers its eight-page score. Its public preview has no notation. Etcetera credits Andreas van Zoelen for the recording, correcting the earlier private attribution. Technical demands remain unverified. A work-specific Apple Music track is now verified.
 
-[[Review 0019 - Bernard van Beurden - For Now And Forever|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Solo tenor saxophone work; title piece of Andreas van Zoelen's 2021 Etcetera album 'For Now & Forever' (KTC1709) · [etcetera-records.com](https://www.etcetera-records.com/album/773/now-forever)
@@ -40,7 +40,7 @@ Donemus D13546 verifies the 2014 solo tenor piece and offers its eight-page scor
 
 ### Research Review, October 11, 2026
 
-[[Review 0019 - Bernard van Beurden - For Now And Forever|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Bernard van Beurden - For Now And Forever]]
 

@@ -29,7 +29,7 @@ publisher:
 
 The RE11390 reduction confirms soprano saxophone doubling alto, plus piano. Both missing instruments can be appended to the catalog. Nico Schüler’s article identifies a four-movement 1989 concerto with cadenza and unusual sound effects. It distinguishes the separate 1988 Concert Piece. The public fourth-movement recording matches Detlef Bensmann with orchestra. No score notation was inspected, so doubling locations and written ranges remain unverified. The default Listen plays movement IV only; I and III have separate verified links.
 
-[[Review 0076 - Dietrich Erdmann - Concerto|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Ries & Erler, catalog number RE11390 · [grothmusic.com](https://www.grothmusic.com/p-143407.aspx)
@@ -39,7 +39,7 @@ The RE11390 reduction confirms soprano saxophone doubling alto, plus piano. Both
 
 ### Research Review, October 11, 2026
 
-[[Review 0076 - Dietrich Erdmann - Concerto|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Dietrich Erdmann - Concerto]]
 

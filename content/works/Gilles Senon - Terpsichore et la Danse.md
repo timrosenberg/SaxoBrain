@@ -25,7 +25,7 @@ publisher:
 
 Terpsichore identity now verified from opened publisher HTML. Publisher Difficile cycle 3 and copyright 1998 remain attributed source facts. No notation/audio was accessible; Dinant use remains indexed-only.
 
-[[Review 0114 - Gilles Senon - Terpsichore et la Danse|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Billaudot, catalog GB6513 · [grothmusic.com](https://www.grothmusic.com/p-140075.aspx)
@@ -34,7 +34,7 @@ Terpsichore identity now verified from opened publisher HTML. Publisher Difficil
 
 ### Research Review, October 11, 2026
 
-[[Review 0114 - Gilles Senon - Terpsichore et la Danse|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Gilles Senon - Terpsichore et la Danse]].
 

@@ -25,10 +25,14 @@ tracks:
   - "Sonata for Alto Saxophone & Piano: II. Lento · 3:52 · [[Edison Denisov - Sonata]]"
   - "Sonata for Alto Saxophone & Piano: III. Allegro moderato · 4:33 · [[Edison Denisov - Sonata]]"
   - "Notturno · 12:15 · [[Steve Stucky - Notturno]]"
-  - "Walking on the Ceiling: I. Heavy · 3:36"
-  - "Walking on the Ceiling: II. Floating, Breathing · 4:52"
-  - "Walking on the Ceiling: III. Stumble, Run · 6:54"
+  - "Walking on the Ceiling: I. Heavy · 3:36 · David Biedenbender"
+  - "Walking on the Ceiling: II. Floating, Breathing · 4:52 · David Biedenbender"
+  - "Walking on the Ceiling: III. Stumble, Run · 6:54 · David Biedenbender"
 year-released: "2020"
 cover: "/media/recordings/notturno/cover.jpg"
 ---
+
+## Research notes (private)
+
+- Track composer credits verified against https://music.apple.com/us/album/1559624610.
 

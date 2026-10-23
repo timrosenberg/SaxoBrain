@@ -24,7 +24,7 @@ aliases: []
 
 ### Research Review, October 11, 2026
 
-[[Review 0229 - Lawrence Moss - Six Short Pieces|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Lawrence Moss - Six Short Pieces]]
 

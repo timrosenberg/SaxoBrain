@@ -31,7 +31,7 @@ aliases: []
 
 Advance Music 7056 is Trent Kynaston’s alto saxophone transcription of the Aria from Reger’s Suite in A minor, Op.103a. Piano or organ accompaniment is specified. Publisher sample has 2002 Advance Music copyright, which does not establish Reger composition year. Max-Reger-Institut dates the source Suite Op.103a to 1908; 2002 is the transcription copyright.
 
-[[Review 0260 - Max Reger - Aria|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Aria Op. 103a, No. 3; transcribed by Trent Kynaston; publisher Advance Music, catalog no. ADV7056; from Reger's Suite in A Minor, Op. 103a · [grothmusic.com](https://www.grothmusic.com/p-144214.aspx)
@@ -40,7 +40,7 @@ Advance Music 7056 is Trent Kynaston’s alto saxophone transcription of the Ari
 
 ### Research Review, October 11, 2026
 
-[[Review 0260 - Max Reger - Aria|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Max Reger - Aria]].
 

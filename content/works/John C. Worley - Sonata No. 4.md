@@ -27,7 +27,7 @@ aliases: []
 
 From Penn’s Woods, dated 1994, for alto and piano. The inspected Andante cantabile opening at quarter note 80–86 has slurred phrases, rising runs, a trill, triplets and chromatic changes over moving piano voices. The solo score is in concert pitch. Only one page was inspected; complete range and recording remain unknown.
 
-[[Review 0199 - John C. Worley - Sonata No. 4|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Dorn Publications, catalog no. DORN0209 · [grothmusic.com](https://www.grothmusic.com/p-146146.aspx)
@@ -37,7 +37,7 @@ From Penn’s Woods, dated 1994, for alto and piano. The inspected Andante canta
 
 ### Research Review, October 11, 2026
 
-[[Review 0199 - John C. Worley - Sonata No. 4|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[John C. Worley - Sonata No. 4]].
 

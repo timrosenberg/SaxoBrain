@@ -34,9 +34,9 @@ aliases: []
 
 ### Research Review, October 11, 2026
 
-[[Review 0358 - Shoichi Yabuta - Delos|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Shoichi Yabuta - Delos.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Shoichi Yabuta - Delos.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0358.json).
+Catalog: [Shoichi Yabuta - Delos.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Shoichi Yabuta - Delos.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Shoichi Yabuta’s Delos is a seven-movement alto saxophone and piano work in Zen-On’s Sugawa Saxophone Collection, SEO-030 / product 560030. The score preface gives a duration of about 13 minutes, commission by Nobuya Sugawa, and 2021 premiere by Sugawa and pianist Minako Koyanagi.
 

@@ -25,7 +25,7 @@ aliases: []
 
 Duality is an eleven-minute original tenor saxophone/piano work in three movements. The composer confirms its 2016 commission. The current Listen URL is a verified official recording of Polarity only, and the album playlist supplies Linearity and Circularity. Score-specific demands remain unknown because the shop exposes no notation. Purchase: https://www.catherinemcmichael.com/product-page/duality; all movements: https://www.youtube.com/playlist?list=OLAK5uy_l5sGZD3HpR9BD4TDr28fmNhbt2w8AZR9M.
 
-[[Review 0038 - Catherine McMichael - Duality|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Three movements (Polarity, Linearity, Circularity); about 11 minutes; commissioned in 2016 by Dr. Scott Sandburg (UND) · [catherinemcmichael.com](https://www.catherinemcmichael.com/product-page/duality)
@@ -34,7 +34,7 @@ Duality is an eleven-minute original tenor saxophone/piano work in three movemen
 
 ### Research Review, October 11, 2026
 
-[[Review 0038 - Catherine McMichael - Duality|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Catherine McMichael - Duality]].
 

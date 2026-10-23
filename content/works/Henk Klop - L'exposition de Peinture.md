@@ -56,4 +56,4 @@ These refer to the catalog at the start of research. Verified missing fields wer
 
 **Searches tried:** `Henk Klop L'exposition de Peinture`; `Henk Klop exposition`; `L'exposition de peinture Klop saxophone`; `L'exposition de peinture saxophone Donemus`; `Klop exposition Donemus`.
 
-[[Remaining Repertoire Research - 2026-10-16|Full research overview]]
+[[SaxoBrain - Review and Repair Record]]

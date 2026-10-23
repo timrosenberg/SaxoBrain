@@ -31,7 +31,7 @@ arranger-edition:
 
 Leduc AL29479 supports alto OR soprano saxophone with piano. The current soprano-only metadata omits the piano. Arranged by Théodore Kerkezos from voice and piano. Presto identifies 1929 as first publication, not explicitly composition. Publisher description calls it upper intermediate or above and describes Andante con moto and Scherzando sections. Strasbourg Conservatory lists it in its 2018/19 saxophone entrance repertoire.
 
-[[Review 0241 - Manolis Kalomiris - Chant Grec|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - About 4 minutes, two sections (Andante con moto, Scherzando); retailer describes it as suitable for upper-intermediate players or above · [bladmuziekplus.nl](https://www.bladmuziekplus.nl/product/kalomiris-chant-grec-9790046294792/)
@@ -40,7 +40,7 @@ Leduc AL29479 supports alto OR soprano saxophone with piano. The current soprano
 
 ### Research Review, October 11, 2026
 
-[[Review 0241 - Manolis Kalomiris - Chant Grec|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Manolis Kalomiris - Chant Grec]]
 

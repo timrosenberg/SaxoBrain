@@ -38,7 +38,7 @@ Seven pieces for saxophone and piano, from Op. 180. The published Mondelci editi
 
 Seven saxophone/piano pieces composed April 1942, alternative versions of horn pieces numbered 3, 5, 7, 10, 12, 14 and 15. Chandos performer documentation describes none as faster than Andante, emphasizing sustained lines and quiet tone control. Billaudot GB 7473 credits Federico Mondelci; copyright 2006 is the edition date. Retail edition description assigns alto to first and sixth pieces, tenor to the other five.
 
-[[Review 0412 - Charles Koechlin - Seven Pieces Op. 180|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 Transcription context: the seven pieces are alternative versions from Koechlin’s horn collection. They are documented in the professional Mondelci/Stott recording. No evidence found establishes the edition as a simplified adaptation for younger players. The Chandos recording lasts 28:38. [Recording booklet](https://www.chandos.net/chanimages/Booklets/CH9803.pdf). No notation or audio was inspected for this addition. Retailer range comments are attributed claims. A direct recording of the entire collection has not been verified.

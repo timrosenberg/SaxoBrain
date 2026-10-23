@@ -65,4 +65,4 @@ research:
 
 **Searches tried:** `Kae Hirakawa A Sequence of Impulses`; `Kae Hirakawa Sequence saxophone`; `Hirakawa A Sequence of Impulses recording`; `Hirakawa Sequence Impulses score sample clarinet saxophone`.
 
-[[Remaining Repertoire Research - 2026-10-16|Full research overview]]
+[[SaxoBrain - Review and Repair Record]]

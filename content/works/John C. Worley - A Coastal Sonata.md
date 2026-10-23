@@ -30,7 +30,7 @@ aliases: []
 
 Four movements for alto and piano, composed in 1991. Samples across all four show chromatic runs, triplets, high written passages, a staccato 6/8 scherzo and a cadenza with irregular subdivisions. Both concert-pitch score and transposed alto part were inspected. No exact recording was found.
 
-[[Review 0194 - John C. Worley - A Coastal Sonata|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Dorn Publications, catalog no. DORN0207 · [grothmusic.com](https://www.grothmusic.com/p-146142.aspx)
@@ -40,7 +40,7 @@ Four movements for alto and piano, composed in 1991. Samples across all four sho
 
 ### Research Review, October 11, 2026
 
-[[Review 0194 - John C. Worley - A Coastal Sonata|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[John C. Worley - A Coastal Sonata]].
 

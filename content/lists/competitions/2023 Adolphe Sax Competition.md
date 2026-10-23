@@ -34,7 +34,7 @@ notion-id: 85e52f6a2a894817867dcdf647be2dac
 
 # Final Round
 
-- [[Dirk Brossé|Dirk Brossé]]: [[Dirk Brossé - Mantra, Canta and Capriccio|Mantra, Canta and Capriccio]]
+- [[Dirk Brossé|Dirk Brossé]]: [[Dirk Brossé - Mantra, Canto, and Capriccio|Mantra, Canta and Capriccio]]
 
 **Choose one:**
 

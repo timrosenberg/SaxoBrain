@@ -30,7 +30,7 @@ arranger-edition:
 
 RON1164 is Ronkin’s alto/piano edition. Wehage public pages 2 and 5 show sustained/high-register phrasing and extensive chromatic sixteenths. Exact faculty recording and youth-competition program found. Original Sax scan is verification-blocked. Composition 1862/1863 and current-publisher distinctions preserved as review issues.
 
-[[Review 0174 - Jean-Baptiste Singelée - Cinquieme Solo De Concert Op. 91|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Roncorp, catalog no. RON1164 · [grothmusic.com](https://www.grothmusic.com/p-38097.aspx)
@@ -39,7 +39,7 @@ RON1164 is Ronkin’s alto/piano edition. Wehage public pages 2 and 5 show susta
 
 ### Research Review, October 11, 2026
 
-[[Review 0174 - Jean-Baptiste Singelée - Cinquieme Solo De Concert Op. 91|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Jean-Baptiste Singelée - Cinquieme Solo De Concert Op. 91]]
 

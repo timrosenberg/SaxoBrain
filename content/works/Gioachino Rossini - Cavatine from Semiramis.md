@@ -29,7 +29,7 @@ aliases: []
 
 ### Research Review, October 11, 2026
 
-[[Review 0116 - Gioachino Rossini - Cavatine from Semiramis|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Gioachino Rossini - Cavatine from Semiramis]].
 

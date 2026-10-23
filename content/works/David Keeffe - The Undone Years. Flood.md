@@ -32,9 +32,6 @@ Contact the [Australian Music Centre](https://www.australianmusiccentre.com.au/c
 
 25-minute tenor concerto in four movements. AMC documents a virtuosic solo part with altissimo and multiphonics and moderate band writing. No exact Flood score or recording was available to inspect.
 
-[[Review 0410 - David Keeffe - The Undone Years. Flood|Full evidence and open questions]]
-
-
-[[Review 0410 - David Keeffe - The Undone Years. Flood|Research review and pending level decision]]
+[[SaxoBrain - Review and Repair Record]]
 
 Added at Tim’s request. Tim assigned Flood Fourth Year in chat batch 09 on 2026-10-13.

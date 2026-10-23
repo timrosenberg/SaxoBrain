@@ -1,8 +1,13 @@
 ---
 title: "Albright Sonata Altissimo Fingerings"
+display-title: "Albright *Sonata* Altissimo Fingerings"
 slug: albright-sonata-altissimo-fingerings
 notion-id: e58d010c595347e48dfcf239cb46acb9
 ---
+
+*Original source unknown. Saved from an online forum around 2000–2005.*
+
+Related work: [[William Albright - Sonata|William Albright’s *Sonata*]].
 
 - G - X+4+Ta
 - G# - X+Ta or 1+3+4+6+Tc

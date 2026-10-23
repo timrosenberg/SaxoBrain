@@ -26,7 +26,7 @@ publisher:
 
 Dorn 0945, Sonata for oboe or soprano saxophone and piano, 1994 on score title. Opening score is in C; soprano part transposition must be checked separately. Copyright 1997 is publication data, not the composition year.
 
-[[Review 0390 - Walter Hartley - Sonata (Soprano)|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Dorn Publications, catalog no. DORN0945; soprano sax (or oboe) and piano · [grothmusic.com](https://www.grothmusic.com/p-141632.aspx)
@@ -35,7 +35,7 @@ Dorn 0945, Sonata for oboe or soprano saxophone and piano, 1994 on score title. 
 
 ### Research Review, October 11, 2026
 
-[[Review 0390 - Walter Hartley - Sonata (Soprano)|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Walter Hartley - Sonata (Soprano)]]
 

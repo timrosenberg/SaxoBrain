@@ -34,7 +34,7 @@ library-score:
 
 Nin Le Chant du Veilleur: original 1933 date and Londeix alto transcription verified. Official Warner/Londeix recording found. University use involves a distinct student arrangement. Actual notation remains unknown.
 
-[[Review 0192 - Joaquín Nin - Le Chant du Veilleur|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Eschig, catalog no. ME4522 · [grothmusic.com](https://www.grothmusic.com/p-61031.aspx)
@@ -44,7 +44,7 @@ Nin Le Chant du Veilleur: original 1933 date and Londeix alto transcription veri
 
 ### Research Review, October 11, 2026
 
-[[Review 0192 - Joaquín Nin - Le Chant du Veilleur|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Joaquín Nin - Le Chant du Veilleur]].
 

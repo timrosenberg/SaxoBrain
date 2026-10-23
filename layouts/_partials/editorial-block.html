@@ -1,0 +1,39 @@
+{{- $kind := .kind -}}
+{{- $title := .title -}}
+{{- $text := .text | string -}}
+{{- if eq $kind "starts" -}}
+<section aria-label="{{ partial "t.html" "home-quick-starts-label" }}">
+{{ with $title }}<p class="label-sm">{{ . | safeHTML }}</p>{{ end }}<div class="starts">{{ $text | safeHTML }}</div>
+</section>
+{{- else if and (eq $kind "start") .href -}}
+  {{- $heading := findRESubmatch `(?s)^<h3[^>]*>(.*?)</h3>\s*` $text 1 -}}
+  {{- $label := .label -}}
+  {{- $name := $label -}}
+  {{- with $heading }}{{ $name = index (index . 0) 1 }}{{ $text = replace $text (index (index . 0) 0) "" 1 }}{{ end -}}
+<div class="start"><span class="label-sm">{{ $label | safeHTML }}</span><b><a class="start-title" href="{{ .href | safeURL }}">{{ $name | safeHTML }}</a></b><small>{{ $text | safeHTML }}</small></div>
+{{- else if eq $kind "columns" -}}
+{{ "<!--body-columns-->" | safeHTML }}<div class="how">{{ $text | safeHTML }}</div>{{ "<!--/body-columns-->" | safeHTML }}
+{{- else if eq $kind "column" -}}
+<div>{{ with $title }}<h3>{{ . | safeHTML }}</h3>{{ end }}{{ $text | safeHTML }}</div>
+{{- else if eq $kind "strands" -}}
+{{ "<!--body-strands-->" | safeHTML }}{{ $text | safeHTML }}{{ "<!--/body-strands-->" | safeHTML }}
+{{- else if eq $kind "caption" -}}
+  {{- if eq (len (findRE `<p>` $text)) 1 }}{{ $text = replaceRE `^<p>|</p>\s*$` "" $text }}{{ end -}}
+{{ "<!--body-caption-->" | safeHTML }}{{ with $title }}{{ . | safeHTML }} {{ end }}{{ $text | safeHTML }}{{ "<!--/body-caption-->" | safeHTML }}
+{{- else if eq $kind "focus" -}}
+  {{- $text = replaceRE `^<p>|</p>\s*$` "" $text | replaceRE `<strong>(.*?)</strong>` `<b>$1</b>` -}}
+{{ "<!--body-focus-->" | safeHTML }}<span class="focus">{{ with $title }}{{ . | safeHTML }} {{ end }}<b>{{ "<!--body-focus-value-->" | safeHTML }}{{ $text | safeHTML }}{{ "<!--/body-focus-value-->" | safeHTML }}</b></span>{{ "<!--/body-focus-->" | safeHTML }}
+{{- else if eq $kind "catalog" -}}
+  {{- $works := where site.RegularPages "Section" "works" -}}
+  {{- $text = replace $text "{count}" (string (len (where $works "Params.year-of-study" ($title | plainify)))) -}}
+  {{- $text = replace $text "{advanced-count}" (string (len (where $works "Params.year-of-study" "Advanced"))) -}}
+  {{- $text = replaceRE `<strong>(.*?)</strong>` `<b>$1</b>` $text -}}
+  {{- $paragraph := findRESubmatch `(?s)^<p>(.*?)</p>\s*` $text 1 -}}
+{{ "<!--body-catalog-->" | safeHTML }}<div class="more">{{ with $paragraph }}<span>{{ index (index . 0) 1 | safeHTML }}</span>{{ $text = replace $text (index (index . 0) 0) "" 1 }}{{ end }}<span class="links">{{ replaceRE `</?p>` "" $text | replaceRE `<a ` `<a class="go" ` | safeHTML }}</span></div>{{ "<!--/body-catalog-->" | safeHTML }}
+{{- else if and (eq $kind "pdf") .href -}}
+<p><a href="{{ .href | safeURL }}">{{ .label | safeHTML }}</a></p>
+<div class="pdf"><iframe src="{{ .href | safeURL }}#view=FitH" title="{{ replace (partial "t.html" "page-pdf-title") "{title}" .page.Title }}" loading="lazy"></iframe></div>
+{{ $text | safeHTML }}
+{{- else -}}
+<blockquote>{{ with $title }}<p><strong>{{ . | safeHTML }}</strong></p>{{ end }}{{ $text | safeHTML }}</blockquote>
+{{- end -}}

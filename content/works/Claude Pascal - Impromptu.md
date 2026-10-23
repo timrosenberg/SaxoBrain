@@ -59,4 +59,4 @@ research:
 
 **Searches tried:** `Claude Pascal Impromptu saxophone`; `"Pascal" "Impromptu" saxophone recording`; `Claude Pascal Impromptu saxophone score preview`.
 
-[[Remaining Repertoire Research - 2026-10-16|Full research overview]]
+[[SaxoBrain - Review and Repair Record]]

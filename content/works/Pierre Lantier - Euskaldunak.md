@@ -28,7 +28,7 @@ aliases: []
 
 Billaudot MRB1109: alto saxophone and piano sonata, 10:40, 32 pages, copyright1967. Guide separately dates the work 1959 and the edition1967; three movements.
 
-[[Review 0291 - Pierre Lantier - Euskaldunak|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Billaudot, catalog no. MRB1109 · [grothmusic.com](https://www.grothmusic.com/p-37934.aspx)
@@ -37,9 +37,9 @@ Billaudot MRB1109: alto saxophone and piano sonata, 10:40, 32 pages, copyright19
 
 ### Research Review, October 11, 2026
 
-[[Review 0291 - Pierre Lantier - Euskaldunak|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Pierre Lantier - Euskaldunak.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Pierre Lantier - Euskaldunak.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0291.json).
+Catalog: [Pierre Lantier - Euskaldunak.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Pierre Lantier - Euskaldunak.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Billaudot MRB1109 is Pierre Lantier’s Euskaldunak, a sonata for saxophone and piano, copyright 1967, 32 pages, about 10:40. The publisher’s classification is alto-saxophone-and-piano. A secondary reference calls it a sonata, and WorldCat title metadata specifies alto saxophone and piano.
 

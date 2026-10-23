@@ -10,8 +10,10 @@ born: 1949
 died:
 wikidata: Q3170036
 photo: "/media/composers/jean-thierry-boisseau.jpg"
-photo-credit: classicalmusicnow.com
 photo-source: http://www.classicalmusicnow.com/images/jtb250.jpg
 aliases: []
 website: http://www.jean-thierryboisseau.com
 ---
+
+> [!caption]
+> Photo: [classicalmusicnow.com](http://www.classicalmusicnow.com/images/jtb250.jpg)

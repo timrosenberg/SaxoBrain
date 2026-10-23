@@ -22,10 +22,14 @@ tracks:
   - "Four-Letter Words: III. lazy · 3:06 · [[David Heinick]]"
   - "Four-Letter Words: IV. edgy · 3:22 · [[David Heinick]]"
   - "Gradient · 8:45 · [[Baljinder Sekhon - Gradient]]"
-  - "Disorderly Conduct: I - · 5:31"
-  - "Disorderly Conduct: II - · 4:47"
+  - "Disorderly Conduct: I - · 5:31 · Tim Sullivan"
+  - "Disorderly Conduct: II - · 4:47 · Tim Sullivan"
   - "...unsettled, unphased... · 9:43 · [[Gregory Wanamaker]]"
 year-released: "2018"
 cover: "/media/recordings/hybrid/cover.jpg"
 ---
+
+## Research notes (private)
+
+- Track composer credits verified against https://music.apple.com/us/album/1348879058.
 

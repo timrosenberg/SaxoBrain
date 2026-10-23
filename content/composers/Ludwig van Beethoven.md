@@ -10,7 +10,9 @@ born: 1770
 died: 1827
 wikidata: Q255
 photo: "/media/composers/ludwig-van-beethoven.jpg"
-photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Beethoven.jpg"
 aliases: []
 ---
+
+> [!caption]
+> Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Beethoven.jpg)

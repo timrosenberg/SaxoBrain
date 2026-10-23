@@ -32,7 +32,7 @@ library-score:
 
 Dorn DORN2009 is transcribed and edited by Marty Lenard for B-flat OR E-flat saxophone and piano. The opening melody matches Gaubert's Allegretto, second of Deux Pièces originally for oboe and piano, in the Sibley source scan. Sibley's scan is the original piano accompaniment used with Philippe Paquot's separate clarinet transcription; Paquot is not the saxophone arranger. 2017 on the Dorn page is copyright, not composition.
 
-[[Review 0286 - Philippe Gaubert - Allegretto|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Transcribed by Marty Lenard; publisher Dorn Publications, catalog no. DORN2009 · [grothmusic.com](https://www.grothmusic.com/p-141745.aspx)
@@ -41,9 +41,9 @@ Dorn DORN2009 is transcribed and edited by Marty Lenard for B-flat OR E-flat sax
 
 ### Research Review, October 11, 2026
 
-[[Review 0286 - Philippe Gaubert - Allegretto|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Philippe Gaubert - Allegretto.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Philippe Gaubert - Allegretto.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0286.json).
+Catalog: [Philippe Gaubert - Allegretto.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Philippe Gaubert - Allegretto.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Dorn DORN2009 identifies Philippe Gaubert’s Allegretto, transcribed by Marty Lenard for alto saxophone and piano. The work is a transcription, but the original instrument/work identity was not confirmed from an authoritative source in this pass.
 

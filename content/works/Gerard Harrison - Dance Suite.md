@@ -29,7 +29,7 @@ publisher:
 
 Harrison Dance Suite: exact Emerson edition inspected. About seven minutes in three movements. Slurred chromatic writing, meter changes, and contrasting slow and quick sections provide useful score evidence. Add Piano. Composition date and recording remain unknown.
 
-[[Review 0111 - Gerard Harrison - Dance Suite|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher June Emerson, catalog EE481; soprano sax (or clarinet) and piano · [grothmusic.com](https://www.grothmusic.com/p-37774.aspx)
@@ -38,7 +38,7 @@ Harrison Dance Suite: exact Emerson edition inspected. About seven minutes in th
 
 ### Research Review, October 11, 2026
 
-[[Review 0111 - Gerard Harrison - Dance Suite|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Gerard Harrison - Dance Suite]].
 

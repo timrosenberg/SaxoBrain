@@ -1,4 +1,4 @@
-{{- /* Display name for a year of study; matches the names in static/js/catalog.js. */ -}}
-{{- $m := dict "pre-college" "Pre-college" "first year" "First year" "second year" "Second year" "third year" "Third year" "fourth year" "Fourth year" "advanced" "Advanced" -}}
-{{- $k := lower (. | default "") -}}
-{{- return (index $m $k | default "Unassigned") -}}
+{{- /* Display name for a year of study; text lives in content/Site Text/Levels.md and is shared with the scripts. */ -}}
+{{- $k := lower (. | default "") | replaceRE "[ ]+" "-" -}}
+{{- if not (in (slice "pre-college" "first-year" "second-year" "third-year" "fourth-year" "advanced") $k) }}{{ $k = "unassigned" }}{{ end -}}
+{{- return (partial "t.html" (printf "level-%s" $k)) -}}

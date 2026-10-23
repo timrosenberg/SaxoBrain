@@ -27,7 +27,7 @@ aliases: []
 
 ### Research Review, October 11, 2026
 
-[[Review 0403 - Wolfgang Jacobi - Sonata|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Wolfgang Jacobi - Sonata]].
 

@@ -28,7 +28,7 @@ publisher:
 
 Sonatine/Sonatina for alto saxophone and piano, Leduc AL 23742; about 8 minutes; distinct from Deuxième Sonatine AL 23963. Specialist retailer identifies François Daneels dedication, Brussels Royal Conservatory competition context and three movements: Allegro vivo, Andante, Allegretto/Prestissimo. Antwerp lists 1966 publication; publisher description says 1968 publication. Neither proves composition date.
 
-[[Review 0307 - Pierre-Max DuBois - Sonatine|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Alphonse Leduc, catalog no. AL23742; page says published 1968; duration about 8 minutes; three movements; rated for advanced performers · [grothmusic.com](https://www.grothmusic.com/p-37696.aspx)
@@ -37,7 +37,7 @@ Sonatine/Sonatina for alto saxophone and piano, Leduc AL 23742; about 8 minutes;
 
 ### Research Review, October 11, 2026
 
-[[Review 0307 - Pierre-Max DuBois - Sonatine|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Pierre-Max DuBois - Sonatine]]
 

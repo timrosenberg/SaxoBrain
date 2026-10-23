@@ -33,7 +33,7 @@ arranger-edition:
 
 Moritz, Sonata No. 1, Op. 96: [Southern Music](https://keiserproductions.com/catalog/southern-music/?ic=&sc=&tc=&tid=88C526BC-7F74-4338-AF3B-E3397778AED5) describes a 27-minute four-movement work that alternates lyrical writing and technical flair, dedicated to Cecil Leeson. The [complete Leeson/Josef Wagner archival recording](https://www.youtube.com/watch?v=IjPCfMXpY9Y) is verified playable and identifies Allegro molto, Molto andante, Scherzo and Finale. An institutional 2021 recital documents use of Molto andante. Program sources disagree on 1938/1939, so composition year remains blank. The exact 56-page SS794 edition is confirmed, while notation and written range remain unavailable.
 
-[[Review 0083 - Edvard Moritz - Sonata No. 1, Op. 96|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Southern, catalog number SS794 · [grothmusic.com](https://www.grothmusic.com/p-37982.aspx)
@@ -43,7 +43,7 @@ Moritz, Sonata No. 1, Op. 96: [Southern Music](https://keiserproductions.com/cat
 
 ### Research Review, October 11, 2026
 
-[[Review 0083 - Edvard Moritz - Sonata No. 1, Op. 96|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Edvard Moritz - Sonata No. 1, Op. 96]]
 

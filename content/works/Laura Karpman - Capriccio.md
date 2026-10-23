@@ -29,7 +29,7 @@ publisher:
 
 Capriccio’s handwritten opening shows changing meters, chromatic gestures, abrupt dynamics and active piano writing. Its Duo Vivo dedication and 1982 Needham copyright are visible. Groth verifies Dorn DORN0176 for alto saxophone and piano. Complete range, actual composition date and an exact accessible recording remain unverified.
 
-[[Review 0228 - Laura Karpman - Capriccio|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Dorn DORN0176 · [grothmusic.com](https://www.grothmusic.com/p-145577.aspx)
@@ -38,7 +38,7 @@ Capriccio’s handwritten opening shows changing meters, chromatic gestures, abr
 
 ### Research Review, October 11, 2026
 
-[[Review 0228 - Laura Karpman - Capriccio|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Laura Karpman - Capriccio]]
 

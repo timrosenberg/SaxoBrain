@@ -29,7 +29,7 @@ publisher:
 
 ### Research Review, October 11, 2026
 
-[[Review 0252 - Mark-Anthony Turnage - Sarabande|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Mark-Anthony Turnage - Sarabande]].
 

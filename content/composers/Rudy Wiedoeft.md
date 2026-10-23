@@ -10,7 +10,9 @@ born: 1893
 died: 1940
 wikidata: Q358941
 photo: "/media/composers/rudy-wiedoeft.jpg"
-photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:RudyWiedoeftSax.jpg"
 aliases: []
 ---
+
+> [!caption]
+> Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:RudyWiedoeftSax.jpg)

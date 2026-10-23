@@ -1,0 +1,7 @@
+{{- if eq .Type "alert" -}}
+  {{- partial "content-block.html" . -}}
+{{- else -}}
+<blockquote>
+{{ .Text }}
+</blockquote>
+{{- end -}}

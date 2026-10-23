@@ -33,7 +33,7 @@ aliases:
 
 Tepper, Concertino: the composer dated the original oboe-and-strings work to summer 1946 in [his interview](https://www.bruceduffie.com/tepper.html); Southern’s soprano/piano adaptation was published in 1952. [Publisher](https://keiserproductions.com/catalog/southern-music/?ic=&sc=&tc=&tid=31FAE9B6-28C5-4C96-AE1B-4558F1010F1B) describes eight minutes of extended tonality across three connected movements, and South Alabama documents a university saxophone recital. No notation or saxophone recording was located.
 
-[[Review 0002 - Albert Tepper - Concertino|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Written summer 1946 for soprano sax and strings, adapted from Concertino for Oboe and Strings; three short linked movements played without pause · [hickeys.com](https://www.hickeys.com/music/woodwinds/sax/solos/soprano_with_piano/products/sku041598-tepper-albert-concertino.php)
@@ -43,7 +43,7 @@ Tepper, Concertino: the composer dated the original oboe-and-strings work to sum
 
 ### Research Review, October 11, 2026
 
-[[Review 0002 - Albert Tepper - Concertino|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Albert Tepper - Concertino]]
 

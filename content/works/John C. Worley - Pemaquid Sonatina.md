@@ -26,7 +26,7 @@ aliases: []
 
 Original alto/piano work dated 1989. The inspected opening is Poco Andante at quarter note 72–76, with slurred figures, dotted rhythms, sixteenth notes, triplets and chromatic changes over broken piano chords. The score is in concert pitch, so written alto range remains unknown. No exact recording was found.
 
-[[Review 0196 - John C. Worley - Pemaquid Sonatina|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Dorn Publications, catalog no. DORN0889 · [grothmusic.com](https://www.grothmusic.com/p-146144.aspx)
@@ -35,7 +35,7 @@ Original alto/piano work dated 1989. The inspected opening is Poco Andante at qu
 
 ### Research Review, October 11, 2026
 
-[[Review 0196 - John C. Worley - Pemaquid Sonatina|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[John C. Worley - Pemaquid Sonatina]].
 

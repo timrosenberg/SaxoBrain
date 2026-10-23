@@ -27,7 +27,7 @@ aliases: []
 
 A public notation sample now supports concrete assessment: Allegro moderato at about quarter note 160, a four-bar piano introduction, chromatic solo reading, triplets, short runs and carefully shaped dynamics. RE24009 is the alto-and-piano Sonatine; only its first movement opening was inspected.
 
-[[Review 0139 - Harald Genzmer - Sonatine|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Ries & Erler, catalog RE24009; three movements: Allegro, Andante tranquillo, Vivace · [grothmusic.com](https://www.grothmusic.com/p-144590.aspx)
@@ -36,9 +36,9 @@ A public notation sample now supports concrete assessment: Allegro moderato at a
 
 ### Research Review, October 11, 2026
 
-[[Review 0139 - Harald Genzmer - Sonatine|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Harald Genzmer - Sonatine.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Harald Genzmer - Sonatine.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0139.json).
+Catalog: [Harald Genzmer - Sonatine.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Harald Genzmer - Sonatine.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Harald Genzmer’s Sonatine for E-flat alto saxophone and piano is the 1982 work GeWV 247, Ries & Erler RE24009 (ISBN 9790013240098). Retailer listings confirm the matched item number and instrumentation; no score preview was found.
 

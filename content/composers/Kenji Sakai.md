@@ -10,8 +10,10 @@ born: 1977
 died: 
 wikidata: Q11644037
 photo: "/media/composers/kenji-sakai.jpg"
-photo-credit: "Philippe Stirnweiss"
 photo-source: "https://kenjisakai.net/image/Sakai_24_Philippe_Stirnweiss.jpg"
 aliases: []
 website: https://kenjisakai.net/
 ---
+
+> [!caption]
+> Photo: [Philippe Stirnweiss](https://kenjisakai.net/image/Sakai_24_Philippe_Stirnweiss.jpg)

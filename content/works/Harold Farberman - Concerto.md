@@ -37,14 +37,14 @@ arranger-edition:
 
 Concerto is originally for alto saxophone and string orchestra. General Music Publishing GEN 823 is a recital version with piano reduction. American Federation of Musicians Local 802 documents that Harvey Estrin recorded this concerto, which was written for him.
 
-[[Review 0141 - Harold Farberman - Concerto|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 ### Chat batch 10 follow-up, 2026-10-14
 
 GEN823 is freshly verified as Farberman's alto-and-piano Concerto. A 1967 review documents Harvey Estrin's string-orchestra recording and blues-inflected glissandos in the Largo. This supplies a concrete technique lead and establishes that 1984 is not the composition date. No score or public playback was inspected.
 
-[[Review 0141 - Harold Farberman - Concerto|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher General, catalog no. GEN823 · [grothmusic.com](https://www.grothmusic.com/p-37714.aspx)
@@ -53,9 +53,9 @@ GEN823 is freshly verified as Farberman's alto-and-piano Concerto. A 1967 review
 
 ### Research Review, October 11, 2026
 
-[[Review 0141 - Harold Farberman - Concerto|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Harold Farberman - Concerto.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Harold Farberman - Concerto.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0141.json).
+Catalog: [Harold Farberman - Concerto.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Harold Farberman - Concerto.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** The assignment identifies Harold Farberman’s Concerto, General Music Publishing catalog GEN823, for alto saxophone with piano reduction/orchestra. A copyright index lists an alto-saxophone-and-strings concerto with piano reduction by Farberman in an 1984 copyright record, but the relationship to GEN823 and its current edition was not confirmed.
 
@@ -111,4 +111,4 @@ Catalog: [Harold Farberman - Concerto.md](/Users/trosenberg/Documents/GitHub/Sax
 
 **Searches tried:** `Harold Farberman Concerto saxophone`; `Farberman concerto saxophone GEN823`; `Farberman Concerto Estrin`; `Farberman Concerto alto saxophone General Music 1965 score`; `Farberman Concerto YouTube saxophone`.
 
-[[Remaining Repertoire Research - 2026-10-16|Full research overview]]
+[[SaxoBrain - Review and Repair Record]]

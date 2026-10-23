@@ -10,7 +10,9 @@ born: 1700
 died: 1768
 wikidata: Q506792
 photo: "/media/composers/michel-blavet.jpg"
-photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Millot.jpg"
 aliases: []
 ---
+
+> [!caption]
+> Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Millot.jpg)

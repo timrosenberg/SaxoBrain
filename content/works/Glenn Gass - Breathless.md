@@ -26,7 +26,7 @@ aliases: []
 
 Breathless is securely identified as Gass’s alto/piano Dorn 166 work. No score or exact recording surfaced, so musical demands remain unknown and should not be inferred from its title.
 
-[[Review 0118 - Glenn Gass - Breathless|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Dorn Publications, catalog DORN0166 · [grothmusic.com](https://www.grothmusic.com/p-142660.aspx)
@@ -35,7 +35,7 @@ Breathless is securely identified as Gass’s alto/piano Dorn 166 work. No score
 
 ### Research Review, October 11, 2026
 
-[[Review 0118 - Glenn Gass - Breathless|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Glenn Gass - Breathless]].
 

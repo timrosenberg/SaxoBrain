@@ -2,29 +2,25 @@
 {{ $works := partial "works-by.html" . }}
 {{ $n := 0 }}{{ with $works }}{{ $n = len . }}{{ end }}
 {{ $life := partial "life.html" . }}
+{{ $body := partial "body-extract.html" (dict "html" (partial "body.html" .) "name" "caption") }}
 <article class="composer">
 <div class="composer-head">
 {{ with .Params.photo }}<figure class="portrait">
 <img src="{{ . | relURL }}" alt="{{ $.Title }}" width="160" height="200">
-{{- $credit := index $.Params "photo-credit" -}}
-{{- $src := index $.Params "photo-source" -}}
-{{- $link := and $src (hasPrefix $src "http") -}}
-{{- if or $credit $link }}
-<figcaption>Photo: {{ if $link }}<a href="{{ $src }}" rel="noopener">{{ $credit | default (replaceRE `^https?://(www\.)?([^/]+).*$` "$2" $src) }}</a>{{ else }}{{ $credit }}{{ end }}</figcaption>
-{{- end }}
+{{ with $body.content }}<figcaption>{{ . | safeHTML }}</figcaption>{{ end }}
 </figure>{{ end }}
 <div>
-<p class="eyebrow">Composer</p>
+<p class="eyebrow">{{ partial "t.html" "composer-eyebrow" }}</p>
 <h1>{{ .Title }}</h1>
 {{ $by := slice }}
 {{ with .Params.nationality }}{{ $by = $by | append (delimit . ", ") }}{{ end }}
 {{ with $life }}{{ $by = $by | append . }}{{ end }}
 {{ with $by }}<p class="byline">{{ delimit . " · " }}</p>{{ end }}
-{{ with .Params.website }}{{ if hasPrefix . "http" }}<p class="byline"><a href="{{ . }}" rel="noopener">Composer's website</a></p>{{ end }}{{ end }}
+{{ with .Params.website }}{{ if hasPrefix . "http" }}<p class="byline"><a href="{{ . }}" rel="noopener">{{ partial "t.html" "composer-website" }}</a></p>{{ end }}{{ end }}
 </div>
 </div>
-{{ with partial "body.html" . }}<div class="notes">{{ . }}</div>{{ end }}
-<h2>Works in SaxoBrain ({{ $n }})</h2>
+{{ with $body.body }}<div class="notes">{{ . | safeHTML }}</div>{{ end }}
+<h2>{{ replace (partial "t.html" "composer-works-heading") "{count}" (printf "%d" $n) }}</h2>
 {{ with $works }}
 <ul class="worklist">
 {{ range sort . "Title" }}

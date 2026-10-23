@@ -10,7 +10,9 @@ born: 1847
 died: 1902
 wikidata: Q513203
 photo: "/media/composers/august-friedrich-martin-klughardt.jpg"
-photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:August_Klughardt_by_August_Weger.jpg"
 aliases: []
 ---
+
+> [!caption]
+> Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:August_Klughardt_by_August_Weger.jpg)

@@ -30,7 +30,7 @@ publisher:
 
 Koch, Sonata: the [Swedish Music and Theatre Library](https://discover.musikverket.se/bib/2749695) separates the 1985 saxophone work from its 1987 viola arrangement. The Dorn edition is 12–13 minutes. [Mark Records](https://markcustom.com/Markcustom_new/Menu2_ViewAlbum.asp?CDNum=52257-MCD) documents Allegro moderato, Andante sostenuto and Molto vivace, performed by Ronald Caravan and Sar-Shalom Strong. Their [first movement](https://www.youtube.com/watch?v=l2obtSUxdyM) is verified playable. The old Sacramento recital citation names Monolog No. 4 and does not support this sonata. No notation or full written range was verified.
 
-[[Review 0088 - Erland von Koch - Sonata|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Catalog record: Sonata for alto saxophone and piano, altern. viola, Dorn Publications, 1987; date given as 1985/1987, the latter the viola arrangement · [discover.musikverket.se](https://discover.musikverket.se/bib/2749695)
@@ -39,7 +39,7 @@ Koch, Sonata: the [Swedish Music and Theatre Library](https://discover.musikverk
 
 ### Research Review, October 11, 2026
 
-[[Review 0088 - Erland von Koch - Sonata|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Erland von Koch - Sonata]]
 

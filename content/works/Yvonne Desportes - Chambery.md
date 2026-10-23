@@ -27,7 +27,7 @@ aliases: []
 
 Dorn 858 is a five-piece set for soprano saxophone or oboe and organ, with separate solo parts. Groth lists 60 pages. The cover titles are Chambéry, La Fontaine des Éléphants, Les Charmettes, Le Saint Suaire and La Sainte Chapelle. Several retailer transcriptions of those names are incorrect. The inspected edition bears a 1981 copyright. That is not confirmed as the composition date or the date of the saxophone version.
 
-[[Review 0407 - Yvonne Desportes - Chambery|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Dorn Publications, catalog no. DORN0858; soprano sax (or oboe) and organ; 60 pages; five movements: Chambery, La Fontina des Elephants, Les Charmettes, Le Gaint Guaire, La Gainte Chapelle · [grothmusic.com](https://www.grothmusic.com/p-142740.aspx)
@@ -36,7 +36,7 @@ Dorn 858 is a five-piece set for soprano saxophone or oboe and organ, with separ
 
 ### Research Review, October 11, 2026
 
-[[Review 0407 - Yvonne Desportes - Chambery|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Yvonne Desportes - Chambery]].
 

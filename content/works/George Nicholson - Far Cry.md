@@ -29,7 +29,7 @@ publisher:
 
 Nicholson Far Cry: publisher confirms 17 minutes. Nicholson says the piano begins as a passive resonator and gradually enters the musical argument, stimulating increasingly expansive saxophone writing. Written for Anthony Brown and Leo Nicholson. Composition is 2014 to 2015. Preview endpoint was found but notation could not be read.
 
-[[Review 0107 - George Nicholson - Far Cry|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Duration about 17 minutes; composed 2014-5, published 2016 by University of York Music Press · [uymp.co.uk](https://www.uymp.co.uk/publications/george-nicholson-far-cry)
@@ -39,7 +39,7 @@ Nicholson Far Cry: publisher confirms 17 minutes. Nicholson says the piano begin
 
 ### Research Review, October 11, 2026
 
-[[Review 0107 - George Nicholson - Far Cry|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[George Nicholson - Far Cry]].
 

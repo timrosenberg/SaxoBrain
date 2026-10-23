@@ -26,7 +26,7 @@ publisher:
 
 Alto saxophone and piano; three movements; six minutes; composer classifies Cycle 2/intermediate. Score copyright 2004 is publication evidence; composed year unknown.
 
-[[Review 0276 - Pascal Proust - Strophes|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Alphonse Leduc, catalog no. AL29593 · [grothmusic.com](https://www.grothmusic.com/p-148239.aspx)
@@ -35,9 +35,9 @@ Alto saxophone and piano; three movements; six minutes; composer classifies Cycl
 
 ### Research Review, October 11, 2026
 
-[[Review 0276 - Pascal Proust - Strophes|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Pascal Proust - Strophes.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Pascal Proust - Strophes.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0276.json).
+Catalog: [Pascal Proust - Strophes.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Pascal Proust - Strophes.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Pascal Proust’s Strophes is an alto saxophone and piano work, three movements, about six minutes, classified by the composer as Cycle 2/intermediate. The local listing carries Leduc AL29593. The composer’s site is the strongest evidence for duration and pedagogy.
 

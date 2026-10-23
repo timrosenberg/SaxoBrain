@@ -39,7 +39,7 @@ multi-instruments: "Soprano or tenor saxophone, or B-flat clarinet, with piano"
 
 Ulehla’s composer-authored adaptation retains a clarinet original and supplies a soprano part, with tenor optional and piano required. Publisher and LSU doctoral-study evidence identify free improvisation as integral. This legitimate transcription remains for judgment. Blocked previews leave notated range and techniques unknown; no exact recording or composition date is verified.
 
-[[Review 0237 - Ludmila Ulehla - Sonata For Improvisation|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Advance Music, grade listed as Advanced · [studio-music.co.uk](https://studio-music.co.uk/adv08310a)
@@ -51,7 +51,7 @@ Ulehla’s composer-authored adaptation retains a clarinet original and supplies
 
 ### Research Review, October 11, 2026
 
-[[Review 0237 - Ludmila Ulehla - Sonata For Improvisation|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Ludmila Ulehla - Sonata For Improvisation]]
 

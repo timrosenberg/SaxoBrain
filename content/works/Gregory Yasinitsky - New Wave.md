@@ -24,9 +24,9 @@ aliases: []
 
 ### Research Review, October 11, 2026
 
-[[Review 0127 - Gregory Yasinitsky - New Wave|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Gregory Yasinitsky - New Wave.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Gregory Yasinitsky - New Wave.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0127.json).
+Catalog: [Gregory Yasinitsky - New Wave.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Gregory Yasinitsky - New Wave.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Advance Music ADV7032 is a three-movement work for alto saxophone and piano: Black Light, Heavy Water and Slam Dance. The publisher-distributor description characterizes its jazz harmony and modal material. One page of the E-flat alto saxophone part for movement I, Black Light, was inspected; the piano part and later movements were not.
 

@@ -1,0 +1,3 @@
+{{- $name := index (split . "|") 0 | htmlUnescape -}}
+{{- $key := lower (replace (replace (replace $name "’" "'") "‘" "'") " " " ") -}}
+{{- return (index (partialCached "page-index.html" "all") $key) -}}

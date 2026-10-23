@@ -17,7 +17,7 @@ Perform two works in this order, within 20 minutes:
 2. One work from the following list:
 
 - *[[Roger Boutry - Divertimento|Divertimento]]* by [[Roger Boutry]] (Leduc).
-- *[[Alfred Desenclos - Prelude, Cadence et Finale|Prélude, cadence et finale]]* by [[Alfred Desenclos]] (Leduc).
+- *[[Alfred Desenclos - Prelude, cadence et finale|Prélude, cadence et finale]]* by [[Alfred Desenclos]] (Leduc).
 - *[[Claude Pascal - Sonatine|Sonatine]]* by [[Claude Pascal]] (Durand).
 - *[[Lucie Robert-Diessel - Cadenza|Cadenza]]* by [[Lucie Robert-Diessel|Lucie Robert]] (Billaudot).
 - *[[Pierre Sancan - Lamento et Rondo|Lamento et Rondo]]* by [[Pierre Sancan]] (Durand).

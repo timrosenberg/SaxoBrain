@@ -1,0 +1,5 @@
+{{- /* An explicit body component can occupy an existing layout position. */ -}}
+{{- $pattern := printf `(?s)<!--body-%s-->(.*?)<!--/body-%s-->` .name .name -}}
+{{- $content := "" -}}
+{{- range findRESubmatch $pattern .html }}{{ $content = printf "%s%s" $content (index . 1) }}{{ end -}}
+{{- return (dict "content" $content "body" (replaceRE $pattern "" .html)) -}}

@@ -39,7 +39,7 @@ Each candidate will present **3 works**:
 - *[[Florent Schmitt - Légende, Op. 66|Légende]]* by Florent Schmitt - Ed. Durand-Salabert-Eschig - Rue du Helder, 5 - F-75009 Paris - ventes.sales.durand-salabert-eschig@bmg.com
 - *[[Marilyn Shrude - Renewing the Myth|Renewing the Myth]]* by Marilyn Shrude - Ed. Lemoine.
 - *[[Paul Creston - Sonata|Sonate]] op. 19* by Paul Creston - Ed. Shawnee Press Inc. - P.O. Box 1250 - Jay Park Plaza - 9, Dartmouth Drive Bldg. 4 - Marshalls Creek, PA 18335 - shawnee-sales@shawneepress.com
-- *[[Alfred Desenclos - Prelude, Cadence et Finale|Prélude, Cadence et Finale]]* by Alfred Desenclos - Ed. Leduc.
+- *[[Alfred Desenclos - Prelude, cadence et finale|Prélude, Cadence et Finale]]* by Alfred Desenclos - Ed. Leduc.
 - *[[Paul Hindemith - Sonata|Sonate]]* by Paul Hindemith - Ed. Schott Muzik International GmbH & Co KG - Weihergarten, 5 - D-55116 Mainz - info@schott-muzik.de
 - **a personally selected work for solo saxophone**. No other external technical device will be permitted (sound tapes, amplification, other instruments, etc.).For this work, candidates may not include a work of their own composition.
 

@@ -27,7 +27,7 @@ publisher:
 
 Correct piano reduction is Henry Lemoine 25223, ISMN 9790230952231, 19 pages, in two parts: Prima Parte and Seconda Parte. The earlier ISMN 9790230931274 identifies orchestral score 25223A, not the piano reduction. The inspected reduction is copyrighted 1992. Stretta also gives 1992 as the release year. Neither establishes the composition date.
 
-[[Review 0404 - Yasuhide Ito - Concerto|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Henry Lemoine publishes a 'Concerto' for alto saxophone and orchestra by Yasuhide Ito, level listed as Advanced, duration about 12 minutes (ISBN 9790230931274); the catalog lists piano, so this may be the piano reduction · [blog.musicroom.com](https://blog.musicroom.com/en/product/concerto-19474477.html)
@@ -36,7 +36,7 @@ Correct piano reduction is Henry Lemoine 25223, ISMN 9790230952231, 19 pages, in
 
 ### Research Review, October 11, 2026
 
-[[Review 0404 - Yasuhide Ito - Concerto|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Yasuhide Ito - Concerto]].
 

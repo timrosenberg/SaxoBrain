@@ -28,7 +28,7 @@ aliases: []
 
 ### Research Review, October 11, 2026
 
-[[Review 0122 - Gordan Tudor - Quarter Tone Waltz|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Gordan Tudor - Quarter Tone Waltz]].
 

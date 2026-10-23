@@ -34,14 +34,14 @@ library-score:
 
 Linéal for alto saxophone and piano is Leduc AL 24400, score plus part. Publisher cover identifies Concours du Conservatoire National Supérieur de Musique. Official FAMES curriculum lists Linéal in seventh and eighth periods of bachelor saxophone, PDF pages 34-35. CDMC exact holding lists publication 1970 and Année 9; neither is a composition-date claim.
 
-[[Review 0188 - Jean-Paul Rieunier - Lineal|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 ### Chat batch 12 follow-up, 2026-10-14
 
 Linéal, Leduc AL24400: conservatory competition provenance and bachelor curriculum use verified, with a dedication to Daniel Daffayet. No readable notation or exact recording was found. The 1970 publication date does not establish composition year. Technical demands remain unknown.
 
-[[Review 0188 - Jean-Paul Rieunier - Lineal|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Alphonse Leduc, catalog no. AL24400 · [grothmusic.com](https://www.grothmusic.com/p-141693.aspx)
@@ -51,7 +51,7 @@ Linéal, Leduc AL24400: conservatory competition provenance and bachelor curricu
 
 ### Research Review, October 11, 2026
 
-[[Review 0188 - Jean-Paul Rieunier - Lineal|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Jean-Paul Rieunier - Lineal]].
 

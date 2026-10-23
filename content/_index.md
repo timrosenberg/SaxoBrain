@@ -2,6 +2,9 @@
 title: "SaxoBrain"
 # Retired work URLs redirect to the repertoire catalog.
 aliases:
+  - "/works/johann-sebastian-bach-andante-from-italian-concerto/"
+  - "/works/johann-sebastian-bach-bouree/"
+  - "/works/larry-austin-tarogato/"
   - "/works/david-baker-the-jazz-style-of-cannonball-adderly/"
   - "/works/modest-mussorgsky-il-vecchio-castello/"
   - "/works/claude-debussy-claire-de-lune-reverie/"
@@ -399,3 +402,17 @@ aliases:
   - "/works/warren-gooch-soliloquy/"
   - "/works/warren-gooch-sonata/"
 ---
+
+> [!starts] Start here
+>
+> > [!start] [Curriculum](/curriculum/)
+> > ### Follow the curriculum
+> > Suggested études, repertoire, and listening for each level of university student.
+>
+> > [!start] [Lists](/lists/competitions/)
+> > ### Competition lists
+> > Major saxophone competition repertoire lists preserved and crosslinked.
+>
+> > [!start] [Recordings](/recordings/)
+> > ### Albums to know
+> > Classical saxophone recordings with streaming links and works crosslinked.

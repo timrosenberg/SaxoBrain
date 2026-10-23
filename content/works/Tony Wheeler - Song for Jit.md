@@ -31,7 +31,7 @@ publisher:
 
 Song for Jit, subtitled Kandy Sonatina, is an original alto and piano work composed 2013 and published by Wirripang in June 2014. Publisher describes a roughly 5:50 work inspired by Kandy, Sri Lanka. Publisher offers a free audio sample; performer names and whether it is complete are not specified.
 
-[[Review 0373 - Tony Wheeler - Song for Jit|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Duration 5:50; Wirripang edition, 13-page score plus part · [australianmusiccentre.com.au](https://www.australianmusiccentre.com.au/product/song-for-jit-for-alto-saxophone-and-piano)
@@ -41,9 +41,9 @@ Song for Jit, subtitled Kandy Sonatina, is an original alto and piano work compo
 
 ### Research Review, October 11, 2026
 
-[[Review 0373 - Tony Wheeler - Song for Jit|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Tony Wheeler - Song for Jit.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Tony Wheeler - Song for Jit.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0373.json).
+Catalog: [Tony Wheeler - Song for Jit.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Tony Wheeler - Song for Jit.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Tony Wheeler’s Song for Jit is an alto saxophone and piano work listed by the Australian Music Centre at about 5:50 and 13 pages plus part. AMC’s program note links its Sri Lankan inspiration with bebop, blues and Baroque elements; exact notation and intended audience remain unverified.
 

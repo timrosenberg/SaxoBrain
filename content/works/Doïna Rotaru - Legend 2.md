@@ -25,7 +25,7 @@ publisher:
 
 Legend II is contemporary solo soprano repertoire with an exact public Salamanca graduation-recital recording by Antonio García Jorge. Browser playback works and shows a straight saxophone. The composition is dated 1996; the Lemoine edition copyright is 1998. Zagalaz’s thesis reports quarter tones, multiphonics, flutter tongue, glissandos and circular-breathing passages. That analysis supplies demands without pretending to inspect the score. The oboe/soprano origin chronology and complete written range remain open.
 
-[[Review 0080 - Doïna Rotaru - Legend 2|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Published by Lemoine, listed for soprano saxophone solo or oboe · [boosey.com](https://www.boosey.com/shop/prod/Rotaru-Doina-Legend-II-soprano-saxophone-solo-or-oboe-score/2172084)
@@ -34,7 +34,7 @@ Legend II is contemporary solo soprano repertoire with an exact public Salamanca
 
 ### Research Review, October 11, 2026
 
-[[Review 0080 - Doïna Rotaru - Legend 2|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Doïna Rotaru - Legend 2]]
 

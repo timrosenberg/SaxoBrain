@@ -27,7 +27,7 @@ aliases: []
 
 Original alto/piano sonata dated 1980. Its inspected Allegro amabile opening at quarter note about 104 has slurred eighth notes, chromatic changes, register shifts and sixteenth-note runs against offbeat piano figures. The score is in concert pitch. Recordings of Worley’s different 1975 Sonata were excluded.
 
-[[Review 0198 - John C. Worley - Second Sonata|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Dorn Publications, catalog no. DORN0969 · [grothmusic.com](https://www.grothmusic.com/p-146145.aspx)
@@ -37,7 +37,7 @@ Original alto/piano sonata dated 1980. Its inspected Allegro amabile opening at 
 
 ### Research Review, October 11, 2026
 
-[[Review 0198 - John C. Worley - Second Sonata|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[John C. Worley - Second Sonata]].
 

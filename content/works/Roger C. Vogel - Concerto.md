@@ -30,7 +30,7 @@ aliases: []
 
 Primary composer work page confirms composition year 1991. Composer-linked YouTube title and channel independently verified through public oEmbed.
 
-[[Review 0339 - Roger C. Vogel - Concerto|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Dorn Publications, catalog no. DORN0201 · [grothmusic.com](https://www.grothmusic.com/p-146138.aspx)
@@ -40,7 +40,7 @@ Primary composer work page confirms composition year 1991. Composer-linked YouTu
 
 ### Research Review, October 11, 2026
 
-[[Review 0339 - Roger C. Vogel - Concerto|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Roger C. Vogel - Concerto]].
 

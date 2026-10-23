@@ -11,7 +11,9 @@ born: 1973
 died: 
 wikidata: Q3193534
 photo: "/media/composers/karol-beffa.jpg"
-photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Karol_Beffa.jpg"
 aliases: []
 ---
+
+> [!caption]
+> Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Karol_Beffa.jpg)

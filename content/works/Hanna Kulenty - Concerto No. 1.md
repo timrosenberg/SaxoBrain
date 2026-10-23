@@ -30,9 +30,9 @@ aliases: []
 
 ### Research Review, October 11, 2026
 
-[[Review 0134 - Hanna Kulenty - Concerto No. 1|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Hanna Kulenty - Concerto No. 1.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Hanna Kulenty - Concerto No. 1.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0134.json).
+Catalog: [Hanna Kulenty - Concerto No. 1.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Hanna Kulenty - Concerto No. 1.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Donemus identifies Hanna Kulenty's Saxophone Concerto No. 1 for alto saxophone and symphony orchestra, composed in 2015 and lasting about 22 minutes. The publisher provides a 52-page watermark preview from a 108-page score; four opening pages were inspected; the opening score pages identify the score as concert pitch and say the solo saxophone is amplified with delay.
 

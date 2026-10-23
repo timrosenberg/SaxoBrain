@@ -28,7 +28,7 @@ publisher:
 
 Dorn item 162 is confirmed for alto and piano. ACA identifies a single expressive/athletic movement written for David Pituch using Fennelly’s own orchestral themes. ACA’s archival request and NYPL box 1221 provide score-access leads; no notation or recording was verified, and original composition date remains unresolved.
 
-[[Review 0029 - Brian Fennelly - Corollary II|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher and catalog no.: Dorn Publications DORN0162 · [grothmusic.com](https://www.grothmusic.com/p-140140.aspx)
@@ -38,7 +38,7 @@ Dorn item 162 is confirmed for alto and piano. ACA identifies a single expressiv
 
 ### Research Review, October 11, 2026
 
-[[Review 0029 - Brian Fennelly - Corollary II|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Brian Fennelly - Corollary II]].
 

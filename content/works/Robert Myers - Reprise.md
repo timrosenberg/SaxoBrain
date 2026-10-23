@@ -24,7 +24,7 @@ aliases: []
 
 ### Research Review, October 11, 2026
 
-[[Review 0326 - Robert Myers - Reprise|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Robert Myers - Reprise]].
 

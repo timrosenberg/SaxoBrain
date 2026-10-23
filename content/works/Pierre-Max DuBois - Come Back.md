@@ -25,7 +25,7 @@ publisher:
 
 Duo concertant for alto saxophone and piano; Billaudot GB 4637; about 16 minutes. Guide describes linked Lent et récité/animated 6/8/free solo, then Prestement 2/4 and Vivo requiring agility. Guide dates 1992; library catalog explicitly calls 1992 publication year, so composition date is not newly asserted.
 
-[[Review 0302 - Pierre-Max DuBois - Come Back|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Wikipedia work list: Come back, for alto sax and piano (1992) · [en.wikipedia.org](https://en.wikipedia.org/wiki/Pierre_Max_Dubois)
@@ -34,7 +34,7 @@ Duo concertant for alto saxophone and piano; Billaudot GB 4637; about 16 minutes
 
 ### Research Review, October 11, 2026
 
-[[Review 0302 - Pierre-Max DuBois - Come Back|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Pierre-Max DuBois - Come Back]]
 

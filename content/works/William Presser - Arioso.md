@@ -30,7 +30,7 @@ publisher:
 
 Tenuto T256/494-00600, soprano saxophone or clarinet and piano; Groth lists five pages. Contemporary 1985 Clarinet review indexes creation 1980 and publication 1984. An opened transcription of US registration PA0000212332 independently confirms creation 1980 and publication May 21, 1984. Cover confirms required piano; current catalog lists soprano alone.
 
-[[Review 0397 - William Presser - Arioso|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Soprano saxophone (or clarinet) and piano, published by Tritone Press & Tenuto Publications (CF 494-00600) · [performersmusicchicago.com](https://performersmusicchicago.com/arioso-presser-cf-494-00600)
@@ -39,7 +39,7 @@ Tenuto T256/494-00600, soprano saxophone or clarinet and piano; Groth lists five
 
 ### Research Review, October 11, 2026
 
-[[Review 0397 - William Presser - Arioso|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[William Presser - Arioso]]
 
@@ -74,4 +74,4 @@ Catalog: [[William Presser - Arioso]]
 
 **Searches tried:** `William Presser Arioso soprano`; `William Presser Arioso 494-00600 score`; `Presser Arioso soprano recording`.
 
-[[Remaining Repertoire Research - 2026-10-16|Full research overview]]
+[[SaxoBrain - Review and Repair Record]]

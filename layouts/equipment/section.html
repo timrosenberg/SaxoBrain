@@ -1,0 +1,8 @@
+{{ define "main" }}
+<article class="equipment-page">
+  {{ if eq .Parent.Type "equipment" }}{{ partial "equipment/return.html" (dict "top" true) }}{{ end }}
+  <h1>{{ .Title }}</h1>
+  {{ partial "equipment/reference.html" . }}
+  {{ if eq .Parent.Type "equipment" }}{{ partial "equipment/return.html" (dict "top" false) }}{{ end }}
+</article>
+{{ end }}

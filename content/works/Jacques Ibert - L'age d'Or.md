@@ -29,7 +29,7 @@ aliases: []
 
 Ibert L’Âge d’or: AL21654 alto/piano publication 1956 confirmed. Two short orchestral saxophone crops show sustained slurs and flowing sixteenths, with exact piano-score limits stated. Wonki Lee/Esther Lim 4:52 recording verified. Original-date 1931 versus parent 1935/1936 conflict leaves composed blank.
 
-[[Review 0158 - Jacques Ibert - L'age d'Or|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Alphonse Leduc, catalog no. AL21654 · [grothmusic.com](https://www.grothmusic.com/p-37788.aspx)
@@ -39,7 +39,7 @@ Ibert L’Âge d’or: AL21654 alto/piano publication 1956 confirmed. Two short 
 
 ### Research Review, October 11, 2026
 
-[[Review 0158 - Jacques Ibert - L'age d'Or|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Jacques Ibert - L'age d'Or]]
 

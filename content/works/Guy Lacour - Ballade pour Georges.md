@@ -28,7 +28,7 @@ arranger-edition:
 
 Ballade pour Georges: exact GB6014 piano reduction now verified by Billaudot, 48 pages, Daniel Gremelle collection, Difficult (cycle 3). CMF documents a cut version in its 1997 end-of-third-cycle list. No notation or exact recording verified; 1994 remains provisional.
 
-[[Review 0129 - Guy Lacour - Ballade pour Georges|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Billaudot, catalog GB6014 · [grothmusic.com](https://www.grothmusic.com/p-147507.aspx)
@@ -37,9 +37,9 @@ Ballade pour Georges: exact GB6014 piano reduction now verified by Billaudot, 48
 
 ### Research Review, October 11, 2026
 
-[[Review 0129 - Guy Lacour - Ballade pour Georges|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Guy Lacour - Ballade pour Georges.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Guy Lacour - Ballade pour Georges.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0129.json).
+Catalog: [Guy Lacour - Ballade pour Georges.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Guy Lacour - Ballade pour Georges.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Billaudot distinguishes Ballade pour Georges for alto saxophone and piano (GB6014) from the orchestral/string version (GB6013). The specific details found for the piano reduction came from an uploaded scan of a Lacour catalog and remain provisional until checked against the publisher edition.
 

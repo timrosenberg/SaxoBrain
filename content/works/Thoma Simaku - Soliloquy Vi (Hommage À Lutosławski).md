@@ -30,7 +30,7 @@ publisher:
 
 Unaccompanied soprano work performed by Anders Paulsson in the Solitary Poems project; recording available in Uppsala Cathedral. University of York Music Press edition YKM 570369928 is four pages, published 2022. Date conflict:2019 Tempo scholarship identifies Soliloquy VI as 2013, while the composer’s 2024 account describes the resulting piece as written for the pandemic project. Existing 2013 is preserved pending clarification.
 
-[[Review 0369 - Thoma Simaku - Soliloquy Vi (Hommage À Lutosławski)|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Written for Anders Paulsson as part of the Solitary Poems soprano saxophone project; premiered 20 Nov 2021, Kungsholm Church, Stockholm · [uymp.co.uk](https://www.uymp.co.uk/news/2023-11-04-simakus-soliloquy-vi-released-on-bis)
@@ -41,9 +41,9 @@ Unaccompanied soprano work performed by Anders Paulsson in the Solitary Poems pr
 
 ### Research Review, October 11, 2026
 
-[[Review 0369 - Thoma Simaku - Soliloquy Vi (Hommage À Lutosławski)|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Thoma Simaku - Soliloquy Vi (Hommage À Lutosławski).md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Thoma Simaku - Soliloquy Vi (Hommage À Lutosławski).md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0369.json).
+Catalog: [Thoma Simaku - Soliloquy Vi (Hommage À Lutosławski).md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Thoma Simaku - Soliloquy Vi (Hommage À Lutosławski).md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Thomas Simaku's Soliloquy VI: Hommage à Lutosławski (2013) is an unaccompanied soprano saxophone work written for Anders Paulsson and premiered in 2021 as part of Solitary Poems.
 

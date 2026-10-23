@@ -10,7 +10,9 @@ born: 1841
 died: 1904
 wikidata: Q7298
 photo: "/media/composers/antonin-dvorak.jpg"
-photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Dvorak.jpg"
 aliases: []
 ---
+
+> [!caption]
+> Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dvorak.jpg)

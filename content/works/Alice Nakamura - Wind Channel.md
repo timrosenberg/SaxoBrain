@@ -33,7 +33,7 @@ aliases: []
 
 ### Research Review, October 11, 2026
 
-[[Review 0003 - Alice Nakamura - Wind Channel|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Alice Nakamura - Wind Channel]]
 

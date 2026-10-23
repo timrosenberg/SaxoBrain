@@ -10,7 +10,9 @@ born: 1952
 died:
 wikidata:
 photo: "/media/composers/sonny-burnette.jpg"
-photo-credit:
 photo-source: https://ummpstore.com/cdn/shop/collections/Burnette_Sonny.jpg?v=1608570160
 aliases: []
 ---
+
+> [!caption]
+> Photo: [ummpstore.com](https://ummpstore.com/cdn/shop/collections/Burnette_Sonny.jpg?v=1608570160)

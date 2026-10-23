@@ -32,7 +32,7 @@ arranger-edition:
 
 Rumania (1979) is Heath’s own saxophone adaptation of a violin/flute and piano work. His program note calls for episodic contrasts, rhythmic freedom in slow sections, and precise sustaining/blurred piano pedalling. The composer’s Harle/Lenehan soprano recording is verified. Trinity’s 2026 list accepts soprano or tenor. No sax notation was inspected, and the detailed dissertation remains inaccessible. [Program note](https://www.wisemusicclassical.com/work/820/Rumania--David-Heath/) · [Listen](https://www.youtube.com/watch?v=_BsiCZY4X1I) · [Trinity p.3](https://www.trinitycollege.com/resource?id=8548).
 
-[[Review 0066 - David Heath - Rumania|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Subject of a performer's guide dissertation (Lindsey Nicole O'Connor, Univ. of Nebraska-Lincoln) with Out of the Cool and Coltrane · [digitalcommons.unl.edu](https://digitalcommons.unl.edu/dissertations/AAI28086446)
@@ -41,9 +41,9 @@ Rumania (1979) is Heath’s own saxophone adaptation of a violin/flute and piano
 
 ### Research Review, October 11, 2026
 
-[[Review 0066 - David Heath - Rumania|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [David Heath - Rumania.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/David Heath - Rumania.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0066.json).
+Catalog: [David Heath - Rumania.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/David Heath - Rumania.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Rumania (1979) is one of three early jazz-inspired works composed or arranged for saxophone by David Heath; a 2020 DMA dissertation provides a performer’s guide and analysis to Rumania alongside Out of the Cool and Coltrane. A contemporary 1988 review describes the work as one movement with contrasting lyrical/rhapsodic and quicker jazz-influenced sections and notes a soprano-sax part was separately available. The original David Heath work is for violin and piano; the saxophone edition is an arrangement, so distinguish the exact sax version from later retailer listings.
 

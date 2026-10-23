@@ -30,7 +30,7 @@ aliases: []
 
 A Portrait of Silence is a 2011 chamber work requiring alto saxophone, percussion and piano. The percussionist’s public premiere upload authenticates Trio ZOOM and its performers. Dacapo also documents an Ekkozone recording. No notation was readable, so percussion setup, saxophone techniques and ensemble demands remain unknown.
 
-[[Review 0216 - Karsten Fundal - A Portrait of Silence|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Score and parts for alto saxophone, percussion and piano, release year 2011, 36 pages, written with support from the Danish Arts Council (publication year, not stated as composition year) · [stretta-music.fi](https://www.stretta-music.fi/fundal-a-portrait-of-silence-nr-837298.html)
@@ -39,9 +39,9 @@ A Portrait of Silence is a 2011 chamber work requiring alto saxophone, percussio
 
 ### Research Review, October 11, 2026
 
-[[Review 0216 - Karsten Fundal - A Portrait of Silence|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Karsten Fundal - A Portrait of Silence.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Karsten Fundal - A Portrait of Silence.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0216.json).
+Catalog: [Karsten Fundal - A Portrait of Silence.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Karsten Fundal - A Portrait of Silence.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Karsten Fundal’s A Portrait of Silence is a 2011 trio for alto saxophone, piano and percussion. Dacapo’s record for Ekkozone documents a professional 11:13 recording; publisher-distributor details give WH31416 and 36 pages. The Danish Composers’ Society database confirms instrumentation and date.
 

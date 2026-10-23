@@ -10,13 +10,17 @@ apple-music: "https://music.apple.com/us/album/1517756296"
 amazon-music: "https://music.amazon.com/albums/B08BLS8DM5"
 tidal: "https://listen.tidal.com/album/144693100"
 tracks:
-  - "Albumblatt II · 4:33"
-  - "Dismantle · 7:47"
-  - "Vaisseau fantôme · 6:30"
+  - "Albumblatt II · 4:33 · Hans Thomalla"
+  - "Dismantle · 7:47 · Craig Davis Pinson"
+  - "Vaisseau fantôme · 6:30 · Niki Harlafti"
   - "Intercepting a Shivery Light · 12:13 · [[Marcos Balter]]"
-  - "Apertures · 8:18"
-  - "Consort for Four Detuned Soprano Saxophones · 8:02"
+  - "Apertures · 8:18 · Mathew Arrellin"
+  - "Consort for Four Detuned Soprano Saxophones · 8:02 · David Reminick"
 year-released: "2020"
 cover: "/media/recordings/is-this-nois/cover.jpg"
 ---
+
+## Research notes (private)
+
+- Track composer credits verified against https://noissaxophone.bandcamp.com/album/is-this-nois-2.
 

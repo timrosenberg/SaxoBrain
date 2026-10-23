@@ -3,7 +3,7 @@
 
 Sources, in order, for composers whose `photo:` field is empty:
   1. the photo Tim set on the composer's Notion page (page icon, else the first image in the page);
-  2. the Wikidata portrait (P18) from Wikimedia Commons, with the photographer and license as `photo-credit`.
+  2. the Wikidata portrait (P18) from Wikimedia Commons, with the photographer and license in a body caption.
 A photo given by hand wins over both:  --add "Composer File Name" URL [--credit "Text"]
 --pending downloads photos Tim set up in Obsidian: `photo-source` holds an image address but `photo` is empty.
 
@@ -19,7 +19,7 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 OUT = ROOT / "static/media/composers"
 UA = "SaxoBrain composer photos (https://github.com/timrosenberg/SaxoBrain)"
-FIELDS = ("photo", "photo-credit", "photo-source")
+FIELDS = ("photo", "photo-source")
 
 
 def front(path):
@@ -43,14 +43,31 @@ def ensure_fields(path):
         path.write_text(fm + s[end:])
 
 
+def has_caption(path):
+    return bool(re.search(r"^> \[!caption\]", path.read_text().split("\n---", 1)[1], re.M | re.I))
+
+
 def set_fields(path, values):
+    """Update image metadata; preserve editorial captions already written in the body."""
+    values = dict(values)
+    credit = values.pop("photo-credit", None)
+    if credit is None:
+        credit = field(path, "photo-credit") or ""
+    source = values.get("photo-source", field(path, "photo-source") or "")
     s, end = front(path)
     fm = s[:end]
+    fm = re.sub(r"^photo-credit:[^\n]*\n?", "", fm, flags=re.M).rstrip()
     for k, v in values.items():
         v = json.dumps(v, ensure_ascii=False) if isinstance(v, str) else v
         fm, n = re.subn(rf"^{k}:[ \t]*.*$", lambda m: f"{k}: {v}", fm, count=1, flags=re.M)
         assert n == 1, (path, k)
-    path.write_text(fm + s[end:])
+    body = s[end:]
+    if not has_caption(path) and (credit or source.startswith("http")):
+        label = credit or urllib.parse.urlparse(source).netloc.removeprefix("www.")
+        label = re.sub(r"([\\\[\]*_`])", r"\\\1", label)
+        link = f"[{label}]({source.replace(' ', '%20')})" if source.startswith("http") else label
+        body = "\n---\n\n> [!caption]\n> Photo: " + link + "\n\n" + body.removeprefix("\n---").lstrip()
+    path.write_text(fm + body)
 
 
 def download(url, slug):
@@ -152,7 +169,7 @@ def credit_commons(files):
     done = 0
     for name, f in sorted(files.items()):
         src = field(f, "photo-source") or ""
-        if field(f, "photo-credit") or "upload.wikimedia.org" not in src:
+        if has_caption(f) or field(f, "photo-credit") or "upload.wikimedia.org" not in src:
             continue
         parts = urllib.parse.unquote(urllib.parse.urlparse(src).path).split("/")
         fname = parts[-2] if "/thumb/" in src else parts[-1]

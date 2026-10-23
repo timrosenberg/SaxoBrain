@@ -33,7 +33,7 @@ arranger-edition: "2011 soprano saxophone and piano arrangement"
 
 ### Research Review, October 11, 2026
 
-[[Review 0259 - Matthew Hindson - Repetepetition|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Matthew Hindson - Repetepetition]].
 

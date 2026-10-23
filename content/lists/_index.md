@@ -1,5 +1,6 @@
 ---
 title: "Lists"
+list-children: false
 aliases:
   - /lists/colleges/
   - /lists/colleges/ithaca-college-selected-repertoire-mauk/
@@ -13,3 +14,13 @@ aliases:
 ---
 
 Competition repertoire lists and a jazz listening list.
+
+> [!topics]
+>
+> > [!topic] [Competition Repertoire Lists](/lists/competitions/)
+> >
+> > Explore repertoire from saxophone competitions, organized by event and year.
+>
+> > [!topic] [Jazz Saxophone Listening List](/lists/jazz-saxophone-listening-list/)
+> >
+> > Twenty albums for saxophone students, from first listens to more adventurous sounds.

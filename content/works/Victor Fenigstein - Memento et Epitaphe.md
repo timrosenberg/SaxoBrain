@@ -26,7 +26,7 @@ publisher:
 
 Alto/piano work composed 1981, distinct from Fenigstein’s 1992 piano-four-hands work with the same title. The inspected Kunzelmann GM 998 score is dedicated to Jeanine Kies and Oto Vrhovnik, with copyright 1982. The publisher’s later Simrock EE 5400 catalog dates it 1981 and rates it intermediate to advanced. Boosey lists a 1999 recording by Vrhovnik/Kies, but no stream was verified.
 
-[[Review 0376 - Victor Fenigstein - Memento et Epitaphe|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Kunzelmann, catalog no. GM998; dedicated to Jeanine Kies and Oto Vrhovnik; two movements, I. Memento le 12.IX.1977 a Pretoria, II. Epitaphe pour tous les St. B.; 17 pages · [grothmusic.com](https://www.grothmusic.com/p-144483.aspx)
@@ -35,7 +35,7 @@ Alto/piano work composed 1981, distinct from Fenigstein’s 1992 piano-four-hand
 
 ### Research Review, October 11, 2026
 
-[[Review 0376 - Victor Fenigstein - Memento et Epitaphe|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Victor Fenigstein - Memento et Epitaphe]]
 

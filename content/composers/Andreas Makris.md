@@ -11,7 +11,9 @@ born: 1930
 died: 2005
 wikidata: Q1151059
 photo: "/media/composers/andreas-makris.jpg"
-photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Andreas_Makris.jpg"
 aliases: []
 ---
+
+> [!caption]
+> Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Andreas_Makris.jpg)

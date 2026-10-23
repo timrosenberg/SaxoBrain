@@ -26,7 +26,7 @@ publisher:
 
 Dorn 1298 is dedicated to saxophonist Roy Allen. Hansen’s official biography lists the work under Dorn with date 2003, but separately documents a Roy Allen/Wesley Beal performance in March 2002. The score copyright is 2003. Composition date remains unresolved.
 
-[[Review 0366 - Ted Hansen - Chanson|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Dorn Publications, catalog no. DORN1298; 23 pages; dedicated to Roy Allen · [grothmusic.com](https://www.grothmusic.com/p-143132.aspx)
@@ -35,9 +35,9 @@ Dorn 1298 is dedicated to saxophonist Roy Allen. Hansen’s official biography l
 
 ### Research Review, October 11, 2026
 
-[[Review 0366 - Ted Hansen - Chanson|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Ted Hansen - Chanson.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Ted Hansen - Chanson.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0366.json).
+Catalog: [Ted Hansen - Chanson.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Ted Hansen - Chanson.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Ted Hansen's Chanson is listed by retailer as a 2003 Dorn Publications work for alto saxophone and piano, DORN1298, dedicated to Roy Allen.
 

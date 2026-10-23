@@ -1,17 +1,17 @@
 ---
-title: "Denes Agay"
+title: Denes Agay
 slug: denes-agay
 nationality:
-  - "🇭🇺 Hungarian"
-  - "🇺🇸 American"
-gender: "Male"
+  - 🇭🇺 Hungarian
+  - 🇺🇸 American
+gender: Male
 race:
-  - "White"
+  - White
 born: 1911
 died: 2007
 wikidata: Q459699
-photo: 
-photo-credit: 
-photo-source: 
+photo:
+photo-credit:
+photo-source: https://alchetron.com/Denes-Agay
 aliases: []
 ---

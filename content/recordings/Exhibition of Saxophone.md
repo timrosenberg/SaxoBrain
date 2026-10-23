@@ -1,7 +1,7 @@
 ---
-title: "Exhibition of Saxophone"
+title: Exhibition of Saxophone
 slug: exhibition-of-saxophone
-saxophonists: "Nobuya Sugawa"
+saxophonists: Nobuya Sugawa
 works:
   - "[[George Gershwin - Rhapsody in Blue]]"
   - "[[Modest Mussorgsky - Pictures at an Exhibition]]"
@@ -10,7 +10,7 @@ works:
   - "[[Denis Bédard - Fantasie]]"
   - "[[Edison Denisov - Sonata]]"
   - "[[Jeanine Rueff - Sonate]]"
-  - "[[Alfred Desenclos - Prelude, Cadence et Finale]]"
+  - "[[Alfred Desenclos - Prelude, cadence et finale]]"
   - "[[Paul Creston - Sonata]]"
   - "[[Frank Martin - Ballade (Alto)]]"
   - "[[Bernhard Heiden - Sonata]]"
@@ -21,14 +21,14 @@ works:
   - "[[Darius Milhaud - Scaramouche]]"
   - "[[André Jolivet - Fantasie—Impromptu]]"
   - "[[Jean-Michel Damase - Vacances]]"
-streaming: "https://album.link/i/1493753584"
-youtube: "https://www.youtube.com/playlist?list=OLAK5uy_kdK2YG_3pVr5GBdrl3Hh1xlT1VzKp9lnQ"
-spotify: "https://open.spotify.com/album/6zh6vPrFrmAdQKMKDcNg11"
-apple-music: "https://music.apple.com/us/album/1493753584"
-amazon-music: "https://music.amazon.com/albums/B083CQ5BQT"
-tidal: "https://listen.tidal.com/album/126972866"
+streaming: https://album.link/i/1493753584
+youtube: https://www.youtube.com/playlist?list=OLAK5uy_kdK2YG_3pVr5GBdrl3Hh1xlT1VzKp9lnQ
+spotify: https://open.spotify.com/album/6zh6vPrFrmAdQKMKDcNg11
+apple-music: https://music.apple.com/us/album/1493753584
+amazon-music: https://music.amazon.com/albums/B083CQ5BQT
+tidal: https://listen.tidal.com/album/126972866
 tracks:
-  - "Rhapsody In Blue · 15:48 · [[George Gershwin - Rhapsody in Blue]]"
+  - Rhapsody In Blue · 15:48 · [[George Gershwin - Rhapsody in Blue]]
   - "Mussorgsky: Pictures At An Exhibition: Promenade (Allegro giusto, nel modo russico, senza... · 1:37 · [[Modest Mussorgsky - Pictures at an Exhibition]]"
   - "Mussorgsky: Pictures At An Exhibition: I. Gnomus (Sempre vivo) · 2:44 · [[Modest Mussorgsky - Pictures at an Exhibition]]"
   - "Mussorgsky: Pictures At An Exhibition: Promenade (Moderato comodo assai e con delicatezza) · 0:59 · [[Modest Mussorgsky - Pictures at an Exhibition]]"
@@ -44,22 +44,22 @@ tracks:
   - "Mussorgsky: Pictures At An Exhibition: Cum mortuis in lingua mortua (Andante non troppo, con... · 2:19 · [[Modest Mussorgsky - Pictures at an Exhibition]]"
   - "Mussorgsky: Pictures At An Exhibition: IX. La Cabane sur des pattes de poule, Baba Yagà... · 3:48 · [[Modest Mussorgsky - Pictures at an Exhibition]]"
   - "Mussorgsky: Pictures At An Exhibition: X. La Porte des Boyatyrs de Kiev (Allegro alla breve.... · 5:37 · [[Modest Mussorgsky - Pictures at an Exhibition]]"
-  - "Ballade · 14:34 · [[Henri Tomasi - Ballade]]"
+  - Ballade · 14:34 · [[Henri Tomasi - Ballade]]
   - "Debussy: Rapsodie · 9:38 · [[Claude Debussy - Rhapsodie]]"
   - "Milhaud: Scaramouche Suite: I. Vif · 2:58 · [[Darius Milhaud - Scaramouche]]"
   - "Milhaud: Scaramouche Suite: II. Modéré · 3:42 · [[Darius Milhaud - Scaramouche]]"
   - "Milhaud: Scaramouche Suite: III. Brazileira · 2:05 · [[Darius Milhaud - Scaramouche]]"
-  - "Fantaisie · 6:08 · [[Denis Bédard - Fantasie]]"
-  - "Fantaisie-Impromptu · 3:26 · [[André Jolivet - Fantasie—Impromptu]]"
-  - "Vacances · 2:17 · [[Jean-Michel Damase - Vacances]]"
-  - "Sérénade Variée · 2:36 · [[Robert Clérisse - Sérénade Variée]]"
-  - "Les Ecureuils · 1:06 · [[Pierre-Max DuBois - Les Écureuils]]"
+  - Fantaisie · 6:08 · [[Denis Bédard - Fantasie]]
+  - Fantaisie-Impromptu · 3:26 · [[André Jolivet - Fantasie—Impromptu]]
+  - Vacances · 2:17 · [[Jean-Michel Damase - Vacances]]
+  - Sérénade Variée · 2:36 · [[Robert Clérisse - Sérénade Variée]]
+  - Les Ecureuils · 1:06 · [[Pierre-Max DuBois - Les Écureuils]]
   - "Tableaux de Provence: 1. Farandoulo di chatouno · 2:25 · [[Paule Maurice - Tableaux de Provence]]"
   - "Tableaux de Provence: 2. Cansoun per ma mio · 1:30 · [[Paule Maurice - Tableaux de Provence]]"
   - "Tableaux de Provence: 3. La Boumiano · 1:11 · [[Paule Maurice - Tableaux de Provence]]"
   - "Tableaux de Provence: 4. Dis Alyscamps l'amo souspire · 4:29 · [[Paule Maurice - Tableaux de Provence]]"
   - "Tableaux de Provence: 5. Lou Cabridan · 3:24 · [[Paule Maurice - Tableaux de Provence]]"
-  - "Caprice en Forme de Valse · 4:54 · [[Paul Bonneau - Caprice en Forme da Valse]]"
+  - Caprice en Forme de Valse · 4:54 · [[Paul Bonneau - Caprice en Forme da Valse]]
   - "Heiden: Sonata: I. Allegro · 5:49 · [[Bernhard Heiden - Sonata]]"
   - "Heiden: Sonata: II. Vivace · 3:06 · [[Bernhard Heiden - Sonata]]"
   - "Heiden: Sonata: III. Adagio - Presto · 5:56 · [[Bernhard Heiden - Sonata]]"
@@ -67,7 +67,7 @@ tracks:
   - "Sonata: I. With Vigor · 4:19 · [[Paul Creston - Sonata]]"
   - "Sonata: II. With Tranquility · 4:41 · [[Paul Creston - Sonata]]"
   - "Sonata: III. With Gaiety · 3:38 · [[Paul Creston - Sonata]]"
-  - "Prélude, Cadence et Finale · 10:07 · [[Alfred Desenclos - Prelude, Cadence et Finale]]"
+  - Prélude, Cadence et Finale · 10:07 · [[Alfred Desenclos - Prelude, Cadence et Finale]]
   - "Rueff: Sonata: I. Allegro · 4:34 · [[Jeanine Rueff - Sonate]]"
   - "Rueff: Sonata: II. Adagio · 3:49 · [[Jeanine Rueff - Sonate]]"
   - "Rueff: Sonata: III. Prestissimo · 3:44 · [[Jeanine Rueff - Sonate]]"
@@ -75,7 +75,7 @@ tracks:
   - "Denisov: Sonata: II. Lento · 3:43 · [[Edison Denisov - Sonata]]"
   - "Denisov: Sonata: III. Allegro moderato · 4:12 · [[Edison Denisov - Sonata]]"
 year-released: "2003"
-cover: "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/94/5e/c2/945ec2a4-8b0d-1b45-4120-a3d1335a5f6c/19UM1IM12030.rgb.jpg/512x512bb.jpg"
+cover: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/94/5e/c2/945ec2a4-8b0d-1b45-4120-a3d1335a5f6c/19UM1IM12030.rgb.jpg/512x512bb.jpg
 notion-id: 86e253f77dca4a24b93f780d40f777d1
 ---
 

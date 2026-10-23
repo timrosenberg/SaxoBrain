@@ -10,7 +10,9 @@ born: 1953
 died:
 wikidata: Q15455455
 photo: "/media/composers/warren-gooch.jpg"
-photo-credit: navonarecords.com
 photo-source: https://www.navonarecords.com/nv/wp-content/uploads/2020/11/Warren-Gooch.jpg
 aliases: []
 ---
+
+> [!caption]
+> Photo: [navonarecords.com](https://www.navonarecords.com/nv/wp-content/uploads/2020/11/Warren-Gooch.jpg)

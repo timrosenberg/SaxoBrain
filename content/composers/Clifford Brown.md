@@ -10,7 +10,9 @@ born: 1930
 died: 1956
 wikidata: Q354490
 photo: "/media/composers/clifford-brown.jpg"
-photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Clifford_Brown_1956.jpg"
 aliases: []
 ---
+
+> [!caption]
+> Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Clifford_Brown_1956.jpg)

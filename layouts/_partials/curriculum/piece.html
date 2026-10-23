@@ -59,9 +59,9 @@
 {{- $saxes := slice -}}
 {{- with $w -}}
   {{- $i := .Params.instruments | default slice -}}
-  {{- if in $i "Any Saxophone" }}{{ $saxes = slice (dict "c" "any" "t" "Any saxophone") }}{{ else -}}
-    {{- range slice (slice "Soprano" "soprano") (slice "Alto" "alto") (slice "Tenor" "tenor") (slice "Baritone" "baritone") (slice "Bass" "bass") -}}
-      {{- if in $i (printf "%s Saxophone" (index . 0)) }}{{ $saxes = $saxes | append (dict "c" (index . 1) "t" (replace (index . 0) "Baritone" "Bari")) }}{{ end -}}
+  {{- if in $i "Any Saxophone" }}{{ $saxes = slice (dict "c" "any" "t" (partial "t.html" "curriculum-sax-any")) }}{{ else -}}
+    {{- range slice (slice "Soprano" "soprano" "curriculum-sax-soprano") (slice "Alto" "alto" "curriculum-sax-alto") (slice "Tenor" "tenor" "curriculum-sax-tenor") (slice "Baritone" "baritone" "curriculum-sax-baritone") (slice "Bass" "bass" "curriculum-sax-bass") -}}
+      {{- if in $i (printf "%s Saxophone" (index . 0)) }}{{ $saxes = $saxes | append (dict "c" (index . 1) "t" (partial "t.html" (index . 2))) }}{{ end -}}
     {{- end -}}
   {{- end -}}
 {{- end -}}
@@ -71,5 +71,5 @@
 <li class="piece">
 <div class="main">{{ $titleHTML | safeHTML }}{{ range $saxes }} <span class="tag {{ .c }}">{{ .t }}</span>{{ end }}
 <div class="who">{{ $who | safeHTML }}{{ with $note }}<span class="note">{{ partial "resolve-links.html" (dict "html" (. | markdownify | string) "page" $page) | safeHTML }}</span>{{ end }}</div></div>
-<div class="acts">{{ with $listen }}<a class="act listen" href="{{ . }}" rel="noopener"><svg viewBox="0 0 10 10" aria-hidden="true"><path d="M2 1l7 4-7 4z"/></svg>Listen</a>{{ end }}{{ with $score }}<a class="act" href="{{ . }}" rel="noopener">{{ if $free }}Download{{ else }}Score{{ end }}</a>{{ end }}</div>
+<div class="acts">{{ with $listen }}<a class="act listen" href="{{ . }}" rel="noopener"><svg viewBox="0 0 10 10" aria-hidden="true"><path d="M2 1l7 4-7 4z"/></svg>{{ partial "t.html" "curriculum-listen" }}</a>{{ end }}{{ with $score }}<a class="act" href="{{ . }}" rel="noopener">{{ if $free }}{{ partial "t.html" "curriculum-download" }}{{ else }}{{ partial "t.html" "curriculum-score" }}{{ end }}</a>{{ end }}</div>
 </li>

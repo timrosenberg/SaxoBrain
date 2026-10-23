@@ -26,7 +26,7 @@ aliases: []
 
 ### Research Review, October 11, 2026
 
-[[Review 0394 - William Calhoun - Sonata|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[William Calhoun - Sonata]]
 

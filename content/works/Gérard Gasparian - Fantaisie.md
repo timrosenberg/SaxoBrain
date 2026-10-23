@@ -29,7 +29,7 @@ publisher:
 
 Gasparian Fantaisie: composer confirms 1994, soprano saxophone and piano, Musicora 1996 premiere and Vérany duo recording. Add Piano and Combre. Institutional teaching use verified. The 7:10 Dédicaces track is exact; oboe transcription C05849 is excluded. Full verified public Topic recording found, 7:10.
 
-[[Review 0130 - Gérard Gasparian - Fantaisie|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Published by Combre, catalog C05757, soprano saxophone and piano, 23 pages · [grothmusic.com](https://www.grothmusic.com/p-144586.aspx)
@@ -38,9 +38,9 @@ Gasparian Fantaisie: composer confirms 1994, soprano saxophone and piano, Musico
 
 ### Research Review, October 11, 2026
 
-[[Review 0130 - Gérard Gasparian - Fantaisie|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Gérard Gasparian - Fantaisie.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Gérard Gasparian - Fantaisie.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0130.json).
+Catalog: [Gérard Gasparian - Fantaisie.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Gérard Gasparian - Fantaisie.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Éditions Combre C05757 is Gérard Gasparian’s Fantaisie for soprano saxophone and piano. The assigned catalog lists only soprano saxophone; the publisher-distributor catalog and a French music-school federation syllabus independently confirm piano accompaniment. This is an evidence-backed instrumentation correction proposal, not a catalog edit.
 

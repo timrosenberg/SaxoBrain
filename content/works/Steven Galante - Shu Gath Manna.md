@@ -62,4 +62,4 @@ research:
 
 **Searches tried:** `Steven Galante Shu Gath Manna`; `Shu Gath Manna 1987 DX7`; `Shu Gath Manna Laura Hunter`.
 
-[[Remaining Repertoire Research - 2026-10-16|Full research overview]]
+[[SaxoBrain - Review and Repair Record]]

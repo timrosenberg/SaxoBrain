@@ -28,7 +28,7 @@ publisher:
 
 Il est raconté has a verified saxophone performance by its dedicatees, Christian Outtier and Michèle Edmond-Mariette, at Salle Cortot. The performer-authored saxophone guide supplies useful musical evidence: one continuous span, measured passages alternating with improvisation, and a 3+2+2+3 grouping with varied accents. Its printed duration is 11:35. The Leduc AL27701 edition is confirmed. No actual notation was available, so written range and the improvisation directions remain open.
 
-[[Review 0074 - Dia Succari - Il Est Raconte|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Alphonse Leduc, catalog number AL27701 · [grothmusic.com](https://www.grothmusic.com/p-38112.aspx)
@@ -37,9 +37,9 @@ Il est raconté has a verified saxophone performance by its dedicatees, Christia
 
 ### Research Review, October 11, 2026
 
-[[Review 0074 - Dia Succari - Il Est Raconte|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Dia Succari - Il Est Raconte.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Dia Succari - Il Est Raconte.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0074.json).
+Catalog: [Dia Succari - Il Est Raconte.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Dia Succari - Il Est Raconte.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Dia Succari’s Il est raconté is an original alto saxophone and piano work published by Alphonse Leduc. A Philharmonie de Paris saxophone reference entry supplies additional program and rhythmic information.
 

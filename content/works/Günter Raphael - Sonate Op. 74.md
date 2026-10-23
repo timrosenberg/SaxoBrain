@@ -31,7 +31,7 @@ The listening link plays the complete first movement, Con moto. Continue with [I
 
 Raphael Sonata: estate confirms 1957, and label confirms Op. 74a in memoriam Emil Manz. All three public Naxos/EDA movements verified, total 12:30. Existing title Op.74 is incomplete and risks confusion with cello Divertimento. No notation inspected.
 
-[[Review 0133 - Günter Raphael - Sonate Op. 74|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Edition Tonger, catalog PJT2049; listed as Sonata for Alto Saxophone and Piano Op. 74a · [grothmusic.com](https://www.grothmusic.com/p-146416.aspx)
@@ -40,9 +40,9 @@ Raphael Sonata: estate confirms 1957, and label confirms Op. 74a in memoriam Emi
 
 ### Research Review, October 11, 2026
 
-[[Review 0133 - Günter Raphael - Sonate Op. 74|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Günter Raphael - Sonate Op. 74.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Günter Raphael - Sonate Op. 74.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0133.json).
+Catalog: [Günter Raphael - Sonate Op. 74.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Günter Raphael - Sonate Op. 74.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Tonger publishes Günter Raphael’s Sonata Op. 74a for alto saxophone and piano. EDA Records’ album page identifies its 1957 date and three movements; a recording by Frank Lunte and pianist Tatjana Blome is indexed with individual movement durations. This is distinct from Raphael’s Op. 74 Divertimento for alto saxophone and cello.
 

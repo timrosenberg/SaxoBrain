@@ -24,7 +24,7 @@ aliases: []
 
 2021; alto saxophone and piano; about4minutes. Commissioned by Timothy McAllister and Liz Ames; composer links their exact performance and Project Encore Vol.1 track. Composer music catalog identifies PDF score and part. Product page includes contradictory stock/checkout labels; actual availability unknown.
 
-[[Review 0275 - Nina Shekhar - Careful Shouts|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Performed for alto saxophone and piano by Chet Jenkins and Stephen Estep, Cedarville University faculty recital, April 25, 2023 (recital listing; no duration or difficulty given) · [cedarville.edu](https://www.cedarville.edu/cf/calendar/viewsingleevent/id/EE0026E5-E853-027E-3B33-43459D3B1699)
@@ -33,7 +33,7 @@ aliases: []
 
 ### Research Review, October 11, 2026
 
-[[Review 0275 - Nina Shekhar - Careful Shouts|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Nina Shekhar - Careful Shouts]].
 

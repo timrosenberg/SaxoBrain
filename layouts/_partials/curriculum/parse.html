@@ -15,11 +15,15 @@
     {{- $cur = dict -}}{{- $rest = slice -}}
   {{- end -}}
   {{- if $blank -}}
+  {{- else if hasPrefix $line ">" -}}{{/* Explicit editorial callouts are rendered separately. */}}
   {{- else if $indented -}}
     {{- if $cur }}{{ $rest = $rest | append (replaceRE `^(\t| {4}| {2})` "" $line) }}{{ end -}}
   {{- else if hasPrefix $line "#### " -}}{{ $h4 = trim (strings.TrimPrefix "#### " $line) " " -}}
   {{- else if hasPrefix $line "### " -}}{{ $h3 = trim (strings.TrimPrefix "### " $line) " " }}{{ $h4 = "" -}}
-  {{- else if hasPrefix $line "## " -}}{{ $h2 = trim (strings.TrimPrefix "## " $line) " " }}{{ $h3 = "" }}{{ $h4 = "" -}}
+  {{- else if hasPrefix $line "## " -}}
+    {{- $h2 = trim (strings.TrimPrefix "## " $line) " " -}}
+    {{- with findRESubmatch `^\[([^\]]+)\]\(#([a-z-]+)\)$` $h2 1 }}{{ $h2 = index (index . 0) 2 }}{{ end -}}
+    {{- $h3 = "" }}{{ $h4 = "" -}}
   {{- else if hasPrefix $line "- " -}}{{ $cur = dict "h2" $h2 "h3" $h3 "h4" $h4 "kind" "item" "first" (trim (strings.TrimPrefix "- " $line) " ") -}}
   {{- else -}}{{ $out = $out | append (dict "h2" $h2 "h3" $h3 "h4" $h4 "kind" "p" "first" $line "rest" "") -}}
   {{- end -}}

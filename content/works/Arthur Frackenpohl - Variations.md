@@ -24,7 +24,7 @@ aliases: []
 
 MSHSAA’s request for a review copy verifies title and instrument without establishing current approved repertoire. Shawnee LA123 remains a dealer lead. No notation or exact-work Listen was verified, so musical demands and edition details remain open.
 
-[[Review 0015 - Arthur Frackenpohl - Variations|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher and catalog no.: Shawnee Press LA123 · [grothmusic.com](https://www.grothmusic.com/p-63663.aspx)
@@ -34,7 +34,7 @@ MSHSAA’s request for a review copy verifies title and instrument without estab
 
 ### Research Review, October 11, 2026
 
-[[Review 0015 - Arthur Frackenpohl - Variations|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Arthur Frackenpohl - Variations]]
 

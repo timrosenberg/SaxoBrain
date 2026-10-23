@@ -28,7 +28,7 @@ aliases: []
 
 Hal Leonard confirms alto saxophone/piano, Alphonse Leduc AL22799. The institutional repertoire guide dates Printemps1959, duration2:40.
 
-[[Review 0290 - Pierre Gabaye - Printemps|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Alphonse Leduc, catalog no. AL22799 · [grothmusic.com](https://www.grothmusic.com/p-63657.aspx)
@@ -37,9 +37,9 @@ Hal Leonard confirms alto saxophone/piano, Alphonse Leduc AL22799. The instituti
 
 ### Research Review, October 11, 2026
 
-[[Review 0290 - Pierre Gabaye - Printemps|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Pierre Gabaye - Printemps.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Pierre Gabaye - Printemps.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0290.json).
+Catalog: [Pierre Gabaye - Printemps.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Pierre Gabaye - Printemps.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Alphonse Leduc AL22799 identifies Pierre Gabaye’s Printemps for alto saxophone and piano. Retailer and publisher-distributor listings confirm instrumentation and catalog number; no music-specific demand or placement evidence found.
 

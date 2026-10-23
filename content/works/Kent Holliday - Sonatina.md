@@ -27,7 +27,7 @@ publisher:
 
 The first score page confirms brisk chromatic saxophone writing, shifting eighth-note meters, accents and active piano coordination. Groth verifies Dorn DORN1614 for alto saxophone and piano. The sample carries a David Jacobsen dedication and 2012 copyright. Composition date, full range and an exact accessible recording remain unverified.
 
-[[Review 0221 - Kent Holliday - Sonatina|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Published by Dorn Publications, catalog DORN1614, alto saxophone and piano · [grothmusic.com](https://www.grothmusic.com/p-156793.aspx)
@@ -36,9 +36,9 @@ The first score page confirms brisk chromatic saxophone writing, shifting eighth
 
 ### Research Review, October 11, 2026
 
-[[Review 0221 - Kent Holliday - Sonatina|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Kent Holliday - Sonatina.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Kent Holliday - Sonatina.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0221.json).
+Catalog: [Kent Holliday - Sonatina.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Kent Holliday - Sonatina.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** The local work file and an older Groth URL lead associate Kent Holliday’s Sonatina with Dorn DORN1614 and alto saxophone/piano, but these details remain unverified. The current Dorn Publications catalog lists a separate Holliday Sonata (order 172) in its soprano saxophone and piano section, and contains no matching Sonatina or DORN1614 entry.
 

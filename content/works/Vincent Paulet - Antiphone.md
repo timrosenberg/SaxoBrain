@@ -28,7 +28,7 @@ publisher:
 
 Rapid chromatic runs, mixed meters, soft control and slap articulation support an upper-college proposal.
 
-[[Review 0379 - Vincent Paulet - Antiphone|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Alphonse Leduc, catalog no. AL30537; described as a challenging, exciting addition to the repertoire for all advanced saxophonists, with multiphonics, flutter tonguing and slap notes; typical performance about 4:15 · [grothmusic.com](https://www.grothmusic.com/p-38028.aspx)
@@ -37,7 +37,7 @@ Rapid chromatic runs, mixed meters, soft control and slap articulation support a
 
 ### Research Review, October 11, 2026
 
-[[Review 0379 - Vincent Paulet - Antiphone|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Vincent Paulet - Antiphone]]
 

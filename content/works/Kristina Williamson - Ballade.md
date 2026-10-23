@@ -26,7 +26,7 @@ publisher:
 
 The inspected opening of Ballade confirms slow chromatic phrasing, triplets, quiet dynamics and a piano resonance effect using silently depressed keys. The page names Kristina Engberg Williamson and bears 1989 copyright. Groth verifies Etoile ET151014 for alto and piano. Composition date, complete range and an exact recording remain unverified.
 
-[[Review 0226 - Kristina Williamson - Ballade|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Etoile Music ET151014 · [grothmusic.com](https://www.grothmusic.com/p-146136.aspx)
@@ -35,7 +35,7 @@ The inspected opening of Ballade confirms slow chromatic phrasing, triplets, qui
 
 ### Research Review, October 11, 2026
 
-[[Review 0226 - Kristina Williamson - Ballade|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Kristina Williamson - Ballade]]
 

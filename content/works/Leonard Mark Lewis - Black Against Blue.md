@@ -26,7 +26,7 @@ publisher:
 
 Lewis’s composer preview shows an accented piano opening with sixteenth-note chords and changing eighth-note meters. Soprano saxophone rests through most visible measures before a sustained crescendo entry. The B-flat solo staff is transposed. Full solo demands and recording remain unknown; the one-page PDF is only a preview.
 
-[[Review 0231 - Leonard Mark Lewis - Black Against Blue|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Composer's page: "for soprano sax and piano" · [leonardmarklewis.com](https://www.leonardmarklewis.com/black-against-blue-1)
@@ -35,7 +35,7 @@ Lewis’s composer preview shows an accented piano opening with sixteenth-note c
 
 ### Research Review, October 11, 2026
 
-[[Review 0231 - Leonard Mark Lewis - Black Against Blue|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Leonard Mark Lewis - Black Against Blue]]
 

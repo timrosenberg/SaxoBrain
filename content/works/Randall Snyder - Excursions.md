@@ -28,7 +28,7 @@ publisher:
 
 Excursions is dated 2005, for alto saxophone and piano, duration circa 5:30. Score dedication reads Paul Haar; retailer description spells Paul Harr. Dorn DORN 1528 is the published edition; 2014 on score footer is copyright.
 
-[[Review 0313 - Randall Snyder - Excursions|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Dorn Publications, catalog no. DORN1528 · [grothmusic.com](https://www.grothmusic.com/p-156792.aspx)
@@ -39,7 +39,7 @@ Excursions is dated 2005, for alto saxophone and piano, duration circa 5:30. Sco
 
 ### Research Review, October 11, 2026
 
-[[Review 0313 - Randall Snyder - Excursions|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Randall Snyder - Excursions]]
 

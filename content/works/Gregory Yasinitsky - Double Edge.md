@@ -26,7 +26,7 @@ aliases: []
 
 Double Edge: the composer confirms Dorn commissioned it for Banaszak’s Double Vision album. The publication list dates it 1994; composition date remains unproven. Masterclass circulation adds teaching context, but notation and playable exact recording remain gaps.
 
-[[Review 0126 - Gregory Yasinitsky - Double Edge|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Dorn Publications, catalog DORN0993; composed for Greg Banaszak; copyright 1994 · [grothmusic.com](https://www.grothmusic.com/p-146148.aspx)
@@ -35,9 +35,9 @@ Double Edge: the composer confirms Dorn commissioned it for Banaszak’s Double 
 
 ### Research Review, October 11, 2026
 
-[[Review 0126 - Gregory Yasinitsky - Double Edge|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Gregory Yasinitsky - Double Edge.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Gregory Yasinitsky - Double Edge.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0126.json).
+Catalog: [Gregory Yasinitsky - Double Edge.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Gregory Yasinitsky - Double Edge.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Dorn Publications identifies Double Edge for alto saxophone and piano as DORN0993; catalog metadata gives 1994 copyright and says it was written for saxophonist Greg Banaszak. A performer resource also points to a Banaszak recording on Open Loop 018.
 

@@ -31,7 +31,7 @@ Listen opens the first movement from Todd Yukumoto and HyeKyung Lee’s Blue rec
 
 Lee Sonatina: composer confirms 1993 original soprano-and-piano version, separate wind version 2003. Add Piano and Musik Fabrik. Exact Yukumoto/Lee recordings of all three movements verified; public note supplies II and III. No score notation inspected.
 
-[[Review 0155 - Hye Kyung Lee - Sonatina|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Three movements (Allegro, Largo, Allegro with intensity), about 4:40, 3:12, 8:38 on an ASU doctoral recital record, 2001 · [keep.lib.asu.edu](https://keep.lib.asu.edu/items/9703)
@@ -40,7 +40,7 @@ Lee Sonatina: composer confirms 1993 original soprano-and-piano version, separat
 
 ### Research Review, October 11, 2026
 
-[[Review 0155 - Hye Kyung Lee - Sonatina|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Hye Kyung Lee - Sonatina]]
 

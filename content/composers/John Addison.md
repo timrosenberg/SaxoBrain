@@ -10,7 +10,9 @@ born: 1920
 died: 1998
 wikidata: 
 photo: "/media/composers/john-addison.jpg"
-photo-credit: 
 photo-source: "https://upload.wikimedia.org/wikipedia/en/5/53/John_Addison.jpg"
 aliases: []
 ---
+
+> [!caption]
+> Photo: [upload.wikimedia.org](https://upload.wikimedia.org/wikipedia/en/5/53/John_Addison.jpg)

@@ -27,7 +27,7 @@ publisher:
 
 Mazurka, Hommage à Chopin, alto saxophone and piano; Leduc AL 23010. Publisher states published 1961 and about 4 minutes; guide gives 3:10 and Lento/più mosso/Allegro vivo. These are edition and timing evidence, not a confirmed composition year.
 
-[[Review 0303 - Pierre-Max DuBois - Mazurka|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Subtitle Hommage à Chopin; Leduc edition dated 1961, 3 pages, about four minutes · [halleonard.com](https://www.halleonard.com/product/48182097/mazurka-for-alto-saxophone-and-piano)
@@ -37,7 +37,7 @@ Mazurka, Hommage à Chopin, alto saxophone and piano; Leduc AL 23010. Publisher 
 
 ### Research Review, October 11, 2026
 
-[[Review 0303 - Pierre-Max DuBois - Mazurka|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Pierre-Max DuBois - Mazurka]]
 

@@ -37,7 +37,7 @@ Freshly retrieved and visually inspected Donemus D16273 preview PDF p. 2, the ex
 
 ### Research Review, October 11, 2026
 
-[[Review 0254 - Martyna Kosecka - Znikomek|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Martyna Kosecka - Znikomek]].
 

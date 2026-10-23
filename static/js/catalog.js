@@ -1,14 +1,19 @@
 /* Searchable catalog for the Repertoire page. Reads index.json (built by Hugo), filters in the browser,
    and keeps the filters in the address bar so a search can be shared. */
 (function () {
+  // Visible text lives in content/Site Text (keys js-*), embedded by baseof.html.
+  const T = JSON.parse(document.getElementById("site-text").textContent);
+  const fill = (s, v) => s.replace(/\{(\w+)\}/g, (m, k) => k in v ? v[k] : m);
   const LEVELS = [["Pre-college", "pre"], ["First Year", "1"], ["Second Year", "2"], ["Third Year", "3"], ["Fourth Year", "4"], ["Advanced", "adv"]];
-  const LV_NAME = { "Pre-college": "Pre-college", "First Year": "First year", "Second Year": "Second year", "Third Year": "Third year", "Fourth Year": "Fourth year", "Advanced": "Advanced", "": "Unassigned" };
+  const LV_NAME = { "Pre-college": T["level-pre-college"], "First Year": T["level-first-year"], "Second Year": T["level-second-year"], "Third Year": T["level-third-year"], "Fourth Year": T["level-fourth-year"], "Advanced": T["level-advanced"], "": T["level-unassigned"] };
   const lvClass = y => "lv-" + ((LEVELS.find(l => l[0] === y) || [0, "none"])[1]);
   const SAX = ["Soprano Saxophone", "Alto Saxophone", "Tenor Saxophone", "Baritone Saxophone", "Bass Saxophone"];
   const WITH = ["Piano", "Unaccompanied", "Orchestra", "Band", "Electronics", "Percussion"];
   // Sort orders: composer (last name), title (ignoring a leading article), year of study (then composer), newest additions (date added, newest first).
-  const SORTS = { composer: { key: "k", label: "composer" }, title: { key: "tk", label: "title" }, level: { key: "lk", label: "year of study" }, added: { key: "ak", label: "newest additions" } };
+  const SORTS = { composer: { key: "k", label: T["js-sortname-composer"] }, title: { key: "tk", label: T["js-sortname-title"] }, level: { key: "lk", label: T["js-sortname-level"] }, added: { key: "ak", label: T["js-sortname-added"] } };
   const short = t => t.replace(" Saxophone", "");
+  const saxName = t => T["js-sax-" + short(t).toLowerCase()];
+  const withName = t => T["js-with-" + t.toLowerCase()] || t;
   const fold = s => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
   const esc = s => String(s).replace(/[&<>"]/g, ch => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[ch]));
   const nf = new Intl.NumberFormat("en-US");
@@ -44,7 +49,7 @@
   function chipGroup(label, items, setName, fmt, dotClass, tint) {
     const g = document.createElement("div");
     g.className = "group";
-    g.innerHTML = `<span class="label-sm">${label}</span>`;
+    g.innerHTML = `<span class="label-sm">${esc(label)}</span>`;
     items.forEach(v => {
       const b = document.createElement("button");
       b.type = "button"; b.className = "chip" + (tint ? " " + tint(v) : ""); b.dataset.set = setName; b.dataset.val = v;
@@ -57,15 +62,15 @@
   }
   function buildChips() {
     const groups = $("groups");
-    groups.appendChild(chipGroup("Saxophone", SAX, "sax", short, null, v => "c-sx-" + short(v).toLowerCase()));
-    groups.appendChild(chipGroup("Year of study", LEVELS.map(l => l[0]).concat([""]), "lvl", v => LV_NAME[v], lvClass, v => "c-" + lvClass(v)));
-    groups.appendChild(chipGroup("With", WITH, "with", v => v));
+    groups.appendChild(chipGroup(T["js-group-saxophone"], SAX, "sax", saxName, null, v => "c-sx-" + short(v).toLowerCase()));
+    groups.appendChild(chipGroup(T["js-group-level"], LEVELS.map(l => l[0]).concat([""]), "lvl", v => LV_NAME[v], lvClass, v => "c-" + lvClass(v)));
+    groups.appendChild(chipGroup(T["js-group-with"], WITH, "with", withName));
     const extra = document.createElement("div");
     extra.className = "group";
-    extra.innerHTML = `<span class="label-sm">Only show</span>`;
-    [["rec", "Has a recording"], ["women", "Women composers"], ["poc", "Composers of color"], ["jazz", "Jazz"], ["etude", "Etudes"]].forEach(([key, lab]) => {
+    extra.innerHTML = `<span class="label-sm">${esc(T["js-group-only"])}</span>`;
+    ["rec", "women", "poc", "jazz", "etude"].forEach(key => {
       const b = document.createElement("button");
-      b.type = "button"; b.className = "chip"; b.dataset.flag = key; b.textContent = lab;
+      b.type = "button"; b.className = "chip"; b.dataset.flag = key; b.textContent = T["js-flag-" + key];
       b.setAttribute("aria-pressed", "false");
       b.onclick = () => { state[key] = !state[key]; state.limit = 60; update(); };
       extra.appendChild(b);
@@ -95,33 +100,33 @@
     return true;
   }
   function instLine(w) {
-    const sax = w.i.filter(t => SAX.includes(t)).map(short);
+    const sax = w.i.filter(t => SAX.includes(t)).map(saxName);
     const rest = w.i.filter(t => !SAX.includes(t) && t !== "Unaccompanied");
-    let s = sax.length ? sax.join(" or ") + " saxophone" : "";
-    if (w.i.includes("Unaccompanied")) s += (s ? ", " : "") + "unaccompanied";
-    if (rest.length) s += (s ? " with " : "") + rest.join(", ").toLowerCase().replace(/\(([a-z]+)\)/g, (m, g) => "(" + g.toUpperCase() + ")");
+    let s = sax.length ? fill(T["js-catalog-inst-saxophone"], { list: sax.join(" " + T["js-catalog-inst-or"] + " ") }) : "";
+    if (w.i.includes("Unaccompanied")) s += (s ? ", " : "") + T["js-catalog-inst-unaccompanied"];
+    if (rest.length) s += (s ? " " + T["js-catalog-inst-with"] + " " : "") + rest.join(", ").toLowerCase().replace(/\(([a-z]+)\)/g, (m, g) => "(" + g.toUpperCase() + ")");
     return s.charAt(0).toUpperCase() + s.slice(1);
   }
 
   function render() {
     const hits = W.filter(matches);
     const active = state.q || state.sax.size || state.lvl.size || state.with.size || state.rec || state.women || state.poc || state.jazz || state.etude;
-    $("count").textContent = active ? `${nf.format(hits.length)} of ${nf.format(W.length)} works` : `All ${nf.format(W.length)} works, by ${SORTS[state.sort].label}`;
+    $("count").textContent = fill(T[active ? "js-catalog-count-filtered" : "js-catalog-count-all"], { count: nf.format(hits.length), total: nf.format(W.length), sort: SORTS[state.sort].label });
     $("clear").hidden = !active;
     const list = $("list");
-    list.innerHTML = hits.length ? "" : `<li class="empty">No works match. Try removing a filter.</li>`;
+    list.innerHTML = hits.length ? "" : `<li class="empty">${esc(T["js-catalog-empty"])}</li>`;
     const frag = document.createDocumentFragment();
     hits.slice(0, state.limit).forEach(w => {
       const li = document.createElement("li");
-      li.innerHTML = `<a class="row" href="${esc(w.u)}"><div class="main"><div><span class="title">${esc(w.t)}${w.d ? ` (${esc(w.d)})` : ""}</span> <span class="composer">· ${esc(w.c.join(", ") || "Composer unknown")}</span></div>
+      li.innerHTML = `<a class="row" href="${esc(w.u)}"><div class="main"><div><span class="title">${esc(w.t)}${w.d ? ` (${esc(w.d)})` : ""}</span> <span class="composer">· ${esc(w.c.join(", ") || T["js-catalog-composer-unknown"])}</span></div>
 <div class="meta"><span class="lvl pill c-${lvClass(w.y)}"><span class="dot ${lvClass(w.y)}"></span>${esc(LV_NAME[w.y] || w.y)}</span><span>${esc(instLine(w))}</span></div></div>
-<div class="has">${w.s ? '<span class="tag on">Recording</span>' : ""}${w.p ? '<span class="tag on">Score</span>' : ""}</div></a>`;
+<div class="has">${w.s ? '<span class="tag on">' + esc(T["js-catalog-tag-recording"]) + '</span>' : ""}${w.p ? '<span class="tag on">' + esc(T["js-catalog-tag-score"]) + '</span>' : ""}</div></a>`;
       frag.appendChild(li);
     });
     list.appendChild(frag);
     const more = $("more");
     more.hidden = hits.length <= state.limit;
-    more.textContent = `Show more (${nf.format(Math.max(0, hits.length - state.limit))} left)`;
+    more.textContent = fill(T["js-catalog-show-more"], { count: nf.format(Math.max(0, hits.length - state.limit)) });
   }
   function update() { syncChips(); writeUrl(); render(); }
   function applySort() { const key = SORTS[state.sort].key; W.sort((a, b) => a[key].localeCompare(b[key])); }
@@ -132,7 +137,7 @@
   const panel = $("panel"), scrim = $("scrim");
   let depth = 0, lastRow = null, token = 0;
   function showPanel(article) {
-    panel.innerHTML = '<div class="panel-head"><button class="close" type="button" aria-label="Close">\u00d7</button></div>' + article.outerHTML;
+    panel.innerHTML = '<div class="panel-head"><button class="close" type="button" aria-label="' + esc(T["js-catalog-close"]) + '">\u00d7</button></div>' + article.outerHTML;
     panel.hidden = false; scrim.hidden = false; panel.scrollTop = 0;
     document.body.classList.add("panel-open");
     panel.querySelector(".close").onclick = closePanel;
@@ -203,5 +208,5 @@
 
   fetch(document.currentScript.dataset.index)
     .then(r => r.json()).then(start)
-    .catch(() => { $("count").textContent = "The catalog could not load. Browse every work from the Repertoire list instead."; });
+    .catch(() => { $("count").textContent = T["js-catalog-error"]; });
 })();

@@ -26,7 +26,7 @@ publisher:
 
 ### Research Review, October 11, 2026
 
-[[Review 0347 - Rudy Wiedoeft - Sax-O-Phun|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Rudy Wiedoeft - Sax-O-Phun]].
 

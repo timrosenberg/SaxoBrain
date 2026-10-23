@@ -26,7 +26,7 @@ aliases: []
 
 Nicole Philiba Sonate for E-flat saxophone and piano, Billaudot MRB1140, L’Enseignement moderne du saxophone. Publisher labels Difficile(cycle3); product data reports no PDF preview.
 
-[[Review 0272 - Nicole Philiba - Sonate|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Three movements: I. Allegro moderato molto marcato, II. Lento, III. Allegro molto; dedicated 'For Daniel Deffayet'; publisher Billaudot, catalog no. MRB1140 · [grothmusic.com](https://www.grothmusic.com/p-141695.aspx)
@@ -35,7 +35,7 @@ Nicole Philiba Sonate for E-flat saxophone and piano, Billaudot MRB1140, L’Ens
 
 ### Research Review, October 11, 2026
 
-[[Review 0272 - Nicole Philiba - Sonate|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Nicole Philiba - Sonate]].
 

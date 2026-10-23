@@ -9,7 +9,9 @@ born: 1741
 died: 1816
 wikidata: Q696034
 photo: "/media/composers/jean-paul-egide-martini.jpg"
-photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Jean_Paul_Egide_Martini.jpg"
 aliases: []
 ---
+
+> [!caption]
+> Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jean_Paul_Egide_Martini.jpg)

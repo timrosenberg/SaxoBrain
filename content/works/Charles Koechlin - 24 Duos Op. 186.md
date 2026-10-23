@@ -38,7 +38,7 @@ Twenty-four unaccompanied duos, Op. 186. The original manuscript permits soprano
 
 Twenty-four original duos, composed 1942, also conceived as lessons for soprano/contralto voices or soprano/alto saxophones. Billaudot GB 3715/GB 3716 offer same-key or mixed B-flat/E-flat saxophone combinations. The modern edition is associated with Georges Gourdet. Publisher lists difficult, cycle 3; copyright 1984 is publication evidence. Chien reports optional lower-octave alternatives for some high notes in the two-alto version.
 
-[[Review 0411 - Charles Koechlin - 24 Duos Op. 186|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 Source inspected: Wei-Lun Chien, Music for the Saxophone Duet Genre (2015), printed pp. 142 and 145, from the university-hosted dissertation. The soprano and alto tags reflect the original scoring; the tenor tag also reflects the published two-B-flat option listed by June Emerson. [Published tenor option](https://www.juneemersonwindmusic.com/Saxophone/?page=2&sort=). The vocal origin is documented, alongside the manuscript’s explicit saxophone option. No score notation or audio was inspected for this addition. A direct recording of the entire collection has not been verified.

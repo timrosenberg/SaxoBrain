@@ -31,7 +31,7 @@ publisher:
 
 Prelude’s eight-bar preview shows a sustained soprano line with long slurs, dynamic shaping, ties, and quarter-note triplets over continuous piano arpeggios. The B-flat staff is transposed. Kenneth Tse and Alan Huckleberry recorded it on Lyric Soprano. Full demands remain unknown, and Tse’s 2004 date conflicts with a 2006 conference-program lead.
 
-[[Review 0232 - Leonard Mark Lewis - Prelude|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Composer's page titles it "Prelude (for soprano saxophone)" under Solo/Duo, with no piano mentioned (catalog lists soprano saxophone and piano) · [leonardmarklewis.com](https://www.leonardmarklewis.com/prelude-for-soprano-sax)
@@ -40,7 +40,7 @@ Prelude’s eight-bar preview shows a sustained soprano line with long slurs, dy
 
 ### Research Review, October 11, 2026
 
-[[Review 0232 - Leonard Mark Lewis - Prelude|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Leonard Mark Lewis - Prelude]]
 

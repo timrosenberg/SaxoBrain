@@ -10,7 +10,9 @@ born: 1905
 died: 1988
 wikidata: Q456751
 photo: "/media/composers/giacinto-scelsi.jpg"
-photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Giacinto_Scelsi.jpg"
 aliases: []
 ---
+
+> [!caption]
+> Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Giacinto_Scelsi.jpg)

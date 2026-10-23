@@ -10,8 +10,10 @@ born: 1928
 died: 2007
 wikidata: Q154556
 photo: "/media/composers/karlheinz-stockhausen.jpg"
-photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:Stockhausen_March_2004_excerpt.jpg"
 aliases: []
 website: https://www.karlheinzstockhausen.org
 ---
+
+> [!caption]
+> Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Stockhausen_March_2004_excerpt.jpg)

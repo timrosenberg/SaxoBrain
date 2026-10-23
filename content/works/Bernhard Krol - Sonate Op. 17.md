@@ -29,7 +29,7 @@ aliases: []
 
 Hofmeister FH3129 is confirmed for alto and piano. EDA’s performer-authored notes explain staccato/piano exchange, lyrical Maestoso and a 6/8 fugal finale, with label-hosted listening samples. No notation was inspected; the primary label dates the work 1954, which should be checked against the complete score.
 
-[[Review 0022 - Bernhard Krol - Sonate Op. 17|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Recorded by Frank Lunte (alto saxophone) and Tatjana Blome (piano) on the anthology Musik für Saxophon aus Deutschland 1952-1969, about 13:39 · [prestomusic.com](https://www.prestomusic.com/classical/composers/3671--krol)
@@ -38,7 +38,7 @@ Hofmeister FH3129 is confirmed for alto and piano. EDA’s performer-authored no
 
 ### Research Review, October 11, 2026
 
-[[Review 0022 - Bernhard Krol - Sonate Op. 17|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Bernhard Krol - Sonate Op. 17]]
 

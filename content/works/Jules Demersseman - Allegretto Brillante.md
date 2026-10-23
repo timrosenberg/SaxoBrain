@@ -32,7 +32,7 @@ arranger-edition:
 
 The complete Voxman alto part shows rapid chromatic sixteenths, mixed articulation, triplets, trills, high F and an accelerating close. Direct middle-school teaching evidence coexists with ABRSM exam and conservatory-entry use. Voxman is credited as arranger, but the original instrumentation and composition year remain unknown.
 
-[[Review 0206 - Jules Demersseman - Allegretto Brillante|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Allegretto Brillante, Op. 46; Rubank 04476941; edited by Himie Voxman; 12 pages · [grothmusic.com](https://www.grothmusic.com/p-128490.aspx)
@@ -41,9 +41,9 @@ The complete Voxman alto part shows rapid chromatic sixteenths, mixed articulati
 
 ### Research Review, October 11, 2026
 
-[[Review 0206 - Jules Demersseman - Allegretto Brillante|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Jules Demersseman - Allegretto Brillante.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Jules Demersseman - Allegretto Brillante.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0206.json).
+Catalog: [Jules Demersseman - Allegretto Brillante.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Jules Demersseman - Allegretto Brillante.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Rubank 04476941 is Jules Demersseman’s Allegretto Brillante Op.46 for alto saxophone and piano, edited by Himie Voxman. A retailer’s description calls it a technical showpiece, but notation was not inspected.
 

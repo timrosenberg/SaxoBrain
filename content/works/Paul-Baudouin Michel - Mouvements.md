@@ -29,7 +29,7 @@ publisher:
 
 Mouvements is for alto saxophone and piano; score header gives 1977 and approximately 6:30. CeBeDeM CEBEDEM0004 listing totals 16 pages; ARTS² catalogs 4-page part and 12-page score, matching that total. Antwerp explicitly records composition year 1977. Origin Classical 33017 records Idit Shner and Svetlana Kotova performing Mouvements, track 7, 6:57.
 
-[[Review 0284 - Paul-Baudouin Michel - Mouvements|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Cebedem, catalog no. CEBEDEM0004; 16 pages · [grothmusic.com](https://www.grothmusic.com/p-147498.aspx)
@@ -38,9 +38,9 @@ Mouvements is for alto saxophone and piano; score header gives 1977 and approxim
 
 ### Research Review, October 11, 2026
 
-[[Review 0284 - Paul-Baudouin Michel - Mouvements|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
-Catalog: [Paul-Baudouin Michel - Mouvements.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Paul-Baudouin Michel - Mouvements.md). Full evidence log: [research record](/Users/trosenberg/Documents/GitHub/SaxoBrain/research-review-2026-10-11/lane-3/records/0284.json).
+Catalog: [Paul-Baudouin Michel - Mouvements.md](/Users/trosenberg/Documents/GitHub/SaxoBrain/content/works/Paul-Baudouin Michel - Mouvements.md). Full evidence log: [[SaxoBrain - Review and Repair Record|Archived evidence and recovery]].
 
 **Identity and findings.** Paul-Baudouin Michel’s Mouvements is for alto saxophone and piano. A specialist sheet-music retailer identifies a 1977 edition; a conservatory repertoire bibliography lists a 6:30 duration. The local record gives CeBeDeM CEBEDEM0004 and 16 pages, which should be reconciled to item 018883 before any catalog change.
 

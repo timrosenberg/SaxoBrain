@@ -28,7 +28,7 @@ aliases: []
 
 Dorn 0871 is alto saxophone and piano. Manuscript dedication says for Ted Hegvik, July 1976; copyright 1977 is a separate publication date. A band version exists through Molenaar; retain edition distinction rather than treating its full-band grade as the piano-version solo level.
 
-[[Review 0389 - Walter Hartley - Saxophrenia|Evidence and pending recommendation]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Dorn Publications, catalog no. DORN0871 · [grothmusic.com](https://www.grothmusic.com/p-143134.aspx)
@@ -37,7 +37,7 @@ Dorn 0871 is alto saxophone and piano. Manuscript dedication says for Ted Hegvik
 
 ### Research Review, October 11, 2026
 
-[[Review 0389 - Walter Hartley - Saxophrenia|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Walter Hartley - Saxophrenia]]
 

@@ -30,7 +30,7 @@ publisher:
 
 Carter, Pastoral: the [composer’s saxophone catalog](https://www.elliottcarter.com/compositions/pastoral-eb-alto-saxophone-and-piano/) confirms 1940 and ten minutes. Saxophonist [Neil McGovern](https://neilmcgovern.weebly.com/carter---pastoral.html) describes a gradually accelerating Allegretto, a quirky Giocoso interruption, a grander reprise, cadenza-like episodes and a lively coda. His 1945 date conflicts with the composer’s date. The [existing Sara Zazo/Eduardo Moreno video](https://www.youtube.com/watch?v=wXuQJv7xIOc) is verified playable and explicitly alto saxophone/piano. The composer page’s English-horn audio is a separate version. Exact Presser 144-40005D has printed and digital options; notation and written range remain gaps.
 
-[[Review 0087 - Elliott Carter - Pastoral|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher Presser, catalog number 14440005D · [grothmusic.com](https://www.grothmusic.com/p-37610.aspx)
@@ -39,7 +39,7 @@ Carter, Pastoral: the [composer’s saxophone catalog](https://www.elliottcarter
 
 ### Research Review, October 11, 2026
 
-[[Review 0087 - Elliott Carter - Pastoral|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog: [[Elliott Carter - Pastoral]]
 

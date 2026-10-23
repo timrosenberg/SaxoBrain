@@ -49,7 +49,7 @@ Tim confirmed that Deuxième Sonatine and Sonatine No. 2 are the same work and a
 
 ### Research Review, October 11, 2026
 
-[[Review 0043 - Charles Koechlin - Deuxieme Sonatine|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Charles Koechlin - Sonatine No. 2]].
 

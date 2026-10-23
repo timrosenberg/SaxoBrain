@@ -10,7 +10,9 @@ born: 1927
 died: 2010
 wikidata: Q498897
 photo: "/media/composers/john-dankworth.jpg"
-photo-credit: "Wikimedia Commons"
 photo-source: "https://commons.wikimedia.org/wiki/File:John-dankworth-buxton-opera-house.jpg"
 aliases: []
 ---
+
+> [!caption]
+> Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:John-dankworth-buxton-opera-house.jpg)

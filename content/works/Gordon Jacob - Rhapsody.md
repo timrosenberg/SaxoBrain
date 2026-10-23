@@ -34,7 +34,7 @@ arranger-edition:
 
 Rhapsody (1948) has a confirmed alternate alto part in the English-horn/piano publication, resolving the previous edition concern. Brodie’s saxophone guide highlights expressive phrasing, accented ties across bar lines, a sixteenth-note-triplet passage and a soft ending. His professional recording is included in MMO4115 with paid access. No actual notation or public exact saxophone audio was available. [Official catalog](https://www.gordonjacob.net/w_rhapsody_cor.html) · [Edition](https://www.trevcomusic.com/products/gal-5094-jacob-rhapsody-eh-pn) · [Performance guide](https://www.scribd.com/document/498361702/MMO-Advanced-Alto-Saxophone-Solos-Vol-I-Eb).
 
-[[Review 0124 - Gordon Jacob - Rhapsody|Full evidence and open questions]]
+[[SaxoBrain - Review and Repair Record]]
 
 
 - Publisher ECS Publishing, catalog ECS15094; English horn (or alto saxophone) solo with piano reduction of strings; duration ca. 9 minutes · [grothmusic.com](https://www.grothmusic.com/p-36413.aspx)
@@ -43,7 +43,7 @@ Rhapsody (1948) has a confirmed alternate alto part in the English-horn/piano pu
 
 ### Research Review, October 11, 2026
 
-[[Review 0124 - Gordon Jacob - Rhapsody|Full review note]]
+[[SaxoBrain - Review and Repair Record]]
 
 Catalog entry: [[Gordon Jacob - Rhapsody]].
 
