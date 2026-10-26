@@ -3,17 +3,22 @@
 {{- $html := partial "body.html" $page | string -}}
 {{- $anchors := slice -}}
 {{- range index .Params "equipment-table-anchors" -}}
-  {{- $label := $page.RenderString .text | string -}}
-  {{- $anchors = $anchors | append (dict "id" .id "cell" (printf `<td>%s</td>` $label) "replacement" (printf `<td id="%s">%s</td>` .id $label)) -}}
+  {{- $label := $page.RenderString .text | plainify | htmlUnescape -}}
+  {{- $anchors = $anchors | append (dict "id" .id "label" $label) -}}
 {{- end -}}
 {{- $used := slice -}}
 {{- range findRE `(?s)<tr>.*?</tr>` $html -}}
   {{- $original := . -}}
   {{- $row := . -}}
-  {{- range $anchors -}}
-    {{- if and (not (in $used .id)) (strings.Contains $row .cell) -}}
-      {{- $row = replace $row .cell .replacement -}}
-      {{- $used = $used | append .id -}}
+  {{- /* Match visible text so editing emphasis does not break permanent fragments. */ -}}
+  {{- range findRE `(?s)<td>.*?</td>` $row -}}
+    {{- $cell := . -}}
+    {{- $label := $cell | plainify | htmlUnescape -}}
+    {{- range $anchors -}}
+      {{- if and (not (in $used .id)) (eq $label .label) -}}
+        {{- $row = replace $row $cell (replace $cell `<td>` (printf `<td id="%s">` .id)) -}}
+        {{- $used = $used | append .id -}}
+      {{- end -}}
     {{- end -}}
   {{- end -}}
   {{- $html = replace $html $original $row -}}

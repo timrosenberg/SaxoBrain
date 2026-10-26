@@ -26,7 +26,7 @@ cascade:
 >
 > > [!topic] [Ligatures](/resources/equipment/saxophone-ligatures/)
 > >
-> > Compare designs and read Tim’s playing notes.
+> > Compare designs and read playing notes.
 >
 > > [!topic] [Straps & harnesses](/resources/equipment/saxophone-neck-straps-harnesses/)
 > >

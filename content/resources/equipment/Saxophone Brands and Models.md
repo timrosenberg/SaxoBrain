@@ -7,7 +7,7 @@ equipment-format: saxophones
 ---
 ## Alto Saxophones
 
-### [Yamaha YAS-875 EX II Custom Series](https://www.amazon.com/Yamaha-YAS-875EXII-Custom-Saxophone-Lacquer/dp/B0164S4TG2?tag=timothyrosenb-20)
+### [Yamaha YAS-875 EX II Custom Series](https://usa.yamaha.com/products/musical_instruments/winds/saxophones/yas-875exii/index.html)
 
 - Laser-guided, precision-made in Japan
 - Consistent tone: dark and warm
@@ -44,7 +44,7 @@ equipment-format: saxophones
 
 ## Tenor Saxophones
 
-### [Yamaha YTS-875EX Custom Series](https://www.amazon.com/dp/B0056GZCZ6/?tag=timothyrosenb-20)
+### [Yamaha YTS-875EX Custom Series](https://usa.yamaha.com/products/musical_instruments/winds/saxophones/yts-875ex/index.html)
 
 - Laser-guided, precision-made in Japan
 - Consistent tone: dark and warm
