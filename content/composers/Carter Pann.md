@@ -7,6 +7,8 @@ gender: Male
 born: 1972
 wikidata: Q2012938
 website: https://www.carterpann.com/
+photo: 
+photo-source: 
 aliases: []
 ---
 
