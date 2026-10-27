@@ -9,7 +9,10 @@ instruments:
   - "Piano"
 composed: 1993
 year-of-study: "Fourth Year"
-streaming: "https://classical.music.apple.com/ca/recording/michael-torke-1961-pp70-1452384939"
+streaming:
+  - "Saxophone Concerto: I (John Harle, Albany Symphony Orchestra, David Alan Miller) · https://music.apple.com/ca/album/saxophone-concerto-i/1452384939?i=1452385158"
+  - "Saxophone Concerto: II Slowly (John Harle, Albany Symphony Orchestra, David Alan Miller) · https://music.apple.com/ca/album/saxophone-concerto-ii-slowly/1452384939?i=1452385161"
+  - "Saxophone Concerto: III (John Harle, Albany Symphony Orchestra, David Alan Miller) · https://music.apple.com/ca/album/saxophone-concerto-iii/1452384939?i=1452385163"
 purchase:
   - "https://www.grothmusic.com/p-37451.aspx"
   - "https://billholabmusic.com/product/saxophone-concerto/"
@@ -23,6 +26,21 @@ research:
 aliases: []
 ---
 ## Research notes (private)
+
+### Inline recording review, 2026-10-27
+
+Verified inline recording added.
+
+Original listening source: https://classical.music.apple.com/ca/recording/michael-torke-1961-pp70-1452384939
+
+- Apple embeds may offer previews until the visitor signs in.
+
+Evidence:
+
+- Original Classical recording structured play action identifies song IDs 1452385158,1452385161,1452385163, with album 1452384939. Public lookup independently verifies all three Saxophone Concerto movements and named artists. Classical credits explicitly identify John Harle as soprano saxophone. Other concertos on the album are excluded. [Source](https://itunes.apple.com/lookup?id=1452384939&entity=song&country=ca)
+
+Full audit: [[SaxoBrain - Inline Recording Resolution Review 2026-10-27]].
+
 
 ### Chat Batch 14 Follow-Up, October 15, 2026
 
@@ -64,4 +82,3 @@ Searches checked:
 #### Catalog Details Added
 
 - Composition year: 1993. [Source](https://www.michaeltorke.com/saxophone-concerto)
-

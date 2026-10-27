@@ -10,8 +10,9 @@ born: 1949
 died: 
 wikidata: Q2167504
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://www.frankwiley.com/
 ---
+
+![[Composer Works.base#Works]]

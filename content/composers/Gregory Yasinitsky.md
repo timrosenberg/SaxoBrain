@@ -10,8 +10,9 @@ born: 1953
 died: 
 wikidata: 
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://gregyasinitsky.com/
 ---
+
+![[Composer Works.base#Works]]

@@ -15,3 +15,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Denis_Joly_au_piano.jpg)
+
+![[Composer Works.base#Works]]

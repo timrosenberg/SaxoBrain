@@ -15,3 +15,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pietro_Mascagni_1.jpg)
+
+![[Composer Works.base#Works]]

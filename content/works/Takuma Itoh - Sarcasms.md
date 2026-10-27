@@ -28,6 +28,23 @@ research:
 
 ## Research notes (private)
 
+### Inline recording review, 2026-10-27
+
+**Unresolved:** no verified matching inline recording selected. Existing external destination retained.
+
+Original listening source: https://takumaitoh.com/music/sarcasms.html
+
+- Retain original external link and flag its unavailable source. Do not promote unverified MP 3 paths to streaming.
+
+Evidence:
+
+- Original source fails TLS certificate verification. Alternate hostname and HTTP attempts reset the connection. Existing note body lists five potential MP 3 paths, but their current availability could not be verified. [Source](https://takumaitoh.com/music/sarcasms.html)
+
+- Search index identifies Sarcasms 2008 for alto saxophone and piano. Public Apple search returned no matching recording. Exact YouTube search did not return this piece. [Source](https://takumaitoh.com/music.html)
+
+Full audit: [[SaxoBrain - Inline Recording Resolution Review 2026-10-27]].
+
+
 ### Research checked October 16, 2026
 
 **Identity checked:** Takuma Itoh: Sarcasms, alto saxophone and piano

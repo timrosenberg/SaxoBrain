@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Almeida_Prado_-_Bremen_%28cropped%29.jpg)
+
+![[Composer Works.base#Works]]

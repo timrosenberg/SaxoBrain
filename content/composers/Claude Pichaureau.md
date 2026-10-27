@@ -9,8 +9,9 @@ born: 1940
 died: 
 wikidata: 
 photo: 
-photo-credit: 
 photo-source: 
 aliases:
   - /composers/karlheinz-pichaureau/
 ---
+
+![[Composer Works.base#Works]]

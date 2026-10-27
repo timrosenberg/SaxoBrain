@@ -17,3 +17,5 @@ website: https://marcosbalter.com/
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:MarcosBalter.JPG)
+
+![[Composer Works.base#Works]]

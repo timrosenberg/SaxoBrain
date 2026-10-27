@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [cdn.britannica.com](https://cdn.britannica.com/17/142317-050-EAF9BF89/Gioachino-Rossini.jpg)
+
+![[Composer Works.base#Works]]

@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Carlos_Mich%C3%A1ns_%286%29.jpg)
+
+![[Composer Works.base#Works]]

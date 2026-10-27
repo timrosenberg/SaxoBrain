@@ -18,3 +18,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jarom%C3%ADr_Weinberger_%281896-1967%29.jpg)
+
+![[Composer Works.base#Works]]

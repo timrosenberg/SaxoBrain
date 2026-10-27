@@ -10,7 +10,8 @@ born: 1932
 died: 2005
 wikidata: 
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 ---
+
+![[Composer Works.base#Works]]

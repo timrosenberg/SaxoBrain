@@ -10,7 +10,8 @@ born: 1934
 died: 2021
 wikidata: Q107465334
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 ---
+
+![[Composer Works.base#Works]]

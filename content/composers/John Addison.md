@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [upload.wikimedia.org](https://upload.wikimedia.org/wikipedia/en/5/53/John_Addison.jpg)
+
+![[Composer Works.base#Works]]

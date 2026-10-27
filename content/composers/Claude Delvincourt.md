@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Claude_Delvincourt_1935.jpg)
+
+![[Composer Works.base#Works]]

@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [artchipel.net](https://www.artchipel.net/wp-content/uploads/2020/09/Chaynes-Charles-site-internet.jpg.webp)
+
+![[Composer Works.base#Works]]

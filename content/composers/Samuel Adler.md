@@ -10,8 +10,9 @@ born: 1928
 died: 
 wikidata: Q2079069
 photo: "/media/composers/samuel-adler.jpg"
-photo-credit: 
 photo-source: "Notion upload"
 aliases: []
 website: https://samuelhadler.com/
 ---
+
+![[Composer Works.base#Works]]

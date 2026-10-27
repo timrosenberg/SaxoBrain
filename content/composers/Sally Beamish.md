@@ -10,8 +10,9 @@ born: 1956
 died: 
 wikidata: Q2680514
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://www.sallybeamish.com/
 ---
+
+![[Composer Works.base#Works]]

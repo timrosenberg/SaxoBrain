@@ -10,8 +10,9 @@ born: 1911
 died: 1987
 wikidata: Q1916985
 photo: "/media/composers/phyllis-tate.jpg"
-photo-credit: 
 photo-source: "Notion upload"
 aliases: []
 website: https://www.phyllis-tate.com
 ---
+
+![[Composer Works.base#Works]]

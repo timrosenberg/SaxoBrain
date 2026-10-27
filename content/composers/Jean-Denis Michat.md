@@ -10,8 +10,9 @@ born: 1971
 died: 
 wikidata: Q134085587
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://www.jdmichat.com/
 ---
+
+![[Composer Works.base#Works]]

@@ -10,8 +10,9 @@ born: 1959
 died: 
 wikidata: Q1988316
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: http://www.compositrice.jp/
 ---
+
+![[Composer Works.base#Works]]

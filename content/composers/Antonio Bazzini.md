@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Il_maestro_Antonio_Bazzini.jpg)
+
+![[Composer Works.base#Works]]

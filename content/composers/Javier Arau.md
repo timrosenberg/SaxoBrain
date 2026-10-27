@@ -17,3 +17,5 @@ website: https://www.javierarau.com/
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Photo_of_Javier_Arau.jpg)
+
+![[Composer Works.base#Works]]

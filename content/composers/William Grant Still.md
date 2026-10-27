@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:William_Grant_Still_by_Carl_Van_Vechten.jpg)
+
+![[Composer Works.base#Works]]

@@ -15,3 +15,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Henri_Rabaud.jpg)
+
+![[Composer Works.base#Works]]

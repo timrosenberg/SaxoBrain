@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [editions-delatour.com](https://www.editions-delatour.com/img/su//363-home_default.jpg?1728977166)
+
+![[Composer Works.base#Works]]

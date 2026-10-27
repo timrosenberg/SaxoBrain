@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [upload.wikimedia.org](https://upload.wikimedia.org/wikipedia/en/3/32/Walter_Kaufmann_%28composer%29.jpeg)
+
+![[Composer Works.base#Works]]

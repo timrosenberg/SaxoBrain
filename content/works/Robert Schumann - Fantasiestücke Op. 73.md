@@ -1,16 +1,18 @@
 ---
-title: "Fantasiestücke Op. 73"
+title: Fantasiestücke Op. 73
 slug: robert-schumann-fantasiestucke-op-73
 composer:
   - "[[Robert Schumann]]"
 instruments:
-  - "Alto Saxophone"
-  - "Piano"
-composed: 
-year-of-study: "Third Year"
-streaming: 
+  - Alto Saxophone
+  - Piano
+composed: 1849
+year-of-study: Third Year
+streaming: https://www.youtube.com/watch?v=47-9dXdKBJY
 purchase:
-  - "Wehage score and part (alto and piano) · https://www.sheetmusicplus.com/en/product/robert-schumann-three-fantasy-pieces-drei-fantasiestucke-arranged-for-alto-saxophone-and-piano-20298213.html"
+  - https://murphymusicpress.com/products/s-238
 added: 2024-03-08
 aliases: []
+download:
+  - IMSLP · https://imslp.org/wiki/Special:ImagefromIndex/383936/hfsy
 ---

@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [smetanaquartet.com](https://www.smetanaquartet.com/wp-content/uploads/2026/02/feld_Scan0039.jpg)
+
+![[Composer Works.base#Works]]

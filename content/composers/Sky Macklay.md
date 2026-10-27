@@ -10,8 +10,9 @@ born: 1988
 died: 
 wikidata: Q23883406
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://www.skymacklay.com/
 ---
+
+![[Composer Works.base#Works]]

@@ -1,19 +1,21 @@
 ---
-title: "Augusta Reed Thomas"
+title: Augusta Reed Thomas
 slug: augusta-reed-thomas
 nationality:
-  - "🇺🇸 American"
-gender: "Female"
+  - 🇺🇸 American
+gender: Female
 race:
-  - "White"
+  - White
 born: 1964
-died: 
+died:
 wikidata: Q514584
-photo: "/media/composers/augusta-reed-thomas.jpg"
-photo-source: "https://commons.wikimedia.org/wiki/File:Augusta_Read_Thomas_in_March_2022.jpg"
+photo: /media/composers/augusta-reed-thomas-2020.jpg
+photo-source: https://upload.wikimedia.org/wikipedia/commons/4/43/Augusta_06-23-20.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
 aliases: []
 website: https://www.augustareadthomas.com/
 ---
 
 > [!caption]
-> Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Augusta_Read_Thomas_in_March_2022.jpg)
+> Photo: [wikimediacommons.org](https://commons.wikimedia.org/wiki/File:Augusta_06-23-20.jpg)
+
+![[Composer Works.base#Works]]

@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:H%C3%A1ba.JPG)
+
+![[Composer Works.base#Works]]

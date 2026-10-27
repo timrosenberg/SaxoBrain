@@ -10,7 +10,8 @@ born: 1827
 died: 1881
 wikidata: Q1965312
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 ---
+
+![[Composer Works.base#Works]]

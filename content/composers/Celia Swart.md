@@ -9,8 +9,9 @@ born: 1994
 died: 
 wikidata: 
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://www.celia-swart.com/
 ---
+
+![[Composer Works.base#Works]]

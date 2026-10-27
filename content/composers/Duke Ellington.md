@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Duke_Ellington_-_publicity.JPG)
+
+![[Composer Works.base#Works]]

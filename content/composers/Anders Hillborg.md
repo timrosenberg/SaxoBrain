@@ -9,8 +9,9 @@ born: 1954
 died: 
 wikidata: Q491037
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://www.hillborg.com
 ---
+
+![[Composer Works.base#Works]]

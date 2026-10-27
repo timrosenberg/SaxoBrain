@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [s3.amazonaws.com](https://s3.amazonaws.com/static.musicsalesclassical.com/images/composer/newsite/gs-cooper-portrait.jpg)
+
+![[Composer Works.base#Works]]

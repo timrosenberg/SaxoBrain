@@ -17,3 +17,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Carson_Cooman_on_the_church_banister.jpg)
+
+![[Composer Works.base#Works]]

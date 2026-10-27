@@ -10,7 +10,8 @@ born: 1920
 died: 2013
 wikidata: Q326955
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 ---
+
+![[Composer Works.base#Works]]

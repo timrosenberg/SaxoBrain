@@ -17,3 +17,5 @@ website: https://www.pierrejodlowski.fr
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jod-Concert3.jpg)
+
+![[Composer Works.base#Works]]

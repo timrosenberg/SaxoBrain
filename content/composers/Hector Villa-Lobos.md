@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [i.guim.co.uk](https://i.guim.co.uk/img/static/sys-images/Music/Pix/pictures/2014/3/6/1394124603584/Composer-Heitor-Villa-Lob-010.jpg?width=465&dpr=1&s=none&crop=none)
+
+![[Composer Works.base#Works]]

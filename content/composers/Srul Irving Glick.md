@@ -17,3 +17,5 @@ aliases:
 
 > [!caption]
 > Photo: [d3d0lqu00lnqvz.cloudfront.net](https://d3d0lqu00lnqvz.cloudfront.net/media/media/thumbnails/cc09bbc9-83ca-4e6e-851e-827fcd1fdf50.jpg)
+
+![[Composer Works.base#Works]]

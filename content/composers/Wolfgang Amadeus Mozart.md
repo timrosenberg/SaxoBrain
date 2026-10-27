@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wolfgang-amadeus-mozart_1.jpg)
+
+![[Composer Works.base#Works]]

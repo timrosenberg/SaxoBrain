@@ -10,8 +10,9 @@ born: 1822
 died: 1900
 wikidata: 
 photo: 
-photo-credit: 
 photo-source: 
 aliases:
   - /composers/nazaire-beekman/
 ---
+
+![[Composer Works.base#Works]]

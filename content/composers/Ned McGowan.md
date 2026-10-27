@@ -10,8 +10,9 @@ born: 1970
 died: 
 wikidata: Q1973881
 photo: 
-photo-credit: 
 photo-source: 
 website: https://www.nedmcgowan.com
 aliases: []
 ---
+
+![[Composer Works.base#Works]]

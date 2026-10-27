@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Edward_Elgar_1857_-_1934.jpg)
+
+![[Composer Works.base#Works]]

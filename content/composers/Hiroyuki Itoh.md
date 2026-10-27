@@ -10,8 +10,9 @@ born: 1963
 died: 
 wikidata: Q100149283
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://www.hiroyukiitoh.com/
 ---
+
+![[Composer Works.base#Works]]

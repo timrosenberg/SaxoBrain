@@ -10,7 +10,8 @@ born: 1921
 died: 2006
 wikidata: Q313554
 photo: "/media/composers/malcolm-arnold.jpg"
-photo-credit: 
 photo-source: "Notion upload"
 aliases: []
 ---
+
+![[Composer Works.base#Works]]

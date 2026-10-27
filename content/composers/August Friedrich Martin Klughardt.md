@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:August_Klughardt_by_August_Weger.jpg)
+
+![[Composer Works.base#Works]]

@@ -10,7 +10,8 @@ born: 1935
 died: 2019
 wikidata: Q133592177
 photo: "/media/composers/lawson-lunde.jpg"
-photo-credit: 
 photo-source: "Notion upload"
 aliases: []
 ---
+
+![[Composer Works.base#Works]]

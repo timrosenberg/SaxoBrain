@@ -11,7 +11,8 @@ born: 1905
 died: 1987
 wikidata: Q443497
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 ---
+
+![[Composer Works.base#Works]]

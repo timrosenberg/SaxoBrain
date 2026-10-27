@@ -17,3 +17,5 @@ website: https://oliviakieffer.com/
 
 > [!caption]
 > Photo: [New Music Chicago](https://www.newmusicchicago.org/wp-content/uploads/2022/08/avatars-gDuTW7sTFcHg11rx-IQBpYQ-t500x500.jpeg)
+
+![[Composer Works.base#Works]]

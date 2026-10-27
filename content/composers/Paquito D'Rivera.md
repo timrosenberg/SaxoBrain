@@ -18,3 +18,5 @@ website: https://paquitodrivera.com/
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Trio_Corrente_Paquito_D%27Rivera_Horizonte_2015_4578.jpg)
+
+![[Composer Works.base#Works]]

@@ -9,8 +9,9 @@ born: 1947
 died: 
 wikidata: Q491119
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://anderskoppel.dk/
 ---
+
+![[Composer Works.base#Works]]

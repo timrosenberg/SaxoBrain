@@ -13,52 +13,13 @@
 {{ range (index .Params "library-score") }}<a class="btn" href="{{ . }}" rel="noopener">{{ partial "t.html" "piece-find-library" }}</a>{{ end }}
 </p>
 
-{{- /* A YouTube recording link also plays on the page (youtube.com/watch?v=, youtu.be/, shorts/; a t= start time is kept).
-       watch_videos queues keep every ID in the player's playlist in supplied order,
-       and so does a SoundCloud track or playlist, an Apple Music song or album, a Spotify track, album, playlist, show or episode,
-       or a Bandcamp track or album (Bandcamp's player needs a numeric ID, read from the page at build time; no embed if the lookup fails). */ -}}
 {{ with partial "streaming-links.html" . }}
-{{ $multiple := gt (len .) 1 }}
 <section id="streaming-recordings" aria-label="{{ partial "t.html" "piece-streaming-label" }}">
-{{ range . }}{{ $url := .url }}
-{{ $title := .label | default (replace (partial "t.html" "piece-recording-of") "{title}" ($.Title | string)) }}
+{{ range . }}
+{{ $player := partialCached "recording-player.html" (dict "link" . "work" $) .url .label $.RelPermalink }}
 {{ with .label }}<h2>{{ . }}</h2>{{ end }}
-{{ if $multiple }}<p><a class="recording-link" href="{{ $url }}" rel="noopener" aria-label="{{ replace (partial "t.html" "piece-open-aria") "{title}" ($title | string) }}">{{ partial "t.html" "piece-open-recording" }}</a></p>{{ end }}
-{{ $src := "" }}
-{{ with findRESubmatch `^https?://(?:www\.|m\.)?youtube\.com/watch_videos\?(?:[^#]*&)?video_ids=([A-Za-z0-9_-]{11}(?:,[A-Za-z0-9_-]{11})*)(?:[&#]|$)` $url 1 }}
-{{ $ids := split (index (index . 0) 1) "," }}
-{{ $src = printf "https://www.youtube-nocookie.com/embed/%s" (index $ids 0) }}
-{{ if gt (len $ids) 1 }}{{ $src = printf "%s?playlist=%s" $src (delimit $ids ",") }}{{ end }}
-{{ else }}
-{{ with findRESubmatch `(?:youtu\.be/|youtube\.com/(?:watch\?(?:[^#]*&)?v=|shorts/|embed/))([A-Za-z0-9_-]{11})` $url 1 }}
-{{ $src = printf "https://www.youtube-nocookie.com/embed/%s" (index (index . 0) 1) }}
-{{ with findRESubmatch `[?&]t=(\d+)` $url 1 }}{{ $src = printf "%s?start=%s" $src (index (index . 0) 1) }}{{ end }}
-{{ end }}
-{{ end }}
-{{ with $src }}
-<div class="video"><iframe src="{{ $src }}" title="{{ $title }}" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
-{{ end }}
-{{ if hasPrefix $url "https://music.apple.com/" }}
-{{ $song := findRE `(?:[?&]i=\d+|/song/)` $url }}
-<div class="embed applemusic{{ if $song }} song{{ end }}"><iframe src="{{ replace $url "https://music.apple.com/" "https://embed.music.apple.com/" 1 }}" title="{{ replace (partial "t.html" "piece-on-apple-music") "{title}" ($title | string) }}" height="{{ if $song }}175{{ else }}450{{ end }}" loading="lazy" allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe></div>
-{{ end }}
-{{ if findRE `^https://(www\.|m\.)?soundcloud\.com/[^/?#]+/[^?#]+` $url }}
-<div class="audio"><iframe src="https://w.soundcloud.com/player/?url={{ index (split $url "?") 0 | urlquery }}&amp;color=%239a6514&amp;visual=false&amp;show_comments=false" title="{{ $title }}" loading="lazy" allow="autoplay"></iframe></div>
-{{ end }}
-{{ with findRESubmatch `^https://open\.spotify\.com/(?:intl-[a-z]+/)?(track|album|playlist|episode|show)/([A-Za-z0-9]+)` $url 1 }}
-{{ $kind := index (index . 0) 1 }}
-<div class="audio spotify sp-{{ $kind }}"><iframe src="https://open.spotify.com/embed/{{ $kind }}/{{ index (index . 0) 2 }}" title="{{ replace (partial "t.html" "piece-on-spotify") "{title}" ($title | string) }}" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></div>
-{{ end }}
-{{ if findRE `^https://[a-z0-9-]+\.bandcamp\.com/(?:track|album)/[^/?#]+` $url }}
-{{ $page := index (split (index (split $url "?") 0) "#") 0 }}
-{{ with try (resources.GetRemote $page (dict "headers" (dict "User-Agent" "Mozilla/5.0 (compatible; SaxoBrain build)"))) }}
-{{ with .Value }}
-{{ with findRESubmatch `EmbeddedPlayer/v=2/(album|track)=(\d+)` .Content 1 }}
-<div class="audio bandcamp"><iframe src="https://bandcamp.com/EmbeddedPlayer/{{ index (index . 0) 1 }}={{ index (index . 0) 2 }}/size=large/bgcol=ffffff/linkcol=9a6514/tracklist=false/artwork=small/transparent=true/" title="{{ replace (partial "t.html" "piece-on-bandcamp") "{title}" ($title | string) }}" loading="lazy" seamless></iframe></div>
-{{ end }}
-{{ else }}{{ warnf "Bandcamp lookup failed for %s" $page }}{{ end }}
-{{ end }}
-{{ end }}
+{{ if not (findRE `<(?:audio|iframe)\b` ($player | string)) }}<p><a class="recording-link" href="{{ .url }}" rel="noopener" aria-label="{{ replace (partial "t.html" "piece-open-aria") "{title}" (.label | default $.Title | string) }}">{{ partial "t.html" "piece-open-recording" }}</a></p>{{ end }}
+{{ $player }}
 {{ end }}
 </section>
 {{ end }}

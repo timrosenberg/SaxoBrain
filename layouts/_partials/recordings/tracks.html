@@ -32,8 +32,9 @@
   {{ $tracks = $tracks | append (dict "title" $title "time" $time "link" (lower $link) "work" $work "by" (delimit $names ", ")) }}
 {{ end }}
 {{ $n := len $tracks }}
-{{- /* For each track: its title prefix (the longest "A: B: " start a neighbouring track shares), and its
-       group key: the work link when a neighbour has the same work, else the prefix. */ -}}
+{{- /* For each track: its title prefix (the shortest "A: " start a neighbouring track shares), and its
+       group key. Keep subdivided movements under their piece's heading and retain the movement labels.
+       Use the work link when a neighbour has the same work, else the prefix. */ -}}
 {{ $prefixes := slice }}{{ $keys := slice }}
 {{ range $i, $t := $tracks }}
   {{ $prev := cond (gt $i 0) (index $tracks (sub $i 1)) dict }}
@@ -42,7 +43,7 @@
   {{ $prefix := "" }}
   {{ range seq (sub (len $parts) 1) }}
     {{ if not $prefix }}
-      {{ $p := printf "%s: " (delimit (first (sub (len $parts) .) $parts) ": ") }}
+      {{ $p := printf "%s: " (delimit (first . $parts) ": ") }}
       {{ if or (strings.HasPrefix (lower ($prev.title | default "")) (lower $p)) (strings.HasPrefix (lower ($next.title | default "")) (lower $p)) }}{{ $prefix = $p }}{{ end }}
     {{ end }}
   {{ end }}

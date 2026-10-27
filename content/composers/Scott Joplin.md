@@ -10,7 +10,8 @@ born: 1868
 died: 1917
 wikidata: Q191499
 photo: "/media/composers/scott-joplin.jpg"
-photo-credit: 
 photo-source: "Notion upload"
 aliases: []
 ---
+
+![[Composer Works.base#Works]]

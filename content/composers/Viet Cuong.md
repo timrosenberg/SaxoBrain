@@ -17,3 +17,5 @@ website: https://vietcuongmusic.com/
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Viet_Cuong_speaks_during_a_clinic_featuring_Eighth_Blackbird_%28cropped%29.jpg)
+
+![[Composer Works.base#Works]]

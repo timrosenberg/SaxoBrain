@@ -10,8 +10,9 @@ born: 1933
 died: 
 wikidata: Q1687832
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://jerrybilikmusic.com/
 ---
+
+![[Composer Works.base#Works]]

@@ -18,3 +18,5 @@ aliases:
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Skrjabin_Alexander.jpg)
+
+![[Composer Works.base#Works]]

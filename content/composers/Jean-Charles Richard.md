@@ -10,8 +10,9 @@ born: 1974
 died: 
 wikidata: Q3164690
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://www.jeancharlesrichard.com/
 ---
+
+![[Composer Works.base#Works]]

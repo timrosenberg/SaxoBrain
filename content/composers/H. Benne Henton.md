@@ -15,3 +15,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:H._Benne_Henton_5.jpg)
+
+![[Composer Works.base#Works]]

@@ -8,12 +8,15 @@ instruments:
   - "Piano"
 composed: 1998
 year-of-study: "Fourth Year"
-streaming: "https://www.youtube.com/watch?v=_hy_6U5Xeyk"
+streaming:
+  - "Chad Lilley, alto saxophone, with piano; composer-linked recording · https://www.youtube.com/watch?v=_N6naUvmkwM"
+  - "Additional recording · https://www.youtube.com/watch?v=_hy_6U5Xeyk"
 purchase:
   - "https://www.grothmusic.com/p-153014.aspx"
   - "https://www.presser.com/114-41106-fragmented-spirit.html"
 added: 2024-02-21
 research:
+  - "Composer’s catalog confirms 1998, alto saxophone and piano, and the Chad Lilley recording; checked 2026-10-27 · https://garrop.com/Catalog/ChamberEnsembles/saxophone/"
   - "Recorded by Michael Duke (saxophone) and David Howie (piano) on a Saxophone Classics anthology, track 9:15, recorded 2012 at the Sydney Conservatorium · https://sactx.aspendiscovery.org/NaxosMusicLibrary/on1034803276"
   - "Programmed on a University of Texas master's thesis recital with works by Muczynski, Albright and Russell Peck · https://repositories.lib.utexas.edu/handle/2152/23356?show=full"
   - "Exact score, scoring, dedication, duration and publisher. · https://www.presser.com/114-41106-fragmented-spirit.html"
@@ -25,6 +28,16 @@ publisher:
   - "Theodore Presser Company"
 ---
 ## Research notes (private)
+
+### Tim’s difficulty review, 2026-10-27
+
+Tim approved **Fourth Year** for this work. He agreed with the initial rating. Earlier estimates below are retained as research history.
+
+### Catalog review, 2026-10-27
+
+Retained Fourth Year as the provisional difficulty estimate requested by Tim. The prior university-recital evidence supports upper-undergraduate placement as a starting point. The composer’s emotionally fragmented design suggests expressive and pacing demands. No notation inspected in this review. Earlier research below is preserved.
+
+Evidence and edition checks: [[SaxoBrain - Stacy Garrop Catalog Review 2026-10-27]].
 
 ### Chat Batch 16 Follow-Up, October 15, 2026
 

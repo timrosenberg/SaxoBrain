@@ -9,8 +9,9 @@ born: 1989
 died: 
 wikidata: Q136641042
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://www.paulballam-cross.com/
 ---
+
+![[Composer Works.base#Works]]

@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [cdn.britannica.com](https://cdn.britannica.com/32/6932-004-9D879ABC/Max-Bruch-detail-engraving-photograph.jpg?s=1500x700&q=85)
+
+![[Composer Works.base#Works]]

@@ -17,3 +17,5 @@ website: https://www.jeanpierreleguay.com/
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jean-Pierre_Leguay_aux_grandes_orgues_de_la_Cath%C3%A9drale_Notre-Dame_de_Paris.jpg)
+
+![[Composer Works.base#Works]]

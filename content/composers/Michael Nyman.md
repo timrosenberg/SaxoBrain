@@ -16,3 +16,5 @@ website: https://www.michaelnyman.com/
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Michael_Nyman_Sant_Cugat.jpg)
+
+![[Composer Works.base#Works]]

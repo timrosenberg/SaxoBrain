@@ -11,8 +11,9 @@ born: 1975
 died: 
 wikidata: Q108056581
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://www.miriamayoung.com/
 ---
+
+![[Composer Works.base#Works]]

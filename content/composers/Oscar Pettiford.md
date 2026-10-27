@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Oscar_Pettiford_%28Gottlieb_07051%29.jpg)
+
+![[Composer Works.base#Works]]

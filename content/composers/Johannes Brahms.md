@@ -10,7 +10,8 @@ born: 1833
 died: 1897
 wikidata: Q7294
 photo: "/media/composers/johannes-brahms.jpg"
-photo-credit: 
 photo-source: "Notion upload"
 aliases: []
 ---
+
+![[Composer Works.base#Works]]

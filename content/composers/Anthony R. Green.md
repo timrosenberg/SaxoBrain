@@ -10,8 +10,9 @@ born: 1984
 died: 
 wikidata: 
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://www.anthonyrgreen.com/
 ---
+
+![[Composer Works.base#Works]]

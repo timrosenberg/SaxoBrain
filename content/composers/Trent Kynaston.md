@@ -9,8 +9,9 @@ born: 1946
 died: 
 wikidata: Q7838419
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://trentkynaston.com/
 ---
+
+![[Composer Works.base#Works]]

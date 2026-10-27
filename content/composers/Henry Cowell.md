@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Henry_Cowell_portrait_NYPL_4002097_%28cropped%29.jpg)
+
+![[Composer Works.base#Works]]

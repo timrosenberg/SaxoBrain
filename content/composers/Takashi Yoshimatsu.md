@@ -10,8 +10,9 @@ born: 1953
 died: 
 wikidata: Q1368689
 photo: "/media/composers/takashi-yoshimatsu.jpg"
-photo-credit: 
 photo-source: "Notion upload"
 aliases: []
 website: https://yoshim.music.coocan.jp/
 ---
+
+![[Composer Works.base#Works]]

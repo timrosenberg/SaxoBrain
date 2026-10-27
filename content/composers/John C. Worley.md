@@ -10,7 +10,8 @@ born: 1919
 died: 1999
 wikidata: 
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 ---
+
+![[Composer Works.base#Works]]

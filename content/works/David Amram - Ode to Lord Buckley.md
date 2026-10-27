@@ -10,7 +10,10 @@ instruments:
 composed: 1981
 year-of-study: Fourth Year
 arranger-edition:
-streaming: https://classical.music.apple.com/us/album/825755995?l=en-US
+streaming:
+  - "Ode To Lord Buckley: Overture (Ken Radnofsky, Orchestra of Indian Hill, Bruce Hangen) · https://music.apple.com/us/album/ode-to-lord-buckley-overture/825755995?i=825756042"
+  - "Ode To Lord Buckley: Ballad (Ken Radnofsky, Orchestra of Indian Hill, Bruce Hangen) · https://music.apple.com/us/album/ode-to-lord-buckley-ballad/825755995?i=825756043"
+  - "Ode To Lord Buckley: Taxim (Ken Radnofsky, Orchestra of Indian Hill, Bruce Hangen) · https://music.apple.com/us/album/ode-to-lord-buckley-taxim/825755995?i=825756044"
 purchase:
   - https://www.grothmusic.com/p-37491-ode-to-lord-buckley-alto-sax-and-piano.aspx
 added: 2026-10-09
@@ -32,3 +35,19 @@ aliases: []
 > 
 > David Amram  
 > January 20, 1981
+
+## Research notes (private)
+
+### Inline recording review, 2026-10-27
+
+Verified inline recording added.
+
+Original listening source: https://classical.music.apple.com/us/album/825755995?l=en-US
+
+- Apple embeds may offer previews until the visitor signs in.
+
+Evidence:
+
+- Public lookup verifies all three Ode to Lord Buckley movements: Overture, Ballad, Taxim, and the named saxophonist/orchestra/conductor. Track IDs match the original Classical album structured data. Other album works are excluded. [Source](https://itunes.apple.com/lookup?id=825755995&entity=song)
+
+Full audit: [[SaxoBrain - Inline Recording Resolution Review 2026-10-27]].

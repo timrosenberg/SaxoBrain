@@ -17,3 +17,5 @@ website: https://www.frankmartin.org
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Frank_Martin_1960.jpg)
+
+![[Composer Works.base#Works]]

@@ -17,3 +17,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Spotify](https://i.scdn.co/image/ab6761610000e5ebf3bebe67462d7d1850cbf713)
+
+![[Composer Works.base#Works]]

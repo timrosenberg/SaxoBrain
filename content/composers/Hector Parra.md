@@ -17,3 +17,5 @@ website: https://www.hectorparra.net/
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hectorparra.jpg)
+
+![[Composer Works.base#Works]]

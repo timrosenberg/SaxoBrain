@@ -8,7 +8,8 @@ instruments:
   - "Piano"
 composed: 
 year-of-study: First Year
-streaming: "https://song.link/i/630630792"
+streaming:
+  - "Romance and Troika: tenor saxophone and piano, Hummel arrangement · https://www.youtube.com/watch?v=Qp2hBf013TQ"
 purchase:
   - "https://www.sheetmusicplus.com/title/romance-and-troika-from-lieutenant-kije-sheet-music/3009171?aff_id=426309&utm_medium=plg1"
   - "https://www.halleonard.com/product/4477547/romance-and-troika-from-lieutenant-kije"
@@ -20,11 +21,28 @@ research:
   - "Publisher specifies tenor saxophone and piano, arranger Herman Hummel, Rubank RUBX551 / Hal Leonard 4477547, twelve pages, external Grade 3. · https://www.halleonard.com/product/4477547/romance-and-troika-from-lieutenant-kije"
 ---
 
-- Recordings
-    - [Romance](https://song.link/i/630630792)
-    - [Troika](https://song.link/i/630630794)
+[Romance and Troika, tenor saxophone and piano](https://www.youtube.com/watch?v=Qp2hBf013TQ)
 
 ## Research notes (private)
+
+### Inline recording review, 2026-10-27
+
+Verified inline recording added.
+
+Original listening source: https://song.link/i/630630792
+
+- Primary uploader bendunn703 does not name performers in the description. One video contains the combined work in its natural Romance then Troika order.
+
+Evidence:
+
+- Apple search Prokofiev Romance Troika saxophone/Hummel and targeted tenor/piano recording/YouTube searches found no verified Hummel tenor/piano recording. Paul Summers/Robin Bigwood Troika track 1670378959 is an alto saxophone graded arrangement and was rejected. [Source](https://itunes.apple.com/search?term=Prokofiev%20Romance%20Troika%20saxophone&entity=song&limit=50)
+
+- Final direct YouTube public search inspected. Search results and candidate watch-page player metadata stored in /private/tmp/saxobrain-youtube-searches.json, /private/tmp/saxobrain-youtube-searches-second.json, and /private/tmp/saxobrain-youtube-details.json. [Source](https://www.youtube.com/results?search_query=Prokofiev%20Romance%20Troika%20Hummel%20tenor%20saxophone)
+
+- Title Romance and Troika. Primary description explicitly identifies Romance and Troika from Lieutenant Kije Suite, Solo for Bb Tenor Saxophone and Piano, Serge Prokofieff, arranged by Herman A Hummel. Current player status OK, playableInEmbed true. [Source](https://www.youtube.com/watch?v=Qp2hBf013TQ)
+
+Full audit: [[SaxoBrain - Inline Recording Resolution Review 2026-10-27]].
+
 
 ### Research checked October 16, 2026
 

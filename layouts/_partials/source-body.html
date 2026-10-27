@@ -1,2 +1,4 @@
 {{- /* Render a note's own body before resolving embeds or wikilinks. */ -}}
-{{- return (.Content | string | replaceRE `(?s)<h2 id="research-notes-private".*?(<h2 |\z)` "$1") -}}
+{{- $html := .Content | string | replaceRE `(?s)<h2 id="research-notes-private".*?(<h2 |\z)` "$1" -}}
+{{- /* Obsidian Base embeds are vault navigation, excluded before note-embed validation. */ -}}
+{{- return ($html | replaceRE `<p>!\[\[[^\]\r\n]+\.base(?:[|#][^\]\r\n]*)?\]\]</p>\n?` "") -}}

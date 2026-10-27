@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jacques_Ibert.jpg)
+
+![[Composer Works.base#Works]]

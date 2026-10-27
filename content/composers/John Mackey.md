@@ -10,8 +10,9 @@ born: 1973
 died: 
 wikidata: Q2752667
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://www.johnmackey.com/
 ---
+
+![[Composer Works.base#Works]]

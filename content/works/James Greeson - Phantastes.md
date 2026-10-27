@@ -31,6 +31,25 @@ publisher:
 
 ## Research notes (private)
 
+### Inline recording review, 2026-10-27
+
+**Unresolved:** no verified matching inline recording selected. Existing external destination retained.
+
+Original listening source: https://scholarworks.uark.edu/musccr/2114/
+
+- Retain original archive link. Full recital HLS requires cross-browser playback support and timing controls outside this pass.
+
+Evidence:
+
+- University archive identifies Phantastes in a 1998 faculty recital by Stan Morris and Henry Runkles. Its player exposes a full-recital HLS playlist. Original download endpoint returned 403. [Source](https://scholarworks.uark.edu/musccr/2114/)
+
+- University archive identifies Ryan Key, saxophone, and S. Michael Shuman, piano. Official contents explicitly place Phantastes at 10:07 and next work at 18:30. It exposes a public HLS playlist rather than a supported standalone MP 3. [Source](https://scholarworks.uark.edu/musccr/205/)
+
+- Playlist URL returns 200; no recording media was downloaded. [Source](https://s3.amazonaws.com/bepress-streaming-outbox-production/article_files/47/03/af/4703afed61dcca37ead81726aa772c86e2bd8414de0d5b751742c1171bb8b714_playlist.m3u8)
+
+Full audit: [[SaxoBrain - Inline Recording Resolution Review 2026-10-27]].
+
+
 ### Recording confirmed October 20, 2026
 
 Tim supplied the archive link and the 33:20 start time. The archive page contains an embedded recording and identifies Phantastes (1991) by James Greeson, with Stan Morris on saxophone and Henry Runkles on piano. Its Download button was checked: the file is a three-page recital-program PDF. The program confirms the title Phantastes, the performers and the October 1, 1998 date. Audio was not auditioned. The existing Fourth Year assignment is unchanged.
@@ -57,4 +76,3 @@ Catalog: [[James Greeson - Phantastes]]
 - Recording: [University of Arkansas recital archive lists a 1998 performance by Stan Morris, saxophone, and Henry Runkles, piano.](https://scholarworks.uark.edu/musccr/2114/) Archive record located; playback/download not inspected.
 - Collection/use: Documented on a university saxophone faculty recital.
 - Gaps: The archive item itself did not open in the browser review; score, recording playback, range, and musical demands remain unverified.
-

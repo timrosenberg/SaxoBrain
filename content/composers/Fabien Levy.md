@@ -10,8 +10,9 @@ born: 1968
 died: 
 wikidata: Q829275
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://www.fabienlevy.net
 ---
+
+![[Composer Works.base#Works]]

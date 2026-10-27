@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [s3.amazonaws.com](https://s3.amazonaws.com/CFSV2/obituaries/photos/8886/8886-OI1273792583MaryJeannevanAppledorn0012.jpg)
+
+![[Composer Works.base#Works]]

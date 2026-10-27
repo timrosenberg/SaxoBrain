@@ -17,3 +17,5 @@ website: https://www.maryfinsterer.com/
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mary_Finsterer.jpg)
+
+![[Composer Works.base#Works]]

@@ -17,3 +17,5 @@ website: https://www.philwoods.com
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Phil_woods_oslo_2007_1.jpg)
+
+![[Composer Works.base#Works]]

@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [humanitiesnebraska.org](https://humanitiesnebraska.org/wp-content/uploads/2020/07/SB_SynderNew.jpg.webp)
+
+![[Composer Works.base#Works]]

@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [cdn.britannica.com](https://cdn.britannica.com/32/134632-050-D940BBC5/Domenico-Cimarosa.jpg)
+
+![[Composer Works.base#Works]]

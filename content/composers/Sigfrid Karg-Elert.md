@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [upload.wikimedia.org](https://upload.wikimedia.org/wikipedia/en/9/90/Sigfrid_Karg-Elert_001.jpg)
+
+![[Composer Works.base#Works]]

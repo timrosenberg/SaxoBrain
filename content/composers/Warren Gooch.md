@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [navonarecords.com](https://www.navonarecords.com/nv/wp-content/uploads/2020/11/Warren-Gooch.jpg)
+
+![[Composer Works.base#Works]]

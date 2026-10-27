@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:D2003.06.29-16.22.25.png)
+
+![[Composer Works.base#Works]]

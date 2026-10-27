@@ -17,3 +17,5 @@ website: https://dorothyhindman.com/
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:DorothyHindman2016.jpg)
+
+![[Composer Works.base#Works]]

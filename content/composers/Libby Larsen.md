@@ -17,3 +17,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Libby_Larsen_at_book_release.jpg)
+
+![[Composer Works.base#Works]]

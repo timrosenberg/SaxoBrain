@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [images.squarespace-cdn.com](https://images.squarespace-cdn.com/content/v1/5a933b779d5abbfa670125af/4432e0ca-e8a3-41c5-908d-144cad9ce8fc/tailleferre.jpeg)
+
+![[Composer Works.base#Works]]

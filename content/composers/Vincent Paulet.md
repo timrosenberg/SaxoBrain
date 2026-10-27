@@ -15,3 +15,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vincent_paulet_1519184.jpg)
+
+![[Composer Works.base#Works]]

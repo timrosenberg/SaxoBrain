@@ -10,8 +10,9 @@ born: 1960
 died: 
 wikidata: Q79193522
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://www.charlespillow.com
 ---
+
+![[Composer Works.base#Works]]

@@ -10,8 +10,9 @@ born: 1967
 died: 
 wikidata: Q18921551
 photo: 
-photo-credit: 
 photo-source: 
 website: https://www.clareloveday.co.za
 aliases: []
 ---
+
+![[Composer Works.base#Works]]

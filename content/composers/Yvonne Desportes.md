@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Yvonne_Desportes_1930.jpg)
+
+![[Composer Works.base#Works]]

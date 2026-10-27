@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vincent_d%27Indy.jpg)
+
+![[Composer Works.base#Works]]

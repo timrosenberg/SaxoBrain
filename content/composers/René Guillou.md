@@ -15,3 +15,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:M._%28Ren%C3%A9%29_Guillou,_1er_Grand_prix_de_Rome,_musique_-_btv1b53166559d.jpg)
+
+![[Composer Works.base#Works]]

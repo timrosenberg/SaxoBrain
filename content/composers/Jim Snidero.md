@@ -10,8 +10,9 @@ born: 1958
 died: 
 wikidata: Q1286109
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://www.jimsnidero.com/
 ---
+
+![[Composer Works.base#Works]]

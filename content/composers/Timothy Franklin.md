@@ -9,8 +9,9 @@ born:
 died: 
 wikidata: 
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://timothyfranklin.com.au/
 ---
+
+![[Composer Works.base#Works]]

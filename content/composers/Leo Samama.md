@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [webshop.donemus.com](https://webshop.donemus.com/action/front/composer/Samama%2C+Leo?resource=232184&image=1)
+
+![[Composer Works.base#Works]]

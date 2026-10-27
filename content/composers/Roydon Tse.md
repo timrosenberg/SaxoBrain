@@ -11,9 +11,10 @@ born: 1991
 died: 
 wikidata: Q130364949
 photo: 
-photo-credit: 
 photo-source: 
 aliases:
   - /composers/royden-tse/
 website: https://roydontse.com/
 ---
+
+![[Composer Works.base#Works]]

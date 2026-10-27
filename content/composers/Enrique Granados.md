@@ -15,3 +15,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Enric_Granados_-_Ilustraci%C3%B3_Catalana.jpg)
+
+![[Composer Works.base#Works]]

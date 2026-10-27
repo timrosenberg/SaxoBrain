@@ -10,8 +10,9 @@ born: 1964
 died: 
 wikidata: 
 photo: "/media/composers/gary-nash.jpg"
-photo-credit: 
 photo-source: "Notion upload"
 aliases: []
 website: https://garynash.musicaneo.com/
 ---
+
+![[Composer Works.base#Works]]

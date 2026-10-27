@@ -17,3 +17,5 @@ website: https://www.davidheinick.com/
 
 > [!caption]
 > Photo: [davidheinick.com](http://www.davidheinick.com/uploads/2/1/6/5/21654642/header_images/1373721171.jpg)
+
+![[Composer Works.base#Works]]

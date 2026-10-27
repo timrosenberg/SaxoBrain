@@ -11,7 +11,8 @@ born: 1952
 died: 
 wikidata: Q1649889
 photo: "/media/composers/christian-lauba.jpg"
-photo-credit: 
 photo-source: "Notion upload"
 aliases: []
 ---
+
+![[Composer Works.base#Works]]

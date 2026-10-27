@@ -11,9 +11,10 @@ born: 1958
 died: 
 wikidata: Q3310230
 photo: 
-photo-credit: 
 photo-source: 
 aliases:
   - /composers/michael-lysight/
 website: https://www.michellysight.org/
 ---
+
+![[Composer Works.base#Works]]

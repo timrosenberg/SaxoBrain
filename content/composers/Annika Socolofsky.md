@@ -10,8 +10,9 @@ born: 1990
 died: 
 wikidata: 
 photo: 
-photo-credit: 
 photo-source: 
 website: https://aksocolofsky.com/
 aliases: []
 ---
+
+![[Composer Works.base#Works]]

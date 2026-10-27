@@ -10,7 +10,8 @@ born:
 died: 1742
 wikidata: Q712182
 photo: "/media/composers/henri-eccles.jpg"
-photo-credit: 
 photo-source: "Notion upload"
 aliases: []
 ---
+
+![[Composer Works.base#Works]]

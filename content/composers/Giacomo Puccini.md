@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:GiacomoPuccini.jpg)
+
+![[Composer Works.base#Works]]

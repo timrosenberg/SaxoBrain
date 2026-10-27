@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Portrait_du_compositeur_Absil.jpg)
+
+![[Composer Works.base#Works]]

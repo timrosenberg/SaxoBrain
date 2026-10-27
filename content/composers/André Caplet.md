@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Andr%C3%A9_Caplet,_by_Elmer_Chickering.jpg)
+
+![[Composer Works.base#Works]]

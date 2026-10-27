@@ -16,3 +16,5 @@ website: https://www.sarahneutkens.com/
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sasha_le_Fou_%26_Tippi_Parade_%282026%29.jpg)
+
+![[Composer Works.base#Works]]

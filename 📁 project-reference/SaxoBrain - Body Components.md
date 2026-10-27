@@ -2,6 +2,18 @@
 
 Page-specific text belongs in the note body. These components use Obsidian callouts, so their titles, text, and links remain visible and editable in the note. Ordinary Markdown still works throughout descriptions.
 
+## Composer Works in the Vault
+
+Each composer note embeds the shared `content/Composer Works.base` view:
+
+```markdown
+![[Composer Works.base#Works]]
+```
+
+Add this embed as its own paragraph at the end of new composer notes. The table shows linked work titles, instruments, composition years, and Year of Study. It filters the `composer` property against the note containing the embed, including works with multiple composers. New works appear automatically when their composer links are set.
+
+Base embeds are vault navigation. Hugo excludes standalone `.base` embeds before resolving note links. The public composer page keeps its existing generated works list.
+
 ## Resource Boxes
 
 Put the resource's link in the callout title. Everything inside the block is its optional description or credit. It can contain multiple paragraphs and links. Italics and a particular prefix are optional.
@@ -190,7 +202,7 @@ A `catalog` block keeps the invitation and links together. Its title is the actu
 
 ## Composer Photo Captions
 
-The composer note's `caption` block supplies the complete photo caption and source link. It appears beneath the portrait. Edit it directly, including the `Photo:` label. Image paths and provenance remain in the `photo` and `photo-source` properties. Empty legacy `photo-credit` properties are unused. The photo-maintenance script preserves existing body captions.
+The composer note's `caption` block supplies the complete photo caption and source link. It appears beneath the portrait. Edit it directly, including the `Photo:` label. Image paths and provenance remain in the `photo` and `photo-source` properties. Do not add a `photo-credit` property; put the credit in the caption instead. Captions can be prepared before a photo is added. The photo-maintenance script preserves existing body captions.
 
 ```markdown
 > [!caption]

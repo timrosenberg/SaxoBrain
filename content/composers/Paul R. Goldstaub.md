@@ -8,7 +8,8 @@ born: 1947
 died: 2014
 wikidata: 
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 ---
+
+![[Composer Works.base#Works]]

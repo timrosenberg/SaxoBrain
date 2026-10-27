@@ -17,3 +17,5 @@ website: https://davidmaslanka.com/
 
 > [!caption]
 > Photo: [NPR](https://npr.brightspotcdn.com/dims4/default/59015bc/2147483647/strip/true/crop/640x960+0+0/resize/880x1320!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkufm%2Ffiles%2F201708%2FDavid-Maslanka_Sue-Rissberger-Photography.jpg)
+
+![[Composer Works.base#Works]]

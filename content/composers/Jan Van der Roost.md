@@ -10,8 +10,9 @@ born: 1956
 died: 
 wikidata: Q1345538
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://janvanderroost.com/
 ---
+
+![[Composer Works.base#Works]]

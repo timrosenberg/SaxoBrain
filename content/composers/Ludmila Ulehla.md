@@ -9,8 +9,9 @@ born: 1923
 died: 2009
 wikidata: 
 photo: 
-photo-credit: 
 photo-source: 
 aliases:
   - /composers/ladislav-ulehla/
 ---
+
+![[Composer Works.base#Works]]

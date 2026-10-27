@@ -10,8 +10,9 @@ born: 1946
 died: 
 wikidata: Q2234045
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://www.danawilson.org/
 ---
+
+![[Composer Works.base#Works]]

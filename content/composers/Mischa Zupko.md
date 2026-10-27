@@ -10,8 +10,9 @@ born: 1971
 died: 
 wikidata: Q2859860
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://www.mischazupko.com/
 ---
+
+![[Composer Works.base#Works]]

@@ -9,7 +9,8 @@ born: 1951
 died: 
 wikidata: Q534712
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 ---
+
+![[Composer Works.base#Works]]

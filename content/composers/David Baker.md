@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:David_Baker_%28far_left%29_leading_the_Smithsonian_Jazz_Masterworks_Orchestra_%28cropped%29.jpg)
+
+![[Composer Works.base#Works]]

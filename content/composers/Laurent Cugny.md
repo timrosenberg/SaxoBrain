@@ -17,3 +17,5 @@ website: https://www.laurentcugny.fr/
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Laurent_Cugny.jpg)
+
+![[Composer Works.base#Works]]

@@ -15,3 +15,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Stanis%C5%82aw_Skrowaczewski,_oct_2011_in_Tokyo.jpg)
+
+![[Composer Works.base#Works]]

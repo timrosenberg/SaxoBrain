@@ -17,3 +17,5 @@ website: https://shoichi-yabuta.jp/
 
 > [!caption]
 > Photo: [Zen-On](https://www.zen-on.co.jp/files_thumbnail/co/composer/yabuta.jpg/500.jpg)
+
+![[Composer Works.base#Works]]

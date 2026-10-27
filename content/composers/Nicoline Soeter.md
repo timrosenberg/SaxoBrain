@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [donemus.nl](https://webshop.donemus.com/action/front/composer/Soeter%2C+Nicoline?resource=277524&image=1)
+
+![[Composer Works.base#Works]]

@@ -11,8 +11,9 @@ born: 1961
 died: 
 wikidata: Q1876493
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://luisnaon.com
 ---
+
+![[Composer Works.base#Works]]

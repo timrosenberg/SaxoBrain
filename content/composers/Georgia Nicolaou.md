@@ -17,3 +17,5 @@ website: https://georgianicolaou.com/
 
 > [!caption]
 > Photo: [georgianicolaou.com](https://i0.wp.com/georgianicolaou.com/wp-content/uploads/2021/01/DSC_8034-scaled.jpg)
+
+![[Composer Works.base#Works]]

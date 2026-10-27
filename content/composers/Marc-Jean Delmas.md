@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Marc_Delmas.jpg)
+
+![[Composer Works.base#Works]]

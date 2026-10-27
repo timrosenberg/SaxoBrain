@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Prijsuitreiking_Lex_van_Delden_Amsterdam.jpg)
+
+![[Composer Works.base#Works]]

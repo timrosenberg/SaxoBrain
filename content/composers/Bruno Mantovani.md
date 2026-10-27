@@ -17,3 +17,5 @@ website: https://www.brunomantovani.com/
 
 > [!caption]
 > Photo: [Académie des beaux-arts](https://www.academiedesbeauxarts.fr/sites/default/files/styles/member/public/2019-11/_MG_5446.jpg?h=da752ce2&itok=UbbApobI)
+
+![[Composer Works.base#Works]]

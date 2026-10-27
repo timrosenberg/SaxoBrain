@@ -17,3 +17,5 @@ website: https://davidamram.com/
 
 > [!caption]
 > Photo: [milkenarchive.org](https://www.milkenarchive.org/assets/Photos/David-Amram-107__ScaleMaxWidthWzUwMF0.jpg)
+
+![[Composer Works.base#Works]]

@@ -17,3 +17,5 @@ website: https://www.karlheinzstockhausen.org
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Stockhausen_March_2004_excerpt.jpg)
+
+![[Composer Works.base#Works]]

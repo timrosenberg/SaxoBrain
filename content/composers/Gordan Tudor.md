@@ -9,7 +9,8 @@ born: 1982
 died: 
 wikidata: 
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 ---
+
+![[Composer Works.base#Works]]

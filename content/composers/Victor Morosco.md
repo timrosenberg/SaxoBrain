@@ -10,8 +10,9 @@ born: 1936
 died: 
 wikidata: 
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://victormorosco.com/
 ---
+
+![[Composer Works.base#Works]]

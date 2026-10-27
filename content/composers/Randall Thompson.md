@@ -15,3 +15,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Randallthompson.jpeg)
+
+![[Composer Works.base#Works]]

@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Kristeligt Dagblad](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR00T6IRlzF-NoYxqqedD6bCtzgm3IITBBJnhYskCHAa2q_8c2r_UOtfU7c8xRU9XEKUm95fhw6JlcEop0jhcSryz6yK0OHtsyF949SJM-Pzg&s=10)
+
+![[Composer Works.base#Works]]

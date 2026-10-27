@@ -8,7 +8,8 @@ born: 1941
 died: 2022
 wikidata: 
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 ---
+
+![[Composer Works.base#Works]]

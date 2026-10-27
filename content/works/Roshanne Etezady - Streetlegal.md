@@ -6,7 +6,7 @@ composer:
 instruments:
   - "Soprano Saxophone"
   - "Piano"
-composed: 
+composed: 2003
 year-of-study: "Advanced"
 streaming: "https://www.youtube.com/watch?v=c0t7Wwrww4w"
 purchase:
@@ -14,3 +14,7 @@ purchase:
 added: 2024-02-21
 aliases: []
 ---
+
+## Research notes (private)
+
+- Composition year verified October 27, 2026, against [Roshanne Etezady’s works catalog](https://roshanne.com/works), which lists *Streetlegal* as 2003.

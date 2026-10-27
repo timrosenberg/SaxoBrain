@@ -17,3 +17,5 @@ website: http://vellones.free.fr/
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pv28.jpg)
+
+![[Composer Works.base#Works]]

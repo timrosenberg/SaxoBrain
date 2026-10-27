@@ -11,7 +11,8 @@ year-of-study: Advanced
 arranger-edition: 
 publisher:
   - "Zen-On"
-streaming: "https://vimeo.com/161118511"
+streaming:
+  - "Masanori Oishi, alto saxophone · https://music.apple.com/us/album/initial-s/1439796394?i=1439796398"
 purchase:
   - "https://shop.zen-on.co.jp/downloads/detail/50952600/"
 added: 2026-10-09
@@ -28,6 +29,27 @@ research:
 
 
 ## Research notes (private)
+
+### Inline recording review, 2026-10-27
+
+Verified inline recording added.
+
+Original listening source: https://vimeo.com/161118511
+
+- Use verified Apple fallback because actual Vimeo embed playback could not be confirmed. Apple may offer previews until sign-in.
+
+Evidence:
+
+- Public Apple catalog search returns Initial S, Masanori Oishi, album Smoke, and this canonical track URL. [Source](https://itunes.apple.com/search?term=Initial+S+Kenji+Sakai&entity=song&limit=50)
+
+- Official record label verifies Masanori Oishi’s unaccompanied recording and explicitly lists Kenji Sakai Initial S for alto saxophone. [Source](https://odradek-records.com/release/masanori-oishi-smoke/)
+
+- Spotify independently identifies Initial S, Kenji Sakai, Masanori Oishi, Smoke, 7:56. [Source](https://open.spotify.com/track/6r9YEzaef1AjHfZgPxvMkm)
+
+- Original Vimeo oEmbed verifies exact title, Tadayoshi Kusakabe, 2016 Austrian premiere,488s, and an iframe. Direct player request returned 401 connection security restriction; config returned 403 PrivacyError. [Source](https://vimeo.com/api/oembed.json?url=https://vimeo.com/161118511)
+
+Full audit: [[SaxoBrain - Inline Recording Resolution Review 2026-10-27]].
+
 
 ### Research checked October 16, 2026
 

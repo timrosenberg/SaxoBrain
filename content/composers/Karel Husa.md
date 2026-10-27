@@ -17,3 +17,5 @@ aliases: []
 
 > [!caption]
 > Photo: [schott-production.s3.eu-central-1.amazonaws.com](https://schott-production.s3.eu-central-1.amazonaws.com/public_content/contributor/9319/portrait_l/Husa.jpg)
+
+![[Composer Works.base#Works]]

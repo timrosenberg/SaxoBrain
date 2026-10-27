@@ -17,3 +17,5 @@ website: https://dirkbrosse.be/
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dirk_Bross%C3%A9_%282024%29.png)
+
+![[Composer Works.base#Works]]

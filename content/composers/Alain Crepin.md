@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Alain_Cr%C3%A9pin.jpg)
+
+![[Composer Works.base#Works]]

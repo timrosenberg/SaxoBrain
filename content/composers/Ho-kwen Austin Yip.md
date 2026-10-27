@@ -9,8 +9,9 @@ born: 1985
 died: 
 wikidata: 
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://austinyip.com/
 ---
+
+![[Composer Works.base#Works]]

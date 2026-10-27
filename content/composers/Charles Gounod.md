@@ -15,3 +15,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Charles_Gounod_%281890%29_by_Nadar.jpg)
+
+![[Composer Works.base#Works]]

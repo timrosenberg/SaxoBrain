@@ -2,13 +2,14 @@
 title: "Hot"
 slug: hot
 saxophonists: "Ryan Muncy"
-works: []
+works:
+  - "[[Georges Aperghis - Rasch]]"
 streaming: "https://newfocusrecordings.bandcamp.com/album/hot"
 youtube: "https://www.youtube.com/playlist?list=OLAK5uy_nE892uYWD428Bqeh__CkhYLgdusob0LFs"
 spotify: "https://open.spotify.com/album/4YXcqABHXvu0fsnjTSe9Op"
 apple-music: "https://music.apple.com/us/album/hot/734055339"
 tracks:
-  - "Rasch (version for saxophone and viola) · 6:55 · Georges Aperghis"
+  - "Rasch (version for saxophone and viola) · 6:55 · [[Georges Aperghis - Rasch]]"
   - "Refrain from Riffing · 13:18 · Anthony Cheung"
   - "Asphyxia · 10:08 · Aaron Cassidy"
   - "Strohbass · 6:48 · [[Marcos Balter]]"

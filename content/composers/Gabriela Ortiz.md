@@ -17,3 +17,5 @@ website: https://gabrielaortiz.com/
 
 > [!caption]
 > Photo: [acmusic.org](https://acmusic.org/wp-content/uploads/2022/02/Ortiz-photo.jpg)
+
+![[Composer Works.base#Works]]

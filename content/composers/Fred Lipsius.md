@@ -17,3 +17,5 @@ website: https://www.fredlipsius.com/
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:FredLipsius.jpg)
+
+![[Composer Works.base#Works]]

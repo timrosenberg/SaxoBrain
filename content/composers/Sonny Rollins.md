@@ -17,3 +17,5 @@ website: https://sonnyrollins.com
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:SonnyRollins.jpg)
+
+![[Composer Works.base#Works]]

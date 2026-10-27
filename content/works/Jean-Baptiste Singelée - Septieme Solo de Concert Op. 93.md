@@ -10,7 +10,8 @@ composed: 1863
 year-of-study: "First Year"
 publisher:
   - "Adolphe Sax"
-streaming: "https://classical.music.apple.com/fr/recording/jean-baptiste-singelee-1812-pp26-1572077053"
+streaming:
+  - "Septième solo de concert pour saxophone baryton et piano, Op. 93 (Ulrich Berg and Guy Penson) · https://music.apple.com/fr/album/septi%C3%A8me-solo-de-concert-pour-saxophone-baryton-et/1572077053?i=1572077057"
 purchase:
   - "Dorn edition (E-flat and B-flat parts) · https://www.grothmusic.com/p-139749.aspx"
   - "Baritone edition, Paul Wehage, MFJBS011 · https://www.notendownload.com/solo-de-concert-no.-7-opus-93/mfjbs011"
@@ -20,6 +21,21 @@ research:
 aliases: []
 ---
 ## Research notes (private)
+
+### Inline recording review, 2026-10-27
+
+Verified inline recording added.
+
+Original listening source: https://classical.music.apple.com/fr/recording/jean-baptiste-singelee-1812-pp26-1572077053
+
+- Apple embeds may offer previews until the visitor signs in.
+
+Evidence:
+
+- Original Classical page structured play action exposes actual song 1572077057 and album 1572077053. Public lookup independently returns Septième solo de concert pour saxophone baryton et piano, Op.93, Ulrich Berg and Guy Penson. Correct baritone version; 2:01. [Source](https://itunes.apple.com/lookup?id=1572077057&country=fr)
+
+Full audit: [[SaxoBrain - Inline Recording Resolution Review 2026-10-27]].
+
 
 ### Applied Decision, October 12, 2026
 

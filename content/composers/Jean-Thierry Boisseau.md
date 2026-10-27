@@ -17,3 +17,5 @@ website: http://www.jean-thierryboisseau.com
 
 > [!caption]
 > Photo: [classicalmusicnow.com](http://www.classicalmusicnow.com/images/jtb250.jpg)
+
+![[Composer Works.base#Works]]

@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:John-dankworth-buxton-opera-house.jpg)
+
+![[Composer Works.base#Works]]

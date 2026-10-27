@@ -15,3 +15,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cecile_chaminade.jpg)
+
+![[Composer Works.base#Works]]

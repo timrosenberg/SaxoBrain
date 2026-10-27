@@ -1,0 +1,30 @@
+filters:
+  and:
+    - file.folder == "content/works"
+    - '!file.name.startsWith("_")'
+    - list(composer).contains(this)
+formulas:
+  work: file.asLink(title)
+properties:
+  formula.work:
+    displayName: Work
+  note.instruments:
+    displayName: Instruments
+  note.composed:
+    displayName: Composed
+  note.year-of-study:
+    displayName: Year of Study
+views:
+  - type: table
+    name: Works
+    order:
+      - formula.work
+      - instruments
+      - composed
+      - year-of-study
+    sort:
+      - property: title
+        direction: ASC
+    columnSize:
+      formula.work: 360
+      note.instruments: 220

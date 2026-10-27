@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [digital.library.umkc.edu](https://digital.library.umkc.edu/sites/default/files/3552-Service%20File.jpg)
+
+![[Composer Works.base#Works]]

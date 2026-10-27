@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fortepan_137711_%28cropped%29.jpg)
+
+![[Composer Works.base#Works]]

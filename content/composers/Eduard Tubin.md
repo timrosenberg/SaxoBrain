@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Eduard_Tubin,_1947.jpg)
+
+![[Composer Works.base#Works]]

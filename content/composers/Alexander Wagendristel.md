@@ -9,7 +9,8 @@ born: 1965
 died: 
 wikidata: Q2643215
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 ---
+
+![[Composer Works.base#Works]]

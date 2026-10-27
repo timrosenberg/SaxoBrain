@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:KTcomposer-portrait-02074.jpg)
+
+![[Composer Works.base#Works]]

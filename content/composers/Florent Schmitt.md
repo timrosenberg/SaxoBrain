@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [i0.wp.com](https://i0.wp.com/florentschmitt.com/wp-content/uploads/2016/03/florent-schmitt-in-the-gardens-of-his-home-st-cloud-1937.jpg)
+
+![[Composer Works.base#Works]]

@@ -10,8 +10,9 @@ born: 1957
 died: 
 wikidata: Q11519976
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: http://dinosax.net/
 ---
+
+![[Composer Works.base#Works]]

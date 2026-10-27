@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [New Japan Philharmonic](https://www.njp.or.jp/wp-content/uploads/2025/01/guest_katomasanori.jpg)
+
+![[Composer Works.base#Works]]

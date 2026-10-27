@@ -10,8 +10,9 @@ born: 1981
 died: 
 wikidata: 
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://www.michaelleibowitzcomposer.com/
 ---
+
+![[Composer Works.base#Works]]

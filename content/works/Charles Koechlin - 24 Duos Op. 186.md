@@ -12,7 +12,8 @@ year-of-study: "First Year"
 arranger-edition: "Georges Gourdet, saxophone edition; Billaudot GB3715 and GB3716"
 publisher:
   - "Éditions Billaudot"
-streaming: "https://www.brilliantclassics.com/articles/k/koechlin-complete-music-for-saxophone/"
+streaming:
+  - "24 Duos, Op. 186: disc 1, tracks 12-35 in Complete Music for Saxophone · https://music.apple.com/us/album/koechlin-complete-music-for-saxophone/652904888"
 purchase:
   - "Volume 1, Duos 1–12, GB3715 · https://www.billaudot.com/24-duos-pour-saxophones-op.-186.-volume-1-2.html"
   - "Volume 2, Duos 13–24, GB3716 · https://www.billaudot.com/24-duos-pour-saxophones-op.-186.-volume-2-2.html"
@@ -32,7 +33,27 @@ aliases: []
 
 Twenty-four unaccompanied duos, Op. 186. The original manuscript permits soprano and alto saxophones as well as soprano and contralto voices. The published saxophone edition includes two E-flat instruments, two B-flat instruments, and mixed E-flat/B-flat combinations. [University of North Texas dissertation](https://digital.library.unt.edu/ark:/67531/metadc804908/).
 
+The album player includes other works. The 24 Duos occupy disc 1, tracks 12-35.
+
 ## Research notes (private)
+
+### Inline recording review, 2026-10-27
+
+Verified inline recording added.
+
+Original listening source: https://www.brilliantclassics.com/articles/k/koechlin-complete-music-for-saxophone/
+
+- Album player includes other Koechlin works; exact work-specific track URLs provided separately.
+- Apple access may be preview-only without subscription.
+
+Evidence:
+
+- Original label identifies album 9266 and the exact works. The page embeds exact track MP3 samples: duos on disc1 tracks12-35, seven pieces on disc2 tracks16-22. [Source](https://www.brilliantclassics.com/articles/k/koechlin-complete-music-for-saxophone/)
+
+- Apple catalog confirms the full Brilliant Classics album and all exact matching work tracks. 24 Duos for Two Saxophones, Op.186; David Brutti and Davide Bartelucci; 24 consecutive work tracks. [Source](https://itunes.apple.com/lookup?id=652904888&entity=song&limit=200)
+
+Full audit: [[SaxoBrain - Inline Recording Resolution Review 2026-10-27]].
+
 
 ### Chat Batch 17 Follow-Up, October 15, 2026
 

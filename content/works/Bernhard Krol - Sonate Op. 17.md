@@ -8,7 +8,10 @@ instruments:
   - "Piano"
 composed: 1954
 year-of-study: "Second Year"
-streaming: "https://www.eda-records.com/index.php?article_id=177&cd_id=68"
+streaming:
+  - "Sonata, Op. 17: I. Presto · Frank Lunte and Tatjana Blome · https://open.spotify.com/track/1DstWPh4AhlVOpGSWZc7yC?utm_source=openai&utm_medium=chatgpt&go=1&nap_web=1&request_id=0d0f4e1d-21b8-4131-a581-ea886e30b61f"
+  - "Sonata, Op. 17: II. Maestoso · Frank Lunte and Tatjana Blome · https://open.spotify.com/track/4foKvg9dhvW46G6SCb225x?utm_source=openai&utm_medium=chatgpt&go=1&nap_web=1&request_id=0d0f4e1d-21b8-4131-a581-ea886e30b61f"
+  - "Sonata, Op. 17: III. Allegro assai · Frank Lunte and Tatjana Blome · https://open.spotify.com/track/2Cris4F0lQIYUlHWEUAXEB?utm_source=openai&utm_medium=chatgpt&go=1&nap_web=1&request_id=0d0f4e1d-21b8-4131-a581-ea886e30b61f"
 purchase:
   - "https://www.grothmusic.com/p-143741.aspx"
   - "https://www.sheetmusicplus.com/title/Sonate-op-17/18162692"
@@ -24,6 +27,23 @@ publisher:
 aliases: []
 ---
 ## Research notes (private)
+
+### Inline recording review, 2026-10-27
+
+Verified inline recording added.
+
+Original listening source: https://www.eda-records.com/index.php?article_id=177&cd_id=68
+
+- Spotify access may require sign-in or subscription. Full tracks chosen over label excerpts.
+
+Evidence:
+
+- Original label page identifies Bernhard Krol Sonata Op. 17, 1954, three movements Presto/Maestoso/Allegro assai, Frank Lunte and Tatjana Blome. Original files sax_iv_7_mp3.mp3 through sax_iv_9_mp3.mp3 each return 200 audio/mpeg but are listening samples. [Source](https://www.eda-records.com/index.php?article_id=177&cd_id=68)
+
+- Spotify catalog confirms all three exact Krol movements performed by Lunte/Blome on Music for Saxophone from Germany 1952-1969. All are PLAYABLE; durations 4:02, 5:15, 4:22. [Source](https://open.spotify.com/album/4C6NIOrhxKsUCgkwRkGito)
+
+Full audit: [[SaxoBrain - Inline Recording Resolution Review 2026-10-27]].
+
 
 ### Chat batch 06 follow-up, 2026-10-12
 
@@ -53,4 +73,3 @@ Catalog: [[Bernhard Krol - Sonate Op. 17]]
 
 - Publisher: Friedrich Hofmeister. [Source](https://www.sheetmusicplus.com/title/Sonate-op-17/18162692)
 - Score purchase: Verified edition link added. [Source](https://www.sheetmusicplus.com/title/Sonate-op-17/18162692)
-

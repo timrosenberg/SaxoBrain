@@ -17,3 +17,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Schulhoff_Mayerova_1931.jpg)
+
+![[Composer Works.base#Works]]

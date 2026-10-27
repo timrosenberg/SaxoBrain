@@ -9,8 +9,9 @@ born:
 died: 
 wikidata: 
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://www.nubim.net/
 ---
+
+![[Composer Works.base#Works]]

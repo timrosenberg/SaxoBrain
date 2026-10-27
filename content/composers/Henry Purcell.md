@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Henry_Purcell_by_John_Closterman.jpg)
+
+![[Composer Works.base#Works]]

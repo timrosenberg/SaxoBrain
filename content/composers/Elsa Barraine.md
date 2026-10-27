@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Elsa_Barraine_1940.jpg)
+
+![[Composer Works.base#Works]]

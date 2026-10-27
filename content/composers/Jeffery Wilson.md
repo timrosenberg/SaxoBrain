@@ -8,7 +8,6 @@ born:
 died:
 wikidata:
 photo:
-photo-credit:
 photo-source:
 aliases: []
 website: "https://www.jefferywilson.co.uk/"
@@ -20,3 +19,5 @@ Composer identity corrected from Robert Wilson to Jeffery Wilson at Tim’s requ
 
 - [Saxtet Publications: Silver Sonatina](https://saxtetpublications.com/product/silver-sonatina/)
 - [Jeffery Wilson: Chamber Music and Solo Works](https://www.jefferywilson.co.uk/copy-of-orchestral-larger-forces)
+
+![[Composer Works.base#Works]]

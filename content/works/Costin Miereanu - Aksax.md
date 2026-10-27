@@ -10,7 +10,8 @@ composed: 1983
 year-of-study: Fourth Year
 arranger-edition:
   - "EAS18107 / SLB00226100; ISMN 9790048027213; bass or baritone solo"
-streaming: "https://music.amazon.in/albums/B0C7CPKT2H"
+streaming:
+  - "KIENTZY · L’art du Saxophone · https://open.spotify.com/track/6zAbq9CopTXS0jEckiMHfl?utm_source=openai&utm_medium=chatgpt&go=1&nap_web=1&request_id=cc359e1c-4447-4d21-918c-5174941f6c6a"
 purchase:
   - "bass saxophone solo edition · https://www.blasmusik-shop.de/Aksax-Basse-Saxophone-Seul"
 added: 2026-10-09
@@ -29,6 +30,27 @@ research:
 - [Daniel Kientzy, L’Art du Saxophone (album containing Aksax)](https://music.amazon.in/albums/B0C7CPKT2H)
 
 ## Research notes (private)
+
+### Inline recording review, 2026-10-27
+
+Verified inline recording added.
+
+Original listening source: https://music.amazon.in/albums/B0C7CPKT2H
+
+- Spotify access may require sign-in or subscription.
+
+Evidence:
+
+- Original Amazon page is inaccessible via browser parser and returned no useful recording metadata in direct page fetch. [Source](https://music.amazon.in/albums/B0C7CPKT2H)
+
+- Performer discography identifies Aksax recording on L’Art du Saxophone, Nova Musica NMCD5101. [Source](https://kientzy.pro/discographie)
+
+- IRCAM confirms solo bass or baritone saxophone work, premiered by Daniel Kientzy. [Source](https://ressources.ircam.fr/fr/work/aksax)
+
+- Spotify catalog returns exact Aksax by Costin Miereanu and KIENTZY, on L’art du Saxophone, PLAYABLE, 345000ms. [Source](https://open.spotify.com/track/6zAbq9CopTXS0jEckiMHfl?utm_source=openai&utm_medium=chatgpt&go=1&nap_web=1&request_id=cc359e1c-4447-4d21-918c-5174941f6c6a)
+
+Full audit: [[SaxoBrain - Inline Recording Resolution Review 2026-10-27]].
+
 
 ### Research checked October 16, 2026
 

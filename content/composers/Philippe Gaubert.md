@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Philippe_Gaubert.JPG)
+
+![[Composer Works.base#Works]]

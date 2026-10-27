@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pavle_De%C5%A1palj_%282013%29.jpg)
+
+![[Composer Works.base#Works]]

@@ -10,7 +10,8 @@ born: 1919
 died: 2019
 wikidata: Q1295613
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 ---
+
+![[Composer Works.base#Works]]

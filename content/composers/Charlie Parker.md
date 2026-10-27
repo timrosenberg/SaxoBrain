@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Portrait_of_Charlie_Parker_in_1947.jpg)
+
+![[Composer Works.base#Works]]

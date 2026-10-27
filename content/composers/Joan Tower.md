@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Joan_Tower_in_music_is_%28Speaking_Portraits%29_%28Vol._I%29.jpg)
+
+![[Composer Works.base#Works]]

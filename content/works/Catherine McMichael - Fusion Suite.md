@@ -8,7 +8,8 @@ instruments:
   - "Piano"
 composed: 
 year-of-study: "Second Year"
-streaming: "http://c-alanpublications.com/fusion-suite/"
+streaming:
+  - "C. Alan Publications · complete recording · https://soundcloud.com/c-alanpublications/fusion-suite-by-catherine"
 purchase:
   - https://www.grothmusic.com/p-39046.aspx
   - http://c-alanpublications.com/fusion-suite/
@@ -24,6 +25,24 @@ publisher:
   - "C. Alan Publications"
 ---
 ## Research notes (private)
+
+### Inline recording review, 2026-10-27
+
+Verified inline recording added.
+
+Original listening source: http://c-alanpublications.com/fusion-suite/
+
+
+Evidence:
+
+- Publisher identifies Catherine McMichael, baritone saxophone and piano, 12:15, and embeds SoundCloud track 135676609. Also links full MP3. [Source](https://c-alanpublications.com/fusion-suite/)
+
+- Public metadata confirms Fusion Suite by Catherine McMichael, uploader C. Alan Publications, duration 736934ms (12:17). oEmbed succeeds. [Source](https://soundcloud.com/c-alanpublications/fusion-suite-by-catherine)
+
+- Publisher full-MP3 link resolves here and returns 200 audio/mpeg. [Source](https://c-alanpublications.com/content/mp3/fusion-full.mp3)
+
+Full audit: [[SaxoBrain - Inline Recording Resolution Review 2026-10-27]].
+
 
 ### Chat batch 07 follow-up, 2026-10-13
 
@@ -64,4 +83,3 @@ Open questions: C. Alan score sample images were not accessible; no notation ins
 Searches checked:
 - Catherine McMichael Fusion Suite baritone saxophone piano publisher score sample
 - Albany Records TROY1182 Fusion Suite Lynn Klock
-

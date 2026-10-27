@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [clevelandartsprize.org](https://clevelandartsprize.org/wp-content/uploads/2024/08/Fred-Koch.jpg)
+
+![[Composer Works.base#Works]]

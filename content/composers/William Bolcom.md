@@ -17,3 +17,5 @@ website: https://williambolcom.com
 
 > [!caption]
 > Photo: [syncopatedtimes.com](https://syncopatedtimes.com/wp-content/uploads/2021/10/002_W-Bolcom_Red-Bow-Tie-lg.jpg)
+
+![[Composer Works.base#Works]]

@@ -17,3 +17,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jacques_Offenbach_by_F%C3%A9lix_Nadar_%28restored%29.jpg)
+
+![[Composer Works.base#Works]]

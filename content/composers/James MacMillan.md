@@ -9,8 +9,9 @@ born: 1959
 died: 
 wikidata: 
 photo: 
-photo-credit: 
 photo-source: 
 aliases:
   - /composers/iain-macmillan/
 ---
+
+![[Composer Works.base#Works]]

@@ -17,3 +17,5 @@ website: https://elliotdelborgo.com/
 
 > [!caption]
 > Photo: [kjos.com](https://kjos.com/pub/media/person/Del_Borgo_Elliot.jpg)
+
+![[Composer Works.base#Works]]

@@ -10,8 +10,9 @@ born: 1969
 died: 
 wikidata: Q41790073
 photo: 
-photo-credit: 
 photo-source: 
 website: http://amywilliamsmusic.com
 aliases: []
 ---
+
+![[Composer Works.base#Works]]

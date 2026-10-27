@@ -15,3 +15,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Georges_Sporck.jpg)
+
+![[Composer Works.base#Works]]

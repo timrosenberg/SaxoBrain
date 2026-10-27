@@ -9,8 +9,9 @@ born:
 died: 
 wikidata: Q98663410
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://katherineannmurdock.com/
 ---
+
+![[Composer Works.base#Works]]

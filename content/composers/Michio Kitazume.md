@@ -17,3 +17,5 @@ website: https://michiokitazume.com/
 
 > [!caption]
 > Photo: [Zen-On](https://www.zen-on.co.jp/files_thumbnail/co/composer/kitazume.jpg/500.jpg)
+
+![[Composer Works.base#Works]]

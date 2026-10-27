@@ -17,3 +17,5 @@ website: https://www.arthurgottschalk.com/
 
 > [!caption]
 > Photo: [arthurgottschalk.com](https://www.arthurgottschalk.com/wp-content/uploads/2023/05/Arthur-Gottschalk_composer.jpg)
+
+![[Composer Works.base#Works]]

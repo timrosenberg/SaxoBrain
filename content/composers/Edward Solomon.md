@@ -15,3 +15,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Edward_Solomon_photo.jpg)
+
+![[Composer Works.base#Works]]

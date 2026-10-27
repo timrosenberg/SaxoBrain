@@ -10,8 +10,9 @@ born: 1947
 died: 
 wikidata: Q922055
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://someisatoh.yoshi-moto.com
 ---
+
+![[Composer Works.base#Works]]

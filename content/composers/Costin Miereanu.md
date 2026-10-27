@@ -17,3 +17,5 @@ aliases: []
 
 > [!caption]
 > Photo: [ucmr.org.ro](https://ucmr.org.ro/wp-content/uploads/2025/08/Costin-Miereanu-2048x1365.jpg)
+
+![[Composer Works.base#Works]]

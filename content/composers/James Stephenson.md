@@ -10,8 +10,9 @@ born: 1969
 died: 
 wikidata: Q133576361
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://composerjim.com/
 ---
+
+![[Composer Works.base#Works]]

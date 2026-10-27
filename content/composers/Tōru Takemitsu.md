@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Toru_Takemitsu_Shinchosha_1961-7.jpg)
+
+![[Composer Works.base#Works]]

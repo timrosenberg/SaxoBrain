@@ -183,6 +183,10 @@
     const a = e.target.closest("a[href]");
     if (!a || e.button || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
     const u = new URL(a.href, location.href);
+    if (u.origin === location.origin && u.pathname === location.pathname && u.hash) {
+      const target = Array.from(panel.querySelectorAll("[id]")).find(el => "#" + el.id === u.hash);
+      if (target) { e.preventDefault(); target.scrollIntoView({ block: "start" }); return; }
+    }
     if (u.origin === location.origin && /\/works\/[^/]+\/$/.test(u.pathname)) { e.preventDefault(); openWork(u.href, null, true); }
   });
 

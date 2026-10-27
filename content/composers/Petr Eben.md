@@ -15,3 +15,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Petr_Eben_%28c._1968%29.png)
+
+![[Composer Works.base#Works]]

@@ -9,8 +9,9 @@ born: 1921
 died: 2010
 wikidata: 
 photo: 
-photo-credit: 
 photo-source: 
 aliases:
   - /composers/robert-tepper/
 ---
+
+![[Composer Works.base#Works]]

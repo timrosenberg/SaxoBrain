@@ -10,8 +10,9 @@ born: 1971
 died: 
 wikidata: Q50555821
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://www.gilles-martin.info/
 ---
+
+![[Composer Works.base#Works]]

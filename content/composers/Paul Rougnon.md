@@ -15,3 +15,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Paul_Rougnon_%28Nadar%29.jpg)
+
+![[Composer Works.base#Works]]

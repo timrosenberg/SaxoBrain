@@ -9,7 +9,8 @@ instruments:
   - "Piano"
 composed: 1940
 year-of-study: Third Year
-streaming: "https://holocaustmusic.ort.org/resistance-and-exile/jaromir-weinberger/"
+streaming:
+  - "First movement only · https://holocaustmusic.ort.org/HolocaustMusic/hannah-cranston/cc-weinberger-mvt-1.mp3"
 purchase:
   - https://www.ficksmusic.com/products/weinberger-alto-saxophone-concerto-revised-southern
   - "https://www.halleonard.com/product/298123/alto-saxophone-concerto-revised"
@@ -34,7 +35,28 @@ arranger-edition:
 
 The linked recording contains the concerto's first movement.
 
+The linked recording contains the first movement only.
+
 ## Research notes (private)
+
+### Inline recording review, 2026-10-27
+
+Verified inline recording added.
+
+Original listening source: https://holocaustmusic.ort.org/resistance-and-exile/jaromir-weinberger/
+
+- First movement only. Source prose and caption disagree on soloist surname, so performer surname is omitted. Audio playback was not auditioned.
+
+Evidence:
+
+- Original ORT article exposes this exact MP 3 in a source element, identifying first-movement performance with Czech National Symphony Orchestra conducted by Tristan Willems. [Source](https://holocaustmusic.ort.org/resistance-and-exile/jaromir-weinberger/)
+
+- Direct stream response verified 200 audio/mpeg; Content-Length 21628928. No local media download or rehosting. [Source](https://holocaustmusic.ort.org/HolocaustMusic/hannah-cranston/cc-weinberger-mvt-1.mp3)
+
+- Remote ffprobe reports MP3 duration 540.7232 seconds (9:00.7), 320000bit/s. Source identifies this as the first movement. [Source](https://holocaustmusic.ort.org/HolocaustMusic/hannah-cranston/cc-weinberger-mvt-1.mp3)
+
+Full audit: [[SaxoBrain - Inline Recording Resolution Review 2026-10-27]].
+
 
 ### Chat batch 05 follow-up, 2026-10-12
 

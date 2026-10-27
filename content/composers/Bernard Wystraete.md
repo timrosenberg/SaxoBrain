@@ -8,8 +8,9 @@ born: 1942
 died: 
 wikidata: Q112505244
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://bernardwystraete.wixsite.com/bernardwystraete
 ---
+
+![[Composer Works.base#Works]]

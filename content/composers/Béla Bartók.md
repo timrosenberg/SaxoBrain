@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:B%C3%A9la_Bart%C3%B3k_1943.jpg)
+
+![[Composer Works.base#Works]]

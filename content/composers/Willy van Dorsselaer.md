@@ -11,7 +11,8 @@ born: 1918
 died: 2017
 wikidata: Q112441948
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 ---
+
+![[Composer Works.base#Works]]

@@ -10,8 +10,9 @@ born: 1959
 died: 
 wikidata: 
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://www.hyekyunglee.com/
 ---
+
+![[Composer Works.base#Works]]

@@ -15,3 +15,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gabriel_Par%C3%A8s_by_Nadar_2.jpg)
+
+![[Composer Works.base#Works]]

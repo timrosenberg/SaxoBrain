@@ -17,3 +17,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:L%C3%A9on_Chic.jpg)
+
+![[Composer Works.base#Works]]

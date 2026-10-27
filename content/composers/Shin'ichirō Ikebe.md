@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [VGMdb](https://media.vgm.io/artists/07/21970/21970-1474048969.jpg)
+
+![[Composer Works.base#Works]]

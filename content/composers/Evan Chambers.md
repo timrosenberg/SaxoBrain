@@ -10,8 +10,9 @@ born: 1963
 died: 
 wikidata: Q3061310
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://www.evanchambers.net/
 ---
+
+![[Composer Works.base#Works]]

@@ -8,7 +8,8 @@ born: 1932
 died: 2015
 wikidata: Q133653875
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 ---
+
+![[Composer Works.base#Works]]

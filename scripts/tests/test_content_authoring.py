@@ -107,6 +107,10 @@ image-viewer: true
 > An ordinary quotation.
 
 `![[Not An Embed]]`
+
+![[Composer Works.base]]
+
+![[Composer Works.base#Works]]
 ''')
         result = subprocess.run(
             ['hugo', '--source', str(root), '--layoutDir', str(ROOT / 'layouts')],
@@ -148,6 +152,10 @@ image-viewer: true
         self.assertIn('Text edited in the source note.', self.source)
         self.assertNotIn('![[Included Note]]', self.source)
         self.assertNotIn('Private fixture research.', self.source)
+
+    def test_vault_base_embeds_are_excluded_from_site(self):
+        self.assertNotIn('Composer Works.base', self.source)
+        self.assertIn('Text edited in the source note.', self.source)
 
     def test_product_blocks_keep_photos_notes_and_independent_links(self):
         self.assertEqual(len(self.doc.matching('div', 'equipment-products-cards')), 1)

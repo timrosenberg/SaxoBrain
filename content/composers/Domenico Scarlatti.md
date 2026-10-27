@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Retrato_de_Domenico_Scarlatti.jpg)
+
+![[Composer Works.base#Works]]

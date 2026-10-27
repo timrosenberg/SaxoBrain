@@ -17,3 +17,5 @@ aliases:
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Maria_Theresia_Paradis_Wachsstatue.jpg)
+
+![[Composer Works.base#Works]]

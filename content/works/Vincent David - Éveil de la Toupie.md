@@ -8,7 +8,8 @@ instruments:
   - "Piano"
 composed: 2018
 year-of-study: "Fourth Year"
-streaming: "https://www.selmer.fr/en/blogs/artistes/alessandro-malagnino"
+streaming:
+  - "Vincent David, alto saxophone; Takahiro Mita, piano · https://www.youtube.com/watch?v=4vdrlSDxNAA"
 purchase:
   - "https://www.billaudot.com/gb10105-6.html"
 added: 2024-02-23
@@ -22,6 +23,27 @@ publisher:
 aliases: []
 ---
 ## Research notes (private)
+
+### Inline recording review, 2026-10-27
+
+Verified inline recording added.
+
+Original listening source: https://www.selmer.fr/en/blogs/artistes/alessandro-malagnino
+
+- Original Selmer MP3 is only a 28.51-second excerpt. Recommended composer-owned YouTube performance supplies the full work.
+
+Evidence:
+
+- Official Selmer artist page contains sound-component metadata with this exact MP 3 path labeled Alessandro Malagnino L’eveil de la toupie Vincent David. Source matches existing alto saxophone and piano work. [Source](https://www.selmer.fr/en/blogs/artistes/alessandro-malagnino)
+
+- Direct stream returns 200 audio/mpeg. ffprobe remotely verifies MP 3 duration 28.510seconds at 320573bit/s. This is a short excerpt, not the complete work. [Source](https://www.selmer.fr/cdn/shop/files/Alessandro_Malagnino_L_eveil_de_la_toupie_Vincent_David.mp3?v=15943060036369667974)
+
+- Composer-owned upload explicitly names L’éveil de la toupie by Vincent David, Vincent David alto saxophone and Takahiro Mita piano. Complete 9:11 performance. Player metadata status OK, playableInEmbed true. [Source](https://www.youtube.com/watch?v=4vdrlSDxNAA)
+
+- Additional complete 9:48 performer-owned recording by pianist Honoka Kobayashi with Alessandro Malagnino, recorded in Paris in February 2022. Player status OK, playableInEmbed true. Optional alternative. [Source](https://www.youtube.com/watch?v=JQtmXAU5aE4)
+
+Full audit: [[SaxoBrain - Inline Recording Resolution Review 2026-10-27]].
+
 
 ### Chat Batch 17 Follow-Up, October 15, 2026
 

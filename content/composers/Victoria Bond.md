@@ -17,3 +17,5 @@ website: https://www.victoriabond.com/
 
 > [!caption]
 > Photo: [Anna Ablogina](https://images.kultureshock.net/0003/10182-d14aeea23afcc34ad4cc44213d7c39d7.jpg)
+
+![[Composer Works.base#Works]]

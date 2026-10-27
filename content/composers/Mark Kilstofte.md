@@ -10,8 +10,9 @@ born: 1958
 died: 
 wikidata: Q6768385
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://www.newmaticpress.com/
 ---
+
+![[Composer Works.base#Works]]

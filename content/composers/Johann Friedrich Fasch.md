@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Johann_Friedrich_Fasch_-_uncertain.jpg)
+
+![[Composer Works.base#Works]]

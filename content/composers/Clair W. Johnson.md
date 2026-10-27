@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [windrep.org](https://www.windrep.org/images/7/7e/Cwjohnson.jpg?20221007124415)
+
+![[Composer Works.base#Works]]

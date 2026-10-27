@@ -17,3 +17,5 @@ website: https://barrysax.com/
 
 > [!caption]
 > Photo: [barrysax.com](https://i0.wp.com/barrysax.com/wp-content/uploads/2020/03/Barry-Cockcroft-2020-2.jpg?w=771&ssl=1)
+
+![[Composer Works.base#Works]]

@@ -9,8 +9,9 @@ born: 1960
 died: 
 wikidata: 
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://jeanlucfafchamps.eu/
 ---
+
+![[Composer Works.base#Works]]

@@ -10,8 +10,9 @@ born: 1959
 died: 
 wikidata: Q112534107
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://www.pascal-proust.fr/
 ---
+
+![[Composer Works.base#Works]]

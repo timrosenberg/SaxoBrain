@@ -10,8 +10,9 @@ born: 1946
 died: 
 wikidata: Q762623
 photo: 
-photo-credit: 
 photo-source: 
 website: https://www.marilynshrude.com
 aliases: []
 ---
+
+![[Composer Works.base#Works]]

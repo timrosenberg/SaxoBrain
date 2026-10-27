@@ -17,3 +17,5 @@ website: https://katyabbott.com/
 
 > [!caption]
 > Photo: [katyabbott.com](https://katyabbott.com/wp-content/uploads/2023/02/KatyAbbott-in-sneakers-800x800.jpg)
+
+![[Composer Works.base#Works]]

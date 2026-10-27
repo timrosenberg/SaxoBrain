@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Erich_Wolfgang_Korngold_%281897%E2%80%931957%29_1927_%C2%A9_Georg_Fayer_%281892%E2%80%931950%29_OeNB_10451525.jpg)
+
+![[Composer Works.base#Works]]

@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:JA-portrait-1-LW.jpg)
+
+![[Composer Works.base#Works]]

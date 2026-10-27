@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Satie-erik-4ff9d0bde1749.jpg)
+
+![[Composer Works.base#Works]]

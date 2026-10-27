@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:G%C3%BCnter_Raphael_%281903%E2%80%931960%29_by_Ernst_Hoenisch_1926.jpg)
+
+![[Composer Works.base#Works]]

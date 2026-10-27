@@ -10,7 +10,8 @@ born: 1920
 died: 2011
 wikidata: Q5733823
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 ---
+
+![[Composer Works.base#Works]]

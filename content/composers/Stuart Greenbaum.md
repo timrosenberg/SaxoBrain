@@ -17,3 +17,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Stuart_Greenbaum_2022.jpg)
+
+![[Composer Works.base#Works]]

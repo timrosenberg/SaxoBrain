@@ -17,3 +17,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Karol_Beffa.jpg)
+
+![[Composer Works.base#Works]]

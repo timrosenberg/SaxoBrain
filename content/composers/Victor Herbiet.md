@@ -8,7 +8,8 @@ born: 1980
 died: 
 wikidata: Q133684346
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 ---
+
+![[Composer Works.base#Works]]

@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [i1.sndcdn.com](https://i1.sndcdn.com/avatars-000097407164-tl1z3j-t1080x1080.jpg)
+
+![[Composer Works.base#Works]]

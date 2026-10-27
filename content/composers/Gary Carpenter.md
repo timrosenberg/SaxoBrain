@@ -10,8 +10,9 @@ born: 1951
 died: 
 wikidata: Q20672140
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://www.garycarpenter.net/
 ---
+
+![[Composer Works.base#Works]]

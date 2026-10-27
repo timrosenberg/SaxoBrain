@@ -17,3 +17,5 @@ website: http://www.nedrorem.net
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ned-Rorem-1968.jpg)
+
+![[Composer Works.base#Works]]

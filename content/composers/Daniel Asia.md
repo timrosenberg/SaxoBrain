@@ -10,8 +10,9 @@ born: 1953
 died: 
 wikidata: Q2614685
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://www.danielasia.net/
 ---
+
+![[Composer Works.base#Works]]

@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2007-11-13_Bob_Mintzer_u._Christian_Stock_Trio,_Harmonie,_Bonn_IMG_2035.jpg)
+
+![[Composer Works.base#Works]]

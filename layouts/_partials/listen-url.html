@@ -1,9 +1,14 @@
-{{- /* Where a work's Listen button goes: its own `streaming:` link if it has one, or the streaming
-       recordings section when it has several; otherwise the album page
+{{- /* Listen stays with any rendered player, or a list of recordings; otherwise it opens
+       the external recording, or the album page
        when one album lists it, or the Recordings section of the work page when several do; "" when nothing does. */ -}}
 {{- $url := "" -}}
 {{- with partial "streaming-links.html" . -}}
-  {{- $url = cond (eq (len .) 1) (index . 0).url (printf "%s#streaming-recordings" $.RelPermalink) -}}
+  {{- $hasPlayer := false -}}
+  {{- range . -}}
+    {{- $player := partialCached "recording-player.html" (dict "link" . "work" $) .url .label $.RelPermalink -}}
+    {{- if strings.TrimSpace ($player | string) }}{{ $hasPlayer = true }}{{ end -}}
+  {{- end -}}
+  {{- $url = cond (or $hasPlayer (gt (len .) 1)) (printf "%s#streaming-recordings" $.RelPermalink) (index . 0).url -}}
 {{- end -}}
 {{- if not $url -}}
   {{- with uniq (index (partialCached "recordings-index.html" "all") .Path | default slice) -}}

@@ -9,7 +9,8 @@ born: 1863
 died: 1943
 wikidata:
 photo:
-photo-credit:
 photo-source:
 aliases: []
 ---
+
+![[Composer Works.base#Works]]

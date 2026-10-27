@@ -17,3 +17,5 @@ website: https://www.elliottcarter.com/
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Elliott_Carter_1917.jpg)
+
+![[Composer Works.base#Works]]

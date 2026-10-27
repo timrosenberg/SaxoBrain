@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Clifford_Brown_1956.jpg)
+
+![[Composer Works.base#Works]]

@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [clarinetmusicbywomen.files.wordpress.com](https://clarinetmusicbywomen.files.wordpress.com/2021/03/jeanine-rueff-e1616201952154.jpeg)
+
+![[Composer Works.base#Works]]

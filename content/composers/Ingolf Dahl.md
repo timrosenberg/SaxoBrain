@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ingolf_Dahl_circa_1968.jpg)
+
+![[Composer Works.base#Works]]

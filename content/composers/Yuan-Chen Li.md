@@ -9,8 +9,9 @@ born: 1980
 died: 
 wikidata: 
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://yclimusic.com/
 ---
+
+![[Composer Works.base#Works]]

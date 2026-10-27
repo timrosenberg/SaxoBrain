@@ -9,7 +9,8 @@ instruments:
 composed: 2003
 year-of-study: "Third Year"
 arranger-edition: 
-streaming: "https://www.denislevaillant.net/MUSIC/SAXO/MANHATTAN/"
+streaming:
+  - "Composer-hosted complete recording · https://www.denislevaillant.net/MUSIC/SAXO/MANHATTAN/audio_hi.mp3"
 purchase:
   - "https://www.denislevaillant.net/DL_SPA/Works/Chamber/Saxophone/"
 added: 2026-10-09
@@ -19,6 +20,28 @@ research:
 aliases: []
 ---
 ## Research notes (private)
+
+### Inline recording review, 2026-10-27
+
+Verified inline recording added.
+
+Original listening source: https://www.denislevaillant.net/MUSIC/SAXO/MANHATTAN/
+
+- Verified original public audio endpoint; no rehosting.
+- Player duration is approximately12:10, distinct from the 11:40 timing in another composer listing.
+
+Evidence:
+
+- Original composer score/audio player identified by title Manhattan Rapsody. [Source](https://www.denislevaillant.net/MUSIC/SAXO/MANHATTAN/)
+
+- Original player script loads config.path + audio_hi.mp3 for audio slideshows; default config.path is current folder. [Source](https://www.denislevaillant.net/MUSIC/SAXO/MANHATTAN/_files/player.js)
+
+- Original player metadata identifies Manhattan Rhapsody, music Denis Levaillant; duration730044ms; score image titles consistently Manhattan Rhapsody. [Source](https://www.denislevaillant.net/MUSIC/SAXO/MANHATTAN/soundslide.xml)
+
+- HEAD returns 200 audio/mpeg, 28866142 bytes. [Source](https://www.denislevaillant.net/MUSIC/SAXO/MANHATTAN/audio_hi.mp3)
+
+Full audit: [[SaxoBrain - Inline Recording Resolution Review 2026-10-27]].
+
 
 - Duration 12'10, tenor saxophone and piano, catalogue number DLM 0013 · [denislevaillant.net](https://www.denislevaillant.net/DL_SPA/Works/Chamber/Saxophone/)
 - Composed for Jean-Michel Goury and Yves Josset; Jean-Marie Londeix describes it as using an idiomatic language for the instrument · [denislevaillant.net](https://www.denislevaillant.net/DL_SPA/Works/Chamber/Saxophone/)
@@ -61,4 +84,3 @@ Catalog: [Denis Levaillant - Manhattan-Rhapsody.md](/Users/trosenberg/Documents/
 #### Catalog Details Added
 
 - Recording: https://www.denislevaillant.net/MUSIC/SAXO/MANHATTAN/. [Source](https://www.denislevaillant.net/MUSIC/SAXO/MANHATTAN/)
-

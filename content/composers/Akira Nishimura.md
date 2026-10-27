@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [© Tokyo Opera City Cultural Foundation](https://www.amati-tokyo.com/english/artist/composer/post_28.php)
+
+![[Composer Works.base#Works]]

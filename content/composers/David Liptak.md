@@ -9,8 +9,9 @@ born: 1949
 died: 
 wikidata: Q5236653
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://www.dliptak.com
 ---
+
+![[Composer Works.base#Works]]

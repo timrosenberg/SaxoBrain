@@ -10,8 +10,9 @@ born: 1920
 died: 1998
 wikidata: Q3438776
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://www.rogercalmel.com
 ---
+
+![[Composer Works.base#Works]]

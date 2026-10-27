@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:C%C3%A9sar_Franck_by_Pierre_Petit.jpg)
+
+![[Composer Works.base#Works]]

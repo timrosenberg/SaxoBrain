@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [brassquintetforum.com](https://www.brassquintetforum.com/uploads/2/6/8/0/26808512/edited/bernhard-heiden-composer-sextet.png)
+
+![[Composer Works.base#Works]]

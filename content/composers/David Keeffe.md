@@ -8,8 +8,9 @@ born: 1956
 died: 
 wikidata: 
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://www.music3149.com/
 ---
+
+![[Composer Works.base#Works]]

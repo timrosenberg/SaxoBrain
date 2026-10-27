@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [lastfm.freetls.fastly.net](https://lastfm.freetls.fastly.net/i/u/ar0/222863cb13b346c19a852761c8b29a8c.jpg)
+
+![[Composer Works.base#Works]]

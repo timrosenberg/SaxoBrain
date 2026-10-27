@@ -17,3 +17,5 @@ website: https://ninasenk.net/
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nina_%C5%A0enk_Kosem.jpg)
+
+![[Composer Works.base#Works]]

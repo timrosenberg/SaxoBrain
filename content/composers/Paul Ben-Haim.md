@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [milkenarchive.org](https://www.milkenarchive.org/assets/ProfileImages/Ben-Haim-Paul-565__ScaleMaxWidthWzUwMF0.jpg)
+
+![[Composer Works.base#Works]]

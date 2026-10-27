@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [ekat8wd2es5.exactdn.com](https://ekat8wd2es5.exactdn.com/wp-content/uploads/2017/10/Richard-Strauss.jpg?strip=all&lossy=1&quality=90&webp=90&ssl=1)
+
+![[Composer Works.base#Works]]

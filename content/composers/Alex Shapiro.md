@@ -17,3 +17,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Alex_Shapiro-11-24-595.jpg)
+
+![[Composer Works.base#Works]]

@@ -10,8 +10,9 @@ born: 1961
 died: 
 wikidata: Q55088270
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 website: https://johanvanderlinden.com/
 ---
+
+![[Composer Works.base#Works]]

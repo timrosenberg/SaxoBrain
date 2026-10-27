@@ -5,7 +5,13 @@ composer: ["[[John C. Worley]]"]
 instruments: ["Soprano Saxophone", "Piano"]
 composed: 
 year-of-study: "Second Year"
-streaming: "https://classical.music.apple.com/gb/album/393077067"
+streaming:
+  - "Six Dances: I. Prelude - for Norma (Kenneth Tse and Alan Huckleberry) · https://music.apple.com/gb/album/six-dances-i-prelude-for-norma/393077067?i=393077104"
+  - "Six Dances: II. Allemande - for Alma (Kenneth Tse and Alan Huckleberry) · https://music.apple.com/gb/album/six-dances-ii-allemande-for-alma/393077067?i=393077108"
+  - "Six Dances: III. Sarabande - for Susan (Kenneth Tse and Alan Huckleberry) · https://music.apple.com/gb/album/six-dances-iii-sarabande-for-susan/393077067?i=393077110"
+  - "Six Dances: IV. Gavotte - for Tabitha (Kenneth Tse and Alan Huckleberry) · https://music.apple.com/gb/album/six-dances-iv-gavotte-for-tabitha/393077067?i=393077130"
+  - "Six Dances: V. Courante - for Karen (Kenneth Tse and Alan Huckleberry) · https://music.apple.com/gb/album/six-dances-v-courante-for-karen/393077067?i=393077131"
+  - "Six Dances: VI. Gigue - for Laura (Kenneth Tse and Alan Huckleberry) · https://music.apple.com/gb/album/six-dances-vi-gigue-for-laura/393077067?i=393077132"
 purchase:
   - "https://www.grothmusic.com/p-139721-6-dances-soprano-sax-and-piano.aspx"
 added: 2025-04-18
@@ -25,6 +31,21 @@ arranger-edition: ["DP 991"]
 - [Six Dances on Lyric Soprano](https://classical.music.apple.com/gb/album/393077067)
 
 ## Research notes (private)
+
+### Inline recording review, 2026-10-27
+
+Verified inline recording added.
+
+Original listening source: https://classical.music.apple.com/gb/album/393077067
+
+- Apple embeds may offer previews until the visitor signs in.
+
+Evidence:
+
+- Public lookup verifies all six Six Dances tracks on Lyric Soprano, with Kenneth Tse and Alan Huckleberry. Original Classical album groups these exact six song IDs under John C. Worley: Six Dances. Other album works are excluded. [Source](https://itunes.apple.com/lookup?id=393077067&entity=song&country=gb)
+
+Full audit: [[SaxoBrain - Inline Recording Resolution Review 2026-10-27]].
+
 
 ### Batch 05 Decision, October 20, 2026
 

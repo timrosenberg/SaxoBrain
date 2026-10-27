@@ -9,7 +9,8 @@ born: 1937
 died: 
 wikidata: Q98637580
 photo: 
-photo-credit: 
 photo-source: 
 aliases: []
 ---
+
+![[Composer Works.base#Works]]

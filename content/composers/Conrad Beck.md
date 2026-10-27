@@ -16,3 +16,5 @@ aliases: []
 
 > [!caption]
 > Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Conrad_Beck_1961.jpeg)
+
+![[Composer Works.base#Works]]

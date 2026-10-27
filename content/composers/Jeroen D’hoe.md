@@ -17,3 +17,5 @@ website: https://jeroendhoe.com/
 
 > [!caption]
 > Photo: [Noa Staal Photography](https://jeroendhoe.com/wp-content/uploads/sites/10/2025/06/Jeroen-Dhoe-portrait-M.jpg)
+
+![[Composer Works.base#Works]]

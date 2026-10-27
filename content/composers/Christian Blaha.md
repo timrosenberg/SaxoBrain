@@ -17,3 +17,5 @@ website: https://www.christianblaha.com/
 
 > [!caption]
 > Photo: [Mostly Modern Projects](https://mostlymodernprojects.org/wp-content/uploads/2025/11/christian-blaha.jpg)
+
+![[Composer Works.base#Works]]

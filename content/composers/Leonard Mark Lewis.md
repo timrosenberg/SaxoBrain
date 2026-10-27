@@ -10,8 +10,9 @@ born: 1973
 died: 
 wikidata: Q14636719
 photo: 
-photo-credit: 
 photo-source: 
 website: https://www.leonardmarklewis.com
 aliases: []
 ---
+
+![[Composer Works.base#Works]]
