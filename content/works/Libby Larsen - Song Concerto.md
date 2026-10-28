@@ -16,16 +16,6 @@ research:
   - "One performer doubles alto and soprano; only Larsen saxophone concerto · https://digital.library.unt.edu/ark:/67531/metadc2415995/"
   - "Actual orchestral notation, solo instrument change and copyright · https://assets.ctfassets.net/yqiwcpstd52e/4PP86NTuynm0vpsRbsTaez/bdf043aa7aa5213da31bca0761af9782/_PERUSAL__Song_Concerto_-_FULL_SCORE.pdf"
 ---
-
-## Listening links
-
-- [Recording selected by Tim](https://youtu.be/X8EtaYDIiNQ?si=5x5mlRc1LYcsaIQI)
-- [Composer’s recordings: Eugene Rousseau with the UNT Symphony Orchestra, David Itkin](https://libbylarsen.com/works/song-concerto/)
-- [I. In Dance](https://downloads.ctfassets.net/yqiwcpstd52e/4T6KTBq7QIuFckxu1i9drN/676598a2066081376a5c2b3c69b0ef1c/Song_Concerto_1.wav)
-- [II. Cri de Coeur](https://assets.ctfassets.net/yqiwcpstd52e/7cEVwNVkXNc9xnWU5HPT9I/5ac4146275db294ddc7589dbee48cdd9/Song_Concerto_2.m4a)
-- [III. Mozart’s Starling](https://assets.ctfassets.net/yqiwcpstd52e/5JgHW4yKCF5gt5wHpPP9bO/47e408b0c855e8e4b726ca4de7437af3/Song_Concerto_3.m4a)
-- [IV. Abandon](https://assets.ctfassets.net/yqiwcpstd52e/4CgVAcHcMNVJfeAwIEGPWo/7946ec4c1ea2726f074ab2f8ee9f7d02/Song_Concerto_4.m4a)
-
 ## Research notes (private)
 
 ### Research checked October 16, 2026

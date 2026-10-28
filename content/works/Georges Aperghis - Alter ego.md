@@ -16,5 +16,3 @@ purchase:
 added: 2026-10-26
 aliases: []
 ---
-
-For unaccompanied tenor saxophone. The [composer’s works catalogue](https://www.aperghis.com/catalogue.html) dates *Alter ego* to 2001.
