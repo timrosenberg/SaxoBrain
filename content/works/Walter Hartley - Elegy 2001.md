@@ -20,6 +20,7 @@ research:
   - "Exact Elegy 2001 listed grade 4, also for alto. · https://www.jayeaston.com/Saxophonist_resources/resources_NinoCandF_rep.html"
 publisher:
   - "Tritone Press & Tenuto Publications"
+duration: "2 minutes 45 seconds"
 aliases: []
 ---
 ## Research notes (private)

@@ -14,4 +14,5 @@ purchase:
   - https://www.amazon.com/Alphonse-Leduc-AL25523-Solo-Saxophone/dp/B002LQAIYO?tag=timothyrosenb-20
 added: 2019-08-28
 aliases: []
+duration: approximately 6 minutes 30 seconds
 ---

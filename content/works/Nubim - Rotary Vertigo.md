@@ -17,6 +17,7 @@ added: 2025-04-21
 aliases: []
 publisher:
   - "Donemus"
+duration: "approximately 3 minutes 40 seconds"
 research:
   - "2016, instrumentation, version, duration and copyright · https://webshop.donemus.com/action/front/sheetmusic/20028"
   - "Program and performers · https://www.nubim.net/press.html"

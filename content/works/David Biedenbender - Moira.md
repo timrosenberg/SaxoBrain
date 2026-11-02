@@ -11,6 +11,7 @@ streaming:
   - "SiP Duo · https://www.youtube.com/watch?v=BWDbp6c_lwE"
 publisher:
   - Murphy Music Press
+duration: "approximately 5 minutes"
 purchase:
   - "Order from Publisher · https://murphymusicpress.com/products/s-256"
 download:
@@ -19,8 +20,6 @@ added: 2026-10-27
 aliases: []
 multi-instruments: "Two baritone saxophones"
 ---
-
-Duration: approximately 5 minutes.
 
 Commissioned by the Moira Duo and a consortium of 21 saxophonists. The title refers to the Greek idea of fate or destiny. A chant-like melody over a drone grows into an ecstatic shared line before returning to the calm of the opening.
 

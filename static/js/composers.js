@@ -121,6 +121,12 @@
   $("cq").hidden = false;
   let tmr;
   $("cq").addEventListener("input", e => { clearTimeout(tmr); tmr = setTimeout(() => { state.q = e.target.value.trim(); writeUrl(); render(); }, 100); });
+  document.addEventListener("keydown", e => {
+    if (e.key !== "Escape") return;
+    e.preventDefault();
+    clearTimeout(tmr);
+    state.q = ""; update();
+  });
   $("cclear").onclick = () => { state.q = ""; state.nat.clear(); state.lvl.clear(); state.born.clear(); state.women = false; state.poc = false; state.living = false; update(); };
   letterLinks.forEach(a => a.addEventListener("click", e => { if (a.classList.contains("off")) e.preventDefault(); }));
 

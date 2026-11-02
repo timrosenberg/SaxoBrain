@@ -17,4 +17,5 @@ added: 2019-08-28
 aliases: []
 download:
   - IMSLP · https://imslp.eu/files/imglnks/euimg/1/10/IMSLP976640-PMLP4561-cpe_bach_sonata_per_il_flauto_traverso_zimmermann.pdf
+duration: approximately 15 minutes
 ---

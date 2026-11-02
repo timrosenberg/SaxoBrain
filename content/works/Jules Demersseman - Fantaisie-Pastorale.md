@@ -24,6 +24,7 @@ research:
   - "Commercial recording credits Ronald L. Caravan and Sar-Shalom Strong on Single Reed Expressions Vol. 1. · https://www.youtube.com/watch?v=sr4rvuPFDAU"
 publisher:
   - "Ethos Publications"
+duration: "approximately 4 minutes"
 aliases: []
 arranger-edition:
   - "Ronald L. Caravan"

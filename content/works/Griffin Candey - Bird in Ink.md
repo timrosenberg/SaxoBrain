@@ -10,6 +10,7 @@ composed: 2024
 year-of-study: "Second Year"
 publisher:
   - Just a Theory Press
+duration: "9 minutes 30 seconds"
 streaming:
 purchase:
   - https://justatheorypress.com/products/bird-in-ink
@@ -18,8 +19,6 @@ aliases: []
 ---
 
 Two movements for alto saxophone and piano. Commissioned by Zhao Shilong.
-
-Duration: 9 minutes 30 seconds.
 
 [Publisher’s edition](https://justatheorypress.com/products/bird-in-ink)
 

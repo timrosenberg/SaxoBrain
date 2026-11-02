@@ -11,6 +11,7 @@ year-of-study:
 arranger-edition: 
 publisher:
   - "Cebedem"
+duration: "24 minutes"
 streaming: 
 purchase:
   - "Score inquiries · https://www.elkinmusic.com/contact-us"

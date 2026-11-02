@@ -10,6 +10,7 @@ composed: 2014
 year-of-study: "Fourth Year"
 publisher:
   - "Birdsong"
+duration: "10 minutes"
 streaming:
   - "https://www.youtube.com/watch?v=szdv2_HSNME"
 purchase:

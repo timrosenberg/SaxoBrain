@@ -19,4 +19,5 @@ studied-performed: true
 want-to-play: true
 added: 2019-08-28
 aliases: []
+duration: approximately 22 minutes
 ---

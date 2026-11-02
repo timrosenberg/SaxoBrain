@@ -13,4 +13,5 @@ purchase:
   - "https://www.presser.com/144-40618-fantasy.html"
 added: 2024-02-21
 aliases: []
+duration: approximately 12 minutes
 ---

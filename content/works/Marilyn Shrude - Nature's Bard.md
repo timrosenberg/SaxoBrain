@@ -23,6 +23,7 @@ research:
 aliases: []
 publisher:
   - "American Composers Alliance"
+duration: 11 minutes
 ---
 ## Research notes (private)
 

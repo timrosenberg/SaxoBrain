@@ -17,6 +17,7 @@ publisher:
   - "Edition Peters"
 research:
   - "Composer dates the piece October 2016, written for Fusik Larson Duo, Jim Fusik and Karl Larson. Her description identifies multiphonic phrases differing in density, loudness and pitch content, paired with equal-tempered piano shadows. · https://www.skymacklay.com/density-dancity-for-tenor-sax-and-piano/"
+duration: approximately 11 minutes 40 seconds
 ---
 
 ## Listening links

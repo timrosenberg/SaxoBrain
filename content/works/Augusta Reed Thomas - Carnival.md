@@ -14,14 +14,13 @@ streaming:
   - "Bassoon version, world premiere: Nadina Mackie Jackson and the SUNY Fredonia Wind Ensemble; Paula Holcomb, conductor · https://www.youtube.com/watch?v=51sfJjjfUgA"
 publisher:
   - "Nimbus Music Publishing"
+duration: "approximately 23 minutes, or 13 minutes with the composer’s specified cuts"
 purchase:
   - "Score inquiries · https://www.augustareadthomas.com/contact.html"
 added: 2026-10-27
 aliases: []
 multi-instruments: "Baritone saxophone with wind ensemble or orchestra"
 ---
-
-Duration: approximately 23 minutes, or 13 minutes with the composer’s specified cuts.
 
 This concerto permits baritone saxophone to take the solo part originally written for bassoon. Phil Pierick premiered the baritone version with the Oklahoma State University Symphonic Band, conducted by Bradley Genevro, on March 14, 2024.
 

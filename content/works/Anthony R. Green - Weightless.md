@@ -6,7 +6,8 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
+composed: 2011
+duration: "6 minutes"
 year-of-study: "Advanced"
 streaming: "https://soundcloud.com/piargno/weightless"
 purchase:

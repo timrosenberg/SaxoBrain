@@ -22,6 +22,7 @@ research:
 aliases: []
 publisher:
   - "Éditions Billaudot"
+duration: "6 minutes 45 seconds"
 library-score:
   - "https://windmusic.org/index.php?id=7130&lvl=notice_display"
 ---

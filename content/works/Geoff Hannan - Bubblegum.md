@@ -8,6 +8,7 @@ instruments:
   - "Percussion"
   - "Piano"
 composed: 2001
+duration: "11 minutes"
 year-of-study: Fourth Year
 streaming: "https://www.youtube.com/watch?v=PmYmUJ4sUPo"
 purchase:

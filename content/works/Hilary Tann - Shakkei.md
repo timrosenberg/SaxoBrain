@@ -11,6 +11,7 @@ composed: 2007
 year-of-study: Advanced
 publisher:
   - Rowanberry Music
+duration: "approximately 14 minutes"
 streaming:
   - "https://open.spotify.com/track/62Sd76q2UwrlUSxXm40KN3?utm_source=openai&utm_medium=chatgpt&go=1&nap_web=1&request_id=e1476f8a-ab94-43a1-b602-bf9f222ce11a"
   - "https://open.spotify.com/track/6gPpjuoyS3USs4nJY4aLtn?utm_source=openai&utm_medium=chatgpt&go=1&nap_web=1&request_id=e1476f8a-ab94-43a1-b602-bf9f222ce11a"
@@ -22,8 +23,6 @@ multi-instruments: Soprano saxophone with small orchestra or piano
 ---
 
 For soprano saxophone and small orchestra. A piano reduction is available.
-
-Duration: approximately 14 minutes.
 
 ## Research notes (private)
 

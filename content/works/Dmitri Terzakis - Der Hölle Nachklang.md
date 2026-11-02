@@ -24,6 +24,7 @@ research:
 publisher:
   - "Edition Gravis"
 aliases: []
+duration: approximately 10 minutes
 ---
 ## Research notes (private)
 

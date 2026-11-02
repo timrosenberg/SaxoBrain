@@ -9,6 +9,7 @@ composed: 2006
 year-of-study: "Advanced"
 publisher:
   - "Kati Agócs Music"
+duration: "9 minutes"
 streaming:
   - "https://www.youtube.com/watch?v=1_n76rwLAVc"
 purchase:

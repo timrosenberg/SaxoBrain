@@ -20,6 +20,7 @@ research:
 aliases: []
 publisher:
   - "Boston Music"
+duration: "4 minutes 30 seconds"
 ---
 ## Research notes (private)
 

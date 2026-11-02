@@ -18,6 +18,7 @@ research:
   - "Duration 8'00\"; tenor saxophone and piano; score 12 pages, parts 9 pages; published by Donemus · https://webshop.donemus.nl/action/front/sheetmusic/13298/Stratos"
 publisher:
   - "Donemus"
+duration: "approximately 8 minutes"
 aliases: []
 ---
 ## Research notes (private)

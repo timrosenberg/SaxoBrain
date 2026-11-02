@@ -7,6 +7,7 @@ instruments:
   - "Baritone Saxophone"
   - "Piano"
 composed: 2006
+duration: "approximately 10 minutes"
 year-of-study: "Fourth Year"
 streaming:
   - "Recording excerpt · baritone saxophone and piano · https://soundcloud.com/user-353618625/of-wind-and-touch-alex-shaprio"

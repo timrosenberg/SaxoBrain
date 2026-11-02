@@ -13,6 +13,7 @@ year-of-study: "Third Year"
 arranger-edition: 
 publisher:
   - "Zen-On"
+duration: "approximately 12 minutes"
 streaming: https://soundcloud.com/user-538979524-385415459/jun-nagao-lovers-on-the-celestial-sphere-for-soprano-saxophone-tenor-saxophone-and-piano
 purchase:
   - https://www.grothmusic.com/p-152235.aspx

@@ -42,6 +42,16 @@ button { font: inherit; color: inherit; }
 .site-head nav a { text-decoration: none; color: var(--muted); padding: 10px 14px; border-bottom: 4px solid transparent; font-weight: 600; margin-bottom: -1px; }
 .site-head nav a:hover { color: var(--fg); }
 .site-head nav a[aria-current="page"] { color: var(--fg); border-bottom-color: var(--brass); }
+.nav-links { display: contents; }
+.nav-toggle { display: none; }
+@media (max-width: 620px) {
+  .site-head { padding-top: 20px; }
+  .site-head nav.nav-ready { align-items: center; }
+  .nav-ready .nav-toggle { display: inline-flex; align-items: center; gap: 8px; margin-left: auto; padding: 10px 14px; min-height: 46px; border: 0; border-bottom: 4px solid transparent; background: transparent; color: var(--fg); font-weight: 600; cursor: pointer; }
+  .nav-ready .nav-toggle[aria-expanded="true"] { border-bottom-color: var(--brass); }
+  .nav-ready .nav-links { display: none; }
+  .nav-ready .nav-toggle[aria-expanded="true"] + .nav-links { display: flex; flex-direction: column; flex-basis: 100%; gap: 4px; padding-block: 4px 8px; border-top: 1px solid var(--line); }
+}
 main { padding-block: 8px 64px; }
 
 /* typography shared by pages */

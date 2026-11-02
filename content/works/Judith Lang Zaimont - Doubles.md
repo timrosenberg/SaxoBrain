@@ -10,6 +10,7 @@ composed: 1993
 year-of-study: "Fourth Year"
 publisher:
   - "Jeanné, Inc."
+duration: "11 minutes 30 seconds"
 streaming: []
 purchase: []
 added: "2026-10-27"

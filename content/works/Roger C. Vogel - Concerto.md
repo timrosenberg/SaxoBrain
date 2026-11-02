@@ -20,6 +20,7 @@ research:
   - "ACA linked product is horn and piano reduction of 1980 horn concerto, not saxophone. · https://composers.com/products/vogel-concerto-piano"
 publisher:
   - "Dorn Publications"
+duration: "16 minutes"
 aliases: []
 ---
 ## Research notes (private)

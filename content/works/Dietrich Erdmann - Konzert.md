@@ -15,6 +15,7 @@ added: 2024-03-08
 aliases: []
 publisher:
   - "Ries & Erler"
+duration: "24 minutes"
 multi-instruments: "One player doubling soprano and alto saxophones, with orchestra or piano reduction"
 research:
   - "Orchestral concerto, soprano/alto doubling,24 minutes · https://www.rieserler.de/wp-content/uploads/2019/05/RE_Orchesterkatalog2019_Web.pdf"

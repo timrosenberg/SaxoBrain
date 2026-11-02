@@ -11,6 +11,7 @@ year-of-study: Advanced
 arranger-edition: 
 publisher:
   - "Zen-On"
+duration: "9 minutes"
 streaming: "https://www.youtube.com/watch?v=4x1vajXb-24"
 purchase:
   - "https://shop.zen-on.co.jp/downloads/detail/56002200/"

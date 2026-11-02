@@ -23,6 +23,7 @@ research:
   - "Full six-side Decca Op. 96 upload credits Cecil Leeson/Josef Wagner, names all four movements; playback advanced 4.97 seconds with readyState 4 and duration 25:02. · https://www.youtube.com/watch?v=IjPCfMXpY9Y"
 publisher:
   - "Southern Music"
+duration: "27 minutes"
 aliases: []
 arranger-edition:
   - "Southern Music SS794; Cecil Leeson credited as arranger"

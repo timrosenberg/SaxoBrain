@@ -12,6 +12,7 @@ year-of-study: "Second Year"
 arranger-edition: "Federico Mondelci, saxophone revision; Billaudot GB7473"
 publisher:
   - "Éditions Billaudot"
+duration: "27 minutes 10 seconds"
 streaming:
   - "Seven Pieces, Op. 180: disc 2, tracks 16-22 in Complete Music for Saxophone · https://music.apple.com/us/album/koechlin-complete-music-for-saxophone/652904888"
 purchase:

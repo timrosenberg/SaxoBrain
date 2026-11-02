@@ -11,17 +11,12 @@ year-of-study: Advanced
 streaming: https://soundcloud.com/user-106743460/glint-roshanne-etezady1
 publisher:
   - Murphy Music Press
+duration: "approximately 5 minutes"
 purchase:
   - "Order from Publisher · https://murphymusicpress.com/products/c-158"
 added: 2026-10-27
 aliases: []
 ---
-
-For B-flat clarinet and alto saxophone.
-
-Duration: approximately 5 minutes.
-
-Source: [Roshanne Etezady’s work page](https://roshanne.com/works/glint).
 
 ## Research notes (private)
 

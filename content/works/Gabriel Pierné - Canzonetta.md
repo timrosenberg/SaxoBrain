@@ -23,6 +23,7 @@ research:
   - "Different arrangement visibly credited R. Scholfield; alto saxophonist and pianist visible during active public playback. · https://www.youtube.com/watch?v=AGpHDD5OJIM&t=2070s"
 publisher:
   - "Leduc"
+duration: "3 minutes 40 seconds"
 aliases: []
 ---
 ## Research notes (private)

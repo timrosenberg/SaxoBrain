@@ -8,17 +8,15 @@ instruments:
   - Bassoon
   - Marimba
 composed: 2012
+duration: approximately 7 minutes
 year-of-study:
 streaming:
-purchase: []
+purchase:
+  - Composer's website · https://roshanne.com/contact
 added: 2026-10-27
 aliases: []
+website:
 ---
-
-Duration: approximately 7 minutes.
-
-Source: [Roshanne Etezady’s work page](https://roshanne.com/works/forever-overhead).
-
 ## Research notes (private)
 
 - Checked October 27, 2026.

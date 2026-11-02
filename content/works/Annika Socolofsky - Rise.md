@@ -16,6 +16,7 @@ research:
   - Premiered as a video April 2019 by Jonathan Hulting-Cohen (alto sax) and Nicholas Shaneyfelt (piano); written for his album Timbre|ine · https://icareifyoulisten.com/?p=20665
   - Composer asks the saxophonist to explore the alto's resonances and timbres as a vocalist explores vocal color; piano treated as a resonating fiddle; entirely acoustic · https://icareifyoulisten.com/?p=20665
 aliases: []
+duration: approximately 9 minutes
 ---
 ## Research notes (private)
 

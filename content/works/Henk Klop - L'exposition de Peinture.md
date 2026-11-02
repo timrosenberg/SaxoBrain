@@ -17,6 +17,7 @@ added: 2025-04-21
 aliases: []
 publisher:
   - "Donemus"
+duration: "10 minutes"
 research:
   - "Official composer work list and exact publisher link · https://www.henkklop.nl/"
   - "1985; 10 minutes; alto saxophone/piano; Donemus 14848; score 26 pages/part 7 pages; purchase formats · https://webshop.donemus.nl/action/front/sheetmusic/14848"

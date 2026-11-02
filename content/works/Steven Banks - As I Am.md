@@ -13,4 +13,5 @@ purchase:
   - https://www.murphymusicpress.com/products/s-151
 added: 2024-02-21
 aliases: []
+duration: approximately 6 minutes
 ---

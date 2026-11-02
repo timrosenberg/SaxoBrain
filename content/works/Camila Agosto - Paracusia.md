@@ -9,6 +9,7 @@ instruments:
 composed: 2018
 year-of-study: "Advanced"
 publisher: []
+duration: "11 minutes"
 streaming:
   - "https://www.youtube.com/watch?v=GPChdpI6Jls"
 purchase: []

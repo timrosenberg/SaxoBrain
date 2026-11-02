@@ -22,6 +22,7 @@ research:
   - "DCD34201 performers, recording dates and professional recording context. · https://www.delphianrecords.com/products/dcd34201"
 publisher:
   - "Boosey & Hawkes"
+duration: "3 minutes"
 arranger-edition: "Gerard McChrystal"
 aliases:
   - /works/iain-macmillan-after-the-tryst/

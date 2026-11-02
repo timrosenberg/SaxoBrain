@@ -15,6 +15,7 @@ added: 2025-04-16
 aliases: []
 publisher:
   - "Universal Edition"
+duration: "22 minutes"
 research:
   - "Date, dedicatee, scoring, duration, structure and edition numbers · https://www.universaledition.com/en/Works/Retrospective-Sonata-for-tenor-saxophone-and-piano/P0206714"
   - "Actual score sample inspected · https://www.universaledition.com/media/c1/5b/9e/1701383166/ea542356ab14bff96aa4683afedb003e.pdf"

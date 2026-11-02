@@ -6,7 +6,7 @@ composer:
 instruments:
   - "Soprano Saxophone"
   - "Unaccompanied"
-composed: 
+composed: 1993
 year-of-study: "Advanced"
 arranger-edition:
   - "Claude Delangle"
@@ -15,6 +15,7 @@ purchase:
   - "https://www.sheetmusicplus.com/title/sequenza-viib-sheet-music/5524460?aff_id=426309&utm_medium=plg1"
 added: 2019-09-07
 aliases: []
+duration: 7 minutes
 ---
 
 [https://youtu.be/7VsGZ_WWzkI](https://youtu.be/7VsGZ_WWzkI)

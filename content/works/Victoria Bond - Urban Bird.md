@@ -10,6 +10,7 @@ composed: 1993
 year-of-study: "Fourth Year"
 publisher:
   - "Theodore Presser Company"
+duration: "20 minutes"
 streaming:
   - "https://soundcloud.com/welltone/urban-bird"
 purchase:

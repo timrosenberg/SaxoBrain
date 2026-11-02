@@ -6,11 +6,12 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
+composed: 1997
 year-of-study: "Fourth Year"
 streaming: "https://www.youtube.com/watch?v=bfHM6r_f1SE"
 purchase:
   - "alto and piano digital score · https://www.sheetmusicplus.com/en/product/holy-roller-22829128.html"
 added: 2024-02-21
 aliases: []
+duration: 11 minutes
 ---

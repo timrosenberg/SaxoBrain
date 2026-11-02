@@ -7,6 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 2014
+duration: "approximately 9 minutes"
 year-of-study: Advanced
 streaming: "https://youtu.be/ySqhed16S2k?si=l9lh5WJt4c0vd565"
 purchase:

@@ -10,11 +10,10 @@ composed: 1997
 year-of-study: "Third Year"
 publisher:
   - "Theodore Presser Company"
+duration: "5 to 7 minutes"
 streaming: https://www.youtube.com/watch?v=Wlpx2WvlKW0
 purchase:
   - "https://www.presser.com/114-40914-pensive-soliloquy.html"
 added: 2026-10-27
 aliases: []
 ---
-
-Duration: 5 to 7 minutes.

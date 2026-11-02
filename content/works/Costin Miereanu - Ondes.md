@@ -17,6 +17,7 @@ added: 2026-10-09
 aliases: []
 publisher:
   - "Salabert"
+duration: "6 minutes"
 research:
   - "1986, alto solo, 6 minutes, EAS18485 · https://brahms.ircam.fr/fr/work/ondes-1"
   - "SLB2456, ISMN, 2002 edition · https://www.forsyths.co.uk/sheet-music/instruments/woodwind/saxophone-sheet-music/154504-ondes-saxophone-alto-9790048001510.html"

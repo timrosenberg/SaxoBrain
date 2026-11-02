@@ -11,6 +11,7 @@ composed: 2013
 year-of-study: "Advanced"
 publisher:
   - "SUBO Music"
+duration: "28 minutes"
 streaming:
   - "https://www.youtube.com/watch?v=Gf9uJB4U95Y"
 purchase:

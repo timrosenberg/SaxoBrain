@@ -23,6 +23,7 @@ research:
 aliases: []
 publisher:
   - "C. Alan Publications"
+duration: "12 minutes 15 seconds"
 ---
 ## Research notes (private)
 

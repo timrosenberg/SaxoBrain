@@ -4,6 +4,7 @@ slug: richard-stillwell-sonata-no-1
 composer: ["[[Joseph Stillwell]]"]
 instruments: ["Soprano Saxophone", "Piano"]
 composed: 2006
+duration: "12 minutes"
 year-of-study: "Second Year"
 streaming: "https://soundcloud.com/josephstillwell/soprano-saxophone-sonata-i"
 purchase:

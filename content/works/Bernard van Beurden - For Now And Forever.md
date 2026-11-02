@@ -24,6 +24,7 @@ research:
 aliases: []
 publisher:
   - "Donemus"
+duration: "5 minutes"
 ---
 ## Research notes (private)
 

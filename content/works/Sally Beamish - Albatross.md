@@ -13,6 +13,7 @@ purchase:
   - https://www.jwpepper.com/albatross-10395371/p
 added: 2024-02-21
 aliases: []
+duration: approximately 22 minutes 30 seconds
 ---
 > When I knew that this new sonata would be given its premiere in St Andrews, by a passionate golfer, I wondered if there was a golfing term that might give me a starting point for the piece.
 > 

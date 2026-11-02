@@ -15,6 +15,7 @@ purchase:
   - "https://www.forsyths.co.uk/sheet-music/instruments/woodwind/saxophone-sheet-music/120985-tann-hilary-windhover-9780193858701.html"
 added: 2026-10-27
 aliases: []
+duration: approximately 5 minutes 30 seconds
 ---
 ## Research notes (private)
 

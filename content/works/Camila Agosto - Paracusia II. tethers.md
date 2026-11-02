@@ -9,6 +9,7 @@ instruments:
 composed: 2018
 year-of-study: "Advanced"
 publisher: []
+duration: "8 minutes"
 streaming:
   - "https://soundcloud.com/camilagosto/paracusia-ii-tethers-2018"
 purchase: []

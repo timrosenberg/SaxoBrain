@@ -18,6 +18,7 @@ research:
   - "Duration 5'00\", soprano saxophone and harpsichord (or prepared piano) (Donemus) · https://webshop.donemus.nl/action/front/sheetmusic/16433"
 publisher:
   - "Donemus"
+duration: "approximately 5 minutes"
 aliases: []
 ---
 ## Research notes (private)

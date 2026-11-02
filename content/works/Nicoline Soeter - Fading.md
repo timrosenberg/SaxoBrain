@@ -24,6 +24,7 @@ research:
   - "Composer's publisher-hosted program note describes an eroding melody whose tones remain in multiphonics · https://webshop.donemus.com/action/front/sheetmusic/16533"
 publisher:
   - "Donemus"
+duration: "approximately 9 minutes"
 aliases: []
 ---
 ## Research notes (private)

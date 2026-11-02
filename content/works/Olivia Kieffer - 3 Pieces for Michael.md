@@ -14,6 +14,7 @@ purchase:
 added: 2024-02-21
 research:
 aliases: []
+duration: approximately 7 minutes
 ---
 
 ## Ordering

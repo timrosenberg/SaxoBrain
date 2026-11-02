@@ -7,6 +7,7 @@ instruments:
   - "Soprano Saxophone"
   - "Piano"
 composed: 2013
+duration: "approximately 11 minutes"
 year-of-study: "Advanced"
 streaming: "https://www.youtube.com/watch?v=BlxlMwuGb5E"
 purchase:

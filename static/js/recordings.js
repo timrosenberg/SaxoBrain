@@ -46,6 +46,11 @@
   });
 
   search.addEventListener("input", update);
+  document.addEventListener("keydown", e => {
+    if (e.key !== "Escape") return;
+    e.preventDefault();
+    search.value = ""; update();
+  });
   clear.addEventListener("click", () => { search.value = ""; update(); search.focus(); });
   const params = new URLSearchParams(location.search);
   const v = params.get("view");

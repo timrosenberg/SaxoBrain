@@ -19,6 +19,7 @@ research:
   - "Appendix printed 157 dates original Festive Ode 1998 for alto and piano duet. · https://scispace.com/pdf/a-thematic-catalog-of-the-tuba-and-euphonium-literature-of-2dsw9vmjim.pdf"
 publisher:
   - "Dorn Publications"
+duration: "2 minutes 45 seconds"
 aliases: []
 ---
 ## Research notes (private)

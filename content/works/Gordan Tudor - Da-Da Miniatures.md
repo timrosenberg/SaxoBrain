@@ -18,6 +18,7 @@ research:
   - "Duration 7'00\", tenor saxophone and piano, score 18 pages, part 6 pages (Donemus) · https://webshop.donemus.nl/action/front/sheetmusic/16432"
 publisher:
   - "Donemus"
+duration: "approximately 7 minutes"
 aliases: []
 ---
 ## Research notes (private)

@@ -13,6 +13,7 @@ purchase:
   - "https://www.sheetmusicplus.com/en/product/the-soulful-and-the-perpetual-19855113.html"
 added: 2024-02-21
 aliases: []
+duration: approximately 9 minutes 30 seconds
 ---
 
 [https://www.youtube.com/watch?v=WnxM1qXMxGE](https://www.youtube.com/watch?v=WnxM1qXMxGE)

@@ -22,6 +22,7 @@ publisher:
   - "Theodore Presser Company"
 research:
   - "Composer’s catalog verifies 2007, alto saxophone and piano, and all five Creviston Duo recording movements; checked 2026-10-27 · https://garrop.com/Catalog/ChamberEnsembles/saxophone/"
+duration: approximately 10 minutes
 ---
 
 ## Research notes (private)

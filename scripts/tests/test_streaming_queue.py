@@ -21,6 +21,7 @@ class StreamingQueue(unittest.TestCase):
                      'canzmfkKXTE,ey2_4S_Yu2k,g07NP5650u8,aqK3fh7al08,fUkAP6YTh4A')
         for slug, url in [('queue', cls.queue),
                           ('single', 'https://youtu.be/canzmfkKXTE?t=42'),
+                          ('vimeo', 'https://vimeo.com/127264848'),
                           ('spotify', 'https://open.spotify.com/track/0Ld77xxSxrrnuj1HBkqYl9'),
                           ('apple', 'https://music.apple.com/us/album/123?i=456'),
                           ('soundcloud', 'https://soundcloud.com/performer/recording'),
@@ -49,7 +50,7 @@ class StreamingQueue(unittest.TestCase):
             raise AssertionError(result.stdout + result.stderr)
         cls.docs = {slug: Document((root / f'public/works/{slug}/index.html').read_text())
                     for slug in ['queue', 'single', 'audio', 'single-audio', 'external',
-                                 'spotify', 'apple', 'soundcloud', 'mixed']}
+                                 'spotify', 'apple', 'soundcloud', 'vimeo', 'mixed']}
 
     @classmethod
     def tearDownClass(cls):
@@ -84,6 +85,13 @@ class StreamingQueue(unittest.TestCase):
             self.assertEqual(player.get('preload'), 'none')
             self.assertNotIn('autoplay', player)
 
+    def test_vimeo_video_uses_inline_player(self):
+        frames = [attrs for tag, attrs in self.docs['vimeo'].tags if tag == 'iframe']
+        self.assertEqual(len(frames), 1)
+        self.assertEqual(frames[0]['src'], 'https://player.vimeo.com/video/127264848')
+        self.assertEqual(frames[0]['loading'], 'lazy')
+        self.assertIn('allowfullscreen', frames[0])
+
     def test_single_mp3_listen_button_stays_on_the_work_page(self):
         doc = self.docs['single-audio']
         listen = [attrs for tag, attrs in doc.tags
@@ -102,7 +110,7 @@ class StreamingQueue(unittest.TestCase):
         self.assertEqual(listen[0]['href'], 'https://example.com/listen?file=recording.mp3')
 
     def test_listen_targets_inline_player_for_each_supported_service(self):
-        for slug in ['queue', 'single', 'spotify', 'apple', 'soundcloud', 'mixed']:
+        for slug in ['queue', 'single', 'spotify', 'apple', 'soundcloud', 'vimeo', 'mixed']:
             with self.subTest(slug=slug):
                 doc = self.docs[slug]
                 self.assertTrue(any(tag == 'iframe' for tag, _ in doc.tags))

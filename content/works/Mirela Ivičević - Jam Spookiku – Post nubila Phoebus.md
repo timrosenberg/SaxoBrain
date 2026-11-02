@@ -9,6 +9,7 @@ instruments:
 composed: 2006
 year-of-study: "Third Year"
 publisher: []
+duration: "4 minutes"
 streaming: []
 purchase: []
 added: "2026-10-27"

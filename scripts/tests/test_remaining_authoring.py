@@ -67,7 +67,17 @@ Choose a work.
 ### Listening group
 - [[Album]]
 ''',
-            'works/Sample Work.md': '---\ntitle: Sample Work\nslug: sample-work\nyear-of-study: First Year\ninstruments: [Alto Saxophone]\n---\n',
+            'works/Sample Work.md': '''---
+title: Sample Work
+slug: sample-work
+year-of-study: First Year
+instruments: [Alto Saxophone]
+purchase:
+  - "Email the composer · mailto:composer@example.org"
+  - "https://example.org/score"
+  - "Tenor edition · https://example.org/tenor"
+---
+''',
             'recordings/Album.md': '---\ntitle: Album\nslug: album\n---\n',
             'composers/Example.md': '''---
 title: Example
@@ -99,7 +109,8 @@ A paragraph after the file.
             raise AssertionError(result.stdout + result.stderr)
         cls.pages = {name: (root / 'public' / name).read_text() for name in [
             'index.html', 'curriculum/index.html', 'curriculum/first-year/index.html',
-            'composers/example/index.html', 'reading/explicit/index.html', 'reading/ordinary/index.html']}
+            'composers/example/index.html', 'reading/explicit/index.html', 'reading/ordinary/index.html',
+            'works/sample-work/index.html']}
 
     @classmethod
     def tearDownClass(cls):
@@ -157,6 +168,12 @@ A paragraph after the file.
         self.assertIn('href="/SaxoBrain/media/example.pdf"', source)
         self.assertIn('A paragraph after the file.', source)
         self.assertNotIn('<iframe', self.pages['reading/ordinary/index.html'])
+
+    def test_email_purchase_label_is_an_action_and_editions_keep_buy_wording(self):
+        source = self.pages['works/sample-work/index.html']
+        self.assertIn('href="mailto:composer@example.org" rel="noopener">Email the composer</a>', source)
+        self.assertIn('href="https://example.org/score" rel="noopener">Buy the score</a>', source)
+        self.assertIn('href="https://example.org/tenor" rel="noopener">Buy the Tenor edition</a>', source)
 
 class PhotoCaptionMaintenance(unittest.TestCase):
     def test_photo_updates_write_body_credit_and_keep_editorial_caption(self):

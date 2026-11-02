@@ -23,6 +23,7 @@ research:
   - "Eshpai composer credit and 19:48 recording. · https://open.spotify.com/track/4rXFNZLSfjyA6fzKpPsT8y"
 publisher:
   - "Muzyka"
+duration: "19 minutes"
 aliases:
   - /works/andrei-eshpal-concerto/
 ---

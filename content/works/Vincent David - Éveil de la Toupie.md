@@ -20,6 +20,7 @@ research:
   - "Official artist page offers audio labeled Alessandro Malagnino L eveil de la toupie Vincent David. · https://www.selmer.fr/en/blogs/artistes/alessandro-malagnino"
 publisher:
   - "Éditions Billaudot"
+duration: "8 minutes 30 seconds"
 aliases: []
 ---
 ## Research notes (private)

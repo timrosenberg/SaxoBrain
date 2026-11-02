@@ -12,14 +12,13 @@ year-of-study: "Advanced"
 streaming: []
 publisher:
   - "Nimbus Music Publishing"
+duration: "approximately 30 minutes 30 seconds"
 purchase:
   - "Score inquiries · https://www.augustareadthomas.com/contact.html"
 added: 2026-10-27
 aliases: []
 multi-instruments: "One soloist doubling soprano and alto saxophones, with seven players and string orchestra"
 ---
-
-Duration: approximately 30 minutes 30 seconds.
 
 A concerto based on six Korean sijo poems. The soloist doubles soprano and alto saxophones. The accompanying players are two flutists, oboe, bassoon, two percussionists, and piano, alongside string orchestra.
 

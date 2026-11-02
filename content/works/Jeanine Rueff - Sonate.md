@@ -13,6 +13,7 @@ purchase:
   - "https://www.grothmusic.com/p-38484-sonata-alto-sax-unaccompanied.aspx"
 added: 2024-02-26
 aliases: []
+duration: approximately 12 minutes 30 seconds
 ---
 
 [https://www.youtube.com/watch?v=VxjEQFp_i9A](https://www.youtube.com/watch?v=VxjEQFp_i9A)

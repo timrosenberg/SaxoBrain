@@ -24,6 +24,7 @@ research:
 aliases: []
 publisher:
   - "Wirripang"
+duration: "approximately 5 minutes 50 seconds"
 ---
 ## Research notes (private)
 

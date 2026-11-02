@@ -3,6 +3,7 @@ title: "Hard"
 slug: hard
 saxophonists: "Richard Ducros"
 works:
+  - "[[Christian Lauba - Hard]]"
   - "[[Christian Lauba - Étude No. 14 Massaï]]"
   - "[[Christian Lauba - Neuf Études, Book 1 - No. 4 Jungle]]"
   - "[[Christian Lauba - Neuf Études, Book 1 - No. 1 Balafon]]"
@@ -17,7 +18,7 @@ apple-music: "https://music.apple.com/us/album/393391585"
 amazon-music: 
 tidal: 
 tracks:
-  - "Hard · 8:38 · [[Christian Lauba]]"
+  - "Hard · 8:38 · [[Christian Lauba - Hard]]"
   - "Massaï · 9:10 · [[Christian Lauba - Étude No. 14 Massaï]]"
   - "Jungle · 2:59 · [[Christian Lauba - Neuf Études, Book 1 - No. 4 Jungle]]"
   - "Balafon · 6:08 · [[Christian Lauba - Neuf Études, Book 1 - No. 1 Balafon]]"

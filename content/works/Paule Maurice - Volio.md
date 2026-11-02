@@ -13,4 +13,5 @@ purchase:
   - https://www.ficksmusic.com/pt/collections/works-by-female-composers/products/maurice-volio-billaudot
 added: 2024-03-04
 aliases: []
+duration: approximately 1 minutes 30 seconds
 ---

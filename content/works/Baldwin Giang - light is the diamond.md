@@ -10,6 +10,7 @@ composed: 2015–2016
 year-of-study: "Advanced"
 publisher:
   - Just a Theory Press
+duration: "8 minutes"
 streaming:
   - "https://soundcloud.com/baldwin-giang/sets/light-is-the-diamond"
 purchase:
@@ -19,8 +20,6 @@ aliases: []
 ---
 
 Two concert études for unaccompanied alto saxophone, exploring mixed-fingering trills and palm fingering.
-
-Duration: 8 minutes.
 
 [Publisher’s edition](https://justatheorypress.com/products/giang-lightisthediamond)
 

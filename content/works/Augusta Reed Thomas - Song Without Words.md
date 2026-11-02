@@ -14,14 +14,13 @@ streaming:
   - "Trumpet version: Amanda Ross and Liz Ames · https://www.youtube.com/watch?v=-AT7XG_iCzc"
 publisher:
   - "Nimbus Music Publishing"
+duration: "approximately 6 minutes 30 seconds"
 purchase:
   - "Score inquiries · https://www.augustareadthomas.com/contact.html"
 added: 2026-10-27
 aliases: []
 multi-instruments: "Soprano or alto saxophone with piano (alternative solo versions)"
 ---
-
-Duration: approximately 6 minutes 30 seconds.
 
 A lyrical duet available in separate editions for several solo instruments. The saxophone editions are A08 for soprano, A09 for alto at the original pitch level, and B07 for alto in the version lowered by a minor third. Order the score and part for the intended instrument and version.
 

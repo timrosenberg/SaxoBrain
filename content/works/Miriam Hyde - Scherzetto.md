@@ -18,6 +18,7 @@ research:
   - "Duration 2 minutes; suggested AMEB grade 6 (Australian exam board grade, per Australian Music Centre) · https://www.australianmusiccentre.com.au/product/scherzetto-for-saxophone-and-piano"
 publisher:
   - "Wirripang"
+duration: "approximately 2 minutes"
 aliases: []
 ---
 ## Research notes (private)

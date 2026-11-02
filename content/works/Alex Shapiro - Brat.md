@@ -16,6 +16,7 @@ research:
   - "About 2 minutes, one movement, 8 pages; comedic showpiece with physical comedy, 'as fast as clownishly possible'; adapted from Scherzo of Sonata for Piano; also for oboe, clarinet, violin/viola · https://alexshapiro.org/Bratpg1.html"
   - "Premiered Nov 2013, Boise, Idaho, Vanessa Sielert (alto sax) and Kristin Elgersma (piano) · https://alexshapiro.org/Bratpg1.html"
 aliases: []
+duration: approximately 2 minutes
 ---
 ## Research notes (private)
 

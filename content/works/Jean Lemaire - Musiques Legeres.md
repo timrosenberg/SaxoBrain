@@ -22,6 +22,7 @@ research:
 aliases: []
 publisher:
   - "Alphonse Leduc"
+duration: "approximately 7 minutes"
 ---
 ## Research notes (private)
 

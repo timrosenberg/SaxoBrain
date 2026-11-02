@@ -6,6 +6,7 @@ composer:
 instruments:
   - "Soprano Saxophone"
 composed: 
+duration: "15 minutes"
 year-of-study: "Third Year"
 streaming: 
 purchase:
@@ -20,8 +21,6 @@ aliases: []
 > *(Originally written for oboe and piano)*
 > 
 > Transcribed for soprano saxophone on 11/29/18, at the encouragement of Steve Carmichael
-> 
-> Duration: 15’
 > 
 > **original oboe sonata program notes by the composer:**
 > 

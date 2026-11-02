@@ -24,6 +24,7 @@ research:
 aliases: []
 publisher:
   - "Schott Music"
+duration: "approximately 11 minutes"
 ---
 The embedded recording plays I. Exposition only (4:56). Listen also to [II. Berceuse](https://www.youtube.com/watch?v=5zIFokcQGC4) and [III. Combination](https://www.youtube.com/watch?v=dVHziH_hNHQ), performed by Frank Lunte and Tatjana Blome.
 

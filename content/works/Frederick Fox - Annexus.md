@@ -15,6 +15,7 @@ added: 2024-03-08
 aliases: []
 publisher:
   - "Dorn Publications"
+duration: "approximately 10 minutes"
 multi-instruments: "Alto saxophone and prepared piano"
 research:
   - "1980 date, Dorn 1988, commission, instrumentation,10 minutes, extended techniques and score excerpts · https://digital.library.unt.edu/ark:/67531/metadc9751/m2/1/high_res_d/dissertation.pdf"

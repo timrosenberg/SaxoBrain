@@ -16,14 +16,13 @@ streaming:
   - "All-Star Orchestra, vocal version · https://www.youtube.com/watch?v=j9brA3OR2sE"
 publisher:
   - "Nimbus Music Publishing"
+duration: "approximately 6 minutes"
 purchase:
   - "Score inquiries · https://www.augustareadthomas.com/contact.html"
 added: 2026-10-27
 aliases: []
 multi-instruments: "Soprano or alto saxophone with string quartet or string orchestra (no double basses)"
 ---
-
-Duration: approximately 6 minutes.
 
 Originally a wordless vocal work for soprano and string quartet, Plea for Peace permits soprano or alto saxophone to replace the voice. String orchestra without double basses may replace the quartet. The composer gives the solo line’s range as D4 to A5.
 

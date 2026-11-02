@@ -22,6 +22,7 @@ research:
 aliases: []
 publisher:
   - Emerson Edition
+duration: "approximately 7 minutes"
 ---
 ## Research notes (private)
 

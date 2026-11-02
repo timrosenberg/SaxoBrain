@@ -10,6 +10,7 @@ composed: 2023
 year-of-study: "Fourth Year"
 publisher:
   - Just a Theory Press
+duration: "10 minutes"
 streaming:
   - "https://www.youtube.com/watch?v=aQhYJoDtysg"
 purchase:
@@ -19,8 +20,6 @@ aliases: []
 ---
 
 For alto saxophone and piano. Commissioned by Connor O’Toole and a consortium of saxophonists.
-
-Duration: 10 minutes.
 
 [Publisher’s edition](https://justatheorypress.com/products/sweet-nothings)
 

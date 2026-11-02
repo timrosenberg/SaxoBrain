@@ -14,6 +14,7 @@ purchase:
 want-to-play: true
 added: 2019-09-09
 aliases: []
+duration: approximately 8 minutes 30 seconds
 ---
 
 [Interview of Serge Bertocchi by Taku Ueda](http://saxophonemes.fr/eng.saxophonemes.fr/Takemitsus_Distance.html)

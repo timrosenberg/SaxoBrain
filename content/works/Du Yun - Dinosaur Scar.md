@@ -9,6 +9,7 @@ composed: 1999
 year-of-study: "Advanced"
 publisher:
   - "G. Schirmer Inc."
+duration: "9 minutes"
 streaming:
   - "https://www.youtube.com/watch?v=hYiz6eqyAC0"
 purchase:

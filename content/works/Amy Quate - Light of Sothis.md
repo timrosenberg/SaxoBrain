@@ -8,9 +8,11 @@ instruments:
   - "Piano"
 composed: 
 year-of-study: "First Year"
-streaming: 
+streaming:
+- https://www.youtube.com/watch?v=vPFMmSoTRTA
 purchase:
   - "https://www.sheetmusicplus.com/title/amy-quate-light-of-sothis-pour-saxophone-et-piano-sheet-music/20747896?aff_id=426309&utm_medium=plg1"
 added: 2019-08-25
 aliases: []
+duration: approximately 9 minutes
 ---

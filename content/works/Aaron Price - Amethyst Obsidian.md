@@ -10,6 +10,7 @@ composed: 2018
 year-of-study: "Fourth Year"
 publisher:
   - Just a Theory Press
+duration: "2 minutes 45 seconds"
 streaming:
   - "Excerpt · https://soundcloud.com/user-810969271/amethyst-obsidian-clip"
 purchase:
@@ -19,8 +20,6 @@ aliases: []
 ---
 
 For alto saxophone and bassoon. Written for Xelana Duo, Ana García Caraballos and Alexander Davis.
-
-Duration: 2 minutes 45 seconds.
 
 [Publisher’s edition](https://justatheorypress.com/products/amethyst-obsidian)
 

@@ -21,6 +21,7 @@ research:
   - "Retail prose dates parent ballet 1936 and piano version 1956. · https://www.grothmusic.com/p-37788.aspx"
 publisher:
   - "Alphonse Leduc"
+duration: "approximately 2 minutes 30 seconds"
 aliases: []
 ---
 ## Research notes (private)

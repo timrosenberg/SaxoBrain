@@ -22,6 +22,7 @@ research:
 aliases: []
 publisher:
   - "CeBeDeM"
+duration: "approximately 6 minutes 30 seconds"
 ---
 ## Research notes (private)
 

@@ -22,6 +22,7 @@ research:
 aliases: []
 publisher:
   - "Dorn Publications"
+duration: "10 minutes"
 download:
   - "https://storage.googleapis.com/production-netfirms-v1-0-5/355/1939355/UDClDPQr/264a83f47cdd43eba65f2b12f31646b3?fileName=3%20Line%20Rags-COMPLETE.pdf"
 library-score:

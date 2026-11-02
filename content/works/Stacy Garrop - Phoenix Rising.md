@@ -19,6 +19,7 @@ aliases: []
 research:
   - "Composer’s catalog verifies scoring, dates, and source recordings; checked 2026-10-27 · https://garrop.com/Catalog/ChamberEnsembles/saxophone/"
   - "Provisional difficulty estimate for Tim’s review, 2026-10-27: Two contrasting unaccompanied movements require sustained control and an energetic rebirth finale. Advanced is an inference from the solo format and composer description; no notation inspected."
+duration: approximately 10 minutes
 ---
 
 ## Research notes (private)

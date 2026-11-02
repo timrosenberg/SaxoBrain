@@ -2,7 +2,8 @@
 title: Flows
 slug: flows
 saxophonists: Vincent David
-works: []
+works:
+  - "[[Michael Jarrell - Résurgences]]"
 streaming: https://album.link/i/1440143569
 youtube:
 spotify: https://open.spotify.com/album/0D2RRHpPEV5wBXxQfs7pnN?si=PRCnRcpNSgiANs2zzH17LA
@@ -15,7 +16,7 @@ cover: /media/recordings/flows/cover.jpg
 
 ## Tracks
 
-1. Résurgences · Michael Jarrell
+1. Résurgences · [[Michael Jarrell - Résurgences]]
 2. Bug · [[Bruno Mantovani]]
 3. Schizophrenia · Yann Robin
 4. Prelude and Blue · Martin Matalon

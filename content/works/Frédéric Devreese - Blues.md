@@ -18,6 +18,7 @@ research:
   - "Duration 4'00\", alto saxophone and piano (Donemus listing) · https://webshop.donemus.nl/action/front/sheetmusic/14211"
 publisher:
   - "Donemus"
+duration: "approximately 4 minutes"
 aliases:
   - /works/frederik-devreese-blues/
 ---

@@ -12,6 +12,7 @@ streaming:
   - "Jonathan Yanik, alto saxophone; Joy Mentzel, piano (three movements) · https://www.youtube.com/watch_videos?video_ids=z_Xtzs6enfg,v4sY2KpVmoI,WGrbt9BVoVw"
 publisher:
   - Murphy Music Press
+duration: "approximately 16 minutes"
 purchase:
   - "Order from Publisher · https://murphymusicpress.com/products/S-101"
 download:
@@ -19,8 +20,6 @@ download:
 added: 2026-10-27
 aliases: []
 ---
-
-Duration: approximately 16 minutes.
 
 Commissioned by Todd Gaffke, who premiered the work with pianist Rubia Santos on April 17, 2009, at the University of Michigan. Inspired by the lingering impression of a dream, the three movements explore restless motion, stillness, and the energy of a late-night improvisation.
 

@@ -21,6 +21,7 @@ research:
 aliases: []
 publisher:
   - "C.F. Peters"
+duration: "7 minutes"
 ---
 ## Research notes (private)
 

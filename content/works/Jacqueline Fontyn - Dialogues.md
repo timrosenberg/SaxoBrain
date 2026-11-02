@@ -14,6 +14,7 @@ added: 2024-03-08
 aliases: []
 publisher:
   - "Choudens"
+duration: "approximately 13 minutes"
 library-score:
   - "https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf"
 research:

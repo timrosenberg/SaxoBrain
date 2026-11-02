@@ -19,6 +19,7 @@ research:
 aliases: []
 publisher:
   - "Henry Lemoine"
+duration: "approximately 9 minutes"
 ---
 ## Research notes (private)
 

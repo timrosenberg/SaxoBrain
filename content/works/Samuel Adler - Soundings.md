@@ -13,4 +13,5 @@ purchase:
   - https://www.prestomusic.com/sheet-music/products/7607013--samuel-adler-soundings
 added: 2024-02-21
 aliases: []
+duration: approximately 9 minutes 30 seconds
 ---

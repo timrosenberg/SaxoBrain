@@ -9,6 +9,7 @@ composed: 2004
 year-of-study: Advanced
 publisher:
   - Oxford University Press
+duration: "approximately 6 minutes"
 streaming:
   - https://open.spotify.com/track/3g39aHT0KW6KLK59qusIPa?utm_source=openai&utm_medium=chatgpt&go=1&nap_web=1&request_id=5e0ada76-c567-4034-a1eb-b8215d4f281c
 purchase:
@@ -18,8 +19,6 @@ aliases: []
 ---
 
 For solo soprano saxophone, adapted from the oboe original.
-
-Duration: approximately 6 minutes.
 
 The score link is for the oboe edition; consult the [composer’s estate](https://hilarytann.com/contact/) about saxophone materials.
 

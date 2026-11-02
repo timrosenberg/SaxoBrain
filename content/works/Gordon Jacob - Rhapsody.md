@@ -25,6 +25,7 @@ research:
 aliases: []
 publisher:
   - "Galaxy Music Corporation"
+duration: "9 minutes"
 arranger-edition:
   - "John Addison, piano reduction"
 ---

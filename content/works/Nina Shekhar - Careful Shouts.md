@@ -7,6 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 2021
+duration: "approximately 4 minutes"
 year-of-study: "Third Year"
 streaming: "https://www.youtube.com/watch?v=NToA8Uh-7Xo"
 purchase:

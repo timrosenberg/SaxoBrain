@@ -10,6 +10,7 @@ composed: 2011
 year-of-study: "Fourth Year"
 publisher:
   - "Chester Music Ltd"
+duration: "6 minutes"
 streaming: []
 purchase:
   - "https://www.wisemusicclassical.com/work/47280/Shadowplay--Helen-Grime/"

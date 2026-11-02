@@ -15,14 +15,13 @@ streaming:
   - "Historical wind ensemble arrangement (now withdrawn) · https://www.youtube.com/watch?v=xzkuOb1g4sA"
 publisher:
   - "G. Schirmer"
+duration: "approximately 22 minutes"
 purchase:
   - "Order from Publisher · https://www.wisemusicclassical.com/work/49289/Hemke-Concerto-Prisms-of-Light-for-sax-and-orchestra--Augusta-Read-Thomas/"
 added: 2026-10-27
 aliases: []
 multi-instruments: "Alto saxophone with orchestra; piano reduction also available"
 ---
-
-Duration: approximately 22 minutes.
 
 Commissioned as a retirement gift for Frederick L. Hemke, this concerto was premiered by Hemke with the New Haven Symphony, conducted by William Boughton, on February 27, 2014.
 

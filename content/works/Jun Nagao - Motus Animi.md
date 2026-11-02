@@ -11,6 +11,7 @@ year-of-study: Fourth Year
 arranger-edition: 
 publisher:
   - "Zen-On"
+duration: "17 minutes"
 streaming: "https://www.youtube.com/watch?v=1GDuQJtFZlQ"
 purchase:
   - "https://shop.zen-on.co.jp/downloads/detail/50955100/"

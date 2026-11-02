@@ -6,7 +6,7 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Unaccompanied"
-composed: 
+composed: 1981
 year-of-study: "Advanced"
 streaming: "https://youtu.be/N9PkEIvSqcs"
 purchase:
@@ -15,4 +15,5 @@ studied-performed: true
 want-to-play: true
 added: 2019-08-28
 aliases: []
+duration: 9 minutes
 ---

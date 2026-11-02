@@ -11,6 +11,7 @@ streaming:
   - "Joseph Lulloff, alto saxophone · https://www.youtube.com/watch?v=mahzDUrrl3Y"
 publisher:
   - Murphy Music Press
+duration: "approximately 7 minutes"
 purchase:
   - "Order from Publisher · https://murphymusicpress.com/products/u-110"
 download:
@@ -19,8 +20,6 @@ added: 2026-10-27
 aliases: []
 multi-instruments: "Solo alto saxophone"
 ---
-
-Duration: approximately 7 minutes.
 
 This version for solo alto saxophone was written for Joseph Lulloff. He premiered it on July 5, 2018, at the Cortona Sessions in Italy. It adapts the earlier solo flute work commissioned by Ashley Stanley for her Hustle Harder project. The music celebrates the resilience of Detroit and its people.
 

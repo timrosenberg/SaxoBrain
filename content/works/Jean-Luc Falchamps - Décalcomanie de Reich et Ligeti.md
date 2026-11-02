@@ -11,6 +11,7 @@ year-of-study: Advanced
 arranger-edition: 
 publisher:
   - "PM Europe Publications"
+duration: "7 minutes"
 streaming: "https://www.youtube.com/watch?v=HFSxMbjWKzI"
 purchase: []
 added: 2026-10-09

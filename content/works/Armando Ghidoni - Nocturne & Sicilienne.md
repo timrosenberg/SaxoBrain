@@ -25,6 +25,7 @@ research:
   - "Author comment identifies named alto saxophonist and harpist, with video link. · https://www.ilsaxofonoitaliano.it/opere/nocturne-et-sicilienne/"
 publisher:
   - "Alphonse Leduc"
+duration: "approximately 5 minutes"
 aliases: []
 ---
 ## Research notes (private)

@@ -19,6 +19,7 @@ research:
   - "Catalog lists DP1055 among alto saxophone and piano works and DP431 as small-orchestra score and parts. · https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf"
 publisher:
   - "Dorn Publications"
+duration: "10 minutes 30 seconds"
 aliases: []
 ---
 ## Research notes (private)

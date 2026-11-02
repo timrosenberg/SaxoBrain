@@ -10,6 +10,7 @@ composed: 2010
 year-of-study: Fourth Year
 publisher:
   - Rowanberry Music
+duration: "approximately 6 minutes"
 streaming:
   - https://open.spotify.com/track/1hxem1rwY625EPtcfrIyY9?utm_source=openai&utm_medium=chatgpt&go=1&nap_web=1&request_id=e1476f8a-ab94-43a1-b602-bf9f222ce11a
 purchase:
@@ -17,8 +18,6 @@ purchase:
 added: 2026-10-27
 aliases: []
 ---
-Duration: approximately 6 minutes.
-
 ## Research notes (private)
 
 Checked 2026-10-27. Provisional Fourth Year estimate from the composer’s flute/oboe preview, pages 1–2. The oboe line contains chromatic triplets and quintuplets, changing meters, and exposed soft phrasing. The duo requires coordinated tempo changes and interlocking lines. This is an inference for the saxophone adaptation; its transposed part was not inspected. The title follows the score’s Shôji spelling. The discography also uses Shōji.

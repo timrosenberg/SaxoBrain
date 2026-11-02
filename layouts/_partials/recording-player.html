@@ -16,6 +16,9 @@
 {{ with findRESubmatch `[?&]t=(\d+)` $url 1 }}{{ $src = printf "%s?start=%s" $src (index (index . 0) 1) }}{{ end }}
 {{ end }}
 {{ end }}
+{{ with findRESubmatch `^https?://(?:www\.)?vimeo\.com/([0-9]+)(?:[/?#]|$)` $url 1 }}
+{{ $src = printf "https://player.vimeo.com/video/%s" (index (index . 0) 1) }}
+{{ end }}
 {{ with $src }}
 <div class="video"><iframe src="{{ $src }}" title="{{ $title }}" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 {{ end }}

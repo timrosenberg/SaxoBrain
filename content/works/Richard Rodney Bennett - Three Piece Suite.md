@@ -7,6 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 
+duration: "approximately 10 minutes"
 year-of-study: "Third Year"
 streaming: "https://www.youtube.com/watch?v=tGDGczv9Wqc"
 purchase:
@@ -15,7 +16,7 @@ added: 2024-03-05
 aliases: []
 ---
 
-> *Three Piece Suite* for alto saxophone and piano is a transcription made by the composer in 1996 of three movements from his *Four Piece Suite* for two pianos of 1974. First performed on 21 March 1996 by John Harle. Duration c. 10 minutes.
+> *Three Piece Suite* for alto saxophone and piano is a transcription made by the composer in 1996 of three movements from his *Four Piece Suite* for two pianos of 1974. First performed on 21 March 1996 by John Harle.
 > 
 
 [https://www.youtube.com/watch?v=tGDGczv9Wqc](https://www.youtube.com/watch?v=tGDGczv9Wqc)

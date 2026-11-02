@@ -10,10 +10,11 @@ year-of-study: Third Year
 streaming: https://soundcloud.com/reedmusic-com/rm750-egyptian-wish-by-katy-abbott
 publisher:
   - Reed Music
+duration: "approximately 8 minutes"
 purchase:
   - https://www.reedmusic.com/store/woodwind/saxophone/saxophone-chamber-music/sax-trio/egyptian-wishrm750/
 added: 2026-10-07
 aliases: []
 ---
 
-Version for three saxophones. About 8 minutes.
+Version for three saxophones.

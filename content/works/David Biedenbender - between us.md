@@ -12,6 +12,7 @@ streaming:
   - "Duo Entre-Nous: Jackie Glazier, clarinet; Don-Paul Kahl, alto saxophone · https://www.youtube.com/watch?v=rFjADtRMe9k&t=7"
 publisher:
   - Murphy Music Press
+duration: "approximately 12 minutes"
 purchase:
   - "Order from Publisher · https://murphymusicpress.com/products/c-206"
 download:
@@ -19,8 +20,6 @@ download:
 added: 2026-10-27
 aliases: []
 ---
-
-Duration: approximately 12 minutes.
 
 Written during the COVID-19 pandemic for Duo Entre-Nous and a commissioning consortium. The three movements explore separation, intimacy, and the space between people. The premiere took place online on April 22, 2021.
 

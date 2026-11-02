@@ -18,6 +18,7 @@ publisher:
   - "Theodore Presser Company"
 research:
   - "Composer’s catalog verifies 2016, tenor saxophone and piano, and Joseph Lulloff and Yu-Lien The’s complete recording; checked 2026-10-27 · https://garrop.com/Catalog/ChamberEnsembles/saxophone/"
+duration: approximately 14 minutes 15 seconds
 ---
 
 ## Research notes (private)

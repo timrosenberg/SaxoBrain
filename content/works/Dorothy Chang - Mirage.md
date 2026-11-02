@@ -12,5 +12,6 @@ purchase:
   - https://www.grothmusic.com/p-139760.aspx
 added: 2026-10-07
 aliases: []
+duration: approximately 5 minutes
 ---
 > _Mirage_ begins quietly with small gestures that fade in and out of silence. Gradually these gestures develop into increasingly aggressive statements, yet drop back almost immediately after reaching a high point of intensity. The piece fades out as it began, vanishing before any substantial development or form takes place.

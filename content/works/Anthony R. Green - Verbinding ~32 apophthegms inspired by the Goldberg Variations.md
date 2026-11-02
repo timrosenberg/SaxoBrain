@@ -6,7 +6,8 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
+composed: 2015
+duration: "13 minutes"
 year-of-study: "Advanced"
 streaming: "http://webtv.saxopen.com/event/music-of-anthony-green/"
 purchase:

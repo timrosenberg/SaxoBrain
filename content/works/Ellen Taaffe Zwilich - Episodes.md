@@ -13,4 +13,5 @@ purchase:
   - "https://www.prestomusic.com/sheet-music/products/7293140--zwilich-e-t-episodes"
 added: 2024-02-21
 aliases: []
+duration: approximately 11 minutes
 ---

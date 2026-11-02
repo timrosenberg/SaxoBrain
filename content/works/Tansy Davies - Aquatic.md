@@ -26,6 +26,7 @@ research:
 aliases: []
 publisher:
   - "Faber Music"
+duration: "approximately 10 minutes"
 ---
 ## Research notes (private)
 

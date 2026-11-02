@@ -16,7 +16,7 @@ All 21 works below remain in the catalog without a Year of Study as of October 2
 | [[Carl Anton Wirth - Ballad No. 1]] | Exact title/edition was not independently verified in the review. | [Source](https://ethospublications.com/about/comp-bios.html) |
 | [[Carl Anton Wirth - Two Adagios]] | Exact title/edition was not independently verified in the review. | [Source](https://ethospublications.com/about/comp-bios.html) |
 | [[Carl Anton Wirth - Wherefore]] | Exact title/edition was not independently verified in the review. | [Source](https://ethospublications.com/about/comp-bios.html) |
-| [[Cecilia Sung - Sur La Memoire]] | Tim retained it with difficulty unknown. | [Source](https://ci.nii.ac.jp/ncid/BC02232661) |
+| [[Stella Sung - Sur la mémoire]] | Tim retained it with difficulty unknown. Attribution corrected October 30, 2026. | [Source](https://ci.nii.ac.jp/ncid/BC02232661) |
 | [[Charles W. Smith - Sonata No. 1]] | Tim retained it with difficulty unknown. | [Source](https://www.halleonard.com/product/3776036/sonata-no-1-1989) |
 | [[Daniel Lefebvre - Diptyque]] | Tim retained it with difficulty unknown. | [Source](https://www.grothmusic.com/p-142041.aspx) |
 | [[Frederik van Rossum - Pathetic Story]] | Tim retained it with difficulty unknown. | [Source](https://www.elkinmusic.com/contact-us) |
@@ -35,9 +35,9 @@ All 21 works below remain in the catalog without a Year of Study as of October 2
 
 ## Unresolved Identity And Edition Questions
 
-## C1. Cecilia Sung - Sur La Memoire
+## C1. Stella Sung - Sur la mémoire
 
-[[Cecilia Sung - Sur La Memoire|Current work]]
+[[Stella Sung - Sur la mémoire|Current work]]
 
 **Proposed action:** Attribute to Stella Sung.
 

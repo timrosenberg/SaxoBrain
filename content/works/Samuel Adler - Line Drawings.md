@@ -9,10 +9,10 @@ composed: 1978
 year-of-study: "Advanced"
 publisher:
   - "Dorn Publications"
+duration: "approximately 8 minutes"
 streaming: https://www.youtube.com/watch_videos?video_ids=iz5_CXzY2RU,oFR4k_-0V5c
 purchase:
   - "https://www.grothmusic.com/p-149658.aspx"
 added: 2026-10-27
 aliases: []
 ---
-Duration: approximately 8 minutes.

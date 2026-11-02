@@ -17,6 +17,7 @@ streaming:
   - "Abridged wind ensemble performance: Jonathan Yanik and the Garde républicaine; François Boulanger, conductor · https://www.youtube.com/watch?v=p-l4M7iazWY"
 publisher:
   - Murphy Music Press
+duration: "approximately 14 minutes"
 purchase:
   - "Order from Publisher · https://murphymusicpress.com/products/W-103"
   - "Piano reduction · https://murphymusicpress.com/products/S-109"
@@ -26,8 +27,6 @@ added: 2026-10-27
 aliases: []
 multi-instruments: "Alto saxophone with wind ensemble; versions with piano or orchestra also available"
 ---
-
-Duration: approximately 14 minutes.
 
 A concerto for alto saxophone and wind ensemble, with versions for saxophone and piano or orchestra. The work draws on Carl Sandburg’s poem of the same name and the composer’s experience of loss in his family. Long sliding gestures evoke lament, while sudden swells suggest the sound of reversed tape playback.
 

@@ -15,6 +15,7 @@ added: 2025-04-16
 aliases: []
 publisher:
   - "Universal Edition"
+duration: "5 minutes"
 research:
   - "Date, duration, work origin, premiere and edition · https://www.universaledition.com/en/Works/Song-of-the-Loon-for-Alto-Saxophone-and-orchestra/P0277391"
   - "Actual orchestral score excerpt · https://www.universaledition.com/media/b6/c1/86/1714661821/80b3e9e5e2d7a0ef91ac3828b8f439d7.pdf"

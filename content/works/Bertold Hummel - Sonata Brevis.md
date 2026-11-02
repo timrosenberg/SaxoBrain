@@ -7,6 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 1991
+duration: "approximately 18 minutes"
 year-of-study: "Second Year"
 streaming: 
 purchase:

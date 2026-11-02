@@ -11,6 +11,7 @@ year-of-study: Third Year
 arranger-edition: 
 publisher:
   - "Zen-On"
+duration: "approximately 13 minutes"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-37789.aspx

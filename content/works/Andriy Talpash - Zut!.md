@@ -11,6 +11,7 @@ year-of-study: Advanced
 arranger-edition: 
 publisher:
   - "AMP"
+duration: "7 minutes"
 streaming: 
 purchase:
   - "Composer's website · https://www.atalpash.com/"

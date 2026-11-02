@@ -10,6 +10,7 @@ composed: 1999
 year-of-study: "Advanced"
 publisher:
   - "Peters Edition Limited"
+duration: "20 minutes"
 streaming: []
 purchase:
   - "Orchestral materials rental · https://www.wisemusicclassical.com/work/73587/The-Imagined-Sound-of-Sun-on-Stone--Sally-Beamish/"

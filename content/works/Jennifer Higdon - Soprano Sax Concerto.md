@@ -12,6 +12,7 @@ composed: 2007
 year-of-study: "Fourth Year"
 publisher:
   - "Lawdon Press"
+duration: "approximately 17 minutes"
 streaming: []
 purchase:
   - "Orchestral version and piano reduction · https://www.ficksmusic.com/collections/saxophone/products/higdon-soprano-sax-concerto-lawdon-1"

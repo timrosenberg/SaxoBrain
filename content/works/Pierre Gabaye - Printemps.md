@@ -20,6 +20,7 @@ research:
   - "1959 work date and rhythm description. · https://pdfcoffee.com/10-ans-avec-le-saxophonepdf-pdf-free.html"
 publisher:
   - "Alphonse Leduc"
+duration: "2 minutes 40 seconds"
 aliases: []
 ---
 ## Research notes (private)

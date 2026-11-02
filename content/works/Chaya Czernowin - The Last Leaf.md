@@ -15,6 +15,7 @@ purchase:
   - "https://www.schott-music.com/en/the-last-leaf-noc309298.html"
 added: "2026-10-27"
 aliases: []
+duration: approximately 12 minutes
 ---
 
 Adapted from the composer’s solo oboe work.

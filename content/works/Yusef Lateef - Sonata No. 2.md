@@ -6,7 +6,7 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 
+composed: 1997
 year-of-study: "Fourth Year"
 streaming: "https://yuseflateef1.bandcamp.com/album/wayne-tice-plays-the-music-of-yusef-lateef"
 purchase: []

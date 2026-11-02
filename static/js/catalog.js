@@ -168,7 +168,6 @@
     if (depth > 0) { const n = depth; depth = 0; history.go(-n); } else { hidePanel(); }
   }
   scrim.onclick = closePanel;
-  document.addEventListener("keydown", e => { if (e.key === "Escape") closePanel(); });
   window.addEventListener("popstate", e => {
     if (e.state && e.state.work) { loadWork(e.state.work).catch(() => {}); } else { depth = 0; hidePanel(); }
   });
@@ -208,6 +207,13 @@
     $("clear").onclick = () => { reset(); update(); };
     let tmr;
     $("q").addEventListener("input", e => { clearTimeout(tmr); tmr = setTimeout(() => { state.q = e.target.value.trim(); state.limit = 60; writeUrl(); render(); }, 120); });
+    document.addEventListener("keydown", e => {
+      if (e.key !== "Escape") return;
+      e.preventDefault();
+      if (!panel.hidden) { closePanel(); return; }
+      clearTimeout(tmr);
+      state.q = ""; state.limit = 60; update();
+    });
   }
 
   fetch(document.currentScript.dataset.index)

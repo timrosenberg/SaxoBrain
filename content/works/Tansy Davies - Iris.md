@@ -10,6 +10,7 @@ composed: 2004
 year-of-study: "Fourth Year"
 publisher:
   - "Faber Music"
+duration: "14 minutes"
 streaming:
   - "https://www.youtube.com/watch?v=udvx-HbMygk"
 purchase:

@@ -7,6 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 2011
+duration: "approximately 8 minutes"
 year-of-study: "Third Year"
 streaming:
   - "Duo: I. converge · Noah Getz and Andrew Welch · https://music.apple.com/us/album/duo-i-converge/1245159974?i=1245159990"

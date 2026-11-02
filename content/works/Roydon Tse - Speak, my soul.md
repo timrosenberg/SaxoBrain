@@ -7,6 +7,7 @@ instruments:
   - "Alto Saxophone"
   - "Piano"
 composed: 2016
+duration: "approximately 5 minutes"
 year-of-study: "Third Year"
 streaming: "https://www.youtube.com/watch?v=O9FTWSHfwww"
 purchase:

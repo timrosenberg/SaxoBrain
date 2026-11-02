@@ -21,6 +21,7 @@ research:
 aliases: []
 publisher:
   - "Wingert-Jones Publications"
+duration: "approximately 6 minutes"
 ---
 ## Research notes (private)
 

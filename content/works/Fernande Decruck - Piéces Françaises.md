@@ -13,6 +13,7 @@ purchase:
   - "https://www.grothmusic.com/p-37655-pieces-francaises-alto-sax-and-piano.aspx"
 added: 2024-02-21
 aliases: []
+duration: approximately 20 minutes
 ---
 
 [https://www.youtube.com/watch?v=CHSQlrg0brc](https://www.youtube.com/watch?v=CHSQlrg0brc)

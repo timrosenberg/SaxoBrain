@@ -13,6 +13,7 @@ purchase:
   - https://cmccanada.org/shop/68776/
 added: 2024-02-21
 aliases: []
+duration: approximately 16 minutes
 ---
 > _New Stories_ is a reflection on the various musical influences and experiences I’ve had as a second generation Chinese American who has lived in both North America and Asia.  Chinese folk songs, 80’s pop ballads and marching band music are equally a part of my musical identity, as is the influence of composers ranging from Bach, Brahms and Stravinsky to more recent contemporary composers. The four movements that comprise _New Stories_ are personal musical narratives that result when these diverse elements are embraced and woven together in various ways. 
 >

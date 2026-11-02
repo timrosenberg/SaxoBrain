@@ -5,6 +5,7 @@ composer:
   - "[[Libby Larsen]]"
 instruments: ["Alto Saxophone", "Soprano Saxophone", "Piano"]
 composed: 2005
+duration: "21 minutes"
 year-of-study: "Fourth Year"
 streaming: "https://youtu.be/X8EtaYDIiNQ?si=5x5mlRc1LYcsaIQI"
 purchase:

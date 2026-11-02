@@ -7,6 +7,7 @@ instruments:
   - Baritone Saxophone
   - Piano
 composed:
+duration: "approximately 10 minutes"
 year-of-study: Third Year
 streaming:
 purchase:

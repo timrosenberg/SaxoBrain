@@ -13,6 +13,7 @@ year-of-study: Third Year
 arranger-edition: 
 publisher:
   - "Zen-On"
+duration: "11 minutes"
 streaming: https://www.youtube.com/watch?v=j4W2i5RqfV4
 purchase:
   - "https://shop.zen-on.co.jp/downloads/detail/56003100/"

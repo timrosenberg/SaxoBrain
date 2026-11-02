@@ -10,6 +10,7 @@ composed: 2002
 year-of-study: "Third Year"
 publisher:
   - "Bote & Bock"
+duration: "5 minutes"
 streaming:
   - "https://soundcloud.com/wonkisaxlee/ursula-mamlok-ruckblick-2002-for-saxophone-and-piano"
 purchase:

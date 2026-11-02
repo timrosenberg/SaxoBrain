@@ -7,6 +7,7 @@ instruments:
   - Alto Saxophone
   - Piano
 composed: 2006
+duration: "approximately 15 minutes"
 year-of-study: Fourth Year
 streaming: https://youtu.be/WJCpBuPiWXc?si=8SB5XEq20QLnRwZl
 purchase:
@@ -18,7 +19,7 @@ aliases:
 ---
 > _The 4th International Adolphe Sax Competition_ commissioned _Swerts_ to write the required final round work for the 2006 competition in Dinant, Belgium. _Kotekan_ is dedicated to _Alain Crepin,_ who is the Belgian-born Professor of Saxophone at the Brussels Conservatoire Royal de Musique. Crepin has been deeply involved with the International Adolphe Sax Competition since its beginning in 1994, and he has served as the president of the jury since 2005. During the Adolphe Sax Competition, it was Spanish saxophonist _Antonio Felipe Belijar_ who performed the work first in the final round.
 > 
-> _Kotekan_ is approximately 15 minutes long and is written for a solo alto saxophone and a string orchestra comprised of three string quintets. Two of the quintets are comprised of three violins, viola, and cello, and the third quintet is comprised of three violins, viola, and double bass.
+> _Kotekan_ […] is written for a solo alto saxophone and a string orchestra comprised of three string quintets. Two of the quintets are comprised of three violins, viola, and cello, and the third quintet is comprised of three violins, viola, and double bass.
 > 
 > The orchestra’s seating arrangement plays an integral role in the work’s performance because of its connections to Balinese gamelan, which Swerts explains in his detailed program note:
 > 

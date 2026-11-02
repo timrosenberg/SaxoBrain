@@ -18,6 +18,7 @@ added: 2025-04-21
 aliases: []
 publisher:
   - "Donemus"
+duration: "approximately 4 minutes"
 research:
   - "Date, trio, duration, edition and program note · https://webshop.donemus.com/action/front/sheetmusic/20030"
   - "Exact recording instrumentation and players · https://www.nubim.net/press.html"

@@ -13,4 +13,5 @@ purchase:
   - https://www.reedmusic.com/1820/saxophone/saxophone-tenor/saxophone-tenor-piano-level-c/autumn-song-3/
 added: 2024-02-21
 aliases: []
+duration: approximately 5 minutes
 ---

@@ -21,6 +21,7 @@ research:
 aliases: []
 publisher:
   - "Dorn Publications"
+duration: "approximately 5 minutes 30 seconds"
 ---
 ## Research notes (private)
 

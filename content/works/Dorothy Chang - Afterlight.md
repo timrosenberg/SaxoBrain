@@ -13,6 +13,7 @@ purchase:
   - "https://cmccanada.org/shop/75957/"
 added: 2024-02-21
 aliases: []
+duration: approximately 8 minutes
 ---
 > _Afterlight_ was written in response to a multitude of tragedies that occurred in early 2018. The title refers not only to its definition (of retrospect) but also my own interpretation of the word _afterlight_: that of the "light" that remains when someone passes, in the form of memories, shared experiences, a sense of presence even when someone is gone.
 > 

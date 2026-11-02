@@ -10,6 +10,7 @@ composed: 2022
 year-of-study: "Third Year"
 publisher:
   - Just a Theory Press
+duration: "4 minutes"
 streaming:
   - "Demo · https://soundcloud.com/trentaduemotif/a-limitless-universe-of-equilibrium-shrouded-within-deep-thought-2022-demo"
 purchase:
@@ -19,8 +20,6 @@ aliases: []
 ---
 
 For alto saxophone and fixed media electronics. Commissioned by Joshua Thomas.
-
-Duration: 4 minutes.
 
 [Publisher’s edition](https://justatheorypress.com/products/a-limitless-universe-of-equilibrium-shrouded-within-deep-thought)
 

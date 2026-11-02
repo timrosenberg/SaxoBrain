@@ -7,6 +7,7 @@ instruments:
   - "Tenor Saxophone"
   - "Piano"
 composed: 2012
+duration: "approximately 6 minutes"
 year-of-study: "Third Year"
 streaming: 
 purchase:

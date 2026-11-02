@@ -9,6 +9,7 @@ composed: 2009
 year-of-study: Third Year
 publisher:
   - American Composers Edition
+duration: "approximately 4 minutes"
 streaming:
   - https://www.youtube.com/watch?v=mhaxwJ8pWFg&pp=ygUpbmFuY3kgdmFuIGRlIHZhdGUgYSBxdWlldCBwaWVjZSBzYXhvcGhvbmU%3D
 purchase:
@@ -16,5 +17,3 @@ purchase:
 added: 2026-10-27
 aliases: []
 ---
-
-Duration: approximately 4 minutes.

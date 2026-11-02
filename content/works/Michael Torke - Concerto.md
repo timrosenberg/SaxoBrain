@@ -8,6 +8,7 @@ instruments:
   - "Orchestra"
   - "Piano"
 composed: 1993
+duration: "approximately 18 minutes"
 year-of-study: "Fourth Year"
 streaming:
   - "Saxophone Concerto: I (John Harle, Albany Symphony Orchestra, David Alan Miller) · https://music.apple.com/ca/album/saxophone-concerto-i/1452384939?i=1452385158"

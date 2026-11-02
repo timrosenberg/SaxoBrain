@@ -10,6 +10,7 @@ composed: 2016
 year-of-study: "Third Year"
 publisher:
   - Just a Theory Press
+duration: "4 minutes"
 streaming:
   - "https://www.youtube.com/watch?v=Q8dOwAfyirg"
 purchase:
@@ -19,8 +20,6 @@ aliases: []
 ---
 
 For unaccompanied alto saxophone. Commissioned by Maggie Weisensel. A flute arrangement followed in 2020.
-
-Duration: 4 minutes.
 
 [Publisher’s edition](https://justatheorypress.com/products/fake-smile)
 

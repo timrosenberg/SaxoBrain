@@ -14,4 +14,5 @@ purchase:
   - "https://www.grothmusic.com/p-140132.aspx"
 added: 2026-10-27
 aliases: []
+duration: approximately 2 minutes
 ---

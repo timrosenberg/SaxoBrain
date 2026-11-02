@@ -18,6 +18,7 @@ research:
   - Duration 6'15"; baritone saxophone solo; score 12 pages; published by Donemus · https://webshop.donemus.nl/action/front/sheetmusic/13451/Fracture+IV
 publisher:
   - Donemus
+duration: "approximately 6 minutes 15 seconds"
 aliases: []
 ---
 ## Research notes (private)

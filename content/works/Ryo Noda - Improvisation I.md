@@ -14,4 +14,5 @@ purchase:
 studied-performed: true
 added: 2019-08-26
 aliases: []
+duration: approximately 4 minutes 15 seconds
 ---

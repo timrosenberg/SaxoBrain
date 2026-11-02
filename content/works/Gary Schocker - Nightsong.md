@@ -20,6 +20,7 @@ research:
 aliases: []
 publisher:
   - "Theodore Presser Company"
+duration: "approximately 4 minutes 30 seconds"
 ---
 ## Research notes (private)
 

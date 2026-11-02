@@ -10,6 +10,7 @@ composed: 2001
 year-of-study: Advanced
 publisher:
   - Éditions Durand
+duration: "6 minutes"
 streaming: https://www.youtube.com/watch?v=I3AKAK7_vTw
 purchase:
   - https://babelscores.com/piece/rasch/

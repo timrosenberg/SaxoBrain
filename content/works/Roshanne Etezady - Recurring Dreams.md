@@ -13,13 +13,12 @@ year-of-study: Fourth Year
 streaming: https://www.youtube.com/watch?v=LYiV5nDIJKQ
 publisher:
   - Murphy Music Press
+duration: "approximately 8 minutes"
 purchase:
   - "Order from Publisher · https://murphymusicpress.com/products/c-159"
 added: 2026-10-27
 aliases: []
 ---
-
-Duration: approximately 8 minutes.
 
 Commissioned by Vandoren Music, Inc.
 

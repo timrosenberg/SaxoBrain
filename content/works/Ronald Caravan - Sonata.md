@@ -20,6 +20,7 @@ research:
   - "Exact movement titles, artist credits and individual track URLs checked; only the correct work movements are linked. · https://itunes.apple.com/lookup?id=1182417172&entity=song"
 publisher:
   - "Ethos Publications"
+duration: "approximately 12 minutes"
 aliases: []
 ---
 ## Research notes (private)

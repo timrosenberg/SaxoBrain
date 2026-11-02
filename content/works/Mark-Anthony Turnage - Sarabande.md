@@ -19,6 +19,7 @@ research:
 aliases: []
 publisher:
   - "Schott Music"
+duration: "approximately 4 minutes"
 ---
 ## Research notes (private)
 

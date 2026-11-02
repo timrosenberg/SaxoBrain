@@ -10,6 +10,7 @@ composed: 1984
 year-of-study: "Third Year"
 publisher:
   - "Novello & Co Ltd"
+duration: "9 minutes"
 streaming: []
 purchase:
   - "Original edition and alternative scoring information · https://www.wisemusicclassical.com/work/2757/Sketches-from-a-Bagpipers-Album--Judith-Weir/"

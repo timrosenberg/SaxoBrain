@@ -21,6 +21,7 @@ research:
   - "DORN0164, 20 pages, commission and premiere details. · https://www.grothmusic.com/p-142335-epitaph-alto-saxophone-and-piano.aspx"
 publisher:
   - "Dorn Publications"
+duration: "6 minutes 4 seconds"
 aliases: []
 ---
 ## Research notes (private)

@@ -15,6 +15,7 @@ research: ["Publisher Billaudot, catalog no. GB5367; soprano (or tenor) sax and 
 aliases: ["/works/jean-thierry-chant-tenebres/"]
 publisher:
   - "Éditions Billaudot"
+duration: "15 minutes"
 ---
 
 ## Listening Links and Recording References

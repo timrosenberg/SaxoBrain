@@ -15,6 +15,7 @@ added: 2024-03-08
 aliases: []
 publisher:
   - "Ongaku no Tomo Sha"
+duration: "approximately 10 minutes"
 research:
   - "1982; alto/piano; about 10 minutes; Bensmann commission; Ongaku no Tomo Sha · https://isao-matsushita.jp/compositions.php"
   - "Exact label recording and five-section program description · https://www.eda-records.com/177-0-CD-im-Detail.html?cd_id=42"

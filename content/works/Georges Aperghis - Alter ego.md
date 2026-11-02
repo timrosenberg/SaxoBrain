@@ -15,4 +15,5 @@ purchase:
   - https://www.sheetmusicplus.com/en/product/alter-ego-saxophone-22252067.html
 added: 2026-10-26
 aliases: []
+duration: approximately 6 minutes 30 seconds
 ---

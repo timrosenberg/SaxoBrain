@@ -9,6 +9,7 @@ composed:
 year-of-study: "Advanced"
 publisher:
   - "Ricordi"
+duration: "approximately 8 minutes"
 streaming: []
 purchase: []
 added: "2026-10-27"

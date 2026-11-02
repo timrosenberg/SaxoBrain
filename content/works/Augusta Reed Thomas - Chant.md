@@ -12,14 +12,13 @@ streaming:
   - "Chad Lilley · saxophone version · https://www.youtube.com/watch?v=9yYgssPDDNQ"
 publisher:
   - "G. Schirmer"
+duration: "approximately 10 minutes, depending on the ending chosen"
 purchase:
   - "Alto saxophone and piano edition · https://www.halleonard.com/product/50486113/chant"
 added: 2024-02-21
 aliases: []
 ---
 
-
-Duration: approximately 10 minutes, depending on the ending chosen.
 
 Originally written for cello and piano, Chant is also published for alto saxophone and piano. The Library of Congress commissioned the original work. The Fischer Duo premiered it at Rice University in Houston on January 21, 1992.
 

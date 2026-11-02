@@ -11,6 +11,7 @@ composed: 2023
 year-of-study: "Fourth Year"
 publisher:
   - Just a Theory Press
+duration: "3 minutes"
 streaming:
   - "Soprano and alto saxophones · https://www.youtube.com/watch?v=yhIr2v53PwU"
   - "Violin and cello · https://www.youtube.com/watch?v=OF4lGQTEuX4"
@@ -22,8 +23,6 @@ aliases: []
 ---
 
 For soprano and alto saxophones. The work also exists in versions for violin and cello and for two violas. The saxophone version was premiered by Giovanna Virgil and Mark Northup at the 2024 U.S. Navy Band International Saxophone Symposium.
-
-Duration: 3 minutes.
 
 [Publisher’s edition](https://justatheorypress.com/products/burn-as-brightly)
 

@@ -15,6 +15,7 @@ studied-performed: true
 want-to-play: true
 added: 2024-02-21
 aliases: []
+duration: approximately 22 minutes
 ---
 
 [https://www.youtube.com/watch?v=6GscSzjah8Y](https://www.youtube.com/watch?v=6GscSzjah8Y)

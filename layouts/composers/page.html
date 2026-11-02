@@ -16,7 +16,7 @@
 {{ with .Params.nationality }}{{ $by = $by | append (delimit . ", ") }}{{ end }}
 {{ with $life }}{{ $by = $by | append . }}{{ end }}
 {{ with $by }}<p class="byline">{{ delimit . " · " }}</p>{{ end }}
-{{ with .Params.website }}{{ if hasPrefix . "http" }}<p class="byline"><a href="{{ . }}" rel="noopener">{{ partial "t.html" "composer-website" }}</a></p>{{ end }}{{ end }}
+{{ with .Params.website }}{{ if hasPrefix . "http" }}<p class="byline"><a class="btn" href="{{ . }}" rel="noopener">{{ partial "t.html" "composer-website" }}</a></p>{{ end }}{{ end }}
 </div>
 </div>
 {{ with $body.body }}<div class="notes">{{ . | safeHTML }}</div>{{ end }}

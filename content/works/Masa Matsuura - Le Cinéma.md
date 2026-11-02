@@ -13,6 +13,7 @@ year-of-study: Second Year
 arranger-edition: 
 publisher:
   - "Zen-On"
+duration: "approximately 9 minutes"
 streaming: "https://www.youtube.com/watch?v=9FJ_8mlSY-c"
 purchase:
   - "https://shop.zen-on.co.jp/downloads/detail/56003600/"

@@ -22,6 +22,7 @@ research:
 aliases: []
 publisher:
   - "Éditions Billaudot"
+duration: "13 minutes 30 seconds"
 ---
 ## Research notes (private)
 

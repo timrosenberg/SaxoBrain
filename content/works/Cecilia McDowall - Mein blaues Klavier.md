@@ -10,6 +10,7 @@ composed: 2006
 year-of-study: "Third Year"
 publisher:
   - "Friedrich Hofmeister Musikverlag"
+duration: "10 minutes"
 streaming:
   - "https://open.spotify.com/track/3LcWdC1m7JJwhA02A9boTt"
 purchase: []

@@ -12,6 +12,7 @@ year-of-study: "Fourth Year"
 arranger-edition: 
 publisher:
   - "Salabert"
+duration: "16 minutes 40 seconds"
 streaming: 
 purchase:
   - "Rent from Publisher · https://www.durand-salabert-eschig.com/fr-FR/ContactUs.aspx"

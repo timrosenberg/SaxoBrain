@@ -18,6 +18,7 @@ added: 2025-04-21
 aliases: []
 publisher:
   - "Donemus"
+duration: "approximately 19 minutes"
 download:
   - "https://www.christianblaha.com/s/Saxophone-Concerto-watermark.pdf"
 arranger-edition:

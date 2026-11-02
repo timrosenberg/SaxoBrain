@@ -13,6 +13,7 @@ purchase:
   - "https://www.halleonard.com/product/42556/streetlegal?promotion=15400002promotion%3D15400002"
 added: 2024-02-21
 aliases: []
+duration: approximately 5 minutes
 ---
 
 ## Research notes (private)

@@ -24,6 +24,7 @@ research:
   - "Publisher product identifies Southern edition; public closer-look endpoint returned null. · https://www.halleonard.com/product/3776341/concertino-for-soprano-saxophone"
 publisher:
   - "Southern Music"
+duration: "8 minutes"
 aliases:
   - /works/robert-tepper-concertino/
 ---

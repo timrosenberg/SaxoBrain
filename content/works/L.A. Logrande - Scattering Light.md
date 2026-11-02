@@ -16,6 +16,7 @@ research:
   - "2015, date, duration, scoring and exact existing audio link association · https://www.noaevenmusic.com/saxandpiano"
   - "Andy Wen world premiere at 2015 Strasbourg congress · https://www.music.org/pdf/conf/reg/ma/2017schedule.pdf"
   - "2019 performance by Durst and Pruett · https://www.music.org/pdf/conf/reg/gl/2019schedule.pdf"
+duration: approximately 7 minutes 45 seconds
 ---
 
 

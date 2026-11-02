@@ -21,6 +21,7 @@ publisher:
   - "Theodore Presser Company"
 research:
   - "Composer’s catalog verifies 2000, alto saxophone and piano, and all three Ambassador Duo recording movements; checked 2026-10-27 · https://garrop.com/Catalog/ChamberEnsembles/saxophone/"
+duration: approximately 13 minutes 30 seconds
 ---
 
 ## Research notes (private)

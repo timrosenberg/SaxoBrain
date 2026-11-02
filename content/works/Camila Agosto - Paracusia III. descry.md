@@ -9,6 +9,7 @@ instruments:
 composed: 2020
 year-of-study: "Advanced"
 publisher: []
+duration: "16 minutes"
 streaming:
   - "https://www.youtube.com/watch?v=a_yjLpRmpWU"
 purchase: []

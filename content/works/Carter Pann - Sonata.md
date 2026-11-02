@@ -10,6 +10,7 @@ composed: 2016
 year-of-study: Fourth Year
 publisher:
   - Theodore Presser Company
+duration: "approximately 23 minutes"
 streaming: https://www.youtube.com/watch_videos?video_ids=rQHyaoRzVIg,xrmiyH0HYSg,ZDvBc1FQO_s,9k4yEKYPQr0,rzl90Fupb1o,C6Y65FyBmUQ
 purchase:
   - "Order from Publisher · https://www.presser.com/114-41853-sonata-for-alto-saxophone-and-piano.html"
@@ -19,7 +20,7 @@ added: 2026-10-27
 aliases: []
 ---
 
-Commissioned by and dedicated to Joseph Lulloff, this four-movement sonata was composed in 2016. The publisher gives an approximate performance time of 23 minutes. Pann drew inspiration from [[William Albright]]'s saxophone music and Lulloff's combination of lyrical finesse and forceful virtuosity. [Theodore Presser Company, publisher's introduction](https://www.presser.com/114-41853-sonata-for-alto-saxophone-and-piano.html).
+Commissioned by and dedicated to Joseph Lulloff, this four-movement sonata was composed in 2016. Pann drew inspiration from [[William Albright]]'s saxophone music and Lulloff's combination of lyrical finesse and forceful virtuosity. [Theodore Presser Company, publisher's introduction](https://www.presser.com/114-41853-sonata-for-alto-saxophone-and-piano.html).
 
 ## Movements
 

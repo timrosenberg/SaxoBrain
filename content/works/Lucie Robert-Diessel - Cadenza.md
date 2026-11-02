@@ -14,6 +14,7 @@ purchase:
 want-to-play: true
 added: 2019-08-28
 aliases: []
+duration: approximately 10 minutes
 ---
 
 [https://youtu.be/1Yomi7OqpxM?si=XI_Y_LmMQkc82b4F](https://youtu.be/1Yomi7OqpxM?si=XI_Y_LmMQkc82b4F)

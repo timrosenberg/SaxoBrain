@@ -20,6 +20,7 @@ research:
   - "Three-page C-score sample with inside-piano instructions and saxophone effects inspected. · https://katherineannmurdock.com/wp-content/uploads/2016/03/terra-incognita.pdf"
 publisher:
   - "Dorn Publications"
+duration: "10 minutes"
 aliases: []
 ---
 ## Research notes (private)

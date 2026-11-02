@@ -14,14 +14,13 @@ streaming:
   - "IV. petal waterfall (single-movement sample from the composer’s site) · https://www.augustareadthomas.com/audio/earthechoes_mov4.mp3"
 publisher:
   - "G. Schirmer"
+duration: "approximately 30 minutes"
 purchase:
   - "Rent from Publisher · https://www.wisemusicclassical.com/work/47688/Earth-Echoes--Augusta-Read-Thomas/"
 added: 2026-10-27
 aliases: []
 multi-instruments: "Alto and tenor saxophones with chamber orchestra; alternatively, alto flute and tenor saxophone with chamber orchestra"
 ---
-
-Duration: approximately 30 minutes.
 
 Originally scored for mezzo-soprano, baritone, and chamber orchestra, Earth Echoes may be performed as a double concerto with instrumental soloists. The composer explicitly permits alto and tenor saxophones to replace the two voices. An alternate pairing uses alto flute and tenor saxophone.
 

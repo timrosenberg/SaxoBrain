@@ -11,6 +11,7 @@ composed: 1985
 year-of-study: "First Year"
 publisher:
   - "Gérard Billaudot Éditeur"
+duration: "3 minutes 30 seconds"
 streaming: []
 purchase:
   - "https://www.billaudot.com/saxy-3.html"

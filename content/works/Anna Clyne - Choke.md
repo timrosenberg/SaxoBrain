@@ -10,6 +10,7 @@ composed: 2004
 year-of-study: "Advanced"
 publisher:
   - "Boosey & Hawkes"
+duration: "9 minutes"
 streaming:
   - "https://www.youtube.com/watch?v=S6P5YigLvUo"
 purchase:

@@ -22,6 +22,7 @@ research:
 aliases: []
 publisher:
   - "University of York Music Press"
+duration: "approximately 17 minutes"
 ---
 ## Research notes (private)
 

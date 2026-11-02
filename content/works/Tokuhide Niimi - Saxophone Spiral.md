@@ -12,6 +12,7 @@ arranger-edition:
   - "Nobuya Sugawa, supervising editor"
 publisher:
   - "Zen-On"
+duration: "approximately 13 minutes 30 seconds"
 streaming: "https://www.youtube.com/watch?v=Ll46ZMJFki8"
 purchase:
   - "https://www.grothmusic.com/p-139936.aspx"

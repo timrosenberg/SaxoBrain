@@ -23,6 +23,7 @@ research:
 aliases: []
 publisher:
   - "Merion Music (Theodore Presser)"
+duration: "10 minutes"
 ---
 ## Research notes (private)
 

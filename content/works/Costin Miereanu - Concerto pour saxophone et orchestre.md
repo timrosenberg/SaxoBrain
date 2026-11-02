@@ -7,6 +7,7 @@ instruments:
   - "Soprano Saxophone"
   - "Orchestra"
 composed: 2006
+duration: "23 minutes"
 year-of-study: Advanced
 arranger-edition: 
 streaming: "https://www.youtube.com/watch?v=iIkNyEJehvc"

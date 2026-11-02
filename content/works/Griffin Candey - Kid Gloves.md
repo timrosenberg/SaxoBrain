@@ -10,6 +10,7 @@ composed: 2022
 year-of-study: "Third Year"
 publisher:
   - Just a Theory Press
+duration: "6 minutes"
 streaming:
   - "https://www.youtube.com/watch?v=z7O2L4odjSE"
 purchase:
@@ -19,8 +20,6 @@ aliases: []
 ---
 
 For alto saxophone and piano.
-
-Duration: 6 minutes.
 
 [Publisher’s edition](https://justatheorypress.com/products/kid-gloves)
 

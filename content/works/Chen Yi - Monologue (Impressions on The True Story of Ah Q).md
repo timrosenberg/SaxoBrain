@@ -13,6 +13,7 @@ purchase:
   - "https://www.meridianwinds.com/shop/c/p/Chen-Yi-Monologue-Impressions-on-The-True-Story-of-Ah-Q-for-Unaccompanied-Saxophone-x40165353.htm"
 added: 2024-03-04
 aliases: []
+duration: approximately 5 minutes
 ---
 
 [https://www.youtube.com/watch?v=8wFIDzuuPds](https://www.youtube.com/watch?v=8wFIDzuuPds)

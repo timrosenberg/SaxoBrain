@@ -11,6 +11,7 @@ year-of-study: Fourth Year
 arranger-edition: 
 publisher:
   - "Zen-On"
+duration: "13 minutes"
 streaming: "https://music.apple.com/us/song/laphorisme/1830138273"
 purchase:
   - "https://shop.zen-on.co.jp/downloads/detail/56002400/"

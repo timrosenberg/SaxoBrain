@@ -7,6 +7,7 @@ instruments:
   - Alto Saxophone
   - Piano
 composed: 1974
+duration: "11 minutes"
 year-of-study: Third Year
 streaming: https://youtu.be/iTafPRAjOm4?si=0KF89Voz7wMAHAkZ
 purchase:

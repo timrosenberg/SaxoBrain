@@ -10,6 +10,7 @@ composed: 2019
 year-of-study: "Fourth Year"
 publisher:
   - Just a Theory Press
+duration: "6 minutes 30 seconds"
 streaming:
   - "Two alto saxophones · https://soundcloud.com/galaflagello/burning-day"
   - "Violin and viola · https://www.youtube.com/watch?v=yLWSC2cvGyY"
@@ -20,8 +21,6 @@ aliases: []
 ---
 
 For two alto saxophones. Commissioned by Giovanna Virgil. A version for violin and viola is also available.
-
-Duration: 6 minutes 30 seconds.
 
 [Publisher’s edition](https://justatheorypress.com/products/flagello-burningday)
 

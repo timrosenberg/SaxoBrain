@@ -13,5 +13,6 @@ purchase:
   - https://www.prestomusic.com/sheet-music/products/8200171--victoria-bond-notes-from-underground
 added: 2024-02-21
 aliases: []
+duration: approximately 11 minutes
 ---
 > A saxophone plays on a subway platform, his music being periodically drown out by the passing trains.

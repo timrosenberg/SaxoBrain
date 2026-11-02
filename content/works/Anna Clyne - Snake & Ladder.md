@@ -10,6 +10,7 @@ composed: 2019
 year-of-study: "Fourth Year"
 publisher:
   - "Boosey & Hawkes"
+duration: "1 minute"
 streaming: []
 purchase:
   - "https://www.boosey.com/cr/music/Anna-Clyne-Snake-Ladder/103991"

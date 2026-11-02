@@ -13,4 +13,5 @@ purchase:
   - https://www.marilynshrude.com/works/caritas/
 added: 2024-02-21
 aliases: []
+duration: approximately 6 minutes
 ---

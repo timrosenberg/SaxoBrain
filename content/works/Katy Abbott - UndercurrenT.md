@@ -13,4 +13,5 @@ purchase:
   - https://www.reedmusic.com/16817/saxophone/saxophone-soprano/saxophone-soprano-piano/undercurrent/
 added: 2024-02-21
 aliases: []
+duration: approximately 11 minutes 45 seconds
 ---

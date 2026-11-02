@@ -19,6 +19,7 @@ research:
 aliases: []
 publisher:
   - "CeBeDeM"
+duration: "8 minutes"
 library-score:
   - "https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf"
 ---

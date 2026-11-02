@@ -20,6 +20,7 @@ research:
   - "Verified recording: Sandra Leonie Ritter and Chiaki Ohara, 4:23 · https://open.spotify.com/track/2bnxLad3OlZOpyTLLN6pIb"
 publisher:
   - "Alphonse Leduc"
+duration: "approximately 4 minutes 30 seconds"
 aliases: []
 ---
 ## Research notes (private)

@@ -12,6 +12,7 @@ streaming:
   - "Timothy McAllister, soprano saxophone; Liz Ames, piano (three movements) · https://www.youtube.com/watch_videos?video_ids=Jfs7sORpSf8,w--ABuTLUiI,3Azl1tHUtjQ"
 publisher:
   - Murphy Music Press
+duration: "approximately 16 minutes"
 purchase:
   - "Order from Publisher · https://murphymusicpress.com/products/s-110"
 download:
@@ -19,8 +20,6 @@ download:
 added: 2026-10-27
 aliases: []
 ---
-
-Duration: approximately 16 minutes.
 
 Commissioned by the Mikula family as a college graduation gift for Connor James Mikula. Mikula and pianist Liz Ames premiered the work on March 21, 2015, at Michigan State University. Its three movements move from a funky opening through a reflective lullaby to an energetic finale.
 

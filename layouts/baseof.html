@@ -29,6 +29,11 @@
 <a class="brand" href="{{ site.Home.RelPermalink }}">{{ partial "t.html" "brand-first" }}<span>{{ partial "t.html" "brand-second" }}</span></a>
 <nav aria-label="{{ partial "t.html" "nav-label" }}">
 <a href="{{ site.Home.RelPermalink }}"{{ if or .IsHome (eq $sec "works") }} aria-current="page"{{ end }}>{{ partial "t.html" "nav-repertoire" }}</a>
+<button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links" hidden>
+<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+<span>{{ partial "t.html" "nav-menu" }}</span>
+</button>
+<div class="nav-links" id="nav-links">
 <a href="{{ "composers/" | relURL }}"{{ if eq $sec "composers" }} aria-current="page"{{ end }}>{{ partial "t.html" "nav-composers" }}</a>
 <a href="{{ "curriculum/" | relURL }}"{{ if eq $sec "curriculum" }} aria-current="page"{{ end }}>{{ partial "t.html" "nav-curriculum" }}</a>
 <a href="{{ "reading/" | relURL }}"{{ if eq $sec "reading" }} aria-current="page"{{ end }}>{{ partial "t.html" "nav-reading" }}</a>
@@ -36,6 +41,7 @@
 <a href="{{ "resources/equipment/" | relURL }}"{{ if eq .Type "equipment" }} aria-current="page"{{ end }}>{{ partial "t.html" "nav-equipment" }}</a>
 <a href="{{ "lists/" | relURL }}"{{ if eq $sec "lists" }} aria-current="page"{{ end }}>{{ partial "t.html" "nav-lists" }}</a>
 <a href="{{ "resources/" | relURL }}"{{ if and (eq $sec "resources") (ne .Type "equipment") }} aria-current="page"{{ end }}>{{ partial "t.html" "nav-resources" }}</a>
+</div>
 </nav>
 </header>
 </div>
@@ -47,6 +53,7 @@
 </footer>
 {{- $js := dict }}{{ range $k, $v := partialCached "site-text.html" "all" }}{{ if or (hasPrefix $k "js-") (hasPrefix $k "level-") }}{{ $js = merge $js (dict $k $v) }}{{ end }}{{ end }}
 <script type="application/json" id="site-text">{{ $js | jsonify | safeJS }}</script>
+<script src="{{ "js/navigation.js" | relURL }}" defer></script>
 {{ if eq .Type "equipment" }}<script src="{{ "js/equipment.js" | relURL }}" defer></script>{{ end }}
 {{ if or (index .Params "pdf-viewer") (index .Params "image-viewer") }}
 {{ partial "pdf-overlay.html" . }}

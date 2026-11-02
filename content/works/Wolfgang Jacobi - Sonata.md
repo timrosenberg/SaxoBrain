@@ -11,6 +11,7 @@ year-of-study: Third Year
 arranger-edition: 
 publisher:
   - "Bourne"
+duration: "10 minutes 30 seconds"
 streaming: 
 purchase:
   - https://www.grothmusic.com/p-37914.aspx

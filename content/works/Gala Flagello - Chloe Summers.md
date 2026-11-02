@@ -10,6 +10,7 @@ composed: 2019
 year-of-study: "Advanced"
 publisher:
   - Just a Theory Press
+duration: "5 minutes"
 streaming:
   - "https://www.youtube.com/watch?v=PyikBxO_e-4"
 purchase:
@@ -19,8 +20,6 @@ aliases: []
 ---
 
 For soprano voice and alto saxophone.
-
-Duration: 5 minutes.
 
 [Publisher’s edition](https://justatheorypress.com/products/chloe-summers)
 
