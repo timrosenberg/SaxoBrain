@@ -7,6 +7,8 @@ nationality:
   - "🇬🇧 British"
   - "🇺🇸 American"
 website: "https://www.bernardrands.com/"
+photo:
+photo-source:
 aliases: []
 ---
 

@@ -6,6 +6,8 @@ died: 2008
 nationality:
   - "🇺🇸 American"
 website: "https://henrybrant.com/"
+photo:
+photo-source:
 aliases: []
 ---
 

@@ -2,6 +2,8 @@
 title: "Erin Royer"
 slug: "erin-royer"
 born: 1990
+photo:
+photo-source:
 aliases: []
 ---
 

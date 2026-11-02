@@ -6,6 +6,8 @@ died: 2022
 nationality:
   - "🇬🇧 British"
 website: "https://www.boosey.com/pages/cr/composer/composer_main?composerid=2729&langid=1&ttitle=Biography&ttype=BIOGRAPHY"
+photo:
+photo-source:
 aliases: []
 ---
 

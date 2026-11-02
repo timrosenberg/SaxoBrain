@@ -5,6 +5,8 @@ born: 1958
 nationality:
   - "🇨🇭 Swiss"
 website: "https://www.michaeljarrell.com/"
+photo:
+photo-source:
 aliases: []
 ---
 

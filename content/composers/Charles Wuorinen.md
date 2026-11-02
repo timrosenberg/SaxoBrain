@@ -6,6 +6,8 @@ died: 2020
 nationality:
   - "🇺🇸 American"
 website: "https://www.charleswuorinen.com/"
+photo:
+photo-source:
 aliases: []
 ---
 

@@ -5,6 +5,8 @@ born: 1971
 nationality:
   - "🇺🇸 American"
 website: "https://www.jasoneckardt.com/"
+photo:
+photo-source:
 aliases: []
 ---
 

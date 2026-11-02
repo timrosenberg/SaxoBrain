@@ -5,6 +5,8 @@ born: 1951
 nationality:
   - "🇺🇸 American"
 website: "https://louiskarchin.com/"
+photo:
+photo-source:
 aliases: []
 ---
 

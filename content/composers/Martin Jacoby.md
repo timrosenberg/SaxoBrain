@@ -2,6 +2,8 @@
 title: "Martin Jacoby"
 slug: "martin-jacoby"
 born: 1988
+photo:
+photo-source:
 aliases: []
 ---
 
