@@ -1,25 +1,27 @@
 ---
-title: "Air"
+title: Air
 slug: michio-kitazume-air
 composer:
   - "[[Michio Kitazume]]"
 instruments:
-  - "Alto Saxophone"
-  - "Piano"
+  - Alto Saxophone
+  - Piano
 composed: 1980
-year-of-study: "Third Year"
-streaming: 
-purchase: []
+year-of-study: Third Year
+streaming:
+  - https://www.youtube.com/watch?v=9t97WNauMKA
+purchase:
+  - https://www.henry-lemoine.com/en/partitions-par-instrument/1641-air.html
 added: 2024-03-08
 research:
-  - "Henry Lemoine composer page lists Air for alto saxophone and piano; no date or duration found · https://www.henry-lemoine.com/en/compositeurs/324-michio-kitazume"
-  - "Composition1980,9minutes,alto/piano,Paris premiere and publisher. · https://michiokitazume.com/eng_worklist_chamber.htm"
-  - "Air listed for entry to sixth professional year alongside Scaramouche and Tomasi Ballade, printedp31/PDFp30. · https://conservatoriomanueldefalla.es/wp-content/uploads/2021/10/Cursos-distintos.pdf"
-  - "The guide describes free and improvised passages, repeated-note groups, flutter tonguing, bisbigliando, chromatic glissandos, irregular tempo and proportional notation for Air; source is a text mirror of the Philharmonie digitization, printed page 100. · https://pdfcoffee.com/10-ans-avec-le-saxophonepdf-pdf-free.html"
+  - Henry Lemoine composer page lists Air for alto saxophone and piano; no date or duration found · https://www.henry-lemoine.com/en/compositeurs/324-michio-kitazume
+  - Composition1980,9minutes,alto/piano,Paris premiere and publisher. · https://michiokitazume.com/eng_worklist_chamber.htm
+  - Air listed for entry to sixth professional year alongside Scaramouche and Tomasi Ballade, printedp31/PDFp30. · https://conservatoriomanueldefalla.es/wp-content/uploads/2021/10/Cursos-distintos.pdf
+  - The guide describes free and improvised passages, repeated-note groups, flutter tonguing, bisbigliando, chromatic glissandos, irregular tempo and proportional notation for Air; source is a text mirror of the Philharmonie digitization, printed page 100. · https://pdfcoffee.com/10-ans-avec-le-saxophonepdf-pdf-free.html
 aliases: []
 publisher:
-  - "Henry Lemoine"
-duration: "approximately 9 minutes"
+  - Henry Lemoine
+duration: approximately 9 minutes
 ---
 ## Research notes (private)
 

@@ -1,16 +1,16 @@
 ---
-title: "William Schmidt"
+title: William Schmidt
 slug: william-schmidt
 nationality:
-  - "🇺🇸 American"
-gender: "Male"
+  - 🇺🇸 American
+gender: Male
 race:
-  - "White"
+  - White
 born: 1926
 died: 2009
 wikidata: Q8018175
-photo: 
-photo-source: 
+photo:
+photo-source: http://www.bruceduffie.com/schmidt.html
 aliases: []
 ---
 

@@ -5,7 +5,7 @@
   --brass: #e0bf61; --brass-ink: #1b2029;
   --accent: var(--fg); --accent-soft: #f8efd2; --chip: #eceff3;
   --lv-pre: #7c8594; --lv-1: #2f8a4c; --lv-2: #b58a0e; --lv-3: #2f6fb8; --lv-4: #c0453a; --lv-adv: #7a4fb5; --lv-none: #a3abb8;
-  --sx-soprano: #e8751a; --sx-alto: #d9b20f; --sx-tenor: #7a4fb5; --sx-baritone: #2f6fb8; --sx-bass: #c0453a;
+  --sx-soprano: #e8751a; --sx-alto: #d9b20f; --sx-tenor: #7a4fb5; --sx-baritone: #2f6fb8; --sx-bass: #c0453a; --sx-quartet: #16877e;
   --notice-bg: #fbf6e4; --notice-line: #b08900; --shadow: 0 10px 40px rgba(20, 26, 36, .16);
   --font-display: "Schibsted Grotesk", "Avenir Next", "Segoe UI", sans-serif;
   --font-body: "Public Sans", -apple-system, "Segoe UI", Roboto, sans-serif;
@@ -16,7 +16,7 @@
     --bg: #12151b; --surface: #1a1e26; --fg: #e7eaf0; --muted: #9aa3b2; --line: #2b313c;
     --accent: #e4c979; --accent-soft: #30291a; --chip: #242a34;
     --lv-pre: #9aa3b2; --lv-1: #5cc27c; --lv-2: #e3bb45; --lv-3: #6aa6ea; --lv-4: #ee7b70; --lv-adv: #ad8ae6; --lv-none: #6b7382;
-    --sx-soprano: #f29a4a; --sx-alto: #ecd04e; --sx-tenor: #ad8ae6; --sx-baritone: #6aa6ea; --sx-bass: #ee7b70;
+    --sx-soprano: #f29a4a; --sx-alto: #ecd04e; --sx-tenor: #ad8ae6; --sx-baritone: #6aa6ea; --sx-bass: #ee7b70; --sx-quartet: #58c5b8;
     --notice-bg: #2d2614; --notice-line: #c9a227; --shadow: 0 10px 40px rgba(0, 0, 0, .5);
     color-scheme: dark;
   }
@@ -425,6 +425,7 @@ a.t:hover { color: var(--accent); text-decoration: underline; text-underline-off
 .c-lv-3 { --c: var(--lv-3); } .c-lv-4 { --c: var(--lv-4); } .c-lv-adv { --c: var(--lv-adv); } .c-lv-none { --c: var(--lv-none); }
 .c-sx-soprano { --c: var(--sx-soprano); } .c-sx-alto { --c: var(--sx-alto); } .c-sx-tenor { --c: var(--sx-tenor); }
 .c-sx-baritone { --c: var(--sx-baritone); } .c-sx-bass { --c: var(--sx-bass); }
+.c-sx-quartet { --c: var(--sx-quartet); }
 .chip[aria-pressed="true"] { background: var(--fg); color: var(--bg); }
 .status { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; color: var(--muted); font-size: 13.5px; padding-block: 12px 4px; }
 .status-tools { display: flex; gap: 16px; align-items: center; }

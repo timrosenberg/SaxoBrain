@@ -1,18 +1,21 @@
 ---
-title: "Spleen III"
-slug: "olga-neuwirth-spleen-iii"
+title: Spleen III
+slug: olga-neuwirth-spleen-iii
 composer:
   - "[[Olga Neuwirth]]"
 instruments:
-  - "Baritone Saxophone"
-composed:
-year-of-study: "Advanced"
+  - Baritone Saxophone
+  - Unaccompanied
+composed: 2001
+year-of-study: Advanced
 publisher:
-  - "Ricordi"
-duration: "approximately 8 minutes"
-streaming: []
-purchase: []
-added: "2026-10-27"
+  - Ricordi
+duration: approximately 8 minutes
+streaming:
+  - https://www.youtube.com/watch?v=IhZ3zWKxs4Q&t=65s
+purchase:
+  - https://www.prestomusic.com/sheet-music/products/7409715--neuwirth-spleen-iii-bar
+added: 2026-10-27
 aliases: []
 ---
 

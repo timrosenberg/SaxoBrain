@@ -1,17 +1,17 @@
 ---
-title: "Poem"
+title: Poem
 slug: walter-hartley-poem
 composer:
   - "[[Walter Hartley]]"
 instruments:
-  - "Tenor Saxophone"
-  - "Piano"
-composed: 
-year-of-study: "First Year"
+  - Tenor Saxophone
+  - Piano
+composed: 1967
+year-of-study: First Year
 streaming:
   - "Poem: Niels Bijl, tenor saxophone; Hans Erik Dijkstra, piano · https://music.apple.com/us/album/poem-1967/1677128949?i=1677128953"
 purchase:
-  - "https://www.amazon.com/Tenor-Saxophone-Piano-Walter-Hartley/dp/1598060791?tag=timothyrosenb-20"
+  - https://www.amazon.com/Tenor-Saxophone-Piano-Walter-Hartley/dp/1598060791?tag=timothyrosenb-20
 studied-performed: true
 added: 2019-08-28
 aliases: []

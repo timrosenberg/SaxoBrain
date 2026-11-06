@@ -1,6 +1,8 @@
 {
-  "reason": "Tim retired the entire Études resource section on 2026-10-21. The original pages and files are preserved in 📁 project-reference/retired-resources/etudes/.",
+  "reason": "Tim retired the entire Études resource section on 2026-10-21 and the catalog entries Intermediate Jazz Conception for Saxophone and Randall Snyder's Improvisations on 2026-11-04. The original Études pages and files are preserved in 📁 project-reference/retired-resources/etudes/.",
   "addresses": [
+    "/works/randall-snyder-improvisations",
+    "/works/lennie-niehaus-intermediate-jazz-conception-for-saxophone",
     "/resources/etudes",
     "/resources/etudes/27-melodious-and-rhythmical-exercises-no-1",
     "/resources/etudes/27-virtuoso-studies-no-1",

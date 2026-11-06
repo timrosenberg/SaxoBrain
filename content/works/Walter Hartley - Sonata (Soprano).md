@@ -1,24 +1,24 @@
 ---
-title: "Sonata (Soprano)"
+title: Sonata for Soprano Saxophone and Piano
 slug: walter-hartley-sonata-soprano
 composer:
   - "[[Walter Hartley]]"
 instruments:
-  - "Soprano Saxophone"
-  - "Piano"
+  - Soprano Saxophone
+  - Piano
 composed: 1994
-year-of-study: "Second Year"
-streaming: 
+year-of-study: Second Year
+streaming:
 purchase:
   - https://www.grothmusic.com/p-141632.aspx
 added: 2025-04-18
 research:
-  - "Publisher Dorn Publications, catalog no. DORN0945; soprano sax (or oboe) and piano · https://www.grothmusic.com/p-141632.aspx"
-  - "Exact 1994 soprano/oboe and piano sonata, Dorn 0945. · https://www.grothmusic.com/p-141632-sonata-soprano-saxophone-or-oboe-and-piano.aspx"
-  - "Title, date, piano requirement and opening Allegro moderato notation. · https://grothmusic.com/images/product/large/ae00-123155.jpg"
+  - Publisher Dorn Publications, catalog no. DORN0945; soprano sax (or oboe) and piano · https://www.grothmusic.com/p-141632.aspx
+  - Exact 1994 soprano/oboe and piano sonata, Dorn 0945. · https://www.grothmusic.com/p-141632-sonata-soprano-saxophone-or-oboe-and-piano.aspx
+  - Title, date, piano requirement and opening Allegro moderato notation. · https://grothmusic.com/images/product/large/ae00-123155.jpg
 aliases: []
 publisher:
-  - "Dorn Publications"
+  - Dorn Publications
 ---
 ## Research notes (private)
 

@@ -1,19 +1,20 @@
 ---
-title: "Doubles"
-slug: "judith-lang-zaimont-doubles"
+title: Doubles
+slug: judith-lang-zaimont-doubles
 composer:
   - "[[Judith Lang Zaimont]]"
 instruments:
-  - "Soprano Saxophone"
-  - "Piano"
+  - Soprano Saxophone
+  - Piano
 composed: 1993
-year-of-study: "Fourth Year"
+year-of-study: Fourth Year
 publisher:
-  - "Jeanné, Inc."
-duration: "11 minutes 30 seconds"
+  - Jeanné, Inc.
+duration: 11 minutes 30 seconds
 streaming: []
-purchase: []
-added: "2026-10-27"
+purchase:
+  - https://subitomusic.com/product/zaimont-doubles-for-soprano-saxophone-piano/
+added: 2026-10-27
 aliases: []
 ---
 

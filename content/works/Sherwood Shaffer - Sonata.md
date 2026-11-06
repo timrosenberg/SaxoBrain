@@ -1,19 +1,20 @@
 ---
-title: "Sonata"
+title: Sonata
 slug: sherwood-shaffer-sonata
 composer:
   - "[[Sherwood Shaffer]]"
 instruments:
-  - "Alto Saxophone"
-  - "Piano"
-composed: 
-year-of-study: "Third Year"
-streaming: 
-purchase: []
+  - Baritone Saxophone
+  - Piano
+composed:
+year-of-study: Third Year
+streaming:
+  - https://www.youtube.com/watch?v=jwW0-k1hkQM
+purchase:
+  - https://www.sheetmusicplus.com/en/product/sonata-22689874.html
 added: 2024-03-08
 aliases: []
 research:
-  - "Composer lists Sonata: When Mountains Rising for tenor saxophone and piano, and a separate Sonata for baritone saxophone and piano. This page does not establish the catalog's alto version. · https://www.sherwoodshaffer.com/scores-publishing"
 ---
 
 ## Listening Links and Recording References

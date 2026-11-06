@@ -7,11 +7,12 @@
   const LEVELS = [["Pre-college", "pre"], ["First Year", "1"], ["Second Year", "2"], ["Third Year", "3"], ["Fourth Year", "4"], ["Advanced", "adv"]];
   const LV_NAME = { "Pre-college": T["level-pre-college"], "First Year": T["level-first-year"], "Second Year": T["level-second-year"], "Third Year": T["level-third-year"], "Fourth Year": T["level-fourth-year"], "Advanced": T["level-advanced"], "": T["level-unassigned"] };
   const lvClass = y => "lv-" + ((LEVELS.find(l => l[0] === y) || [0, "none"])[1]);
-  const SAX = ["Soprano Saxophone", "Alto Saxophone", "Tenor Saxophone", "Baritone Saxophone", "Bass Saxophone"];
+  const SAX = ["Soprano Saxophone", "Alto Saxophone", "Tenor Saxophone", "Baritone Saxophone", "Bass Saxophone", "Saxophone Quartet"];
   const WITH = ["Piano", "Unaccompanied", "Orchestra", "Band", "Electronics", "Percussion"];
   // Sort orders: composer (last name), title (ignoring a leading article), year of study (then composer), newest additions (date added, newest first).
   const SORTS = { composer: { key: "k", label: T["js-sortname-composer"] }, title: { key: "tk", label: T["js-sortname-title"] }, level: { key: "lk", label: T["js-sortname-level"] }, added: { key: "ak", label: T["js-sortname-added"] } };
-  const short = t => t.replace(" Saxophone", "");
+  const short = t => t === "Saxophone Quartet" ? "Quartet" : t.replace(" Saxophone", "");
+  const isQuartet = t => t === "Saxophone Quartet" || t.startsWith("Saxophone Quartet (");
   const saxName = t => T["js-sax-" + short(t).toLowerCase()];
   const withName = t => T["js-with-" + t.toLowerCase()] || t;
   const fold = s => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
@@ -89,7 +90,7 @@
 
   function matches(w) {
     if (state.q) { const terms = fold(state.q).split(/\s+/).filter(Boolean); if (!terms.every(t => w.hay.includes(t))) return false; }
-    if (state.sax.size && ![...state.sax].some(s => w.i.includes(s))) return false;
+    if (state.sax.size && ![...state.sax].some(s => s === "Saxophone Quartet" ? w.i.some(isQuartet) : w.i.includes(s))) return false;
     if (state.lvl.size && !state.lvl.has(w.y)) return false;
     if (state.with.size && ![...state.with].some(s => w.i.includes(s))) return false;
     if (state.rec && !w.s) return false;
@@ -100,6 +101,7 @@
     return true;
   }
   function instLine(w) {
+    if (w.i.some(isQuartet)) return w.i.filter(t => t !== "Unaccompanied").join(", ");
     const sax = w.i.filter(t => SAX.includes(t)).map(saxName);
     const rest = w.i.filter(t => !SAX.includes(t) && t !== "Unaccompanied");
     let s = sax.length ? fill(T["js-catalog-inst-saxophone"], { list: sax.join(" " + T["js-catalog-inst-or"] + " ") }) : "";

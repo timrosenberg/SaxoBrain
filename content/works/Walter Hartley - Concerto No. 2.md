@@ -1,26 +1,28 @@
 ---
-title: "Concerto No. 2"
+title: Concerto No. 2
 slug: walter-hartley-concerto-no-2
 composer:
   - "[[Walter Hartley]]"
 instruments:
-  - "Alto Saxophone"
-  - "Piano"
+  - Alto Saxophone
+  - Piano
+  - Orchestra
 composed: 1989
-year-of-study: "Third Year"
-streaming: 
+year-of-study: Third Year
+streaming:
 purchase:
-  - "https://www.grothmusic.com/p-139980.aspx"
+  - https://www.grothmusic.com/p-139980.aspx
 added: 2024-03-08
 research:
-  - "Concerto No. 2 for alto saxophone and small orchestra, 1989; Dorn Publications; ca. 10:30 (ECU library record) · https://lib.ecu.edu/catalog-preview/catalog/958336"
-  - "Exact piano reduction and alto solo part, 33 pages, DP1055; three movements Allegro/Adagio/Presto; 1989; for Dale Underwood. · https://www.grothmusic.com/p-139980.aspx"
-  - "Manuscript score opening explicitly titled Concerto No. 2 for alto saxophone and small orchestra 1989; for Dale Underwood; Allegro quarter note 126, score in C. · https://grothmusic.com/images/product/large/ae00-121578_2_.jpg"
-  - "Catalog lists DP1055 among alto saxophone and piano works and DP431 as small-orchestra score and parts. · https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf"
+  - Concerto No. 2 for alto saxophone and small orchestra, 1989; Dorn Publications; ca. 10:30 (ECU library record) · https://lib.ecu.edu/catalog-preview/catalog/958336
+  - Exact piano reduction and alto solo part, 33 pages, DP1055; three movements Allegro/Adagio/Presto; 1989; for Dale Underwood. · https://www.grothmusic.com/p-139980.aspx
+  - Manuscript score opening explicitly titled Concerto No. 2 for alto saxophone and small orchestra 1989; for Dale Underwood; Allegro quarter note 126, score in C. · https://grothmusic.com/images/product/large/ae00-121578_2_.jpg
+  - Catalog lists DP1055 among alto saxophone and piano works and DP431 as small-orchestra score and parts. · https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf
 publisher:
-  - "Dorn Publications"
-duration: "10 minutes 30 seconds"
+  - Dorn Publications
+duration: 10 minutes 30 seconds
 aliases: []
+multi-instruments: For alto saxophone and small orchestra, with piano reduction
 ---
 ## Research notes (private)
 

@@ -26,6 +26,7 @@ js-sax-alto: Alto
 js-sax-tenor: Tenor
 js-sax-baritone: Baritone
 js-sax-bass: Bass
+js-sax-quartet: Saxophone Quartet
 js-with-piano: Piano
 js-with-unaccompanied: Unaccompanied
 js-with-orchestra: Orchestra

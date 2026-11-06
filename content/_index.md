@@ -303,7 +303,6 @@ aliases:
   - "/works/robert-wilson-silver-sonatina/"
   - "/works/robert-wilson-tango-in-d/"
   - "/works/sherwood-shaffer-sicilienne/"
-  - "/works/sherwood-shaffer-summer-nocturne/"
   - "/works/srul-irving-glick-sonata/"
   - "/works/srul-irving-glick-suite-hebraique-no-4/"
   - "/works/steven-rush-by-the-river/"

@@ -1,20 +1,22 @@
 ---
-title: "Jam Spookiku / Post nubila Phoebus"
-slug: "mirela-ivicevic-jam-spookiku-post-nubila-phoebus"
+title: Jam Spookiku / Post nubila Phoebus
+slug: mirela-ivicevic-jam-spookiku-post-nubila-phoebus
 composer:
   - "[[Mirela Ivičević]]"
 instruments:
-  - "Alto Saxophone"
-  - "Electronics"
+  - Alto Saxophone
+  - Electronics
 composed: 2006
-year-of-study: "Third Year"
+year-of-study: Third Year
 publisher: []
-duration: "4 minutes"
-streaming: []
-purchase: []
-added: "2026-10-27"
+duration: 4 minutes
+streaming:
+  - https://vimeo.com/84873675?fl=pl&fe=sh
+purchase:
+  - Email the composer · mailto:timguletich@gmail.com
+added: 2026-10-27
 aliases: []
-multi-instruments: "Alto saxophone, audio playback, video, and live visuals"
+multi-instruments: Alto saxophone, audio playback, video, and live visuals
 ---
 
 ## Research notes (private)

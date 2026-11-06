@@ -1,17 +1,19 @@
 ---
-title: "ASTRAL... a mirror life on the astral plane..."
-slug: "judith-lang-zaimont-astral-a-mirror-life-on-the-astral-plane"
+title: ASTRAL... a mirror life on the astral plane...
+slug: judith-lang-zaimont-astral-a-mirror-life-on-the-astral-plane
 composer:
   - "[[Judith Lang Zaimont]]"
 instruments:
-  - "Alto Saxophone"
+  - Alto Saxophone
 composed: 2004
-year-of-study: "Fourth Year"
+year-of-study: Fourth Year
 publisher:
-  - "Jeanné, Inc."
-streaming: []
-purchase: []
-added: "2026-10-27"
+  - Jeanné, Inc.
+streaming:
+  - https://www.youtube.com/watch?v=VhsD0zCM7dM
+purchase:
+  - https://subitomusic.com/product/zaimont-astral-for-alto-saxophone/
+added: 2026-10-27
 aliases: []
 ---
 

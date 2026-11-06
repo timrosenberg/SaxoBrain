@@ -1,26 +1,26 @@
 ---
-title: "Concerto"
+title: Concerto for Alto Saxophone and Symphonic Winds
 slug: william-schmidt-concerto
 composer:
   - "[[William Schmidt]]"
 instruments:
-  - "Alto Saxophone"
-  - "Piano"
-composed: 
-year-of-study: "Fourth Year"
-streaming: 
+  - Alto Saxophone
+  - Band
+composed: 1994
+year-of-study: Fourth Year
+streaming:
 purchase:
   - https://www.grothmusic.com/p-143369.aspx
 added: 2024-03-08
 research:
-  - "Publisher WIM, catalog no. AV257; for Douglas Masek; 62 pages; piano reduction (edited by Sharon Davis) and solo alto sax part · https://www.grothmusic.com/p-143369.aspx"
-  - "AV257 cover identifies alto saxophone and symphonic winds, piano reduction by the composer, edited by Sharon Davis, dedicated to Douglas Masek. First score page visually inspected. · https://www.grothmusic.com/p-143369.aspx"
-  - "University recital record credits Schmidt Concerto, Will Brani and S. Michael Shuman, April 25, 2015. · https://scholarworks.uark.edu/musccr/127/"
+  - Publisher WIM, catalog no. AV257; for Douglas Masek; 62 pages; piano reduction (edited by Sharon Davis) and solo alto sax part · https://www.grothmusic.com/p-143369.aspx
+  - AV257 cover identifies alto saxophone and symphonic winds, piano reduction by the composer, edited by Sharon Davis, dedicated to Douglas Masek. First score page visually inspected. · https://www.grothmusic.com/p-143369.aspx
+  - University recital record credits Schmidt Concerto, Will Brani and S. Michael Shuman, April 25, 2015. · https://scholarworks.uark.edu/musccr/127/
 aliases: []
 publisher:
-  - "Western International Music"
+  - Western International Music
 arranger-edition:
-  - "Sharon Davis, editor of piano reduction"
+multi-instruments: Alto saxophone and symphonic winds, with piano reduction
 ---
 ## Research notes (private)
 

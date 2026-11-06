@@ -1,24 +1,24 @@
 ---
-title: "Variations on a Theme of Mussorgsky"
+title: Variations on a Theme of Mussorgsky
 slug: william-schmidt-variations-on-a-theme-of-mussorgsky
 composer:
   - "[[William Schmidt]]"
 instruments:
-  - "Alto Saxophone"
-  - "Piano"
-composed: 
-year-of-study: 
-streaming: 
+  - Alto Saxophone
+  - Piano
+composed:
+year-of-study: Second Year
+streaming:
 purchase:
   - https://www.grothmusic.com/p-38086.aspx
 added: 2024-03-08
 research:
-  - "Publisher WIM, catalog no. AV316 · https://www.grothmusic.com/p-38086.aspx"
-  - "Cover for AV316 explicitly credits William Schmidt and alto saxophone with piano. Only cover available. · https://www.grothmusic.com/p-38086.aspx"
-  - "Current Groth listing reconfirms William Schmidt, alto saxophone and piano, WIM AV316. The available product listing supplies no notation preview. · https://www.grothmusic.com/p-38086.aspx"
+  - Publisher WIM, catalog no. AV316 · https://www.grothmusic.com/p-38086.aspx
+  - Cover for AV316 explicitly credits William Schmidt and alto saxophone with piano. Only cover available. · https://www.grothmusic.com/p-38086.aspx
+  - Current Groth listing reconfirms William Schmidt, alto saxophone and piano, WIM AV316. The available product listing supplies no notation preview. · https://www.grothmusic.com/p-38086.aspx
 aliases: []
 publisher:
-  - "Western International Music"
+  - Western International Music
 ---
 ## Research notes (private)
 
