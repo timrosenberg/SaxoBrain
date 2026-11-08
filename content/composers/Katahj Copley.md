@@ -10,6 +10,7 @@ born: 1998
 died:
 photo:
 website: https://www.katahjcopleymusic.com/
+photo-source: 
 aliases: []
 ---
 
