@@ -1,15 +1,15 @@
 ---
-title: "Albert Gower"
+title: Albert Gower
 slug: albert-gower
 nationality:
-  - "🇺🇸 American"
-gender: 
+  - 🇺🇸 American
+gender: Male
 race: []
-born: 
-died: 
-wikidata: 
-photo: 
-photo-source: 
+born: 1935
+died:
+wikidata:
+photo:
+photo-source:
 aliases: []
 ---
 

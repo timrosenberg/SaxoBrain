@@ -14,7 +14,7 @@ tracks:
   - "Kotekan: I. Norot · 5:05 · [[Piet Swerts - Kotekan]]"
   - "Kotekan: II. Kotekan · 9:11 · [[Piet Swerts - Kotekan]]"
   - Arak · 4:42 · [[Christian Lauba - Étude No. 18 Arak]]
-  - Deuce · 9:45 · [[Robert Lemay]]
+  - Deuce · 9:45 · Robert Lemay
   - Manhattan Rhapsody · 11:59 · [[Denis Levaillant - Manhattan-Rhapsody]]
   - Bleu, Rouge, Brun, Violet · 5:28 · Claudio Gabriele
   - "Brillance: I. Déclamé · 1:49 · [[Ida Gotkovsky - Brillance]]"

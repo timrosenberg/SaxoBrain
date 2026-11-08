@@ -11,7 +11,7 @@ died:
 photo: "/media/composers/du-yun.jpg"
 aliases: []
 photo-source: https://eteme5j4z9y.exactdn.com/wp-content/uploads/2022/10/2023_VFP_DuYun_002-1.jpg?strip=all
-composer-website: https://channelduyun.com/
+website: https://channelduyun.com/
 ---
 
 > [!caption]

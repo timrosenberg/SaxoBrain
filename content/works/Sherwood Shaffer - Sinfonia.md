@@ -5,7 +5,7 @@ composer:
   - "[[Sherwood Shaffer]]"
 instruments:
   - Saxophone Quartet (SATB)
-year-of-study:
+year-of-study: Third Year
 publisher:
   - Dorn Publications
 streaming:

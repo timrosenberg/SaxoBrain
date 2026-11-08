@@ -10,7 +10,7 @@ born: 1954
 died:
 photo: "/media/composers/judith-weir.jpg"
 aliases: []
-composer-website: https://www.judithweir.com/
+website: https://www.judithweir.com/
 photo-source: https://s3.amazonaws.com/static.musicsalesclassical.com/images/composer/newsite/img-1689-22102025-2454915.jpg
 ---
 

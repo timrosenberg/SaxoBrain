@@ -1,24 +1,24 @@
 ---
-title: "Graphics IV"
+title: Graphics IV
 slug: paul-r-goldstaub-graphics-iv
 composer:
   - "[[Paul R. Goldstaub]]"
 instruments:
-  - "Alto Saxophone"
-  - "Piano"
-composed: 
-year-of-study: "Advanced"
-streaming: 
+  - Alto Saxophone
+  - Piano
+composed:
+year-of-study: Advanced
+streaming:
 purchase:
-  - "alto and piano edition (DP0168) · https://www.juneemersonwindmusic.com/Graphics-IV-71dd0d4c-8c02-2aaf-a1f9-ab861165baec.html"
+  - https://www.juneemersonwindmusic.com/Graphics-IV-71dd0d4c-8c02-2aaf-a1f9-ab861165baec.html
 added: 2024-03-08
 aliases: []
 publisher:
-  - "Dorn Publications"
+  - Dorn Publications
 research:
-  - "Graphic IV, DP502, alto/celeste · https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf"
+  - Graphic IV, DP502, alto/celeste · https://www.grothmusic.com/images/DP%20Catalog%20April%202025.pdf
   - "Search-index evidence only: 1981 bibliography and multiphonic references · https://tombergeron.us/download/sax-multiphonics.pdf"
-  - "Notation excerpt and timbre trills · https://www.mattswallow.com/uploads/1/2/3/2/12324820/microtone_presentation_script.pdf"
+  - Notation excerpt and timbre trills · https://www.mattswallow.com/uploads/1/2/3/2/12324820/microtone_presentation_script.pdf
 ---
 
 

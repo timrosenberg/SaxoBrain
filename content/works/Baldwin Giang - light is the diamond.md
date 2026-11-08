@@ -6,7 +6,7 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Unaccompanied"
-composed: 2015–2016
+composed: 2016
 year-of-study: "Advanced"
 publisher:
   - Just a Theory Press

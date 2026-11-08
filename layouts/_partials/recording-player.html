@@ -27,7 +27,8 @@
 <div class="embed applemusic{{ if $song }} song{{ end }}"><iframe src="{{ replace $url "https://music.apple.com/" "https://embed.music.apple.com/" 1 }}" title="{{ replace (partial "t.html" "piece-on-apple-music") "{title}" ($title | string) }}" height="{{ if $song }}175{{ else }}450{{ end }}" loading="lazy" allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe></div>
 {{ end }}
 {{ if findRE `^https://(www\.|m\.)?soundcloud\.com/[^/?#]+/[^?#]+` $url }}
-<div class="audio"><iframe src="https://w.soundcloud.com/player/?url={{ index (split $url "?") 0 | urlquery }}&amp;color=%239a6514&amp;visual=false&amp;show_comments=false" title="{{ $title }}" loading="lazy" allow="autoplay"></iframe></div>
+{{ $playlist := findRE `^https://(?:www\.|m\.)?soundcloud\.com/[^/?#]+/sets/` $url }}
+<div class="audio soundcloud{{ if $playlist }} sc-playlist{{ end }}"><iframe src="https://w.soundcloud.com/player/?url={{ index (split $url "?") 0 | urlquery }}&amp;color=%239a6514&amp;visual=false&amp;show_comments=false{{ if $playlist }}&amp;show_artwork=false{{ end }}" title="{{ $title }}" loading="lazy" allow="autoplay"></iframe></div>
 {{ end }}
 {{ with findRESubmatch `^https://open\.spotify\.com/(?:intl-[a-z]+/)?(track|album|playlist|episode|show)/([A-Za-z0-9]+)` $url 1 }}
 {{ $kind := index (index . 0) 1 }}

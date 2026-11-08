@@ -6,7 +6,7 @@ composer:
 instruments:
   - Alto Saxophone
   - Unaccompanied
-composed: "1992"
+composed: 1992
 year-of-study: Fourth Year
 streaming: https://www.youtube.com/watch?v=dMIeH5NsBYU
 purchase:

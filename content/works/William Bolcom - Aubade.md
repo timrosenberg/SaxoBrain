@@ -1,18 +1,18 @@
 ---
-title: "Aubade"
+title: Aubade
 slug: william-bolcom-aubade
 composer:
   - "[[William Bolcom]]"
 instruments:
-  - "Soprano Saxophone"
-  - "Piano"
-composed: 
-year-of-study: "Third Year"
-streaming: 
+  - Soprano Saxophone
+  - Piano
+composed: 1982
+year-of-study: Third Year
+streaming:
+  - https://www.youtube.com/watch?v=47SP9AuVu-c
 purchase:
-  - "https://www.halleonard.com/product/841554/aubade"
+  - https://www.halleonard.com/product/841554/aubade
 download:
-  - "attachment:20ae4a55-e043-473c-a432-5fdb5c4d336f:Bolcom_-_Aubade_(sop_saxo).pdf"
 added: 2025-04-16
 aliases: []
 ---

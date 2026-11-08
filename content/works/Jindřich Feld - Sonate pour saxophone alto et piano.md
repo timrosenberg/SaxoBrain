@@ -6,7 +6,7 @@ composer:
 instruments:
   - Alto Saxophone
   - Piano
-composed: 1989–1990
+composed: 1990
 year-of-study: Advanced
 streaming: https://www.youtube.com/watch?v=SRdn0bREMq4
 purchase:

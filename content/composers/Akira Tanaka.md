@@ -1,16 +1,16 @@
 ---
-title: "Akira Tanaka"
+title: Akira Tanaka
 slug: akira-tanaka
 nationality:
-  - "🇯🇵 Japanese"
-gender: "Male"
+  - 🇯🇵 Japanese
+gender: Male
 race:
-  - "East-Asian"
-born: 
-died: 
-wikidata: 
-photo: 
-photo-source: 
+  - East-Asian
+born: 1947
+died:
+wikidata:
+photo:
+photo-source:
 aliases: []
 ---
 

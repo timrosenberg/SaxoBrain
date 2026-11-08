@@ -1,22 +1,21 @@
 ---
-title: "Calling, Ever Calling"
+title: Calling, Ever Calling
 slug: dana-wilson-calling-ever-calling
 composer:
   - "[[Dana Wilson]]"
 instruments:
-  - "Soprano Saxophone"
-  - "Band"
-  - "Orchestra"
-composed: 
-year-of-study: "Third Year"
-arranger-edition: 
-streaming: 
+  - Soprano Saxophone
+  - Band
+  - Orchestra
+composed: 1990
+year-of-study: Third Year
+arranger-edition:
+streaming:
+  - "I. We call to awaken the spirits · https://www.danawilson.org/files/audio/Calling%201%20A-sax.mp3"
+  - "II. To one's love · https://www.danawilson.org/files/audio/Calling,%20Ever%20II-sax%20mp3.mp3"
+  - "III. To dance so that we may forget · https://www.danawilson.org/files/audio/Calling%2C%20Ever%20III-sax%20mp3.mp3"
 purchase:
-  - "Order from Composer · https://www.danawilson.org/composition_price_list/102049"
+  - Order from Composer · https://www.danawilson.org/composition_price_list/102049
 added: 2026-10-09
 aliases: []
 ---
-
-## Ordering
-
-Order by [emailing Dana Wilson](mailto:wilson@ithaca.edu), using his [score-and-parts page](https://www.danawilson.org/composition_price_list/102049). This page offers the soprano saxophone and piano version. Ask separately about band or orchestral materials.

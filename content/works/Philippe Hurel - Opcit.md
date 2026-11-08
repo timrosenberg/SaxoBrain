@@ -6,7 +6,7 @@ composer:
 instruments:
   - "Tenor Saxophone"
   - "Unaccompanied"
-composed: 1983–1984
+composed: 1984
 year-of-study: Advanced
 publisher:
   - "Éditions Billaudot"

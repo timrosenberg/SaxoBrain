@@ -8,7 +8,7 @@ instruments:
   - "Flute"
   - "Piano"
   - "Unaccompanied"
-composed: "2023–2024"
+composed: 2024
 year-of-study: "Advanced"
 multi-instruments: "Four movements: solo alto saxophone; flute and alto saxophone; alto saxophone and piano; flute, alto saxophone and piano"
 publisher:

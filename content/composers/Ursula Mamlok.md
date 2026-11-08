@@ -11,7 +11,7 @@ died: 2016
 photo: "/media/composers/ursula-mamlok.jpg"
 aliases: []
 photo-source: https://www.mamlokstiftung.com/wp-content/uploads/2017/01/1-Ursula-Mamlok-Fotograph-Simon-Pauly-M%C3%A4rz-2009.jpg
-composer-website: https://www.mamlokstiftung.com/
+website: https://www.mamlokstiftung.com/
 ---
 
 > [!caption]

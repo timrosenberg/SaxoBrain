@@ -22,6 +22,7 @@ Everything outside `content/` builds the site. You never need to open it.
 ## Editing
 
 - **Quick fixes:** open `Catalog.base` in Obsidian and type into the cells.
+- **Site wording:** open a note in `Site Text` and edit its table's **Text** column. Keep setting names and placeholders such as `{title}` unchanged.
 - **Longer edits:** open the piece's file. Notes about the piece go below the fields.
 - **Duration:** add an optional text property such as `duration: "8 minutes"` or `duration: "8–10 minutes"`. It appears below Publisher on the work page when filled in.
 - **Recordings:** `streaming` accepts one URL or a list. Label entries as `Improvisation II · https://...` to show a title above each player. Supported recording services and direct MP3 URLs play inline. Listen opens the inline player whenever one renders. A list of recordings also opens that section of the piece's page.

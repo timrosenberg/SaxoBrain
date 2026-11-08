@@ -1,14 +1,14 @@
 ---
-title: "Alan Oettinger"
+title: Alan Oettinger
 slug: alan-oettinger
 nationality: []
-gender: 
+gender: Male
 race: []
-born: 
-died: 
-wikidata: 
-photo: 
-photo-source: 
+born:
+died:
+wikidata:
+photo:
+photo-source:
 aliases: []
 ---
 

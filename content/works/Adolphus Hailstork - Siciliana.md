@@ -5,6 +5,7 @@ composer:
   - "[[Adolphus Hailstork]]"
 instruments:
   - Any Saxophone
+  - Unaccompanied
 composed: 2024
 year-of-study: Third Year
 arranger-edition: Saxophone version; originally for English horn

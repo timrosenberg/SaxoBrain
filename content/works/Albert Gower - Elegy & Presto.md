@@ -1,24 +1,24 @@
 ---
-title: "Elegy & Presto"
+title: Elegy & Presto
 slug: albert-gower-elegy-presto
 composer:
   - "[[Albert Gower]]"
 instruments:
-  - "Soprano Saxophone"
-  - "Piano"
-composed: 
-year-of-study: "First Year"
-streaming: 
+  - Soprano Saxophone
+  - Piano
+composed: 1994
+year-of-study: First Year
+streaming:
 purchase:
   - https://www.grothmusic.com/p-144593.aspx
 added: 2025-04-18
 research:
-  - "Elegy and Presto for oboe or soprano saxophone and piano, Tenuto, about 1994, duration about 4:10 (per search summary of UMD score record) · https://digital.lib.umd.edu/scores/id/00008473"
-  - "Published oboe/soprano option, catalog 494-01779, Tenuto imprint code TT. · https://www.tpcfassets.com/presser/catalogs/Presser_Fischer_Woodwind_catalog.pdf"
-  - "14 pages; piano score, oboe part and alternate B-flat soprano saxophone part. · https://www.grothmusic.com/p-144593.aspx"
+  - Elegy and Presto for oboe or soprano saxophone and piano, Tenuto, about 1994, duration about 4:10 (per search summary of UMD score record) · https://digital.lib.umd.edu/scores/id/00008473
+  - Published oboe/soprano option, catalog 494-01779, Tenuto imprint code TT. · https://www.tpcfassets.com/presser/catalogs/Presser_Fischer_Woodwind_catalog.pdf
+  - 14 pages; piano score, oboe part and alternate B-flat soprano saxophone part. · https://www.grothmusic.com/p-144593.aspx
 aliases: []
 publisher:
-  - "Tenuto Publications"
+  - Tenuto Publications
 ---
 ## Research notes (private)
 

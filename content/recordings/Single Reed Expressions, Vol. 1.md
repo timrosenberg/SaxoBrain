@@ -15,9 +15,9 @@ apple-music: "https://music.apple.com/us/album/1184988896"
 amazon-music: 
 tidal: 
 tracks:
-  - "Grand duo concertant for Clarinet & Piano, Op. 48, J. 204: I. Allegro con fuoco · 7:04 · [[Carl Maria von Weber]]"
-  - "Grand duo concertant for Clarinet & Piano, Op. 48, J. 204: II. Andante con moto · 6:07 · [[Carl Maria von Weber]]"
-  - "Grand duo concertant for Clarinet & Piano, Op. 48, J. 204: III. Rondo (Allegro) · 6:54 · [[Carl Maria von Weber]]"
+  - "Grand duo concertant for Clarinet & Piano, Op. 48, J. 204: I. Allegro con fuoco · 7:04 · Carl Maria von Weber"
+  - "Grand duo concertant for Clarinet & Piano, Op. 48, J. 204: II. Andante con moto · 6:07 · Carl Maria von Weber"
+  - "Grand duo concertant for Clarinet & Piano, Op. 48, J. 204: III. Rondo (Allegro) · 6:54 · Carl Maria von Weber"
   - "Sonatina romantica for Clarinet & Piano: I. Allegro moderato · 2:31 · [[Walter Hartley]]"
   - "Sonatina romantica for Clarinet & Piano: II. Presto · 0:56 · [[Walter Hartley]]"
   - "Sonatina romantica for Clarinet & Piano: III. Adagio - Allegretto scherzando - Adagio · 2:58 · [[Walter Hartley]]"

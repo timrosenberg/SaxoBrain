@@ -15,10 +15,10 @@ cover: "/media/recordings/saxophone-classics/cover.jpg"
 
 ## Tracks
 
-1. String Quartet No. 23 in F minor, Op. 20, No. 5, Hob.III: 35 (arr. for saxophone): I. Moderato · [[Joseph Haydn|Franz Joseph Haydn]]
-2. String Quartet No. 23 in F minor, Op. 20, No. 5, Hob.III: 35 (arr. for saxophone): II. Menuet · [[Joseph Haydn|Franz Joseph Haydn]]
-3. String Quartet No. 23 in F minor, Op. 20, No. 5, Hob.III: 35 (arr. for saxophone): III. Adagio · [[Joseph Haydn|Franz Joseph Haydn]]
-4. String Quartet No. 23 in F minor, Op. 20, No. 5, Hob.III: 35 (arr. for saxophone): IV. Final · [[Joseph Haydn|Franz Joseph Haydn]]
+1. String Quartet No. 23 in F minor, Op. 20, No. 5, Hob.III: 35 (arr. for saxophone): I. Moderato · Franz Joseph Haydn
+2. String Quartet No. 23 in F minor, Op. 20, No. 5, Hob.III: 35 (arr. for saxophone): II. Menuet · Franz Joseph Haydn
+3. String Quartet No. 23 in F minor, Op. 20, No. 5, Hob.III: 35 (arr. for saxophone): III. Adagio · Franz Joseph Haydn
+4. String Quartet No. 23 in F minor, Op. 20, No. 5, Hob.III: 35 (arr. for saxophone): IV. Final · Franz Joseph Haydn
 5. String Quartet No. 21 in D major, K. 575, "Prussian No. 1": I. Allegretto · [[Wolfgang Amadeus Mozart]]
 6. String Quartet No. 21 in D major, K. 575, "Prussian No. 1": II. Andante · [[Wolfgang Amadeus Mozart]]
 7. String Quartet No. 21 in D major, K. 575, "Prussian No. 1": III. Menuet · [[Wolfgang Amadeus Mozart]]

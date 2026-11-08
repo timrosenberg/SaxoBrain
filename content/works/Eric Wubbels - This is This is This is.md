@@ -6,7 +6,7 @@ composer:
 instruments:
   - "Alto Saxophone"
   - "Piano"
-composed: 2009–2010
+composed: 2010
 year-of-study: Advanced
 publisher:
   - "Self-published"

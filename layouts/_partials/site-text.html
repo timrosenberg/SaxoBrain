@@ -1,6 +1,36 @@
-{{- /* Merges the front matter of every file in content/Site Text into one map. */ -}}
+{{- /* Reads the Setting / Text tables in content/Site Text into one plain-text map. */ -}}
 {{- $d := dict -}}
+{{- $sources := dict -}}
 {{- with site.GetPage "/site-text" -}}
-{{- range .RegularPages -}}{{- range $k, $v := .Params -}}{{- if and (ne $k "title") (eq (printf "%T" $v) "string") -}}{{- $d = merge $d (dict $k $v) -}}{{- end -}}{{- end -}}{{- end -}}
+  {{- range .RegularPages -}}
+    {{- $path := .File.Path -}}
+    {{- $inTable := false -}}
+    {{- range split .RawContent "\n" -}}
+      {{- $row := strings.TrimSpace . -}}
+      {{- if findRE `^\|?\s*Setting\s*\|\s*Text\s*\|?$` $row -}}
+        {{- $inTable = true -}}
+      {{- else if eq $row "" -}}
+        {{- $inTable = false -}}
+      {{- else if $inTable -}}
+        {{- if not (findRE `^\|?\s*:?-+:?\s*\|\s*:?-+:?\s*\|?$` $row) -}}
+          {{- $matches := findRESubmatch `^\|?[ \t]*([a-z][a-z0-9-]*)[ \t]*\|[ \t]*((?:\\\||[^|])*)\|?$` $row 1 -}}
+          {{- if not $matches -}}
+            {{- errorf "site text: invalid Setting / Text row in %s: %s" $path $row -}}
+          {{- else -}}
+            {{- $key := index (index $matches 0) 1 -}}
+            {{- $value := replace (strings.TrimSpace (index (index $matches 0) 2)) `\|` `|` -}}
+            {{- if eq $value "" -}}
+              {{- errorf "site text: empty text for %q in %s" $key $path -}}
+            {{- else if isset $sources $key -}}
+              {{- errorf "site text: duplicate key %q in %s (already defined in %s)" $key $path (index $sources $key) -}}
+            {{- else -}}
+              {{- $d = merge $d (dict $key $value) -}}
+              {{- $sources = merge $sources (dict $key $path) -}}
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
 {{- else -}}{{ errorf "content/Site Text is missing" }}{{- end -}}
 {{- return $d -}}
