@@ -16,6 +16,6 @@ aliases: []
 ---
 
 > [!caption]
-> Photo: [Photos by Kaupo Kikkas](https://static1.squarespace.com/static/561afcd3e4b0fcd88ca782e5/t/63b5bb1d9829ae55b0fa6fc1/1672854321301/KIK00524_2.jpg)
+> Photo by [Kaupo Kikkas](https://static1.squarespace.com/static/561afcd3e4b0fcd88ca782e5/t/63b5bb1d9829ae55b0fa6fc1/1672854321301/KIK00524_2.jpg)
 
 ![[Composer Works.base#Works]]

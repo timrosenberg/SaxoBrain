@@ -15,8 +15,8 @@ All three rounds take place in the auditorium of the Centre de Congressos d'Ando
 
 **Dates:** March 29–31, 2026.
 
-- [[Ida Gotkovsky - Brillance|Brilliance]] by [[Ida Gotkovsky]], **third movement, Dolcissimo**. Performed without a prior piano rehearsal.
-- [[Marc Monnet - Babioles|Babioles]] by [[Marc Monnet]], **I. Jongleurs de sons** and **VI. Gnomes fantaisies**, for solo saxophone.
+- [[Ida Gotkovsky - Brillance|Brilliance]] by [[Ida Gotkovsky]], **third movement, Dolcissimo**.
+- [[Marc Monnet - Babioles|Babioles]] by [[Marc Monnet]], **I. Jongleurs de sons** and **VI. Gnomes fantaisies**
 
 ## Second Round
 
@@ -30,12 +30,4 @@ All three rounds take place in the auditorium of the Centre de Congressos d'Ando
 **Date:** April 4, 2026.
 
 - [[Pierre-Max DuBois - Concerto|Concerto]] by [[Pierre-Max DuBois]].
-- **Lutte** by [[Thierry Escaich]], an original solo saxophone work.
-
-> **SaxoBrain Catalog and Source Notes**
->
-> These editorial notes are separate from the competition requirements.
->
-> - Lutte has no work entry in the catalog. Thierry Escaich's existing composer entry is linked above.
-> - The program spells Gotkovsky's title Brilliance. It links to the existing catalog entry titled Brillance.
-> - The supplied PDF contains one page from the program. This list covers only the rounds shown on that page.
+- [[Thierry Escaich - Lutte|Lutte]] by [[Thierry Escaich]], an original solo saxophone work.
