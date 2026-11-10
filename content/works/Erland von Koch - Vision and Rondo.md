@@ -10,8 +10,8 @@ composed:
 year-of-study: "Second Year"
 streaming: 
 purchase:
-  - "https://www.grothmusic.com/p-145578.aspx"
-  - "https://www.grothmusic.com/p-145578-vision-and-rondo-alto-saxophone-and-piano.aspx"
+  - "Buy from Groth · https://www.grothmusic.com/p-145578.aspx"
+  - "Buy from Groth · https://www.grothmusic.com/p-145578-vision-and-rondo-alto-saxophone-and-piano.aspx"
 added: 2024-03-08
 research:
   - "Publisher Dorn Publications, catalog DORN0996; two short movements, total duration 6 minutes · https://www.grothmusic.com/p-145578.aspx"

@@ -14,3 +14,5 @@ purchase:
 added: 2019-08-28
 aliases: []
 ---
+
+[Gregory Wanamaker’s work page](https://gregorywanamaker.com/works/duo-sonata/)

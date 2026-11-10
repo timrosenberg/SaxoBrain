@@ -17,8 +17,8 @@ publisher:
 duration: "13 minutes 50 seconds"
 streaming: 
 purchase:
-  - "https://shop.zen-on.co.jp/downloads/detail/59024700/"
-  - "https://shop.zen-on.co.jp/item/detail/590247/"
+  - "Buy from Zen-On (digital score) · https://shop.zen-on.co.jp/downloads/detail/59024700/"
+  - "Buy from Zen-On (print edition) · https://shop.zen-on.co.jp/item/detail/590247/"
 added: 2026-10-09
 aliases: []
 multi-instruments: "Clarinet, one saxophonist doubling alto and soprano, and piano (three players)"

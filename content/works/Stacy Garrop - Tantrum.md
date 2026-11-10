@@ -13,8 +13,8 @@ streaming:
   - "II. Lost · https://www.youtube.com/watch?v=h4YM6wkC3_M"
   - "III. Fits and Fists · https://www.youtube.com/watch?v=dNY6MdQULWA"
 purchase:
-  - "https://www.presser.com/114-41107-tantrum.html"
-  - "https://www.sheetmusicplus.com/en/product/tantrum-4020048.html"
+  - "Buy from Theodore Presser · https://www.presser.com/114-41107-tantrum.html"
+  - "Buy from Sheet Music Plus · https://www.sheetmusicplus.com/en/product/tantrum-4020048.html"
 added: 2024-02-21
 aliases: []
 publisher:

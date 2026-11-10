@@ -10,8 +10,8 @@ composed: 1982
 year-of-study: Fourth Year
 streaming:
 purchase:
-  - https://www.grothmusic.com/p-144588.aspx
-  - https://www.amazon.com/GENZMER-H-Saxofon-Soprano-Clatinete/dp/B0745DKLMW
+  - "Buy from Groth · https://www.grothmusic.com/p-144588.aspx"
+  - "Buy from Amazon · https://www.amazon.com/GENZMER-H-Saxofon-Soprano-Clatinete/dp/B0745DKLMW"
 added: 2024-03-10
 research:
   - Publisher Ries & Erler, catalog RE24008 · https://www.grothmusic.com/p-144588.aspx

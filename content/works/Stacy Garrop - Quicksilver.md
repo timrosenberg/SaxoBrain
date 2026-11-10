@@ -17,7 +17,7 @@ streaming:
 publisher:
   - "Theodore Presser Company"
 purchase:
-  - "https://www.presser.com/114-41985-quicksilver.html"
+  - "Buy from Theodore Presser · https://www.presser.com/114-41985-quicksilver.html"
   - "Wind ensemble score and rental information · https://garrop.com/Catalog/ChamberEnsembles/saxophone/"
 added: 2026-10-27
 aliases: []

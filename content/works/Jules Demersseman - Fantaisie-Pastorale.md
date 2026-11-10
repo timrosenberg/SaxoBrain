@@ -10,10 +10,10 @@ composed:
 year-of-study: "First Year"
 streaming: "https://www.youtube.com/watch?v=sr4rvuPFDAU"
 purchase:
-  - "https://www.grothmusic.com/p-37411.aspx"
-  - "https://www.hickeys.com/music/woodwinds/sax/solos/soprano_with_piano/products/sku124239-demersseman-jules-caravan-fantasiepastorale.php"
-  - "https://www.jwpepper.com/fantaisie-pastorale-10554727/p"
-  - "https://ethospublications.com/ecc_eps/music-for-saxophone/soprano-saxophone-solos/fantaisie-pastorale-for-soprano-saxophone-piano-jules-demersseman/"
+  - "Buy from Groth · https://www.grothmusic.com/p-37411.aspx"
+  - "Buy from Hickey's · https://www.hickeys.com/music/woodwinds/sax/solos/soprano_with_piano/products/sku124239-demersseman-jules-caravan-fantasiepastorale.php"
+  - "Buy from J.W. Pepper · https://www.jwpepper.com/fantaisie-pastorale-10554727/p"
+  - "Buy from Ethos Publications · https://ethospublications.com/ecc_eps/music-for-saxophone/soprano-saxophone-solos/fantaisie-pastorale-for-soprano-saxophone-piano-jules-demersseman/"
 added: 2025-04-18
 research:
   - "Caravan edition for soprano saxophone and piano, about 4 minutes, rated Grade 6 (Advanced) by the retailer; written in C (saxophone in D); Andante, faster sections of moderate technical difficulty, brief cadenza, closing flourish (retailer description) · https://www.hickeys.com/music/woodwinds/sax/solos/soprano_with_piano/products/sku124239-demersseman-jules-caravan-fantasiepastorale.php"

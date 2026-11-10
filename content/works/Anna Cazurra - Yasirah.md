@@ -9,8 +9,8 @@ composed: 2003
 year-of-study: "Second Year"
 streaming: 
 purchase:
-  - https://www.grothmusic.com/p-143319.aspx
-  - https://brotonsmercadal.com/producte/yasirah-cazurra-2/
+  - "Buy from Groth · https://www.grothmusic.com/p-143319.aspx"
+  - "Buy from Brotons & Mercadal · https://brotonsmercadal.com/producte/yasirah-cazurra-2/"
 added: 2025-04-18
 research:
   - "Duration 12 minutes; publisher Brotons & Mercadal; soprano saxophone and piano; 21 pages of score · https://brotonsmercadal.com/producte/yasirah-cazurra-2/"

@@ -10,8 +10,8 @@ composed: 1992
 year-of-study: "Fourth Year"
 streaming: "https://www.youtube.com/watch?v=4u7axlRrLNM"
 purchase:
-  - "https://www.grothmusic.com/p-38334.aspx"
-  - "https://www.editiongravis.de/verlag/product_info.php/info/p495_Der-Hoelle-Nachklang-I.html"
+  - "Buy from Groth · https://www.grothmusic.com/p-38334.aspx"
+  - "Buy from Edition Gravis · https://www.editiongravis.de/verlag/product_info.php/info/p495_Der-Hoelle-Nachklang-I.html"
 added: 2024-02-21
 research:
   - "Publisher Gravis, catalog number EG322 · https://www.grothmusic.com/p-38334.aspx"

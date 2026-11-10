@@ -10,8 +10,8 @@ composed:
 year-of-study: "Third Year"
 streaming: 
 purchase:
-  - "https://www.grothmusic.com/p-63668.aspx"
-  - "https://www.billaudot.com/gb3218-6.html"
+  - "Buy from Groth · https://www.grothmusic.com/p-63668.aspx"
+  - "Buy from Billaudot · https://www.billaudot.com/gb3218-6.html"
 added: 2025-04-18
 research:
   - "Catalogued as 'Epitaph to John Coltrane', Op. 86, for B-flat soprano saxophone and piano, Billaudot 1981, about 5 minutes · https://www.nypl.org/research/research-catalog/bib/b10912519"

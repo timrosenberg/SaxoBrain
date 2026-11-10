@@ -14,8 +14,8 @@ arranger-edition:
 streaming:
   - "Sonata No. 6 in G minor: Kevin Hammill, tenor saxophone; Sandra Leary, piano · https://www.youtube.com/watch?v=z2J3_ERXkzs"
 purchase:
-  - "https://www.amazon.com/Vivaldi-Sonata-Minor-arr-alto/dp/B0037ILG5A?tag=timothyrosenb-20"
-  - "https://www.hickeys.com/music/contests/NYSSMA/tenor_saxophone_solos/level_5/products/sku001335-vivaldi-antonio-rascherbodky-sonata-no-6-in-gm.php"
+  - "Buy from Amazon · https://www.amazon.com/Vivaldi-Sonata-Minor-arr-alto/dp/B0037ILG5A?tag=timothyrosenb-20"
+  - "Buy from Hickey's · https://www.hickeys.com/music/contests/NYSSMA/tenor_saxophone_solos/level_5/products/sku001335-vivaldi-antonio-rascherbodky-sonata-no-6-in-gm.php"
 added: 2019-08-25
 aliases: []
 ---

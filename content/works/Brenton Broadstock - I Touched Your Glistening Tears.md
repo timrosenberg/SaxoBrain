@@ -10,8 +10,8 @@ composed: 2000
 year-of-study: "Second Year"
 streaming: "https://soundcloud.com/reedmusic-com/rm011-i-touched-your-glistening-tears-by-brenton-broadstock"
 purchase:
-  - "https://representation.australianmusiccentre.com.au/product/i-touched-your-glistening-tears-soprano-saxophone-piano"
-  - "https://www.reedmusic.com/store/woodwind/saxophone/saxophone-soprano/sax-soprano-piano/i-touched-your-glistening-tears/"
+  - "Buy from Australian Music Centre · https://representation.australianmusiccentre.com.au/product/i-touched-your-glistening-tears-soprano-saxophone-piano"
+  - "Buy from Reed Music · https://www.reedmusic.com/store/woodwind/saxophone/saxophone-soprano/sax-soprano-piano/i-touched-your-glistening-tears/"
 added: 2025-04-18
 research:
   - "Duration 8 minutes; Australian Music Centre difficulty rating: medium; Reed Music RM011 · https://representation.australianmusiccentre.com.au/product/i-touched-your-glistening-tears-soprano-saxophone-piano"

@@ -15,8 +15,8 @@ duration: 22 minutes
 streaming:
   - https://www.youtube.com/watch?v=JkfrEmvVRkI
 purchase:
-  - Conductor score · https://www.eamdc.com/psny/composers/wayne-shorter/works/sherwood/
-  - Orchestral materials rental · https://www.schott-music.com/fr/sherwood-no589420.html
+  - "Conductor score · https://www.eamdc.com/psny/composers/wayne-shorter/works/sherwood/"
+  - "Orchestral materials rental from Schott Music · https://www.schott-music.com/fr/sherwood-no589420.html"
 added: 2026-11-06
 aliases: []
 ---

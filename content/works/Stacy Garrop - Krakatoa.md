@@ -15,7 +15,7 @@ streaming:
 publisher:
   - "Theodore Presser Company"
 purchase:
-  - "https://www.presser.com/114-42425-krakatoa.html"
+  - "Buy from Theodore Presser · https://www.presser.com/114-42425-krakatoa.html"
   - "Orchestral materials · https://www.presser.com/catalogsearch/result/?q=krakatoa"
 added: 2026-10-27
 aliases: []

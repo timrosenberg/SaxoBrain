@@ -10,9 +10,9 @@ composed: 1966
 year-of-study: "Fourth Year"
 streaming: "https://soundcloud.com/randall-snyder-579762769/sonata-for-alto-saxophone-and"
 purchase:
-  - "https://www.grothmusic.com/p-38108.aspx"
-  - "https://www.grothmusic.com/p-38108-sonata-alto-sax-and-piano.aspx"
-  - "https://www.presser.com/494-00057-sonata.html"
+  - "Buy from Groth · https://www.grothmusic.com/p-38108.aspx"
+  - "Buy from Groth · https://www.grothmusic.com/p-38108-sonata-alto-sax-and-piano.aspx"
+  - "Buy from Theodore Presser · https://www.presser.com/494-00057-sonata.html"
 added: 2025-04-16
 research:
   - "Publisher Tenuto, catalog no. 49400057 · https://www.grothmusic.com/p-38108.aspx"

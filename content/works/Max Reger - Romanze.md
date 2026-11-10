@@ -13,8 +13,8 @@ arranger-edition:
   - "Trent Kynaston"
 streaming: 
 purchase:
-  - "https://www.grothmusic.com/p-144217.aspx"
-  - "https://www.ficksmusic.com/products/reger-romance-arr-for-alto-sax-piano-advance"
+  - "Buy from Groth · https://www.grothmusic.com/p-144217.aspx"
+  - "Buy from Ficks Music · https://www.ficksmusic.com/products/reger-romance-arr-for-alto-sax-piano-advance"
 added: 2024-03-08
 research:
   - "Transcribed by Trent Kynaston; publisher Advance Music, catalog no. ADV7054 · https://www.grothmusic.com/p-144217.aspx"

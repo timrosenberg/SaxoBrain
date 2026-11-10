@@ -10,8 +10,8 @@ composed:
 year-of-study: "Second Year"
 streaming: 
 purchase:
-  - "https://www.boosey.com/shop/prod/Robert-Lucie-3-Chansons/2288428"
-  - "https://www.billaudot.com/gb6489-6.html"
+  - "Buy from Boosey & Hawkes · https://www.boosey.com/shop/prod/Robert-Lucie-3-Chansons/2288428"
+  - "Buy from Billaudot · https://www.billaudot.com/gb6489-6.html"
 added: 2024-03-08
 research:
   - "Boosey & Hawkes lists 3 Chansons for E-flat saxophone and piano, published by Billaudot (title in catalog is '3 Chanson') · https://www.boosey.com/shop/prod/Robert-Lucie-3-Chansons/2288428"

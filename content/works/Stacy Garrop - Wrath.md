@@ -10,8 +10,8 @@ composed: 2016
 year-of-study: "Advanced"
 streaming: "https://www.youtube.com/watch?v=8mr0BUarVr0"
 purchase:
-  - "https://www.presser.com/114-41945-wrath.html"
-  - "https://www.prestomusic.com/sheet-music/products/8763395--garrop-s-wrath"
+  - "Buy from Theodore Presser · https://www.presser.com/114-41945-wrath.html"
+  - "Buy from Presto · https://www.prestomusic.com/sheet-music/products/8763395--garrop-s-wrath"
 added: 2024-02-21
 aliases: []
 publisher:

@@ -11,7 +11,7 @@ duration: "8 minutes"
 year-of-study: "Advanced"
 streaming: []
 purchase:
-  - "https://www.scoreexchange.com/scores/your-empty-footsteps-in-a-hollow-hall-35648.html"
+  - "Buy from Score Exchange · https://www.scoreexchange.com/scores/your-empty-footsteps-in-a-hollow-hall-35648.html"
   - "Performance note · https://www.scoreexchange.com/scores/your-empty-footsteps-in-a-hollow-hall-performance-note-35649.html"
 added: "2026-10-28"
 aliases: []

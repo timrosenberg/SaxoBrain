@@ -10,7 +10,7 @@ composed: 1989
 year-of-study: Fourth Year
 streaming: "https://www.youtube.com/watch?v=4CeoiU74TEo"
 purchase:
-  - "https://www.grothmusic.com/p-141382.aspx"
+  - "Buy from Groth · https://www.grothmusic.com/p-141382.aspx"
   - "Donemus alto saxophone and piano, D5473 · https://webshop.donemus.com/action/front/sheetmusic/5473"
 added: 2024-03-08
 research:

@@ -1,15 +1,16 @@
 ---
-title: "Aleksandr Manot︠s︡kov"
+title: Aleksandr Manot︠s︡kov
 slug: aleksandr-manotskov
 nationality:
-  - "🇷🇺 Russian"
-gender: 
-race: []
+  - 🇷🇺 Russian
+gender: Male
+race:
+  - White
 born: 1972
-died: 
+died:
 wikidata: Q4280562
-photo: "/media/composers/aleksandr-manotskov.jpg"
-photo-source: "https://commons.wikimedia.org/wiki/File:Alexander_Manotskov.jpg"
+photo: /media/composers/aleksandr-manotskov.jpg
+photo-source: https://commons.wikimedia.org/wiki/File:Alexander_Manotskov.jpg
 aliases: []
 ---
 

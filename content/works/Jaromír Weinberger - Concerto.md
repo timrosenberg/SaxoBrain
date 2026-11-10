@@ -12,8 +12,8 @@ year-of-study: Third Year
 streaming:
   - "First movement only · https://holocaustmusic.ort.org/HolocaustMusic/hannah-cranston/cc-weinberger-mvt-1.mp3"
 purchase:
-  - https://www.ficksmusic.com/products/weinberger-alto-saxophone-concerto-revised-southern
-  - "https://www.halleonard.com/product/298123/alto-saxophone-concerto-revised"
+  - "Buy from Ficks Music · https://www.ficksmusic.com/products/weinberger-alto-saxophone-concerto-revised-southern"
+  - "Buy from Hal Leonard · https://www.halleonard.com/product/298123/alto-saxophone-concerto-revised"
 added: 2025-04-16
 research:
   - "Commissioned by saxophonist Cecil Leeson; completed in piano score in 1940, premiere delayed by World War II to 1946 · https://keiserproductions.com/?p=3118"

@@ -11,8 +11,8 @@ year-of-study: "Second Year"
 streaming:
   - "C. Alan Publications · complete recording · https://soundcloud.com/c-alanpublications/fusion-suite-by-catherine"
 purchase:
-  - https://www.grothmusic.com/p-39046.aspx
-  - http://c-alanpublications.com/fusion-suite/
+  - "Buy from Groth · https://www.grothmusic.com/p-39046.aspx"
+  - "Buy from C. Alan Publications · http://c-alanpublications.com/fusion-suite/"
 added: 2024-02-21
 research:
   - "C. Alan Publications grade: Medium; duration 12:15; three movements; dedicated to Lynn Klock, UMass Amherst; leans toward jazz-rock fusion · http://c-alanpublications.com/fusion-suite/"

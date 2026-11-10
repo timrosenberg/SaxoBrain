@@ -10,8 +10,8 @@ composed: 2013
 year-of-study: "Second Year"
 streaming: 
 purchase:
-  - "https://www.australianmusiccentre.com.au/product/song-for-jit-for-alto-saxophone-and-piano"
-  - "https://www.australiancomposers.com.au/products/song-for-jit"
+  - "Buy from Australian Music Centre · https://www.australianmusiccentre.com.au/product/song-for-jit-for-alto-saxophone-and-piano"
+  - "Buy from Wirripang · https://www.australiancomposers.com.au/products/song-for-jit"
 library-recording:
   - "https://search.alexanderstreet.com/lti/view/work/bibliographic_entity|score|2703757"
 added: 2025-04-21

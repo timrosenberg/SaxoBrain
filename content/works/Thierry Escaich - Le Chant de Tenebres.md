@@ -9,7 +9,7 @@ instruments:
 composed: 
 year-of-study: "Advanced"
 streaming: 
-purchase: ["https://www.grothmusic.com/p-37415.aspx", "https://www.billaudot.com/le-chant-des-tenebres-3.html"]
+purchase: ["Buy from Groth · https://www.grothmusic.com/p-37415.aspx", "Buy from Billaudot · https://www.billaudot.com/le-chant-des-tenebres-3.html"]
 added: 2025-04-18
 research: ["Publisher Billaudot, catalog no. GB5367; soprano (or tenor) sax and piano · https://www.grothmusic.com/p-37415.aspx", "Exact GB 5367 publisher sale identifies soprano saxophone or B-flat clarinet and piano, fifteen minutes, concert level. · https://www.billaudot.com/le-chant-des-tenebres-3.html", "Specialist edition description identifies the piano reduction as advanced and states altissimo to B; no multiphonics or extended articulation techniques reported. · https://vcisinc.com/saxophonemusic.htm", "Escaich attribution; piano reduction GB5367; soprano or B-flat clarinet/piano;15 min;9790043053675 · https://www.billaudot.com/le-chant-des-tenebres-2.html", "Search-index evidence only: Original 1992 concerto soprano/twelve saxophones; Delangle premiere; composer discussion · https://www.escaich.org/en/pages/works/concertos/le-chant-des-tenebres-solo-sax-12-sax.html"]
 aliases: ["/works/jean-thierry-chant-tenebres/"]

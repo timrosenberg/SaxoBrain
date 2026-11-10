@@ -10,8 +10,8 @@ composed:
 year-of-study: "Third Year"
 streaming: 
 purchase:
-  - "https://www.grothmusic.com/p-141695.aspx"
-  - "https://www.billaudot.com/sonate-saxophone-et-piano-3.html"
+  - "Buy from Groth · https://www.grothmusic.com/p-141695.aspx"
+  - "Buy from Billaudot · https://www.billaudot.com/sonate-saxophone-et-piano-3.html"
 added: 2024-03-08
 research:
   - "Three movements: I. Allegro moderato molto marcato, II. Lento, III. Allegro molto; dedicated 'For Daniel Deffayet'; publisher Billaudot, catalog no. MRB1140 · https://www.grothmusic.com/p-141695.aspx"

@@ -10,8 +10,8 @@ composed:
 year-of-study: "Pre-college"
 streaming: "https://www.youtube.com/watch?v=aiOOHiifBUM"
 purchase:
-  - "https://www.grothmusic.com/p-128490.aspx"
-  - "https://www.halleonard.com/product/4476941/allegretto-brillante"
+  - "Buy from Groth · https://www.grothmusic.com/p-128490.aspx"
+  - "Buy from Hal Leonard · https://www.halleonard.com/product/4476941/allegretto-brillante"
 added: 2024-03-08
 research:
   - "Allegretto Brillante, Op. 46; Rubank 04476941; edited by Himie Voxman; 12 pages · https://www.grothmusic.com/p-128490.aspx"

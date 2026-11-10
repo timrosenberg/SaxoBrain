@@ -11,8 +11,8 @@ composed: 1929
 year-of-study: "First Year"
 streaming: 
 purchase:
-  - "https://www.bladmuziekplus.nl/product/kalomiris-chant-grec-9790046294792/"
-  - "https://www.prestomusic.com/sheet-music/products/7381193--manolis-kalomiris-chant-grec"
+  - "Buy from Bladmuziekplus · https://www.bladmuziekplus.nl/product/kalomiris-chant-grec-9790046294792/"
+  - "Buy from Presto · https://www.prestomusic.com/sheet-music/products/7381193--manolis-kalomiris-chant-grec"
 added: 2025-04-18
 research:
   - "About 4 minutes, two sections (Andante con moto, Scherzando); retailer describes it as suitable for upper-intermediate players or above · https://www.bladmuziekplus.nl/product/kalomiris-chant-grec-9790046294792/"

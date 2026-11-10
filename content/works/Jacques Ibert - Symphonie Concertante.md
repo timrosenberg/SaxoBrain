@@ -13,8 +13,8 @@ arranger-edition:
   - "Grégoire Nicole"
 streaming: 
 purchase:
-  - https://www.grothmusic.com/p-147587.aspx
-  - "https://www.sheetmusicplus.com/en/product/symphonie-concertante-saxophone-soprano-piano-20749257.html"
+  - "Buy from Groth · https://www.grothmusic.com/p-147587.aspx"
+  - "Buy from Sheet Music Plus · https://www.sheetmusicplus.com/en/product/symphonie-concertante-saxophone-soprano-piano-20749257.html"
 added: 2024-03-10
 research:
   - "Publisher Alphonse Leduc, catalog no. AL29268 · https://www.grothmusic.com/p-147587.aspx"

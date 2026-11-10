@@ -13,8 +13,8 @@ publisher:
 streaming:
   - "Septième solo de concert pour saxophone baryton et piano, Op. 93 (Ulrich Berg and Guy Penson) · https://music.apple.com/fr/album/septi%C3%A8me-solo-de-concert-pour-saxophone-baryton-et/1572077053?i=1572077057"
 purchase:
-  - "Dorn edition (E-flat and B-flat parts) · https://www.grothmusic.com/p-139749.aspx"
-  - "Baritone edition, Paul Wehage, MFJBS011 · https://www.notendownload.com/solo-de-concert-no.-7-opus-93/mfjbs011"
+  - "Buy from Groth · https://www.grothmusic.com/p-139749.aspx"
+  - "Buy from NotenDownload · https://www.notendownload.com/solo-de-concert-no.-7-opus-93/mfjbs011"
 added: 2024-03-08
 research:
   - "Groth lists Dorn Publications DORN2016 (baritone or other saxophone and piano; E-flat and B-flat parts), page gives 'written 1863'; edition is baritone, not alto, so not used as composed · https://www.grothmusic.com/p-139749.aspx"

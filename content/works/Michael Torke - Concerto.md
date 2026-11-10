@@ -15,8 +15,8 @@ streaming:
   - "Saxophone Concerto: II Slowly (John Harle, Albany Symphony Orchestra, David Alan Miller) · https://music.apple.com/ca/album/saxophone-concerto-ii-slowly/1452384939?i=1452385161"
   - "Saxophone Concerto: III (John Harle, Albany Symphony Orchestra, David Alan Miller) · https://music.apple.com/ca/album/saxophone-concerto-iii/1452384939?i=1452385163"
 purchase:
-  - "https://www.grothmusic.com/p-37451.aspx"
-  - "https://billholabmusic.com/product/saxophone-concerto/"
+  - "Buy from Groth · https://www.grothmusic.com/p-37451.aspx"
+  - "Buy from Bill Holab Music · https://billholabmusic.com/product/saxophone-concerto/"
 added: 2025-04-21
 research:
   - "Concerto for Soprano Sax and Piano; publisher Adjustable, catalog no. ADJUST02 · https://www.grothmusic.com/p-37451.aspx"

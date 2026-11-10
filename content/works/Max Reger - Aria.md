@@ -13,8 +13,8 @@ arranger-edition:
   - "Trent Kynaston"
 streaming: 
 purchase:
-  - "https://www.grothmusic.com/p-144214.aspx"
-  - "https://www.alfred.com/products/aria-opus-103a-no-3-01-adv7056"
+  - "Buy from Groth · https://www.grothmusic.com/p-144214.aspx"
+  - "Buy from Alfred · https://www.alfred.com/products/aria-opus-103a-no-3-01-adv7056"
 added: 2024-03-08
 research:
   - "Aria Op. 103a, No. 3; transcribed by Trent Kynaston; publisher Advance Music, catalog no. ADV7056; from Reger's Suite in A Minor, Op. 103a · https://www.grothmusic.com/p-144214.aspx"

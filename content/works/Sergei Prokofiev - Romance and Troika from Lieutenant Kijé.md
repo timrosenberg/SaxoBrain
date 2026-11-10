@@ -11,8 +11,8 @@ year-of-study: First Year
 streaming:
   - "Romance and Troika: tenor saxophone and piano, Hummel arrangement · https://www.youtube.com/watch?v=Qp2hBf013TQ"
 purchase:
-  - "https://www.sheetmusicplus.com/title/romance-and-troika-from-lieutenant-kije-sheet-music/3009171?aff_id=426309&utm_medium=plg1"
-  - "https://www.halleonard.com/product/4477547/romance-and-troika-from-lieutenant-kije"
+  - "Buy from Sheet Music Plus · https://www.sheetmusicplus.com/title/romance-and-troika-from-lieutenant-kije-sheet-music/3009171?aff_id=426309&utm_medium=plg1"
+  - "Buy from Hal Leonard · https://www.halleonard.com/product/4477547/romance-and-troika-from-lieutenant-kije"
 added: 2022-03-24
 aliases: []
 publisher:

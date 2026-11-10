@@ -10,8 +10,8 @@ composed: 2005
 year-of-study: First Year
 streaming:
 purchase:
-  - https://www.grothmusic.com/p-37774.aspx
-  - Digital edition · https://www.juneemersonwindmusic.com/DANCE-SUITE-6f7a83b6-30f8-ac90-4b81-d5583cb423d5.html
+  - "Buy from Groth · https://www.grothmusic.com/p-37774.aspx"
+  - "Buy from June Emerson Wind Music · https://www.juneemersonwindmusic.com/DANCE-SUITE-6f7a83b6-30f8-ac90-4b81-d5583cb423d5.html"
 added: 2025-04-18
 research:
   - Publisher June Emerson, catalog EE481; soprano sax (or clarinet) and piano · https://www.grothmusic.com/p-37774.aspx

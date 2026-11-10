@@ -12,9 +12,9 @@ composed:
 year-of-study: "Third Year"
 streaming: 
 purchase:
-  - "https://www.grothmusic.com/p-144323.aspx"
-  - "https://studio-music.co.uk/adv08310a"
-  - "https://www.schott-music.com/en/sonata-for-improvisation-no307720.html"
+  - "Buy from Groth · https://www.grothmusic.com/p-144323.aspx"
+  - "Buy from Studio Music · https://studio-music.co.uk/adv08310a"
+  - "Buy from Schott Music · https://www.schott-music.com/en/sonata-for-improvisation-no307720.html"
 added: 2025-04-18
 research:
   - "Publisher Advance Music, grade listed as Advanced · https://studio-music.co.uk/adv08310a"

@@ -11,8 +11,8 @@ duration: "approximately 18 minutes"
 year-of-study: "Second Year"
 streaming: 
 purchase:
-  - https://www.grothmusic.com/p-144302.aspx
-  - https://alfred.com/products/sonata-brevis-opus-95a-01-adv7036
+  - "Buy from Groth · https://www.grothmusic.com/p-144302.aspx"
+  - "Buy from Alfred · https://alfred.com/products/sonata-brevis-opus-95a-01-adv7036"
 added: 2024-03-08
 research:
   - "Op. 95a for alto saxophone and piano, about 18 minutes, three movements (Allegro, Sostenuto, Presto) · https://bertoldhummel.de/en/work/op-95a"

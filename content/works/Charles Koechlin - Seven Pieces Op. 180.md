@@ -16,8 +16,8 @@ duration: "27 minutes 10 seconds"
 streaming:
   - "Seven Pieces, Op. 180: disc 2, tracks 16-22 in Complete Music for Saxophone · https://music.apple.com/us/album/koechlin-complete-music-for-saxophone/652904888"
 purchase:
-  - "Mondelci edition, GB7473 · https://www.prestomusic.com/sheet-music/products/7759128--charles-koechlin-7-pieces-opus-180"
-  - "https://www.billaudot.com/7-eieces-op-180.html"
+  - "Buy from Presto · https://www.prestomusic.com/sheet-music/products/7759128--charles-koechlin-7-pieces-opus-180"
+  - "Buy from Billaudot · https://www.billaudot.com/7-eieces-op-180.html"
 download: []
 added: "2026-10-12"
 research:

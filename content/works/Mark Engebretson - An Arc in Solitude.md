@@ -1,5 +1,5 @@
 ---
-title: "An Arc in Solitude"
+title: An Arc in Solitude
 slug: mark-engebretson-an-arc-in-solitude
 composer:
   - "[[Mark Engebretson]]"
@@ -10,7 +10,8 @@ composed: 1991
 year-of-study: Third Year
 streaming:
 purchase:
-  - "Composer's website · https://markengebretson.weebly.com/"
+  - http://shop.apoll-edition.work/index.php?route=product/product&product_id=184&search=+&limit=75
 added: 2026-10-14
 aliases: []
+multi-instruments: Two alto saxophones
 ---

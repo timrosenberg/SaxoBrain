@@ -10,8 +10,8 @@ composed: 1954
 year-of-study: "Third Year"
 streaming: "https://www.youtube.com/watch?v=gNHQergu50I"
 purchase:
-  - https://www.grothmusic.com/p-147272.aspx
-  - "https://www.ficksmusic.com/products/massias-suite-monodique-billaudot?srsltid=AfmBOoqmOI37uv89hQ66PCbqDVsDBrnBth7mNZ3ZFYCVd4cOUI6asPlG"
+  - "Buy from Groth · https://www.grothmusic.com/p-147272.aspx"
+  - "Buy from Ficks Music · https://www.ficksmusic.com/products/massias-suite-monodique-billaudot?srsltid=AfmBOoqmOI37uv89hQ66PCbqDVsDBrnBth7mNZ3ZFYCVd4cOUI6asPlG"
 added: 2025-04-16
 research:
   - "Publisher Billaudot, catalog MRB1068 · https://www.grothmusic.com/p-147272.aspx"

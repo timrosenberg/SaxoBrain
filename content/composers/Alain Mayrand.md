@@ -1,15 +1,16 @@
 ---
-title: "Alain Mayrand"
+title: Alain Mayrand
 slug: alain-mayrand
 nationality:
-  - "🇨🇦 Canadian"
-gender: 
-race: []
+  - 🇨🇦 Canadian
+gender: Male
+race:
+  - White
 born: 1972
-died: 
+died:
 wikidata: Q131469029
-photo: 
-photo-source: 
+photo:
+photo-source:
 aliases: []
 website: https://alainmayrand.com/
 ---

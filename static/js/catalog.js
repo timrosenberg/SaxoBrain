@@ -103,10 +103,14 @@
   function instLine(w) {
     if (w.i.some(isQuartet)) return w.i.filter(t => t !== "Unaccompanied").join(", ");
     const sax = w.i.filter(t => SAX.includes(t)).map(saxName);
-    const rest = w.i.filter(t => !SAX.includes(t) && t !== "Unaccompanied");
-    let s = sax.length ? fill(T["js-catalog-inst-saxophone"], { list: sax.join(" " + T["js-catalog-inst-or"] + " ") }) : "";
+    const ensemble = sax.length > 0 ? w.i.find(t => t === "Duo" || t === "Trio") : "";
+    const rest = w.i.filter(t => !SAX.includes(t) && t !== "Unaccompanied" && t !== ensemble);
+    const mixedTrio = ensemble === "Trio" && rest.length > 0;
+    const format = ensemble && !mixedTrio ? "js-catalog-inst-" + ensemble.toLowerCase() : "js-catalog-inst-saxophone";
+    let s = sax.length ? fill(T[format], { list: sax.join(" " + T[ensemble ? "js-catalog-inst-and" : "js-catalog-inst-or"] + " ") }) : "";
     if (w.i.includes("Unaccompanied")) s += (s ? ", " : "") + T["js-catalog-inst-unaccompanied"];
     if (rest.length) s += (s ? " " + T["js-catalog-inst-with"] + " " : "") + rest.join(", ").toLowerCase().replace(/\(([a-z]+)\)/g, (m, g) => "(" + g.toUpperCase() + ")");
+    if (mixedTrio) s = fill(T["js-catalog-inst-mixed-trio"], { list: s });
     return s.charAt(0).toUpperCase() + s.slice(1);
   }
 

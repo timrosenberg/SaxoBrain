@@ -10,8 +10,8 @@ composed: 1989
 year-of-study: "Advanced"
 streaming: "https://youtu.be/Vca3-bEbOe0"
 purchase:
-  - "https://www.sheetmusicplus.com/title/sonata-for-soprano-saxophone-and-piano-sheet-music/20748128?aff_id=426309&utm_medium=plg1"
-  - "https://www.all-sheetmusic.com/Wind-Instruments/Saxophone/Sonate-nr-13.html"
+  - "Buy from Sheet Music Plus · https://www.sheetmusicplus.com/title/sonata-for-soprano-saxophone-and-piano-sheet-music/20748128?aff_id=426309&utm_medium=plg1"
+  - "Buy from All Sheet Music · https://www.all-sheetmusic.com/Wind-Instruments/Saxophone/Sonate-nr-13.html"
 want-to-play: true
 added: 2019-08-28
 aliases: []

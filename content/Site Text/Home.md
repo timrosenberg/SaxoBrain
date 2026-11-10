@@ -54,6 +54,10 @@ title: Home page
 | js-catalog-tag-score | Score |
 | js-catalog-show-more | Show more ({count} left) |
 | js-catalog-inst-saxophone | {list} saxophone |
+| js-catalog-inst-duo | {list} Saxophone Duo |
+| js-catalog-inst-trio | {list} Saxophone Trio |
+| js-catalog-inst-mixed-trio | {list} (trio) |
+| js-catalog-inst-and | and |
 | js-catalog-inst-or | or |
 | js-catalog-inst-unaccompanied | unaccompanied |
 | js-catalog-inst-with | with |

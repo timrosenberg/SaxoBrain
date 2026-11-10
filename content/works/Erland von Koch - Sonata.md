@@ -10,8 +10,8 @@ composed: 1985
 year-of-study: "Second Year"
 streaming: "https://www.youtube.com/watch?v=l2obtSUxdyM"
 purchase:
-  - "https://www.grothmusic.com/p-139747.aspx"
-  - "https://www.grothmusic.com/p-139747-sonata-alto-sax-and-piano.aspx"
+  - "Buy from Groth · https://www.grothmusic.com/p-139747.aspx"
+  - "Buy from Groth · https://www.grothmusic.com/p-139747-sonata-alto-sax-and-piano.aspx"
 added: 2024-03-08
 research:
   - "Catalog record: Sonata for alto saxophone and piano, altern. viola, Dorn Publications, 1987; date given as 1985/1987, the latter the viola arrangement · https://discover.musikverket.se/bib/2749695"

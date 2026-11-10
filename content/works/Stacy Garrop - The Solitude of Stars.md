@@ -18,12 +18,12 @@ streaming:
 publisher:
   - "Theodore Presser Company"
 purchase:
-  - "Soprano saxophone and piano · https://www.presser.com/114-42242-the-solitude-of-stars.html"
-  - "Alto saxophone and piano · https://www.presser.com/114-42349-the-solitude-of-stars.html"
-  - "Soprano and tenor saxophones with piano · https://www.presser.com/114-42294-the-solitude-of-stars.html"
-  - "Flute, tenor saxophone, and piano · https://www.presser.com/114-42361-the-solitude-of-stars.html"
-  - "Oboe, tenor saxophone, and piano · https://www.presser.com/114-42467-the-solitude-of-stars.html"
-  - "Soprano saxophone and marimba: composer’s catalog · https://garrop.com/Catalog/ChamberEnsembles/saxophone/"
+  - "Buy from Presser (soprano) · https://www.presser.com/114-42242-the-solitude-of-stars.html"
+  - "Buy from Presser (alto) · https://www.presser.com/114-42349-the-solitude-of-stars.html"
+  - "Buy from Presser (soprano + tenor) · https://www.presser.com/114-42294-the-solitude-of-stars.html"
+  - "Buy from Presser (flute + tenor) · https://www.presser.com/114-42361-the-solitude-of-stars.html"
+  - "Buy from Presser (oboe + tenor) · https://www.presser.com/114-42467-the-solitude-of-stars.html"
+  - "Soprano and marimba version · https://garrop.com/Catalog/ChamberEnsembles/saxophone/"
 added: 2026-10-27
 aliases: []
 multi-instruments: "Soprano or alto saxophone with piano; soprano saxophone with marimba; soprano and tenor saxophones with piano; flute or oboe with tenor saxophone and piano"

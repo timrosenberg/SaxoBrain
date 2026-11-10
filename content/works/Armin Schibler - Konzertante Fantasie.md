@@ -10,8 +10,8 @@ composed:
 year-of-study: "Third Year"
 streaming: 
 purchase:
-  - "https://www.grothmusic.com/p-139885.aspx"
-  - "https://www.bodensee-musikversand.de/product_info.php?products_id=234921"
+  - "Buy from Groth · https://www.grothmusic.com/p-139885.aspx"
+  - "Buy from Bodensee Musikversand · https://www.bodensee-musikversand.de/product_info.php?products_id=234921"
 added: 2024-03-08
 research:
   - "Boosey & Hawkes lists Konzertante Fantasie for alto saxophone and piano · https://www.boosey.com/shop/directory/product/composer/Schibler-Armin/Schibler,%20Armin"

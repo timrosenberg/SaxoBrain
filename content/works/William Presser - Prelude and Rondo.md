@@ -10,8 +10,8 @@ composed:
 year-of-study: 
 streaming: 
 purchase:
-  - "https://www.performersmusicchicago.com/prelude-rondo-presser-cf-494-00004"
-  - "https://www.presser.com/494-00004-prelude-26-rondo.html"
+  - "Buy from Performers Music · https://www.performersmusicchicago.com/prelude-rondo-presser-cf-494-00004"
+  - "Buy from Theodore Presser · https://www.presser.com/494-00004-prelude-26-rondo.html"
 added: 2024-03-08
 research:
   - "Score and parts, 12 pages; alto saxophone (or viola) and piano; Tenuto Publications / Tritone Press, CF:494-00004 · https://www.performersmusicchicago.com/prelude-rondo-presser-cf-494-00004"

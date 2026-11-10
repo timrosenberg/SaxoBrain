@@ -10,10 +10,10 @@ composed: 2011
 year-of-study: "Advanced"
 streaming: 
 purchase:
-  - "https://www.chimesmusic.com/products/aquatic.html"
-  - "https://www.fabermusic.com/shop/aquatic-d29810"
-  - "https://www.fabermusic.com/shop/aquatic-d29811"
-  - "https://www.fabermusic.com/shop/aquatic-d29812"
+  - "Buy from Chimes Music · https://www.chimesmusic.com/products/aquatic.html"
+  - "Buy from Faber Music · https://www.fabermusic.com/shop/aquatic-d29810"
+  - "Buy from Faber Music · https://www.fabermusic.com/shop/aquatic-d29811"
+  - "Buy from Faber Music · https://www.fabermusic.com/shop/aquatic-d29812"
 library-recording:
   - "https://search.alexanderstreet.com/lti/view/work/bibliographic_entity|score|2692420"
 added: 2025-04-21

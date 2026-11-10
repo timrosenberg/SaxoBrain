@@ -17,7 +17,7 @@ streaming:
   - "Orchestra · https://open.spotify.com/track/760mrXD2bur22V4CBa7GqJ?utm_source=openai&utm_medium=chatgpt&go=1&nap_web=1&request_id=a80bbc5a-51e9-43ba-bd38-9bbf848ba15e"
   - "Piano · https://open.spotify.com/track/51xY1JgM9XKMDftfgHJ4Vo?utm_source=openai&utm_medium=chatgpt&go=1&nap_web=1&request_id=a80bbc5a-51e9-43ba-bd38-9bbf848ba15e"
 purchase:
-  - "https://global.oup.com/academic/product/in-the-first-spinning-place-9780193200005"
+  - "Buy from Oxford University Press · https://global.oup.com/academic/product/in-the-first-spinning-place-9780193200005"
   - "Orchestra rental · https://global.oup.com/academic/product/in-the-first-spinning-place-9780193863057"
   - "Band rental · https://global.oup.com/academic/product/in-the-first-spinning-place-9780193409590"
 added: 2026-10-27

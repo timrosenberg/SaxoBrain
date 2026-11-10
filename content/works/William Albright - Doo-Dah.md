@@ -5,6 +5,7 @@ composer:
   - "[[William Albright]]"
 instruments:
   - Alto Saxophone
+  - Trio
 composed: 1975
 year-of-study: Advanced
 streaming: https://youtu.be/Rzv0Vrhcfjo?si=3edXxWlRJNTLoclw

@@ -14,8 +14,8 @@ publisher:
 duration: "approximately 13 minutes"
 streaming: 
 purchase:
-  - https://www.grothmusic.com/p-37789.aspx
-  - "https://www.zen-on.co.jp/en/publishing/cr/composers/works/detail/748/"
+  - "Buy from Groth · https://www.grothmusic.com/p-37789.aspx"
+  - "Buy from Zen-On · https://www.zen-on.co.jp/en/publishing/cr/composers/works/detail/748/"
 added: 2026-10-09
 research:
   - "Publisher Zen-on, catalog no. ZN560025 · https://www.grothmusic.com/p-37789.aspx"

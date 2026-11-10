@@ -14,8 +14,8 @@ publisher:
   - "Zen-On"
 streaming: "https://www.youtube.com/watch?v=ZRZgO_LqVOw"
 purchase:
-  - "https://shop.zen-on.co.jp/downloads/detail/50954600/"
-  - "https://shop.zen-on.co.jp/item/detail/509546/"
+  - "Buy from Zen-On (digital score) · https://shop.zen-on.co.jp/downloads/detail/50954600/"
+  - "Buy from Zen-On (print edition) · https://shop.zen-on.co.jp/item/detail/509546/"
 added: 2026-10-09
 research:
   - "Publisher catalogue lists the 2009 work for alto or tenor saxophone, about 5 minutes · https://www.eamdc.com/audio/presskit/9e75b192-1866-4a02-8b3f-d2233176d17e/"

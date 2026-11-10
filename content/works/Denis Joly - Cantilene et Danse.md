@@ -10,8 +10,8 @@ composed:
 year-of-study: Second Year
 streaming: "https://open.spotify.com/track/2bnxLad3OlZOpyTLLN6pIb"
 purchase:
-  - "https://www.grothmusic.com/p-37917.aspx"
-  - "https://www.halleonard.com/product/48181294/cantilene-et-danse-alto-saxophone-and-piano"
+  - "Buy from Groth · https://www.grothmusic.com/p-37917.aspx"
+  - "Buy from Hal Leonard · https://www.halleonard.com/product/48181294/cantilene-et-danse-alto-saxophone-and-piano"
 added: 2024-03-08
 research:
   - "Publisher Alphonse Leduc, catalog number AL20698 · https://www.grothmusic.com/p-37917.aspx"

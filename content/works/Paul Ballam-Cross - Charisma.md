@@ -11,7 +11,7 @@ composed: 2013
 year-of-study: Second Year
 streaming: 
 purchase:
-  - https://australiancomposers.com.au/products/charisma-alto-saxophone
+  - "Buy from Wirripang (alto edition) · https://australiancomposers.com.au/products/charisma-alto-saxophone"
   - "Tenor edition · https://www.australiancomposers.com.au/products/charisma-tenor-saxophone"
 library-recording:
   - "https://search.alexanderstreet.com/lti/view/work/bibliographic_entity|score|2812885"

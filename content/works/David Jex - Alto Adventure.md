@@ -10,8 +10,8 @@ composed:
 year-of-study: "Third Year"
 streaming: "https://www.youtube.com/watch?v=K1APvNEYTcc"
 purchase:
-  - "https://www.grothmusic.com/p-143738.aspx"
-  - "Alto saxophone and piano · https://wingertjones.com/product/3055131-alto-adventure-jex/"
+  - "Buy from Groth · https://www.grothmusic.com/p-143738.aspx"
+  - "Buy from Wingert-Jones · https://wingertjones.com/product/3055131-alto-adventure-jex/"
 added: 2024-03-08
 research:
   - "Publisher Wingert-Jones, catalog number 3055131 · https://www.grothmusic.com/p-143738.aspx"

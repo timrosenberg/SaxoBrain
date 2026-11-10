@@ -76,6 +76,8 @@ purchase:
   - "Email the composer · mailto:composer@example.org"
   - "https://example.org/score"
   - "Tenor edition · https://example.org/tenor"
+  - "Buy from Groth · https://example.org/groth"
+  - "Buy from Presto (digital score) · https://example.org/presto"
 ---
 ''',
             'recordings/Album.md': '---\ntitle: Album\nslug: album\n---\n',
@@ -174,6 +176,11 @@ A paragraph after the file.
         self.assertIn('href="mailto:composer@example.org" rel="noopener">Email the composer</a>', source)
         self.assertIn('href="https://example.org/score" rel="noopener">Buy the score</a>', source)
         self.assertIn('href="https://example.org/tenor" rel="noopener">Buy the Tenor edition</a>', source)
+
+    def test_retailer_purchase_labels_display_without_an_extra_buy_prefix(self):
+        source = self.pages['works/sample-work/index.html']
+        self.assertIn('href="https://example.org/groth" rel="noopener">Buy from Groth</a>', source)
+        self.assertIn('href="https://example.org/presto" rel="noopener">Buy from Presto (digital score)</a>', source)
 
 class PhotoCaptionMaintenance(unittest.TestCase):
     def test_photo_updates_write_body_credit_and_keep_editorial_caption(self):

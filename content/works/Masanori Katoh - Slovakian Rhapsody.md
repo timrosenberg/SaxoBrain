@@ -13,8 +13,8 @@ publisher:
   - "Zen-On"
 streaming: "https://music.apple.com/us/song/masanori-katoh-slovakian-rapsody-foralto-saxophone/278177902"
 purchase:
-  - "https://shop.zen-on.co.jp/downloads/detail/56002300/"
-  - "https://www.halleonard.com/product/49019439/slovakian-rhapsody"
+  - "Buy from Zen-On (digital score) · https://shop.zen-on.co.jp/downloads/detail/56002300/"
+  - "Buy from Hal Leonard · https://www.halleonard.com/product/49019439/slovakian-rhapsody"
 added: 2026-10-09
 aliases: []
 research:

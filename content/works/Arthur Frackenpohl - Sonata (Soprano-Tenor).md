@@ -11,9 +11,9 @@ composed:
 year-of-study: "Second Year"
 streaming: 
 purchase:
-  - "https://www.grothmusic.com/p-139710.aspx"
-  - "https://www.jwpepper.com/Sonata-Tenor-or-Soprano-Sax-Piano/7932619.item"
-  - "https://www.jwpepper.com/sonata-tenor-or-soprano-sax-piano-7932619/p"
+  - "Buy from Groth · https://www.grothmusic.com/p-139710.aspx"
+  - "Buy from J.W. Pepper · https://www.jwpepper.com/Sonata-Tenor-or-Soprano-Sax-Piano/7932619.item"
+  - "Buy from J.W. Pepper · https://www.jwpepper.com/sonata-tenor-or-soprano-sax-piano-7932619/p"
 added: 2024-03-10
 research:
   - "Publisher and catalog no.: Dorn Publications DORN0141 · https://www.grothmusic.com/p-139710.aspx"

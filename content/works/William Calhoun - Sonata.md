@@ -9,8 +9,8 @@ composed: 1982
 year-of-study: Second Year
 streaming: https://soundcloud.com/billcalhoun/sets/sonata-for-soprano-saxophone-and-piano
 purchase:
-  - https://www.grothmusic.com/p-37405.aspx
-  - https://hickeys.com/music/woodwinds/sax/solos/tenor_with_piano/products/sku073132-calhoun-william-sonata.php
+  - "Buy from Groth · https://www.grothmusic.com/p-37405.aspx"
+  - "Buy from Hickey's · https://hickeys.com/music/woodwinds/sax/solos/tenor_with_piano/products/sku073132-calhoun-william-sonata.php"
 added: 2025-04-18
 research:
   - Soprano saxophone and piano, three movements, about 9.5 minutes; listing describes a conservative chromatic style with mixed and irregular meters in the outer movements; Grade 5 'Early Advanced' per the listing · https://hickeys.com/music/woodwinds/sax/solos/tenor_with_piano/products/sku073132-calhoun-william-sonata.php

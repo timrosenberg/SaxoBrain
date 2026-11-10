@@ -10,8 +10,8 @@ composed: 1968
 year-of-study: "Second Year"
 streaming: "https://www.youtube.com/watch?v=vzud9ozcHFI"
 purchase:
-  - "https://www.grothmusic.com/p-34062.aspx"
-  - "Schott ED5893 printed score or paid PDF · https://schottmusiclondon.com/piece-concertante-noc36087.html"
+  - "Buy from Groth · https://www.grothmusic.com/p-34062.aspx"
+  - "Buy from Schott Music London · https://schottmusiclondon.com/piece-concertante-noc36087.html"
 added: 2024-03-08
 research:
   - "Publisher Schott, catalog no. ED5893 · https://www.grothmusic.com/p-34062.aspx"

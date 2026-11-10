@@ -15,8 +15,8 @@ publisher:
 duration: "approximately 17 minutes"
 streaming: []
 purchase:
-  - "Orchestral version and piano reduction · https://www.ficksmusic.com/collections/saxophone/products/higdon-soprano-sax-concerto-lawdon-1"
-  - "Wind ensemble version, piano reduction · https://www.tfront.com/p-276707-soprano-sax-concerto-for-soprano-saxophone-and-wind-ensemble-piano-reduction"
+  - "Buy from Ficks Music · https://www.ficksmusic.com/collections/saxophone/products/higdon-soprano-sax-concerto-lawdon-1"
+  - "Buy from Theodore Front · https://www.tfront.com/p-276707-soprano-sax-concerto-for-soprano-saxophone-and-wind-ensemble-piano-reduction"
 added: "2026-10-27"
 aliases: []
 multi-instruments: "Soprano saxophone with orchestra or wind ensemble; piano reductions available"

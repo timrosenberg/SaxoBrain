@@ -13,8 +13,8 @@ publisher:
   - "Zen-On"
 streaming: 
 purchase:
-  - "https://shop.zen-on.co.jp/downloads/detail/56001700/"
-  - "https://shop.zen-on.co.jp/item/detail/560017/"
+  - "Buy from Zen-On (digital score) · https://shop.zen-on.co.jp/downloads/detail/56001700/"
+  - "Buy from Zen-On (print edition) · https://shop.zen-on.co.jp/item/detail/560017/"
 added: 2026-10-09
 aliases: []
 research:

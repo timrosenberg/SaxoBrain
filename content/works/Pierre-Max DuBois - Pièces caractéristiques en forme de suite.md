@@ -10,11 +10,11 @@ composed:
 year-of-study: "Third Year"
 streaming: 
 purchase:
-  - "No. 1, À l’espagnole · https://www.sheetmusicplus.com/title/pierre-max-dubois-pieces-caracteristiques-en-forme-de-suite-pour-saxophone-alto-et-pi-sheet-music/20745785?aff_id=426309&utm_medium=plg1"
-  - "No. 1, À l’espagnole · https://www.halleonard.com/product/48182124/pierre-max-dubois-pieces-caracteristiques-en-forme-de-suite-pour-saxophone-alto-et-pi"
-  - "No. 2, À la russe · https://www.ficksmusic.com/products/dubois-a-la-russe-from-pieces-caracteristiques-op-77-leduc"
-  - "No. 3, À la française · https://www.halleonard.com/product/48182126/pieces-caracteristiques-op77-no3-a-la-francaise-alto-saxophone"
-  - "No. 4, À la hongroise · https://www.ficksmusic.com/products/dubois-pieces-caracteristiques-op-77-no-4-a-la-hongroise-leduc"
+  - "Buy from Sheet Music Plus (No. 1) · https://www.sheetmusicplus.com/title/pierre-max-dubois-pieces-caracteristiques-en-forme-de-suite-pour-saxophone-alto-et-pi-sheet-music/20745785?aff_id=426309&utm_medium=plg1"
+  - "Buy from Hal Leonard (No. 1) · https://www.halleonard.com/product/48182124/pierre-max-dubois-pieces-caracteristiques-en-forme-de-suite-pour-saxophone-alto-et-pi"
+  - "Buy from Ficks Music (No. 2) · https://www.ficksmusic.com/products/dubois-a-la-russe-from-pieces-caracteristiques-op-77-leduc"
+  - "Buy from Hal Leonard (No. 3) · https://www.halleonard.com/product/48182126/pieces-caracteristiques-op77-no3-a-la-francaise-alto-saxophone"
+  - "Buy from Ficks Music (No. 4) · https://www.ficksmusic.com/products/dubois-pieces-caracteristiques-op-77-no-4-a-la-hongroise-leduc"
 added: 2019-08-28
 aliases:
   - "/works/pierre-max-dubois-a-l-espagnole/"

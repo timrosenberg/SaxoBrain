@@ -12,8 +12,8 @@ streaming:
   - "Chad Lilley, alto saxophone, with piano; composer-linked recording · https://www.youtube.com/watch?v=_N6naUvmkwM"
   - "Additional recording · https://www.youtube.com/watch?v=_hy_6U5Xeyk"
 purchase:
-  - "https://www.grothmusic.com/p-153014.aspx"
-  - "https://www.presser.com/114-41106-fragmented-spirit.html"
+  - "Buy from Groth · https://www.grothmusic.com/p-153014.aspx"
+  - "Buy from Theodore Presser · https://www.presser.com/114-41106-fragmented-spirit.html"
 added: 2024-02-21
 research:
   - "Composer’s catalog confirms 1998, alto saxophone and piano, and the Chad Lilley recording; checked 2026-10-27 · https://garrop.com/Catalog/ChamberEnsembles/saxophone/"

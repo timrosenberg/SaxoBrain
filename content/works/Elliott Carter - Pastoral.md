@@ -10,8 +10,8 @@ composed: 1940
 year-of-study: "Third Year"
 streaming: "https://www.youtube.com/watch?v=wXuQJv7xIOc"
 purchase:
-  - "https://www.grothmusic.com/p-37610.aspx"
-  - "https://www.ficksmusic.com/products/carter-pastoral-for-alto-saxophone-piano-presser"
+  - "Buy from Groth · https://www.grothmusic.com/p-37610.aspx"
+  - "Buy from Ficks Music · https://www.ficksmusic.com/products/carter-pastoral-for-alto-saxophone-piano-presser"
 added: 2024-02-21
 research:
   - "Publisher Presser, catalog number 14440005D · https://www.grothmusic.com/p-37610.aspx"

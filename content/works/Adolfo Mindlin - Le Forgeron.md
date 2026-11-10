@@ -10,8 +10,8 @@ composed: 1985
 year-of-study: Pre-college
 streaming:
 purchase:
-  - https://www.grothmusic.com/p-148236.aspx
-  - https://www.grothmusic.com/p-148236-le-forgeron-alto-saxophone-and-piano.aspx
+  - "Buy from Groth · https://www.grothmusic.com/p-148236.aspx"
+  - "Buy from Groth · https://www.grothmusic.com/p-148236-le-forgeron-alto-saxophone-and-piano.aspx"
 added: 2024-03-08
 research:
   - "Publisher and catalog no.: Alphonse Leduc AL27036 · https://www.grothmusic.com/p-148236.aspx"

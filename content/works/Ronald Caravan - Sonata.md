@@ -10,8 +10,8 @@ composed: 1984
 year-of-study: "First Year"
 streaming: "https://music.apple.com/us/album/soprano-saxophone-sonata-i-prologue/1182417172?i=1182417661"
 purchase:
-  - "https://www.grothmusic.com/p-37410.aspx"
-  - "https://ethospublications.com/ecc_eps/music-for-saxophone/soprano-saxophone-solos/sonata-for-soprano-saxophone-piano-ronald-l-caravan/"
+  - "Buy from Groth · https://www.grothmusic.com/p-37410.aspx"
+  - "Buy from Ethos Publications · https://ethospublications.com/ecc_eps/music-for-saxophone/soprano-saxophone-solos/sonata-for-soprano-saxophone-piano-ronald-l-caravan/"
 added: 2025-04-18
 research:
   - "Publisher Ethos, catalog no. ET070209 · https://www.grothmusic.com/p-37410.aspx"

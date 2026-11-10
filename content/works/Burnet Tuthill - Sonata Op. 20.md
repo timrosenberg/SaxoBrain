@@ -10,9 +10,9 @@ composed: 1939
 year-of-study: "Second Year"
 streaming: 
 purchase:
-  - "https://www.grothmusic.com/p-38316.aspx"
-  - "https://www.ficksmusic.com/products/tuthill-alto-saxophone-sonata-op-20-southern"
-  - "https://www.halleonard.com/product/3774129/sonata"
+  - "Buy from Groth · https://www.grothmusic.com/p-38316.aspx"
+  - "Buy from Ficks Music · https://www.ficksmusic.com/products/tuthill-alto-saxophone-sonata-op-20-southern"
+  - "Buy from Hal Leonard · https://www.halleonard.com/product/3774129/sonata"
 added: 2024-03-08
 research:
   - "Sheet Music Plus labels the Southern Music edition (SS497) Grade 5 · https://www.sheetmusicplus.com/en/product/sonata-191691.html"

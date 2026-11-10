@@ -13,8 +13,8 @@ composed: 1977
 year-of-study: "Fourth Year"
 streaming: 
 purchase:
-  - "https://www.grothmusic.com/p-38104.aspx"
-  - "https://www.schott-music.com/en/ricercari-notturni-no138077.html"
+  - "Buy from Groth · https://www.grothmusic.com/p-38104.aspx"
+  - "Buy from Schott Music · https://www.schott-music.com/en/ricercari-notturni-no138077.html"
 added: 2024-03-08
 research:
   - "POLMIC lists Ricercari notturni for saxophone or clarinet and orchestra (1977) · https://polmic.pl/en/encyclopedia/subject-entries/s/skrowaczewski-stanislaw-en"

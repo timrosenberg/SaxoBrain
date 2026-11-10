@@ -16,8 +16,8 @@ publisher:
 duration: "approximately 12 minutes"
 streaming: https://soundcloud.com/user-538979524-385415459/jun-nagao-lovers-on-the-celestial-sphere-for-soprano-saxophone-tenor-saxophone-and-piano
 purchase:
-  - https://www.grothmusic.com/p-152235.aspx
-  - "https://shop.zen-on.co.jp/downloads/detail/56001500/"
+  - "Buy from Groth · https://www.grothmusic.com/p-152235.aspx"
+  - "Buy from Zen-On (digital score) · https://shop.zen-on.co.jp/downloads/detail/56001500/"
 added: 2026-10-09
 research:
   - "Zen-on ZN560015; part of the Nobuya Sugawa collection · https://www.grothmusic.com/p-152235.aspx"

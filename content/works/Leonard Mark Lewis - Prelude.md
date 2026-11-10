@@ -10,9 +10,9 @@ composed:
 year-of-study: "Third Year"
 streaming: 
 purchase:
-  - "https://www.grothmusic.com/p-157265.aspx"
-  - "https://www.leonardmarklewis.com/prelude-for-soprano-sax"
-  - "https://www.leonardmarklewis.com/product-page/prelude-for-soprano-saxophone"
+  - "Buy from Groth · https://www.grothmusic.com/p-157265.aspx"
+  - "Buy from Leonard Mark Lewis · https://www.leonardmarklewis.com/prelude-for-soprano-sax"
+  - "Buy from Leonard Mark Lewis · https://www.leonardmarklewis.com/product-page/prelude-for-soprano-saxophone"
 added: 2025-04-16
 research:
   - "Composer's page titles it \"Prelude (for soprano saxophone)\" under Solo/Duo, with no piano mentioned (catalog lists soprano saxophone and piano) · https://www.leonardmarklewis.com/prelude-for-soprano-sax"

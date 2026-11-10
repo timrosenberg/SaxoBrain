@@ -12,11 +12,11 @@ arranger-edition:
   - "J. Michael Leonard"
 streaming: 
 purchase:
-  - https://www.grothmusic.com/p-37997.aspx
-  - https://www.grothmusic.com/p-37995.aspx
-  - https://www.grothmusic.com/p-139285.aspx
-  - https://www.grothmusic.com/p-53448.aspx
-  - "Alain Crépin edition · https://tierolff.nl/en/csardas-3515sa.html"
+  - "Buy from Groth (Lemoine edition) · https://www.grothmusic.com/p-37997.aspx"
+  - "Buy from Groth (Carl Fischer edition) · https://www.grothmusic.com/p-37995.aspx"
+  - "Buy from Groth (Darok edition) · https://www.grothmusic.com/p-139285.aspx"
+  - "Buy from Groth (Uetz edition) · https://www.grothmusic.com/p-53448.aspx"
+  - "Buy from Tierolff · https://tierolff.nl/en/csardas-3515sa.html"
 added: 2024-03-08
 research:
   - "Publisher Lemoine, catalog no. HL25210; alto sax and piano · https://www.grothmusic.com/p-37997.aspx"

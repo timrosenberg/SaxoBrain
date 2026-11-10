@@ -10,8 +10,8 @@ composed:
 year-of-study: "Third Year"
 streaming: "https://www.youtube.com/watch?v=IjPCfMXpY9Y"
 purchase:
-  - "https://www.grothmusic.com/p-37982.aspx"
-  - "https://www.halleonard.com/product/viewproduct.do?itemid=3774461"
+  - "Buy from Groth · https://www.grothmusic.com/p-37982.aspx"
+  - "Buy from Hal Leonard · https://www.halleonard.com/product/viewproduct.do?itemid=3774461"
 added: 2024-03-08
 research:
   - "Publisher Southern, catalog number SS794 · https://www.grothmusic.com/p-37982.aspx"

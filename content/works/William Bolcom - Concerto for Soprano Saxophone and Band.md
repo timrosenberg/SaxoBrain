@@ -16,7 +16,7 @@ multi-instruments: "Soprano saxophone with band or piano reduction"
 streaming:
   - "https://www.youtube.com/watch?v=qDW7wS65KwA"
 purchase:
-  - "Piano reduction · https://www.halleonard.com/product/286409/concerto-for-soprano-saxophone-and-band"
+  - "Buy from Hal Leonard · https://www.halleonard.com/product/286409/concerto-for-soprano-saxophone-and-band"
   - "Rent from Publisher · https://keiserproductions.com/catalog/edward-b-marks/concerto-for-soprano-saxophone-and-band-mr00434/"
 added: 2026-10-28
 aliases: []

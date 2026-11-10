@@ -10,8 +10,8 @@ composed: 2013
 year-of-study: First Year
 streaming: 
 purchase:
-  - "https://www.grothmusic.com/p-38091.aspx"
-  - "https://www.stretta-music.nl/fr/schocker-nightsong-nr-1619614.html"
+  - "Buy from Groth · https://www.grothmusic.com/p-38091.aspx"
+  - "Buy from Stretta Music · https://www.stretta-music.nl/fr/schocker-nightsong-nr-1619614.html"
   - "Theodore Presser, 114-41686 · https://www.presser.com/114-41686-nightsong.html"
 added: 2024-03-08
 research:

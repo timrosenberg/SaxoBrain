@@ -13,8 +13,8 @@ streaming:
   - "Sonata, Op. 17: II. Maestoso · Frank Lunte and Tatjana Blome · https://open.spotify.com/track/4foKvg9dhvW46G6SCb225x?utm_source=openai&utm_medium=chatgpt&go=1&nap_web=1&request_id=0d0f4e1d-21b8-4131-a581-ea886e30b61f"
   - "Sonata, Op. 17: III. Allegro assai · Frank Lunte and Tatjana Blome · https://open.spotify.com/track/2Cris4F0lQIYUlHWEUAXEB?utm_source=openai&utm_medium=chatgpt&go=1&nap_web=1&request_id=0d0f4e1d-21b8-4131-a581-ea886e30b61f"
 purchase:
-  - "https://www.grothmusic.com/p-143741.aspx"
-  - "https://www.sheetmusicplus.com/title/Sonate-op-17/18162692"
+  - "Buy from Groth · https://www.grothmusic.com/p-143741.aspx"
+  - "Buy from Sheet Music Plus · https://www.sheetmusicplus.com/title/Sonate-op-17/18162692"
 added: 2024-03-08
 research:
   - "Recorded by Frank Lunte (alto saxophone) and Tatjana Blome (piano) on the anthology Musik für Saxophon aus Deutschland 1952-1969, about 13:39 · https://www.prestomusic.com/classical/composers/3671--krol"

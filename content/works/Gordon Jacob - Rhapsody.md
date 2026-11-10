@@ -11,9 +11,9 @@ composed: 1948
 year-of-study: "Second Year"
 streaming: 
 purchase:
-  - "https://www.grothmusic.com/p-36413.aspx"
-  - "Alto alternative included, Galaxy 1.5094 piano reduction · https://www.morningstarmusic.com/rhapsody-for-english-horn-strings-piano-score-jacob.html"
-  - "Annotated alto part and paid audio, MMO4115 · https://www.halleonard.com/product/400602/advanced-alto-sax-solos-volume-1"
+  - "Buy from Groth · https://www.grothmusic.com/p-36413.aspx"
+  - "Buy from MorningStar Music · https://www.morningstarmusic.com/rhapsody-for-english-horn-strings-piano-score-jacob.html"
+  - "Buy from Hal Leonard · https://www.halleonard.com/product/400602/advanced-alto-sax-solos-volume-1"
 added: 2024-03-08
 research:
   - "Publisher ECS Publishing, catalog ECS15094; English horn (or alto saxophone) solo with piano reduction of strings; duration ca. 9 minutes · https://www.grothmusic.com/p-36413.aspx"

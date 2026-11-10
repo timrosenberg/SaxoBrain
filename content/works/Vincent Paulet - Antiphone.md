@@ -10,8 +10,8 @@ composed: 2010
 year-of-study: "Fourth Year"
 streaming: 
 purchase:
-  - "https://www.grothmusic.com/p-38028.aspx"
-  - "https://www.lmi-partitions.com/produit/antiphone/"
+  - "Buy from Groth · https://www.grothmusic.com/p-38028.aspx"
+  - "Buy from LMI Partitions · https://www.lmi-partitions.com/produit/antiphone/"
 added: 2024-03-08
 research:
   - "Publisher Alphonse Leduc, catalog no. AL30537; described as a challenging, exciting addition to the repertoire for all advanced saxophonists, with multiphonics, flutter tonguing and slap notes; typical performance about 4:15 · https://www.grothmusic.com/p-38028.aspx"

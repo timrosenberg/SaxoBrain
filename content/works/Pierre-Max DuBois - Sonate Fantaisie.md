@@ -10,8 +10,8 @@ composed: 1979
 year-of-study: "Second Year"
 streaming: 
 purchase:
-  - "https://www.grothmusic.com/p-142878.aspx"
-  - "https://www.billaudot.com/sonate-fantaisie-3.html"
+  - "Buy from Groth · https://www.grothmusic.com/p-142878.aspx"
+  - "Buy from Billaudot · https://www.billaudot.com/sonate-fantaisie-3.html"
 added: 2024-03-08
 research:
   - "Three movements: I. Ave souplesse et lyrisme, II. Incantatoire, III. Serenade; dedicated 'For George Gourdet'; publisher Billaudot, catalog no. GB3038 · https://www.grothmusic.com/p-142878.aspx"

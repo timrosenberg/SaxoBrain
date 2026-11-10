@@ -14,10 +14,10 @@ publisher:
 duration: "approximately 13 minutes"
 streaming: https://www.youtube.com/watch?v=qksjV6D5LX0
 purchase:
-  - https://www.grothmusic.com/p-149723.aspx
-  - https://boosey.com/shop/prod/Yabuta-Shoichi-Delos-Alto-Saxophone/2532968
-  - "https://www.sheetmusicplus.com/en/product/delos-22438989.html"
-  - "https://shop.zen-on.co.jp/downloads/detail/56003000/"
+  - "Buy from Groth · https://www.grothmusic.com/p-149723.aspx"
+  - "Buy from Boosey & Hawkes · https://boosey.com/shop/prod/Yabuta-Shoichi-Delos-Alto-Saxophone/2532968"
+  - "Buy from Sheet Music Plus · https://www.sheetmusicplus.com/en/product/delos-22438989.html"
+  - "Buy from Zen-On (digital score) · https://shop.zen-on.co.jp/downloads/detail/56003000/"
 added: 2026-10-09
 research:
   - "Seven short contrasting movements; includes a solo piano slow movement (II), a saxophone-only movement (V) and a rhythmical movement (VI); movement I has saxophone II-V progressions over Bach-like piano figurations · https://www.eamdc.com/news/zen-on-releases-two-new-publications-of-music-by-shoichi-yabuta-and-jun-nagao/"

@@ -10,8 +10,8 @@ composed:
 year-of-study: "First Year"
 streaming: 
 purchase:
-  - "https://www.grothmusic.com/p-37934.aspx"
-  - "https://www.billaudot.com/euskaldunak-3.html"
+  - "Buy from Groth · https://www.grothmusic.com/p-37934.aspx"
+  - "Buy from Billaudot · https://www.billaudot.com/euskaldunak-3.html"
 added: 2024-03-08
 research:
   - "Publisher Billaudot, catalog no. MRB1109 · https://www.grothmusic.com/p-37934.aspx"

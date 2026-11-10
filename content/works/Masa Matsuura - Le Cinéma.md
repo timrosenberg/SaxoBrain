@@ -16,8 +16,8 @@ publisher:
 duration: "approximately 9 minutes"
 streaming: "https://www.youtube.com/watch?v=9FJ_8mlSY-c"
 purchase:
-  - "https://shop.zen-on.co.jp/downloads/detail/56003600/"
-  - "https://shop.zen-on.co.jp/item/detail/560036/"
+  - "Buy from Zen-On (digital score) · https://shop.zen-on.co.jp/downloads/detail/56003600/"
+  - "Buy from Zen-On (print edition) · https://shop.zen-on.co.jp/item/detail/560036/"
 added: 2026-10-09
 aliases: []
 multi-instruments: "Alto saxophone, tenor saxophone and piano (three players)"

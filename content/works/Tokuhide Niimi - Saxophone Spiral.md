@@ -15,9 +15,9 @@ publisher:
 duration: "approximately 13 minutes 30 seconds"
 streaming: "https://www.youtube.com/watch?v=Ll46ZMJFki8"
 purchase:
-  - "https://www.grothmusic.com/p-139936.aspx"
-  - "https://shop.zen-on.co.jp/downloads/detail/56002100/"
-  - "https://shop.zen-on.co.jp/item/detail/560021/"
+  - "Buy from Groth · https://www.grothmusic.com/p-139936.aspx"
+  - "Buy from Zen-On (digital score) · https://shop.zen-on.co.jp/downloads/detail/56002100/"
+  - "Buy from Zen-On (print edition) · https://shop.zen-on.co.jp/item/detail/560021/"
 added: 2026-10-09
 research:
   - "Publisher Zen-on, catalog no. ZN560021; alto saxophone duet; movements I. torrent, II. agony; duration 13:30; described as whirling spiral motives inspired by sadness, grief, anger, disapproval and feelings of powerlessness · https://www.grothmusic.com/p-139936.aspx"

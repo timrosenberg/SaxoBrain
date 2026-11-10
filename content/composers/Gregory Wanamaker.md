@@ -1,16 +1,16 @@
 ---
-title: "Gregory Wanamaker"
+title: Gregory Wanamaker
 slug: gregory-wanamaker
 nationality:
-  - "🇺🇸 American"
-gender: "Male"
+  - 🇺🇸 American
+gender: Male
 race:
-  - "White"
+  - White
 born: 1968
-died: 
+died:
 wikidata: Q48976238
-photo: 
-photo-source: 
+photo:
+photo-source: https://open.spotify.com/artist/2NDwZacBk4t6n2s8JDzLSm
 aliases: []
 ---
 

@@ -10,8 +10,8 @@ composed:
 year-of-study: "First Year"
 streaming: 
 purchase:
-  - "https://www.grothmusic.com/p-63657.aspx"
-  - "https://www.halleonard.com/product/48182002/printemps-saxophone-alto-piano"
+  - "Buy from Groth · https://www.grothmusic.com/p-63657.aspx"
+  - "Buy from Hal Leonard · https://www.halleonard.com/product/48182002/printemps-saxophone-alto-piano"
 added: 2024-03-08
 research:
   - "Publisher Alphonse Leduc, catalog no. AL22799 · https://www.grothmusic.com/p-63657.aspx"
