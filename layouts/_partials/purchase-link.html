@@ -3,4 +3,5 @@
        Returns dict "label" "url"; label is empty for a plain link. */ -}}
 {{- $label := "" -}}{{- $url := trim . " " -}}
 {{- with findRESubmatch `^(.+?)\s+·\s+(\S+)$` $url 1 }}{{ $label = index (index . 0) 1 }}{{ $url = index (index . 0) 2 }}{{ end -}}
+{{- if and (hasPrefix $url "/") (not (hasPrefix $url "//")) }}{{ $url = relURL (strings.TrimPrefix "/" $url) }}{{ end -}}
 {{- return dict "label" $label "url" $url -}}

@@ -1,28 +1,82 @@
 name: Publish site
+run-name: ${{ github.event_name == 'pull_request' && format('Validate {0}', github.sha) || format('Publish {0}', github.sha) }}
 
 on:
   push:
+    branches: [main]
+  pull_request:
     branches: [main]
   workflow_dispatch:
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
 
 concurrency:
-  group: pages
+  group: saxobrain-${{ github.event_name == 'pull_request' && github.ref || 'production' }}
   cancel-in-progress: false
 
 env:
   HUGO_VERSION: 0.167.0
 
 jobs:
-  build:
+  validate:
+    name: Validate site
     runs-on: ubuntu-latest
+    timeout-minutes: 25
+    permissions:
+      contents: read
+      actions: read
+      pull-requests: read
+      issues: read
+      pages: read
+    outputs:
+      base-url: ${{ steps.pages.outputs.base_url }}
     steps:
-      - name: Get the files
+      - name: Reject feature-branch production dispatch
+        if: github.event_name == 'workflow_dispatch' && github.ref != 'refs/heads/main'
+        run: echo 'Production dispatch must use main.' && exit 1
+
+      - name: Check out the candidate
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -r scripts/requirements.txt
+
+      - name: Select the last healthy baseline
+        env:
+          GH_TOKEN: ${{ github.token }}
+          HEAD: ${{ github.sha }}
+        run: |
+          python scripts/publishing_policy.py --root . --head "$HEAD" --baseline-only \
+            --bootstrap .github/publishing-bootstrap.json --output "$RUNNER_TEMP/baseline-sha"
+
+      - name: Verify the structural PR record
+        if: github.event_name == 'pull_request'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          BASE: ${{ github.event.pull_request.base.sha }}
+          HEAD: ${{ github.sha }}
+          PR: ${{ github.event.pull_request.number }}
+        run: python scripts/publishing_policy.py --root . --base "$BASE" --head "$HEAD" --pr "$PR"
+
+      - name: Verify all unpublished history
+        if: github.event_name != 'pull_request'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REVISION: ${{ github.sha }}
+        run: |
+          python scripts/publishing_policy.py --root . --head "$REVISION" \
+            --bootstrap .github/publishing-bootstrap.json
+
+      - name: Export the healthy previous source
+        run: |
+          mkdir -p "$RUNNER_TEMP/baseline"
+          git archive "$(cat "$RUNNER_TEMP/baseline-sha")" | tar -x -C "$RUNNER_TEMP/baseline"
 
       - name: Install Hugo
         run: |
@@ -33,27 +87,66 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
 
-      - name: Build the site (stops on broken composer links)
-        run: hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
-
-      - name: Check that no existing address disappears
+      - name: Validate data, regressions, addresses and rendered output
+        env:
+          REVISION: ${{ github.sha }}
+          BASE_URL: ${{ steps.pages.outputs.base_url }}
         run: |
-          python3 scripts/check_addresses.py public/addresses.txt "${{ steps.pages.outputs.base_url }}/" \
-            "${{ steps.pages.outputs.base_url }}/addresses.txt" \
-            "https://timrosenberg.github.io/SaxoBrain/addresses.txt"
+          python scripts/run_validation.py --source . --baseline "$RUNNER_TEMP/baseline" \
+            --output "$RUNNER_TEMP/site" --base-url "${BASE_URL%/}/" --revision "$REVISION" \
+            --allow-contract-changes --live-addresses "${BASE_URL%/}/addresses.txt"
 
-      - name: Package the site
+      - name: Save the preview and smoke-check artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: verified-site
+          path: ${{ runner.temp }}/site
+          retention-days: 30
+
+      - name: Package the tested site
+        if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./public
+          path: ${{ runner.temp }}/site
 
   deploy:
-    needs: build
+    needs: [validate]
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: read
+      actions: read
+      pages: write
+      id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      - name: Check out the tested smoke-check script
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.sha }}
+          persist-credentials: false
+      - uses: actions/download-artifact@v4
+        with:
+          name: verified-site
+          path: verified-site
+      - name: Refuse a stale production revision
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPOSITORY: ${{ github.repository }}
+          REVISION: ${{ github.sha }}
+        run: test "$(gh api "repos/$REPOSITORY/branches/main" --jq .commit.sha)" = "$REVISION"
       - name: Publish to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+      - name: Check production matches the tested artifact
+        env:
+          BASE_URL: ${{ needs.validate.outputs.base-url }}
+          REVISION: ${{ github.sha }}
+        run: python3 scripts/smoke_site.py "$BASE_URL" verified-site "$REVISION"
+      - name: Record the healthy release
+        env:
+          REVISION: ${{ github.sha }}
+        run: echo "Healthy production revision $REVISION. This successful publishing run is the next baseline." >> "$GITHUB_STEP_SUMMARY"

@@ -61,7 +61,9 @@ The saxophone is open at the far end or bell. But it is (almost) closed at the o
 
 For the purposes of this simple introduction to saxophone acoustics, we shall now make some serious approximations. First, we shall pretend that it is a simple conical pipe – in other words we shall assume that all holes are closed (down to a certain point, at least), that the bore is conical, and that the mouthpiece end is completely closed. This is a crude approximation, but it preserves much of the essential physics, and it is easier to discuss. Of course, the saxophone doesn't come to a sharp point: it has a mouthpiece. The mouthpiece is shorter and fatter than the cone it replaces, and it has approximately the same volume.
 
-![At left is a schematic of a soprano saxophone, an idealized conical bore, and a truncated cone. At the right is a photo of a Yamaha soprano saxophone. The larger saxophones are bent to bring the keys within comfortable reach of the hands. The bends make only modest differences to the sound, so we shall picture straight saxophones in the diagrams here. This link shows [modern Yamaha soprano and tenor saxes, with a meter rule](http://www.phys.unsw.edu.au/jw/photos/soptenor.jpg). This link shows [three experienced saxophones (sop, alto, and tenor)](http://www.phys.unsw.edu.au/jw/graphics/3saxes.jpg) from the author's collection.](Introduction%20to%20Saxophone%20Acoustics/image%201.gif)
+![Schematic of a soprano saxophone and equivalent conical bores.](/media/reading/introduction-to-saxophone-acoustics/saxophoneequals.gif)
+
+![Yamaha soprano saxophone.](/media/reading/introduction-to-saxophone-acoustics/saxsmall.jpg)
 
 At left is a schematic of a soprano saxophone, an idealized conical bore, and a truncated cone. At the right is a photo of a Yamaha soprano saxophone. The larger saxophones are bent to bring the keys within comfortable reach of the hands. The bends make only modest differences to the sound, so we shall picture straight saxophones in the diagrams here. This link shows [modern Yamaha soprano and tenor saxes, with a meter rule](http://www.phys.unsw.edu.au/jw/photos/soptenor.jpg). This link shows [three experienced saxophones (sop, alto, and tenor)](http://www.phys.unsw.edu.au/jw/graphics/3saxes.jpg) from the author's collection.
 
@@ -171,8 +173,7 @@ For frequencies above about several hundred hertz, the resonances become weaker 
 
 The bell 'helps' the sound waves in the bore to radiate out into the air. (Incidentally, the presence of a large, effective bell is what makes brass instruments loud: try playing a trombone with the tuning slide taken off.) More sound radiated means less sound reflected, so the [standing waves](http://www.phys.unsw.edu.au/jw/strings.html) are weaker. However, this effect is only strong for high frequency: as the frequency increases over this range, the resonances are more weakened by the bell at high frequency than at low. This is because the bell is much smaller than the wavelengths of the low-frequency waves, and so is less effective at radiating these waves. The bell cuts in at 1.8 kHz for the tenor and 2.6 kHz for the soprano. Above these frequencies, the instruments have hardly any resonances – but they do behave as good megaphones!
 
-![This figure shows the effect of the bell on the [acoustic impedance spectrum](http://www.phys.unsw.edu.au/jw/z.html)
- of A#3 on a soprano sax. For the dotted curve, the bell was replaced by a cone having the same length. For more detail, see the [paper by Chen, Smith, and Wolfe](http://www.phys.unsw.edu.au/jw/reprints/ChenetalAA.pdf).](Introduction%20to%20Saxophone%20Acoustics/image%202.gif)
+![Effect of the bell on the acoustic impedance spectrum of a soprano saxophone.](/media/reading/introduction-to-saxophone-acoustics/effectofbell.gif)
 
 This figure shows the effect of the bell on the [acoustic impedance spectrum](http://www.phys.unsw.edu.au/jw/z.html)
  of A#3 on a soprano sax. For the dotted curve, the bell was replaced by a cone having the same length. For more detail, see the [paper by Chen, Smith, and Wolfe](http://www.phys.unsw.edu.au/jw/reprints/ChenetalAA.pdf).

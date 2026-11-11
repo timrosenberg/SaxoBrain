@@ -4,7 +4,9 @@ Repertoire, curriculum and reading for saxophonists, built and maintained by Tim
 
 ## How it works
 
-The `content/` folder holds everything on the site, one Markdown file per page. Open `content/` in Obsidian as its own vault. Every change you send to GitHub rebuilds the site on GitHub Pages within a couple of minutes.
+The `content/` folder holds everything on the site, one Markdown file per page. Routine content updates can go directly to `main`. Validation and a full build must pass before the publishing workflow updates GitHub Pages. If validation fails, the previous live site remains available.
+
+Structural changes require a complete issue, isolated worktree and branch, testing, and a pull request. See [Publishing](docs/publishing.md) for both paths, validation commands, activation, and recovery.
 
 | Folder | What's in it |
 |---|---|
