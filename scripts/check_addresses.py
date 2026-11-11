@@ -49,10 +49,18 @@ def main(new_path, new_base, live_urls):
         problems.append(f"Two pages claim the same address: {a}")
 
     live = set()
+    baselines = 0
     for live_url in live_urls:
         try:
             with urllib.request.urlopen(live_url, timeout=60) as r:
-                live |= set(strip_prefix(read_lines(r.read().decode("utf-8")), base_prefix(live_url)))
+                addresses = read_lines(r.read().decode("utf-8"))
+                if addresses:
+                    prefix = base_prefix(live_url)
+                    if urllib.parse.urlparse(live_url).scheme == 'file':
+                        # The offline baseline is built with the same base URL.
+                        prefix = base_prefix(new_base.rstrip('/') + '/addresses.txt')
+                    live |= set(strip_prefix(addresses, prefix))
+                    baselines += 1
         except urllib.error.HTTPError as e:
             if e.code != 404:
                 raise
@@ -60,6 +68,10 @@ def main(new_path, new_base, live_urls):
         except urllib.error.URLError as e:
             # a new custom domain does not resolve until its DNS is set up
             print(f"Could not reach {live_url} ({e.reason}). Skipping it.")
+
+    if not baselines:
+        print('No trusted address baseline could be read. Publish stopped.')
+        sys.exit(1)
 
     retired_path = Path(__file__).resolve().with_name("retired-addresses.json")
     retired = set(read_lines("\n".join(json.loads(retired_path.read_text(encoding="utf-8"))["addresses"])))

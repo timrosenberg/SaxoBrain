@@ -6,7 +6,7 @@
 <article class="composer">
 <div class="composer-head">
 {{ with .Params.photo }}<figure class="portrait">
-<img src="{{ . | relURL }}" alt="{{ $.Title }}" width="160" height="200">
+<img src="{{ relURL (strings.TrimPrefix "/" .) }}" alt="{{ $.Title }}" width="160" height="200">
 {{ with $body.content }}<figcaption>{{ . | safeHTML }}</figcaption>{{ end }}
 </figure>{{ end }}
 <div>

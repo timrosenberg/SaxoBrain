@@ -72,6 +72,7 @@ title: Sample Work
 slug: sample-work
 year-of-study: First Year
 instruments: [Alto Saxophone]
+download: [/media/example.pdf]
 purchase:
   - "Email the composer · mailto:composer@example.org"
   - "https://example.org/score"
@@ -129,6 +130,10 @@ A paragraph after the file.
         self.assertIn('/SaxoBrain/curriculum/', source)
         self.assertIn('https://example.org/source', source)
         self.assertNotIn('Follow the curriculum', source)
+
+    def test_photo_and_local_download_keep_the_project_base_path(self):
+        self.assertIn('src="/SaxoBrain/media/example.jpg"', self.pages['composers/example/index.html'])
+        self.assertIn('href="/SaxoBrain/media/example.pdf"', self.pages['works/sample-work/index.html'])
 
     def test_curriculum_explanations_follow_overview_body(self):
         source = self.pages['curriculum/index.html']

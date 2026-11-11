@@ -17,6 +17,26 @@ RETIRED = [
 
 
 class AddressGuard(unittest.TestCase):
+    def test_local_baseline_uses_the_same_hosting_prefix_as_the_new_build(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            old, new = Path(tmp) / 'old.txt', Path(tmp) / 'new.txt'
+            old.write_text('/SaxoBrain/\n/SaxoBrain/works/piece/\n')
+            new.write_text(old.read_text())
+            result = subprocess.run(['python3', str(ROOT / 'scripts/check_addresses.py'), str(new),
+                                     'https://example.org/SaxoBrain/', old.as_uri()],
+                                    capture_output=True, text=True)
+            self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+
+    def test_unreachable_address_sources_cannot_silently_disable_protection(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            path = Path(tmp) / 'new.txt'
+            path.write_text('/\n')
+            result = subprocess.run(['python3', str(ROOT / 'scripts/check_addresses.py'), str(path),
+                                     'https://example.org/', 'http://127.0.0.1:1/addresses.txt'],
+                                    capture_output=True, text=True)
+            self.assertNotEqual(result.returncode, 0)
+            self.assertIn('No trusted address baseline', result.stdout)
+
     def check_addresses(self, new, old):
         with tempfile.TemporaryDirectory() as tmp:
             new_path = Path(tmp) / 'new.txt'
