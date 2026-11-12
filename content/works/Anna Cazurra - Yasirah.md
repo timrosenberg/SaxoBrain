@@ -1,19 +1,19 @@
 ---
-title: "Yasirah"
+title: Yasirah
 slug: anna-cazurra-yasirah
 composer:
   - "[[Anna Cazurra]]"
 instruments:
-  - "Soprano Saxophone"
+  - Soprano Saxophone
+  - Piano
 composed: 2003
-year-of-study: "Second Year"
-streaming: 
+year-of-study: Second Year
+streaming:
 purchase:
-  - "Buy from Groth · https://www.grothmusic.com/p-143319.aspx"
-  - "Buy from Brotons & Mercadal · https://brotonsmercadal.com/producte/yasirah-cazurra-2/"
+  - https://www.grothmusic.com/p-143319.aspx
 added: 2025-04-18
 research:
-  - "Duration 12 minutes; publisher Brotons & Mercadal; soprano saxophone and piano; 21 pages of score · https://brotonsmercadal.com/producte/yasirah-cazurra-2/"
+  - Duration 12 minutes; publisher Brotons & Mercadal; soprano saxophone and piano; 21 pages of score · https://brotonsmercadal.com/producte/yasirah-cazurra-2/
   - "Program note: single movement built on four themes, sensual opening to lyrical central section with rhythmic emphasis; harmony layers two scales with augmented seconds · https://brotonsmercadal.com/producte/yasirah-cazurra-2/"
 aliases: []
 ---
