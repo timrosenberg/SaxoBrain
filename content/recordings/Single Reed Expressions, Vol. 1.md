@@ -10,6 +10,29 @@ works:
   - "[[Jules Demersseman - Fantaisie-Pastorale]]"
   - "[[Ronald Caravan - Quiet Time]]"
   - "[[Lawson Lunde - Alpine Sonata, Op. 37]]"
+  - "[[Sergei Rachmaninoff - Vocalise]]"
+  - "[[Walter Hartley - Diversions]]"
+  - "[[Warren Benson - Concertino - III. Aeolian Song]]"
+  - "[[Walter Hartley - Duo]]"
+  - "[[Ronald Caravan - Sketch for Alto Saxophone]]"
+  - "[[Paul Creston - Sonata]]"
+  - "[[Erwin Dressel - Partita]]"
+  - "[[Walter Hartley - Petite Suite]]"
+  - "[[Ronald Caravan - Sonata]]"
+  - "[[Jules Massenet - Meditation de Thaïs]]"
+  - "[[Erland von Koch - Sonata]]"
+  - "[[Jeanine Rueff - Chanson et Passepied]]"
+  - "[[Paule Maurice - Tableaux de Provence]]"
+  - "[[Robert Muczynski - Sonata]]"
+  - "[[Ronald Caravan - Monologue]]"
+  - "[[Denis Bédard - Fantasie]]"
+  - "[[Ronald Caravan - Improvisation (Tenor)]]"
+  - "[[Bernhard Heiden - Solo]]"
+  - "[[Samuel Adler - Canto IV]]"
+  - "[[John C. Worley - Sonata]]"
+  - "[[Lex van Delden - Sonatina]]"
+  - "[[Eugène Bozza - Aria]]"
+  - "[[Bernhard Heiden - Sonata]]"
 youtube: "https://www.youtube.com/playlist?list=OLAK5uy_lapJ9QSuMTckMrMmgqJnVhM2K6-2EX0qM"
 spotify: 
 apple-music: "https://music.apple.com/us/album/1184988896"
@@ -182,3 +205,6 @@ cover: "/media/recordings/single-reed-expressions-vol-1/cover.jpg"
 - Single Reed Expressions, Vol. 8: https://www.youtube.com/playlist?list=OLAK5uy_kJNe1LnYB8qrVgGtsYMy85Pxm8ziO0BEY
 
 - Track-list follow-up: Volumes 2–6 now include the complete official YouTube playlist order and timings, with composer credits checked against the series review. The Volume 6 suite has inconsistent work/opus metadata across Apple and the review; the YouTube track titles are retained without assigning a new catalog identity.
+
+- Catalog crosslinks: 29 matching saxophone works across all eight volumes are listed in album order. The existing Aeolian Song entry uses III in its title while the album labels the movement II; the work identity matches. Clarinet performances of Schumann and Brahms are not linked to the catalog saxophone transcriptions. Sonorities IX is not linked to Sonorities VII; Everett Gates’s Incantation and Ritual is not linked to Dana Wilson’s different work.
+- Improvisation (Romani) matches the existing tenor-labeled entry: the publisher explicitly allows tenor, soprano or alto saxophone and identifies Caravan’s soprano recording on Volume 6. Source: https://ethospublications.com/ecc_eps/music-for-saxophone/tenor-saxophone-solos/ronald-l-caravan-improvisation-romani-saxophone-solo/.
