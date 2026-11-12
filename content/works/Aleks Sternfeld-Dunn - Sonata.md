@@ -1,24 +1,23 @@
 ---
-title: "Sonata"
+title: Sonata
 slug: aleks-sternfeld-dunn-sonata
 composer:
   - "[[Aleks Sternfeld-Dunn]]"
 instruments:
-  - "Alto Saxophone"
-  - "Piano"
+  - Alto Saxophone
+  - Piano
 composed: 2005
 year-of-study: Second Year
-streaming: 
+streaming:
 purchase:
-  - "Order from Composer · https://www.aleksandersternfelddunn.com/contact"
+  - https://www.aleksandersternfelddunn.com/contact
 added: 2024-03-08
 aliases: []
 download:
-  - "https://www.aleksandersternfelddunn.com/s/Sonata-for-Alto-Saxophone.pdf"
 research:
-  - "Title, forces, 2005 and preview · https://www.aleksandersternfelddunn.com/sonata-for-saxophone"
-  - "Composition year 2005 and instrumentation · https://www.aleksandersternfelddunn.com/s/Sonata-for-Alto-Saxophone.pdf"
-  - "Award for sonata in 2005 · https://www.navonarecords.com/artists/aleksander-sternfeld-dunn/"
+  - Title, forces, 2005 and preview · https://www.aleksandersternfelddunn.com/sonata-for-saxophone
+  - Composition year 2005 and instrumentation · https://www.aleksandersternfelddunn.com/s/Sonata-for-Alto-Saxophone.pdf
+  - Award for sonata in 2005 · https://www.navonarecords.com/artists/aleksander-sternfeld-dunn/
 ---
 
 
