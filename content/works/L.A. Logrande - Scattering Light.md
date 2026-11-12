@@ -1,21 +1,22 @@
 ---
-title: "Scattering Light"
+title: Scattering Light
 slug: l-a-logrande-scattering-light
 composer:
   - "[[L.A. Logrande]]"
 instruments:
-  - "Soprano Saxophone"
-  - "Piano"
+  - Soprano Saxophone
+  - Piano
 composed: 2015
 year-of-study: Fourth Year
-streaming: "https://www.youtube.com/watch?v=LCAeEbxewXU"
-purchase: []
+streaming: https://www.youtube.com/watch?v=LCAeEbxewXU
+purchase:
+  - Email the composer · mailto:lalograndecomposr@gmail.com
 added: 2024-02-21
 aliases: []
 research:
-  - "2015, date, duration, scoring and exact existing audio link association · https://www.noaevenmusic.com/saxandpiano"
-  - "Andy Wen world premiere at 2015 Strasbourg congress · https://www.music.org/pdf/conf/reg/ma/2017schedule.pdf"
-  - "2019 performance by Durst and Pruett · https://www.music.org/pdf/conf/reg/gl/2019schedule.pdf"
+  - 2015, date, duration, scoring and exact existing audio link association · https://www.noaevenmusic.com/saxandpiano
+  - Andy Wen world premiere at 2015 Strasbourg congress · https://www.music.org/pdf/conf/reg/ma/2017schedule.pdf
+  - 2019 performance by Durst and Pruett · https://www.music.org/pdf/conf/reg/gl/2019schedule.pdf
 duration: approximately 7 minutes 45 seconds
 ---
 
