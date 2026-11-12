@@ -52,3 +52,13 @@
 - Final browser check: six YouTube and two Spotify album iframes, in volume order; 19 Volume 1 track buttons with keyboard activation; no horizontal overflow at 390px; no page JavaScript exceptions.
 - Final preview: http://127.0.0.1:8875/recordings/single-reed-expressions-vol-1/. Rendered artifact: `/tmp/saxrep-single-reed-players-spotify-preview`. Screenshots: `/tmp/single-reed-final-desktop.png`, `/tmp/single-reed-final-mobile.png`, `/tmp/single-reed-final-mobile-vol8.png`.
 - Unrelated everyday-vault changes remain untouched. Tim authorized committing, pushing and opening this PR on 2026-11-12. No merge or production deployment was authorized.
+
+## Track-list follow-up
+
+Tim requested complete track lists for Volumes 2–6 after inspecting the preview. The recording callout now accepts a body list using the existing track title, duration and credit format. It reuses the existing track renderer and pairs each list with its own YouTube iframe. The JavaScript initializes every pair independently and loads the shared API once.
+
+- Official playlist rows supply track order and timings; composer credits were checked against the series review. The Volume 6 suite's inconsistent opus/work metadata remains source wording without a new catalog identity.
+- New rendered and JavaScript tests failed before implementation and passed afterward. They verify separate player/list pairs, reset playlist indexes, queued clicks, independent highlights, existing API readiness and duplicate script protection.
+- The full suite passed 109 tests; content, Hugo build, generated-site and address checks passed. All 2,787 addresses remain preserved.
+- An independent review found no actionable bugs.
+- The existing preview URL is being refreshed with six track lists containing 19, 15, 20, 13, 20 and 21 tracks. Volumes 7–8 retain Spotify's built-in track lists.
