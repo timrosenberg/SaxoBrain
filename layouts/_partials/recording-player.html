@@ -6,6 +6,12 @@
 <div class="audio"><audio controls preload="none" src="{{ $url }}" aria-label="{{ $title }}"><a href="{{ $url }}" rel="noopener">{{ partial "t.html" "piece-open-recording" }}</a></audio></div>
 {{ end }}
 {{ $src := "" }}
+{{ $playlist := findRESubmatch `^https?://(?:www\.|m\.|music\.)?youtube\.com/playlist\?(?:[^#]*&)?list=([A-Za-z0-9_-]+)(?:[&#]|$)` $url 1 }}
+{{ $tracks := .link.tracks | default slice }}
+{{ if $playlist }}
+{{ $src = printf "https://www.youtube-nocookie.com/embed/videoseries?list=%s" (index (index $playlist 0) 1) }}
+{{ if $tracks }}{{ $src = printf "%s&enablejsapi=1" $src }}{{ end }}
+{{ else }}
 {{ with findRESubmatch `^https?://(?:www\.|m\.)?youtube\.com/watch_videos\?(?:[^#]*&)?video_ids=([A-Za-z0-9_-]{11}(?:,[A-Za-z0-9_-]{11})*)(?:[&#]|$)` $url 1 }}
 {{ $ids := split (index (index . 0) 1) "," }}
 {{ $src = printf "https://www.youtube-nocookie.com/embed/%s" (index $ids 0) }}
@@ -16,11 +22,14 @@
 {{ with findRESubmatch `[?&]t=(\d+)` $url 1 }}{{ $src = printf "%s?start=%s" $src (index (index . 0) 1) }}{{ end }}
 {{ end }}
 {{ end }}
+{{ end }}
 {{ with findRESubmatch `^https?://(?:www\.)?vimeo\.com/([0-9]+)(?:[/?#]|$)` $url 1 }}
 {{ $src = printf "https://player.vimeo.com/video/%s" (index (index . 0) 1) }}
 {{ end }}
 {{ with $src }}
-<div class="video"><iframe src="{{ $src }}" title="{{ $title }}" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+{{ if and $playlist $tracks }}<div class="player">{{ end }}
+<div class="video{{ if and $playlist $tracks }} has-tracks{{ end }}"><iframe src="{{ $src }}" title="{{ $title }}" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+{{ if and $playlist $tracks }}{{ partial "recordings/tracks.html" (dict "Params" (dict "tracks" $tracks) "File" $.work.File) }}</div>{{ end }}
 {{ end }}
 {{ if hasPrefix $url "https://music.apple.com/" }}
 {{ $song := findRE `(?:[?&]i=\d+|/song/)` $url }}
