@@ -10,7 +10,7 @@ composed: 2013
 year-of-study: Second Year
 streaming:
 purchase:
-  - Order from Publisher · https://www.fabermusic.com/music/plainsong-and-echoes
+  - https://www.fabermusic.com/music/plainsong-and-echoes
 library-recording:
   - https://search.alexanderstreet.com/lti/view/work/bibliographic_entity|score|3572496
 added: 2025-04-21
