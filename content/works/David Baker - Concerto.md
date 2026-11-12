@@ -11,7 +11,7 @@ year-of-study: "Fourth Year"
 arranger-edition: 
 streaming: 
 purchase:
-  - "study score · https://subitomusic.com/product/baker-concerto-for-tenor-saxophone-orchestra/"
+  - "Study score · https://subitomusic.com/product/baker-concerto-for-tenor-saxophone-orchestra/"
   - "Rent from Publisher · https://subitomusic.com/requests/#rental-license"
 added: 2026-10-09
 aliases: []

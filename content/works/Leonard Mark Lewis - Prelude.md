@@ -11,7 +11,7 @@ year-of-study: "Third Year"
 streaming: 
 purchase:
   - "Buy from Groth · https://www.grothmusic.com/p-157265.aspx"
-  - "Buy from Leonard Mark Lewis · https://www.leonardmarklewis.com/prelude-for-soprano-sax"
+  - "View score preview · https://www.leonardmarklewis.com/prelude-for-soprano-sax"
   - "Buy from Leonard Mark Lewis · https://www.leonardmarklewis.com/product-page/prelude-for-soprano-saxophone"
 added: 2025-04-16
 research:

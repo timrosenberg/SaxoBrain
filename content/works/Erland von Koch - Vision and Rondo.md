@@ -10,7 +10,6 @@ composed:
 year-of-study: "Second Year"
 streaming: 
 purchase:
-  - "Buy from Groth · https://www.grothmusic.com/p-145578.aspx"
   - "Buy from Groth · https://www.grothmusic.com/p-145578-vision-and-rondo-alto-saxophone-and-piano.aspx"
 added: 2024-03-08
 research:

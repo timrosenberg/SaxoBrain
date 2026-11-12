@@ -10,7 +10,7 @@ composed: 1997
 year-of-study: Second Year
 streaming: 
 purchase:
-  - "score and parts (sold separately) · https://webshop.donemus.com/action/front/sheetmusic/16638"
+  - "Score and parts (sold separately) · https://webshop.donemus.com/action/front/sheetmusic/16638"
 library-recording:
   - "https://search.alexanderstreet.com/lti/view/work/bibliographic_entity|score|5214857"
 added: 2025-04-21

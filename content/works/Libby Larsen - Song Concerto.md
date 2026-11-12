@@ -9,7 +9,7 @@ duration: "21 minutes"
 year-of-study: "Fourth Year"
 streaming: "https://youtu.be/X8EtaYDIiNQ?si=5x5mlRc1LYcsaIQI"
 purchase:
-  - "piano reduction and solo part · https://www.ficksmusic.com/collections/libby-larsen/products/larsen-song-concerto-libby-larsen"
+  - "Piano reduction and solo part · https://www.ficksmusic.com/collections/libby-larsen/products/larsen-song-concerto-libby-larsen"
 added: 2024-03-08
 aliases: []
 research:

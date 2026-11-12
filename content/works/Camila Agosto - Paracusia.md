@@ -1,21 +1,22 @@
 ---
-title: "Paracusia"
-slug: "camila-agosto-paracusia"
+title: Paracusia
+slug: camila-agosto-paracusia
 composer:
   - "[[Camila Agosto]]"
 instruments:
-  - "Alto Saxophone"
-  - "Electronics"
+  - Alto Saxophone
+  - Electronics
 composed: 2018
-year-of-study: "Advanced"
+year-of-study: Advanced
 publisher: []
-duration: "11 minutes"
+duration: 11 minutes
 streaming:
-  - "https://www.youtube.com/watch?v=GPChdpI6Jls"
-purchase: []
-added: "2026-10-27"
+  - https://www.youtube.com/watch?v=GPChdpI6Jls
+purchase:
+  - Contact the composer · https://www.camilagosto.com/works/paracusia-2
+added: 2026-10-27
 aliases: []
-multi-instruments: "Alto saxophone and live electronics"
+multi-instruments: Alto saxophone and live electronics
 ---
 
 ## Research notes (private)

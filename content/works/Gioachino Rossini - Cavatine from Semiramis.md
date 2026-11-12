@@ -11,8 +11,8 @@ composed:
 year-of-study: "Third Year"
 streaming: 
 purchase:
-  - "Buy from Groth · https://www.grothmusic.com/p-147610.aspx"
-  - "Buy from Groth · https://www.grothmusic.com/p-147611.aspx"
+  - "Buy from Groth (alto) · https://www.grothmusic.com/p-147610.aspx"
+  - "Buy from Groth (soprano) · https://www.grothmusic.com/p-147611.aspx"
 added: 2024-03-08
 research:
   - "Publisher Tierolff Muziek, catalog TRL-P21SA; arranged by A. Lemarc · https://www.grothmusic.com/p-147610.aspx"

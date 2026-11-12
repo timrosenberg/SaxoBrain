@@ -1,27 +1,28 @@
 ---
-title: "The Dardanelles"
-slug: "jenni-watson-the-dardanelles"
+title: The Dardanelles
+slug: jenni-watson-the-dardanelles
 composer:
   - "[[Jenni Watson]]"
   - "[[Martin Jacoby]]"
 instruments:
-  - "Soprano Saxophone"
-  - "Alto Saxophone"
-  - "Tenor Saxophone"
-  - "Piano"
-year-of-study: "Third Year"
-multi-instruments: "One saxophonist doubling soprano, alto and tenor saxophones, with piano"
+  - Soprano Saxophone
+  - Alto Saxophone
+  - Tenor Saxophone
+  - Piano
+year-of-study: Third Year
+multi-instruments: One saxophonist doubling soprano, alto and tenor saxophones, with piano
 publisher:
-  - "Jenni Watson"
+  - Jenni Watson
 streaming:
-  - "I. Malta (excerpt) · https://static1.squarespace.com/static/55998d50e4b0eb5f8384f946/t/5f0e442b3f7bb4690be2ecbb/1706636022062/01+Malta+excerpt.mp3"
-  - "II. Search for Ephesus (excerpt) · https://static1.squarespace.com/static/55998d50e4b0eb5f8384f946/t/5f0e44626e387f61bd7bdb07/1706636022066/02+Search+For+Ephesus+excerpt.mp3"
-  - "III. Yalta (excerpt) · https://static1.squarespace.com/static/55998d50e4b0eb5f8384f946/t/5f0e447b893f98036f853c55/1706636022075/03+Yalta+excerpt.mp3"
-  - "IV. Istanbul (excerpt) · https://static1.squarespace.com/static/55998d50e4b0eb5f8384f946/t/5f0e4493af69923c90eeee58/1706636022079/04+Istanbul+excerpt.mp3"
+  - I. Malta (excerpt) · https://static1.squarespace.com/static/55998d50e4b0eb5f8384f946/t/5f0e442b3f7bb4690be2ecbb/1706636022062/01+Malta+excerpt.mp3
+  - II. Search for Ephesus (excerpt) · https://static1.squarespace.com/static/55998d50e4b0eb5f8384f946/t/5f0e44626e387f61bd7bdb07/1706636022066/02+Search+For+Ephesus+excerpt.mp3
+  - III. Yalta (excerpt) · https://static1.squarespace.com/static/55998d50e4b0eb5f8384f946/t/5f0e447b893f98036f853c55/1706636022075/03+Yalta+excerpt.mp3
+  - IV. Istanbul (excerpt) · https://static1.squarespace.com/static/55998d50e4b0eb5f8384f946/t/5f0e4493af69923c90eeee58/1706636022079/04+Istanbul+excerpt.mp3
 purchase:
-  - "https://www.jenniwatson.com/shop/the-dardanelles"
-added: "2026-10-27"
+  - https://www.jenniwatson.com/shop/the-dardanelles
+added: 2026-10-27
 aliases: []
+composed: 2013
 ---
 
 ## Research notes (private)

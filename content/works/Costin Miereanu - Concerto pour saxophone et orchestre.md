@@ -1,21 +1,21 @@
 ---
-title: "Concerto pour saxophone et orchestre"
+title: Concerto pour saxophone et orchestre
 slug: costin-miereanu-concerto-pour-saxophone-et-orchestre
 composer:
   - "[[Costin Miereanu]]"
 instruments:
-  - "Soprano Saxophone"
-  - "Orchestra"
+  - Soprano Saxophone
+  - Orchestra
 composed: 2006
-duration: "23 minutes"
+duration: 23 minutes
 year-of-study: Advanced
-arranger-edition: 
-streaming: "https://www.youtube.com/watch?v=iIkNyEJehvc"
+arranger-edition:
+streaming: https://www.youtube.com/watch?v=iIkNyEJehvc
 purchase: []
 added: 2026-10-09
 aliases: []
 research:
-  - "Soprano, 2007, 23 minutes, orchestration · https://kientzy.pro/en/k-2"
+  - Soprano, 2007, 23 minutes, orchestration · https://kientzy.pro/en/k-2
   - "Search-index evidence only: Exact concerto recording NMCD5123, 2009 · https://kientzy.pro/en/discography"
   - "Search-index evidence only: 2006 date, three parts and twelve sections · https://no14plusminus.wordpress.com/2010/06/10/despina-petecel-theodoru/"
   - "Search-index evidence only: 2007 concerto catalog entry · https://rama.org.ro/wp-content/uploads/2023/05/RAC_Catalogul-concertlor-romanesti-1050-2000_Instrumente.pdf"

@@ -1,11 +1,18 @@
 ---
-title: "Martin Jacoby"
-slug: "martin-jacoby"
+title: Martin Jacoby
+slug: martin-jacoby
 born: 1988
-photo:
-photo-source:
+photo: "/media/composers/martin-jacoby.jpg"
+photo-source: https://martinjacoby.co.uk/wp-content/uploads/2021/10/2140202.jpg?w=1440
 aliases: []
+nationality:
+  - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English
+race:
+  - White
 ---
+
+> [!caption]
+> Photo: [martinjacoby.co.uk](https://martinjacoby.co.uk/wp-content/uploads/2021/10/2140202.jpg?w=1440)
 
 ![[Composer Works.base#Works]]
 

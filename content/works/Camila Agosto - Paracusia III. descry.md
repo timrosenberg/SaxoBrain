@@ -1,21 +1,22 @@
 ---
-title: "Paracusia III. descry"
-slug: "camila-agosto-paracusia-iii-descry"
+title: Paracusia III. descry
+slug: camila-agosto-paracusia-iii-descry
 composer:
   - "[[Camila Agosto]]"
 instruments:
-  - "Alto Saxophone"
-  - "Electronics"
+  - Alto Saxophone
+  - Electronics
 composed: 2020
-year-of-study: "Advanced"
+year-of-study: Advanced
 publisher: []
-duration: "16 minutes"
+duration: 16 minutes
 streaming:
-  - "https://www.youtube.com/watch?v=a_yjLpRmpWU"
-purchase: []
-added: "2026-10-27"
+  - https://www.youtube.com/watch?v=a_yjLpRmpWU
+purchase:
+  - Contact the composer · https://www.camilagosto.com/works/paracusia-iii-descry
+added: 2026-10-27
 aliases: []
-multi-instruments: "Alto saxophone, live electronics, and spatialized sound"
+multi-instruments: Alto saxophone, live electronics, and spatialized sound
 ---
 
 ## Research notes (private)

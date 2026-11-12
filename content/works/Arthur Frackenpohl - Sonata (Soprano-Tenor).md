@@ -12,7 +12,6 @@ year-of-study: "Second Year"
 streaming: 
 purchase:
   - "Buy from Groth · https://www.grothmusic.com/p-139710.aspx"
-  - "Buy from J.W. Pepper · https://www.jwpepper.com/Sonata-Tenor-or-Soprano-Sax-Piano/7932619.item"
   - "Buy from J.W. Pepper · https://www.jwpepper.com/sonata-tenor-or-soprano-sax-piano-7932619/p"
 added: 2024-03-10
 research:

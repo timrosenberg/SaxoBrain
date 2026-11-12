@@ -12,7 +12,7 @@ duration: "11 minutes"
 year-of-study: Fourth Year
 streaming: "https://www.youtube.com/watch?v=PmYmUJ4sUPo"
 purchase:
-  - "score and parts (sold separately) · https://webshop.donemus.com/action/front/sheetmusic/20550"
+  - "Score and parts (sold separately) · https://webshop.donemus.com/action/front/sheetmusic/20550"
 library-recording:
   - "https://search.alexanderstreet.com/lti/view/work/bibliographic_entity|score|5213190"
 added: 2025-04-21

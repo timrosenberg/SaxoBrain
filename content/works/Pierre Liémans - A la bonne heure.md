@@ -13,7 +13,7 @@ publisher:
   - "Bayard-Nizet"
 streaming: 
 purchase:
-  - "alto saxophone and piano edition · https://www.noten-roehr.de/en/scores/0005/woodwind-instruments/0507/saxophone/0504/woodwind%2Bpiano-harpsichord/107419"
+  - "Alto saxophone and piano edition · https://www.noten-roehr.de/en/scores/0005/woodwind-instruments/0507/saxophone/0504/woodwind%2Bpiano-harpsichord/107419"
 added: 2026-10-09
 aliases: []
 research:

@@ -10,7 +10,8 @@ composed: 2012
 year-of-study: Advanced
 arranger-edition:
 streaming: https://allisonbalcetis.bandcamp.com/track/strata-i-sonder-by-colin-labadie
-purchase: []
+purchase:
+  - Email the composer · mailto:info@colinlabide.com
 added: 2026-10-09
 research:
 aliases: []

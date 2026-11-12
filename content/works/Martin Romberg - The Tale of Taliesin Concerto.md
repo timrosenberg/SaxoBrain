@@ -11,7 +11,7 @@ duration: "23 minutes"
 year-of-study: Third Year
 streaming: "https://youtu.be/Coq7MHjcTK0?si=OnylxWy57EhlRPZU"
 purchase:
-  - "piano reduction · https://www.broekmans.com/en/bladmuziek/the-tale-of-taliesin-concerto-alto-sax-orch-piano-red-adv-grade-8-198682"
+  - "Piano reduction · https://www.broekmans.com/en/bladmuziek/the-tale-of-taliesin-concerto-alto-sax-orch-piano-red-adv-grade-8-198682"
 added: 2024-03-08
 aliases: []
 research:

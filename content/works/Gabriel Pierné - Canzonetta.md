@@ -12,8 +12,8 @@ arranger-edition:
   - "Marcel Mule"
 streaming: "https://www.youtube.com/watch?v=XQ0t1mdDXLs"
 purchase:
-  - "Buy from Groth · https://www.grothmusic.com/p-139763.aspx"
-  - "Buy from Groth · https://www.grothmusic.com/p-38029.aspx"
+  - "Buy from Groth (Mule arrangement) · https://www.grothmusic.com/p-139763.aspx"
+  - "Buy from Groth (Gee arrangement) · https://www.grothmusic.com/p-38029.aspx"
 added: 2024-03-08
 research:
   - "Canzonetta, Op. 19, for clarinet and piano, listed as 1888 (original instrumentation clarinet; assumes catalog entry is this piece) · https://en.wikipedia.org/wiki/Gabriel_Pierné"

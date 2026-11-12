@@ -75,6 +75,7 @@ instruments: [Alto Saxophone]
 download: [/media/example.pdf]
 purchase:
   - "Email the composer · mailto:composer@example.org"
+  - "Contact the composer · https://example.org/contact"
   - "https://example.org/score"
   - "Tenor edition · https://example.org/tenor"
   - "Buy from Groth · https://example.org/groth"
@@ -176,11 +177,15 @@ A paragraph after the file.
         self.assertIn('A paragraph after the file.', source)
         self.assertNotIn('<iframe', self.pages['reading/ordinary/index.html'])
 
-    def test_email_purchase_label_is_an_action_and_editions_keep_buy_wording(self):
+    def test_custom_purchase_labels_replace_the_entire_default_label(self):
         source = self.pages['works/sample-work/index.html']
         self.assertIn('href="mailto:composer@example.org" rel="noopener">Email the composer</a>', source)
+        self.assertIn('href="https://example.org/contact" rel="noopener">Contact the composer</a>', source)
+        self.assertIn('href="https://example.org/tenor" rel="noopener">Tenor edition</a>', source)
+
+    def test_bare_purchase_link_uses_default_score_label(self):
+        source = self.pages['works/sample-work/index.html']
         self.assertIn('href="https://example.org/score" rel="noopener">Buy the score</a>', source)
-        self.assertIn('href="https://example.org/tenor" rel="noopener">Buy the Tenor edition</a>', source)
 
     def test_retailer_purchase_labels_display_without_an_extra_buy_prefix(self):
         source = self.pages['works/sample-work/index.html']

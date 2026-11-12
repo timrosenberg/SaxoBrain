@@ -12,7 +12,7 @@ year-of-study: "Advanced"
 streaming:
   - "https://www.youtube.com/watch?v=DBbFcyL3oTc"
 purchase:
-  - "https://imslp.org/wiki/Monologo_en_Tiempo_de_Joropo_(Guzm%C3%A1n-Mu%C3%B1oz,_Carlos_Gonzalo)"
+  - "View the score · https://imslp.org/wiki/Monologo_en_Tiempo_de_Joropo_(Guzm%C3%A1n-Mu%C3%B1oz,_Carlos_Gonzalo)"
 added: "2026-10-28"
 aliases: []
 ---

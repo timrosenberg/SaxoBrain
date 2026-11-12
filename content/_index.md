@@ -2,6 +2,7 @@
 title: "SaxRep"
 # Retired work URLs redirect to the repertoire catalog.
 aliases:
+  - "/works/andrew-bishop-for-geri-allen/"
   - "/works/auguste-durand-first-waltz-op-83/"
   - "/works/carl-anton-wirth-a-keening/"
   - "/works/carl-anton-wirth-antiphon/"

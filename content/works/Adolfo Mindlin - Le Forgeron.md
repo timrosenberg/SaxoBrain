@@ -10,7 +10,6 @@ composed: 1985
 year-of-study: Pre-college
 streaming:
 purchase:
-  - "Buy from Groth · https://www.grothmusic.com/p-148236.aspx"
   - "Buy from Groth · https://www.grothmusic.com/p-148236-le-forgeron-alto-saxophone-and-piano.aspx"
 added: 2024-03-08
 research:

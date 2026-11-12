@@ -5,7 +5,6 @@ saxophonists: "Nobuya Sugawa"
 works:
   - "[[Paule Maurice - Tableaux de Provence]]"
   - "[[Alexander Glazunov - Concerto]]"
-  - "[[Jun Nagao - Die Heldenzeit]]"
 streaming: "https://album.link/i/502350110"
 youtube: 
 spotify: 

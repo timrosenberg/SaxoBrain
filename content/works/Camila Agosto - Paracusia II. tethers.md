@@ -1,21 +1,22 @@
 ---
-title: "Paracusia II. tethers"
-slug: "camila-agosto-paracusia-ii-tethers"
+title: Paracusia II. tethers
+slug: camila-agosto-paracusia-ii-tethers
 composer:
   - "[[Camila Agosto]]"
 instruments:
-  - "Tenor Saxophone"
-  - "Electronics"
+  - Tenor Saxophone
+  - Electronics
 composed: 2018
-year-of-study: "Advanced"
+year-of-study: Advanced
 publisher: []
-duration: "8 minutes"
+duration: 8 minutes
 streaming:
-  - "https://soundcloud.com/camilagosto/paracusia-ii-tethers-2018"
-purchase: []
-added: "2026-10-27"
+  - https://soundcloud.com/camilagosto/paracusia-ii-tethers-2018
+purchase:
+  - Contact the composer · https://www.camilagosto.com/works/paracusia-ii-tethers
+added: 2026-10-27
 aliases: []
-multi-instruments: "Tenor saxophone and live electronics"
+multi-instruments: Tenor saxophone and live electronics
 ---
 
 ## Research notes (private)
