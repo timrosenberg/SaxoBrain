@@ -1,6 +1,7 @@
 ---
 title: "Composers"
 aliases:
+  - "/composers/ramin-roshandel/"
   - "/composers/larry-austin/"
   - /composers/andrew-bishop/
   - /composers/john-cooper/
