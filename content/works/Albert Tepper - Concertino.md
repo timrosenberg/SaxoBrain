@@ -1,30 +1,28 @@
 ---
-title: "Concertino"
+title: Concertino
 slug: albert-tepper-concertino
 composer:
   - "[[Albert Tepper]]"
 instruments:
-  - "Soprano Saxophone"
-  - "Piano"
+  - Soprano Saxophone
+  - Piano
 composed: 1946
-year-of-study: "Second Year"
-streaming: 
+year-of-study: Second Year
+streaming:
 purchase:
-  - "Buy from Groth · https://www.grothmusic.com/p-37470.aspx"
-  - "Buy from Boosey & Hawkes · https://boosey.com/shop/prod/Concertino-for-Soprano-Saxophone/2177697"
-  - "Buy from Hal Leonard · https://www.halleonard.com/product/3776341/concertino-for-soprano-saxophone"
+  - https://www.grothmusic.com/p-37470.aspx
 added: 2025-04-18
 research:
-  - "Written summer 1946 for soprano sax and strings, adapted from Concertino for Oboe and Strings; three short linked movements played without pause · https://www.hickeys.com/music/woodwinds/sax/solos/soprano_with_piano/products/sku041598-tepper-albert-concertino.php"
-  - "Hickey's lists it as advanced · https://www.hickeys.com/music/woodwinds/sax/solos/soprano_with_piano/products/sku041598-tepper-albert-concertino.php"
-  - "Eight-minute duration; extended tonality; three connected movements; composer-made adaptation and 1952 publication. · https://keiserproductions.com/catalog/southern-music/?ic=&sc=&tc=&tid=31FAE9B6-28C5-4C96-AE1B-4558F1010F1B"
-  - "Composer states original Concertino for Oboe and Strings was composed summer 1946 for a competition. · https://www.bruceduffie.com/tepper.html"
-  - "Soprano edition performed in university student recital, February16 2022. · https://www.southalabama.edu/colleges/music/archive/resources/202122/20220216westphalrecitalprogram.pdf"
-  - "Grade7 accompanied soprano/tenor list includes Tepper soprano edition HL3776341. · https://www.trinitycollege.com/resource/?id=9985"
-  - "Publisher product identifies Southern edition; public closer-look endpoint returned null. · https://www.halleonard.com/product/3776341/concertino-for-soprano-saxophone"
+  - Written summer 1946 for soprano sax and strings, adapted from Concertino for Oboe and Strings; three short linked movements played without pause · https://www.hickeys.com/music/woodwinds/sax/solos/soprano_with_piano/products/sku041598-tepper-albert-concertino.php
+  - Hickey's lists it as advanced · https://www.hickeys.com/music/woodwinds/sax/solos/soprano_with_piano/products/sku041598-tepper-albert-concertino.php
+  - Eight-minute duration; extended tonality; three connected movements; composer-made adaptation and 1952 publication. · https://keiserproductions.com/catalog/southern-music/?ic=&sc=&tc=&tid=31FAE9B6-28C5-4C96-AE1B-4558F1010F1B
+  - Composer states original Concertino for Oboe and Strings was composed summer 1946 for a competition. · https://www.bruceduffie.com/tepper.html
+  - Soprano edition performed in university student recital, February16 2022. · https://www.southalabama.edu/colleges/music/archive/resources/202122/20220216westphalrecitalprogram.pdf
+  - Grade7 accompanied soprano/tenor list includes Tepper soprano edition HL3776341. · https://www.trinitycollege.com/resource/?id=9985
+  - Publisher product identifies Southern edition; public closer-look endpoint returned null. · https://www.halleonard.com/product/3776341/concertino-for-soprano-saxophone
 publisher:
-  - "Southern Music"
-duration: "8 minutes"
+  - Southern Music
+duration: 8 minutes
 aliases:
   - /works/robert-tepper-concertino/
 ---
