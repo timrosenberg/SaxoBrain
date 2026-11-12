@@ -2,4 +2,4 @@
 title: "Resources"
 ---
 
-The Scale Series, the Ferling Project, and altissimo fingering charts.
+Useful information, books, and charts for saxophonists
