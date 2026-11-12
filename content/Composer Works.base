@@ -26,5 +26,5 @@ views:
       - property: title
         direction: ASC
     columnSize:
-      formula.work: 360
+      formula.work: 247
       note.instruments: 220
