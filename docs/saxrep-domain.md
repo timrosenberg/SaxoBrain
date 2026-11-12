@@ -6,26 +6,29 @@ SaxRep uses the existing Hugo site and GitHub Pages deployment. The configured c
 
 Checked on November 12, 2026, after Tim reported that Claude completed the domain setup:
 
-- GitHub Pages reports the custom domain `saxrep.com` and the URL `http://saxrep.com/`.
+- GitHub Pages reports the custom domain `saxrep.com` and the URL `https://saxrep.com/`.
 - `saxrep.com` resolves to all four GitHub Pages A records listed below.
 - `www.saxrep.com` has the CNAME target `timrosenberg.github.io`.
-- `http://saxrep.com/` returns HTTP 200 from GitHub.
-- HTTPS enforcement is disabled. The Pages API reports no certificate metadata, and an HTTPS request failed certificate hostname verification. HTTPS is not ready at this check.
+- `https://saxrep.com/` returns HTTP 200 from GitHub with a valid certificate.
+- GitHub reports an approved certificate for `saxrep.com` and `www.saxrep.com`. HTTPS enforcement is enabled.
+- The live HTML still references `/SaxoBrain/css/site.css`, while the stylesheet is served at `/css/site.css`. A new-domain rebuild is needed to restore styling and the matching script paths.
 - The older source configuration used `saxobrain.timothyrosenberg.com`. The Pages API does not report that hostname as its custom domain. Its historical use by visitors is unknown.
 
-The Pages and DNS setup is in place. HTTPS readiness, HTTPS enforcement, and a successful publish using the new domain remain to verify. Source review and publication are tracked in [issue #6](https://github.com/timrosenberg/SaxoBrain/issues/6).
+The Pages, DNS, and HTTPS setup is verified. A successful publish using the new domain remains outstanding. Source review and publication are tracked in [issue #6](https://github.com/timrosenberg/SaxoBrain/issues/6).
 
 ## Review and publish the rebrand
 
 Review the change linked to [issue #6](https://github.com/timrosenberg/SaxoBrain/issues/6). Follow the structural review and merge process in [Publishing SaxRep](publishing.md). The agent needs Tim's explicit authorization before committing, pushing, merging, or publishing.
 
-The workflow intentionally builds with the base URL returned by GitHub Pages. The source `baseURL` change is already included in this rebrand. It keeps local builds consistent with the intended HTTPS domain. It does not control the URL override used by the publishing workflow. Verify HTTPS readiness and the reported Pages URL before the next publish.
+The workflow intentionally builds with the base URL returned by GitHub Pages. The source `baseURL` change is already included in this rebrand. It keeps local builds consistent with the HTTPS domain. It does not control the URL override used by the publishing workflow.
+
+The workflow reads the live address manifest at `https://timrosenberg.github.io/SaxoBrain/addresses.txt`. That URL redirects to the custom domain. The address guard uses the original URL's `/SaxoBrain` prefix to compare the old artifact's paths with new root paths. Reading the old artifact only through the new domain caused PR #7's first check to report every prefixed path as lost. The trusted source baseline remains required, and genuine missing or duplicate paths still stop publication.
 
 Keep the existing workflow concurrency group through the migration. This keeps deployment serialization consistent with already-running releases.
 
 ## Connect the domain
 
-The Pages custom domain and DNS records below have already been configured. Keep these steps as the setup reference. Continue with HTTPS and release verification instead of repeating the completed settings changes.
+The Pages custom domain, DNS records, and HTTPS settings below are already verified. Keep these steps as the setup reference. Continue with release verification instead of repeating the completed settings changes.
 
 1. Open the repository's [Pages settings](https://github.com/timrosenberg/SaxoBrain/settings/pages). Set the custom domain to `saxrep.com` and save it before changing DNS.
 2. At the DNS provider, replace the root parking records with the following records. Remove a conflicting parking or forwarding record only as part of the approved domain cutover. Preserve unrelated mail, verification, and other service records.
