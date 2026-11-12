@@ -32,7 +32,7 @@ Choose 1 title LIST A + choose 1 title LIST B + choose 1 title LIST C
 
 ## **List C**
 
-1 solo piece from the book [[Unknown - Saxiana Presto|Saxiana Presto]] 
+1 solo piece from the book [[Saxiana Presto|Saxiana Presto]]
 
 - [[Jun Nagao - L'oiseau enfermé|L'oiseau enfermé]] - [[Jun Nagao|Jun Nagao]]
 - [[Michel Lysight - Seti|Seti]] - [[Michel Lysight|Michel Lysight]]

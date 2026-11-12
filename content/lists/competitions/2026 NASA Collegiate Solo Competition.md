@@ -33,7 +33,7 @@ Performers who exceed the time will be stopped without penalty.
 
 ## Final Round
 
-Choose **one piece** from [[Unknown - Saxiana Presto|Saxiana Presto: 7 Characteristic Pieces for Solo Saxophone]] (Billaudot):
+Choose **one piece** from [[Saxiana Presto|Saxiana Presto: 7 Characteristic Pieces for Solo Saxophone]] (Billaudot):
 
 - [[Jun Nagao - L'oiseau enfermé|L'oiseau enfermé]] by [[Jun Nagao]].
 - [[Michel Lysight - Seti|Seti]] by [[Michel Lysight]].
