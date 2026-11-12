@@ -1,15 +1,15 @@
 ---
-title: "L.A. Logrande"
+title: L.A. Logrande
 slug: l-a-logrande
 nationality:
-  - "🇺🇸 American"
-gender: "Female"
+  - 🇺🇸 American
+gender: Female
 race: []
-born: 
-died: 
-wikidata: 
-photo: 
-photo-source: 
+born: 1963
+died:
+wikidata:
+photo:
+photo-source:
 aliases: []
 ---
 
