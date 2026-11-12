@@ -22,6 +22,6 @@ title: "Album pages"
 | album-on-apple-music | {title} on Apple Music |
 | album-released | Released {year} |
 | album-out-of-print | Out of print |
-| album-works-heading | Works on this recording in SaxoBrain |
+| album-works-heading | Works on this recording in SaxRep |
 | album-by | by |
 | album-and | and |

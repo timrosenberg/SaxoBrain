@@ -48,7 +48,7 @@ Perform both works in this order:
 1. *[[Boris Papandopulo - Concerto for Saxophone and Orchestra|Saxophone Concerto]]* by [[Boris Papandopulo]] (MIC), with the Zagreb Philharmonic Orchestra.
 2. *[[Paul Bonneau - Caprice en Forme da Valse|Caprice en forme de valse]]* by [[Paul Bonneau]] (Leduc).
 
-> **SaxoBrain Catalog and Source Notes**
+> **SaxRep Catalog and Source Notes**
 >
 > These editorial notes are separate from the competition requirements.
 >

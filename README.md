@@ -1,6 +1,10 @@
-# SaxoBrain
+# SaxRep
 
 Repertoire, curriculum and reading for saxophonists, built and maintained by Timothy Rosenberg.
+
+## Domain
+
+The canonical domain is [saxrep.com](https://saxrep.com/). See [the domain guide](docs/saxrep-domain.md) for connection, verification, and recovery steps. The GitHub repository and Obsidian vault keep their existing names and paths.
 
 ## How it works
 

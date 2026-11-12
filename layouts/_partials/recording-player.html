@@ -36,7 +36,7 @@
 {{ end }}
 {{ if findRE `^https://[a-z0-9-]+\.bandcamp\.com/(?:track|album)/[^/?#]+` $url }}
 {{ $page := index (split (index (split $url "?") 0) "#") 0 }}
-{{ with try (resources.GetRemote $page (dict "headers" (dict "User-Agent" "Mozilla/5.0 (compatible; SaxoBrain build)"))) }}
+{{ with try (resources.GetRemote $page (dict "headers" (dict "User-Agent" "Mozilla/5.0 (compatible; SaxRep build)"))) }}
 {{ with .Value }}
 {{ with findRESubmatch `EmbeddedPlayer/v=2/(album|track)=(\d+)` .Content 1 }}
 <div class="audio bandcamp"><iframe src="https://bandcamp.com/EmbeddedPlayer/{{ index (index . 0) 1 }}={{ index (index . 0) 2 }}/size=large/bgcol=ffffff/linkcol=9a6514/tracklist=false/artwork=small/transparent=true/" title="{{ replace (partial "t.html" "piece-on-bandcamp") "{title}" ($title | string) }}" loading="lazy" seamless></iframe></div>

@@ -16,7 +16,7 @@ REVIEW = ROOT / "scripts/migration/wikidata-review.json"
 # Choices a person made after reviewing: composer title -> Wikidata ID, applied as is; null = no match (ruled out).
 OVERRIDES = ROOT / "scripts/migration/wikidata-overrides.json"
 API = "https://www.wikidata.org/w/api.php"
-UA = "SaxoBrain composer dates (https://github.com/timrosenberg/SaxoBrain)"
+UA = "SaxRep composer dates (https://github.com/timrosenberg/SaxoBrain)"
 MUSIC = re.compile(r"compos|music|saxophon|pianist|conduct|organist|violin|viol|clarinet|flaut|flut|trumpet|trombon|"
                    r"guitar|songwriter|arranger|bandleader|cellist|singer|percussion|bassist|horn|obo|bassoon|harp|"
                    r"lutenist|harpsichord|tubist|euphonium|drummer|vocalist|jazz", re.I)

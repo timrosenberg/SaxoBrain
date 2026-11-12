@@ -1,4 +1,4 @@
-/* SaxoBrain. Ported from the October 2026 prototype: one search column, quiet rows, level colors.
+/* SaxRep. Ported from the October 2026 prototype: one search column, quiet rows, level colors.
    Light and dark follow the visitor's system setting. */
 :root {
   --bg: #f5f6f8; --surface: #ffffff; --fg: #1b2029; --muted: #5d6676; --line: #dde1e8;

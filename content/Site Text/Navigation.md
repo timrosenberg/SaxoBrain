@@ -18,8 +18,8 @@ title: "Navigation and footer"
 | footer-built-by | Built and maintained by |
 | footer-licensed | Licensed |
 | footer-affiliate | Links may contain affiliate codes. |
-| brand-first | Saxo |
-| brand-second | Brain |
+| brand-first | Sax |
+| brand-second | Rep |
 | footer-name | Timothy Rosenberg |
 | footer-license-name | CC BY-SA 4.0 |
 | home-title-suffix | : saxophone repertoire, curriculum and reading |

@@ -1,6 +1,6 @@
-baseURL = "https://saxobrain.timothyrosenberg.com/"
+baseURL = "https://saxrep.com/"
 locale = "en-US"
-title = "SaxoBrain"
+title = "SaxRep"
 disableKinds = ["taxonomy", "term", "rss"]
 # Obsidian files that live alongside the content
 ignoreFiles = ['\.base$', '\.obsidian']
