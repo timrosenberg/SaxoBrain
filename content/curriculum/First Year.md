@@ -23,7 +23,7 @@ Each semester, choose one piece from each category. In the spring, choose a diff
 
 - [[Henri Eccles - Sonata]] (Rascher transcription)
 - [[George Gershwin - Three Preludes]]
-- **Rondo in D**, Mozart, from [[Unknown - Solos for the Alto Saxophone Player]] (Teal), No. 11 [Listen](https://song.link/i/1452241276)
+- **Rondo in D**, Mozart, from [[Solos for the Alto Saxophone Player]] (Teal), No. 11 [Score](https://www.amazon.com/Solos-Alto-Saxophone-Player-Accompaniment/dp/0793525853) [Listen](https://song.link/i/1452241276)
 - [[Jean-Baptiste Singelée - Adagio et Rondo, Op. 63]]
 - [[Antonín Dvořák - Slavonic Dance]]
 - [[Clair W. Johnson - Waltz Moods]]
