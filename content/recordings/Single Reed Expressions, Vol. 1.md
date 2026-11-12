@@ -1,6 +1,7 @@
 ---
-title: "Single Reed Expressions, Vol. 1"
+title: "Single Reed Expressions, Vols. 1–8"
 slug: single-reed-expressions-vol-1
+embed-youtube: true
 saxophonists: "Ronald Caravan"
 works:
   - "[[Fisher Tull - Sarabande & Gigue]]"
@@ -9,7 +10,7 @@ works:
   - "[[Jules Demersseman - Fantaisie-Pastorale]]"
   - "[[Ronald Caravan - Quiet Time]]"
   - "[[Lawson Lunde - Alpine Sonata, Op. 37]]"
-youtube: "https://www.youtube.com/playlist?list=OLAK5uy_mbYChcIpKFG-XS30AwYqusr4DGBj3Mvz8"
+youtube: "https://www.youtube.com/playlist?list=OLAK5uy_lapJ9QSuMTckMrMmgqJnVhM2K6-2EX0qM"
 spotify: 
 apple-music: "https://music.apple.com/us/album/1184988896"
 amazon-music: 
@@ -38,6 +39,50 @@ year-released: "2017"
 cover: "/media/recordings/single-reed-expressions-vol-1/cover.jpg"
 ---
 
+> [!caption]
+> Ronald L. Caravan, clarinet and saxophones; Sar-Shalom Strong, piano.
+>
+> ## Volume 1
+
+## Volume 2
+
+[https://www.youtube.com/playlist?list=OLAK5uy_mQxW2l6F_c-h6IkC8YTf46GSH4NYo600U](https://www.youtube.com/playlist?list=OLAK5uy_mQxW2l6F_c-h6IkC8YTf46GSH4NYo600U "Single Reed Expressions, Volume 2")
+
+## Volume 3
+
+[https://www.youtube.com/playlist?list=OLAK5uy_kim2XbQL9ekxakRVjHV_ip2r2eTPS_L_k](https://www.youtube.com/playlist?list=OLAK5uy_kim2XbQL9ekxakRVjHV_ip2r2eTPS_L_k "Single Reed Expressions, Volume 3")
+
+## Volume 4
+
+[https://www.youtube.com/playlist?list=OLAK5uy_mxZr-fvvkwmDZezPT7RSxIUgOCdBSs4cQ](https://www.youtube.com/playlist?list=OLAK5uy_mxZr-fvvkwmDZezPT7RSxIUgOCdBSs4cQ "Single Reed Expressions, Volume 4")
+
+## Volume 5
+
+[https://www.youtube.com/playlist?list=OLAK5uy_mtLwTNLSRTIRyFxbYu35bLQI9Utj0gzfE](https://www.youtube.com/playlist?list=OLAK5uy_mtLwTNLSRTIRyFxbYu35bLQI9Utj0gzfE "Single Reed Expressions, Volume 5")
+
+## Volume 6
+
+[https://www.youtube.com/playlist?list=OLAK5uy_mjKRDTeQQYD2gIebomEKhghyW1rMo71nw](https://www.youtube.com/playlist?list=OLAK5uy_mjKRDTeQQYD2gIebomEKhghyW1rMo71nw "Single Reed Expressions, Volume 6")
+
+## Volume 7
+
+> [!recording] [Single Reed Expressions, Volume 7](https://open.spotify.com/album/7i8wGE3snEE0Sb6vf2ERVK)
+
+## Volume 8
+
+> [!recording] [Single Reed Expressions, Volume 8](https://open.spotify.com/album/3dgBGSW89q32jDG1T8syXX)
+
 ## Research notes (private)
 
 - Track composer credits verified against https://music.apple.com/us/album/1184988896.
+
+- Eight official YouTube album playlists verified on 2026-11-12. Playlist track counts match the Apple public catalog: 19, 15, 20, 13, 20, 21, 19 and 27. Volume 1 uses the currently listed official album playlist in the same track order as the existing controls.
+- YouTube players for Volumes 7 and 8 returned an auth error in the unsigned local preview, although their watch pages reported OK and playableInEmbed. Tim chose Spotify players for those two volumes on 2026-11-12. The Spotify catalog returned both albums as PLAYABLE.
+- Single Reed Expressions, Vol. 1: https://www.youtube.com/playlist?list=OLAK5uy_lapJ9QSuMTckMrMmgqJnVhM2K6-2EX0qM
+- Single Reed Expressions, Vol. 2: https://www.youtube.com/playlist?list=OLAK5uy_mQxW2l6F_c-h6IkC8YTf46GSH4NYo600U
+- Single Reed Expressions, Vol. 3: https://www.youtube.com/playlist?list=OLAK5uy_kim2XbQL9ekxakRVjHV_ip2r2eTPS_L_k
+- Single Reed Expressions, Vol. 4: https://www.youtube.com/playlist?list=OLAK5uy_mxZr-fvvkwmDZezPT7RSxIUgOCdBSs4cQ
+- Single Reed Expressions, Vol. 5: https://www.youtube.com/playlist?list=OLAK5uy_mtLwTNLSRTIRyFxbYu35bLQI9Utj0gzfE
+- Single Reed Expressions, Vol. 6: https://www.youtube.com/playlist?list=OLAK5uy_mjKRDTeQQYD2gIebomEKhghyW1rMo71nw
+- Single Reed Expressions, Vol. 7: https://www.youtube.com/playlist?list=OLAK5uy_lZQd6t5-YCEX3PWBtCoYKJQxSmA6NGYkU
+- Single Reed Expressions, Vol. 8: https://www.youtube.com/playlist?list=OLAK5uy_kJNe1LnYB8qrVgGtsYMy85Pxm8ziO0BEY

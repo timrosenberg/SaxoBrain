@@ -6,6 +6,11 @@
 {{- $kind := .AlertType -}}
 {{- if in (slice "starts" "start" "columns" "column" "caption" "focus" "catalog" "strands" "pdf") $kind -}}
   {{- partial "editorial-block.html" (dict "kind" $kind "title" $title "label" $label "href" $href "text" .Text "page" .Page) -}}
+{{- else if and (eq $kind "recording") $href -}}
+  {{- $player := partial "recording-player.html" (dict "link" (dict "url" $href "label" ($label | plainify)) "work" .Page) | string -}}
+  {{- if strings.TrimSpace $player }}{{ $player | safeHTML }}
+  {{- else }}<p><a href="{{ $href | safeURL }}">{{ $label | safeHTML }}</a></p>{{ end -}}
+{{ .Text }}
 {{- else if and (eq $kind "resource") $href -}}
   {{- partial "resource-card.html" (dict "href" $href "title" $label "body" .Text) -}}
 {{- else if eq $kind "articles" -}}
