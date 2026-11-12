@@ -13,7 +13,7 @@ arranger-edition:
   - "Nicolas Prost"
 streaming: "https://www.youtube.com/watch?v=RNjroFNi7mA"
 purchase:
-  - "https://www.carlfischer.com/524-09031-saxiana-paris.html"
+  - "Buy Saxiana Paris · https://www.carlfischer.com/524-09031-saxiana-paris.html"
 added: 2024-02-22
 aliases: []
 ---

@@ -21,7 +21,7 @@ Choose 1 title LIST A + choose 1 title LIST B + choose 1 title LIST C
 
 ## **List B**
 
-1 piece with piano from the book [[Unknown - Saxiana Paris - 6 pieces by early 20th century French composers|Saxiana Paris: 6 pieces by early 20th century French composers]] 
+1 piece with piano from the book [[Saxiana Paris|Saxiana Paris: 6 pieces by early 20th century French composers]]
 
 - [[Jules Massenet - Méditation de Thaïs (As)|Méditation de Thaïs (As)]] - [[Jules Massenet|Jules Massenet]]
 - [[Gabriel Fauré - Élégie, Op. 24|Élégie, Op. 24 (Fauré)]] by [[Gabriel Fauré|Gabriel Fauré]]
