@@ -1,17 +1,17 @@
 ---
-title: "Concerto"
+title: Concerto
 slug: charles-rochester-young-concerto
 composer:
   - "[[Charles Rochester Young]]"
 instruments:
-  - "Alto Saxophone"
-  - "Piano"
-  - "Band"
-composed: 
-year-of-study: "Fourth Year"
-streaming: 
+  - Alto Saxophone
+  - Piano
+  - Band
+composed:
+year-of-study: Fourth Year
+streaming: https://www.youtube.com/watch?v=Lyr8QX3OBEs
 purchase:
-  - "https://www.halleonard.com/product/viewproduct.action?itemid=3776428"
+  - https://www.halleonard.com/product/viewproduct.action?itemid=3776428
 added: 2019-08-28
 aliases: []
 ---
