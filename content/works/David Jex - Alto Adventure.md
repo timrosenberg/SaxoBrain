@@ -1,27 +1,27 @@
 ---
-title: "Alto Adventure"
+title: Alto Adventure
 slug: david-jex-alto-adventure
 composer:
   - "[[David Jex]]"
 instruments:
-  - "Alto Saxophone"
-  - "Piano"
-composed: 
-year-of-study: "Third Year"
-streaming: "https://www.youtube.com/watch?v=K1APvNEYTcc"
+  - Alto Saxophone
+  - Piano
+composed: 2005
+year-of-study: Third Year
+streaming: https://www.youtube.com/watch?v=K1APvNEYTcc
 purchase:
-  - "Buy from Groth · https://www.grothmusic.com/p-143738.aspx"
-  - "Buy from Wingert-Jones · https://wingertjones.com/product/3055131-alto-adventure-jex/"
+  - Buy from Groth · https://www.grothmusic.com/p-143738.aspx
+  - Buy from Wingert-Jones · https://wingertjones.com/product/3055131-alto-adventure-jex/
 added: 2024-03-08
 research:
-  - "Publisher Wingert-Jones, catalog number 3055131 · https://www.grothmusic.com/p-143738.aspx"
-  - "Written for Lynn Klock; duration 6:00; brief soloistic piece mixing lyrical upper-register melodies with virtuosic passages, suited as a closer or encore · https://www.grothmusic.com/p-143738.aspx"
-  - "Alto saxophone with piano, 3055131, composed for Lynn Klock, six minutes; technical passages, upper-register melodies, driving piano, acceleration; product page contains conflicting band-package label. · https://wingertjones.com/product/3055131-alto-adventure-jex/"
-  - "Exact public 5:42 YouTube recording identifies David Jex, Lynn Klock, Virginia Wind Symphony and Dennis Zeisler; Albany 2014 and Wingert-Jones music publishing credits. · https://www.youtube.com/watch?v=K1APvNEYTcc"
+  - Publisher Wingert-Jones, catalog number 3055131 · https://www.grothmusic.com/p-143738.aspx
+  - Written for Lynn Klock; duration 6:00; brief soloistic piece mixing lyrical upper-register melodies with virtuosic passages, suited as a closer or encore · https://www.grothmusic.com/p-143738.aspx
+  - Alto saxophone with piano, 3055131, composed for Lynn Klock, six minutes; technical passages, upper-register melodies, driving piano, acceleration; product page contains conflicting band-package label. · https://wingertjones.com/product/3055131-alto-adventure-jex/
+  - Exact public 5:42 YouTube recording identifies David Jex, Lynn Klock, Virginia Wind Symphony and Dennis Zeisler; Albany 2014 and Wingert-Jones music publishing credits. · https://www.youtube.com/watch?v=K1APvNEYTcc
 aliases: []
 publisher:
-  - "Wingert-Jones Publications"
-duration: "approximately 6 minutes"
+  - Wingert-Jones Publications
+duration: approximately 6 minutes
 ---
 ## Research notes (private)
 
