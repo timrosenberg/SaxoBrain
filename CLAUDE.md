@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-SaxoBrain is Tim Rosenberg's public saxophone knowledge base. The Hugo source and content live in this repository. Start with [[SaxoBrain - Review and Repair Record]] for completed review and repair history. Internal reference notes are in the root `📁 project-reference/` folder, outside Hugo’s content tree. Reserve `content/` for site material.
+SaxRep is Tim Rosenberg's public saxophone knowledge base. The Hugo source and content live in this repository. Start with [[SaxoBrain - Review and Repair Record]] for completed review and repair history. Internal reference notes are in the root `📁 project-reference/` folder, outside Hugo’s content tree. Reserve `content/` for site material.
 
 ## Division of labor
 
@@ -64,9 +64,11 @@ The unfinished repertoire planner remains in `design/curriculum-and-planner/`, w
 
 `content/curriculum/{First,Second,Third,Fourth} Year.md`, one file per year (`year: N`), plain Markdown with explicit linked headings that `layouts/_partials/curriculum/parse.html` reads: `## [Technique](#technique)`, `## [Études](#etudes)`, `## [Solo repertoire](#repertoire)` (paragraph = the rule box; `### Category`, one list per category in Tim's order), `## [Reading](#reading)` (`### Fall` / `### Spring`), `## [Listening](#listening)` (`### group`). Keep fragment IDs stable while editing heading words. Body `focus` and `catalog` callouts hold the reading focus and catalog invitation. The overview body holds its `strands` labels and explanatory `columns`. Repertoire lines are `- [[Work File]] (note)` or, for a piece inside a collection, `- **Title**, Composer, from [[Collection]], No. 3 [Listen](url)`; saxophone tags come from the work's `instruments` (one per saxophone listed, alto included, or "Any saxophone"; a collection line uses the collection's file) (`curriculum/piece.html`). Album lines: `- [[Album File|Display title]] by Performer`, the Listen button opening the album page, which holds the listening links (`curriculum/album.html`; `- [*Album*](url) by Performer` only for an album with no page). No album.link URLs in the curriculum (replaced 2026-10-09). The overview (`layouts/curriculum/section.html`) is built from the year files. Years are numbered, never Junior/Senior; no jazz curriculum (jazz albums are in `content/lists/Jazz Saxophone Listening List.md`). Old per-instrument and jazz addresses are aliases on the year files.
 
-## Custom domain (planned: saxobrain.timothyrosenberg.com)
+## Custom domain: saxrep.com
 
-`hugo.toml` already has the new baseURL and the workflow builds with the base URL GitHub reports, so no code change is needed at cutover. Steps for Tim: (1) add a DNS CNAME record `saxobrain` pointing to `timrosenberg.github.io`; (2) in the repo's Settings > Pages, set the custom domain and tick "Enforce HTTPS" once it is available; (3) push, or re-run the Publish workflow. `scripts/check_addresses.py` compares against both the new domain and the old github.io list, ignores a domain that does not resolve yet, and strips the `/SaxoBrain` prefix so the move does not look like lost pages. Old github.io links redirect to the new domain on their own. Update links in the Fall 2026 syllabi at the next semester break.
+The public brand is SaxRep and `hugo.toml` uses `https://saxrep.com/`. The repository and registered Obsidian vault retain their existing SaxoBrain names and paths. Historical project-reference filenames and their wikilinks remain unchanged.
+
+The publishing workflow builds with the base URL reported by GitHub Pages. GitHub Pages and DNS were configured for `saxrep.com` on November 12, 2026. Verification confirmed all four GitHub Pages A records, `www` pointing to `timrosenberg.github.io`, an approved certificate, HTTPS enforcement, and HTTPS 200. The live artifact still needs a rebuild for the new domain to replace its old `/SaxoBrain/` asset paths. The workflow reads the live address manifest through the original GitHub Pages URL so the address guard can normalize that historical hosting prefix during the move. Follow `docs/saxrep-domain.md` for verification and recovery. Do not hardcode a new production URL in the workflow or rename the workflow's existing concurrency group during the migration. Keep legacy `/SaxoBrain/` hosting-prefix compatibility and permanent page paths.
 
 ## Content authoring
 

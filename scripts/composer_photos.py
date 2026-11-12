@@ -18,7 +18,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 OUT = ROOT / "static/media/composers"
-UA = "SaxoBrain composer photos (https://github.com/timrosenberg/SaxoBrain)"
+UA = "SaxRep composer photos (https://github.com/timrosenberg/SaxoBrain)"
 FIELDS = ("photo", "photo-source")
 
 

@@ -1,5 +1,5 @@
 ---
-title: "SaxoBrain"
+title: "SaxRep"
 # Retired work URLs redirect to the repertoire catalog.
 aliases:
   - "/works/auguste-durand-first-waltz-op-83/"

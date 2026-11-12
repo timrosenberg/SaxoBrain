@@ -4,7 +4,7 @@ slug: saxophone-music-publishers
 notion-id: 32a5a3ec532180bb9cadc948cd9f9848
 ---
 
-Explore these selected catalogs for recital pieces, studies, and chamber music beyond the works listed in SaxoBrain. Each entry includes a starting point from the existing catalog.
+Explore these selected catalogs for recital pieces, studies, and chamber music beyond the works listed in SaxRep. Each entry includes a starting point from the existing catalog.
 
 For a particular piece, follow the score links on its work page.
 

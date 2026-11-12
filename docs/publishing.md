@@ -1,4 +1,4 @@
-# Publishing SaxoBrain
+# Publishing SaxRep
 
 ## Routine content
 
@@ -19,21 +19,21 @@ The normal publishing gate inspects every first-parent commit since the last hea
 Use Hugo 0.167.0 and Python 3.12 or newer:
 
 ```sh
-python3 -m venv /tmp/saxobrain-validation
-/tmp/saxobrain-validation/bin/pip install -r scripts/requirements.txt
-/tmp/saxobrain-validation/bin/python scripts/validate_content.py
-/tmp/saxobrain-validation/bin/python -m unittest discover -s scripts/tests -p 'test_*.py'
+python3 -m venv /tmp/saxrep-validation
+/tmp/saxrep-validation/bin/pip install -r scripts/requirements.txt
+/tmp/saxrep-validation/bin/python scripts/validate_content.py
+/tmp/saxrep-validation/bin/python -m unittest discover -s scripts/tests -p 'test_*.py'
 ```
 
 For the end-to-end checks, export a trusted healthy revision into a fresh directory and run:
 
 ```sh
-mkdir -p /tmp/saxobrain-baseline
-git archive HEALTHY_REVISION | tar -x -C /tmp/saxobrain-baseline
-/tmp/saxobrain-validation/bin/python scripts/run_validation.py \
-  --source . --baseline /tmp/saxobrain-baseline \
-  --output /tmp/saxobrain-site \
-  --base-url https://timrosenberg.github.io/SaxoBrain/ \
+mkdir -p /tmp/saxrep-baseline
+git archive HEALTHY_REVISION | tar -x -C /tmp/saxrep-baseline
+/tmp/saxrep-validation/bin/python scripts/run_validation.py \
+  --source . --baseline /tmp/saxrep-baseline \
+  --output /tmp/saxrep-site \
+  --base-url https://saxrep.com/ \
   --revision "$(git rev-parse HEAD)"
 ```
 

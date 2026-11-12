@@ -62,9 +62,9 @@ Performers who exceed the time will be stopped without penalty.
 - Performers using a NASA staff pianist must consult the staff pianists' repertoire lists. At least two of the three pianists must know each choice piece unless special permission is obtained from the Collaborative Artist Coordinator.
 - In either live round, judges may request particular movements or excerpts because of time constraints.
 
-> **SaxoBrain Catalog Notes**
+> **SaxRep Catalog Notes**
 >
-> These editorial notes are supplied by SaxoBrain and are separate from the competition guidelines.
+> These editorial notes are supplied by SaxRep and are separate from the competition guidelines.
 >
 > - Rhapsodie has no work page in this catalog. Its composer is linked above.
 > - The guidelines call Banks's work Salleras Variations. [Murphy Music Press, its publisher, lists Salleras Variation](https://murphymusicpress.com/products/u-130b), the title used for the linked catalog entry.
