@@ -17,7 +17,7 @@
 - Preserve all public addresses, optional fields and private research exclusions.
 - Do not modify the everyday checkout's templates.
 - Retain individual-video start times and opt-out/custom-label link behavior.
-- No dependencies, CSS or publishing changes.
+- No dependencies or publishing changes. Track-list styles are scoped to preserve the same appearance inside and outside prose.
 
 ## Implementation
 
@@ -61,4 +61,5 @@ Tim requested complete track lists for Volumes 2–6 after inspecting the previe
 - New rendered and JavaScript tests failed before implementation and passed afterward. They verify separate player/list pairs, reset playlist indexes, queued clicks, independent highlights, existing API readiness and duplicate script protection.
 - The full suite passed 109 tests; content, Hugo build, generated-site and address checks passed. All 2,787 addresses remain preserved.
 - An independent review found no actionable bugs.
-- The existing preview URL is being refreshed with six track lists containing 19, 15, 20, 13, 20 and 21 tracks. Volumes 7–8 retain Spotify's built-in track lists.
+- The existing preview URL now has six track lists containing 19, 15, 20, 13, 20 and 21 tracks. Volumes 7–8 retain Spotify's built-in track lists.
+- Desktop and 390px mobile browser checks confirm six independent keyboard playback targets, matching track-header styles, no horizontal overflow and no JavaScript page errors. Screenshots: `/tmp/single-reed-tracks-desktop.png` and `/tmp/single-reed-tracks-mobile.png`.
