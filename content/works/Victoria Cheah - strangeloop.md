@@ -1,17 +1,18 @@
 ---
-title: "strangeloop"
-slug: "victoria-cheah-strangeloop"
+title: strangeloop
+slug: victoria-cheah-strangeloop
 composer:
   - "[[Victoria Cheah]]"
 instruments:
-  - "Baritone Saxophone"
-  - "Unaccompanied"
+  - Baritone Saxophone
+  - Unaccompanied
 composed: 2010
-duration: "approximately 9 minutes"
-year-of-study: "Advanced"
+duration: approximately 9 minutes
+year-of-study: Advanced
 streaming:
-  - "https://www.zachherchen.com/media/strangeloop-victoria-cheah/"
-purchase: []
-added: "2026-10-28"
+  - https://youtu.be/JkeV5kY5Prs?si=8Hs2y0WNnh2sM8m1&t=84
+purchase:
+  - Email the composer · mailto:cheah.v@gmail.com
+added: 2026-10-28
 aliases: []
 ---
