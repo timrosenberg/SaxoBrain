@@ -1,6 +1,7 @@
 ---
 title: "Composers"
 aliases:
+  - "/composers/larry-austin/"
   - /composers/andrew-bishop/
   - /composers/john-cooper/
   - /composers/willem-breuker/
