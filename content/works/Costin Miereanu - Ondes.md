@@ -12,7 +12,7 @@ arranger-edition:
   - "EAS18485 / SLB2456; ISMN 9790048001510"
 streaming: 
 purchase:
-  - "alto saxophone solo edition · https://www.blasmusik-shop.de/Ondes-Saxophone-Alto"
+  - "Alto saxophone solo edition · https://www.blasmusik-shop.de/Ondes-Saxophone-Alto"
 added: 2026-10-09
 aliases: []
 publisher:

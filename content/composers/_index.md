@@ -1,6 +1,7 @@
 ---
 title: "Composers"
 aliases:
+  - /composers/andrew-bishop/
   - /composers/john-cooper/
   - /composers/willem-breuker/
   - /composers/j-b-faulx/

@@ -14,8 +14,7 @@ streaming: https://youtu.be/9u5K7nIphV4?si=Qw1_f0TRd02lVnGA
 purchase:
   - "Buy from Stainer & Bell · https://stainer.co.uk/shop/h173/"
   - "Buy from June Emerson Wind Music · https://www.juneemersonwindmusic.com/SIX-STUDIES-IN-ENGLISH-FOLKSONG-Piano-Accompaniment.html"
-download:
-  - attachment:685d5363-0961-410c-9bdd-eab44aa57a37:Williams_Stanton_-_Six_Studies_in_English_Folk-Song_(alto_saxo).pdf
+download: []
 added: 2024-03-08
 aliases: []
 ---

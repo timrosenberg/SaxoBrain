@@ -6,11 +6,12 @@ composer:
 instruments:
   - Alto Saxophone
   - Piano
-composed:
+composed: 2000
 year-of-study: Advanced
 streaming:
-  - "Bossambaba (Nicolas Prost) · https://music.apple.com/us/album/bossambaba/4685278?i=4685251"
-purchase: []
+  - https://music.apple.com/us/album/bossambaba/4685278?i=4685251
+purchase:
+  - https://www.laflutedepan.com/partition/1077589/eric-durand-bossambaba-partition-saxophone-alto-et-piano.html
 added: 2025-04-19
 aliases: []
 ---

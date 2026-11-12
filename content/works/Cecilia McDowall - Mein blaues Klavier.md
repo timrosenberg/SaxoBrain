@@ -1,20 +1,21 @@
 ---
-title: "Mein blaues Klavier"
-slug: "cecilia-mcdowall-mein-blaues-klavier"
+title: Mein blaues Klavier
+slug: cecilia-mcdowall-mein-blaues-klavier
 composer:
   - "[[Cecilia McDowall]]"
 instruments:
-  - "Soprano Saxophone"
-  - "Piano"
+  - Soprano Saxophone
+  - Piano
 composed: 2006
-year-of-study: "Third Year"
+year-of-study: Third Year
 publisher:
-  - "Friedrich Hofmeister Musikverlag"
-duration: "10 minutes"
+  - Friedrich Hofmeister Musikverlag
+duration: 10 minutes
 streaming:
-  - "https://open.spotify.com/track/3LcWdC1m7JJwhA02A9boTt"
-purchase: []
-added: "2026-10-27"
+  - https://open.spotify.com/track/3LcWdC1m7JJwhA02A9boTt
+purchase:
+  - https://www.hofmeister-musikverlag.com/produkt/mein-blaues-klavier/
+added: 2026-10-27
 aliases: []
 ---
 

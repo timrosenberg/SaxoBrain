@@ -10,7 +10,7 @@ composed: 1989
 year-of-study: Fourth Year
 streaming: "https://open.spotify.com/playlist/5JdqvXOAEWdkXLN5Q5leGG?si=-2ao4BnCTGuQrunW0kI_eA"
 purchase:
-  - "piano reduction (soprano and alto doubling) · https://www.kulturkaufhaus.de/de/detail/ISBN-9790013240067/Erdmann-Dietrich/Konzert"
+  - "Piano reduction (soprano and alto doubling) · https://www.kulturkaufhaus.de/de/detail/ISBN-9790013240067/Erdmann-Dietrich/Konzert"
 added: 2024-03-08
 aliases: []
 publisher:

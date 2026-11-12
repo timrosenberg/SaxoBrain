@@ -12,7 +12,7 @@ composed: 2017
 year-of-study: Third Year
 streaming: 
 purchase:
-  - "tenor edition · https://webshop.donemus.nl/action/front/sheetmusic/16533/Fading"
+  - "Tenor edition · https://webshop.donemus.nl/action/front/sheetmusic/16533/Fading"
 library-recording:
   - "https://search.alexanderstreet.com/lti/view/work/bibliographic_entity|score|5158511"
 added: 2025-04-21

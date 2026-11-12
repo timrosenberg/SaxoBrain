@@ -11,7 +11,7 @@ composed: 2014
 year-of-study: Third Year
 streaming: 
 purchase:
-  - "full score · https://webshop.donemus.com/action/front/sheetmusic/20150"
+  - "Full score · https://webshop.donemus.com/action/front/sheetmusic/20150"
 library-recording:
   - "https://search.alexanderstreet.com/lti/view/work/bibliographic_entity|score|5212816"
 added: 2025-04-21

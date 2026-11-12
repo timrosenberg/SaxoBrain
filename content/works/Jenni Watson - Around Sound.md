@@ -1,23 +1,24 @@
 ---
-title: "Around Sound"
-slug: "jenni-watson-around-sound"
+title: Around Sound
+slug: jenni-watson-around-sound
 composer:
   - "[[Jenni Watson]]"
   - "[[Erin Royer]]"
   - "[[Martin Jacoby]]"
 instruments:
-  - "Tenor Saxophone"
-  - "Electronics"
-year-of-study: "Fourth Year"
-multi-instruments: "Two tenor saxophones and backing track"
+  - Tenor Saxophone
+  - Electronics
+year-of-study: Fourth Year
+multi-instruments: Two tenor saxophones and backing track
 publisher:
-  - "Jenni Watson"
+  - Jenni Watson
 streaming:
-  - "Excerpts · https://static1.squarespace.com/static/55998d50e4b0eb5f8384f946/t/5ebe83d8c843207885e25b15/1589543927000/Around+Sound+-+DEMO+SNIPPETS+%28Private+file%29.mp3"
+  - Excerpts · https://static1.squarespace.com/static/55998d50e4b0eb5f8384f946/t/5ebe83d8c843207885e25b15/1589543927000/Around+Sound+-+DEMO+SNIPPETS+%28Private+file%29.mp3
 purchase:
-  - "https://www.jenniwatson.com/shop/around-sound"
-added: "2026-10-27"
+  - https://www.jenniwatson.com/shop/around-sound
+added: 2026-10-27
 aliases: []
+composed: 2018
 ---
 
 ## Research notes (private)

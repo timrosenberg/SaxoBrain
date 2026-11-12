@@ -13,7 +13,7 @@ arranger-edition:
 streaming:
   - "KIENTZY · L’art du Saxophone · https://open.spotify.com/track/6zAbq9CopTXS0jEckiMHfl?utm_source=openai&utm_medium=chatgpt&go=1&nap_web=1&request_id=cc359e1c-4447-4d21-918c-5174941f6c6a"
 purchase:
-  - "bass saxophone solo edition · https://www.blasmusik-shop.de/Aksax-Basse-Saxophone-Seul"
+  - "Bass saxophone solo edition · https://www.blasmusik-shop.de/Aksax-Basse-Saxophone-Seul"
 added: 2026-10-09
 aliases: []
 publisher:

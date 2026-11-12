@@ -2,7 +2,7 @@
 title: for Geri Allen
 slug: andrew-bishop-for-geri-allen
 composer:
-  - "[[Andrew Bishop]]"
+  - "[[📁 project-reference/retired-composers/Andrew Bishop|Andrew Bishop]]"
 instruments:
   - Tenor Saxophone
   - Unaccompanied

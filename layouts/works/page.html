@@ -8,7 +8,7 @@
 
 <p class="actions">
 {{ with partial "listen-url.html" . }}<a class="btn primary" href="{{ . }}" rel="noopener">{{ partial "t.html" "piece-listen" }}</a>{{ else }}<span class="btn missing">{{ partial "t.html" "piece-no-recording" }}</span>{{ end }}
-{{ range .Params.purchase }}{{ $b := partial "purchase-link.html" . }}<a class="btn" href="{{ $b.url }}" rel="noopener">{{ if or (hasPrefix $b.label "Buy from ") (in (slice "Order from Composer" "Order from Publisher" "Rent from Publisher" "Composer's website" "Composer profile" "Score inquiries" "Email the composer") $b.label) }}{{ $b.label }}{{ else }}{{ with $b.label }}{{ replace (partial "t.html" "piece-buy-labeled") "{label}" (. | string) }}{{ else }}{{ partial "t.html" "piece-buy-plain" }}{{ end }}{{ end }}</a>{{ end }}
+{{ range .Params.purchase }}{{ $b := partial "purchase-link.html" . }}<a class="btn" href="{{ $b.url }}" rel="noopener">{{ with $b.label }}{{ . }}{{ else }}{{ partial "t.html" "piece-buy-plain" }}{{ end }}</a>{{ end }}
 {{ range .Params.download }}{{ $b := partial "purchase-link.html" . }}<a class="btn" href="{{ $b.url }}" rel="noopener">{{ with $b.label }}{{ . }}{{ else }}{{ partial "t.html" "piece-download" }}{{ end }}</a>{{ end }}
 {{ range (index .Params "library-score") }}<a class="btn" href="{{ . }}" rel="noopener">{{ partial "t.html" "piece-find-library" }}</a>{{ end }}
 </p>

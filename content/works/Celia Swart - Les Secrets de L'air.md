@@ -10,7 +10,7 @@ composed:
 year-of-study: Third Year
 streaming: "https://music.apple.com/us/song/les-secrets-de-lair/1510978766"
 purchase:
-  - "score and part (sold separately) · https://webshop.donemus.com/action/front/sheetmusic/20234/Les%2Bsecrets%2Bde%2Bl%27air"
+  - "Score and part (sold separately) · https://webshop.donemus.com/action/front/sheetmusic/20234/Les%2Bsecrets%2Bde%2Bl%27air"
 library-recording:
   - "https://search.alexanderstreet.com/lti/view/work/bibliographic_entity|score|5158530"
 added: 2025-04-21

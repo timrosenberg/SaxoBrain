@@ -10,7 +10,7 @@ composed: 1982
 year-of-study: Third Year
 streaming: "https://www.youtube.com/watch?v=qBH6Blgwcfs"
 purchase:
-  - "print-on-demand score (order through a music retailer) · https://www.ongakunotomo.co.jp/catalog/detail.php?id=972990"
+  - "Print-on-demand score (order through a music retailer) · https://www.ongakunotomo.co.jp/catalog/detail.php?id=972990"
 added: 2024-03-08
 aliases: []
 publisher:

@@ -14,7 +14,7 @@ composed:
 year-of-study: "Second Year"
 streaming: 
 purchase:
-  - "analysis and transcription book · https://www.alfred.com/products/the-jazz-style-of-john-coltrane-00-sb98"
+  - "Analysis and transcription book · https://www.alfred.com/products/the-jazz-style-of-john-coltrane-00-sb98"
 added: 2019-08-25
 aliases: []
 ---

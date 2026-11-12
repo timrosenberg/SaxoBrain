@@ -10,7 +10,7 @@ composed:
 year-of-study: "Advanced"
 streaming: 
 purchase:
-  - "two baritone saxophones edition · https://resolute-music.com/products/copy-of-sonata-a-la-maniere-de-francis-poulenc"
+  - "Two baritone saxophones edition · https://resolute-music.com/products/copy-of-sonata-a-la-maniere-de-francis-poulenc"
 added: 2024-02-23
 aliases: []
 ---

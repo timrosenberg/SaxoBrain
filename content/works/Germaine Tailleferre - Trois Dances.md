@@ -11,7 +11,7 @@ composed:
 year-of-study: Third Year
 streaming: "https://www.youtube.com/watch?v=LM74R8zBueo"
 purchase:
-  - "alto saxophone and piano edition · https://www.juneemersonwindmusic.com/TROIS-DANSES-DE-LA-NOUVELLE-CYTHERE-c7299936-74dd-47af-8eaa-65571818d4d5.html"
+  - "Alto saxophone and piano edition · https://www.juneemersonwindmusic.com/TROIS-DANSES-DE-LA-NOUVELLE-CYTHERE-c7299936-74dd-47af-8eaa-65571818d4d5.html"
 added: 2024-03-08
 aliases: []
 research:

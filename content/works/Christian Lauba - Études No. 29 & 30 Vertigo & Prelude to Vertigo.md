@@ -10,7 +10,7 @@ composed:
 year-of-study: "Advanced"
 streaming: 
 purchase:
-  - "two-study collection (tenor) · https://resolute-music.com/products/vertigo-prelude-to-vertigo"
+  - "Two-study collection (tenor) · https://resolute-music.com/products/vertigo-prelude-to-vertigo"
 added: 2024-02-23
 aliases: []
 ---

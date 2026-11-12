@@ -1,17 +1,18 @@
 ---
-title: "Intermezzo from l'Arlesienne"
+title: Intermezzo from l'Arlesienne
 slug: georges-bizet-intermezzo-from-l-arlesienne
 composer:
   - "[[Georges Bizet]]"
 instruments:
-  - "Alto Saxophone"
-  - "Piano"
-  - "Orchestra"
-composed: 
-year-of-study: "First Year"
+  - Alto Saxophone
+  - Piano
+  - Orchestra
+composed: 1876
+year-of-study: First Year
 streaming:
-  - "Keito Kadoguchi, alto saxophone; Daiki Abe, piano · https://www.youtube.com/watch?v=OQbhtSY1JKs"
-purchase: []
+  - https://www.youtube.com/watch?v=OQbhtSY1JKs
+purchase:
+  - https://www.sheetmusicplus.com/en/product/intermezzo-from-l-arlesienne-for-alto-saxophone-and-piano-20780549.html
 added: 2019-09-09
 aliases: []
 ---

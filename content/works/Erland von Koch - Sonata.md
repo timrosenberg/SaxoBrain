@@ -10,7 +10,6 @@ composed: 1985
 year-of-study: "Second Year"
 streaming: "https://www.youtube.com/watch?v=l2obtSUxdyM"
 purchase:
-  - "Buy from Groth · https://www.grothmusic.com/p-139747.aspx"
   - "Buy from Groth · https://www.grothmusic.com/p-139747-sonata-alto-sax-and-piano.aspx"
 added: 2024-03-08
 research:

@@ -1,24 +1,24 @@
 ---
-title: "Décalcomanie de Reich et Ligeti"
+title: Décalcomanie de Reich et Ligeti
 slug: jean-luc-falchamps-decalcomanie-de-reich-et-ligeti
 composer:
   - "[[Jean-Luc Falchamps]]"
 instruments:
-  - "Any Saxophone"
-  - "Piano"
+  - Any Saxophone
+  - Piano
 composed: 2005
 year-of-study: Advanced
-arranger-edition: 
+arranger-edition:
 publisher:
-  - "PM Europe Publications"
-duration: "7 minutes"
-streaming: "https://www.youtube.com/watch?v=HFSxMbjWKzI"
-purchase: []
+duration: 7 minutes
+streaming: https://www.youtube.com/watch?v=HFSxMbjWKzI
+purchase:
+  - Email the composer · mailto:me@jeanlucfafchamps.eu
 added: 2026-10-09
 aliases: []
 research:
-  - "2005, alto/piano,7 min,2006 Dinant semifinal commission, dedication Philippe Leblanc · https://jeanlucfafchamps.eu/catalogue-musique-de-chambre/"
-  - "Composer program note and premiere7 November 2006 · https://creationmusicale.be/fr/catalogue/fafchamps/decalcomanie-de-reich-et-ligeti-avec-piazzola-en-surimpression"
+  - 2005, alto/piano,7 min,2006 Dinant semifinal commission, dedication Philippe Leblanc · https://jeanlucfafchamps.eu/catalogue-musique-de-chambre/
+  - Composer program note and premiere7 November 2006 · https://creationmusicale.be/fr/catalogue/fafchamps/decalcomanie-de-reich-et-ligeti-avec-piazzola-en-surimpression
   - "Search-index evidence only: PM Europe FAF007,9790803751063 · https://www.demond.de/jean-luc-fafchamps-decalcomanie-de-reich-et-ligeti-pour-saxophone-alto-et-piano-52646"
 ---
 
