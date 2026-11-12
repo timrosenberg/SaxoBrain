@@ -1,14 +1,18 @@
 # Publishing SaxRep
 
+## Agent authorization
+
+Agents may commit, push, and open pull requests for Tim's requested work without separate authorization. An agent must have Tim's explicit authorization before merging any pull request. Manual publishing actions and publishing-setting changes still require Tim's explicit authorization. Normal validated publishing after a permitted content push to `main` remains part of that workflow.
+
 ## Routine content
 
-Edit notes in Obsidian, inspect the changed pages, then commit and push to `main` when authorized. No issue, separate branch, worktree, or PR is required. This path covers existing metadata fields, works, composers, albums, recordings, prose, links, and ordinary media.
+Edit notes in Obsidian, inspect the changed pages, then commit and push to `main` without asking for separate authorization. No issue, separate branch, worktree, or PR is required. This path covers existing metadata fields, works, composers, albums, recordings, prose, links, and ordinary media.
 
 Every main push runs **Validate site**. The normal workflow deploys only after it passes. A failed content update can leave main needing correction while the previous live site remains available. Correct the content and push again. Validation compares against the last healthy release, so a broken previous push does not prevent the correction from publishing.
 
 ## Structural changes
 
-Start with a complete issue using the structural template. Resolve material design choices with Tim. Develop in an isolated worktree and branch. Add useful regression tests, run full validation, inspect the affected rendered behavior, and open a linked PR. Record the worktree path and actual checks in the PR checklist. Tim accepts and merges it.
+Start with a complete issue using the structural template. Resolve material design choices with Tim. Develop in an isolated worktree and branch. Add useful regression tests, run full validation, inspect the affected rendered behavior, and open a linked PR. Record the worktree path and actual checks in the PR checklist. Tim reviews and accepts the change. An agent must obtain Tim's explicit authorization before merging it.
 
 Templates, CSS, JavaScript, dependencies, scripts, workflows, metadata conventions, navigation structure, Site Text keys or placeholders, and address-retirement policy are structural. Unknown or mixed changes use this path. Site Text values can change as content while keys and placeholders stay stable.
 
