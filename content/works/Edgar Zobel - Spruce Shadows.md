@@ -2,7 +2,7 @@
 title: "Spruce Shadows"
 slug: edgar-zorbel-spruce-shadows
 composer:
-  - "[[Edgar Zorbel]]"
+  - "[[Edgar Zobel]]"
 instruments:
   - "Tenor Saxophone"
   - "Piano"

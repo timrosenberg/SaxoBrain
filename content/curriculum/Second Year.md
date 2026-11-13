@@ -31,7 +31,7 @@ Each semester, choose one piece from each category. In the spring, choose a diff
 - [[Francois Devienne - Adagio & Rondo]]
 - [[William Schmidt - Sonatina]]
 - [[Antonio Vivaldi - Sonata No. 6 in G minor]]
-- [[Edgar Zorbel - Spruce Shadows]]
+- [[Edgar Zobel - Spruce Shadows]]
 
 ### French
 
