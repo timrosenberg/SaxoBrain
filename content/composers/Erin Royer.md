@@ -1,11 +1,20 @@
 ---
-title: "Erin Royer"
-slug: "erin-royer"
+title: Erin Royer
+slug: erin-royer
 born: 1990
-photo:
-photo-source:
+photo: "/media/composers/erin-royer.jpg"
+photo-source: https://vandoren.fr/wp-content/uploads/2023/09/34-royer-scaled.jpg
 aliases: []
+website: https://www.erinroyer.com/
+nationality:
+  - 🇦🇺 Australian
+gender: Female
+race:
+  - White
 ---
+
+> [!caption]
+> Photo: [vandoren.fr](https://vandoren.fr/wp-content/uploads/2023/09/34-royer-scaled.jpg)
 
 ![[Composer Works.base#Works]]
 

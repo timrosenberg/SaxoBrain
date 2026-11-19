@@ -1,18 +1,18 @@
 ---
-title: "Sonata in A Major"
+title: Sonata in A Major
 slug: cesar-franck-sonata-in-a-major
 composer:
   - "[[César Franck]]"
 instruments:
-  - "Alto Saxophone"
-  - "Piano"
-composed: 
-year-of-study: "Fourth Year"
+  - Alto Saxophone
+  - Piano
+composed:
+year-of-study: Fourth Year
 arranger-edition:
-  - "Jean-Yves Fourmeau"
-streaming: 
+  - Jean-Yves Fourmeau
+streaming: https://www.youtube.com/watch?v=RNqr_jLAAMo
 purchase:
-  - "https://www.sheetmusicplus.com/title/sonate-en-la-majeur-sheet-music/2266611?aff_id=426309&utm_medium=plg1"
+  - https://www.sheetmusicplus.com/title/sonate-en-la-majeur-sheet-music/2266611?aff_id=426309&utm_medium=plg1
 studied-performed: true
 want-to-play: true
 added: 2019-09-09

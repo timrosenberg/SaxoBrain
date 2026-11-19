@@ -1,24 +1,24 @@
 ---
-title: "Sonata"
+title: Sonata
 slug: lisa-gaye-pressman-sonata
 composer:
   - "[[Lisa Gaye Pressman]]"
 instruments:
-  - "Alto Saxophone"
-  - "Piano"
-composed: 
-year-of-study: "Third Year"
-streaming: 
+  - Alto Saxophone
+  - Piano
+composed: 1982
+year-of-study: Third Year
+streaming:
 purchase:
   - https://www.grothmusic.com/p-145621.aspx
 added: 2024-03-08
 research:
-  - "Dorn DORN0187 · https://www.grothmusic.com/p-145621.aspx"
-  - "Exact edition and scoring. · https://www.grothmusic.com/p-145621.aspx"
-  - "Concert-pitch solo label and opening notation. · https://grothmusic.com/images/product/large/ae00-126511.jpg"
+  - Dorn DORN0187 · https://www.grothmusic.com/p-145621.aspx
+  - Exact edition and scoring. · https://www.grothmusic.com/p-145621.aspx
+  - Concert-pitch solo label and opening notation. · https://grothmusic.com/images/product/large/ae00-126511.jpg
 aliases: []
 publisher:
-  - "Dorn Publications"
+  - Dorn Publications
 ---
 ## Research notes (private)
 

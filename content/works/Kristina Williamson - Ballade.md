@@ -1,24 +1,24 @@
 ---
-title: "Ballade"
+title: Ballade
 slug: kristina-williamson-ballade
 composer:
-  - "[[Kristina Williamson]]"
+  - "[[Kristina Engberg Williamson]]"
 instruments:
-  - "Alto Saxophone"
-  - "Piano"
-composed: 
-year-of-study: "Second Year"
-streaming: 
+  - Alto Saxophone
+  - Piano
+composed: 1984
+year-of-study: Second Year
+streaming:
 purchase:
   - https://www.grothmusic.com/p-146136.aspx
 added: 2024-03-08
 research:
-  - "Etoile Music ET151014 · https://www.grothmusic.com/p-146136.aspx"
-  - "The opened Groth product identifies Ballade by Kristina Williamson, for alto saxophone and piano, published by Etoile Music, catalog ET151014. The current purchase listing is exact-work evidence. · https://www.grothmusic.com/p-146136.aspx"
-  - "First notation page visually inspected; scope and observations are recorded above. · https://www.grothmusic.com/images/product/large/ae00-126991_2_.jpg"
+  - Etoile Music ET151014 · https://www.grothmusic.com/p-146136.aspx
+  - The opened Groth product identifies Ballade by Kristina Williamson, for alto saxophone and piano, published by Etoile Music, catalog ET151014. The current purchase listing is exact-work evidence. · https://www.grothmusic.com/p-146136.aspx
+  - First notation page visually inspected; scope and observations are recorded above. · https://www.grothmusic.com/images/product/large/ae00-126991_2_.jpg
 aliases: []
 publisher:
-  - "Etoile Music"
+  - Etoile Music
 ---
 ## Research notes (private)
 

@@ -1,16 +1,16 @@
 ---
-title: "Spruce Shadows"
+title: Spruce Shadows
 slug: edgar-zorbel-spruce-shadows
 composer:
   - "[[Edgar Zobel]]"
 instruments:
-  - "Tenor Saxophone"
-  - "Piano"
-composed: 
-year-of-study: "Second Year"
-streaming: 
+  - Tenor Saxophone
+  - Piano
+composed:
+year-of-study: First Year
+streaming:
 purchase:
-  - "https://www.sheetmusicplus.com/title/spruce-shadows-sheet-music/294738?aff_id=426309&utm_medium=plg1"
+  - https://www.sheetmusicplus.com/title/spruce-shadows-sheet-music/294738?aff_id=426309&utm_medium=plg1
 added: 2022-03-28
 aliases: []
 ---

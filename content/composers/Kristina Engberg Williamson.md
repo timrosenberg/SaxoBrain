@@ -1,14 +1,14 @@
 ---
-title: "Kristina Williamson"
+title: Kristina Engberg Williamson
 slug: kristina-williamson
 nationality: []
-gender: 
+gender: Female
 race: []
-born: 
-died: 
-wikidata: 
-photo: 
-photo-source: 
+born:
+died:
+wikidata:
+photo:
+photo-source:
 aliases: []
 ---
 

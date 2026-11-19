@@ -31,4 +31,3 @@ cover: "https://is1-ssl.mzstatic.com/image/thumb/Music30/v4/5c/4a/2f/5c4a2f3c-ad
 notion-id: 22c4fbf453e645959ee5ad6122cf0629
 ---
 
-[https://album.link/i/1118489646](https://album.link/i/1118489646)

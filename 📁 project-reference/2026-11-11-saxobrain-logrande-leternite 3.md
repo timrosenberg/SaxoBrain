@@ -1,0 +1,8 @@
+# L.A. Logrande: L'Eternité
+
+Added at Tim’s request on November 11, 2026. Tim assigned Second Year and selected email to the composer as the score source. Reused the existing L.A. Logrande composer note. The work body is empty.
+
+- The [supplied YouTube score-video](https://www.youtube.com/watch?v=ZZaaxBSqS1U) identifies L'Eternité (2015), for soprano saxophone and guitar. Its description credits Duo Montagnard: Joseph Murphy, soprano saxophone, and Matt Slotkin, guitar. Retrieved metadata reports a public video with embedding enabled and a total length of 4:36. Playback was not auditioned.
+- [Noa Even’s Saxophone Repository](https://www.noaevenmusic.com/mixedchamber) independently lists 2015, soprano saxophone and classical guitar, and 4:30. The catalog duration uses approximately 4 minutes 30 seconds. That repository spells the title L’Étérnité and links a different recording; the supplied video’s spelling and recording are retained.
+- The [College Music Society’s 2017 Mid-Atlantic conference booklet](https://www.music.org/pdf/conf/reg/ma/2017schedule.pdf), PDF page 12, identifies the same instrumentation and a September 2016 premiere by Duo Montagnard at WVIA studios in Pittston, Pennsylvania. The premiere date is distinct from the composition year.
+- [Duo Montagnard’s published composer biography](https://duomontagnard.bandcamp.com/track/l-a-logrande-indelible-imprint) supplies lalogrande@composersink.com for the composer’s available works and commissions. The purchase field uses that published address with “Email the composer.” The biography accompanies a 2013 release. The linked composersink.com website did not resolve during checking; current email deliverability remains unverified. No message was sent.

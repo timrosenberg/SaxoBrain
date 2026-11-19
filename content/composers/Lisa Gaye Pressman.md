@@ -1,14 +1,16 @@
 ---
-title: "Lisa Gaye Pressman"
+title: Lisa Gaye Pressman
 slug: lisa-gaye-pressman
-nationality: []
-gender: 
-race: []
-born: 
-died: 
-wikidata: 
-photo: 
-photo-source: 
+nationality:
+  - 🇺🇸 American
+gender: Female
+race:
+  - White
+born:
+died:
+wikidata:
+photo:
+photo-source:
 aliases: []
 ---
 
