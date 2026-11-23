@@ -1,15 +1,16 @@
 ---
-title: "Alexandre Rydin"
+title: Alexandre Rydin
 slug: alexandre-rydin
 nationality:
-  - "🇨🇭 Swiss"
-gender: 
-race: []
+  - 🇨🇭 Swiss
+gender: Male
+race:
+  - White
 born: 1939
-died: 
+died:
 wikidata: Q24689220
-photo: "/media/composers/alexandre-rydin.jpg"
-photo-source: "https://commons.wikimedia.org/wiki/File:Alexandre_Rydin.jpg"
+photo: /media/composers/alexandre-rydin.jpg
+photo-source: https://commons.wikimedia.org/wiki/File:Alexandre_Rydin.jpg
 aliases: []
 ---
 

@@ -1,20 +1,20 @@
 ---
-title: "Boris Papandopulo"
+title: Boris Papandopulo
 slug: boris-papandopulo
 nationality:
-  - "🇭🇷 Croatian"
-gender:
-race: []
+  - 🇭🇷 Croatian
+gender: Male
+race:
+  - White
 born: 1906
 died: 1991
 wikidata:
-photo:
-photo-source:
+photo: "/media/composers/boris-papandopulo.jpg"
+photo-source: https://storage.ghost.io/c/38/f5/38f5739d-f8a2-4e7b-96ed-d56cfbedb61b/content/images/size/w2000/wp-content/uploads/2021/09/09102834/boris_papandopulo2neu.jpg
 aliases: []
 ---
 
-Croatian composer, pianist, and music writer.
-
-Source: [Croatian Music Information Centre](https://mic.hr/en/product/concerto-for-saxophone-and-orchestra-3/).
+> [!caption]
+> Photo: [storage.ghost.io](https://storage.ghost.io/c/38/f5/38f5739d-f8a2-4e7b-96ed-d56cfbedb61b/content/images/size/w2000/wp-content/uploads/2021/09/09102834/boris_papandopulo2neu.jpg)
 
 ![[Composer Works.base#Works]]

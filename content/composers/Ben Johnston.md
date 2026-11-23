@@ -1,15 +1,15 @@
 ---
-title: "Ben Johnston"
+title: Ben Johnston
 slug: ben-johnston
 nationality:
-  - "🇺🇸 American"
-gender: 
+  - 🇺🇸 American
+gender: Male
 race: []
 born: 1926
 died: 2019
 wikidata: Q816527
-photo: 
-photo-source: 
+photo:
+photo-source:
 aliases: []
 ---
 

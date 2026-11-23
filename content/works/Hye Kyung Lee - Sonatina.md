@@ -1,27 +1,27 @@
 ---
-title: "Sonatina"
+title: Sonatina
 slug: hye-kyung-lee-sonatina
 composer:
-  - "[[Hye Kyung Lee]]"
+  - "[[HyeKyung Lee]]"
 instruments:
-  - "Soprano Saxophone"
-  - "Piano"
+  - Soprano Saxophone
+  - Piano
 composed: 1993
-year-of-study: "Fourth Year"
-streaming: "https://www.youtube.com/watch?v=juU0T7_w-Yk"
+year-of-study: Fourth Year
+streaming: https://www.youtube.com/watch?v=juU0T7_w-Yk
 purchase:
-  - "https://www.hyekyunglee.com/store/sonatina-three-movements-soprano-saxophone-and-piano"
+  - https://www.hyekyunglee.com/store/sonatina-three-movements-soprano-saxophone-and-piano
 added: 2025-04-18
 research:
-  - "Three movements (Allegro, Largo, Allegro with intensity), about 4:40, 3:12, 8:38 on an ASU doctoral recital record, 2001 · https://keep.lib.asu.edu/items/9703"
-  - "1993 soprano/piano work, three movements; separate 2003 soprano/wind ensemble version. · https://www.hyekyunglee.com/works"
-  - "Soprano saxophone and piano score and part; Sonatina composition awards in 1996 and 1998. · http://www.classicalmusicnow.com/lee.htm"
-  - "Composer sells a three-movement soprano saxophone and piano score separately from wind ensemble version. · https://www.hyekyunglee.com/store"
-  - "Yukumoto and Lee, Blue, Equilibrium EQ64, 2004; separate 2006 second-movement recording. · https://www.hyekyunglee.com/discography-1"
-  - "Lee Sonatina is included in all-levels soprano saxophone repertoire. · https://www.kutztown.edu/Departments-Offices/M-R/Music/Documents/Jazz%20Saxophone%20Repertoire.pdf"
+  - Three movements (Allegro, Largo, Allegro with intensity), about 4:40, 3:12, 8:38 on an ASU doctoral recital record, 2001 · https://keep.lib.asu.edu/items/9703
+  - 1993 soprano/piano work, three movements; separate 2003 soprano/wind ensemble version. · https://www.hyekyunglee.com/works
+  - Soprano saxophone and piano score and part; Sonatina composition awards in 1996 and 1998. · http://www.classicalmusicnow.com/lee.htm
+  - Composer sells a three-movement soprano saxophone and piano score separately from wind ensemble version. · https://www.hyekyunglee.com/store
+  - Yukumoto and Lee, Blue, Equilibrium EQ64, 2004; separate 2006 second-movement recording. · https://www.hyekyunglee.com/discography-1
+  - Lee Sonatina is included in all-levels soprano saxophone repertoire. · https://www.kutztown.edu/Departments-Offices/M-R/Music/Documents/Jazz%20Saxophone%20Repertoire.pdf
 aliases: []
 publisher:
-  - "Musik Fabrik"
+  - Musik Fabrik
 ---
 Listen opens the first movement from Todd Yukumoto and HyeKyung Lee’s Blue recording. Continue with [II. Largo](https://www.youtube.com/watch?v=mtG4ux8D0uU) and [III. Allegretto](https://www.youtube.com/watch?v=NXeP3fe_1Vo).
 

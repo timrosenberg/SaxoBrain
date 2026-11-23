@@ -1,15 +1,15 @@
 ---
-title: "John David Lamb"
+title: John David Lamb
 slug: john-david-lamb
 nationality:
-  - "🇺🇸 American"
-gender:
+  - 🇺🇸 American
+gender: Male
 race:
 born: 1935
-died: 
+died:
 wikidata: Q15838374
-photo: 
-photo-source: 
+photo:
+photo-source:
 aliases: []
 ---
 

@@ -1,14 +1,17 @@
 ---
-title: "Henry Brant"
+title: Henry Brant
 slug: henry-brant
 born: 1913
 died: 2008
 nationality:
-  - "🇺🇸 American"
-website: "https://henrybrant.com/"
+  - 🇺🇸 American
+website: https://henrybrant.com/
 photo:
 photo-source:
 aliases: []
+race:
+  - White
+gender: Male
 ---
 
 ![[Composer Works.base#Works]]

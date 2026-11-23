@@ -1,15 +1,16 @@
 ---
-title: "Nubim"
+title: Nubim
 slug: nubim
 nationality:
-  - "🇰🇷 South Korean"
-gender: 
-race: []
-born: 
-died: 
-wikidata: 
-photo: 
-photo-source: 
+  - 🇰🇷 South Korean
+gender: Female
+race:
+  - East-Asian
+born: 1993
+died:
+wikidata:
+photo:
+photo-source: https://webshop.donemus.nl/action/front/composer/Kim%2C+Nubim+Soyoung
 aliases: []
 website: https://www.nubim.net/
 ---

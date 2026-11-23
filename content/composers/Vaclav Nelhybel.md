@@ -1,15 +1,15 @@
 ---
-title: "Vaclav Nelhybel"
+title: Vaclav Nelhybel
 slug: vaclav-nelhybel
 nationality:
-  - "🇨🇿 Czech"
-gender: 
+  - 🇨🇿 Czech
+gender: Male
 race: []
 born: 1919
 died: 1996
 wikidata: Q707021
-photo: 
-photo-source: 
+photo:
+photo-source:
 aliases: []
 ---
 

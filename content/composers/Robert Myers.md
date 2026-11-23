@@ -1,14 +1,15 @@
 ---
-title: "Robert Myers"
+title: Robert Myers
 slug: robert-myers
-nationality: []
-gender: 
+nationality:
+  - 🇺🇸 American
+gender: Male
 race: []
-born: 
-died: 
-wikidata: 
-photo: 
-photo-source: 
+born: 1941
+died:
+wikidata:
+photo:
+photo-source:
 aliases: []
 ---
 

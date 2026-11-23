@@ -1,17 +1,21 @@
 ---
-title: "David Liptak"
+title: David Liptak
 slug: david-liptak
 nationality:
-  - "🇺🇸 American"
-gender: 
-race: []
+  - 🇺🇸 American
+gender: Male
+race:
+  - White
 born: 1949
-died: 
+died:
 wikidata: Q5236653
-photo: 
-photo-source: 
+photo: "/media/composers/david-liptak.jpg"
+photo-source: https://www.dliptak.com/images/944_Liptakphoto_copy.jpg
 aliases: []
 website: https://www.dliptak.com
 ---
+
+> [!caption]
+> Photo: [dliptak.com](https://www.dliptak.com/images/944_Liptakphoto_copy.jpg)
 
 ![[Composer Works.base#Works]]

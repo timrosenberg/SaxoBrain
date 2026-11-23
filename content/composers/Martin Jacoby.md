@@ -2,13 +2,14 @@
 title: Martin Jacoby
 slug: martin-jacoby
 born: 1988
-photo: "/media/composers/martin-jacoby.jpg"
+photo: /media/composers/martin-jacoby.jpg
 photo-source: https://martinjacoby.co.uk/wp-content/uploads/2021/10/2140202.jpg?w=1440
 aliases: []
 nationality:
   - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English
 race:
   - White
+gender: Male
 ---
 
 > [!caption]

@@ -1,14 +1,16 @@
 ---
-title: "John Russo"
+title: John Russo
 slug: john-russo
-nationality: []
-gender: 
-race: []
+nationality:
+  - 🇺🇸 American
+gender: Male
+race:
+  - White
 born: 1943
-died: 
+died:
 wikidata: Q139218788
-photo: 
-photo-source: 
+photo:
+photo-source:
 aliases: []
 ---
 

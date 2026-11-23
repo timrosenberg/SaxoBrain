@@ -1,15 +1,15 @@
 ---
-title: "David Heath"
+title: David Heath
 slug: david-heath
 nationality:
-  - "🇬🇧 British"
-gender: 
+  - 🇬🇧 British
+gender: Male
 race: []
 born: 1956
-died: 
+died:
 wikidata: Q26496707
-photo: 
-photo-source: 
+photo:
+photo-source:
 aliases: []
 ---
 

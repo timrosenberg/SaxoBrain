@@ -1,18 +1,21 @@
 ---
-title: "Pascale Jakubowski"
+title: Pascale Jakubowski
 slug: pascale-jakubowski
-nationality: []
-gender:
-race: []
+nationality:
+  - 🇫🇷 French
+gender: Female
+race:
+  - White
 born:
 died:
 wikidata:
-photo:
-photo-source:
+photo: "/media/composers/pascale-jakubowski.jpg"
+photo-source: https://www.pascalejakubowski.com/wp-content/uploads/2023/08/1-portrait-scaled.jpg
 aliases: []
 website: https://www.pascalejakubowski.com/
 ---
 
-The composer’s [official catalog](https://www.pascalejakubowski.com/catalogue/) lists Ibéji IV for soprano saxophone and piano.
+> [!caption]
+> Photo: [pascalejakubowski.com](https://www.pascalejakubowski.com/wp-content/uploads/2023/08/1-portrait-scaled.jpg)
 
 ![[Composer Works.base#Works]]

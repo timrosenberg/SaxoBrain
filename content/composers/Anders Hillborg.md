@@ -1,15 +1,15 @@
 ---
-title: "Anders Hillborg"
+title: Anders Hillborg
 slug: anders-hillborg
 nationality:
-  - "🇸🇪 Swedish"
-gender: 
+  - 🇸🇪 Swedish
+gender: Male
 race: []
 born: 1954
-died: 
+died:
 wikidata: Q491037
-photo: 
-photo-source: 
+photo:
+photo-source:
 aliases: []
 website: https://www.hillborg.com
 ---

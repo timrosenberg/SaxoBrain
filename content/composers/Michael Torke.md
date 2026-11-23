@@ -1,15 +1,15 @@
 ---
-title: "Michael Torke"
+title: Michael Torke
 slug: michael-torke
 nationality:
-  - "🇺🇸 American"
-gender: 
+  - 🇺🇸 American
+gender: Male
 race: []
 born: 1961
-died: 
+died:
 wikidata: Q724998
-photo: 
-photo-source: 
+photo:
+photo-source:
 aliases: []
 website: https://www.michaeltorke.com/
 ---

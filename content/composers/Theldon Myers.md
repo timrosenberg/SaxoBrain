@@ -1,17 +1,18 @@
 ---
-title: "Theldon Myers"
+title: Theldon Myers
 slug: theldon-myers
-nationality: []
-gender:
-race: []
-born:
+nationality:
+  - 🇺🇸 American
+gender: Male
+race:
+  - White
+born: 1927
 died:
 wikidata:
 photo:
-photo-source:
+photo-source: https://www.discogs.com/artist/5208492-Theldon-Myers/image/SW1hZ2U6MjYwMzI4Mjk=
 aliases: []
 ---
 
-The [Golden Crest record catalog](https://www.johnbroven.com/images/pdf/goldencrest-catalog.pdf) documents Sonatine for alto saxophone and piano among his compositions.
 
 ![[Composer Works.base#Works]]

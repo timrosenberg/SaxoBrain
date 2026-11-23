@@ -1,15 +1,16 @@
 ---
-title: "Georges Guilhaud"
+title: Georges Guilhaud
 slug: georges-guilhaud
 nationality:
-  - "🇫🇷 French"
-gender: 
-race: []
+  - 🇫🇷 French
+gender: Male
+race:
+  - White
 born: 1851
 died: 1889
 wikidata: Q56844406
-photo: 
-photo-source: 
+photo:
+photo-source:
 aliases: []
 ---
 

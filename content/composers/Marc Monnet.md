@@ -5,11 +5,15 @@ nationality:
   - 🇫🇷 French
 born: 1947
 website: https://www.marcmonnet.com/en/category/works/
-photo: 
-photo-source: 
+photo: "/media/composers/marc-monnet.jpg"
+photo-source: https://www.marcmonnet.com/wp-content/uploads/2021/03/about.jpg
 aliases: []
+gender: Male
+race:
+  - White
 ---
 
-Marc Monnet is a French composer born in 1947. [Biography from IRCAM, the Institute for Research and Coordination in Acoustics/Music](https://ressources.ircam.fr/en/composer/marc-monnet).
+> [!caption]
+> Photo: [marcmonnet.com](https://www.marcmonnet.com/wp-content/uploads/2021/03/about.jpg)
 
 ![[Composer Works.base#Works]]

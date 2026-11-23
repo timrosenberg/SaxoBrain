@@ -1,14 +1,15 @@
 ---
-title: "Jean Lemaire"
+title: Jean Lemaire
 slug: jean-lemaire
-nationality: []
-gender: 
+nationality:
+  - 🇫🇷 French
+gender: Male
 race: []
-born: 
-died: 
-wikidata: 
-photo: 
-photo-source: 
+born: 1927
+died: 1998
+wikidata:
+photo:
+photo-source:
 aliases: []
 ---
 

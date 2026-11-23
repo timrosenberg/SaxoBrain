@@ -1,15 +1,16 @@
 ---
-title: "Chiel Meijering"
+title: Chiel Meijering
 slug: chiel-meijering
 nationality:
-  - "🇳🇱 Dutch"
-gender: 
-race: []
+  - 🇳🇱 Dutch
+gender: Male
+race:
+  - White
 born: 1954
-died: 
+died:
 wikidata: Q2213007
-photo: "/media/composers/chiel-meijering.jpg"
-photo-source: "https://commons.wikimedia.org/wiki/File:Chiel-meijering-1340811268.jpg"
+photo: /media/composers/chiel-meijering.jpg
+photo-source: https://commons.wikimedia.org/wiki/File:Chiel-meijering-1340811268.jpg
 website: https://www.chielmeijering.com
 aliases: []
 ---

@@ -1,28 +1,28 @@
 ---
-title: "Musiques Legeres"
+title: Musiques Legeres
 slug: jean-lemaire-musiques-legeres
 composer:
   - "[[Jean Lemaire]]"
 instruments:
-  - "Alto Saxophone"
-  - "Piano"
-composed: 
-year-of-study: "Second Year"
-streaming: 
+  - Alto Saxophone
+  - Piano
+composed: 1969
+year-of-study: Second Year
+streaming:
 purchase:
   - https://www.grothmusic.com/p-141576.aspx
 added: 2024-03-08
 research:
-  - "Publisher Alphonse Leduc, catalog no. AL24211 · https://www.grothmusic.com/p-141576.aspx"
+  - Publisher Alphonse Leduc, catalog no. AL24211 · https://www.grothmusic.com/p-141576.aspx
   - "Four movements: Hispano, Gipsy, Duetto, Aria; 22 pages · https://www.grothmusic.com/p-141576.aspx"
-  - "Four named pieces, AL24211 and alto/piano edition. · https://www.grothmusic.com/p-141576.aspx"
-  - "Opening notation, approximately seven minutes and Jean Lemaire attribution. · https://grothmusic.com/images/product/large/1001-48182696_2_.jpg"
-  - "1969 edition, alto/piano and approximately seven minutes. · https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf"
-  - "Advertised as 1969 Paris Conservatoire competition repertoire. · https://www.cmf-archives.org/files/original/28c6c3567e6c5ebd3332b43c43a495d97e84e362.pdf"
+  - Four named pieces, AL24211 and alto/piano edition. · https://www.grothmusic.com/p-141576.aspx
+  - Opening notation, approximately seven minutes and Jean Lemaire attribution. · https://grothmusic.com/images/product/large/1001-48182696_2_.jpg
+  - 1969 edition, alto/piano and approximately seven minutes. · https://www.libraryconservatoryantwerp.be/lijsten/BSAX.pdf
+  - Advertised as 1969 Paris Conservatoire competition repertoire. · https://www.cmf-archives.org/files/original/28c6c3567e6c5ebd3332b43c43a495d97e84e362.pdf
 aliases: []
 publisher:
-  - "Alphonse Leduc"
-duration: "approximately 7 minutes"
+  - Alphonse Leduc
+duration: approximately 7 minutes
 ---
 ## Research notes (private)
 

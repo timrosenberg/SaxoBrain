@@ -1,15 +1,16 @@
 ---
-title: "Carlos Micháns"
+title: Carlos Micháns
 slug: carlos-michans
 nationality:
-  - "🇳🇱 Dutch"
-gender: 
-race: []
+  - 🇳🇱 Dutch
+gender: Male
+race:
+  - White
 born: 1950
-died: 
+died:
 wikidata: Q5042375
-photo: "/media/composers/carlos-michans.jpg"
-photo-source: "https://commons.wikimedia.org/wiki/File:Carlos_Mich%C3%A1ns_(6).jpg"
+photo: /media/composers/carlos-michans.jpg
+photo-source: https://commons.wikimedia.org/wiki/File:Carlos_Mich%C3%A1ns_(6).jpg
 website: https://carlosmichans.nl
 aliases: []
 ---

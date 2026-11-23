@@ -1,15 +1,16 @@
 ---
-title: "Vincent Paulet"
+title: Vincent Paulet
 slug: vincent-paulet
 nationality:
-  - "🇫🇷 French"
-gender: 
-race: []
+  - 🇫🇷 French
+gender: Male
+race:
+  - White
 born: 1962
-died: 
+died:
 wikidata: Q54932895
-photo: "/media/composers/vincent-paulet.jpg"
-photo-source: "https://commons.wikimedia.org/wiki/File:Vincent_paulet_1519184.jpg"
+photo: /media/composers/vincent-paulet.jpg
+photo-source: https://commons.wikimedia.org/wiki/File:Vincent_paulet_1519184.jpg
 aliases: []
 ---
 

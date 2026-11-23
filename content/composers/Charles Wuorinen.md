@@ -1,14 +1,15 @@
 ---
-title: "Charles Wuorinen"
+title: Charles Wuorinen
 slug: charles-wuorinen
 born: 1938
 died: 2020
 nationality:
-  - "🇺🇸 American"
-website: "https://www.charleswuorinen.com/"
+  - 🇺🇸 American
+website: https://www.charleswuorinen.com/
 photo:
 photo-source:
 aliases: []
+gender: Male
 ---
 
 ![[Composer Works.base#Works]]

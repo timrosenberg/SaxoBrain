@@ -1,15 +1,15 @@
 ---
-title: "Charles W. Smith"
+title: Charles W. Smith
 slug: charles-w-smith
 nationality:
-  - "🇺🇸 American"
-gender: 
+  - 🇺🇸 American
+gender: Male
 race: []
 born: 1936
-died: 
+died:
 wikidata: Q1816655
-photo: 
-photo-source: 
+photo:
+photo-source:
 aliases: []
 ---
 

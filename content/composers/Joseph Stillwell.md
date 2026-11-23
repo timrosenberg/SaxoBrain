@@ -1,18 +1,19 @@
 ---
-title: "Joseph Stillwell"
+title: Joseph Stillwell
 slug: joseph-stillwell
-nationality: []
-gender:
-race: []
-born:
+nationality:
+  - 🇺🇸 American
+gender: Male
+race:
+  - White
+born: 1984
 died:
 wikidata:
 photo:
-photo-source:
+photo-source: https://sfcm.edu/sites/default/files/styles/webp_original/public/2023-03/joseph-stillwell-headshot.jpg
 aliases: []
 website: https://www.josephstillwell.com/
 ---
 
-The composer’s [official work page](https://www.josephstillwell.com/soprano-saxophone-sonata-op-4.html) documents the soprano saxophone Sonata, Op. 4.
 
 ![[Composer Works.base#Works]]

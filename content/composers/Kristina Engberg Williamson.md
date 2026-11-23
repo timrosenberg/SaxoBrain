@@ -1,10 +1,11 @@
 ---
 title: Kristina Engberg Williamson
 slug: kristina-williamson
-nationality: []
+nationality:
+  - 🇺🇸 American
 gender: Female
 race: []
-born:
+born: 1957
 died:
 wikidata:
 photo:

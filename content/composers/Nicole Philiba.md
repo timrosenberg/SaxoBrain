@@ -1,15 +1,15 @@
 ---
-title: "Nicole Philiba"
+title: Nicole Philiba
 slug: nicole-philiba
 nationality:
-  - "🇫🇷 French"
-gender: 
+  - 🇫🇷 French
+gender: Female
 race: []
 born: 1937
-died: 
+died:
 wikidata: Q98637580
-photo: 
-photo-source: 
+photo:
+photo-source:
 aliases: []
 ---
 

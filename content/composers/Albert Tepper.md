@@ -1,15 +1,15 @@
 ---
-title: "Albert Tepper"
+title: Albert Tepper
 slug: albert-tepper
 nationality:
-  - "🇺🇸 American"
-gender: 
+  - 🇺🇸 American
+gender: Male
 race: []
 born: 1921
 died: 2010
-wikidata: 
-photo: 
-photo-source: 
+wikidata:
+photo:
+photo-source:
 aliases:
   - /composers/robert-tepper/
 ---

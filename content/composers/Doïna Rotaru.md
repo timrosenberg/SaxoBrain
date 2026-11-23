@@ -1,15 +1,17 @@
 ---
-title: "Doïna Rotaru"
+title: Doïna Rotaru
 slug: doina-rotaru
 nationality:
-  - "🇷🇴 Romanian"
-gender: 
-race: []
+  - 🇷🇴 Romanian
+gender: Female
+race:
+  - White
 born: 1951
-died: 
+died:
 wikidata: Q534712
-photo: 
-photo-source: 
+photo:
+photo-source: |
+  https://iscm.org/wp-content/uploads/2021/09/iscm-virtual-collab-series-arrow-rotaru.jpg.webp
 aliases: []
 ---
 
