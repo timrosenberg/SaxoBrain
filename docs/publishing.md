@@ -2,13 +2,13 @@
 
 ## Agent authorization
 
-Agents may commit, push, and open pull requests for Tim's requested work without separate authorization. An agent must have Tim's explicit authorization before merging any pull request. Manual publishing actions and publishing-setting changes still require Tim's explicit authorization. Normal validated publishing after a permitted content push to `main` remains part of that workflow.
+Never commit or push unless Tim explicitly instructs you to perform that action for the work in question. Permission to edit, implement, validate, or open a PR does not authorize a commit or push. Permission to commit does not authorize a push. Leave changes uncommitted and unpushed until explicitly authorized. Agents may open pull requests for Tim's requested work, but any required commit or push needs Tim's explicit instruction first. An agent must have Tim's explicit authorization before merging any pull request. Manual publishing actions and publishing-setting changes still require Tim's explicit authorization. Normal validated publishing after an explicitly authorized content push to `main` remains part of that workflow.
 
 ## Routine content
 
-Edit notes in Obsidian, inspect the changed pages, then commit and push to `main` without asking for separate authorization. No issue, separate branch, worktree, or PR is required. This path covers existing metadata fields, works, composers, albums, recordings, prose, links, and ordinary media.
+Edit notes in Obsidian, validate the content, and inspect the changed pages. Leave the changes uncommitted and unpushed until Tim explicitly instructs you to commit or push. Once authorized for the relevant action, routine content may go directly to `main`. No issue, separate branch, worktree, or PR is required. This path covers existing metadata fields, works, composers, albums, recordings, prose, links, and ordinary media. Do not introduce blocking Git hooks or CI requirements for routine content updates or additions. This lightweight process does not grant agents permission to commit or push.
 
-Every main push runs **Validate site**. The normal workflow deploys only after it passes. A failed content update can leave main needing correction while the previous live site remains available. Correct the content and push again. Validation compares against the last healthy release, so a broken previous push does not prevent the correction from publishing.
+Every main push runs **Validate site**. The normal workflow deploys only after it passes. A failed content update can leave main needing correction while the previous live site remains available. Correct the content locally and push the correction only when Tim explicitly instructs you to do so. Validation compares against the last healthy release, so a broken previous push does not prevent the correction from publishing.
 
 ## Structural changes
 
