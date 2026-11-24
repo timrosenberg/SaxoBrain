@@ -18,5 +18,4 @@ purchase:
 added: 2026-11-24
 aliases: []
 ---
-
-For alto saxophone and voice actor (spoken text).
+For alto saxophone and voice actor (spoken text in Dutch). A version for solo saxophone is available: [[Hans Kox - The Stranger (Alto Saxophone Solo)]].

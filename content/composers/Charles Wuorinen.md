@@ -10,6 +10,8 @@ photo:
 photo-source:
 aliases: []
 gender: Male
+race:
+  - White
 ---
 
 ![[Composer Works.base#Works]]

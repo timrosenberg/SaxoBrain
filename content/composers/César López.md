@@ -1,10 +1,11 @@
 ---
-title: "César López"
+title: César López
 slug: cesar-lopez
 nationality:
-  - "🇨🇺 Cuban"
-gender: "Male"
-race: []
+  - 🇨🇺 Cuban
+gender: Male
+race:
+  - Hispanic / Latino
 born: 1968
 died:
 wikidata:
@@ -15,6 +16,6 @@ aliases: []
 ---
 
 > [!caption]
-> Photo: [Courtesy of César López, via Magazine AM:PM](https://magazineampm.com/cesar-lopez-ensemble-de-sinceridad/)
+> Photo: [via Magazine AM:PM](https://magazineampm.com/cesar-lopez-ensemble-de-sinceridad/)
 
 ![[Composer Works.base#Works]]

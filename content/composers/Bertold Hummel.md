@@ -4,7 +4,8 @@ slug: bertold-hummel
 nationality:
   - 🇩🇪 German
 gender: Male
-race: []
+race:
+  - White
 born: 1925
 died: 2002
 wikidata: Q561080
